@@ -352,6 +352,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.bp-image-milestone {
+  border-bottom: solid 4px $secondary;
+}
+
 // Tables
 table.table-h {
   th {
