@@ -1,0 +1,49 @@
+#########################
+#        >:(            #
+# DON'T EDIT THIS FILE! #
+#        >:(            #
+#########################
+
+- title: WHAT WE DO
+  url: /digital-transformation/
+  sub-links:
+  - title: Digital Transformation
+    url: /digital-transformation/
+  - title: Initiatives
+    url: /initiatives/
+  - title: Get Involved
+    url: /get-involved/
+- title: WHO WE ARE
+  url: /who-we-are/our-role/
+  sub-links:
+  - title: Our Role
+    url: /who-we-are/our-role/
+  - title: Our Journey
+    url: /who-we-are/our-journey/
+  - title: Our Awards
+    url: /who-we-are/our-awards/
+  - title: Our Team
+    url: /who-we-are/our-team/
+- title: JOIN US
+  url: https://www.tech.gov.sg/Sub/Careers
+  external: true
+- title: TECHNEWS
+  url: https://medium.com/technewssg
+  external: true
+- title: MEDIA
+  url: /media/
+  sub-links:
+  - title: All
+    url: /media/
+  - title: Corporate Publications
+    url: /media/corporate-publications/
+  - title: Events
+    url: /media/events/
+  - title: Facts and Figures
+    url: /media/facts-and-figures/
+  - title: Media Releases
+    url: /media/media-releases/
+  - title: Speeches
+    url: /media/speeches/
+- title: CONTACT US
+  url: /contact-us/

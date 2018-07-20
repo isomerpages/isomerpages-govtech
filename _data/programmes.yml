@@ -1,0 +1,17 @@
+- title: Beeline
+  category: CITIZEN
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+  img: images/programmes/initiatives/BeeLine.png
+  bg-color: bg-beeline
+
+- title: ParkingSG
+  category: CITIZEN
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+  img: images/programmes/initiatives/ParkingSG.png
+  bg-color: bg-parkingsg
+
+- title: SingPass
+  category: CITIZEN
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+  img: images/programmes/initiatives/SingPass.png
+  bg-color: bg-singpass
