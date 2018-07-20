@@ -12,6 +12,11 @@ hero-title: Empowering our nation through technology
 hero-subtitle: From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, GovTech uses technology to improve the lives of everyone in Singapore.
 hero-banner: images/banner_GovTech.png
 
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/our-role/
+
 # Key Highlights
 key-highlights:
   - title: Our Story
