@@ -1,4 +1,4 @@
-# Welcome to Blueprint! 
+# Welcome to Blueprint!
 
 ## Why Markdown and YAML?
 
