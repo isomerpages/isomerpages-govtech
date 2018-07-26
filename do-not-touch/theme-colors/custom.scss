@@ -158,6 +158,14 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
+//Accordion
+
+.bp-accordion-button {
+  &.sgds-icon-minus {
+    color: $secondary;
+  }
+}
+
 // Button
 
 .bp-button.is-text span {
