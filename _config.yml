@@ -42,6 +42,8 @@ breadcrumbs:
     image: false # Show image or title text
 
 collections:
+  join-us:
+    output: true
   who-we-are:
     output: true
   initiatives:

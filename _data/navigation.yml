@@ -25,8 +25,17 @@
   - title: Our Team
     url: /who-we-are/our-team/
 - title: JOIN US
-  url: https://www.tech.gov.sg/Sub/Careers
-  external: true
+  url: /careers/why-govtech/
+  sub-links:
+  - title: Why GovTech
+    url: /careers/why-govtech/
+  - title: Professionals
+    url: /careers/professionals/
+  - title: Students and Graduates
+    url: /careers/students-and-graduates/
+  - title: Apply Now
+    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
+    external: true
 - title: TECHNEWS
   url: https://medium.com/technewssg
   external: true
