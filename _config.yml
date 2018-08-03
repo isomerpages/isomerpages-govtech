@@ -42,7 +42,7 @@ breadcrumbs:
     image: false # Show image or title text
 
 collections:
-  join-us:
+  careers:
     output: true
   who-we-are:
     output: true

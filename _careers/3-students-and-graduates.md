@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Students and Graduates
 permalink: /careers/students-and-graduates/
 breadcrumb: Students and Graduates
-collection_name: join-us
+collection_name: careers
 ---
 
 ### **Internships**

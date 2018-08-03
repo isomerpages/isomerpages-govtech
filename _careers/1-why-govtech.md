@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Why GovTech
 permalink: /careers/why-govtech/
 breadcrumb: Why GovTech
-collection_name: join-us
+collection_name: careers
 ---
 
 > "We harness the transformative power of info-communications technology and related engineering, to deliver user-centric services for Singapore and Singaporeans. We want you to be part of our vision to establish Singapore as a Smart Nation, a nation of possibilities empowered through technology."

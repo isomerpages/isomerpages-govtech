@@ -4,6 +4,9 @@
 #                                #
 ##################################
 
+# Favicon
+favicon: /images/favicon-govtech.ico
+
 # Agency logo
 agency-logo: /images/logo_govtech.svg
 
