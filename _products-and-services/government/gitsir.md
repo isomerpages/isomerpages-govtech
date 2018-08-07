@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: Government IT Security Incident Response (GITSIR) Team 
-permalink: /initiatives/gitsir/
+permalink: /products-and-services/gitsir/
 breadcrumb: Government IT Security Incident Response (GITSIR) Team 
-collection_name: initiatives
+collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
 Government IT Security Incident Response (GITSIR) Team was formed to support the IT Security Incident Framework for the Government. It serves as a primary point of contact for all security incidents in the Government and serves as a central interface for coordinating with external parties such as other government agencies, external organisations, Internet Service Providers and law enforcement.

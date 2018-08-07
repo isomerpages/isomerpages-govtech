@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: InnoLeap
-permalink: /initiatives/innoleap/
+permalink: /products-and-services/innoleap/
 breadcrumb: InnoLeap
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test.jpg
+thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
 ### **Introduction**
@@ -15,7 +15,7 @@ The InnoLeap programme brings together public sector agencies with challenging p
 
 ### **About the InnoLeap**
 
-![InnoLeap Programme]({{"/images/programmes/initiatives/Innoleap-Logo.jpg" | absolute_url }})
+![InnoLeap Programme]({{"/images/programmes/products-and-services/Innoleap-Logo.jpg" | absolute_url }})
 
 The InnoLeap programme offers a series of platforms which serve as a catalyst for transforming problem statements into innovative solutions in a digital ecosystem. These highly interactive platforms raise awareness of technologies and facilitate the exchange of business needs and technology ideas between public sector agencies and solution providers. Through these, challenges and problem statements are identified for innovative solutioning and implementation.
 

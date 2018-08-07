@@ -1,14 +1,14 @@
 ---
 layout: simple-page
 title: Smart Nation Fellowship Programme
-permalink: /initiatives/smart-nation-fellowship-programme/
+permalink: /products-and-services/smart-nation-fellowship-programme/
 breadcrumb: Smart Nation Fellowship Programme
-collection_name: initiatives
+collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
-![Smart Nation Fellowship]({{"/images/programmes/initiatives/SNFP_web banner.png" | absolute_url }})
+![Smart Nation Fellowship]({{"/images/programmes/products-and-services/SNFP_web banner.png" | absolute_url }})
 
 Singapore is embarking on a journey to become the world’s first Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. As we build a Smart Nation, Singapore needs to develop a strong nucleus of innovative engineering and technology talent within the government who are able to leverage cutting edge technology trends and build meaningful digital and data solutions that can help improve the lives of citizens.
 

@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: National Authentication Framework (NAF)
-permalink: /initiatives/national-authentication-framework/
+permalink: /products-and-services/national-authentication-framework/
 breadcrumb: National Authentication Framework (NAF)
-collection_name: initiatives
+collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
 The National Authentication Framework (NAF) seeks to realise the vision of the iN2015 masterplan for a secure and trusted enabling infocomm infrastructure that can facilitate the delivery of online services by the public and private sectors.
