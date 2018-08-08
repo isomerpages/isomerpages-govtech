@@ -3,8 +3,6 @@ layout: post
 title:  "CorpPass to be the only login method for businesses to transact with the Government from Q3 2018"
 permalink: /media/media-releases/corppass-to-be-the-only-login-method
 date: 2017-12-18
-image: /images/programmes/initiatives/test.jpg
-
 ---
 More than 80 per cent of businesses that have regular transactions with the Government have registered for and started using Singapore Corporate Access (CorpPass), to better protect and manage their corporate data. CorpPass is another initiative which demonstrates Singapore’s commitment to create better efficiencies and a more secure digital ecosystem for businesses to thrive in a Smart Nation.
 

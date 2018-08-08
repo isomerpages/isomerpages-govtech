@@ -39,17 +39,17 @@ key-highlights:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title: Programmes
+programmes-title: Products and Services
 programmes-subtitle: Co-creating for better value
 programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Programmes
-programmes-more-button-url: /blueprint-govtech-staging/initiatives/
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/
 
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
 resources-more-button: More Media
-resources-more-button-url: /blueprint-govtech-staging/media/
+resources-more-button-url: /media/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
@@ -57,5 +57,5 @@ careers-title: Careers
 careers-subtitle: Be part of the digital transformation
 careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
 careers-more-button: Explore Opportunities
-careers-more-button-url: https://www.tech.gov.sg/sub/careers
+careers-more-button-url: /careers/why-govtech/
 
