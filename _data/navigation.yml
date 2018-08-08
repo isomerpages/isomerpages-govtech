@@ -4,16 +4,16 @@
 #        >:(            #
 #########################
 
-- title: WHAT WE DO
+- title: Digital Transformation
   url: /digital-transformation/
   sub-links:
-  - title: Digital Transformation
+  - title: Overview
     url: /digital-transformation/
-  - title: Initiatives
-    url: /initiatives/
+  - title: Products and Services
+    url: /products-and-services/
   - title: Get Involved
     url: /get-involved/
-- title: WHO WE ARE
+- title: Who We Are
   url: /who-we-are/our-role/
   sub-links:
   - title: Our Role
@@ -24,7 +24,7 @@
     url: /who-we-are/our-awards/
   - title: Our Team
     url: /who-we-are/our-team/
-- title: CAREERS
+- title: Careers
   url: /careers/why-govtech/
   sub-links:
   - title: Why GovTech
@@ -36,10 +36,10 @@
   - title: Apply Now
     url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
     external: true
-- title: TECHNEWS
+- title: TechNews
   url: https://medium.com/technewssg
   external: true
-- title: MEDIA
+- title: Media
   url: /media/
   sub-links:
   - title: All
@@ -54,5 +54,5 @@
     url: /media/media-releases/
   - title: Speeches
     url: /media/speeches/
-- title: CONTACT US
+- title: Contact Us
   url: /contact-us/

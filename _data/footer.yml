@@ -4,13 +4,13 @@
 #        >:(            #
 #########################
 
-- title: What We Do
+- title: Digital Transformation
   url: /digital-transformation/
   sub-links:
-  - title: Digital Transformation
+  - title: Overview
     url: /digital-transformation/
-  - title: Initiatives
-    url: /initiatives/
+  - title: Products and Services
+    url: /products-and-services/
   - title: Get Involved
     url: /get-involved/
 - title: Who We Are
@@ -24,23 +24,33 @@
     url: /who-we-are/our-awards/
   - title: Our Team
     url: /who-we-are/our-team/
+- title: Careers
+  url: /careers/why-govtech/
+  sub-links:
+  - title: Why GovTech
+    url: /careers/why-govtech/
+  - title: Professionals
+    url: /careers/professionals/
+  - title: Students and Graduates
+    url: /careers/students-and-graduates/
+  - title: Apply Now
+    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
+    external: true
+- title: TechNews
+  url: https://medium.com/technewssg
+  external: true
 - title: Media
   url: /media/
   sub-links:
+  - title: All
+    url: /media/
   - title: Corporate Publications
     url: /media/corporate-publications/
   - title: Events
     url: /media/events/
   - title: Facts and Figures
     url: /media/facts-and-figures/
-  - title: Speeches
-    url: /media/speeches/
   - title: Media Releases
     url: /media/media-releases/
-- title: CAREERS
-  url: https://www.tech.gov.sg/Sub/Careers
-  external: true
-  sub-links:
-    - title: TechNews
-      url: https://medium.com/technewssg
-      external: true
+  - title: Speeches
+    url: /media/speeches/

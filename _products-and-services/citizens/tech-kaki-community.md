@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: Tech Kaki Community
-permalink: /initiatives/tech-kaki-community/
+permalink: /products-and-services/tech-kaki-community/
 breadcrumb: Tech Kaki Community
-collection_name: initiatives
+collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/initiatives/test2.jpg
+thumbnail_image: /images/programmes/products-and-services/test2.jpg
 ---
 
 We want to solve problems. In fact, we want to solve problems with you!

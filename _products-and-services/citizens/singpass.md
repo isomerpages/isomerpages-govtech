@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: SingPass
-permalink: /initiatives/singpass/
+permalink: /products-and-services/singpass/
 breadcrumb: SingPass
-collection_name: initiatives
+collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/initiatives/test2.jpg
+thumbnail_image: /images/programmes/products-and-services/test2.jpg
 ---
 
 [SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login){:target="_blank"}, which stands for Singapore Personal Access, is an authentication system for citizens to access to all Government e-services. 

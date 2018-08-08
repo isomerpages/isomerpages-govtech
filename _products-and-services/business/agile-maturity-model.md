@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: Agile Maturity Model
-permalink: /initiatives/agile-maturity-model/
+permalink: /products-and-services/agile-maturity-model/
 breadcrumb: Agile Maturity Model
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test2.jpg
+thumbnail_image: /images/programmes/products-and-services/test2.jpg
 ---
 
 Agile Development is a software development methodology that is characterised by iterative and incremental development, and demonstrating significant productivity benefits such as faster time-to-markets for development and cost-savings for customers. 
@@ -14,8 +14,8 @@ In order to encourage adoption of agile development, GovTech has developed the A
 
 For more information about Agile Maturity Model (AMM), files are listed here for you to download:
 
-* [AMM Part 1 - Agile Practices]({{"/initiatives/files/Agile-Maturity-Model-Pt-1-Agile-Practices.pdf" | absolute_url }}){:target="_blank"}
-* [AMM Part 2 - Common Software Practices]({{"/initiatives/files/Agile-Maturity-Model-Pt-2-Common-Software-Practices.pdf" | absolute_url }}){:target="_blank"}
+* [AMM Part 1 - Agile Practices]({{"/products-and-services/files/Agile-Maturity-Model-Pt-1-Agile-Practices.pdf" | absolute_url }}){:target="_blank"}
+* [AMM Part 2 - Common Software Practices]({{"/products-and-services/files/Agile-Maturity-Model-Pt-2-Common-Software-Practices.pdf" | absolute_url }}){:target="_blank"}
 
 
 For SMEs that are interested in building agile development capabilities within their organization, they can leverage on the Infocomm Productivity and Capability Services (iPCS) initiative. 

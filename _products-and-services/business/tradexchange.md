@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: TradeXchange
-permalink: /initiatives/tradexchange/
+permalink: /products-and-services/tradexchange/
 breadcrumb: TradeXchange
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test2.jpg
+thumbnail_image: /images/programmes/products-and-services/test2.jpg
 ---
 
 TradeXchange is a multi-agency initiative led by Singapore Customs (SC), EDB, SPRING and GovTech.

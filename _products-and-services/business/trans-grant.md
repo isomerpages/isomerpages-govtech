@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: TRANS Grant
-permalink: /initiatives/trans-grant/
+permalink: /products-and-services/trans-grant/
 breadcrumb: TRANS Grant
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test.jpg
+thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
 ### **Introduction**
