@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: Technology Associate Programme
-permalink: /initiatives/technology-associate-programme/
+permalink: /products-and-services/technology-associate-programme/
 breadcrumb: Technology Associate Programme
-collection_name: initiatives
+collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
 The Technology Associate Programme, otherwise known as TAP, is an exclusive leadership-trainee programme carefully designed to develop your technical knowledge and professional skills. Upon selection, you’ll participate in 24 months of specialist training and be groomed to take on technical roles within GovTech that will accelerate your career development.
