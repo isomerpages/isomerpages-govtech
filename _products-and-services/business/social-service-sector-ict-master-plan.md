@@ -1,11 +1,11 @@
 ---
 layout: simple-page
 title: Social Service Sector ICT Master Plan
-permalink: /initiatives/social-service-sector-ict-master-plan/
+permalink: /products-and-services/social-service-sector-ict-master-plan/
 breadcrumb: Social Service Sector ICT Master Plan
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
 The Social Service Sector experiences dynamic changes in the review and deployment of programmes to better serve clients’ needs.

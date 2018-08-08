@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Empowering our nation through technology. From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, 
   GovTech uses technology to improve the lives of everyone in Singapore.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://beta.tech.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -46,7 +46,7 @@ collections:
     output: true
   who-we-are:
     output: true
-  initiatives:
+  products-and-services:
     output: true
 
 # Resource Room and Pagination

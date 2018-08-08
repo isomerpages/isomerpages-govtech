@@ -1,14 +1,14 @@
 ---
 layout: simple-page
 title: National Trade Platform
-permalink: /initiatives/national-trade-platform/
+permalink: /products-and-services/national-trade-platform/
 breadcrumb: National Trade Platform
-collection_name: initiatives
+collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/initiatives/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
-![National Trade Platform]({{"/images/programmes/initiatives/NTP-Infographic.jpg" | absolute_url }})
+![National Trade Platform]({{"/images/programmes/products-and-services/NTP-Infographic.jpg" | absolute_url }})
 
 
 To improve Singapore’s competitiveness as the world’s leading trade, supply chain and trade financing hub, it was announced in Budget 2016 that the Singapore Government will develop a National Trade Platform (NTP). The NTP will support firms, particularly in the logistics and trade finance sectors, to improve supply chain visibility and efficiency.
