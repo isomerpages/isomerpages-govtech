@@ -37,7 +37,6 @@ GovTech partners with 6 other public agencies (BCA, JTC, NEA, PUB, SLA and URA) 
 ### **National Infocomm Scholarships**
 Infocomm drives innovation and powers business transformation while enhancing lives. If you have the passion for infocomm and want to make a difference, take your first steps towards an exciting career in the growing and thriving infocomm industry. Its multitude of fields, such as digital media, games development, security and networking, and mobile technology, reflects its ever-increasing influence on the way we live today - and tomorrow. With so many possibilities, a career in infocomm will definitely take you places – the future being the first stop:
 
-* National Infocomm Scholarship (NIS) [https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS](http://github.com){:target="_blank"}
+[* National Infocomm Scholarship (NIS)](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
 
-* Infocomm Polytechnic Scholarship  [https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/iPoly](http://github.com){:target="_blank"}
-
+[* Infocomm Polytechnic Scholarship](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
