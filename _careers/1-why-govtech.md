@@ -12,4 +12,6 @@ collection_name: careers
 
 Our people are our greatest assets and form the “heart-ware” of all we do. We embrace that learning is never done. We are constantly challenged to sharpen our professional skill sets and to take charge of our own development. We live and breathe our ABC values. 
 
+![Why GovTech - ABC Values]({{"/images/careers/why-govtech-abc.png" | absolute_url}})
+
 ![Why GovTech - Agile Bold Collaborative]({{"/images/careers/why-govtech-abc.png" | absolute_url }})
