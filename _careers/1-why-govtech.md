@@ -23,3 +23,6 @@ Our people are our greatest assets and form the “heart-ware” of all we do. W
 ### **Our Heartbeat**
 
 We prioritise the well-being of YOU and are committed to help you feel refreshed and fulfilled both in and out of work, without losing sight of what matters to you.
+
+
+![GovTech Benefits]({{"/images/careers/Benefits_Website_PursuingGoals.png" | absolute_url }})
