@@ -6,7 +6,7 @@ date: 2018-08-23
 ---
 > More than nine in 10 businesses are using CorpPass 
 
-From 1 September 2018, Singapore Corporate Access (CorpPass) will be the single login method for businesses to transact with more than 140 government digital services, replacing SingPass and EASY[1]. 
+From 1 September 2018, Singapore Corporate Access (CorpPass) will be the single login method for businesses to transact with more than 140 government digital services, replacing SingPass and EASY <sup>[1]</sup>
  
 Following the launch of CorpPass in September 2016, more than 90 per cent of businesses are now using CorpPass to transact with government digital services.  
 
