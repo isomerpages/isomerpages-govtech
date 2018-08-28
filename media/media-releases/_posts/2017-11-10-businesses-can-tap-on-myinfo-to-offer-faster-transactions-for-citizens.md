@@ -15,7 +15,6 @@ Verified data streamlines business processes
 >“We’ve been observing how citizens transact with government, and what it takes to reduce the hassle on their part. With MyInfo made available to a wider range of business transactions, we can help remove the need to verify documents, and even reduce time spent on face-to-face meetings. This significantly improves business efficiency as companies can on-board their customers faster.”  
 `CHAN CHEOW HOE, GOVERNMENT CHIEF INFORMATION OFFICER, GOVTECH`
 
-
 Chan Cheow Hoe, Government Chief Information Officer, GovTech, said, “We’ve been observing how citizens transact with government, and what it takes to reduce the hassle on their part. With MyInfo made available to a wider range of business transactions, we can help remove the need to verify documents, and even reduce time spent on face-to-face meetings. This significantly improves business efficiency as companies can on-board their customers faster.”
 
 The provision of government-verified digital data also ensures greater accuracy in the information provided to the companies. The security and privacy of citizen data remains a key priority, similar to the bank pilot, businesses will need to seek consent from customers at the point of every transaction before any data is released for their use.
@@ -26,10 +25,19 @@ Following news of the bank pilot, GovTech has received strong interest from more
  
 The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at [https://myinfo-api.app.gov.sg](https://myinfo-api.app.gov.sg/) to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.
 
-Please see [Annex A]({{ "/files/2017-11-10/Annex A.pdf" | absolute_url }}) for the quotes from participating banks and users.
-
 --- 
 
-What is MyInfo?
+### **Related Rosources:**
+* [Annex A](/files/media/media-releases/2017/11/Annex A.pdf)
 
-MyInfo is a service for SingPass users to manage the use of their personal data when transacting online with participating government agencies and commercial entities. MyInfo users can skip filling in personal data repeatedly for every digital transaction, while enjoying greater convenience from producing fewer verification documents. MyInfo was extended to the banking sector in May 2017, with four banks piloting the use of MyInfo for opening of new bank accounts and application of credit cards.  
+### **What is MyInfo?**
+
+MyInfo is a service for SingPass users to manage the use of their personal data when transacting online with participating government agencies and commercial entities. MyInfo users can skip filling in personal data repeatedly for every digital transaction, while enjoying greater convenience from producing fewer verification documents. MyInfo was extended to the banking sector in May 2017, with four banks piloting the use of MyInfo for opening of new bank accounts and application of credit cards.
+
+### **About Smart Nation**
+Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit www.smartnation.sg.
+
+### **About Government Technology Agency of Singapore**
+The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. 
+
+Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains.
