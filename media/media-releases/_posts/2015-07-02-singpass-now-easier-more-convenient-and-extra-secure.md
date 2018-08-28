@@ -15,7 +15,14 @@ After the launch of the service on 5 July 2015, users will need to:
 2. **Set up their 2-step verification** by registering, activating and linking their OneKey token or mobile number to their SingPass account.
 “Over the years, the Government has put over 200 e-services online through SingPass in order to enable swift and convenient transactions with the Government. With the rise of cyber threats in Singapore and globally, we have added security measures like multi-factor authentication to protect SingPass users' personal data. We urge all users to avoid using the same passwords for different purposes and to avoid sharing their account information with others,” said Ms Jacqueline Poh, Managing Director of the Infocomm Development Authority of Singapore.
 
+---
+
 **ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
+
+---
+
+### **Related Rosources:**
+* [Factsheet on Singapore Personal Access (or SingPass)](/files/media/media-releases/2015/07/SingPass Factsheet  Briefing 2 Julypdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
