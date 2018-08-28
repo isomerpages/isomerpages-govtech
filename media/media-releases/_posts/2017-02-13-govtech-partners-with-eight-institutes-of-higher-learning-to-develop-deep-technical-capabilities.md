@@ -33,6 +33,11 @@ Ms Jacqueline Poh, Chief Executive, GovTech, said, “We believe that an active 
 
 ---
 
+### **Related Rosources:**
+* [Annex A – Factsheet on MOU/MOIs with IHLs](/files/media/media-releases/2017/02/Annex A MOU Factsheet.pdf)
+* [Annex B – Factsheet on InnoLeap](/files/media/media-releases/2017/02/Annex B InnoLeap Factsheet.pdf)
+* [Annex C – Quotes from IHLs](/files/media/media-releases/2017/02/Annex C Quotes From IHLs.pdf)
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 
