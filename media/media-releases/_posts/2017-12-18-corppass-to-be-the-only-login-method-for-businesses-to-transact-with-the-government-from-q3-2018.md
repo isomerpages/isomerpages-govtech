@@ -4,6 +4,8 @@ title:  "CorpPass to be the only login method for businesses to transact with th
 permalink: /media/media-releases/corppass-to-be-the-only-login-method
 date: 2017-12-18
 ---
+> More than eight in 10 businesses now using CorpPass
+
 More than 80 per cent of businesses that have regular transactions with the Government have registered for and started using Singapore Corporate Access (CorpPass), to better protect and manage their corporate data. CorpPass is another initiative which demonstrates Singapore’s commitment to create better efficiencies and a more secure digital ecosystem for businesses to thrive in a Smart Nation.
 
 The Government Technology Agency (GovTech) expects more than 250,000 active businesses to use CorpPass, which will be the only login method for online corporate transactions with the Government from Q3 2018.
@@ -26,10 +28,19 @@ In addition to the existing suite of digital services managed by over 50 Governm
 
 For more information on CorpPass, users can email [support@corppass.gov.sg](mailto:support@corppass.gov.sg) or find online resources on [www.corppass.gov.sg](https://www.corppass.gov.sg). 
 
+---
+
+**Issued by Communications and Marketing Group**  
+**Government Technology Agency of Singapore**
 
 ---
-**Issued by Communications and Marketing Group**  
-Government Technology Agency of Singapore
 
-[Annex A - Factsheet]({{ "/files/media/media-releases/Annex_A_CorpPass_Factsheet_18_Dec_2017.pdf" | absolute_url }})  
-[Annex B – List of Government digital services using CorpPass]({{"/files/2017-12-18/Annex B - Government digital services using CorpPass 18 Dec 2017.pdf"}})
+### **Related Rosources:**
+* [Annex A](/files/media/media-releases/2017/12/Annex_A_CorpPass_Factsheet_18_Dec_2017.pdf" | absolute_url)  
+* [Annex B](/files/media/media-releases/2017/12/Annex B - Government digital services using CorpPass 18 Dec 2017.pdf)
+
+###**About Government Technology Agency of Singapore**
+The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. 
+GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
+
+For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG. 
