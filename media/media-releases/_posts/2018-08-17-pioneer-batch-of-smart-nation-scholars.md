@@ -26,14 +26,14 @@ The recipients will go on to undertake national projects in the Cyber Security A
  
 
 
-## **About Cyber Security Agency**
+### **About Cyber Security Agency**
 The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised oversight of national cyber security functions and works with sector leads to protect Singapore’s critical services. It also engages with various industries, and stakeholders to heighten cyber security awareness as well as to ensure the holistic development of Singapore’s cyber security landscape. The Agency is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information. For more information, please visit www.csa.gov.sg
 
 
-## **About Government Technology Agency** 
+### **About Government Technology Agency** 
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. 
 
 Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
-## **About Infocomm Media Development Authority**
+### **About Infocomm Media Development Authority**
 The Infocomm Media Development Authority (IMDA) leads Singapore’s digital transformation with infocomm media. To do this, IMDA will develop a dynamic digital economy and a cohesive digital society, driven by an exceptional infocomm media (ICM) ecosystem – by developing talent, strengthening business capabilities, and enhancing Singapore's ICM infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment, and enhances Singapore’s data protection regime through the Personal Data Protection Commission. For more news and information, visit www.imda.gov.sg or follow IMDA on Facebook IMDAsg and Twitter @IMDAsg.
