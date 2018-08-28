@@ -24,7 +24,8 @@ For more information on CorpPass, users can visit www.corppass.gov.sg, email sup
 * Main Lobby Level 1, Revenue House, 55 Newton Road; or 
 * Level 3, HDB Hub, 480 Lorong 6 Toa Payoh
 
-## **About Government Technology Agency of Singapore (GovTech)**
+
+### **About Government Technology Agency of Singapore (GovTech)**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Info-communications Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. 
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. 
@@ -35,10 +36,13 @@ For more information, please visit tech.gov.sg or follow us on Facebook.com/GovT
 
 ---
 
-[1] E-Services Authorisation System (EASY) is an online digital service authorisation system currently used by some agencies including the Inland Revenue Authority of Singapore, JTC Corporation and the Immigration Checkpoints Authority of Singapore.  
+<sup>[1]</sup> E-Services Authorisation System (EASY) is an online digital service authorisation system currently used by some agencies including the Inland Revenue Authority of Singapore, JTC Corporation and the Immigration Checkpoints Authority of Singapore.
 
 ---
 
-ISSUED BY COMMUNICATIONS AND MARKETING GROUPGOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE
+**ISSUED BY COMMUNICATIONS AND MARKETING GROUP**
+
+**GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
 
 ---
+
