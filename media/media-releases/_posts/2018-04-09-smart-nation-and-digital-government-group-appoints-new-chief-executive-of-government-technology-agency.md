@@ -23,10 +23,10 @@ Under her stewardship, GovTech set up the Government Digital Services at Hive to
 * Annex A – Biography of Mr Kok Ping Soon
 * Annex B – Biography of Ms Jacqueline Poh
 
-## **About Smart Nation and Digital Government Office (SNDGO)**
+### **About Smart Nation and Digital Government Office (SNDGO)**
 The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.
 
-## **About Government Technology Agency of Singapore (GovTech)**
+### **About Government Technology Agency of Singapore (GovTech)**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Info-communications Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. 
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. 
