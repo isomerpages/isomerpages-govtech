@@ -38,7 +38,7 @@ As part of its launch, GovTech will be organising a public exhibition at the foy
 
 ---
 
-ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
+**ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
 
 ---
 
