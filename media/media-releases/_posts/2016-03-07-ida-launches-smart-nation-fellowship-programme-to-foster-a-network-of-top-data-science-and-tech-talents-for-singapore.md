@@ -26,6 +26,9 @@ For more information on the Smart Nation Fellowship Programme, please visit http
 
 ---
 
+### **Related Rosources:**
+* [Annex A: Smart Nation Fellowship Programme Factsheet](/files/media/media-releases/2016/03/Annex ASmart Nation Fellowship Prog Factsheetpdf.pdf)
+
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
 
