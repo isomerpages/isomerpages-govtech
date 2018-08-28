@@ -30,6 +30,10 @@ Please refer to Annex A for a quote from the CEO & Founder, CommGate.
 
 ---
 
+### **Related Rosources:**
+* [Annex A - Quote from CEO & Founder CommGate](/files/media/media-releases/2017/06/Annex A CEOFounderCommGate.pdf)
+
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 
