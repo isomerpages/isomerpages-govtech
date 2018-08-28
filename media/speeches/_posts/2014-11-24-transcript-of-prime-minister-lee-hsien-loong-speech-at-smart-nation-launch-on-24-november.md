@@ -5,7 +5,7 @@ permalink: "/media/speeches/transcript-of-prime-minister-lee-hsien-loong-speech-
 category: speeches
 ---
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/watch?v=jGMbqpVRo9I&feature=youtu.be" frameborder="0" allow="autoplay;  encrypted-media" allowfullscreen>  </iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/jGMbqpVRo9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Minister Yaacob Ibrahim, Minister for Communications and Information 
