@@ -42,6 +42,18 @@ As part of its launch, GovTech will be organising a public exhibition at the foy
 
 ---
 
+### **Related Rosources:**
+* [GovTech Factsheet](/files/media/media-releases/2016/10/1 GovTech Factsheet.pdf)
+* [MyInfo Factsheet](/files/media/media-releases/2016/10/2 MyInfo Factsheet.pdf)
+* [CorpPass Factsheet](/files/media/media-releases/2016/10/3 CorpPass Factsheet.pdf)
+* [National Trade Platform Factsheet](/files/media/media-releases/2016/10/4 National Trade Platform Factsheet.pdf)
+* [Smart Nation Platform Factsheet](/files/media/media-releases/2016/10/5 Smart Nation Platform Factsheet.pdf)
+* [GovTech Capability Centres Factsheet](/files/media/media-releases/2016/10/6 GovTech Capability Centres Factsheet.pdf)
+* [Pulse of the Economy Factsheet](/files/media/media-releases/2016/10/7 Pulse of the Economy Factsheet.pdf)
+* [Smart Nation Fellowship Programme Factsheet](/files/media/media-releases/2016/10/8 Smart Nation Fellowship Programme Factsheet.pdf)
+* [Data.gov.sg Factsheet](/files/media/media-releases/2016/10/9 Datagovsg Factsheet.pdf)
+* [GovTech Exhibits Factsheet](/files/media/media-releases/2016/10/10 GovTech Exhibits Factsheet.pdf)
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a new statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 
