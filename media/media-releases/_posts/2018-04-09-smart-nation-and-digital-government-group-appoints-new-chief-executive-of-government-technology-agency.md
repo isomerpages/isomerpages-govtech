@@ -18,10 +18,16 @@ Under her stewardship, GovTech set up the Government Digital Services at Hive to
 
 “GovTech welcomes Ping Soon, who will build on the strong foundation laid by Jacqueline. Ping Soon is a person who cares for people, and I expect he will continue to develop the most important capability in GovTech - the people and its culture - further strengthening and embedding the changes that Jacqueline initiated,” added Mr Ng. 
 
+---
 
 **JOINTLY ISSUED BY SMART NATION AND DIGITAL GOVERNMENT OFFICE AND  GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-* Annex A – Biography of Mr Kok Ping Soon
-* Annex B – Biography of Ms Jacqueline Poh
+
+---
+
+### **Related Rosources:**
+* [Annex A - Biography of Mr Kok Ping Soon](/files/media/media-releases/Annex A - Biography of Mr Kok Ping Soon.pdf)
+* [Annex B - Biography of Ms Jacqueline Poh](/files/media/media-releases/Annex B - Biography of Ms Jacqueline Poh.pdf)
+
 
 ### **About Smart Nation and Digital Government Office (SNDGO)**
 The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.
