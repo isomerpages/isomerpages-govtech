@@ -39,11 +39,11 @@ Singapore Customs is also developing a customs intelligence & investigation syst
 ---
 
 ### **Related Resources:**
-* Annex A - Singapore Government Cloud Computing Fact Sheet
-* Annex B - Data & Analytics Apps4SG Fact Sheet
-* Annex C - Data & Analytics Social Analytics CFC Fact Sheet
-* Annex D - Cyber Watch Centre Fact Sheet
-* Annex E - Centralised Provisioning of Data Encryption Products & Services Fact Sheet
+* [Annex A - Singapore Government Cloud Computing Fact Sheet](/files/media/media-releases/2013/06/AnnexApdf.pdf)
+* [Annex B - Data & Analytics Apps4SG Fact Sheet](/files/media/media-releases/2013/06/AnnexBpdf.pdf)
+* [Annex C - Data & Analytics Social Analytics CFC Fact Sheet](/files/media/media-releases/2013/06/AnnexCpdf.pdf)
+* [Annex D - Cyber Watch Centre Fact Sheet](/files/media/media-releases/2013/06/AnnexDpdf.pdf)
+* [Annex E - Centralised Provisioning of Data Encryption Products & Services Fact Sheet](/files/media/media-releases/2013/06/AnnexEpdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
