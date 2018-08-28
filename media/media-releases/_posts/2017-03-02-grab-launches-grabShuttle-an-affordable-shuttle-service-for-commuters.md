@@ -12,7 +12,6 @@ date: 2017-03-02
 <sub>Image: Screenshots of GrabShuttle app</sub>
 
 
-
 Grab, the leading ride-hailing platform in Southeast Asia, in collaboration with the Government Technology Agency of Singapore (GovTech), today launched GrabShuttle, a beta shuttle bus service mobile application to move larger groups of individual commuters affordably from door to door. Starting today, commuters can use the GrabShuttle app to pre-book seats on 15 selected routes, with more routes to be added in the following months. The GrabShuttle app is powered by Beeline, an open smart mobility platform to enable data-driven shuttle bus services developed by GovTech in collaboration with the Land Transport Authority.
 
 “We see GrabShuttle as a public transport connector that links residential estates to MRT stations, business centres and underserved locations like army camps, schools, industrial estates. This is Grab’s third new transport service launched in the last three months, and is part of Grab’s car-lite agenda to supplement Singapore’s public transport network with affordable and adaptable shared transportation services. Priced between public transport and carpooling services, GrabShuttle offers consumers who want greater speed and accessibility in their daily commute, while keeping within a budget,” said Lim Kell Jay, Head of Grab Singapore.
@@ -64,6 +63,9 @@ To suggest and crowd-start new routes, individuals and corporates can visit Grab
 **JOINTLY ISSUED BY GRAB AND GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
 
 ---
+
+### **Related Rosources:**
+* [Beeline Factsheet](/files/media/media-releases/2017/03/Beeline Factsheet.pdf)
 
 ### **About Grab**
 Grab is Southeast Asia’s leading ride-hailing platform. Grab solves critical transportation challenges to make transport freedom a reality for 620 million people in Southeast Asia. Grab’s core product platform includes commuting solutions for drivers and passengers with an emphasis on convenience, safety and reliability, as well as its proprietary mobile payments platform, GrabPay. Grab currently offers services in Singapore, Indonesia, Philippines, Malaysia, Thailand and Vietnam. For more information, please visit: http://www.grab.com. 
