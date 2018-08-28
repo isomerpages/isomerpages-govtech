@@ -36,7 +36,7 @@ For more information on CorpPass, users can email [support@corppass.gov.sg](mail
 ---
 
 ### **Related Rosources:**
-* [Annex A](/files/media/media-releases/2017/12/Annex_A_CorpPass_Factsheet_18_Dec_2017.pdf")  
+* [Annex A](/files/media/media-releases/2017/12/Annex_A_CorpPass_Factsheet_18_Dec_2017.pdf)  
 * [Annex B](/files/media/media-releases/2017/12/Annex B - Government digital services using CorpPass 18 Dec 2017.pdf)
 
 ###**About Government Technology Agency of Singapore**
