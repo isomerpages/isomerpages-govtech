@@ -27,7 +27,7 @@ The recipients will go on to undertake national projects in the Cyber Security A
 ---
 
 ### **Related Resources**
-* [Annex - SN Scholarship Awardees](/files/media/media-releases/Annex - SN Scholarship Awardees.pdf)
+* [Annex - SN Scholarship Awardees](/files/media/media-releases/2018/08/Annex - SN Scholarship Awardees.pdf)
 
 
 ### **About Cyber Security Agency**
