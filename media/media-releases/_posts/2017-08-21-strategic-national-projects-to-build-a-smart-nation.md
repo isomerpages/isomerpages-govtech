@@ -6,7 +6,7 @@ date: 2017-08-21
 ---
 The Smart Nation initiative is about harnessing the full power and potential of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient Government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city.
 
-**Why the push for a Smart Nation?**
+### **Why the push for a Smart Nation?**
 
 At the fundamental level, Smart Nation is about making daily transactions easy and seamless, be it making a payment, applying for a permit, etc. The technology that enables this smooth process should be invisible, and the design should be intuitive, so that the solution is not just convenient, but a delight to use. At a broader level, Smart Nation is about achieving efficiencies and effectiveness, be it leveraging sensors and data to better manage traffic or monitor security threats. Cost savings brought about by digitisation is also key to growing businesses. Citizens can use technology to improve quality of life, be it through monitoring health, reducing time spent on administrative tasks, or planning commutes, etc. But most importantly, Smart Nation is about transforming Singapore’s economy, and ensuring that there will be jobs and opportunities in the future. 
 
@@ -23,7 +23,7 @@ As part of the Smart Nation journey, the Government has also been actively using
 
 ![Alternative text for screen readers]({{"/images/media-release/Strategic National Projects Infographic.jpg" | absolute_url}})
 
-**Strategic National Projects**
+### **Strategic National Projects**
 
 However, there is a real danger that Singapore could fall behind in emerging areas, such as e-payments and digital identity systems. Singapore needs to do more, and with a renewed sense of urgency. The Government is therefore taking a more integrated approach to lay the foundation infrastructure, and drive pervasive adoption of digital and smart technologies throughout the economy and society. In the immediate months, the Government will focus on the following strategic national projects:
 
