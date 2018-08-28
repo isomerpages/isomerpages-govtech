@@ -20,10 +20,14 @@ The Smart Nation Scholarship recipients will be pursuing undergraduate studies i
  
 The recipients will go on to undertake national projects in the Cyber Security Agency of Singapore (CSA), Government Technology Agency of Singapore (GovTech) and Infocomm Media Development Authority (IMDA). They will be groomed for various information & communications technology (ICT) leadership roles in the public sector, with opportunities to work on a diverse range of cybersecurity work, and shape Singapore’s infocomm and media ecosystem.
 
+---
 
 **JOINTLY ISSUED BY CYBER SECURITY AGENCY, GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE, AND INFOCOMM MEDIA DEVELOPMENT AUTHORITY.** 
 
- 
+---
+
+### **Related Resources**
+* [Annex - SN Scholarship Awardees](/files/media/media-releases/Annex - SN Scholarship Awardees.pdf)
 
 
 ### **About Cyber Security Agency**
