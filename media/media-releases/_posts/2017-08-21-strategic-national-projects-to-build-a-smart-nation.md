@@ -34,3 +34,8 @@ However, there is a real danger that Singapore could fall behind in emerging are
 * Moments of Life, which bundles relevant government services, across different agencies, to the citizen at key moments of his life. This reduces the need for citizens to transact with multiple government agencies, for a more seamless and convenient experience.
 
 To achieve the above outcomes, the Government will actively engage citizens and businesses, respond to their feedback and needs, and create space for innovation and co-creation. The Government is also in the process of crystallising the next phase of similarly impactful projects to advance Smart Nation, and will seek views and perspectives from different sources.
+
+### **Related Rosources:**
+* [Annex A - Strategic National Projects for a Smart Nation](/files/media/media-releases/2017/08/Annex A StrategicNationalProjectsforaSmartNation.pdf)
+* [Annex B - Background Information on Digital Parking App by URA, HDB and GovTech](/files/media/media-releases/2017/08/Annex B BackgroundInformationonDigitalParkingAppbyURAHDBandGovTech.pdf)
+
