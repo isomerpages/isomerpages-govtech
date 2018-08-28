@@ -43,5 +43,18 @@ For more details, please refer to the Annexes.
 
 ---
 
+### **Related Rosources:**
+* [Annex 1: CloudStore Factsheet](/files/media/media-releases/2015/05/Annex1pdf.pdf)
+* [Annex 2: MyResponder Factsheet](/files/media/media-releases/2015/05/Annex2pdf.pdf)
+* [Annex 3: SingPass Factsheet](/files/media/media-releases/2015/05/Annex3pdf.pdf)
+* [Annex 4: CorpPass Factsheet](/files/media/media-releases/2015/05/Annex4pdf.pdf)
+* [Annex 5: Accreditation Factsheet](/files/media/media-releases/2015/05/Annex5pdf.pdf)
+* [Annex 6: Data.gov.sg Factsheet](/files/media/media-releases/2015/05/Annex6pdf.pdf)
+* [Annex 7: Hackathon@SG Factsheet](/files/media/media-releases/2015/05/Annex7pdf.pdf)
+* [Annex 8: Centre of Excellence Factsheet](/files/media/media-releases/2015/05/Annex8pdf.pdf)
+* [Annex 9: MOM’s IT Strategies and FY15 Procurement Plans Infosheet](/files/media/media-releases/2015/05/Annex9pdf.pdf)
+* [Annex 10: Digital Strategies for Libraries of the Future Factsheet](/files/media/media-releases/2015/05/Annex10pdf.pdf)
+* [Annex 11: National Trade Infrastructure & Singapore Customs Call Centre Service Factsheet](/files/media/media-releases/2015/05/Annex11pdf.pdf)
+
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
