@@ -26,6 +26,11 @@ Please refer to Annex A for more information on the MyInfo service, and Annex B 
 
 ---
 
+
+### **Related Rosources:**
+* [Annex A - What is MyInfo](/files/media/media-releases/2017/05/Annex-A - What is MyInfo.pdf)
+* [Annex B - Quotes from Participating Banks](/files/media/media-releases/2017/05/Annex-B - Quotes from participating banks.pdf)
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 
