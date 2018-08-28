@@ -35,6 +35,10 @@ Mr Ng Chee Khern, currently Permanent Secretary (PS) (Defence Development) of th
 
 ---
 
+### **Related Rosources:**
+* [Ministerial Quotes](/files/media/media-releases/2017/03/Ministerial-Quotes.pdf)
+* [Supplementary Information](/files/media/media-releases/2017/03/Supplementary_Information.pdf)
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
