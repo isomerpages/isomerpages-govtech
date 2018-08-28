@@ -35,6 +35,7 @@ Launched in 2011, the country’s open government portal, data.gov.sg, was enhan
 ---
 
 **ISSUED BY COMMUNICATIONS AND MARKETING GROUP**
+
 **GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
 
 ---
