@@ -28,5 +28,11 @@ For enquiries regarding SingPass 2FA setup, users can refer to the 2FA FAQs and 
 
 ---
 
+### **Related Rosources:**
+* [Annex 1: How do users check if they have set up their 2FA?](/files/media/media-releases/2016/07/Annex 1  How do users check if they have set up their 2FAdocxpdf.pdf)
+* [Annex 2: How do users set up their 2FA?](/files/media/media-releases/2016/07/Annex 2  How do users set up their 2FApdf.pdf)
+* [Annex 3: What should users do if they have misplaced or did not receive their 2FA PIN mailer?](/files/media/media-releases/2016/07/Annex 3  What should users do if they have misplaced or did not receive their 2FA PIN mailerpdf.pdf)
+* [Annex 4: How does the grace period work?](/files/media/media-releases/2016/07/Annex 4  How does the grace period workpdf.pdf)
+
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
