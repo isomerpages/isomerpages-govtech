@@ -36,10 +36,10 @@ For more information on CorpPass, users can email [support@corppass.gov.sg](mail
 ---
 
 ### **Related Rosources:**
-* [Annex A](/files/media/media-releases/2017/12/Annex_A_CorpPass_Factsheet_18_Dec_2017.pdf)  
-* [Annex B](/files/media/media-releases/2017/12/Annex B - Government digital services using CorpPass 18 Dec 2017.pdf)
+* [Annex A](/files/media/media-releases/2017/12/Annex A - CorpPass Factsheet_18 Dec 2017.pdf)  
+* [Annex B](/files/media/media-releases/2017/12/Annex B - Government digital services using CorpPass_18 Dec 2017.pdf)
 
-###**About Government Technology Agency of Singapore**
+### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group.
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
