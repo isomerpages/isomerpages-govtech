@@ -25,6 +25,10 @@ As part of our Smart Nation and Digital Government efforts, the Government will 
 
 ---
 
+### **Related Rosources:**
+* [Annex A - List of Participating Car Parks](/files/media/media-releases/2017/05/Annex A-List of participating car parks.pdf)
+
+
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
 
