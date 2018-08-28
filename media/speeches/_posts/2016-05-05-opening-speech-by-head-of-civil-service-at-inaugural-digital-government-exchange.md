@@ -70,5 +70,5 @@ Ladies and Gentlemen
 <sup>[1]</sup> Compared with the time taken to complete a paper-based form.
 
 ### **Related Resources**
-* Factsheet on DGX
-* Factsheet on MyInfo
+* [Factsheet on DGX](/files/media/speeches/2017/05/Factsheet on DGX 4 Maypdf.pdf)
+* [Factsheet on MyInfo](/files/media/speeches/2017/05/Factsheet on MyInfo 4 May 2016pdf.pdf)
