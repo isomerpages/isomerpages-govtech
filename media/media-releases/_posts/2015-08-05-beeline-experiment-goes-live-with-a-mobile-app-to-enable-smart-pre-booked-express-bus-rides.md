@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beeline Experiment Goes Live with a Mobile App to Enable Smart, Pre-booked Express Bus Rides"
-permalink: /media/media-releases/no-more-repetitive-form-filling-after-you-tell-us-once-for-government-services
+permalink: /media/media-releases/beeline-experiment-goes-live-with-a-mobile-app-to-enable-smart-pre-booked-express-bus-rides
 date: 2015-08-05
 ---
 The Infocomm Development Authority (IDA) and Land Transport Authority (LTA) have launched Beeline, a mobile app that allows commuters to pre-book rides on express private bus routes. LTA and IDA have partnered private bus companies such as Bus-Plus to operate the initial set of buses routes listed on the app.
@@ -23,6 +23,10 @@ The Beeline experiment is expected to run until the first quarter of next year, 
 **ISSUED BY INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE (IDA) AND LAND TRANSPORT AUTHORITY (LTA)**
 
 ---
+
+### **Related Rosources:**
+* [Annex 1: Beeline Routes](/files/media/media-releases/2015/08/Annex1pdf.pdf)
+* [Annex 2: Beeline App](/files/media/media-releases/2015/08/Annex2pdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the IDA is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook and Twitter.
