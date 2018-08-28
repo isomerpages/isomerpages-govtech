@@ -51,10 +51,10 @@ A showcase of most of these initiatives can be found at the IDA booth at the Inf
 ---
 
 ### **Related Resources:**
-* Annex A - PopulationQuery Fact Sheet
-* Annex B - Data.gov.sg Fact Sheet
-* Annex C - MOM Statistical Website Fact Sheet
-* Annex D - G-Cloud Fact Sheet
+* [Annex A - PopulationQuery Fact Sheet](/files/media/media-releases/2013/06/AnnexApdf.pdf)
+* [Annex B - Data.gov.sg Fact Sheet](/files/media/media-releases/2013/06/AnnexBpdf.pdf)
+* [Annex C - MOM Statistical Website Fact Sheet](/files/media/media-releases/2013/06/AnnexCpdf.pdf)
+* [Annex D - G-Cloud Fact Sheet](/files/media/media-releases/2013/06/AnnexDpdf.pdf)
 
 ### **About eGov Global Exchange**
 The eGov Global Exchange 2013 comprises the eGov Forum and eGov Exhibition. The eGov Forum will facilitate a more focused discussion on how infocomm technology provides governments with new possibilities and platforms for citizen engagement through Co-Creation with citizens and the private sector, so as to bring about better service delivery. The eGov Exhibition will showcase the progress and achievements of e-government initiatives by different government agencies.
