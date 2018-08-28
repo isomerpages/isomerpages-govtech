@@ -19,8 +19,8 @@ Apart from the Masterplan launch, Singapore's 3rd Annual Cyber Security Awarenes
 As part of the Alliance's efforts to promote public awareness and adoption, a new mobile application will be launched by end 2013. The application will contain features such as password strength checker and alerts pertaining to infocomm security, threats and patches.
 
 Please see attachments for the following:
-* Annex A: Factsheet on National Cyber Security Masterplan 2018
-* Annex B: Factsheet on Cyber Security Awareness Day & New Mobile Application
+* [Annex A: Factsheet on National Cyber Security Masterplan 2018](/files/media/media-releases/2013/07/AnnexApdf.pdf)
+* [Annex B: Factsheet on Cyber Security Awareness Day & New Mobile Application](/files/media/media-releases/2013/07/AnnexBpdf.pdf)
 
 ---
 
