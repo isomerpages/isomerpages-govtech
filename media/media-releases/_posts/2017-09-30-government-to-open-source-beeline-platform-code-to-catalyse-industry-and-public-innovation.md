@@ -26,7 +26,7 @@ For more information, interested members of the transport industry may write to 
 
 Developers may get in touch with the Beeline dev team by opening a GitHub issue on the repositories listed above.
 
-Enc: Beeline Factsheet
+Enc: [Beeline Factsheet](/files/media/media-releases/2017/09/Beeline Factsheet October 2017.pdf)
 
 <sup>[1]</sup> Key components of the code base that may compromise the security of the Beeline platform will not be open-sourced.
 
