@@ -24,7 +24,7 @@ Under her stewardship, GovTech set up the Government Digital Services at Hive to
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A - Biography of Mr Kok Ping Soon](/files/media/media-releases/2018/04/Annex A - Biography of Mr Kok Ping Soon.pdf)
 * [Annex B - Biography of Ms Jacqueline Poh](/files/media/media-releases/2018/04/Annex B - Biography of Ms Jacqueline Poh.pdf)
 
