@@ -80,3 +80,20 @@ The Infocomm Development Authority of Singapore (IDA) is committed to growing Si
 
 ### **About the eGov Excellence Awards**
 First introduced in 2009, as the Web Excellence Awards (WEA), the Awards aimed to recognise good government websites and encourage the continual adoption of web standards and best practices. With the rapid advancement of infocomm technologies and increasing adoption rates of mobile devices, WEA was extended into the eGov Excellence Awards (GEA) with 6 categories - websites, e-Services, m-Services, Data Sharing, People Engagement, and Shared System & Services. More info on the Awards can be found at http://www.eGEA2013.sg
+
+### **For media clarification**
+**Infocomm Development Authority of Singapore (IDA)**
+<br>
+<br>Malini Nathan (Ms)
+<br>Manager
+<br>Corporate & Marketing Communication
+<br>DID : +65 6211 0660
+<br>Email: malini_nathan@ida.gov.sg
+<br>
+<br>**Ministry of Finance (MOF)**
+<br>
+<br>Bhavani N (Ms)
+<br>Senior Associate
+<br>Corporate Communications 
+<br>DID : +65 6332 7407
+<br>Email: bhavani_n@mof.gov.sg
