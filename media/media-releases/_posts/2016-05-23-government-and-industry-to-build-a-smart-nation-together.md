@@ -30,10 +30,41 @@ These plans were announced at IDA’s annual Industry Briefing (IB), where IDA p
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex 1: GovTech Factsheet](/files/media/media-releases/2016/05/1 GovTech  Factsheet 26 Aprpdf.pdf)
 * [Annex 2: National Environment Agency’s IT Plans and Procurement for FY16 Factsheet](/files/media/media-releases/2016/05/2 National Environment Agency  Factsheet 19 Maypdf.pdf)
 * [Annex 3: Ministry of Health’s IT Plans and Procurement for FY16 Factsheet](/files/media/media-releases/2016/05/3 Ministry of Health  Factsheet 16 Maypdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
+
+### **For media clarification**
+Mehul SHAH (Mr)
+<br>Corporate & Marketing Communication, Infocomm Development Authority of Singapore
+<br>Tel: (65) 6211 1557
+<br>Email: mehul_shah@ida.gov.sg 
+<br>
+<br>Kenneth TAN (Mr)
+<br>Corporate & Marketing Communication, Infocomm Development Authority of Singapore
+<br>Tel: (65) 6211 1600
+<br>Email: kenneth_tan@ida.gov.sg  
+<br>
+<br>Minru YAN (Ms)
+<br>Corporate Communications, Ministry of Health
+<br>Tel: (65) 6325 7429
+<br>Email: yan_minru@moh.gov.sg
+<br>
+<br>Caren CHUA (Ms)
+<br>Corporate & Marketing Communication, MOH Holdings
+<br>Tel: (65) 6512 1344
+<br>Email: caren.chua@mohh.com.sg
+<br>
+<br>Dominic SEOW (Mr)
+<br>Corporate Communications Division, National Environment Agency
+<br>Tel: (65) 6731 9214
+<br>Email: dominic_seow@nea.gov.sg
+<br>
+<br>Steven NG (Mr)
+<br>Corporate & Marketing Communication Division, Workforce Development Agency
+<br>Tel: (65) 6512 1241
+<br>Email: steven_ng@wda.gov.sg
