@@ -47,3 +47,31 @@ Singapore Customs is also developing a customs intelligence & investigation syst
 
 ### **About Infocomm Development Authority of Singapore**
 The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
+
+### **For media clarification**
+**Infocomm Development Authority of Singapore**
+<br>
+<br>Christopher Koh (Mr)
+<br>Manager
+<br>Corporate and Marketing Communication
+<br>DID: +65 6211 1709
+<br>HP: +65 9144 1995     
+<br>Fax: +65 6211 2427
+<br>E-mail: christopher_koh@ida.gov.sg
+<br>
+<br>**Ministry of Defence**
+<br>
+<br>Goh Kai Shi (Ms)
+<br>Media Relations Officer
+<br>MINDEF Public Affairs
+<br>DID: +65 6307 5548
+<br>HP: +65 9784 2348
+<br>Email: Goh_Kai_Shi@starnet.gov.sg
+<br>
+<br>**Singapore Customs** 
+<br>
+<br>Patricia Bay (Ms)
+<br>Assistant Head, 
+<br>Corporate Communications
+<br>DID: +65 6355 2127
+<br>Email: Patricia_Bay@customs.gov.sg
