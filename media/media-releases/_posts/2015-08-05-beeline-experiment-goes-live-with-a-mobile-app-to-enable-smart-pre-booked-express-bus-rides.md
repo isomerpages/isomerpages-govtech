@@ -24,7 +24,7 @@ The Beeline experiment is expected to run until the first quarter of next year, 
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex 1: Beeline Routes](/files/media/media-releases/2015/08/Annex1pdf.pdf)
 * [Annex 2: Beeline App](/files/media/media-releases/2015/08/Annex2pdf.pdf)
 
@@ -33,3 +33,16 @@ The mission of the IDA is to develop information technology and telecommunicatio
 
 ### **About Land Transport Authority (LTA)**
 The Land Transport Authority (LTA) is a statutory board under the Ministry of Transport of Singapore. LTA plans the long-term transport needs of and spearheads land transport developments for our city-state. While serving commuters by providing an integrated and user-friendly transport system, LTA addresses wider issues such as sustainable development, economic growth, and community life. We also work with leading companies to develop innovative transport solutions, and making Singapore's transport system greener, cleaner, and more people-centred. For information, visit www.lta.gov.sg or follow us on Facebook and Twitter.
+
+### **For media clarification**
+Christopher KOH (Mr)
+<br>Manager, Corporate and Marketing Communication
+<br>Infocomm Development Authority of Singapore
+<br>DID: (65) 6211 1709
+<br>Email: christopher_koh@ida.gov.sg
+<br>
+<br>Sumita d/o Sreedharan
+<br>Assistant Manager, Media Relations
+<br>Land Transport Authority
+<br>DID: (65) 6396 1948
+<br>Email: media@lta.gov.sg
