@@ -43,7 +43,7 @@ For more details, please refer to the Annexes.
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex 1: CloudStore Factsheet](/files/media/media-releases/2015/05/Annex1pdf.pdf)
 * [Annex 2: MyResponder Factsheet](/files/media/media-releases/2015/05/Annex2pdf.pdf)
 * [Annex 3: SingPass Factsheet](/files/media/media-releases/2015/05/Annex3pdf.pdf)
@@ -58,3 +58,46 @@ For more details, please refer to the Annexes.
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
+
+### **For media clarification**
+**Infocomm Development Authority of Singapore**
+<br>
+<br>Mehul SHAH (Mr)
+<br>Corporate & Marketing Communication
+<br>Infocomm Development Authority of Singapore 
+<br>Tel: +65 6211 1557
+<br>Email: mehul_shah@ida.gov.sg
+<br>
+<br>Malini NATHAN (Ms)
+<br>Corporate & Marketing Communication
+<br>Infocomm Development Authority of Singapore 
+<br>Tel: +65 6211 0660
+<br>Email: malini_nathan@ida.gov.sg
+<br>
+<br>**Ministry of Education**
+<br>
+<br>Karen TAN (Ms)
+<br>Corporate & Marketing Communication
+<br>Tel: +65 6771 3057
+<br>Email: karen_tan@moe.gov.sg
+<br>
+<br>**Ministry of Manpower**
+<br>
+<br>Natalie TEO (Ms)
+<br>Corporate & Marketing Communication
+<br>Tel: +65 6499 6446
+<br>Email: natalie_teo@mom.gov.sg
+<br>
+<br>**National Library Board**
+<br>
+<br>Don SHIAU (Mr)
+<br>Corporate Communications
+<br>Tel: +65 6718 3946
+<br>Email: don_shiau@nlb.gov.sg
+<br>
+<br>**Singapore Customs**
+<br>
+<br>Shi Ting TOH (Ms)
+<br>Corporate Communications Branch
+<br>Tel: +65 6355 21265
+<br>Email: toh_shi_ting@customs.gov.sg
