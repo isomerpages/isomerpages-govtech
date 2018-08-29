@@ -46,3 +46,17 @@ For more information, please visit tech.gov.sg or follow us on Facebook.com/GovT
 
 ---
 
+### **For media clarification**
+Lynda LIM (Ms)
+<br>Manager, Communications & Marketing Group
+<br>Government Technology Agency
+<br>Tel: +65 6211 1702 | +65 9686 1479
+<br>Email: lynda_lim@tech.gov.sg
+<br>
+<br>Nicolette OH (Ms)
+<br>Senior Manager, Communications & Marketing Group
+<br>Government Technology Agency
+<br>Tel: +65 6211 1674 | +65 9179 2830
+<br>Email: nicolette_oh@tech.gov.sg  
+ 
+
