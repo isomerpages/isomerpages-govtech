@@ -32,3 +32,12 @@ Please see attachments for the following:
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
+
+### **For media clarification**
+Poh Kiat TAN (Ms)
+<br>Manager, Corporate and Marketing Communication 
+<br>email: tan_poh_kiat@ida.gov.sg
+<br>
+<br>Angie LOW (Ms)
+<br>Senior Manager, Corporate and Marketing Communication
+<br>email: angie_low@ida.gov.sg
