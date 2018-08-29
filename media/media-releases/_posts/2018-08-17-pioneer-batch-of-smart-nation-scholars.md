@@ -41,3 +41,28 @@ Following the formation of the Smart Nation and Digital Government Group in May 
 
 ### **About Infocomm Media Development Authority**
 The Infocomm Media Development Authority (IMDA) leads Singapore’s digital transformation with infocomm media. To do this, IMDA will develop a dynamic digital economy and a cohesive digital society, driven by an exceptional infocomm media (ICM) ecosystem – by developing talent, strengthening business capabilities, and enhancing Singapore's ICM infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment, and enhances Singapore’s data protection regime through the Personal Data Protection Commission. For more news and information, visit www.imda.gov.sg or follow IMDA on Facebook IMDAsg and Twitter @IMDAsg.
+
+### **For media clarification**
+CSA
+<br>
+<br>Jingxuan CHEN (Ms)
+<br>Communications and Engagement Office
+<br>Cyber Security Agency
+<br>Tel: +65 6323 5112
+<br>Email: Chen_Jingxuan@csa.gov.sg
+<br>
+<br>
+<br>GovTech
+<br>Nicolette OH (Ms)
+<br>Communications and Marketing Group
+<br>Government Technology Agency 
+<br>Tel: +65 6211 1674
+<br>Email: Nicolette_OH@tech.gov.sg
+<br>
+<br>
+<br>IMDA
+<br>Priscilla GAN (Ms)
+<br>Communications and Marketing Group
+<br>Infocomm Media Development Authority
+<br>Tel: +65 6202 4417
+<br>Email: Priscilla_Gan@imda.gov.sg 
