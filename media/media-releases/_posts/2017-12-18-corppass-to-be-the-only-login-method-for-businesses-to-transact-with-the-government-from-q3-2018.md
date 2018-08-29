@@ -44,4 +44,19 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG. 
+For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Lynda LIM (Ms)
+<br>Manager
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1702
+<br>Email: lynda_lim@tech.gov.sg
+<br>
+<br>Kenneth TAN (Mr)
+<br>Manager
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1600
+<br>Email: kenneth_tan@tech.gov.sg 
