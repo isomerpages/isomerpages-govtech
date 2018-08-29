@@ -49,3 +49,22 @@ GovTech works with public agencies to develop and deliver secure digital service
 As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Elizabeth LEE (Ms)
+<br>Assistant Manager
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>Tel: +65 6211 1267 
+<br>Email: Elizabeth_Lee@tech.gov.sg
+<br>
+<br> 
+<br>Roy TEO (Mr)
+<br>Senior Manager
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>Tel: +65 6211 0512
+<br>Email: Roy_Teo@tech.gov.sg
+<br><br>Infocomm Media Development Authority
+<br><br>Tel: +65 6202 4417
+<br><br>Email: Priscilla_Gan@imda.gov.sg 
