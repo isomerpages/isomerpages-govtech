@@ -40,7 +40,7 @@ Launched in 2011, the country’s open government portal, data.gov.sg, was enhan
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex 1: Project Team Write-ups](/files/media/media-releases/2017/09/2 12 Finalists Project Writeups Annex 1.pdf)  
 * [Annex 2: Factsheet for National Data Viz Video Challenge](/files/media/media-releases/2017/09/3 Factsheet  National Data Viz Video Challenge Annex 2.pdf)   
 * [Annex 3: Factsheet for Data.gov.sg](/files/media/media-releases/2017/09/4 Factsheet  Datagovsg Annex 3.pdf) 
