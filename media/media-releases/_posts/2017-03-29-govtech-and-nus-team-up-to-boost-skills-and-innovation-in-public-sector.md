@@ -24,7 +24,6 @@ This strategic partnership with NUS is the latest of many that GovTech has forme
 
 Ms Jacqueline Poh, Chief Executive, GovTech, said, “Increased adoption of data science in the public sector will transform the way that the Government delivers services to the public. We are glad to partner NUS, which will help us put this tool into the hands of 10,000 public officers over the next five years, and educate them to use it effectively. This will help us improve and quicken our efforts in building Singapore into a Smart Nation. We look forward to working with more parties to make this happen.”
 
-
 Professor Tan Eng Chye, Deputy President (Academic Affairs) and Provost, National University of Singapore, said, “NUS is pleased that our strong expertise in cyber security, artificial intelligence and data science will help to accelerate the realisation of Singapore’s Smart Nation vision. Our exciting collaboration with GovTech will train the country’s public officers in the meaningful interpretation and use of big data, and enable a broad and deep exchange of ideas and talent. This new partnership will deepen the technological capabilities of public sector agencies, and be the springboard for co-created innovative solutions to pressing issues of national concern.”
 
 ---
@@ -48,3 +47,23 @@ NUS has 17 faculties and schools across three campuses. Its transformative educa
 NUS has three Research Centres of Excellence (RCE) and 30 university-level research institutes and centres. It is also a partner in Singapore’s fifth RCE. The University has established many research partnerships and joint laboratories with academic institutions, industry leaders and government agencies. Research activities are strategic and robust, and NUS is well-known for its research strengths in engineering, life sciences and biomedicine, social sciences and natural sciences. The University also strives to create a supportive and innovative environment to promote creative enterprise within its community.
 
 For more information on NUS, please visit www.nus.edu.sg.
+
+### **For media clarification**
+Dexian WANG (Mr)
+<br>Assistant Manager, Communications & Marketing Group 
+<br>GovTech
+<br>DID: (65) 6211 1666
+<br>Email: wang_dexian@tech.gov.sg
+<br>
+<br>Kenneth TAN (Mr)
+<br>Manager, Communications & Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 0375 
+<br>Email: kenneth_tan@tech.gov.sg 
+<br>
+<br>Fun YIP (Ms)
+<br>Director, Media Relations 
+<br>Office of Corporate Relations
+<br>National University of Singapore
+<br>DID: (65) 65161374 
+<br>Email: fun.yip@nus.edu.sg
