@@ -30,7 +30,7 @@ ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex: SingPass Media Statement Grace Period Provision to end on 15 Jan 2017](/files/media/media-releases/2016/12/SingPass Media Statement Grace Period Provision to end on 15 Jan 2017.pdf)
 
 ### **About Government Technology Agency of Singapore**
@@ -38,3 +38,16 @@ The Government Technology Agency of Singapore (GovTech) is a new statutory board
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Medha Lim (Ms)
+<br>Manager, Communications and Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 1622
+<br>Email: Medha_LIM@tech.gov.sg
+<br>
+<br>Jacklyn Chew (Ms)
+<br>Assistant Manager, Communications and Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 0708
+<br>Email: Jacklyn_CHEW@tech.gov.sg
