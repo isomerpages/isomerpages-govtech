@@ -39,3 +39,19 @@ GovTech works with public agencies to develop and deliver secure digital service
 As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Tiffany SANDRADSAGERAN (Ms)
+<br>Manager
+<br>Adoption and Engagement Directorate
+<br>Smart Nation and Digital Government Office, Prime Minister's Office
+<br>DID: (65) 8363 1762
+<br>Email: Tiffany_SANDRASAGERAN@pmo.gov.sg
+<br>
+<br>
+<br>TAN Boon Leng (Mr)
+<br>Manager
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 0375
+<br>Email: Tan_Boon_Leng@tech.gov.sg
