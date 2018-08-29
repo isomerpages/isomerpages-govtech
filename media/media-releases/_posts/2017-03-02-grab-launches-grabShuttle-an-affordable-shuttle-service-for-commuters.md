@@ -64,7 +64,7 @@ To suggest and crowd-start new routes, individuals and corporates can visit Grab
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Beeline Factsheet](/files/media/media-releases/2017/03/Beeline Factsheet.pdf)
 
 ### **About Grab**
@@ -76,3 +76,16 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+For Grab
+<br>Golin for Grab SEA
+<br>Tel: (65) 6551 5444 
+<br>Email: grab@golin.com
+<br>
+<br>For GovTech
+<br>Teresa Tan (Ms)
+<br>Senior Communications & Marketing Manager
+<br>GovTech
+<br>Tel: (65) 6211 1745
+<br>Email: Teresa_TAN@tech.gov.sg
