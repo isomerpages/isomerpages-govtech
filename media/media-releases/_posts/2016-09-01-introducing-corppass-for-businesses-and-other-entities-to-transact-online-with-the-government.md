@@ -30,9 +30,22 @@ For information regarding CorpPass setup, users can visit www.corppass.gov.sg, o
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex 1: List of Government Agencies and digital services available from 15 Sept 2016 – Phase One](/files/media/media-releases/2016/09/Annex_1_-_List_of_Government_agencies_and_digital_services_available_from_15_September_2016.pdf)
 * [Annex 2: Factsheet (CorpPass)](/files/media/media-releases/2016/09/CorpPass - Factsheet_1 Sep 2016 (1).pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
+
+### **For media clarification**
+Lynda LIM (Ms)
+<br>Manager, Corporate & Marketing Communication
+<br>Infocomm Development Authority of Singapore
+<br>Tel: (65) 6211 1702
+<br>Email: lynda_lim@ida.gov.sg 
+<br>
+<br>Kenneth TAN (Mr)
+<br>Manager, Corporate & Marketing Communication
+<br>Infocomm Development Authority of Singapore
+<br>Tel: (65) 6211 1600
+<br>Email: kenneth_tan@ida.gov.sg
