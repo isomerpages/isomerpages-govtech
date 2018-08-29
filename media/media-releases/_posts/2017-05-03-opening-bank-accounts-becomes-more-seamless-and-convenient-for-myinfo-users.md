@@ -27,7 +27,7 @@ Please refer to Annex A for more information on the MyInfo service, and Annex B 
 ---
 
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A - What is MyInfo](/files/media/media-releases/2017/05/Annex-A - What is MyInfo.pdf)
 * [Annex B - Quotes from Participating Banks](/files/media/media-releases/2017/05/Annex-B - Quotes from participating banks.pdf)
 
@@ -40,3 +40,16 @@ For more information, please visit tech.gov.sg or follow us on Facebook.com/GovT
 
 ### **About Smart Nation**
 Singapore strives to be a Smart Nation, in which our people are empowered by technology to lead meaningful and fulfilled lives. By harnessing the power of networks, data and info-comm technologies, we endeavour to improve living, create economic opportunity and build a closer community. We have the conducive environment to experiment, prototype and deploy innovative solutions that can be shared with other global cities. It is an exciting journey, and we want your ideas to help us realize our vision. For more information, please visit www.smartnation.sg.
+
+### **For media clarification**
+Henna JAYABALAN (Ms)
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1203
+<br>Email: Henna_JAYABALAN@tech.gov.sg
+<br>
+<br>Medha LIM (Ms)
+<br>Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1622
+<br>Email: Medha_LIM@tech.gov.sg
