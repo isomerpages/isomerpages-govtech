@@ -27,7 +27,7 @@ The portal will also benefit developers as it offers a sandbox environment for t
 
 --- 
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A](/files/media/media-releases/2017/11/Annex A.pdf)
 
 ### **What is MyInfo?**
