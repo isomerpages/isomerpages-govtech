@@ -21,8 +21,21 @@ After the launch of the service on 5 July 2015, users will need to:
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Factsheet on Singapore Personal Access (or SingPass)](/files/media/media-releases/2015/07/SingPass Factsheet  Briefing 2 Julypdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
+
+### **For media clarification**
+Malini Nathan (Ms)
+<br>Senior Manager
+<br>Corporate and Marketing Communications Division, IDA
+<br>DID: (65) 6211 0660
+<br>Email: malini_nathan@ida.gov.sg
+<br>
+<br>Jacklyn Chew (Ms)
+<br>Assistant Manager
+<br>Corporate and Marketing Communications Division, IDA
+<br>DID: (65) 6211 0708
+<br>Email: jacklyn_chew@ida.gov.sg
