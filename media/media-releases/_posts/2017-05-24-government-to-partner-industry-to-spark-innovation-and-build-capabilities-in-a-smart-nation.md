@@ -43,3 +43,16 @@ For more information, please visit tech.gov.sg or follow us on Facebook.com/GovT
 
 ### **About Smart Nation and Digital Government Office (SNDGO)**
 The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO) plans and prioritizes key Smart Nation and digital government projects, raises the standards of Government ICT and services, builds long-term capabilities for the public sector, and promotes adoption and participation in digital and smart innovations. It takes a whole-of-nation effort, and we will actively engage the public, the industry and fellow agencies as we build a Smart Nation together.
+
+### **For media clarification**
+Fatin Diana SUMANAN (Ms)
+<br>Executive, Communications and Marketing Group
+<br>Government Technology Agency
+<br>Tel: (65) 6211 1684
+<br>Email: Fatin_Diana_Sumanan@tech.gov.sg
+<br>
+<br>Kenneth TAN (Mr) 
+<br>Manager, Communications and Marketing Group
+<br>Government Technology Agency
+<br>Tel: (65) 6211 1600 
+<br>mail: kenneth_tan@tech.gov.sg
