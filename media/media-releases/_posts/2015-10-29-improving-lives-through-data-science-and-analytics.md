@@ -28,7 +28,7 @@ In order to enhance engineering and development capabilities in government, IDA 
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Fact Sheet: HIVE](/files/media/media-releases/2015/10/IDA Hive Factsheetpdf.pdf)
 * [Fact Sheet: MyResponder](/files/media/media-releases/2015/10/MyResponder Factsheetpdf.pdf)
 * [Fact Sheet: Beeline](/files/media/media-releases/2015/10/Beeline Factsheetpdf.pdf)
@@ -36,3 +36,14 @@ In order to enhance engineering and development capabilities in government, IDA 
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg or follow us on Twitter @GovTechSG.
+
+### **For media clarification**
+Mehul SHAH (Mr)
+<br>Corporate & Marketing Communication
+<br>Tel: (65) 6211 1557
+<br>Email: mehul_shah@ida.gov.sg 
+<br>
+<br>Malini NATHAN (Ms)
+<br>Corporate & Marketing Communication
+<br>Tel: (65) 6211 0660
+<br>Email: malini_nathan@ida.gov.sg
