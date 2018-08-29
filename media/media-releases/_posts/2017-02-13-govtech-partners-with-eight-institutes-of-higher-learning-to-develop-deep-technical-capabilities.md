@@ -33,7 +33,7 @@ Ms Jacqueline Poh, Chief Executive, GovTech, said, “We believe that an active 
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A – Factsheet on MOU/MOIs with IHLs](/files/media/media-releases/2017/02/Annex A MOU Factsheet.pdf)
 * [Annex B – Factsheet on InnoLeap](/files/media/media-releases/2017/02/Annex B InnoLeap Factsheet.pdf)
 * [Annex C – Quotes from IHLs](/files/media/media-releases/2017/02/Annex C Quotes From IHLs.pdf)
@@ -44,3 +44,16 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Dexian WANG (Mr)
+<br>Assistant Manager, Communications & Marketing Group 
+<br>GovTech
+<br>DID: (65) 6211 1666
+<br>Email: WANG_Dexian@tech.gov.sg
+<br>
+<br>Kenneth TAN (Mr)
+<br>Manager, Communications & Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 1600 
+<br>Email: Kenneth_TAN@tech.gov.sg
