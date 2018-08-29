@@ -43,4 +43,10 @@ The Ministry of Finance (MOF) seeks to create a better Singapore through Finance
 The Ministry of Communications and Information (MCI) oversees the development of the infocomm technology, media and design sectors; the national and public libraries; as well as Government’s information and public communication policies. It is MCI’s mission to build a nation of connected people and achieve a better quality of life. This is achieved by developing vibrant infocomm, media and design sectors, cultivating learning communities and fostering an engaged public. For more information on MCI, please visit www.mci.gov.sg. 
 
 ### **About Infocomm Development Authority of Singapore**
-The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg. 
+The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
+
+### **For media clarification**
+Malini Nathan (Ms)
+<br>Manager, Corporate and Marketing Communications Division
+<br>Infocomm Development Authority of Singapore
+<br>Email: malini_nathan@ida.gov.sg
