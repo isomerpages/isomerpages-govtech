@@ -25,7 +25,7 @@ As part of our Smart Nation and Digital Government efforts, the Government will 
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A - List of Participating Car Parks](/files/media/media-releases/2017/05/Annex A-List of participating car parks.pdf)
 
 
@@ -35,3 +35,28 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Jolene HOON (Ms)
+<br>Executive Manager, Media Relations 
+<br>Urban Redevelopment Authority
+<br>DID: (65) 6329 3251
+<br>Email: Jolene_Hoon@ura.gov.sg 
+<br>
+<br>Jeanne TAN (Ms)
+<br>Senior Manager, Media Relations
+<br>Housing and Development Board
+<br>DID: (65) 6490 1250
+<br>Email: Jeanne_PG_Tan@hdb.gov.sg
+<br>
+<br>Teresa TAN (Ms)
+<br>Senior Manager, Communications and Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 1745
+<br>Email: Teresa_Tan@tech.gov.sg 
+<br>
+<br>Elizabeth LEE (Ms) 
+<br>Assistant Manager, Communications and Marketing Group
+<br>GovTech
+<br>DID: (65) 6211 1267
+<br>Email: Elizabeth_Lee@tech.gov.sg
