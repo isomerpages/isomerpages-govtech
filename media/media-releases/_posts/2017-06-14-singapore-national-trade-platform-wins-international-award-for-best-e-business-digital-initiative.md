@@ -30,7 +30,7 @@ Please refer to Annex A for a quote from the CEO & Founder, CommGate.
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [Annex A - Quote from CEO & Founder CommGate](/files/media/media-releases/2017/06/Annex A CEOFounderCommGate.pdf)
 
 
@@ -43,3 +43,16 @@ For more information, please visit tech.gov.sg or follow us on Facebook.com/GovT
 
 ### **About Singapore Customs**
 Singapore Customs – a department under the Ministry of Finance – is the lead agency for trade facilitation and revenue enforcement. We facilitate Singapore’s external trade through active engagement with businesses, robust regulations and effective enforcement. Besides ensuring a fair, competitive and level playing field for traders, we also safeguard Government revenue. We take firm enforcement action against those who attempt to evade duties and taxes by making fraudulent declarations or bringing in contraband goods. Our vision is to be a leading Customs that advances Singapore’s economy by assuring the integrity of the trading system. For more information, please visit www.customs.gov.sg
+
+### **For media clarification**
+TAN Boon Leng (Mr)
+<br>Manager, Communications and Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 0375
+<br>Email: TAN_Boon_Leng@tech.gov.sg
+<br>
+<br>TOH Shi Ting (Ms)
+<br>Senior Corporate Communications Officer
+<br>Singapore Customs
+<br>DID: (65) 6355 2165 
+<br>Email: TOH_shi_ting@customs.gov.sg
