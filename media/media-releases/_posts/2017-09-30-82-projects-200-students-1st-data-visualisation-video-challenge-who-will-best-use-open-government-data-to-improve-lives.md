@@ -52,3 +52,15 @@ GovTech works with public agencies to develop and deliver secure digital service
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
 
+### **For media clarification**
+Mehul SHAH (Mr)
+<br>Assistant Manager, Communications & Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1557
+<br>Email: mehul_shah@tech.gov.sg
+<br>
+<br>Joycelyn CHAN (Ms)
+<br>Assistant Director, Communications & Marketing Group
+<br>Government Technology Agency
+<br>DID: (65) 6211 1151
+<br>Email: joycelyn_chan@tech.gov.sg
