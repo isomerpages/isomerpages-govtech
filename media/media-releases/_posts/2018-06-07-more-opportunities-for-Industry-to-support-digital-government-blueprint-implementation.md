@@ -65,6 +65,6 @@ Elizabeth LEE (Ms)
 <br>Government Technology Agency
 <br>Tel: +65 6211 0512
 <br>Email: Roy_Teo@tech.gov.sg
-<br><br>Infocomm Media Development Authority
-<br><br>Tel: +65 6202 4417
-<br><br>Email: Priscilla_Gan@imda.gov.sg 
+<br>Infocomm Media Development Authority
+<br>Tel: +65 6202 4417
+<br>Email: Priscilla_Gan@imda.gov.sg
