@@ -42,7 +42,7 @@ As part of its launch, GovTech will be organising a public exhibition at the foy
 
 ---
 
-### **Related Rosources:**
+### **Related Resources:**
 * [GovTech Factsheet](/files/media/media-releases/2016/10/1 GovTech Factsheet.pdf)
 * [MyInfo Factsheet](/files/media/media-releases/2016/10/2 MyInfo Factsheet.pdf)
 * [CorpPass Factsheet](/files/media/media-releases/2016/10/3 CorpPass Factsheet.pdf)
@@ -59,3 +59,16 @@ The Government Technology Agency of Singapore (GovTech) is a new statutory board
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+
+### **For media clarification**
+Teresa TAN (Ms)
+<br>Manager, Communications and Marketing Group 
+<br>Government Technology Agency of Singapore
+<br>Tel: (65) 6211 1745 
+<br>Email: Teresa_Tan@tech.gov.sg
+<br>
+<br>TAN Boon Leng (Mr)
+<br>Manager, Communications and Marketing Group 
+<br>Government Technology Agency of Singapore
+<br>Tel: (65) 6211 0375 
+<br>Email: Tan_Boon_Leng@tech.gov.sg
