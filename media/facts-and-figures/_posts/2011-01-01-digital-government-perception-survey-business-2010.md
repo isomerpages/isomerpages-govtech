@@ -38,15 +38,18 @@ An increasing number of businesses (from 62% in FY2007 to 76% in FY2008 to 80% i
 
 **Satisfaction with EntepriseOne website**
 
-
-
+![Graph depicting level of satisfaction of businesses with government digital services - 2010]({{"/images/media/facts-and-figures/2011/01/government-to-business-surveys-2010-a.jpg" | absolute_url}})
 
 9 out of 10 businesses (92%) transacted with the Government in the past 12 months.
 
 Among the businesses that transacted with the Government in the 12 months preceding the survey, 9 out of 10 businesses (99%) did so electronically (via the Internet, automated kiosks, email, telephone via the Interactive Voice Recognition System, SMS, etc.), either on their own or with help from intermediaries, at least once in the past 12 months.
 
+![Graph depicting level of satisfaction of businesses with government digital services - 2010]({{"/images/media/facts-and-figures/2011/01/government-to-business-surveys-2010-b.jpg" | absolute_url}})
 
+An increasing number of businesses were satisfied with:
+* the overall quality of Government electronic services (4% increase from 85% in FY2008 to 89% in FY2009).
+* the overall support provided for electronic services usage (1% increase from 80% in FY2008 to 81% in FY2009)
 
-An increasing number of businesses were satisfied with
-the overall quality of Government electronic services (4% increase from 85% in FY2008 to 89% in FY2009).
-the overall support provided for electronic services usage (1% increase from 80% in FY2008 to 81% in FY2009)
+![Graph depicting level of satisfaction of businesses with government digital services - 2010]({{"/images/media/facts-and-figures/2011/01/government-to-business-surveys-2010-c.jpg" | absolute_url}})
+
+![Graph depicting level of satisfaction of businesses with government digital services - 2010]({{"/images/media/facts-and-figures/2011/01/government-to-business-surveys-2010-d.jpg" | absolute_url}})
