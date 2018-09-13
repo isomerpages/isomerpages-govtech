@@ -1,0 +1,26 @@
+#!/bin/bash
+
+set -e # halt script on error
+shopt -s nullglob
+
+# Clean _site folder
+echo "Cleaning _site folder"
+if [ -d "_site" ]; then rm -Rf _site; fi 
+
+# Build Jekyll site
+echo "Building Jekyll site"
+npm install
+gem install bundler
+bundle install
+bundle exec jekyll build
+
+# Emptying S3 bucket
+echo "Emptying S3 bucket"
+mkdir ~/.aws
+echo '[default]' > ~/.aws/config
+printf 'aws_access_key_id=' >> ~/.aws/config
+echo $ACCESS_KEY_ID >> ~/.aws/config
+printf 'aws_secret_access_key=' >> ~/.aws/config
+echo $SECRET_ACCESS_KEY >> ~/.aws/config
+echo 'region=ap-southeast-1' >> ~/.aws/config
+aws s3 rm s3://isomer-govtech.gov.sg --recursive
