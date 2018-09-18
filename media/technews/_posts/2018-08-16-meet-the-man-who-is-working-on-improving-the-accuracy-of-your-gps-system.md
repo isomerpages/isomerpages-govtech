@@ -11,16 +11,17 @@ TL:DR: GPS technology has revolutionised navigation, making it easier than ever 
 ---
 
 It’s becoming more and more difficult to get lost these days. With global positioning system (GPS) now on mobile devices, all you need to do is whip out your phone to know where you are, then map a direct path to where you want to be. Whereas in the past, explorers confirmed their earthly positions by looking at the stars at night, modern travellers now have a constellation of artificial stars—satellites in space—to guide their paths.
+
 The position of the satellites is known because a ground station keeps track of them throughout the day. Each time you use GPS to navigate, your device is measuring its distance from four or more satellites. With some calculations, the position of your device can be obtained. 
+
 GPS has become so pervasive that most people don’t even think about the technology as they explore foreign places on foot or on board a vehicle. But Mr Paul Piong, Smart Nation fellow at the Sensors and Internet of Things (IoT) division of the Government Technology Agency of Singapore (GovTech), thinks that the accuracy of GPS can be improved further.
 
-**Room for improvement**
 
+**Room for improvement**
 Mr Piong is no stranger to refining GPS technology. His first job after graduating from the University of Michigan was at Garmin, a global leader in GPS innovation. For five years, from 2008 to 2012, he worked on Garmin’s GPS watches and cycling computers. 
 Then, restless and eager to learn something new, he left Garmin and joined electric carmaker Tesla, where he worked on Tesla’s version control system—a code repository containing all the code required to update Tesla vehicles. More recently, he worked on the battery management system for Tesla’s Model 3.
 ![paul]({{"/images/technews/paul1.png" | absolute_url}})
 <sub>Mr Piong worked on Tesla’s version control system and the battery management system for the Model 3.</sub>
-
 
 It was in October 2017 that Mr Piong met Mr Quek Yang Boon, director of the Sensors and IoT division at GovTech, who invited Mr Piong to return to Singapore for a short stint. Arriving in Singapore as a Smart Nation fellow in May 2018, Mr Piong has spent the past three months researching differential GPS, a method to enhance location accuracy for pedestrians and vehicles. 
 
