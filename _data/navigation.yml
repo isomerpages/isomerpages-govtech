@@ -36,9 +36,6 @@
   - title: Apply Now
     url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
     external: true
-- title: TechNews
-  url: https://medium.com/technewssg
-  external: true
 - title: Media
   url: /media/
   sub-links:
@@ -54,5 +51,7 @@
     url: /media/media-releases/
   - title: Speeches
     url: /media/speeches/
+  - title: Tech News
+    url: /media/technews/
 - title: Contact Us
   url: /contact-us/
