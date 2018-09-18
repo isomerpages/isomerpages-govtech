@@ -20,13 +20,13 @@ GPS has become so pervasive that most people don’t even think about the techno
 **Room for improvement**
 Mr Piong is no stranger to refining GPS technology. His first job after graduating from the University of Michigan was at Garmin, a global leader in GPS innovation. For five years, from 2008 to 2012, he worked on Garmin’s GPS watches and cycling computers. 
 Then, restless and eager to learn something new, he left Garmin and joined electric carmaker Tesla, where he worked on Tesla’s version control system—a code repository containing all the code required to update Tesla vehicles. More recently, he worked on the battery management system for Tesla’s Model 3.
-![paul]({{"/images/technews/paul1.png" | absolute_url}})
+![paul]({{"/images/technews/paul1.PNG" | absolute_url}})
 <sub>Mr Piong worked on Tesla’s version control system and the battery management system for the Model 3.</sub>
 
 It was in October 2017 that Mr Piong met Mr Quek Yang Boon, director of the Sensors and IoT division at GovTech, who invited Mr Piong to return to Singapore for a short stint. Arriving in Singapore as a Smart Nation fellow in May 2018, Mr Piong has spent the past three months researching differential GPS, a method to enhance location accuracy for pedestrians and vehicles. 
 
 “Typically, a base station has a fixed location—this is the ground truth programmed into it—but it also figures out its own location based on the constellation of satellites that it ‘sees’. Sometimes, its ‘view’ is blocked by weather conditions, like clouds, and this could affect positioning accuracy,” Mr. Piong explained. A discrepancy thus arises between the base station’s actual and satellite-derived locations.
-![paul]({{"/images/technews/paul2.png" | absolute_url}})
+![paul]({{"/images/technews/paul2.PNG" | absolute_url}})
 <sub>One of base station prototype Mr Piong created for the dedicated short-range communications system.</sub>
 
 
