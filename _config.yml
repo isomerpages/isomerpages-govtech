@@ -68,6 +68,7 @@ homepage_careers: true
 
 # Custom CSS file path
 custom_css_path: "/do-not-touch/theme-colors/custom.css"
+custom_print_css_path: "/assets/css/print.css"
 
 # ############################################################
 # # Site configuration for the Jekyll 3 Pagination Gem
