@@ -22,12 +22,12 @@ We welcome university and polytechnic students to apply for our internship oppor
 #### **Campus Ambassador Programme**
 Expand your network and enjoy greater industry exposure at the same time gain opportunities and enhance your leadership and communication skills. Join us today as a GovTech Campus Ambassador.
 
-![Alternative text for screen readers]({{"/images/careers/CampusAmbassador_Website.png" | absolute_url}})
+![Campus ambassador programme image - know the right people and meet others like yourself]({{"/images/careers/CampusAmbassador_Website.png" | absolute_url}})
 
 ### **Scholarships**
 The Smart Nation Scholarship develops and nurtures technology talents and leaders within public service. Offered by the Cyber Security Agency of Singapore, Government Technology Agency (GovTech), and Infocomm Media Development Authority (IMDA), the scholarship gives recipients the opportunity to carve out their own career pathway in applied technology for the public good. Click to find out more!
 
-![Alternative text for screen readers]({{"/images/careers/SNScholarship_MicrositeBanner.png" | absolute_url}})
+![Smart Nation Scholarship image]({{"/images/careers/SNScholarship_MicrositeBanner.png" | absolute_url}})
 
 ### **Singapore Geospatial Scholarship**
 GovTech partners with 6 other public agencies (BCA, JTC, NEA, PUB, SLA and URA) to offer the Singapore Geospatial Scholarship in geospatial and geospatial-related courses
