@@ -16,3 +16,8 @@ Here is how the DGB will benefit you:
 - Intuitive, accessible and easy-to-use digital services
 - Greater confidence in your data as digital services infrastructure continues to be fortified
 - More digital services like Moments of Life and Business Grants Portal built around your needs.
+
+
+Read up the DGB here:
+- [Digital Government Blueprint (Summary)](/files/digital-transformation/dgb_summary_june2018.pdf)
+- [Digital Government Blueprint](/files/digital-transformation/dgb_booklet_june2018.pdf)
