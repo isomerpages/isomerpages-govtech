@@ -43,7 +43,8 @@ But making individual devices smart only goes so far in terms of impact to socie
 It can be extremely costly to build physical infrastructure from scratch to support an island-wide sensor platform. Hence, the Singapore government is looking to mount IoT-enabled devices on lamp posts, which are already available and widely distributed, said Mr Quek.
 
 ---
-Infographics: Just how smart lamp posts can get? 
+Infographics: Just how smart lamp posts can get?
+
 ---
 
 These smart lamp posts would function as the ‘nerves’ of the city, collecting data and sending it back to the relevant agencies—the ‘brain’ of the city—for analyses. Additionally, smart lamp posts can enable differential GPS, which greatly enhances the accuracy of location tracking.
