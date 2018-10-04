@@ -3,6 +3,7 @@ layout: post
 title:  "With data and cellphones, the next tech disruptor is the man on the street"
 permalink: "/media/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street"
 category: technews
+image: 
 ---
 
 - Disruption is not new: almost a thousand years ago, Genghis Khan changed the course of history with innovative ideas that culminated in the world's largest-ever contiguous empire
