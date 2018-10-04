@@ -16,7 +16,6 @@ Anticipating this massive shift in population distribution, governments around t
 The panel comprised Ms Sally Tan, deputy chief customer solutions officer, Ascendas-Singbridge; Mr George Thomas, chief information officer APAC and head of technology, data and information management, JLL; Mr Steve Melhuish, co-founder and vice chairman of PropertyGuru; Mr Thomas Jakob, regional president, Asia Pacific, Bosch Software Innovations; and Mr Turochas "T" Fuad, managing director, WeWork Southeast Asia. Mr Aaron Low, regional journalist and contributor to the South China Morning Post, was the moderator.
  
  
-
 **Focus on people, not places**
 
 “Whenever we talk about smart cities, everyone is fixated about the technologies—which in fact is just the hardware,” said Mr Melhuish. He thinks that the focus of the dialogue should change from the kind of technologies that we can use, to what we can do to help people living in smart cities.
@@ -30,7 +29,6 @@ Ms Tan agreed, adding that “whatever exciting latest technologies you may want
 “It is about trying to humanise the way we live, work and connect with the rest of the world,” said Mr Fuad. “The core element we look at is people, and then we try to build our spaces around them, to create opportunities and inclusion."  
 
 
-
 **Finding the right connection**
 
 Even as governments and policy planners around the world embark on smart city projects, members of the expert panel were already thinking about the next step, which was to get smart cities to work together. “For instance, the 100 smart cities in India have very different requirements and focuses from those in China, Indonesia and Singapore,” said Mr Jakob.
@@ -42,7 +40,6 @@ One way to achieve this is via the proposed ASEAN Smart Cities Network (ASCN), w
 The ASCN member countries will also agree upon ASEAN’s definition of a smart city, as well as state guiding principles and core outcomes of smart and sustainable urban development. These will be compiled under the ASEAN Smart Cities Framework, which will be adopted by ASEAN leaders at the 33rd ASEAN Summit in November 2018.
 
  
-
 **The changing concept of a city**
 
 A network of smart cities is an ambitious concept, but Mr Jakob noted that in the future, the very idea of a ‘city’ may be unrecognisable by those alive today. 
