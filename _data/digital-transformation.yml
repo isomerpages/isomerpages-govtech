@@ -3,22 +3,22 @@ centex-title: Centres of Excellence (CentEx)
 centex-description: "We seek to build capabilities in new technologies important for a Smart Nation. GovTech is focused on building six Centres of Excellence (CentEx):"
 centex-projects:
   - name: Application Development
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit
+    description: 
     icon-url: /images/digital-transformation/application-development.svg
   - name: Cybersecurity
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit
+    description: 
     icon-url: /images/digital-transformation/cybersecurity.svg
   - name: Data Science
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit
+    description: 
     icon-url: /images/digital-transformation/data-science.svg
   - name: Government ICT Infrastructure
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit
+    description: 
     icon-url: /images/digital-transformation/government-ict.svg
   - name: Geospatial Technology
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit
+    description: 
     icon-url: /images/digital-transformation/geospatial.svg
   - name: Sensors & IoT
-    description: Lorem ipsum dolor sit amet consec tetur adipiscing elit 2
+    description: 
     icon-url: /images/digital-transformation/sensors-iot.svg
 
 

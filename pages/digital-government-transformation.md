@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Digital Transformation
-permalink: /digital-transformation/
-breadcrumb: Digital Transformation
+title: Digital Government Transformation
+permalink: /digital-government-transformation/
+breadcrumb: Digital Government Transformation
 ---
 
 ### From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
@@ -22,19 +22,3 @@ We seek to build capabilities in new technologies important for a Smart Nation. 
 * Government ICT Infrastructure
 * Geospatial Technology
 * Sensors & IoT
-
----
-
-### **Standards and Guides**
-
-As the Singapore government rolls out more digital services, we need to provide standards and guides to ensure a complete and consistent user experience for users.
-
-##### **Ministry Family Digitalisation Guide**
-
-The Ministry Family Digitalisation Guide helps all Government ministries and agencies formulate their digitalisation plans.
-
-[Ministry Family Digitalisation Guide]({{"/files/digital-transformation/ministry-family-digitalisation-guide.pdf" | absolute_url }}){:target="_blank"}
-
-##### **Digital Services Standards**
-
-A set of standards to ensure a consistent level of usability and accessibility across Government public-facing digital services (specifically those using gov.sg domains).

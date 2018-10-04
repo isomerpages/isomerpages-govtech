@@ -6,8 +6,6 @@ breadcrumb: Our Awards
 collection_name: who-we-are
 ---
 
-This is the first line of the page. This section here should contain a summary of this page. Lorem ipsum dolor sit amet consecte tur adipiscing elit nullam iaculis metus a mi faucibus mattis. Nullam lacinia consequat nunc vel imperdiet.
-
 ## **2016**
 #### **World Economic Forum Global Information Technology Report**
 

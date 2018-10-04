@@ -4,10 +4,6 @@ board-of-directors:
     title: Chairman
     organisation: Permanent Secretary (Smart Nation and Digital Government)
     image-url: /images/our-team/ng-chee-khern.jpg
-  - name: Mr TAN Kok Yam
-    title: Deputy Secretary
-    organisation: Smart Nation and Digital Government
-    image-url: /images/our-team/tan-kok-yam.jpg
   - name: Mr KOK Ping Soon
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
@@ -20,10 +16,10 @@ board-of-directors:
     title: Chief Executive
     organisation: Info-communications Media Development Authority of Singapore
     image-url: /images/our-team/tan-kiat-how.jpg
-  - name: Prof Freddy BOEY
-    title: Deputy President and Provost
-    organisation: Nanyang Technological University
-    image-url: /images/our-team/freddy-boey.jpg
+  - name: Ms Lesly GOH
+    title: Chief Technology Officer
+    organisation: World Bank Group
+    image-url: /images/our-team/Lesly-GOH.jpg
   - name: Mr Peter HO
     title: Chief Executive Officer
     organisation: HOPE Technik Pte Ltd
@@ -36,6 +32,10 @@ board-of-directors:
     title: Managing Director
     organisation: MoPub, Asia-Pacific/Japan, Twitter Inc
     image-url: /images/our-team/alexander-kleinberg.jpg
+  - name: Ms Melissa KHOO
+    title: Group Director, Ageing Planning Office
+    organisation: Ministry of Health
+    image-url: /images/our-team/Melissa-Khoo.jpg
   - name: Prof Annie KOH
     title: Vice President
     organisation: Office of Business Development, Professor of Finance (Practice) Singapore Management University
@@ -44,10 +44,18 @@ board-of-directors:
     title: Executive Director
     organisation: Global Indices INSEAD
     image-url: /images/our-team/bruno-lanvin.jpg
+  - name: Mr Bruce LIANG
+    title: Chief Executive Officer
+    organisation: Integrated Healthcare Systems Pte Ltd
+    image-url: /images/our-team/Bruce-Liang.jpg
   - name: Mr Matt QUINLAN
     title: Director
     organisation: Ontrack Advisory
     image-url: /images/our-team/matt-quinlan.jpg
+  - name: Mr Bojan BLECIC
+    title: Senior Vice President / Head of Experience Design
+    organisation: OCBC Bank
+    image-url:
   - name: Mr Muthukrishnan RAMASWAMI
     title: President
     organisation: Singapore Exchange Ltd
@@ -99,10 +107,10 @@ senior-leadership:
     title: Director
     organisation: Government Digital Services
     image-url: /images/our-team/parimal-aswani.jpg
-  - name: Mr LIU Feng Yuan
+  - name: Mr LEONG Der Yao
     title: Director
     organisation: Data Science and Artificial Intelligence
-    image-url: /images/our-team/liu-feng-yuan.jpg
+    image-url: /images/our-team/leong-der-yao.jpg
   - name: Ms Evangeline CHUA
     title: Chief People Officer
     organisation: People and Organisation Group
