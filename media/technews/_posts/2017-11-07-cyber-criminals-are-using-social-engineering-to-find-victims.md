@@ -17,7 +17,9 @@ But even that wasn’t enough to satisfy him. “I told them that I am coming to
 
 He explained that with social engineering, cyber-criminals are learning to ride on the euphoria and emotions surrounding world events—SG50, the Zika virus outbreak and Pokemon Go, for example, provide prime opportunities for phishing attempts. Everyone thus needs to be more sceptical and pro-active in practicing caution and vigilance, he added.
 
+
 **Fear, uncertainty and doubt**
+
 While security vendors may try to tap into fear, uncertainty and doubt (FUD) to sell their products, the problem in some cases is that there is not enough of it. For example, 70 percent of security breaches come from inside organisations themselves, said Mr Lim.  
 
 “It is not that 70 percent of the staff are bad. People don’t follow procedures not because they are bad people,” explained Mr Lim. “Employees may find procedures troublesome and a hindrance to their work. But in the process of trying to bypass the procedures, they don’t realise that they are creating an even larger problem while trying to solve the first.” 
@@ -29,6 +31,7 @@ Mr Lim’s talk was followed by a panel discussion on the cyberthreat landscape.
 “It seems like the cyber-criminals are on a winning streak, and in a society like Singapore, all of us have a role to play in getting this awareness out, because we are living a very digitised life.”
 
 The ever-changing, unpredictable cybersecurity landscape makes being prepared even more critical. “We often try to define what ‘bad’ is, when there is no static definition because the threats are evolving all the time. ‘Bad’ is also actually just some unknown user who doesn’t know that he cannot do certain things,” said Mr Hsu. 
+
 
 **The mature ecosystem of bad guys**
 
