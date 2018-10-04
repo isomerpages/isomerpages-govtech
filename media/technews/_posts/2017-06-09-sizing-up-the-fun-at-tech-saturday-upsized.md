@@ -3,6 +3,7 @@ layout: post
 title:  "Sizing up the fun at Tech Saturday Upsized"
 permalink: "/media/technews/sizing-up-the-fun-at-tech-saturday-upsized"
 category: technews
+image: 
 ---
 
 A big shoutout and 'Thank You!' to our friends from IMDA for inviting GovTech to participate in Tech Saturday (Upsized!).
