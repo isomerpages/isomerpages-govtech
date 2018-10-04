@@ -21,6 +21,7 @@ An eclectic line-up of speakers considered these questions at Meta Conversations
 
 
 **Part ‘techie’, part ‘fuzzy’, all human**
+
 According to venture capitalist and author of the book The Fuzzy and the Techie Mr Scott Hartley, the key to helping society adapt to rapid technological advances is not to categorise people into ‘techies’ (the technologically inclined) and ‘fuzzies’ (those inclined towards the humanities).
 
 Qualities from both ends of the spectrum are equally important, he said.
@@ -37,6 +38,7 @@ While many jobs will be taken over by machines — the McKinsey Global Institute
 
 
 **Speaking the machine language**
+
 Deep Blue’s and AlphaGo’s victories over human champions are powerful reminders of AI’s prowess and vast potential.
 
 Yet, these milestones, though impressive, are not the same as addressing real-world issues, said Mr Øyvind Roti, head of solutions (Japan and Asia Pacific) at Google Cloud.
@@ -54,6 +56,7 @@ Given this potential, mankind should also help AI expand its capabilities, said 
 He encouraged the community to contribute — by sharing code, data and results — and help to improve AI’s problem-solving abilities, thereby freeing up time and energy for humans to do “human things”.
 
 **Oh the humanity**
+
 The value of humanity was also forefront in the thoughts of Ms Kuik Shiao-Yin, Nominated Member of Parliament, Singapore, and Founder of The Thought Collective.
 
 Ms Kuik reminisced about her first business venture — a start-up creating Flash websites — which she started as an architecture undergraduate with no experience with computers.
