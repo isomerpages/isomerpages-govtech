@@ -10,7 +10,7 @@ image:
 - Today, digital technology is disrupting the world by enabling millions of people to collectively contribute data to solve problems
 - Technology is also set to transform individual lives by becoming affordable to anyone who needs it
 
-On a sunny day in 2016, Dr Albert Lin was out enjoying a round of fishing and a barbecue with his kids. But before the day was out, disaster struck. He lost his right leg in a car accident.
+On a sunny day in 2016, [Dr Albert Lin](http://www.albertyuminlin.com/){:target="_blank"} was out enjoying a round of fishing and a barbecue with his kids. But before the day was out, disaster struck. He lost his right leg in a car accident.
 
 “That evening I sat in my hospital bed wondering if my life as I knew it was over. I was an explorer, I was a surfer, I was a climber, and all of a sudden I'd lost my mobility,” said Dr Lin, who is a National Geographic Explorer and a research scientist at the University of California San Diego.
 
