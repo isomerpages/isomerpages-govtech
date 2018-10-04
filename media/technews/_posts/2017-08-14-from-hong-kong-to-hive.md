@@ -3,6 +3,7 @@ layout: post
 title:  "From Hong Kong to Hive"
 permalink: "/media/technews/from-hong-kong-to-hive"
 category: technews
+image: 
 ---
 
 She came, she saw, and she concurred after visiting GovTech — that there were opportunities for technology exchanges and collaboration between Hong Kong and Singapore.
