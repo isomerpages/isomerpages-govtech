@@ -24,7 +24,9 @@ After hearing the challenges their clients constantly face, Christina and her te
 
 The answer is the Social Service Net, or SSNet – a shared platform that collates and stores client information gathered from the VWOs. As privacy is a key concern, only those who are servicing the client will be granted access to their particular data.
 
+
 **OVERCOMING CHALLENGES**
+
 Still, admits Christina, the team faced plenty of obstacles, such as getting buy-in from VWOs and helping them to understand the technology behind the system.  
 
 “Being IT folks, we think we have the solution most of the time because we’re good at problem-solving,” she adds, laughing. 
@@ -42,7 +44,9 @@ Christina credits her team, which is made up of “very adaptable folks” compr
 
 They demonstrate agility by building a “minimum viable product” – a system with the right essentials to support service delivery. “We didn’t want to overload it. We wanted to talk to each VWO, understand their needs and then see what we can do with them first. Overtime, we’ll build in new features and grow it,” she explains.
 
+
 **INNOVATING FOR A CAUSE**
+
 The SSNet initiative is progressing as planned. Phase one, which saw 75 VWOs come onboard, was completed early last year after a two-year journey. The team is now in the midst of phase two, where they are targeting 280 more VWOs. 
 
 Their efforts have already garnered recognition – they received the Best Practice Award (Service Delivery) at the Excellence in Public Service Awards (ExPSA) 2017. Last year, they also received a certificate for being a semi-finalist in the Commonwealth Association for Public Administration and Management Awards.
@@ -67,7 +71,9 @@ That might seem like a simple task we all take for granted, but the act of tappi
 
 “The app is nothing fancy, just a simple attendance registration system. But the senior citizens were so happy just to complete it and hear the sound. To me, seeing that joy on their faces is what keeps me going.”
 
+
 **HAVING A HEART FOR THE NEEDY**
+
 Speaking to Christina, you would find someone who is bubbly and optimistic, a people–person. But one major incident she experienced made her realise how fragile life is, and reinforced her belief in doing more meaningful work that can help people. 
 
 Christina was in Tokyo for a work trip in 2011 when the 9.0 magnitude earthquake struck the country. She was on the 33rd floor of a technology firm, having just stepped out of the lift, when the building began to sway before shaking violently. 
