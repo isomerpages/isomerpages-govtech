@@ -97,6 +97,7 @@ One idea is to use a combination of assistive technologies, software products an
 
 Here's the good news: work has already begun.
 
-“So now we have a group of people looking at that, from MCI and SG Enable and a variety of partners that we have put together.”
+“So now we have a group of people looking at that, from MCI and [SG Enable](https://www.sgenable.sg/Pages/Home.aspx){:target="_blank"} and a variety of partners that we have put together.”
 
-You can view the Facebook Live interview here.
+You can view the [Facebook Live interview](https://www.facebook.com/GovTechSG/videos/10154307480297511/){:target="_blank"}  here.
+
