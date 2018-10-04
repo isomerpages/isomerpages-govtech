@@ -3,6 +3,7 @@ layout: post
 title:  "Tech for Good: How tech is transforming social services in Singapore"
 permalink: "/media/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore"
 category: technews
+image: 
 ---
 
 The simplest improvements brought about by technology can help make someone’s day. But nothing is more important to Christina Gan and her team at MSF, one of GovTech’s partner agency sites, than listening to feedback from citizens and VWOs before proposing ideas that can meet their needs.
