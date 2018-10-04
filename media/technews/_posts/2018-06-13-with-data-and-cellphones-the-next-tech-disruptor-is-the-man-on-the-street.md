@@ -17,7 +17,9 @@ But that moment of despair quickly faded, he told the audience at the Festival o
 
 The inaugural Festival was organised by local crowdfunding site Gofiee and Sydney-based media owner Sundance Company, with GovTech as one of its supporters. Dr Lin, who gave the keynote speech, laid out how novel applications of technology have the potential to transform not only individual lives, but also society at large.
 
+
 **The problem of prosthetics**
+
 There are some 40 million amputees worldwide, and many do not have access to good prosthetics, said Dr Lin. 
 
 "Prosthetics cost so much money because they have to fit exactly. People in the streets are begging for money because they had the exact same thing happen to them, but they couldn't afford what I had," he said. "It’s the difference between being productive and having to depend on somebody else for everything you do."
@@ -28,6 +30,7 @@ If he can get his idea to work, almost anyone could use a smartphone to accurate
 
 
 **Technology and the might of millions**
+
 Just as technology can help the masses, so too can the masses help technology. Shortly after the 2014 disappearance of Malaysia Airlines flight MH370, a company co-founded by Dr Lin launched a campaign asking internet users to scour satellite images for signs of the wreckage; eight million people pitched in. “Imagine eight million people working together for your company—that's the future of our human potential," he said.
 
 The company, Tomnod, which in Mongolian means ‘big eye’, was a spin-off from Dr Lin's high-profile search for the tomb of Genghis Khan in the remote highlands of Mongolia. In 2010, he launched an online portal for people to identify features that interested them in satellite images covering thousands of square kilometres of Mongolian desert.
@@ -36,7 +39,9 @@ Although his team could not conclusively locate the tomb, the crowdsourced data 
 
 Why this desire to find a person who died almost a thousand years ago? "I think [Khan] was really the ultimate disruptor. In a single lifetime, he created the largest empire in human history, one which today still affects all of us," said Dr Lin. "And it was through innovation that he was able to do so."
 
+
 **An extension of yourself**
+
 Dr Lin's work doesn’t stop there. In 2014, he co-founded a science education company, Planet3—named for the third planet from the sun—that combines cutting-edge curriculum crowdsourced from scientists with state-of-the-art multimedia created by the best video game designers. 
 
 "If you can figure out how to take the concept of crowdsourcing and apply it to video games, maybe we can change how we educate that critical generation of people who will define not only the next 50 years, but possibly the next 10,000," he said.
