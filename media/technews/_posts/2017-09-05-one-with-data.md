@@ -3,6 +3,7 @@ layout: post
 title:  "One with Data"
 permalink: "/media/technews/one-with-data"
 category: technews
+image: 
 ---
 
 Nowhere is the need for speed more dramatic — and dangerous — than on the Formula One (F1) racetrack.
