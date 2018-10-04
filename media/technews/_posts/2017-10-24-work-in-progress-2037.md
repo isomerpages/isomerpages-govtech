@@ -3,6 +3,7 @@ layout: post
 title:  "Work in progress: 2037"
 permalink: "/media/technews/work-in-progress-2037"
 category: technews
+image: 
 ---
 
 From the Industrial Revolution in the late 18th century to corporatisation in the 20th century, monumental shifts in global labour markets have always led to deep anxiety among those whose jobs were being displaced. 
