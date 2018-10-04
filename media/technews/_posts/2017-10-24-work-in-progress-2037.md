@@ -17,6 +17,7 @@ He was moderating a panel on ‘Jobs of 2037: preparing for the future’ at the
 
 
 **It's not that bleak a future**
+
 “When we think about the future, what we know does sound very frightening, but the outcome for jobs is not all gloomy,” said panel member Mrs Josephine Teo, Minister in the Prime Minister’s Office and Second Minister, Ministry of Manpower and Ministry of Foreign Affairs, Singapore.
 
 The panel, which was tasked to look into the crystal ball of job opportunities twenty years into the future, also included Mr Joseph Tsai, Executive Vice Chairman of Alibaba Group; Mr Igor Tulchinsky, Chairman and CEO of WorldQuant; and Mr Jaime Augusto Zóbel de Ayala, Chairman and CEO of Ayala Corporation.
@@ -35,7 +36,9 @@ Instead of taking away jobs, Mr Tsai argued that e-commerce has created new grow
 
 “The Alibaba ecosystem supports about two million people on the street making deliveries day in and day out. We generate about 55 million packages per day on our platform that need to be delivered… Many of the delivery guys have come over from the manufacturing sector; they were working in factories, and as the factory jobs scaled down, the delivery business went up,” he said.
 
+
 **New school skills for new cool jobs**
+
 Even if a new job is created for every job that is lost to automation, Mr Milken pointed out that the crux of the problem isn’t necessarily about a net gain or a net loss of jobs, but rather, the ability to match workers to future job roles.
 
 “It is not just that people don’t have jobs, but it is also the jobs that go unfilled,” Mr Milken said. “This reduces the growth of businesses and industries that aren’t able to find qualified workers.”
@@ -46,7 +49,9 @@ Mr Zóbel de Ayala, whose family-run company was founded nearly two centuries ag
 
 “I think the challenge is to keep adjusting the skillset of the country. It is now more important than ever for educational institutions and industry to talk. Generally, educational institutions and industry have not always conversed properly; we’ve produced students from old schools of learning with old ways of getting degrees,” he said.
 
+
 **The audacity of goals...and growth**
+
 Technological disruption is a golden opportunity for companies to pursue visionary, long-term goals, said Mr Tulchinsky, who founded quantitative investment management firm WorldQuant in 2007.
 
 “In this new world, you have to set audacious goals,” said Mr Tulchinsky, who talked about his company’s library of ‘alphas’, which are pieces of predictive code that tell computers to buy or sell based on market conditions.
