@@ -22,21 +22,21 @@ In case you haven’t heard of them, here are the five strategic national projec
 
 If the Singapore Flag helped to forge a common identity, then the goal of a National Digital Identity (NDI) is to create a unified repository of citizen information which will allow seamless interactions between the government, businesses and Singaporeans. Prime Minister Lee Hsien Loong has called the NDI the “cornerstone of Singapore’s Smart Nation vision”.
 
-SingPass and MyInfo are two critical elements of the NDI framework. Most Singaporeans are already familiar with SingPass—the secure online portal through which they can transact with government agencies. This year, the SingPass Mobile app will be launched with a two-factor authentication protocol to allow citizens to transact on-the-go via their mobile phones.
+[SingPass](https://www.singpass.gov.sg/singpass/common/aboutus){:target="_blank"} and [MyInfo](/my-info/){:target="_blank"} are two critical elements of the NDI framework. Most Singaporeans are already familiar with SingPass—the secure online portal through which they can transact with government agencies. This year, the SingPass Mobile app will be launched with a two-factor authentication protocol to allow citizens to transact on-the-go via their mobile phones.
 
 To further enhance the convenience of transactions, MyInfo—a consent-based digital platform for citizen data management—has been developed so that users need only provide their personal information to the government once. Thereafter, with their authorisation, they will be able to extend the use of that information to other approved public and private sector agencies. With MyInfo, e-transaction forms can be filled in with a click, thus reducing hassle and the likelihood of errors. 
 
 **2. E-payments**
 
-Cash has dominated the payments scene in Singapore for the past five decades. This is set to change as digital payment options are being rolled out to ensure swift, secure and seamless transactions over multiple devices and checking accounts. The push to go cashless is not without reason—adopting e-payments has the potential to drive down transaction costs for businesses and citizens, thereby increasing the productivity and competitiveness of the overall economy.
+Cash has dominated the payments scene in Singapore for the past five decades. This is set to change as digital payment options are being rolled out to ensure swift, secure and seamless transactions over multiple devices and checking accounts. The push to go cashless is not without reason—adopting [e-payments](/media/technews/e-payments-guideposts-to-a-smart-nation/){:target="_blank"} has the potential to drive down transaction costs for businesses and citizens, thereby increasing the productivity and competitiveness of the overall economy.
 
-In 2017, PayNow was launched as a unified, mobile platform for e-payments. Users can perform direct peer-to-peer fund transfers using just the recipient’s mobile phone number or NRIC. Business-to-business and consumer-to-business payments will soon be possible with PayNow Corporate, which will be launched on 13 August 2018.
+In 2017, [PayNow](https://www.abs.org.sg/consumer-banking/pay-now){:target="_blank"} was launched as a unified, mobile platform for e-payments. Users can perform direct peer-to-peer fund transfers using just the recipient’s mobile phone number or NRIC. Business-to-business and consumer-to-business payments will soon be possible with PayNow Corporate, which will be launched on 13 August 2018.
 
 Besides PayNow, NETS and EZ-Link can be used at participating hawker centres island-wide, and the Singapore Quick Response (SGQR) code is in the works, which will allow financial transactions to be completed both domestically and internationally, across various e-wallets and banks.
 
 **3. Smart Nation Sensor Platform**
 
-A key ingredient for building a Smart Nation is data, but to amass it, sensors must be deployed in multiple locations across Singapore to gather a diverse range of inputs. This is being explored and developed as a Smart Nation Sensor Platform (SNSP), which combines an array of sensors and internet of things (IoT)-enabled devices to monitor everything from traffic to water quality.
+A key ingredient for building a Smart Nation is data, but to amass it, sensors must be deployed in multiple locations across Singapore to gather a diverse range of inputs. This is being explored and developed as a [Smart Nation Sensor Platform (SNSP)](/products-and-services/smart-nation-sensor-platform/){:target="_blank"}, which combines an array of sensors and internet of things (IoT)-enabled devices to monitor everything from traffic to water quality.
 
 As part of an initial rollout of the SNSP, connectivity infrastructure has been established in areas such as Yuhua, the Civic District and Orchard Road to support closed circuit television and environmental sensors. Going forward, novel sensors and IoT devices will also be mounted on lamp posts, which are numerous and widely distributed all over the island.
 
@@ -48,7 +48,7 @@ Singapore has one of the highest population densities in the world, and moving p
 
 SBS and SMRT buses in Singapore have already been equipped with an intelligent fleet management system that relays real-time information on bus locations to operation control centres. This allows more accurate estimations of bus arrival times, allowing passengers to better plan their commute. The system also allows the optimisation of bus routes and schedules according to commuter volume.
 
-In addition to fixed and scheduled bus routes, on-demand bus services are also being trialled to make the public transport system more dynamic and responsive to commuter needs. One example of this model is the crowdsourcing mobile app Beeline, developed by GovTech, which allows public bus operators to ply new routes according to passenger demand. Meanwhile, autonomous vehicles are also being tested at one-north and the Jurong Innovation District as a future mode of transport. 
+In addition to fixed and scheduled bus routes, on-demand bus services are also being trialled to make the public transport system more dynamic and responsive to commuter needs. One example of this model is the crowdsourcing mobile app [Beeline](/products-and-services/beeline/){:target="_blank"}, developed by GovTech, which allows public bus operators to ply new routes according to passenger demand. Meanwhile, autonomous vehicles are also being tested at one-north and the Jurong Innovation District as a future mode of transport. 
 
 **5. Moments of Life**
 
