@@ -60,7 +60,3 @@ Winning team:
 - Wei Yuxin, JC1 Raffles Junior College
 - Sathappan Lakshmanan, JC2 NUS High School 
 - Chan Cheow Hoe, Deputy Chief Executive and Government Chief Information Officer, GovTech
-
-
-
- 
