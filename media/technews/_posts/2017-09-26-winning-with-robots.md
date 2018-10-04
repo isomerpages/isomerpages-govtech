@@ -3,6 +3,7 @@ layout: post
 title:  "Winning with Robots"
 permalink: "/media/technews/winning-with-robots"
 category: technews
+image: 
 ---
 
 As the alarm blasts, six robots rev up their engines and start across the grassy terrain.

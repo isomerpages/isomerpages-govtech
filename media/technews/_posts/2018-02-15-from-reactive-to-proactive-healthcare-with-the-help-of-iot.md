@@ -3,6 +3,7 @@ layout: post
 title:  "From reactive to proactive healthcare, with the help of IoT"
 permalink: "/media/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot"
 category: technews
+image: 
 ---
 
 - The Internet of Things (IoT) has permeated healthcare, allowing doctors to monitor patients’ health remotely and around the clock with wearables and sensors

@@ -4,6 +4,7 @@ title:  "With this blockchain-based platform, you may no longer need physical ce
 permalink: "/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates"
 date: 2018-08-27
 category: technews
+image: 
 ---
 
 ![open cert]({{"files/media/technews/2018/08/opencert.png" | absolute_url}})

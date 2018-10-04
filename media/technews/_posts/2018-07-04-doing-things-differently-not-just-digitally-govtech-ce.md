@@ -3,6 +3,7 @@ layout: post
 title:  "“Doing things differently, not just digitally”: GovTech CE"
 permalink: "/media/technews/doing-things-differently-not-just-digitally-govtech-ce"
 category: technews
+image: 
 ---
 
 TL: DR: GovTech’s approach to digitalisation is not just technology for technology’s sake, said chief executive Kok Ping Soon. Instead, it involves a fundamental re-think of the government-citizen relationship. The goal is to go beyond providing frictionless services to delighting citizens.

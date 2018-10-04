@@ -3,6 +3,7 @@ layout: post
 title:  "How GovTech and SLA use drones and AI for building inspections"
 permalink: "/media/technews/how-govtech-and-sla-use-drones-and-ai-for-building-inspections"
 category: technews
+image: 
 ---
 
 Keeping our buildings safe is no easy feat

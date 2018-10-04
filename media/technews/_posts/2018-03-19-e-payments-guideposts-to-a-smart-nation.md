@@ -3,6 +3,7 @@ layout: post
 title:  "E-payments : Guideposts to a Smart Nation"
 permalink: "/media/technews/e-payments-guideposts-to-a-smart-nation"
 category: technews
+image: 
 ---
 
 “You’ve got an Angbao” the app notification flashed on my nephew’s mobile. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Join the Smart Nation Industry Briefing"
 permalink: "/media/technews/join-the-smart-nation-industry-briefing"
 category: technews
+image: 
 ---
 
 For tech companies and professionals in the know, the upcoming Smart Nation Industry Briefing is a crystal ball cum barometer of the Government's ICT roadmap for the year ahead.

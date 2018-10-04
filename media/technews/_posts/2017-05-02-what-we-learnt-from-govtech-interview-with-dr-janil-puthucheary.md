@@ -3,6 +3,7 @@ layout: post
 title:  "What we learnt from GovTech's interview with Dr Janil Puthucheary"
 permalink: "/media/technews/what-we-learnt-from-govtech-interview-with-dr-janil-puthucheary"
 category: technews
+image: 
 ---
 
 <div class="bp-youtube">
