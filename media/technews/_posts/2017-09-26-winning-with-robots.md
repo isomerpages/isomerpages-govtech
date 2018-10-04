@@ -12,7 +12,7 @@ They make a beeline for the nearby riverbank, where sensors have triggered a pol
 
 The robots make quick work of purifying the water, removing the contaminants and delivering them to the lab for further testing.
 
-This hypothetical scenario of an eco-disaster was brought to life at this year’s FIRST Global Challenge Robotics Competition (FGCRC),
+This hypothetical scenario of an eco-disaster was brought to life at this year’s [FIRST Global Challenge](https://first.global/live/){:target="_blank"} Robotics Competition (FGCRC),
 
 Held in Washington DC in July 2017, this annual contest of wits and skill brings together youths from around the world to build complex and mult-functional automatons.
 
@@ -44,7 +44,7 @@ At the end of the match, the robots were supposed to either park on the bridge o
 
 The game was played in a three-versus-three format, so we would work with robots built by teams from two other countries to score more points than the opposing alliance.
 
-(Editor: You can check out competition highlights in the official video here.)
+(Editor: You can check out competition highlights in the [official video here.](https://www.youtube.com/watch?v=Ddh0kF-DbSk&feature=player_embedded){:target="_blank"} )
 
 
 **Q: What was your team’s winning strategy?**
@@ -86,4 +86,7 @@ We are grateful for all their efforts and support!
 ---
 
 Photo credit:
-1. Images and screenshots of FIRST Global Challenge Robotics Competition courtesy of FIRST Global Facebook page and FIRST Global Media YouTube pages respectively.
+1. Images and screenshots of FIRST Global Challenge Robotics Competition courtesy of [FIRST Global Facebook page](https://www.facebook.com/F1RSTglobal/){:target="_blank"} and [FIRST Global Media YouTube](https://www.youtube.com/channel/UCTSVzV2M_ZH-dY1yAz5fiZw){:target="_blank"} pages respectively.
+
+
+
