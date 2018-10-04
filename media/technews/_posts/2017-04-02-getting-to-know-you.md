@@ -3,6 +3,7 @@ layout: post
 title:  "Getting to know you"
 permalink: "/media/technews/getting-to-know-you"
 category: technews
+image: 
 ---
 
 It was an active discussion from start to finish.
