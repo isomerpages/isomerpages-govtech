@@ -3,6 +3,7 @@ layout: post
 title:  "Coming soon to a hospital near you: Holograms"
 permalink: "/media/technews/coming-soon-to-a-hospital-near-you-holograms"
 category: technews
+image: 
 ---
 
 - Head-mounted devices that depend on gaze, gestures and voice commands are the future of human-machine interfaces
