@@ -31,7 +31,7 @@ You can also build new ties with fellow industry professionals and grow your per
 
 
 **3. IMBX is literally just next door!**
-The Briefing will be held alongside imbX 2017, in the immediate neighbourhood of CommunicAsia2017 and EnterpriseIT2017, making it convenient for those who involved in these trade shows.
+The Briefing will be held alongside imbX 2017, in the immediate neighbourhood of [CommunicAsia2017 and EnterpriseIT2017](https://www.connectechasia.com/){:target="_blank"}, making it convenient for those who involved in these trade shows.
 
 You can actually visit imbX in the morning and join us for the Briefing in the afternoon.
 
