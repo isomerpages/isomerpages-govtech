@@ -3,6 +3,7 @@ layout: post
 title:  "Of Aliens and the Digital Dark Age"
 permalink: "/media/technews/of-aliens-and-the-digital-dark-age"
 category: technews
+image: 
 ---
 
 It may be hard to remember what life was like before mankind went online en masse. 
