@@ -12,7 +12,7 @@ TL:DR: The Moments of Life (Families) app was launched on 29 June 2018.  It curr
 
 Of the many milestones in life, the birth of a child is arguably the most momentous. For new parents, it is a time of great joy, but also a trying period as they adjust to having a tiny human in their care.
 
-To smoothen the transition to parenthood, the Singapore government has developed the Moments of Life (MOL) (Families) app, now available for download for both iOS and Android. The app, which caters to new parents and those with children under six years of age, is the culmination of 12 months of on-the-ground surveys, interviews, prototyping and beta-testing conducted with citizens representing a wide swathe of Singapore society. 
+To smoothen the transition to parenthood, the Singapore government has developed the [Moments of Life (MOL) (Families)](https://www.smartnation.sg/initiatives/moments-of-life-(families)){:target="_blank"} app, now available for download for both iOS and Android. The app, which caters to new parents and those with children under six years of age, is the culmination of 12 months of on-the-ground surveys, interviews, prototyping and beta-testing conducted with citizens representing a wide swathe of Singapore society. 
 
 The MOL (Families) app is another step towards delivering integrated services and information to citizens anywhere, and on a single platform. 
 
