@@ -3,6 +3,7 @@ layout: post
 title:  "Celebrate National Day with this Augmented Reality app"
 permalink: "/media/technews/celebrate-national-day-with-this-augmented-reality-app"
 category: technews
+image: 
 ---
 
 Explore Singapore in a whole new way using the NDP Jalan! app. Leveraging augmented reality, the app lets players take part in quizzes and minigames, as well as view special exhibitions to learn more about Singapore. Players will also be rewarded with discount vouchers for completing in-game quests, making it all the more worthwhile to be out and about from now till 9 August.
