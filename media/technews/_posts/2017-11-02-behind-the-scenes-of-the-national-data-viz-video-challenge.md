@@ -3,6 +3,7 @@ layout: post
 title:  "Behind the scenes of the National Data Viz Video Challenge"
 permalink: "/media/technews/behind-the-scenes-of-the-national-data-viz-video-challenge"
 category: technews
+image: 
 ---
 
 You’ve spent the last seven months of your life crunching information, on top of your daily workload and family obligations. You’ve pitched your project to judging panels and made it through several rounds of competition. 
