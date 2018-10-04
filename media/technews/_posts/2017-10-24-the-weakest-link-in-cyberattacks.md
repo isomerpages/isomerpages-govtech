@@ -17,6 +17,7 @@ Ms Kim Yun-Hee, Senior Editor at The Wall Street Journal, moderated the panel.
 
 
 **Hacking people**
+
 The most nefarious type of cyberattack, Mr Moynahan proposed, is the hacking of people.
 
 “The worst is really an insider attack, where someone who is trusted becomes untrusted… It could be a nation state embedding an employee inside of a company, whom the company trusts and gives credentials to, and who then gets root access to core intellectual property and critical data.”
@@ -35,6 +36,7 @@ Mr Rohozinski to laughter from the crowd.
 
 
 **Cybersecurity at the national level**
+
 Providing insights from a government regulatory body, Mr Koh shared that the CSA had just completed a public consultation for its first cybersecurity bill.
 
 In particular, the bill will require critical information infrastructure (CII) operators to report security breaches, and also provide key legislation to regulate the growing cybersecurity industry.
@@ -49,6 +51,7 @@ These memorandums of understanding, which have been signed with countries such a
 
 
 **46 billion ways to be hacked**
+
 According to December 2016 data from Juniper Research, the number of connected IoT (Internet of Things) devices, sensors and actuators will reach over 46 billion in 2021.
 
 This rapid expansion of the IoT sector, which is driven in large part by a reduction in the unit costs of hardware, is leaving us more vulnerable to attack, said Mr Schlickmann.
@@ -60,6 +63,7 @@ Refrigerators and home entertainment systems aside, some of these IoT devices wi
 “These IoT devices control trains, traffic lights and aircraft movements. If an IoT device gets hacked, it is not loss of data or credentials that we are talking about. Real lives can be impacted, including loss of life,” he warned. 
 
 **To trust, or not to trust**
+
 “I hate to say this, but we are moving away from what the internet was originally founded on, which is trust,” Mr Moynahan said, describing the measures taken by companies to stem cybercrime. 
 
 “You see the most sophisticated companies implementing zero-trust models; they are air gapping (physically isolating a computer or a network) things, they are not letting people have access. The analogue in the consumer world is defriending people on Facebook.”
