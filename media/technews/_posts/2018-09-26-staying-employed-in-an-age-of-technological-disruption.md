@@ -17,6 +17,7 @@ At the Milken Institute Asia Summit, speakers at the ‘A brave new world: prepa
 
 
 **What millennials want**
+
 Most familiar with the disruptive potential of technology in the labour markets is Mr Matsumoto, whose company manages thousands of print jobs with just 30 employees. It does so with a proprietary platform technology that connects customers to printing companies in Japan. RakSul is, in essence, the ‘Uber’ of print. 
 
 Unlike traditional [print] companies that scale their operations by hiring and purchasing additional printers, RakSul crowdsources human labour and assets, allowing it to operate with a small team of full-time staff. But Mr Matsumoto does not see his platform as taking away jobs. Rather, he thinks it empowers individuals who may have otherwise been employees to become entrepreneurs. “Our platform creates opportunity for our partners—whether they be individuals or SMEs—to flourish,” he said.
@@ -27,6 +28,7 @@ Mr Ruch agreed with this assessment, noting that millennials value self-fulfilme
 
 
 **Investing in people**
+
 Even as companies try to figure out how to create a conducive workspace for millennials, they must also address the challenge of upgrading the skills of their employees.
 
 “Churn is an expensive thing—having to renew your workforce every two to three years is very scary if you are running a large-scale business,” said Mr Legrand. Yet, it would seem many companies do not realise this.
@@ -37,6 +39,7 @@ In Mr Legrand’s opinion, it boils down to companies making a conscious decisio
 
 
 **Building a hybrid skillset**
+
 No discussion about jobs would be complete without touching on how education needs to change. Mr Rogove noted that the East and West have slightly different approaches to education, and that perhaps finding a middle ground between the two may be the best way forward. 
 
 “If you look at what we do really well in Asia, we have very good academic preparation for a STEM (science, technology, engineering and math) type of curriculum. There’s lots of content, knowledge and core skills,” he said. “In the West, we see a lot more emphasis on soft skills—adaptability, risk, grit, agility, leadership and communication. The reality, going forward, is you need both.”
