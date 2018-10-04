@@ -19,7 +19,9 @@ Gracing the event was Senior Minister of State, Ministry of Trade and Industry &
 
 This set the tone for the rest of the evening, which saw three speakers—Mr Ross Brawn, managing director of motorsports, F1; Mr Mario Isola, head of car racing, Pirelli Tyre S.p.A Motorsport; and Mr Gautham Ramesh, computational fluid dynamics (CFD) methodology engineer, Salient Edge—touch on the technical side of F1.
 
+
 **An engine of progress**
+
 “Like a lot of young boys, I wanted to drive, but I figured I was useless at that, so I went into engineering instead, which I found equally rewarding,” said Mr Brawn, who is something of a legend among the F1 community for his technical expertise and race track record.
 
 In 2009, he acquired a sputtering Honda team, renamed it Brawn GP and went on to win the F1 Constructors and Drivers Championships in that year. He eventually sold his team to Mercedes-Benz in 2010 but remained team principal, leading it to three consecutive victories from 2014 to 2016.
@@ -28,7 +30,9 @@ Giving the audience a glimpse of what to expect from F1 car engines in the futur
 
 Yet, impressive as this may be, the engine is just one enabler of the F1 car’s incredible performance. Another key element is aerodynamics, a research domain that Mr Ramesh is no stranger to.
  
+ 
 **Simulating excellence**
+
 A Singaporean who has worked with the F1 teams of Scuderia Toro Rosso, Williams, Lotus and Marussia, Mr Ramesh uses CFD to simulate and evaluate a car’s aerodynamic characteristics. “CFD is the science of predicting fluid flow, heat and mass transfer by solving a set of mathematical equations using a numerical process,” he said.
 
 “All over the car, there are a lot of intricately designed winglets and geometry that create flow structure called vortices… It’s very difficult to visualise vortices in real life. The only time you can really do that is when there is condensation in the air or if there’s high humidity.”
@@ -37,7 +41,9 @@ F1 teams hence use CFD to visualise and identify vortices and other flow structu
 
 “CFD is also being used in fuel tank baffle design,” Mr Ramesh said, referring to structures in the F1 car’s fuel tank that help keep petrol from sloshing around. By modelling the G-forces experienced by the fuel in the tank, baffles can be optimised such that fuel is channelled efficiently to the pump at the base of the tank, thereby reducing the likelihood of power loss to the car during races. 
 
+
 **Innovating tirelessly**
+
 Having covered the engines, aerodynamics and fuel tanks of F1 cars, the speakers next turned to innovation relating to F1 tyres. Mr Isola explained that Pirelli produces a range of compounds—blends of natural and synthetic rubber materials—that influence the rate of tyre degradation during races.
 
 While tyres for normal road require durability, the tyres used by F1 cars are in fact designed to degrade so as to encourage two to three pit stops during the race, which means that teams must choose their compounds wisely and decide when to call their car into the pit.
