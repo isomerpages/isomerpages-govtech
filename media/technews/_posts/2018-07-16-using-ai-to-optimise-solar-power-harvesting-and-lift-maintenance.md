@@ -15,6 +15,7 @@ Notably, the processing power of computers back then imposed a strict upper limi
 
 Fast forward a few decades, however, and today’s blazing fast graphics processing units allow computations to be completed within seconds where they would have taken days in the past, said Dr Thomas Ho, department head, Smart Energy and Environment, at the Institute of Infocomm Research (I2R). He was speaking at the AI leader’s forum on 15 May 2018, where he explained how AI is now being applied to solve one of Singapore’s most pressing issues—sustainability. 
 
+
 **Little red dot, big energy needs**
 
 Small as it may be, Singapore is one of the top consumers of electricity in the world, said Dr Ho. Furthermore, unlike other energy guzzlers such as the United Kingdom, whose power consumption has remained relatively steady over time, Singapore’s usage has continued to increase. Dr Ho called this an “alarming problem”, given that Singapore is resource-scarce and therefore must rely heavily on other countries rich in fossil fuels. 
