@@ -38,7 +38,7 @@ These questions are by no means exhaustive, but the point is that checklists are
  
 **4. Maintain line of sight**
 
-Once you’ve gone through your checklist and ensured that your drone is fit for flight, do take note of the height limits for recreational drone activity. According to the Civil Aviation Authority of Singapore’s (CAAS) guidelines, drones should fly below 200 feet (which is about 60 metres, or 12 storeys of an HDB apartment block), beyond which an activity permit is required for each flight session or block of repeated flight sessions.
+Once you’ve gone through your checklist and ensured that your drone is fit for flight, do take note of the height limits for recreational drone activity. According to the [Civil Aviation Authority of Singapore’s (CAAS) guidelines](https://www.caas.gov.sg/public-passengers/unmanned-aircraft-systems){:target="_blank"}, drones should fly below 200 feet (which is about 60 metres, or 12 storeys of an HDB apartment block), beyond which an activity permit is required for each flight session or block of repeated flight sessions.
 
 Also, the rule of thumb for drone flights is to never let the drone out of sight. If you can see your drone, you’ll be able to adjust its flight path to avoid obstacles, or bring it ‘home’ when its batteries are nearly exhausted.
 
@@ -49,5 +49,5 @@ Just because the sky’s the limit for drones doesn’t mean that there are no l
  
 In essence, stay away from Changi Airport, police camps and the military bases and you’ll be fine. Otherwise, be prepared to pay a fine—those caught violating the Unmanned Aircraft Act (which has been effect since 2015) can be fined up to S$20,000 or face a one-year jail term, depending on the area infringed upon. These penalties apply even if the drone operator was not aware that an airspace is off-limits.
 
-(Pro-tip: Drone pilots can find a list of off-limits airspaces at www.onemap.sg. Click on the tab at the top right corner of the page and select ‘Nearby’, then select ‘Safety and Security’ to view the various no-fly zones designated by the CAAS.)
+(Pro-tip: Drone pilots can find a list of off-limits airspaces at [www.onemap.sg](www.onemap.sg){:target="_blank"}. Click on the tab at the top right corner of the page and select ‘Nearby’, then select ‘Safety and Security’ to view the various no-fly zones designated by the CAAS.)
  

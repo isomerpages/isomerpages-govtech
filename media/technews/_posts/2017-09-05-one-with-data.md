@@ -82,6 +82,6 @@ Mr Villeneuve also noted that at the end of the day, F1 racing is a spectator sp
 ---
 
 Photo credit:
-1. Main image (top photo): Creative Commons Villeneuve BAR USGP 2003 by Rick Dikeman licensed under CC BY-SA 3.0.
-2. Photo of 2005 Canadian Grand Prix: Creative Commons Jacques Villeneuve 2005 Canada 2 by Mark McArdle licensed under CC BY-SA 2.0.
-3. Teaser image: Creative Commons Jacques Villeneuve 2005 Canada by TMWolf licensed under CC BY-SA 2.0.
+1. Main image (top photo): Creative Commons [Villeneuve BAR USGP 2003](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Villeneuve_BAR_USGP_2003.jpg){:target="_blank"} by [Rick Dikeman](https://commons.wikimedia.org/wiki/User:RickDikeman){:target="_blank"} licensed under [CC BY-SA 3.0.](https://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"}
+2. Photo of 2005 Canadian Grand Prix: Creative Commons [Jacques Villeneuve 2005 Canada 2](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Jacques_Villeneuve_2005_Canada_2.jpg){:target="_blank"} by [Mark McArdle](https://www.flickr.com/people/12169388@N05){:target="_blank"} licensed under [CC BY-SA 2.0.](https://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"}
+3. Teaser image: Creative Commons [Jacques Villeneuve 2005 Canada](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Jacques_Villeneuve_2005_Canada.jpg){:target="_blank"}  by [TMWolf](https://www.flickr.com/people/64917036@N00){:target="_blank"}  licensed under [CC BY-SA 2.0.](https://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"}

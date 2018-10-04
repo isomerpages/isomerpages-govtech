@@ -22,7 +22,7 @@ In addition to Ms Lim, also speaking on the panel were Dr Paul Lothian, Director
 
 **A pipeline of professionals**
 
-If Singapore is to beef up its cybersecurity, it needs its own pool of expertise to draw from. Training individuals at different stages of their careers is thus of paramount importance. Ms Lim said that the Cyber Security Agency of Singapore has partnered with the Info-communications Media Development Authority (IMDA) to launch the Cyber Security Associates and Technologists Programme (CSAT). 
+If Singapore is to beef up its cybersecurity, it needs its own pool of expertise to draw from. Training individuals at different stages of their careers is thus of paramount importance. Ms Lim said that the Cyber Security Agency of Singapore has partnered with the Info-communications Media Development Authority (IMDA) to launch the [Cyber Security Associates and Technologists Programme (CSAT).](https://www.csa.gov.sg/programmes/csat){:target="_blank"} 
 
 “The intent [of this programme] is to upskill cybersecurity professionals,” said Ms Lim. “This will allow them to work with private sector companies, so that there is a pipeline of talented professionals who are ready to address cybersecurity shortages.”
 

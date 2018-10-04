@@ -41,3 +41,8 @@ Each thematic trail has its own unique set of checkpoints, like the Pokéstops i
 **4. View special exhibitions**
 
 Even after you’re done with the thematic trails and quests, you can use the app’s AR Viewer mode to enjoy special exhibitions at Bayfront MRT Exit B (5 July–9 August), Singapore Discovery Centre (10 July–18 November) and Tampines Hub (4–9 August). So if you haven’t already done so, download the NDP Jalan! app now to discover Singapore in a fun and engaging way.
+
+---
+
+Images courtesy of [NDPeeps](https://www.facebook.com/NDPeeps/){:target="_blank"}
+
