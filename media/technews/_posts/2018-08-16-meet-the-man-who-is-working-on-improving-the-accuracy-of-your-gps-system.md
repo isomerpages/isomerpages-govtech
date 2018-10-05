@@ -19,6 +19,7 @@ GPS has become so pervasive that most people don’t even think about the techno
 
 
 **Room for improvement**
+
 Mr Piong is no stranger to refining GPS technology. His first job after graduating from the University of Michigan was at Garmin, a global leader in GPS innovation. For five years, from 2008 to 2012, he worked on Garmin’s GPS watches and cycling computers. 
 Then, restless and eager to learn something new, he left Garmin and joined electric carmaker Tesla, where he worked on Tesla’s version control system—a code repository containing all the code required to update Tesla vehicles. More recently, he worked on the battery management system for Tesla’s Model 3.
 ![paul]({{"/images/technews/meet-the-man-who-is-working-on-improving-the-accuracy-of-your-gps-system-part-2.PNG" | absolute_url}})
