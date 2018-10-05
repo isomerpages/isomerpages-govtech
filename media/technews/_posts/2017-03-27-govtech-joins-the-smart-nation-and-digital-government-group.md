@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![govtech joins the smart nation and digital government group]({{site.baseurl}}/images/technews/govtech-joins-the-smart-nation-and-digital-government-group-part-1.jpg)
+
 Dear readers,
 
 Just in case you haven’t heard, the big news from last week is that GovTech will be part of the Prime Minister’s office (PMO) from 1 May 2017 onwards.
