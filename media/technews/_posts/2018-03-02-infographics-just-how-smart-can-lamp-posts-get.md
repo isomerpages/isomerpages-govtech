@@ -6,4 +6,7 @@ category: technews
 image: 
 ---
 
+![Infographics of Smart Lamp Posts]({{site.baseurl}}/images/technews/infographics-just-how-smart-can-lamp-posts-get-part-1.png)
+
+![Infographics of Smart Lamp Posts]({{site.baseurl}}/images/technews/infographics-just-how-smart-can-lamp-posts-get-part-2.jpg)
 
