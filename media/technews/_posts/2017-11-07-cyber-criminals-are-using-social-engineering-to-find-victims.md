@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![cyber criminals are using social engineering to find victims]({{site.baseurl}}/images/technews/cyber-criminals-are-using-social-engineering-to-find-victims-part-11.jpg)
+
 It is no secret that cyber-attackers are getting better at what they do. 
 
 “They know you, they know Singaporeans. It’s all about social engineering,” said Mr Anthony Lim, director of the Singapore chapter of Cloud Security Alliance, a non-profit organisation that promotes best practices in cybersecurity. 
