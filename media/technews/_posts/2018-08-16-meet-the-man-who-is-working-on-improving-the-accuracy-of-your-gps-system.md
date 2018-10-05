@@ -27,7 +27,7 @@ Then, restless and eager to learn something new, he left Garmin and joined elect
 It was in October 2017 that Mr Piong met Mr Quek Yang Boon, director of the Sensors and IoT division at GovTech, who invited Mr Piong to return to Singapore for a short stint. Arriving in Singapore as a Smart Nation fellow in May 2018, Mr Piong has spent the past three months researching differential GPS, a method to enhance location accuracy for pedestrians and vehicles. 
 
 “Typically, a base station has a fixed location—this is the ground truth programmed into it—but it also figures out its own location based on the constellation of satellites that it ‘sees’. Sometimes, its ‘view’ is blocked by weather conditions, like clouds, and this could affect positioning accuracy,” Mr. Piong explained. A discrepancy thus arises between the base station’s actual and satellite-derived locations.
-![paul]({{"/images/meet-the-man-who-is-working-on-improving-the-accuracy-of-your-gps-system-part-3.PNG" | absolute_url}})
+![paul]({{"/images/technews/meet-the-man-who-is-working-on-improving-the-accuracy-of-your-gps-system-part-3.PNG" | absolute_url}})
 <sub>One of base station prototype Mr Piong created for the dedicated short-range communications system.</sub>
 
 
