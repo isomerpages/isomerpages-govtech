@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![government stack developer workshop]({{site.baseurl}}/images/technews/getting-to-know-nectar-and-apex-part-1.jpg)
+
 TL:DR: Adopting an agile approach to the creation of government digital services requires a rethink of the available infrastructure. NECTAR and APEX are two platforms in the government’s digital toolbox that are changing the way applications are being developed and deployed. GovTech held its inaugural GovTech Stack Developer’s workshop on 25 May 2018 to familiarise developers with the two platforms. 
 
 ---
@@ -14,6 +16,7 @@ In the past, “agile” was used to describe the physical ability of being quic
 
 Agile software development is ideal for the creation of digital government services, which cater to the constantly-evolving needs of citizens. As Singapore looks to digitalise everything from filing taxes to registering for the Baby Bonus, the infrastructure to support whole-of-government digital applications needed a revamp. This arrived in the form of the Next-Generation Container Architecture (NECTAR) and the Application Programming Interface Exchange (APEX), developed by the Government Digital Services team at the Government Technology Agency of Singapore (GovTech).
 
+![photo of government stack developer workshop]({{site.baseurl}}/images/technews/getting-to-know-nectar-and-apex-part-2.PNG)
 
 **A Sweet Deal**
  
