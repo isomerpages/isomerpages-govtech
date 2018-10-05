@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![geeking out with govtech]({{site.baseurl}}/images/technews/geeking-out-with-govtech-part-1.jpg)
+
 TL:DR: Students from junior colleges and universities built and raced Arduino-based smart cars at GovTech’s GeekOut boot-camp, which ran from 18-22 June 2018. The workshop was facilitated by GovTech’s technical experts, who helped students troubleshoot problems. TechNews spoke to the winners of the smart car race about their experience at the five-day programme
 
 ---
@@ -15,6 +17,7 @@ But how does one gain geek cred? For starters, they could join GovTech’s GeekO
 
 All these activities culminated in a race on the final day of the workshop, where each team’s smart car was required to complete a track both manually and autonomously. TechNews caught up with the winners of the competition to find out how they felt about geeking out with GovTech.
 
+![photo of the day]({{site.baseurl}}/images/technews/geeking-out-with-govtech-part-2.jpg)
 
 **Igniting imagination and fostering teamwork**
 
@@ -45,8 +48,12 @@ Besides getting hands-on experience, workshop participants also had the chance t
 “In the digital age, agility is important because no university can teach you enough. In fact, the end of your formal education is only the start of your journey,” he emphasised. “If you can’t keep learning, adapting and being agile, chances are you will not survive in this industry.”
 
 On boldness, Mr Chan commended the participants for leaving their comfort zones and experimenting with a platform—Arduino—that was initially foreign to them. Finally, he noted how collaboration is crucial to success.
+
+![abc of innovation]({{site.baseurl}}/images/technews/geeking-out-with-govtech-part-3.jpg)
+
 “Because of the way technology cuts across many domains today, even if you are not doing programming or coding per se, your work will still be closely related to it. For example, at GovTech we have sociologists and psychologists helping us with user experience design and even data science,” he said. “Most of the time, we require more than one team to come together to work on projects.”
 
+![fastest autonomous and bBest comeback]({{site.baseurl}}/images/technews/geeking-out-with-govtech-part-4.jpg)
 
 Fastest Autonomous and Best Comeback:
 - Jonathan Lim (entering uni)
@@ -54,6 +61,8 @@ Fastest Autonomous and Best Comeback:
 - Kaitlyn Ng (RI J2)
 - Lee Tze Han (NUSHS Year 6)
 - Evangeline Chua (Chief People Officer, GovTech)
+
+![winning team]({{site.baseurl}}/images/technews/geeking-out-with-govtech-part-5.jpg)
 
 Winning team:
 - Jacky Lu Jia Xin, JC2 Dunman High School 
