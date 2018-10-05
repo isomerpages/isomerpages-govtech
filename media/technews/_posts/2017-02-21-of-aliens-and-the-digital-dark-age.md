@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![of aliens and the digital dark age]({{site.baseurl}}/images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg)
+
 It may be hard to remember what life was like before mankind went online en masse. 
 
 But the internet wasn’t handed to us on a silver platter; it was carefully designed by a group of people.
