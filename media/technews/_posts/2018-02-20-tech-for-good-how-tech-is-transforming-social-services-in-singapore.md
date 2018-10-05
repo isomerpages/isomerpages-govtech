@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![tech is transforming social services in singapore]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-1.jpg)
+
 The simplest improvements brought about by technology can help make someone’s day. But nothing is more important to Christina Gan and her team at MSF, one of GovTech’s partner agency sites, than listening to feedback from citizens and VWOs before proposing ideas that can meet their needs.
 
 It might not seem like much to some, but for Christina Gan, the happy smiles on the faces of the elderly is a huge motivation for her to go to work each day.
@@ -20,6 +22,8 @@ After a three-month review of the sector, which included some 450 Voluntary Welf
 The idea arose because they realise that there are times when one contact point cannot offer all the relevant help that their clients’ – typically citizens from the lower income or vulnerable groups – need, and the case would have to be referred to another partner, explains Christina. 
 
 This means they’d have to explain their situation over and over, and information tends to be scattered at various locations. “By registering that challenge, we acknowledge the need to better organise our information around the client and adopt a client-centric approach. Then the question is, how do we enable it with technology?''
+
+![photo]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-2.jpg)
 
 After hearing the challenges their clients constantly face, Christina and her team at MSF came up with SSNet – a shared platform that collates and stores client information gathered from the VWOs.
 
@@ -41,6 +45,9 @@ The intensive engagement took months, with hundreds of workshops and focus group
 
 Many VWOs were also not tech-savvy. Thus, in phase one of the project, she had to place a roving team at each VWO site to help in problem-solving. This takes a lot of patience, which thankfully, her team of 25 members has.
 
+![photo]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-3.jpg)
+<sub>Christina's team knows the importance of listening and understanding the condition of the VWOs before coming up with a possible solution.</sub>
+
 Christina credits her team, which is made up of “very adaptable folks” comprising seasoned and experienced members as well as new recruits who have many fresh ideas. 
 
 They demonstrate agility by building a “minimum viable product” – a system with the right essentials to support service delivery. “We didn’t want to overload it. We wanted to talk to each VWO, understand their needs and then see what we can do with them first. Overtime, we’ll build in new features and grow it,” she explains.
@@ -54,9 +61,13 @@ Their efforts have already garnered recognition – they received the Best Pract
 
 “We were very happy. We didn’t do this for the awards; we did it because we were highly motivated to help people in need,” Christina says. The recognition, she adds, is a celebration of the collaborative efforts between the VWOs, MSF, and its partners.
 
+![photo]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-4.jpg)
+
 “The fact that we could bring people into a collaborative platform is to me, the single biggest innovation we have brought in. Before SSNet, there was no such thing as a platform for collaboration in technology. In the past, everyone had their own data and if you want that information, you’d have to call or email.  Now, such information can be found on the system.” 
 
 Christina and her team have also embarked on other innovative projects – all with the aim of making things much easier for their beneficiaries. An example is a robotic coach – created by polytechnic students with the help of their lecturers and the support of Christina’s team.
+
+![photo]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-5.jpg)
 
 Her team helped to be the “matchmaker”. They organised sessions with a senior activity centre to brainstorm ideas, before helping to shape a possible technological solution for their needs. They then found a willing party to create the robot and sourced for funding to help them out.
 
