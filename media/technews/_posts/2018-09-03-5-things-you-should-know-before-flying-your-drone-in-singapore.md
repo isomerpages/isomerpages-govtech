@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![things to know before flying drone in singapore]({{site.baseurl}}/images/technews/5-things-you-should-know-before-flying-your-drone-in-singapore-part-1.jpg)
+
 TL:DR: Flying a recreational drone can be a great pastime, not to mention the awe-inspiring photos that can be taken from above. But flying safely and responsibly is just as important as having fun. Here are five things you should take note of before your drone takes off. 
 
 ---
@@ -14,12 +16,16 @@ So you’ve seen beautiful aerial photographs on the internet taken by drones, a
 
 But hold your horses! While flying a drone might seem like a no-brainer, there are some rules to abide by and best practices to follow so that your flight of fantasy does not turn into a nightmare for yourself or those around you. We highlight here five things you should pay attention to before letting your drone take off.
 
+![drone diagram]({{site.baseurl}}/images/technews/5-things-you-should-know-before-flying-your-drone-in-singapore-part-2.jpg)
+
 
 **1. Read the instruction manual**
 
 This might seem like stating the obvious, but the drone comes with an instruction manual for a reason. Just because you are proficient with a remote-controlled car does not necessarily mean that you can fly a drone. After all, drones move in a whole new dimension—up.
 
 Even if you’ve flown a different model of drone before, do remember that each drone is unique, and there may be certain quirks or features you need to know about. Key things to familiarise yourself with include the drone’s maximum flight time and the maximum transmission range of the remote controller. To be safe, don’t push the limits of either one of these parameters.
+
+![read the instruction manual]({{site.baseurl}}/images/technews/5-things-you-should-know-before-flying-your-drone-in-singapore-part-3.jpg)
 
 
 **2. Check the weather forecast**
@@ -28,6 +34,7 @@ Unlike passenger-carrying vessels, the smaller size of drones means that they ar
 
 For example, on a hot day, the rotors on the drone need to work harder to generate lift. This means that the battery drains more quickly and overheating of the electronics could occur, so you may want to factor in more downtime between flights. At the other end of the spectrum, cold weather reduces the efficiency of the drone’s battery, which could cut flight time by as much as half. In either extreme, it may be best to keep your drone grounded.
 
+![check the weather forecast]({{site.baseurl}}/images/technews/5-things-you-should-know-before-flying-your-drone-in-singapore-part-4.jpg)
 
 **3. Create a pre-flight checklist**
 
