@@ -95,3 +95,5 @@ She and others in her group had to wait there for hours until it was safe to mak
 The experience was extremely stressful, she says, and the trauma still stays with her whenever she recounts what happened on that day. “I was glad to be back. When I saw my family, all my emotions came out. That incident was one point in my life where I reflected and realised what was more important to me,” she recalls.
 
 To de-stress, she plays golf, goes out for meals with her team, and spends time with her nephews and nieces. She also collects heart-shaped ornaments – a hobby she began after she joined MSF. “I wanted to remind myself that with this job, you need to give from the heart,” she says with a smile.
+
+![photo]({{site.baseurl}}/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-6.jpg)
