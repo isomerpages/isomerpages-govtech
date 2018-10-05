@@ -38,7 +38,7 @@ Besides PayNow, NETS and EZ-Link can be used at participating hawker centres isl
 
 A key ingredient for building a Smart Nation is data, but to amass it, sensors must be deployed in multiple locations across Singapore to gather a diverse range of inputs. This is being explored and developed as a [Smart Nation Sensor Platform (SNSP)](/products-and-services/smart-nation-sensor-platform/){:target="_blank"}, which combines an array of sensors and internet of things (IoT)-enabled devices to monitor everything from traffic to water quality.
 
-As part of an initial rollout of the SNSP, connectivity infrastructure has been established in areas such as Yuhua, the Civic District and Orchard Road to support closed circuit television and environmental sensors. Going forward, novel sensors and IoT devices will also be mounted on lamp posts, which are numerous and widely distributed all over the island.
+As part of an initial rollout of the SNSP, connectivity infrastructure has been established in areas such as Yuhua, the Civic District and Orchard Road to support closed circuit television and environmental sensors. Going forward, novel sensors and IoT devices will also be mounted on [lamp posts](/media/technews/infographics-just-how-smart-can-lamp-posts-get/){:target="_blank"}, which are numerous and widely distributed all over the island.
 
 With the data harnessed by the SNSP, government agencies will be able to perform in-depth and cross-domain analyses to make evidence-based decisions when planning public amenities and services for citizens. 
 
