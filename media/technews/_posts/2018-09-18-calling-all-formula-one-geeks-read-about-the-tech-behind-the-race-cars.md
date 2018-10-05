@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![formula 1 tech talk]({{site.baseurl}}/images/technews/calling-all-formula-one-geeks-read-about-the-tech-behind-the-race-cars-part-1.jpg)
+
 TL:DR: From its hybrid engine to its tyres and aerodynamics, the Formula One car is a machine optimised for speed. Assembling each car requires expertise from a range of scientific disciplines. As F1 fever hits Singapore’s shores, find out more about the technology powering these speed demons.
 
 ---
@@ -20,6 +22,7 @@ Gracing the event was Senior Minister of State, Ministry of Trade and Industry &
 
 This set the tone for the rest of the evening, which saw three speakers—Mr Ross Brawn, managing director of motorsports, F1; Mr Mario Isola, head of car racing, Pirelli Tyre S.p.A Motorsport; and Mr Gautham Ramesh, computational fluid dynamics (CFD) methodology engineer, Salient Edge—touch on the technical side of F1.
 
+![formula 1 tech talk]({{site.baseurl}}/images/technews/calling-all-formula-one-geeks-read-about-the-tech-behind-the-race-cars-part-2.jpg)
 
 **An engine of progress**
 
@@ -38,6 +41,8 @@ A Singaporean who has worked with the F1 teams of Scuderia Toro Rosso, Williams,
 
 “All over the car, there are a lot of intricately designed winglets and geometry that create flow structure called vortices… It’s very difficult to visualise vortices in real life. The only time you can really do that is when there is condensation in the air or if there’s high humidity.”
 
+![photo]({{site.baseurl}}/images/technews/calling-all-formula-one-geeks-read-about-the-tech-behind-the-race-cars-part-3.jpg)
+
 F1 teams hence use CFD to visualise and identify vortices and other flow structures. This information can then be used to develop and design control surfaces to generate downforce, which pushes the car down onto the road, allowing it to round corners at higher speeds.
 
 “CFD is also being used in fuel tank baffle design,” Mr Ramesh said, referring to structures in the F1 car’s fuel tank that help keep petrol from sloshing around. By modelling the G-forces experienced by the fuel in the tank, baffles can be optimised such that fuel is channelled efficiently to the pump at the base of the tank, thereby reducing the likelihood of power loss to the car during races. 
@@ -46,6 +51,8 @@ F1 teams hence use CFD to visualise and identify vortices and other flow structu
 **Innovating tirelessly**
 
 Having covered the engines, aerodynamics and fuel tanks of F1 cars, the speakers next turned to innovation relating to F1 tyres. Mr Isola explained that Pirelli produces a range of compounds—blends of natural and synthetic rubber materials—that influence the rate of tyre degradation during races.
+
+![photo]({{site.baseurl}}/images/technews/calling-all-formula-one-geeks-read-about-the-tech-behind-the-race-cars-part-4.png)
 
 While tyres for normal road require durability, the tyres used by F1 cars are in fact designed to degrade so as to encourage two to three pit stops during the race, which means that teams must choose their compounds wisely and decide when to call their car into the pit.
 

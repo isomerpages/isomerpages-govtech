@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![celebrate national day with augmented reality app]({{site.baseurl}}/images/technews/celebrate-national-day-with-this-augmented-reality-app-part-1.png)
+
 Explore Singapore in a whole new way using the NDP Jalan! app. Leveraging augmented reality, the app lets players take part in quizzes and minigames, as well as view special exhibitions to learn more about Singapore. Players will also be rewarded with discount vouchers for completing in-game quests, making it all the more worthwhile to be out and about from now till 9 August.
 
 <div class="bp-youtube">
@@ -27,10 +29,13 @@ Here are four fun features of the NDP Jalan! app.
 
 Upon downloading and opening the NDP Jalan! mobile app, you will first be prompted to create an NDPeep—an in-game avatar with customisable characteristics such as gender and clothing colour. You can also select the artwork on your avatar’s backpack. There are 18 different designs to choose from, featuring iconic structures such as the Marina Bay Sands and the Merlion drawn by 38 special needs students from 18 special education schools in Singapore.
 
+![create avatar]({{site.baseurl}}/images/technews/celebrate-national-day-with-this-augmented-reality-app-part-2.png)
 
 **2. Get out and about**
 
 Once you’ve finalised your NDPeep, head out and take a jalan-jalan (walk) on real-world thematic trails scattered around the city-state. The special NDP trail, only available from 30 July to 9 August, takes you on a tour of The Float@Marina Bay and its surroundings, where you can uncover trivia about the various elements of NDP2018. If arts and culture are your cup of tea, head over to the Civic District, where there are checkpoints within museums and galleries to explore. For those who prefer greenery, a nature trail can be found at the Singapore Botanic Gardens, a UNESCO World Heritage Site.
+
+![get out and about]({{site.baseurl}}/images/technews/celebrate-national-day-with-this-augmented-reality-app-part-3.png)
 
 
 **3. Earn rewards as you play**

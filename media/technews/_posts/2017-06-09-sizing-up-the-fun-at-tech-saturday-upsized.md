@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![sizing up the fun at tech saturday upsized]({{site.baseurl}}/images/technews/sizing-up-the-fun-at-tech-saturday-upsized-part-1.jpg)
+
 A big shoutout and 'Thank You!' to our friends from IMDA for inviting GovTech to participate in Tech Saturday (Upsized!).
 
 From hackathons and tinker spaces to remote-controlled tank races and virtual reality headsets, there was definitely something for everyone at the third edition of the annual tech event.

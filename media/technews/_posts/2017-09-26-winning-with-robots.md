@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![winning with robots]({{site.baseurl}}/images/technews/winning-with-robots-part-1.jpg)
+
 As the alarm blasts, six robots rev up their engines and start across the grassy terrain.
 
 They make a beeline for the nearby riverbank, where sensors have triggered a pollution alert — a chemical spill is endangering the local ecosystem and the livelihoods of people downstream.

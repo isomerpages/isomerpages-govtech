@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![doing things differently]({{site.baseurl}}/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-1.png)
+
 TL: DR: GovTech’s approach to digitalisation is not just technology for technology’s sake, said chief executive Kok Ping Soon. Instead, it involves a fundamental re-think of the government-citizen relationship. The goal is to go beyond providing frictionless services to delighting citizens.
 
 <div class="bp-youtube">
@@ -52,4 +54,8 @@ Co-creation has proven to be a productive approach, particularly in the realm of
 Ultimately, digitalisation should be about treating the citizen as a customer and providing services that do not just satisfy but actually delight them, he added. “If we can deliver services that are easy to use, seamless and secure online, all we have done is reduce the inconveniences [of everyday life]. But doing more to delight citizens might be foreign to governments because unlike private companies, we are not trying to maximise revenue,” Mr Kok said.
 Nonetheless, it is essential for governments to embrace the “law of the customer” and focus on the needs of its citizenry, he said. To do this, GovTech starts developing new services by first going through what it calls a ‘service experience journey,’ evaluating every interaction with the government from the perspective of the user. 
 
-“Developing services in this way requires us to do things very differently, in a more agile manner. It requires the government to change its thinking and the way we approach policies,” Mr Kok said. “At the end of the day, building a smart nation requires a new level of partnership between the people, the private and the public sector.” 
+“Developing services in this way requires us to do things very differently, in a more agile manner. It requires the government to change its thinking and the way we approach policies,” Mr Kok said. “At the end of the day, building a smart nation requires a new level of partnership between the people, the private and the public sector.”
+
+![doing things differently]({{site.baseurl}}/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-2.png)
+
+

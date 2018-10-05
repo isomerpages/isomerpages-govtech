@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![coming soon to a hospital near you holograms]({{site.baseurl}}/images/technews/coming-soon-to-a-hospital-near-you-holograms-part-1.jpg)
+
 - Head-mounted devices that depend on gaze, gestures and voice commands are the future of human-machine interfaces
 - Mixed reality technology is shaking up medical training and surgery
 - Developing countries have the opportunity to leapfrog highly regulated and risk-averse economies in terms of deploying mixed reality technology in the clinical setting

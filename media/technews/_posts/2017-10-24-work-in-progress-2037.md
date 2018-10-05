@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![work in progress 2037]({{site.baseurl}}/images/technews/work-in-progress-2037-part-1.jpg)
+
 From the Industrial Revolution in the late 18th century to corporatisation in the 20th century, monumental shifts in global labour markets have always led to deep anxiety among those whose jobs were being displaced. 
 
 The latest technological revolution — sometimes called the Fourth Industrial Revolution, or Industry 4.0 — is one where the likes of robots and self-driving cars are expected to quickly displace the very humans who developed them. 

@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![staying employed in an age of technological disruption]({{site.baseurl}}/images/technews/staying-employed-in-an-age-of-technological-disruption-part-1.jpg)
+
 TL:DR: With technologies like artificial intelligence threatening to displace workers, employers and employees are being forced to rethink the nature of work. Reskilling, with a focus on both hard and soft skills, will be important to help companies stay competitive and allow employees to stay relevant. The education system must also evolve to prepare the next generation for the jobs of tomorrow. 
 
 ---
@@ -16,6 +18,7 @@ According to a McKinsey report, half of the current work activities are technica
 
 At the Milken Institute Asia Summit, speakers at the ‘A brave new world: preparing for the jobs of tomorrow’ panel discussion shared their insights into the changing nature of work and how to stay employed in the future economy. Mr Gianfranco Casati, group CEO of growth markets, Accenture, moderated the panel, which comprised Mr Achal Agarwal, president, Asia Pacific, Kimberly-Clark Corporation; Mr Olivier Legrand, managing director and vice president, Asia Pacific and China, LinkedIn; Mr Yasukane Matsumoto, founder and CEO, RakSul Inc.; Mr Brian Rogove, founder and CEO, A-Star-Education; and Mr Ole Ruch, head of global strategy, WeWork.
 
+![photo]({{site.baseurl}}/images/technews/staying-employed-in-an-age-of-technological-disruption-part-2.jpg)
 
 **What millennials want**
 

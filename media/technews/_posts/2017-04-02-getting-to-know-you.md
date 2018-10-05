@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![getting to know you]({{site.baseurl}}/images/technews/getting-to-know-you-part-1.jpg)
+
 It was an active discussion from start to finish.
 
 Where bold questions were asked and honest responses given. 

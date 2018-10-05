@@ -6,12 +6,16 @@ category: technews
 image: 
 ---
 
+![giving every citizen a unique digital identity]({{site.baseurl}}/images/technews/giving-every-citizen-a-unique-digital-identity-part-1.png)
+
 Proving your identity with physical documents can be a hassle when applying for digital services. Now, with the National Digital Identity (NDI) framework, comprehensive identity data is stored digitally and can be used to transact seamlessly online. Given the sensitivity of personal data, consent and authentication are essential elements of the NDI framework
 
 ---
 
 
 If you were to write down all the things that represent you as an individual, you’d probably end up with a pretty long list—birth certificate, passport, NRIC, driving license, education certificates, income documents, medical records and so on. Each of these items is part of your identity, but they’re not all in one place. This introduces friction, say, when you apply for a Housing Development Board apartment or request a bank loan.
+
+![photo]({{site.baseurl}}/images/technews/giving-every-citizen-a-unique-digital-identity-part-2.jpg)
 
 Now imagine having a ‘wallet’ containing every aspect of your personal identity that you can carry around with you. Should you require services from the public or private sector, simply show the service provider the relevant compartment of that wallet and you can be on your way to completing a transaction. Such seamless interactions across domains and services will be made possible with the National Digital Identity (NDI) framework.
 
@@ -32,6 +36,8 @@ But just because personal data is available doesn’t mean that it should be acc
 **Keeping transactions secure**
 
 Another key element of the NDI framework is multi-factor authentication, which helps protect against identity fraud. The first level of authentication takes place when citizens login with their SingPass, where in addition to keying in their password, they will be required to provide a one-time password sent to them via SMS or generated with a OneKey token.
+
+![2 factor authentication]({{site.baseurl}}/images/technews/giving-every-citizen-a-unique-digital-identity-part-3.png)
 
 But going beyond one-time passwords, NDI is designed to be able to interface with biometrics as well as third-party authentication protocols, such as those used by banks. By relying on multiple modes to verify identity and allowing the private sector to add their own layers of identity assurance on top of SingPass, the NDI prevents citizens’ identities from being hijacked for nefarious means. 
 
