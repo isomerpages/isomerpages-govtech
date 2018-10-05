@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![from hong kong to hive]({{site.baseurl}}/images/technews/from-hong-kong-to-hive-part-1.jpg)
+
 She came, she saw, and she concurred after visiting GovTech — that there were opportunities for technology exchanges and collaboration between Hong Kong and Singapore.
 
 We are talking about the visit by to Singapore and in particular, GovTech Hive, by Chief Executive of Hong Kong, Mrs Carrie Lam, on Thursday, 3 Aug.
