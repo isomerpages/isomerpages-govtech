@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![how to manage successful data science projects]({{site.baseurl}}/images/technews/how-to-manage-successful-data-science-projects-part-1.jpg)
+
 TL:DR: Data analytics promises to take the guesswork out of policy design by assisting in evidence-based decision making, said GovTech’s Dr Daniel Lim Yew Mao. In addition to good quality data, clear problem statements and stakeholder involvement is key to getting a data science project off the ground. A “fail fast, learn fast” mentality is also useful for iterating data science projects and deciding which ones to prioritise to deliver value to civil servants and citizens 
 
 ---
@@ -13,6 +15,8 @@ TL:DR: Data analytics promises to take the guesswork out of policy design by ass
 Data has been touted as the new gold of the digital age, but just as gold needs to be refined from its ore, raw data needs to be analysed before it can yield useful insights. If done correctly, data analytics lends a rational lens to decision making, which can be immensely useful for shaping policy at the national level. 
 
 “The meeting point of data science and policy is really about enabling evidence-based decision making, as opposed to anecdote-based decision making, and this is a tricky thing to do,” said Dr Daniel Lim Yew Mao, acting deputy director (data science) at the Government Technology Agency of Singapore (GovTech), at the inaugural ‘Data Science in Singapore: Translating Data for a Smart Nation’ conference on 31 May 2018. Dr Lim spoke on the use of data science for the public good.
+
+![data science projects in singapore]({{site.baseurl}}/images/technews/how-to-manage-successful-data-science-projects-part-2.jpg)
 
 
 **A recipe for success**
