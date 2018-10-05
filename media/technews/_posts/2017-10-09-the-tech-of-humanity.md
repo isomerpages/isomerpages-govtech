@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![the tech of humanity]({{site.baseurl}}/images/technews/the-tech-of-humanity-part-1.jpg)
+
 In the past, spreadsheets were literal sheets of paper inked with grids of cells; calculations and programming were done through punch cards.
 
 If you wanted to speak to someone at length you had to write a letter or arrange to meet.
