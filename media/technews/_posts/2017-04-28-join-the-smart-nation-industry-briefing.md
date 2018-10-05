@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![join the smart nation industry briefing]({{site.baseurl}}/images/technews/join-the-smart-nation-industry-briefing-part-1.jpg)
+
 For tech companies and professionals in the know, the upcoming Smart Nation Industry Briefing is a crystal ball cum barometer of the Government's ICT roadmap for the year ahead.
 
 Last year, the event — under the auspices of IDA — was attended by close to 900 participants from businesses, trade associations and Government, including representatives from many tech SMEs.
