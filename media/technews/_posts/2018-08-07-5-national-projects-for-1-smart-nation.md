@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![singapore national project]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-1.PNG)
+
 The Singapore flag bears five stars and a crescent moon, representing five key ideals and a nation on the rise. As Singapore celebrates its 53rd National Day, these ideals remain the same, but the nation-state is in another phase of transition, this time into a Smart Nation. Find out more about the five strategic national projects that will drive this digital transformation.
 
 ---
@@ -18,6 +20,8 @@ Today, the symbols of the five stars and a crescent moon still endure—this tim
 
 In case you haven’t heard of them, here are the five strategic national projects that are transforming Singapore into a Smart Nation.
 
+![national projects]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-2.PNG)
+
 **1. National Digital Identity**
 
 If the Singapore Flag helped to forge a common identity, then the goal of a National Digital Identity (NDI) is to create a unified repository of citizen information which will allow seamless interactions between the government, businesses and Singaporeans. Prime Minister Lee Hsien Loong has called the NDI the “cornerstone of Singapore’s Smart Nation vision”.
@@ -25,6 +29,8 @@ If the Singapore Flag helped to forge a common identity, then the goal of a Nati
 [SingPass](https://www.singpass.gov.sg/singpass/common/aboutus){:target="_blank"} and [MyInfo](/products-and-services/my-info/){:target="_blank"} are two critical elements of the NDI framework. Most Singaporeans are already familiar with SingPass—the secure online portal through which they can transact with government agencies. This year, the SingPass Mobile app will be launched with a two-factor authentication protocol to allow citizens to transact on-the-go via their mobile phones.
 
 To further enhance the convenience of transactions, MyInfo—a consent-based digital platform for citizen data management—has been developed so that users need only provide their personal information to the government once. Thereafter, with their authorisation, they will be able to extend the use of that information to other approved public and private sector agencies. With MyInfo, e-transaction forms can be filled in with a click, thus reducing hassle and the likelihood of errors. 
+
+![national digital identity]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-3.PNG)
 
 **2. E-payments**
 
@@ -34,6 +40,8 @@ In 2017, [PayNow](https://www.abs.org.sg/consumer-banking/pay-now){:target="_bla
 
 Besides PayNow, NETS and EZ-Link can be used at participating hawker centres island-wide, and the Singapore Quick Response (SGQR) code is in the works, which will allow financial transactions to be completed both domestically and internationally, across various e-wallets and banks.
 
+![e-payment]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-4.PNG)
+
 **3. Smart Nation Sensor Platform**
 
 A key ingredient for building a Smart Nation is data, but to amass it, sensors must be deployed in multiple locations across Singapore to gather a diverse range of inputs. This is being explored and developed as a [Smart Nation Sensor Platform (SNSP)](/products-and-services/smart-nation-sensor-platform/){:target="_blank"}, which combines an array of sensors and internet of things (IoT)-enabled devices to monitor everything from traffic to water quality.
@@ -41,6 +49,8 @@ A key ingredient for building a Smart Nation is data, but to amass it, sensors m
 As part of an initial rollout of the SNSP, connectivity infrastructure has been established in areas such as Yuhua, the Civic District and Orchard Road to support closed circuit television and environmental sensors. Going forward, novel sensors and IoT devices will also be mounted on [lamp posts](/media/technews/infographics-just-how-smart-can-lamp-posts-get/){:target="_blank"}, which are numerous and widely distributed all over the island.
 
 With the data harnessed by the SNSP, government agencies will be able to perform in-depth and cross-domain analyses to make evidence-based decisions when planning public amenities and services for citizens. 
+
+![smart nation sensor platform]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-5.PNG)
 
 **4. Smart Urban Mobility**
 
@@ -50,6 +60,8 @@ SBS and SMRT buses in Singapore have already been equipped with an intelligent f
 
 In addition to fixed and scheduled bus routes, on-demand bus services are also being trialled to make the public transport system more dynamic and responsive to commuter needs. One example of this model is the crowdsourcing mobile app [Beeline](/products-and-services/beeline/){:target="_blank"}, developed by GovTech, which allows public bus operators to ply new routes according to passenger demand. Meanwhile, autonomous vehicles are also being tested at one-north and the Jurong Innovation District as a future mode of transport. 
 
+![smart urban mobility]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-6.PNG)
+
 **5. Moments of Life**
 
 Citizens interact with the government at critical phases of their lives, such as when they are purchasing a home, or welcoming a new child into the world. Whereas in the past, government agencies used to work in silos and were reactive to citizens’ needs, digitalisation has enabled greater inter-operability between government agencies and allowed for a more anticipatory approach to the provision of government services.
@@ -57,3 +69,5 @@ Citizens interact with the government at critical phases of their lives, such as
 Launched in June 2018, the [Moments of Life (Families)](/media/technews/five-key-features-of-the-new-moments-of-life-app/){:target="_blank"}  mobile app is part of the government’s efforts to consolidate and ‘push’ relevant services and resources to citizens in a timely fashion. With the app, young parents can register the birth of their child, apply for the Baby Bonus, indicate their interest in preschool facilities, access a child’s medical records as well as receive parenting information that is customised to the local context—all on a single platform.
 
 By 2022, the functions of the app will be expanded to encompass a wider range of public services catering to more moments in citizens’ lives. Throughout the development and iteration process, the government will actively engage with citizens and businesses to obtain specific insights from the ground.
+
+![moments of life]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-7.PNG)
