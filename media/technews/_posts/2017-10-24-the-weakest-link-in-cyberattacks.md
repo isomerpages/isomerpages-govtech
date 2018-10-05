@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![the weakest link in cyberattacks]({{site.baseurl}}/images/technews/the-weakest-link-in-cyberattacks-part-1.jpg)
+
 In early September 2017, US consumer credit reporting agency Equifax disclosed that a data breach from mid-May through July may have potentially affected a staggering 143 million consumers in the US.
 
 A vulnerability in a web application gave cybercriminals personal and financial data, in the form of names, addresses, birth dates, and Social Security, driver’s licence and credit card numbers.
