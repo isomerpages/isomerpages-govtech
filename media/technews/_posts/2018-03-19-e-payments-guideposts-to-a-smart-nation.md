@@ -6,6 +6,8 @@ category: technews
 image: 
 ---
 
+![e payment]({{site.baseurl}}/images/technews/e-payments-guideposts-to-a-smart-nation-part-1.jpg)
+
 “You’ve got an Angbao” the app notification flashed on my nephew’s mobile. 
 
 “Thanks uncle, Gong Xi Fa Cai!“ he beamed excitedly and raced to his parents to show off his first digital red packet. As I watched my young nephew’s excitement, I instantly thought of how digitalising the traditional custom of red packet-giving is one of the sparks propelling the e-payment juggernaut across Asia. 
