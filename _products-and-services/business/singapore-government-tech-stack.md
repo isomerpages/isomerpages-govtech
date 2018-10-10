@@ -31,4 +31,5 @@ One of the early uses of SGTS was the [MyInfo](http://myinfo.gov.sg){:target="_b
 
 [Singapore Government Tech Stack Infographic](/_products-and-services/files/SG Tech Stack Media Factsheet (September 2018) (1).pdf){:target="_blank"} 
 
+
 [Singapore Government Tech Stack Factsheet](/images/programmes/products-and-services/SGTS_Infographic 28 Sep (1).jpg){:target="_blank"} 
