@@ -3,7 +3,7 @@ layout: post
 title:  "Of Aliens and the Digital Dark Age"
 permalink: "/media/technews/of-aliens-and-the-digital-dark-age"
 category: technews
-image: 
+image: "/images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg"
 ---
 
 ![of aliens and the digital dark age]({{site.baseurl}}/images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg)
