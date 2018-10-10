@@ -8,8 +8,6 @@ tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
-**Singapore Government Tech Stack**
-
 ![SGTS]({{"/images/programmes/products-and-services/SGTS_Infographic 28 Sep (1).jpg" | absolute_url }})
 
 ## Background of SGTS
