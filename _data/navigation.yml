@@ -4,7 +4,7 @@
 #        >:(            #
 #########################
 
-- title: Digital Transformation
+- title: Digital Gov Transformation
   url: /digital-government-transformation/
   sub-links:
   - title: Overview
@@ -28,6 +28,8 @@
     url: /who-we-are/our-awards/
   - title: Our Team
     url: /who-we-are/our-team/
+  - title: Our Statistics
+    url: /who-we-are/our-statistics/
 - title: Careers
   url: /careers/why-govtech/
   sub-links:
