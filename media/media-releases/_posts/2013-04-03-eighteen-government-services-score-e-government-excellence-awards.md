@@ -74,7 +74,7 @@ More details on the eGov Excellence awards, distinguished and merit award recipi
 
 ### **About the Ministry of Finance**
 The Ministry of Finance (MOF) seeks to create a better Singapore through Finance. This is done by focusing on three strategic outcomes: sound public finances, growth opportunities for all, and high performance government. We aim to collaborate with industry experts to make Singapore a world-class financial and business hub. For more information, please visit our website at www.mof.gov.sg.
-
+<!--IDA has been restructured to GovTech-->
 ### **About the Infocomm Development Authority of Singapore (IDA)**
 The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global Infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
 
