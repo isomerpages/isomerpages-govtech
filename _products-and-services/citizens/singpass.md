@@ -24,16 +24,3 @@ Examples of improved measures taken over the years to better protect users' pers
 * Passwords of accounts that are inactive for more than three years will be reset to ensure that users with dormant accounts are not unnecessarily exposed to cyber threats.
 * After three failed login attempts, users will be asked to key in a randomly-generated security code to mitigate brute force attacks on login.
 * Any change made to the account holder's key personal information will trigger a notification letter, which will be sent to the user’s registered address to verify this change.
-
-**SingPass: How to register and activate your 2FA via website**
-
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/pHmFK78IlVI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-**SingPass: How to register and activate your 2FA via SMS**
-
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/PsBI6AOFT7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
