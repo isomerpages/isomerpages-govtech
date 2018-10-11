@@ -16,4 +16,4 @@ A new  [sub-site](https://developers.data.gov.sg/){:target="_blank"} for develop
 
 Created something interesting with the government’s open data? Share it with us! Drop us an email at [feedback@data.gov.sg](mailto:feedback@data.gov.sg), or Tweet to us [@datagovsg](https://twitter.com/datagovsg){:target="_blank"} or message us on [Facebook](https://fb.com/opendatasg){:target="_blank"}. We also welcome any requests for new datasets or data stories, and ideas on how we may further improve the site.
 
-[Data.gov.sg factsheet]({{"/products-and-services/files/9-Datagovsg-Factsheet.pdf" | absolute_url }}){:target="_blank"}
+[Data.gov.sg factsheet](/files/products-and-services/9-Datagovsg-Factsheet.pdf){:target="_blank"}

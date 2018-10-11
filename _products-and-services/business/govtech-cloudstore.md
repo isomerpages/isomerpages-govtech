@@ -93,10 +93,10 @@ Here is the list of companies whose products have been qualified on CloudStore.
 
 **CloudStore Documents**<br>
 Download the respective Call for Participation documents for the instructions and the CloudStore application forms:
-[CFP-3 CloudStore Documents]({{"/products-and-services/files/Call-For-Participation-3-11Jul2017.zip" | absolute_url}}){:target="_blank"}
+[CFP-3 CloudStore Documents](/files/products-and-services/Call-For-Participation-3-11Jul2017.zip){:target="_blank"}
 
 **Contact Details**<br>
 For any queries, please contact [CloudStore@tech.gov.sg](mailto:CloudStore@tech.gov.sg). 
 
 **Other Resources**<br>
-[CloudStore Briefing for Industry on 6 March 2015]({{"/products-and-services/files/CloudStoreBriefingForIndustry-06Mar2015.pdf" | absolute_url}}){:target="_blank"}
+[CloudStore Briefing for Industry on 6 March 2015](/files/products-and-services/CloudStoreBriefingForIndustry-06Mar2015.pdf){:target="_blank"}

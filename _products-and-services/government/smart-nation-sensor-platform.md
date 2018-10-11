@@ -21,4 +21,4 @@ Smart Nation is also built upon collection of data and the ability to make sense
 
 Smart Nation Sensor Platform will be one of the anchor initiatives that will enable everyone and everything, everywhere, to be connected all the time in Singapore. Pervasive connectivity, along with infrastructure and common technical architecture will allow citizens, businesses and government agencies to leverage technology towards improving lives in a Smart Nation.
 
-[Media Factsheet: Smart Nation Sensor Platform]({{"/initiatives/files/5-SmartNation-Platform-Factsheet.pdf" | absolute_url }}){:target="_blank"}
+[Media Factsheet: Smart Nation Sensor Platform](/files/products-and-services/5-SmartNation-Platform-Factsheet.pdf){:target="_blank"}
