@@ -4,7 +4,7 @@
 #        >:(            #
 #########################
 
-- title: Digital Transformation
+- title: Digital Gov Transformation
   url: /digital-government-transformation/
   sub-links:
   - title: Overview
@@ -28,6 +28,8 @@
     url: /who-we-are/our-awards/
   - title: Our Team
     url: /who-we-are/our-team/
+  - title: Our Statistics
+    url: /who-we-are/our-statistics/
 - title: Careers
   url: /careers/why-govtech/
   sub-links:
@@ -49,13 +51,11 @@
     url: /media/corporate-publications/
   - title: Events
     url: /media/events/
-  - title: Facts and Figures
-    url: /media/facts-and-figures/
   - title: Media Releases
     url: /media/media-releases/
   - title: Speeches
     url: /media/speeches/
-  - title: Tech News
+  - title: TechNews
     url: /media/technews/
 - title: Contact Us
   url: /contact-us/

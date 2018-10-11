@@ -3,7 +3,7 @@ layout: post
 title:  "Staying employed in an age of technological disruption"
 permalink: "/media/technews/staying-employed-in-an-age-of-technological-disruption"
 category: technews
-image: 
+image: "/images/technews/staying-employed-in-an-age-of-technological-disruption-part-1.jpg"
 ---
 
 ![staying employed in an age of technological disruption]({{site.baseurl}}/images/technews/staying-employed-in-an-age-of-technological-disruption-part-1.jpg)

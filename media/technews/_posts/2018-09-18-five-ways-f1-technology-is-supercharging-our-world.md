@@ -3,7 +3,7 @@ layout: post
 title:  "Five ways F1 technology is supercharging our world"
 permalink: "/media/technews/five-ways-f1-technology-is-supercharging-our-world"
 category: technews
-image: 
+image: "/images/technews/five-ways-f1-technology-is-supercharging-our-world-part-1.jpg"
 ---
 
 ![f1 supercharging our world]({{site.baseurl}}/images/technews/five-ways-f1-technology-is-supercharging-our-world-part-1.jpg)

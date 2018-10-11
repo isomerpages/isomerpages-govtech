@@ -3,7 +3,7 @@ layout: post
 title:  "Giving every citizen a unique digital identity"
 permalink: "/media/technews/giving-every-citizen-a-unique-digital-identity"
 category: technews
-image: 
+image: "/images/technews/giving-every-citizen-a-unique-digital-identity-part-1.png"
 ---
 
 ![giving every citizen a unique digital identity]({{site.baseurl}}/images/technews/giving-every-citizen-a-unique-digital-identity-part-1.png)
@@ -23,7 +23,7 @@ Now imagine having a ‘wallet’ containing every aspect of your personal ident
 
 ---
 
-**Permission as a pre-requisite to data sharing**
+##**Permission as a pre-requisite to data sharing**
 
 Trust is a key element of NDI, and Mr Kwok emphasised that it works two ways: the government must be able to trust and verify citizens’ personal data, while citizens must be able to trust the government to manage and store their personal data responsibly.
 
@@ -33,7 +33,7 @@ But just because personal data is available doesn’t mean that it should be acc
 
 “It is very important to make sure that [any sharing or exchange of identity data] takes place only with the consent of the individual,” said Mr Kwok.
 
-**Keeping transactions secure**
+##**Keeping transactions secure**
 
 Another key element of the NDI framework is multi-factor authentication, which helps protect against identity fraud. The first level of authentication takes place when citizens login with their SingPass, where in addition to keying in their password, they will be required to provide a one-time password sent to them via SMS or generated with a OneKey token.
 
