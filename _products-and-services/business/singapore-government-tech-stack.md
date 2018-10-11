@@ -8,7 +8,7 @@ tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
-![SGTS]({{"/images/programmes/products-and-services/SGTS_Infographic 28 Sep (1).jpg" | absolute_url }})
+![SGTS](/images/programmes/products-and-services/sgts-infographic-28-Sep.jpg)
 
 ## Background of SGTS
 As digital services become an integral part of everyday life, they have to be easy to use, adaptable and relevant. In other words, they have to be developed, deployed and updated fast. To enable government agencies to build such services quickly and effectively, GovTech is developing the Singapore Government Tech Stack (SGTS), a common platform that makes the process simpler and more streamlined.
