@@ -7,6 +7,12 @@ permalink: "/media/corporate-publications/annual-reports"
 
 ### **GovTech Annual Reports**
 
+
+**FY 2017/2018**
+* [GovTech Annual Report FY 2017/2018]({{"/files/media/corporate-publications/FY2017/govtech-ar-2017-18-review.pdf" | absolute_url }}){:target="_blank"}
+* [Financial Statements FY 2017/2018]({{"/files/media/corporate-publications/FY2017/govtech-ar-2017-18-financial.pdf" | absolute_url }}){:target="_blank"}
+
+
 **FY 2016/2017**
 * [GovTech Annual Report FY 2016/2017]({{"/files/media/corporate-publications/2018/01/annual-report-fy-2016-2017.pdf" | absolute_url }}){:target="_blank"}
 * [Financial Statements FY 2016/2017]({{"/files/media/corporate-publications/2018/01/financial-statements-fy-2016-2017.pdf" | absolute_url }}){:target="_blank"}
