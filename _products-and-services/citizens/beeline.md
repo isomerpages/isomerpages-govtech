@@ -5,7 +5,7 @@ permalink: /products-and-services/beeline/
 breadcrumb: Beeline
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/beeline-thumbnail.png
 ---
 
 ![Beeline]({{"/images/programmes/products-and-services/beelineSG.jpg" | absolute_url }})
