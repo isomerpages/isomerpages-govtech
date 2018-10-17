@@ -5,7 +5,7 @@ permalink: /products-and-services/singapore-government-tech-stack/
 breadcrumb: SGTS
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/sgts-thumbnail-foto-jet.jpg
 ---
 
 ![SGTS](/images/programmes/products-and-services/sgts-infographic-28-Sep.jpg)

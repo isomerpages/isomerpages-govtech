@@ -1,17 +1,17 @@
 - title: Beeline
   category: CITIZEN
-  desc: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters. Through Beeline, commuters are empowered to “crowd-start” and activate more direct, private express bus routes that cater to their travel needs, especially during peak periods. Beeline bus routes are adaptive where new routes are activated based on commuters’ demand and existing routes may evolve over time.
+  desc: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters.
   img: images/programmes/products-and-services/BeeLine.png
   bg-color: bg-beeline
 
 - title: ParkingSG
   category: CITIZEN
-  desc: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks. The app will serve as an alternative mode of payment to paper parking coupons. You will need to key in your vehicle number, select the car park, indicate the parking duration, pay using your credit or debit card and start parking. You will also be able to extend the parking session remotely via the app. You do not need to use the Parking.sg app for parking at car parks already installed with the Electronic Parking System (EPS).
+  desc: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
   img: images/programmes/products-and-services/ParkingSG.png
   bg-color: bg-parkingsg
 
 - title: SingPass
   category: CITIZEN
-  desc: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely. To better meet users’ needs, SingPass was enhanced in July 2015 to include an improved user interface, mobile-friendly features and stronger security capabilities, such as 2-Step Verification for transactions involving sensitive data.
+  desc: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
   img: images/programmes/products-and-services/SingPass.png
   bg-color: bg-singpass
