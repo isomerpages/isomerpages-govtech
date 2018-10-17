@@ -5,7 +5,7 @@ permalink: /products-and-services/singapore-government-tech-stack/
 breadcrumb: Singapore Government Tech Stack
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/test1.jpg
+thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
 ![SGTS](/images/programmes/products-and-services/singapore-government-tech-stack-part-1.jpg)
