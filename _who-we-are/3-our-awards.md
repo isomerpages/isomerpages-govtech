@@ -1,42 +1,94 @@
 ---
 layout: leftnav-page-content
-title: Our Awards
+title: Our Digital Government Rankings
 permalink: /who-we-are/our-awards/
 breadcrumb: Our Awards
 collection_name: who-we-are
 ---
 
-## **2016**
-#### **World Economic Forum Global Information Technology Report**
-
-The yearly study ranks 148 economies and examines their preparedness to leverage information and communication technologies (ICT) for increased competitiveness and development.
-
-* Singapore is ranked 1st in the world.
-
-#### **Waseda-IAC International E-Government Ranking**
-
-The ranking takes into account the development of e-government services worldwide.
-
-* Singapore is ranked 1st in the yearly study.
+##
 
 #### **United Nations e-Government Survey**
 
 This study assesses the UN’s 192 member states on the relative ability of their governments in harnessing infocomm technologies (ICT) to deliver online services and engage its citizens in public policies.
 
-* Singapore was ranked 4th on the E-Government Development Index and placed 8th on the E-Participation Index.
+* In 2016, Singapore was ranked 4th on the E-Government Development Index and placed 8th on the E-Participation Index.
 
----
+<table>
+  <tr>
+    <th><span style="font-weight:bold">Publication Year</span></th>
+    <th>2012</th>
+    <th>2013</th>
+    <th>2014</th>
+    <th>2015</th>
+    <th>2016</th>
+    <th>2017</th>
+  </tr>
+  <tr>
+    <td colspan="7">UN eGov Survey (released bienially)</td>
+  </tr>
+  <tr>
+    <td>(i) Development Index</td>
+    <td>10th</td>
+    <td>No Report</td>
+    <td>3rd</td>
+    <td>No Report</td>
+    <td>4th</td>
+    <td>No Report</td>
+  </tr>
+  <tr>
+    <td>(ii) e-Participation Index</td>
+    <td>3rd</td>
+    <td>No Report</td>
+    <td>10th</td>
+    <td>No Report</td>
+    <td>8th</td>
+    <td>No Report</td>
+  </tr>
+</table>
 
-## **2015**
 
-* World Economic Forum Global Information Technology Report - 1st Rank Globally
-* Waseda-IAC International E-Government Ranking - 1st Rank Globally
+#### **World Economic Forum Global Information Technology Report**
+
+The yearly study ranks 148 economies and examines their preparedness to leverage information and communication technologies (ICT) for increased competitiveness and development.
+
+* In 2016, Singapore is ranked 1st in the world.
+<table>
+  <tr>
+    <th><span style="font-weight:bold">Publication Year</span></th>
+    <th>2012</th>
+    <th>2013</th>
+    <th>2014</th>
+    <th>2015</th>
+    <th>2016</th>
+    <th>2017</th>
+  </tr>
+  <tr>
+    <td colspan="7">UN eGov Survey (released bienially)</td>
+  </tr>
+  <tr>
+    <td>(i) Development Index</td>
+    <td>10th</td>
+    <td>No Report</td>
+    <td>3rd</td>
+    <td>No Report</td>
+    <td>4th</td>
+    <td>No Report</td>
+  </tr>
+  <tr>
+    <td>(ii) e-Participation Index</td>
+    <td>3rd</td>
+    <td>No Report</td>
+    <td>10th</td>
+    <td>No Report</td>
+    <td>8th</td>
+    <td>No Report</td>
+  </tr>
+</table>
 
 
----
+#### **Waseda-IAC International E-Government Ranking**
 
+The ranking takes into account the development of e-government services worldwide.
 
-## **2014**
-
-* World Economic Forum Global Information Technology Report - 1st Rank Globally
-* Waseda-IAC International E-Government Ranking - 1st Rank Globally
+* In 2016, Singapore is ranked 1st in the yearly study.
