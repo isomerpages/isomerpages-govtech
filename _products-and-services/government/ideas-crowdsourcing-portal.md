@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Ideas! crowdsourcing portal 
+title: Ideas!
 permalink: /products-and-services/ideas-crowdsourcing-portal/
 breadcrumb: IDEAS!
 collection_name: products-and-services
@@ -16,4 +16,4 @@ The revamped Ideas! features a fresh new look, with easier navigation for an imp
 
 For Government agencies that use the portal to host their challenges, they will be able to run, manage and review their challenges independently. 
 
-To find out how to host your agency’s challenge on eCitizen Ideas! please email Jayaraj_Dirilokaraj@tech.gov.sg or Goh_Kiat_Huen@tech.gov.sg.
+To find out how to host your agency’s challenge on eCitizen Ideas! please email [Jayaraj_Dirilokaraj@tech.gov.sg](Jayaraj_Dirilokaraj@tech.gov.sg) or [Goh_Kiat_Huen@tech.gov.sg](Goh_Kiat_Huen@tech.gov.sg).
