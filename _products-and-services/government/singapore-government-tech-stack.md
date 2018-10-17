@@ -33,4 +33,4 @@ One of the early uses of SGTS was the [MyInfo](http://myinfo.gov.sg){:target="_b
 
 [Singapore Government Tech Stack Factsheet](/files/products-and-services/sg-tech-stack-media-factsheet-sep-2018.pdf){:target="_blank"}
 
-More on NECTAR and APEX [here.](beta.tech.gov.sg){:target="_blank"} 
+More on NECTAR and APEX [here.](/media/technews/getting-to-know-nectar-and-apex/){:target="_blank"} 
