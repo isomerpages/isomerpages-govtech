@@ -25,7 +25,7 @@ We will publish quick polls and mini surveys regularly. All you have to do is to
 
 ---
 
-### **Bug Bounty Program**
+### **Program**
 
 At GovTech, we embrace this "outside-in approach". Only when we have taken in the views and preferences of citizens and stakeholders can a digital service be considered user-centric. This, we believe, is the way to develop high-quality digital services that matter. This is also why we are asking people to be our Tech Kaki.
 
