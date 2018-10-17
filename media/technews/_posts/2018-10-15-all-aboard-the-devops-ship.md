@@ -6,6 +6,8 @@ category: technews
 image: "/images/technews/All-Aboard-the-DevOps-SHIP.png"
 ---
 
+![All Aboard the DevOps SHIP]({{site.baseurl}}/images/technews/All-Aboard-the-DevOps-SHIP.png)
+
 TL:DR: More than just a buzzword, DevOps is a culture that can help organisations accelerate their delivery of digital solutions. But for it to work, organisations must understand their own pain points and bottlenecks. Mr Hudson Lee, DevOps Consultant at GovTech, shared his insights on DevOps in a highly-regulated environment at the STACK 2018 Developers Conference. 
 
 As technology advances, new vocabulary surrounding novel inventions and processes start to appear. One example of this is the term ‘DevOps’, which had no meaning until 2009, when a pair of IT professionals—Mr Patrick Debois and Mr Andrew ‘Clay’ Shafer—decided that development and operations teams within organisations should not be operating in silos.
