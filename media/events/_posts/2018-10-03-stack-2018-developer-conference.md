@@ -63,13 +63,13 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td colspan="3"><span style="font-weight:bolder">WORKSHOPS</span></td>
   </tr>
   <tr>
-    <td>Room</td>
-    <td>Summit 1</td>
-    <td>Summit 2</td>
-    <td>Rm 330</td>
-    <td>Rm 324</td>
-    <td>Rm 325</td>
-    <td>Rm 326</td>
+    <td><span style="font-weight:bolder">Room</span></td>
+    <td><span style="font-weight:bolder">Summit 1</span></td>
+    <td><span style="font-weight:bolder">Summit 2</span></td>
+    <td><span style="font-weight:bolder">Rm 330</span></td>
+    <td><span style="font-weight:bolder">Rm 324</span></td>
+    <td><span style="font-weight:bolder">Rm 325</span></td>
+    <td><span style="font-weight:bolder">Rm 326</span></td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
@@ -164,13 +164,13 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td colspan="3"><span style="font-weight:bolder">WORKSHOPS</span></td>
   </tr>
   <tr>
-    <td>Room</td>
-    <td>Summit 1</td>
-    <td>Summit 2</td>
-    <td>Rm 330</td>
-    <td>Rm 324</td>
-    <td>Rm 325</td>
-    <td>Rm 326</td>
+    <td><span style="font-weight:bolder">Room</span></td>
+    <td><span style="font-weight:bolder">Summit 1</span></td>
+    <td><span style="font-weight:bolder">Summit 2</span></td>
+    <td><span style="font-weight:bolder">Rm 330</span></td>
+    <td><span style="font-weight:bolder">Rm 324</span></td>
+    <td><span style="font-weight:bolder">Rm 325</span></td>
+    <td><span style="font-weight:bolder">Rm 326</span></td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:00pm</span></td>
