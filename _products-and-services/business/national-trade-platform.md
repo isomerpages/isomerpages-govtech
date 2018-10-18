@@ -19,4 +19,4 @@ The NTP can help businesses improve productivity through digital exchange and re
 
 As the next-generation platform, the NTP is designed as an open innovation platform, which businesses and service providers can tap on to develop new applications to support evolving business needs.
 
-Learn more about the NTP from the [NTP Microsite](https://www.customs.gov.sg/about-us/national-single-window/national-trade-platform){:target="_blank"}.
+Learn more about the NTP from the [NTP Microsite](www.customs.gov.sg/about-us/national-single-window/networked-trade-platform){:target="_blank"}.

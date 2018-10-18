@@ -10,7 +10,7 @@ collection_name: who-we-are
 
 #### **United Nations e-Government Survey**
 
-This study assesses the UN’s 192 member states on the relative ability of their governments in harnessing infocomm technologies (ICT) to deliver online services and engage its citizens in public policies.
+This study assesses the UN’s 193 member states on the relative ability of their governments in harnessing infocomm technologies (ICT) to deliver online services and engage its citizens in public policies.
 
 * In 2016, Singapore was ranked 4th on the E-Government Development Index and placed 8th on the E-Participation Index.
 
@@ -86,9 +86,3 @@ The yearly study ranks 148 economies and examines their preparedness to leverage
   </tr>
 </table>
 
-
-#### **Waseda-IAC International E-Government Ranking**
-
-The ranking takes into account the development of e-government services worldwide.
-
-* In 2016, Singapore is ranked 1st in the yearly study.
