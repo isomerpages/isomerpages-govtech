@@ -43,13 +43,15 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td>11:20am</td>
-    <td>Panel Discussion–“Building Apps for Tomorrow: The Future with ABCD (AI, Blockchain, Cloud &amp; Data)”Parimal Aswani (Director, Government Digital Service, GovTech)[Host]Kief Morris (Head of Cloud Transformative Practice, ThoughtWorks)Annabelle Kwok (Founder, NeuralBay)Chang Sau Sheong (MD, SP Digital, SP Group)Hunter Nield (Co-founder and CTO, Acaleph/Smart Nation Fellow alumni)</td>
+    <td>Panel Discussion–“Building Apps for Tomorrow: The Future with ABCD (AI, Blockchain, Cloud &amp; Data)”<br>Parimal Aswani (Director, Government Digital Service, GovTech)[Host]<br>Kief Morris (Head of Cloud Transformative Practice, ThoughtWorks)<br>Annabelle Kwok (Founder, NeuralBay)Chang Sau Sheong (MD, SP Digital, SP Group)<br>Hunter Nield (Co-founder and CTO, Acaleph/Smart Nation Fellow alumni)</td>
   </tr>
   <tr>
     <td>12:05pm</td>
     <td>Lunch</td>
   </tr>
 </table>
+
+
 
 
 
