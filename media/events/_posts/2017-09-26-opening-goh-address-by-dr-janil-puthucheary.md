@@ -52,11 +52,161 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
 </table>
 
 
+<table>
+  <tr>
+    <th colspan="7"><span style="font-weight:bolder">DAY 1  AFTERNOON  TUES, 2 OCT 2018</span></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> LIGHTNING TALKS</td>
+    <td colspan="2">TALKS </td>
+    <td colspan="3"><span style="font-weight:bolder">WORKSHOPS</span></td>
+  </tr>
+  <tr>
+    <td>Room</td>
+    <td>Summit 1</td>
+    <td>Summit 2</td>
+    <td>Rm 330</td>
+    <td>Rm 324</td>
+    <td>Rm 325</td>
+    <td>Rm 326</td>
+  </tr>
+  <tr>
+    <td>1:30pm</td>
+    <td>Becoming a Cloud-Native Smart NationHosting Applications in the GovernmentAutomating the Alpha and the Omega of Your Infrastructure</td>
+    <td>Re-imagining Customer Journeys through National Digital Identity</td>
+    <td>So you think you know UX?</td>
+    <td rowspan="2">Token Based Stateless Authentication</td>
+    <td rowspan="2">Effective Containerisation from Development to Production</td>
+    <td rowspan="2">Advanced Web Hacking for Developers</td>
+  </tr>
+  <tr>
+    <td>2:30pm</td>
+    <td>Data.gov.sg – Singapore’s Open Data Platform</td>
+    <td>From the Iron Age to the Cloud Age</td>
+    <td>Government Private Cloud 101</td>
+  </tr>
+  <tr>
+    <td>3:30pm</td>
+    <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
+    <td>Qualifying as a Government Vendor</td>
+    <td>MyInfo – Transforming Digital Journey</td>
+    <td rowspan="2">Nectar PaaS</td>
+    <td rowspan="2">Mob Programming</td>
+    <td rowspan="2">SHIP: Secure Hybrid Integrated Pipeline</td>
+  </tr>
+  <tr>
+    <td>4:30pm</td>
+    <td>Machine Learning in Analytics Platform</td>
+    <td>Government Commercial Cloud 101</td>
+    <td>FaaS: Function-as-a-Service</td>
+  </tr>
+  <tr>
+    <td>5:30 – 8:30pm</td>
+    <td colspan="6">Evening Tech networking (co-organised by Agile SG and Data Science Group)</td>
+  </tr>
+</table>
 
 
 
+<table>
+  <tr>
+    <th colspan="2">DAY 2 MORNING WED, 3 OCT 2018 </th>
+  </tr>
+  <tr>
+    <td>8:30am</td>
+    <td>Registration / Breakfast</td>
+  </tr>
+  <tr>
+    <td>9:45am</td>
+    <td>Guests to be seated</td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>In Conversation with Dr Janil Puthucheary (Senior Minister of State for Communications and Information)Moderator: PeterHo, CEO, HOPE Technik</td>
+  </tr>
+  <tr>
+    <td>10:20am</td>
+    <td>Keynote–Richard Socher,Chief scientist, Salesforce“Software as a service”</td>
+  </tr>
+  <tr>
+    <td>10:40am</td>
+    <td>Keynote– Danny Burkes (Senior Director, Asia Pac &amp; Japan, Pivotal)“From monoliths to micro-services”</td>
+  </tr>
+  <tr>
+    <td>11:00am</td>
+    <td>Keynote– Olivier Klein (Head of Emerging Tech, AWS)“Future trends in application development”</td>
+  </tr>
+  <tr>
+    <td>11:20am</td>
+    <td>Keynote– Chang Sau Sheong (Managing Director, SP Digital, SingPower)</td>
+  </tr>
+  <tr>
+    <td>11:40am</td>
+    <td>Panel Discussion“Tech Culture &amp; Innovation”Steven Koh (Deputy Director, Agile Consulting and Engineering, GovTech) [Host]Cornelia Davis (Director of Technology, Pivotal)Patrick Teo (Chief Product Officer &amp; EVP Engineering, Redmart)Magda Chelly (CISO, Responsible Cyber)</td>
+  </tr>
+  <tr>
+    <td>12:25pm</td>
+    <td>Lunch</td>
+  </tr>
+</table>
 
 
+
+<table>
+  <tr>
+    <th colspan="7"><span style="font-weight:bolder">DAY 2 AFTERNOON WED, 3 OCT 2018</span></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td> LIGHTNING TALKS</td>
+    <td colspan="2"> TALKS</td>
+    <td colspan="3"><span style="font-weight:bolder">WORKSHOPS</span></td>
+  </tr>
+  <tr>
+    <td>Room</td>
+    <td>Summit 1</td>
+    <td>Summit 2</td>
+    <td>Rm 330</td>
+    <td>Rm 324</td>
+    <td>Rm 325</td>
+    <td>Rm 326</td>
+  </tr>
+  <tr>
+    <td>2:00pm</td>
+    <td>Red Teaming the Culture<br><br>Nothing to talk about on Retrospective, huh?<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study<br><br>The New Kind of Job Market</td>
+    <td>Open Source, open mindset … open what?</td>
+    <td>Tech Stacking up the Smart Nation Sensor Platform</td>
+    <td rowspan="2">HATS off to BDD</td>
+    <td rowspan="2">APEX 101</td>
+    <td rowspan="2">Customer Journey made simple with MyInfo APIs</td>
+  </tr>
+  <tr>
+    <td>3:00pm</td>
+    <td>Incident Management, Monitoring and SRE<br><br>MOL’s Journey In Creating A Citizen Centric Product<br><br>Digital Service Standards</td>
+    <td>Dealing with Software Maintainability Through Refactoring</td>
+    <td>Internet footprinting – Uncovering treasures on the Internet with OSINT techniques</td>
+  </tr>
+  <tr>
+    <td>4:00pm</td>
+    <td>Security Testing in Agile Projects<br><br>Exploring IOT Message Queues &amp; Protocols<br><br>Open-Sourcing at the Data Science Division<br><br>Behavioural Science and User Experience<br><br>Coming onboard the Content Website Platform<br><br>Legacy Code Economics</td>
+    <td>DevOps : Who Does What?</td>
+    <td>DevOps Culture and Practices in High Regulated Government Environment</td>
+    <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System</td>
+    <td rowspan="2"> Get Hands On with NDI Sandbox!</td>
+    <td rowspan="2">Remove Developer Secrets or Remove Shameful Develo</td>
+  </tr>
+  <tr>
+    <td>5:00pm</td>
+    <td> </td>
+    <td> Parking.sg – Prototype to Production</td>
+    <td> Think (Break) Out of the Box</td>
+  </tr>
+  <tr>
+    <td colspan="7"><span style="font-weight:bolder">End of Conference</span></td>
+  </tr>
+</table>
+<sub>*Programme is subject to change.</sub><br>
 
 
 Click here to [sign up.](/media/events/stack-2018-developer-conference){:target="_blank"}
