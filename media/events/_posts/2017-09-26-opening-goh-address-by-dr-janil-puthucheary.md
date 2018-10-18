@@ -13,6 +13,47 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
 
 **Event Programme**
 
+<table>
+  <tr>
+    <th colspan="2">DAY 1  MORNING  TUES, 2 OCT 2018 </th>
+  </tr>
+  <tr>
+    <td>8:00am</td>
+    <td>Registration/Breakfast</td>
+  </tr>
+  <tr>
+    <td>9:45am</td>
+    <td>Guests to be seated</td>
+  </tr>
+  <tr>
+    <td>10:00am</td>
+    <td>Welcome Address–Lee Hsien Loong (Prime Minister, Singapore)</td>
+  </tr>
+  <tr>
+    <td>10:10am</td>
+    <td>Introduction–Chan Cheow Hoe (Government CIO, Singapore)“Technology with a purpose”</td>
+  </tr>
+  <tr>
+    <td>10:30am</td>
+    <td>Keynote–Gregor Hohpe (Technical Director, Office of the CTO, Google Cloud)“Cloud:Standing on the shoulders of giants”</td>
+  </tr>
+  <tr>
+    <td>10:50am</td>
+    <td>Keynote–Steven Murawski (Cloud Developer Advocate, Microsoft)“Using the cloud to diminish limitations”</td>
+  </tr>
+  <tr>
+    <td>11:20am</td>
+    <td>Panel Discussion–“Building Apps for Tomorrow: The Future with ABCD (AI, Blockchain, Cloud &amp; Data)”Parimal Aswani (Director, Government Digital Service, GovTech)[Host]Kief Morris (Head of Cloud Transformative Practice, ThoughtWorks)Annabelle Kwok (Founder, NeuralBay)Chang Sau Sheong (MD, SP Digital, SP Group)Hunter Nield (Co-founder and CTO, Acaleph/Smart Nation Fellow alumni)</td>
+  </tr>
+  <tr>
+    <td>12:05pm</td>
+    <td>Lunch</td>
+  </tr>
+</table>
+
+
+
+
 
 
 
