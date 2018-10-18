@@ -209,8 +209,6 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
 <sub>*Programme is subject to change.</sub><br>
 
 
-Click here to [sign up.](/media/events/stack-2018-developer-conference){:target="_blank"}
-
 Registration Fees: $350  (Normal Fees) , $250 (Early Bird Promotion)
 
 <table>
