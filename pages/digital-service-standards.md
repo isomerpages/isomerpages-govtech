@@ -14,6 +14,7 @@ All public facing digital services of the Government must meet the DSS.  In addi
 [Digital Service Standards Infographic](/files/digital-transformation/GovTech_DSS_Summary_Infographic_2Oct2018.pdf)
 
 
-The full Digital Service Standards document will be made available on this page shortly.  Stay tuned. 
+Download the full document here:
 
+- [Digital Service Standards](/files/digital-transformation/DSS for public release.pdf.pdf) (PDF Version, 560KB)
 
