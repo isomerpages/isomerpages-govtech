@@ -12,7 +12,7 @@ The Government has been organising crowdsourcing activities in the form of chall
 
 The [Ideas!](https://ideas.gov.sg/){:target="_blank"}  crowdsourcing portal makes it easy and convenient for the public to find and participate in challenges by all Government agencies.
 
-The revamped Ideas! features a fresh new look, with easier navigation for an improved user experience. Users will also be able to browse for challenges sorted by categories, as well as utilise the improved search engine. Sign up using your social media accounts or SingPass and, and stand a chance to win prizes when you take part in challenges.
+The revamped Ideas! features a fresh new look, with easier navigation for an improved user experience. Users will also be able to browse for challenges sorted by categories, as well as utilise the improved search engine. Sign up using your social media accounts or SingPass and stand a chance to win prizes when you take part in challenges.
 
 For Government agencies that use the portal to host their challenges, they will be able to run, manage and review their challenges independently. 
 
