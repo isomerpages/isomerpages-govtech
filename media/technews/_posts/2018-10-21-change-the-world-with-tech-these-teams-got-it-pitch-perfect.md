@@ -31,4 +31,8 @@ In addition to the three main awards, prizes for impact and creativity were also
 
 Finally, team Mucho was rewarded for its creativity in conceptualising a mobile app aimed at reducing food waste in restaurants. “We want to use machine learning to predict how much surplus food a restaurant generates. Restaurant owners can then make better-informed decisions about how much food to produce or purchase without generating too much food waste,” said philosophy undergraduate Mr Anthony Tan of team Mucho.
 
+ ![Change the world with tech? These teams got it pitch-perfect]({{site.baseurl}}/images/technews/SWSGPart2.png)
+ 
 With incubation support from Temasek and GovTech, these ideas may very well take flight and create a more tech-enabled, inclusive and sustainable society. 
+
+ ![Change the world with tech? These teams got it pitch-perfect]({{site.baseurl}}/images/technews/SWSGPart3.png)
