@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "5 ways to end Singaporeans’ love affair with cash payments"
+title:  "This GovTech team is the reason you no longer have to use paper parking coupons (Part 2)"
 permalink: "/media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)"
 category: technews
 image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png"
 ---
 
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png)
+![This govtech team is the reason you no longer have to use paper parking coupons (part 2)]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png)
 
 * *Paper coupons be gone! Launched in October 2017, the Parking.sg mobile app now allows drivers in Singapore to pay for parking digitally* 
 * *In this two-part series, we take you behind the scenes of how GovTech’s engineers designed and developed the app*
