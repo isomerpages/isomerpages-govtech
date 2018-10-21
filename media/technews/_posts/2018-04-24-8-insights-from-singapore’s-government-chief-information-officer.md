@@ -10,7 +10,7 @@ image: "/images/technews/8-insights-from-singapore’s-government-chief-informat
 
 ---
 
-#### **Keep yourself up to date with TechNews. Subscribe to our newsletter here.**
+#### **Keep yourself up to date with TechNews. Subscribe to our newsletter [here.](/media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-minister-office/)**
 
 Curious about Singapore’s approach to digital governance? At the ‘Digital Government for Transformation Towards Sustainable and Resilient Societies—the Singapore Experience’ course which ran from 2-6 April 2018, Government Chief Information Officer Mr Chan Cheow Hoe shared how the Singapore government thinks about using digital technologies to create value for citizens. TechNews brings you eight key insights from the session.
 
