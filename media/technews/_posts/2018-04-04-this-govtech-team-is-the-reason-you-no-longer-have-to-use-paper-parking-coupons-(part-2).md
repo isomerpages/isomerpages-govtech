@@ -9,8 +9,11 @@ image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-u
 ![This govtech team is the reason you no longer have to use paper parking coupons (part 2)]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png)
 
 * *Paper coupons be gone! Launched in October 2017, the Parking.sg mobile app now allows drivers in Singapore to pay for parking digitally* 
+
 * *In this two-part series, we take you behind the scenes of how GovTech’s engineers designed and developed the app*
+
 * *In Part 2: How Parking.sg was tested, scaled and fine-tuned for its national debut*
+
 ---
 
 Most of us use mobile apps every day without giving them a second thought. But if you’ve ever wondered what goes into the making of an app, stay tuned—we’re taking you on a detailed journey of how GovTech engineers built Parking.sg, Singapore’s first digital parking mobile app. 
@@ -44,6 +47,7 @@ Another hallmark of beta testing is scale: Parking.sg went from 10 users in the 
 
 ### **[TL;DR] Phase 4: Beta testing**
 **Goal**: Focus and stability
+
 **Lessons learned**: Actively filter and prioritise features; bloat is bad
 
 ### **Phase 5: Production**
@@ -57,6 +61,7 @@ As an app scales, production bugs inevitably crawl out of the woodwork; the team
 
 ### **[TL;DR] Phase 5: Production**
 **Goal**: Polishing and ironing out bugs
+
 **Lessons learned**: In UX design, less is more; scale incrementally to catch bugs
 
 ### **All systems go**
