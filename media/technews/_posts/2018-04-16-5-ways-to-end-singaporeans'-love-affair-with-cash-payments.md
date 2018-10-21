@@ -14,7 +14,7 @@ We list here 5 lessons that could help e-payments gain traction in Singapore.
 
 ---
 
-### **Keep yourself up to date with TechNews. Subscribe to our newsletter [here.](/media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-minister-office/)**
+#### **Keep yourself up to date with TechNews. Subscribe to our newsletter [here.](/media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-minister-office/)**
 Ask any Singaporean on the street if they own a mobile phone and a credit card, and the answer is most likely to be “yes”. Yet, a recent survey by PayPal showed that the majority of Singaporeans still prefer to make payments using cash.“The reason why cash is so pervasive is that it’s easy to use and it’s accepted everywhere. Its power lies in its simplicity,” said Mr Sujith Narayanan, country business head of Tez, a mobile payments platform by Google. He was speaking at the Money20/20 Asia Conference on 13 March 2018, during which he shared some key learning points from Tez’s journey when it rolled out its mobile payments service in India. At the time of writing, Tez has more than 12 million users in India and has processed over 140 million transactions.
 How did Tez make significant headway in a society that was predominantly cash-reliant? We’ve put together a list of lessons that may help digital payments service providers replicate Tez’s success in the Singapore context.
 
