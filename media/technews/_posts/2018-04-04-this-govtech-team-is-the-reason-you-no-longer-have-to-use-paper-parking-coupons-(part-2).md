@@ -14,7 +14,7 @@ image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-u
 ---
 
 Most of us use mobile apps every day without giving them a second thought. But if you’ve ever wondered what goes into the making of an app, stay tuned—we’re taking you on a detailed journey of how GovTech engineers built Parking.sg, Singapore’s first digital parking mobile app. 
-In [Part 1](https://isomerpages-govtech.netlify.com/media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons), the team prototyped the app and put together a detailed proposal for building it. Now, park yourself in a comfy spot and read on for Part 2, in which [Parking.sg](https://www.parking.sg/) is put through its paces, and the team has to make some important decisions. 
+In [Part 1](/media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons), the team prototyped the app and put together a detailed proposal for building it. Now, park yourself in a comfy spot and read on for Part 2, in which [Parking.sg](https://www.parking.sg/) is put through its paces, and the team has to make some important decisions. 
 
 ### **Phase 3: Alpha testing**
 Parking.sg was alpha tested on just ten volunteers. At this point, it was a no-frills app that was still nowhere near complete, said Mr Li Hongyi, GovTech’s deputy director of product and engineering, who spoke at the Public Sector Infocomm Seminar on 20 March 2018. In the alpha testing phase, the goal is to explore different options, and to get validation that the app actually helps people who use it, he added. 
