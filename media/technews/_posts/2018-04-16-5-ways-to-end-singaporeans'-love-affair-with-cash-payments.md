@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png"
 ---
 
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/of-aliens-and-the-digital-dark-age-part-1.png)
+![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png)
 
 TL: DR: Although most Singaporeans own mobile phones and credit cards, cash is still king in this city state. In India, a mobile payments platform by Google—called Tez—has been relatively successful in overcoming people’s inertia to e-payments.
 
