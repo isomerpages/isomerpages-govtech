@@ -52,7 +52,7 @@ This study assesses the UN’s 193 member states on the relative ability of thei
 
 The yearly study ranks 148 economies and examines their preparedness to leverage information and communication technologies (ICT) for increased competitiveness and development.
 
-* In 2016, Singapore is ranked 1st in the world.
+* In 2016, Singapore was ranked 1st in the world.
 <table>
   <tr>
     <th><span style="font-weight:bold">Publication Year</span></th>
@@ -64,25 +64,25 @@ The yearly study ranks 148 economies and examines their preparedness to leverage
     <th>2017</th>
   </tr>
   <tr>
-    <td colspan="7">UN eGov Survey (released bienially)</td>
+    <td colspan="7">World Economic Forum Global Information Technology Report(released Annually)</td>
   </tr>
   <tr>
-    <td>(i) Development Index</td>
-    <td>10th</td>
-    <td>No Report</td>
-    <td>3rd</td>
-    <td>No Report</td>
-    <td>4th</td>
-    <td>No Report</td>
+    <td>(i) Government Usage Sub-Index</td>
+    <td>2nd</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>Not Availablet</td>
   </tr>
   <tr>
-    <td>(ii) e-Participation Index</td>
+    <td>(ii) Social Impact Sub-Indexx</td>
     <td>3rd</td>
-    <td>No Report</td>
-    <td>10th</td>
-    <td>No Report</td>
-    <td>8th</td>
-    <td>No Report</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>Not Available</td>
   </tr>
 </table>
 
