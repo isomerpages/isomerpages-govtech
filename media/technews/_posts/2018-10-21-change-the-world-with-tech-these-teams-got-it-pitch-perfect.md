@@ -17,7 +17,7 @@ Change the world in 54 hours—if it sounds like mission impossible, that didn�
 
 After gruelling rounds of pitching to a judging panel that included Mr Quek Siu Rui, co-founder and CEO of Carousell and Mr Chng Kai Fong, managing director of the Singapore Economic Development Board, five teams whose ideas revolved around using technology for social good emerged as winners.
 
-####**The cream of the crop**
+#### **The cream of the crop**
 
 Clinching the grand prize was Mind Palace, a team of entrepreneurs who aspire to use virtual reality to help those with dementia.
 
@@ -27,7 +27,7 @@ Another community not to be forgotten is the hearing impaired. Only a fraction o
 
 Meanwhile, the winners of the third prize—Tong for Change—sought to serve a different community: the underprivileged in society. Seeking to encourage generosity, the team developed a mobile app that would round up the value of a user’s online transactions to the nearest dollar, then donate that difference to a user-selected charity. “Our app solves donor fatigue and encourages new donors to give to society in a seamless manner,” said team member Mr Nicholas Ooi, co-founder of bantu, a local social enterprise. 
 
-####**Special mentions**
+#### **Special mentions**
 
 In addition to the three main awards, prizes for impact and creativity were also given out. The impact prize went to a team of educators and software engineers—Hear to Learn. 
 
