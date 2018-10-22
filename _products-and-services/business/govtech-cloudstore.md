@@ -5,7 +5,7 @@ permalink: /products-and-services/govtech-cloudstore/
 breadcrumb: GovTech CloudStore
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/cloudstore2017.jpg
+thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
 ![CloudStore]({{"/images/programmes/products-and-services/cloudstore2017.jpg" | absolute_url }})
