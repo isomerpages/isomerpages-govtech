@@ -11,7 +11,9 @@ TL:DR: A virtual reality ‘mind palace’ to help dementia patients and an app 
  
 Change the world in 54 hours—if it sounds like mission impossible, that didn’t stop budding entrepreneurs from participating in Startup Weekend Singapore (SWSG) Mega 2018. Organised by the SWSG team and the Government Technology Agency of Singapore (GovTech), the hackathon saw more than 280 individuals form teams to engage in a weekend of ideation, workshops and mentorship sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_BUAGtL-C5w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="bp-youtube">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/_BUAGtL-C5w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 After gruelling rounds of pitching to a judging panel that included Mr Quek Siu Rui, co-founder and CEO of Carousell and Mr Chng Kai Fong, managing director of the Singapore Economic Development Board, five teams whose ideas revolved around using technology for social good emerged as winners.
 
