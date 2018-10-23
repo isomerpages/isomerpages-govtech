@@ -68,4 +68,4 @@ Although fintech signals increased competition, the good news is that this often
 
 “That’s actually excellent for consumption.”
 
-With fintech competition set to heat up in the coming years, customers can look forward to more products and services that will make their financial dealings smoother, faster and more convenient.v
+With fintech competition set to heat up in the coming years, customers can look forward to more products and services that will make their financial dealings smoother, faster and more convenient.
