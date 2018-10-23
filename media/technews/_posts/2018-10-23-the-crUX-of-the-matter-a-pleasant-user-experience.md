@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-crUX-of-the-matter-a pleasant-user-experiencePart1.png"
 ---
 
-![The crUX of the matter—a pleasant user experience](/images/technews/the-crUX-of-the-matter-a pleasant-user-experiencePart1.png)
+![The crUX of the matter a pleasant user experience](/images/technews/the-crUX-of-the-matter-a pleasant-user-experiencePart1.png)
 
 TL:DR: When it comes to government digital services, a good UX design means less frustration on the part of citizens. At GovTech, a team of UX designers are working behind the scenes to streamline processes and improve touch points between the government and citizens. TechNews spoke to Mr Edison Chee and Mr Philip Mann about crafting a good UX. 
 
