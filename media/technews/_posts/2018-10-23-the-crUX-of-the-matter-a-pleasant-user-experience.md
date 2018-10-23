@@ -14,7 +14,7 @@ Have you ever been to a restaurant with fantastic ambience and delicious food, o
 
 UX is equally important in the tech sector, and a government that wants to deliver value to its citizens through digital services cannot afford to ignore it. Mr Edison Chee (Ed) and Mr Philip Mann (Phil), UX designers at the Government Technology Agency of Singapore (GovTech), spoke to TechNews about what good UX means to them.
 
-![Philip and Edison from GovTech]({{site.baseurl}}/images/technews/The%20crUX%20of%20the%20mattera%20pleasant%20user%20experiencePart1.png)
+![Philip and Edison from GovTech](/images/technews/The%20crUX%20of%20the%20mattera%20pleasant%20user%20experiencePart1.png)
 
 #### **1. What is UX design in the context of government digital services, and why is it important**
 
