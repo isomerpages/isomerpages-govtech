@@ -23,6 +23,7 @@ This study assesses the UN’s 193 member states on the relative ability of thei
     <th>2015</th>
     <th>2016</th>
     <th>2017</th>
+    
   </tr>
   <tr>
     <td colspan="7">UN eGov Survey (released bienially)</td>
@@ -73,7 +74,7 @@ The yearly study ranks 148 economies and examines their preparedness to leverage
     <td>1st</td>
     <td>1st</td>
     <td>1st</td>
-    <td>Not Availablet</td>
+    <td>Not Available</td>
   </tr>
   <tr>
     <td>(ii) Social Impact Sub-Indexx</td>
