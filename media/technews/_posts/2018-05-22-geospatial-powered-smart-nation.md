@@ -25,7 +25,7 @@ The possibilities are endless – you can see patterns, trends, concentrations, 
 
 ![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-2.png)
 
-*<div align="center">Team members are attached to various Government agencies, lending their geospatial expertise through map-based projects such as the One Service system and intranet-based platform Geospace.</div>*
+*Team members are attached to various Government agencies, lending their geospatial expertise through map-based projects such as the One Service system and intranet-based platform Geospace.*
 
 An example is a recently completed project for the Ministry of National Development.
 
@@ -52,8 +52,8 @@ All they need are basic columns such as postal codes or longitude and latitude c
 
 ![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-3.png)
 
-*<div align="center">The geospatial team took the initiative to build Geoexcel for agencies to geotag their Excel information. 
-The simple plugin gained traction quickly and have garnered "a few thousand" downloads to date.</div>*
+*The geospatial team took the initiative to build Geoexcel for agencies to geotag their Excel information. 
+The simple plugin gained traction quickly and have garnered "a few thousand" downloads to date.*
 
 The plugin is nothing fancy, but that was the team's intention. "We developed it for people who have never used GIS before and who have no knowledge of geospatial technology," points out Anupam. There was no dedicated headcount for it or much funding. "We did it as an extra-curricular activity," he says with a laugh. 
 
@@ -62,8 +62,8 @@ The tool grew so popular that at one time, they received 80 to 90 installation r
 ### **The Future of Geospatial**
 ![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-4.png)
 
-*<div align="center">The small but agile geospatial team sees an increase in demand for geospatial technology. Back row from L to R: Sia Jin Jun, Andy Tan and Chew Xunmao.
-Front row from L to R: Abhishek Tandon, Anupam Mukherjee and Elvia Willyono</div>*
+*The small but agile geospatial team sees an increase in demand for geospatial technology. Back row from L to R: Sia Jin Jun, Andy Tan and Chew Xunmao.
+Front row from L to R: Abhishek Tandon, Anupam Mukherjee and Elvia Willyono*
 
 Moving ahead, Anupam and his team feel their role will only get increasingly important. "Today, over 70 per cent of whatever data we generate has a geospatial component in it and the exploitation of such data for sense-making is increasingly important," said Abhishek Tandon, a senior geospatial specialist and deputy director of IT in NParks.
 
