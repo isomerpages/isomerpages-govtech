@@ -7,15 +7,24 @@ collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
+![GITSIR_Header](/images/programmes/products-and-services/GITSIR_Header.jpg)
 
-Government IT Security Incident Response (GITSIR) Team was formed to support the IT Security Incident Framework for the Government. It serves as a primary point of contact for all security incidents in the Government and serves as a central interface for coordinating with external parties such as other government agencies, external organisations, Internet Service Providers and law enforcement.
+Have you ever wondered about who handles cybersecurity incidents in the Government? Look no further than the Government IT Security Incident Response (GITSIR) team. Established in 1997, GITSIR enables the Government to provide a swift response to cybersecurity incidents. Here’s a quick look at what the team does:
 
-GITSIR offers technical assistance and advice on investigating, resolving and recovering from security incidents. To minimise and prevent incidents, GITSIR also proactively provides Incidents Knowledge Base (include technical advisories, patches, tools, incident statistic and trend etc) and enrichment programmes to increase the level of incident response capability of the Government offices.
 
-### **GITSIR Services**
 
-GITSIR provides the following services to those who have signed up the GITSIR Programme:
+<table>
+  <tr>
+    <th>![GITSIR_pic1](/images/programmes/products-and-services/GITSIR_Pic1.jpg) </th>
+    <th>Performs incident investigations, digital forensics, malware analysis, etc.</th>
+    <th>![GITSIR_pic2](/images/programmes/products-and-services/GITSIR_pic2.jpg)</th>
+    <th>Primary point of contact for all security incidents and coordinate with relevant external parties.</th>
+  </tr>
+</table>
 
-* Technical assistance to assist sites to investigate, resolve and recover from security incidents. 
-* Send out security alerts, advisories, patches and news to SIRM and SIRO. 
-* Enrichment Programmes to enhance the SIRM and SIRO ability to perform their functions
+
+GITSIR proactively publishes alerts, advisories and directives on security vulnerabilities and threats, and highlight cybersecurity best practices to address the latest and upcoming cyber threats.
+
+However, incidents may still occur from time to time. Agency users or IT teams that detect unusual activities or suspected malware must report their observations to GITSIR. Each Agency has appointed its own team of Security Incident Response Managers and Officers (SIRMs/SIROs). Together with the Chief Information Security Officers (CISO) and GITSIR, they work together to take the necessary steps when faced with possible cybersecurity threats.
+
+GITSIR uses the IT Security Incident Framework process to identify the incident’s root cause and provide recommendations to agencies, who will then contain, recover and strengthen themselves against future attacks. GITSIR helps to triage each report to ascertain the severity of each case as well as coordinate with the parties involved, and advise affected agencies on appropriate actions. It also carries out forensic and malware analysis and helps the Government prevent future attacks.
