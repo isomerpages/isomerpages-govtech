@@ -7,7 +7,7 @@ image: "/images/technews/it-pays-to-be-cautious-part1.jpg"
       
 ---
 
-![It pays to be cautious in a world of online shopping and e-payments](image: "/images/technews/it-pays-to-be-cautious-part1.jpg")
+![It pays to be cautious in a world of online shopping and e-payments](image:"/images/technews/it-pays-to-be-cautious-part1.jpg")
 
 TL:DR: With better connectivity and widespread mobile penetration, e-commerce is now a trillion-dollar global market. However, scammers and hackers are also cashing in on the lucrative trade. From building cybersecurity features into mobile apps to being wary of fraudulent QR codes, GovTech’s Mr Andrew Chong suggests ways to deter cybercrime. 
 
