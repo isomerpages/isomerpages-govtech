@@ -10,7 +10,7 @@ image: "/images/technews/it-pays-to-be-cautious-part1.jpg"
 ![It pays to be cautious in a world of online shopping and e-payments](image: "/images/technews/it-pays-to-be-cautious-part1.jpg")
 
 TL:DR: With better connectivity and widespread mobile penetration, e-commerce is now a trillion-dollar global market. However, scammers and hackers are also cashing in on the lucrative trade. From building cybersecurity features into mobile apps to being wary of fraudulent QR codes, GovTech’s Mr Andrew Chong suggests ways to deter cybercrime. 
-______________________________________________________________________________________________________________________________
+
 Remember when shopping was an activity that involved leaving the house and lugging merchandise home?  Now, with online shopping, you can simply browse and make payments online, and have your order sent straight to your doorstep. This convenience has led to a burgeoning e-commerce sector, accounting for approximately US$2.3 trillion in sales globally, according to an eMarketer report. But what is the true price of convenience when transacting online?
 
 At the CyberSafe CyberReady conference on 20 September 2018, Mr Andrew Chong, principal cybersecurity specialist at the Government Technology Agency of Singapore (GovTech), described how hackers are taking advantage of the e-commerce and e-payments boom.
