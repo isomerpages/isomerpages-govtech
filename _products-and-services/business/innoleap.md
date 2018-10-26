@@ -8,25 +8,40 @@ tag: business
 thumbnail_image: /images/programmes/products-and-services/InnoLeap_Thumbnail.jpg
 ---
 
-### **Introduction**
-As Singapore moves towards becoming a Smart Nation, GovTech is placing greater emphasis on encouraging the spirit of innovation within the government sector. Today, there are many innovative ideas and solutions developed by Research Institutes (RIs), Institutes of Higher Learning (IHLs), and commercial entities that are looking to solve real-world problems.
-
-The InnoLeap programme brings together public sector agencies with challenging problem statements and RIs, IHLs, and commercial entities with innovative solutions. The aim is for all parties to build a deeper understanding of hurdles, solutions and cultivate opportunities for collaboration. Commercial entities will also be provided with potential business-to-business opportunities.
-
-### **About the InnoLeap**
-
 ![InnoLeap Programme]({{"/images/programmes/products-and-services/Innoleap-Logo.jpg" | absolute_url }})
 
-The InnoLeap programme offers a series of platforms which serve as a catalyst for transforming problem statements into innovative solutions in a digital ecosystem. These highly interactive platforms raise awareness of technologies and facilitate the exchange of business needs and technology ideas between public sector agencies and solution providers. Through these, challenges and problem statements are identified for innovative solutioning and implementation.
+The InnoLeap programme by GovTech offers both online and offline collaboration platforms to serve as a catalyst for transforming problem statements into innovative solutions in a digital ecosystem. Online engagement takes place on the Ideas! portal [(https://ideas.gov.sg)](https://ideas.gov.sg){:target="_blank"}, the government’s crowdsourcing portal. Offline platforms serve to raise awareness of current and upcoming technologies, seed potential use cases, facilitate robust exchange of business needs and technology ideas between public sector agencies and solution providers in the form of technology companies, Research Institutes (RIs) and Institutes of Higher Learning (IHLs). Challenges and problem statements are identified for innovative problem solving and implementation through these platforms, which include:
 
-**Thematic Workshops**<br>
-Thematic workshops are conducted every two to three months based on themes identified from agencies' demand. In these workshops, participants from the agencies will meet companies with innovative products or solutions. Each participant must bring along problem statements relating to their area of work (be it a longer term issue, or immediate operational issue) for in-depth discussion with the technology companies and to explore potential collaboration & pilots.
+### **InnoLeap Collaboration Platform (Online)** 
 
-**Sharing Day**<br>
-Sharing days are organised to raise the level of awareness of emerging technologies amongst officers in public sector  agencies. Companies are invited to share their solutions and technologies related to a specific theme. Each company will be given a specific time period for presentation and demonstration of their solutions. At the end of the session, time will be allocated for consultation with the companies. Sharing days can be organised for different groups, ranging from a particular agency, to a group of agencies for a specific domain.
+**InnoLeap on Ideas! Portal (ideas.gov.sg)**
+GovTech conducts market scans, crowdsourcing and innovation-related activities through the Ideas! crowdsourcing portal, which include Calls for Ideas, Calls for Solutions and Calls for Co-Innovation partners. This digital platform provides end-to-end collaboration opportunities for the community and industry to co-create and co-develop to solve agencies’ challenges.
 
-**Clinics**<br>
-1-1 consultation clinics are conducted with agencies where GovTech work together to understand the problem statements and facilitate the link up with companies to explore potential collaboration and pilots.
+### **InnoLeap Collaboration Platforms (Offline)** 
 
+**Sharing Days**
+These are organised to raise the level of awareness of emerging technologies among officers in government agencies. Technology partners, i.e. companies, RIs and IHLs, are invited to present and give demonstrations for their technologies related to a specific theme. At the end of the session, time is allocated for consultation with the technology partners. Sharing Days can be organised for a single agency or a group of agencies from a specific domain.
+
+**Thematic Workshops**
+These are conducted based on themes and common needs identified from agencies' demand. In these workshops, participants from the agencies are exposed to a network of technology companies with innovative products or solutions. Each participant should bring along problem statements relating to their area of work (to address immediate operational or longer term issues) for in-depth discussion with the technology companies and to explore potential collaborations and pilots.
+
+**Clinics**
+Deep dive clinics are conducted with agencies to understand their problem statements before facilitating the link-up with suitable technology partners to explore potential collaborations and pilots.
+Hackathons – These are organised with partners to develop interesting ideas and solutions to solve agencies’ challenges, by tapping on the expertise from the community and industry.
+ 
+### **Find Out More**
+InnoLeap activities happen throughout the year. Contact GovTech’s Applied Innovation & Partnership team at <innovate@tech.gov.sg>:
+
+**(1) For Government Agency:** 
+
+* If you would like to suggest themes for InnoLeap Sharing Days; or
+
+* If you have problem statements, use cases or ideas looking for innovative solutions.
+
+**(2) For Industry:**
+
+If you would like to seek collaboration opportunities. Also, look out for InnoLeap activities on [https://ideas.gov.sg](https://ideas.gov.sg){:target="_blank"}.
+
+<!--
 **Contact Details**<br>
-For more information and all other queries, please contact [innovate@tech.gov.sg](mailto:innovate@tech.gov.sg).
+For more information and all other queries, please contact [innovate@tech.gov.sg](mailto:innovate@tech.gov.sg).-->
