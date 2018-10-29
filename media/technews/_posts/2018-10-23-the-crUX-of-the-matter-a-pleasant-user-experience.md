@@ -8,11 +8,11 @@ image: "/images/technews/the-crUX-of-the-matter-a-pleasant-user-experience-part-
 
 ![The crUX of the matter a pleasant user experience](/images/technews/the-crUX-of-the-matter-a-pleasant-user-experience-part-1.png)
 
-TL:DR: When it comes to government digital services, a good UX design means less frustration on the part of citizens. At GovTech, a team of UX designers are working behind the scenes to streamline processes and improve touch points between the government and citizens. TechNews spoke to Mr Edison Chee and Mr Philip Mann about crafting a good UX. 
+TL:DR: When it comes to government digital services, a good UX design means less frustration on the part of citizens. At GovTech, a team of UX designers are working behind the scenes to streamline processes and improve touch points between the government and citizens. TechNews spoke to Mr Edison Chee and Mr Philip Man about crafting a good UX. 
 
 Have you ever been to a restaurant with fantastic ambience and delicious food, only to lose your appetite because of a rude waiter? A poor user experience (UX) could ruin the good work of every other department in an organisation. Hence, it is important to pay attention to the fine details of the customer journey from the moment of first contact to when they leave satisfied.
 
-UX is equally important in the tech sector, and a government that wants to deliver value to its citizens through digital services cannot afford to ignore it. Mr Edison Chee (Ed) and Mr Philip Mann (Phil), UX designers at the Government Technology Agency of Singapore (GovTech), spoke to TechNews about what good UX means to them.
+UX is equally important in the tech sector, and a government that wants to deliver value to its citizens through digital services cannot afford to ignore it. Mr Edison Chee (Ed) and Mr Philip Man (Phil), UX designers at the Government Technology Agency of Singapore (GovTech), spoke to TechNews about what good UX means to them.
 
 ![Philip and Edison from GovTech](/images/technews/the-crUX-of-the-matter-a-pleasant-user-experience-part-2.png)
 
