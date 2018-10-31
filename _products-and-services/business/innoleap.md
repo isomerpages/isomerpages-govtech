@@ -10,14 +10,14 @@ thumbnail_image: /images/programmes/products-and-services/InnoLeap_Thumbnail.jpg
 
 ![InnoLeap Programme]({{"/images/programmes/products-and-services/Innoleap-Logo.jpg" | absolute_url }})
 
-The InnoLeap programme by GovTech offers both online and offline collaboration platforms to serve as a catalyst for transforming problem statements into innovative solutions in a digital ecosystem. Online engagement takes place on the Ideas! portal [(https://ideas.gov.sg)](https://ideas.gov.sg){:target="_blank"}, the government’s crowdsourcing portal. Offline platforms serve to raise awareness of current and upcoming technologies, seed potential use cases, facilitate robust exchange of business needs and technology ideas between public sector agencies and solution providers in the form of technology companies, Research Institutes (RIs) and Institutes of Higher Learning (IHLs). Challenges and problem statements are identified for innovative problem solving and implementation through these platforms, which include:
+The InnoLeap programme by GovTech offers both online and offline collaboration platforms to serve as a catalyst for transforming problem statements into innovative solutions in a digital ecosystem. Online engagement takes place on the Ideas! [Ideas!](https://ideas.gov.sg){:target="_blank"} portal, the government’s crowdsourcing portal. Offline platforms serve to raise awareness of current and upcoming technologies, seed potential use cases, facilitate robust exchange of business needs and technology ideas between public sector agencies and solution providers in the form of technology companies, Research Institutes (RIs) and Institutes of Higher Learning (IHLs). Challenges and problem statements are identified for innovative problem solving and implementation through these platforms, which include:
 
-### **InnoLeap Collaboration Platform (Online)** 
+### **Online Collaboration Platform** 
 
-**InnoLeap on Ideas! Portal (ideas.gov.sg)**
+**InnoLeap on Ideas! Portal [(ideas.gov.sg)](https://ideas.gov.sg){:target="_blank"}**
 GovTech conducts market scans, crowdsourcing and innovation-related activities through the Ideas! crowdsourcing portal, which include Calls for Ideas, Calls for Solutions and Calls for Co-Innovation partners. This digital platform provides end-to-end collaboration opportunities for the community and industry to co-create and co-develop to solve agencies’ challenges.
 
-### **InnoLeap Collaboration Platforms (Offline)** 
+### **Offline Collaboration Platforms** 
 
 **Sharing Days**
 These are organised to raise the level of awareness of emerging technologies among officers in government agencies. Technology partners, i.e. companies, RIs and IHLs, are invited to present and give demonstrations for their technologies related to a specific theme. At the end of the session, time is allocated for consultation with the technology partners. Sharing Days can be organised for a single agency or a group of agencies from a specific domain.
@@ -40,7 +40,7 @@ InnoLeap activities happen throughout the year. Contact GovTech’s Applied Inno
 
 **(2) For Industry:**
 
-If you would like to seek collaboration opportunities. Also, look out for InnoLeap activities on [https://ideas.gov.sg](https://ideas.gov.sg){:target="_blank"}.
+If you would like to seek collaboration opportunities. Also, look out for InnoLeap activities on the Ideas! [Ideas!](https://ideas.gov.sg){:target="_blank"} portal.
 
 <!--
 **Contact Details**<br>
