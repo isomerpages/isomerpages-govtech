@@ -28,6 +28,10 @@ Users are reminded to only use their own fingerprint or facial image to register
 
 The app will be progressively updated with new features to make it a one-stop touch point for government digital services. Users can visit <www.SingPassMobile.sg> for more information.
 
+**Annex B : SingPass Mobile Videos**
+What is SingPass Mobile?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDrqT64ydd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 **About Government Technology Agency**
@@ -40,8 +44,8 @@ Following the formation of the Smart Nation and Digital Government Group in May 
 
 Smart Nation is Singapore’s vision to be an economically competitive global city and a liveable home. It is a whole-of-nation movement to harness digital technologies to build a future Singapore, to improve living and build a closer community, empower citizens to achieve their aspirations through good jobs and opportunities, and encourage businesses to innovate and grow. For more information, please visit <www.smartnation.sg>.
 
-### **For media clarification**
-Medha Lim (Ms) 
+### **For media clarification** ###
+Medha Lim (Ms)
 Senior Manager
 Communications and Marketing Group, GovTech
 DID: (65) 6211 1622
