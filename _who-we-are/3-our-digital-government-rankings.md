@@ -23,6 +23,7 @@ This study assesses the UN’s 193 member states on the relative ability of thei
     <th>2015</th>
     <th>2016</th>
     <th>2017</th>
+    <th>2018</th>
     
   </tr>
   <tr>
@@ -36,16 +37,34 @@ This study assesses the UN’s 193 member states on the relative ability of thei
     <td>No Report</td>
     <td>4th</td>
     <td>No Report</td>
+    <td>7th</td>
+
   </tr>
+  
   <tr>
-    <td>(ii) e-Participation Index</td>
+    <td>(ii) Online Services Index</td>
+    <td>1st</td>
+    <td>No Report</td>
+    <td>2nd</td>
+    <td>No Report</td>
+    <td>3rd</td>
+    <td>No Report</td>
+    <td>2nd</td>
+  </tr>
+  
+  <tr>
+    <td>(iii) e-Participation Index</td>
     <td>3rd</td>
     <td>No Report</td>
     <td>10th</td>
     <td>No Report</td>
     <td>8th</td>
     <td>No Report</td>
+    <td>14th</td>
+
   </tr>
+  
+  
 </table>
 
 
@@ -77,7 +96,7 @@ The yearly study ranks 148 economies and examines their preparedness to leverage
     <td>Not Available</td>
   </tr>
   <tr>
-    <td>(ii) Social Impact Sub-Indexx</td>
+    <td>(ii) Social Impact Sub-Index</td>
     <td>3rd</td>
     <td>1st</td>
     <td>1st</td>
