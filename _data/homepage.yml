@@ -32,9 +32,10 @@ key-highlights:
   - title: DIGITAL GOVERNMENT BLUEPRINT
     description: To create a Government that is “Digital to the Core, and Serves with Heart
     url: /digital-government-blueprint/
-  - title: GET INVOLVED
-    description: Engagement and co-creation with citizens and businesses
-    url: /get-involved/
+  - title: SUBSCRIBE TO TECHNEWS
+    description: Get the latest news and highlights from GovTech
+    url: https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd
+    external: true
   - title: SMART NATION <br> SCHOLARSHIP
     description: Unleash your passion and potential with us
     url: /careers/students-and-graduates/
@@ -62,3 +63,4 @@ careers-description: We harness the transformative power of technology to delive
 careers-more-button: Explore Opportunities
 careers-more-button-url: /careers/why-govtech/
 
+https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd
