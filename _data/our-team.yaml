@@ -72,7 +72,7 @@ senior-leadership:
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/kok-ping-soon.png
   - name: Mr CHAN Cheow Hoe
-    title: Deputy Chief Executive
+    title: Deputy Chief Executive / Government Chief Digital Technology Officer
     organisation: Products
     image-url: /images/our-team/chan-cheow-hoe.jpg
   - name: Mr FOONG Sew Bun
@@ -133,7 +133,6 @@ organisational-structure:
   - title: CE Office
     teams:
       - name: Internal Audit
-        link:
   - title: Corporate Services
     teams:
       - name: Applied Innovation  and Partnership (AIP)
