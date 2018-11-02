@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: simple-page
 title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2017"
-date:   2018-01-01
-permalink: "/media/facts-and-figures/digital-government-perception-survey-citizen-2017"
+permalink: "/digital-government-perception-survey-citizen-2017"
 ---
 
 ### **Background / Objectives**

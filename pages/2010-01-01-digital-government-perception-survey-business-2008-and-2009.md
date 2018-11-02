@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: simple-page
 title:  "Annual Digital Government Perception Survey (Business) Conducted in 2008 and 2009"
-date:   2010-01-01
-permalink: "/media/facts-and-figures/digital-government-perception-survey-business-2008-and-2009"
+permalink: "/digital-government-perception-survey-business-2008-and-2009"
 ---
 
 ### **Background**

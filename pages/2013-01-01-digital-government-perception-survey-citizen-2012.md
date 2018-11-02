@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: simple-page
 title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2012"
-date:   2013-01-01
-permalink: "/media/facts-and-figures/digital-government-perception-survey-citizen-2012"
+permalink: "/digital-government-perception-survey-citizen-2012"
 ---
 
 ### **Background**
