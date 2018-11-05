@@ -26,6 +26,7 @@ column:
     content:
     - line: +65 6211 2100
     - line: info@tech.gov.sg (email)
+    - line: <a href="https://form.gov.sg/forms/govtech/5bda9d7df5a907000fd1b76e"> Submit a Feedback </a>
   - title: Mainline
     content:
     - line: +65 6211 0888
@@ -37,7 +38,7 @@ column:
     content:
     - line: 1800-WHISTLE (1800 944 7853)
     - line: whistleblow@tech.gov.sg (email)
-    - line: <a href="/whistleblowing-line/">More details</a>
+    - line: <a href="/whistleblowing-line/"> More details</a>
   - title: Fax
     content:
     - line: +65 6211 2222
