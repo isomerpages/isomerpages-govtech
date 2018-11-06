@@ -6,7 +6,7 @@ breadcrumb: Our Team
 collection_name: who-we-are
 ---
 
-For more information on the organisational structure of GovTech, please refer to the ‘Organisational Chart’ attached below or to https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech.
+For more information on the organisational structure of GovTech, please refer to the ‘Organisational Chart’ appended or check out the Singapore Government Directory (SGDI) - https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech.
 
-[Organisation Chart - GovTech]({{ "/files/2017-09-30/Annex 1.pdf" | absolute_url }})
+![Organisation Chart - GovTech]({{ "images/our-team/GovTech New Org Chart (Effective 1 Nov 2018).png" | absolute_url }})
 
