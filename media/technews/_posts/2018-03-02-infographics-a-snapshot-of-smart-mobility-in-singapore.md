@@ -6,6 +6,6 @@ category: technews
 image: "/images/technews/infographics-a-snapshot-of-smart-mobility-in-singapore-part-1.png"
 ---
 
-![infographics: a snapshot of smart mobility in singapore]({{site.baseurl}}/images/technews/infographics-a-snapshot-of-smart-mobility-in-singapore-part-1.png)
+![infographics: a snapshot of smart mobility in singapore](/images/technews/infographics-a-snapshot-of-smart-mobility-in-singapore-part-1.png)
 
-![infographics: a snapshot of smart mobility in singapore]({{site.baseurl}}/images/technews/infographics-a-snapshot-of-smart-mobility-in-singapore-part-2.png)
+![infographics: a snapshot of smart mobility in singapore](/images/technews/infographics-a-snapshot-of-smart-mobility-in-singapore-part-2.png)
