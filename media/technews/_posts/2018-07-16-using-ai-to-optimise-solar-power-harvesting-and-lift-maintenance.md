@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![use ai to optimise solar power harvesting and lift maintenance]({{site.baseurl}}/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-1.jpg)
+![use ai to optimise solar power harvesting and lift maintenance](/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-1.jpg)
 
 As a small, resource-scarce nation, Singapore’s energy consumption is disproportionately high. To meet our growing energy needs, artificial intelligence (AI) is being used to optimise the harvesting of solar power. Additionally, AI is enabling the predictive maintenance of Singapore’s numerous elevators, ensuring that they run smoothly, and in an energy-efficient manner. 
 
@@ -18,7 +18,7 @@ Notably, the processing power of computers back then imposed a strict upper limi
 
 Fast forward a few decades, however, and today’s blazing fast graphics processing units allow computations to be completed within seconds where they would have taken days in the past, said Dr Thomas Ho, department head, Smart Energy and Environment, at the Institute of Infocomm Research (I2R). He was speaking at the AI leader’s forum on 15 May 2018, where he explained how AI is now being applied to solve one of Singapore’s most pressing issues—sustainability. 
 
-![ai leader forum]({{site.baseurl}}/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-2.jpg)
+![ai leader forum](/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-2.JPG)
 
 
 **Little red dot, big energy needs**
@@ -49,7 +49,7 @@ In addition to tackling the challenge of energy demand, Dr Ho also shared how AI
  
 “Wouldn’t it be good if we could give the elevator intelligence, for it to tell us, ‘I think I’m going to break down soon, probably in the next week or two’?” 
 
-![ai leader forum slide]({{site.baseurl}}/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-3.png)
+![ai leader forum slide](/images/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance-part-3.PNG)
 
 Using sensors and a microcontroller, Dr Ho explained that the remaining lifespan of each mechanical part in elevators can be estimated automatically, and the in-built AI even recommends servicing timelines. This means that engineers know precisely when to perform pre-emptive maintenance and which elevator parts need replacing. 
 
