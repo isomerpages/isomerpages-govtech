@@ -14,6 +14,7 @@ All these resonate with you? We’d love to hear from you. Apply (https://govtec
 
 ### **Paul Piong**
 Staff Firmware Engineer, Tesla
+
 *“GovTech serves as the perfect platform for me to collaborate with like-minded individuals, and gives me the opportunity to directly impact Singapore’s drive to become a truly Smart Nation.”*
 
 Key Contributions and Projects
@@ -22,6 +23,7 @@ From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedic
 
 ### **Hunter Nield**
 Founder, Acaleph
+
 *“My primary motivation for applying for the Smart Nation Fellowship was to be able to positively impact people’s lives. Although I was born in Australia, Singapore has become my home, and I’ve a strong interest in seeing Singapore succeed and help provide the best environment for the nation’s growth into a Smart Nation.”*
 
 Key Contributions and Projects
@@ -36,6 +38,7 @@ Sau Sheong guided the Government Digital Services team working on the Whole-of-G
 
 ### **Goh Siew Hong**
 Senior System Engineer, GovTech
+
 *“With this programme, there’s actually greater sense of satisfaction knowing that this research project has
 the potential to benefit the society”*
 
@@ -44,6 +47,7 @@ Siew Hong spent six months with our Sensors and IoT team to develop a standard c
 
 ### **U-Zyn Chua**
 Principal Consultant, Zynesis
+
 *“It is visionary of Singapore to announce the Smart Nation initiative and be one of world leaders to drive technology innovations for public good. I knew I had to apply for the Smart Nation Fellowship as this is an opportunity for me to contribute to the Smart Nation initiative. I am honoured to be selected for the inaugural batch of Fellows, and hope to leverage on blockchain technology to work on projects for public good.”*
 
 Key Contributions and Projects
@@ -51,7 +55,8 @@ U-Zyn spent six months working with GovTech’s emerging tech team to create ‘
 
 ### **Arun Kishore**
 Product Analyst, YouTube
+
 *“Singapore is setting an example for the rest of the world with its Smart Nation initiative and bringing data- driven decision-making into government. As a member of the inaugural batch of Smart Nation Fellows, I am thrilled to be part of this vision. I see this as a unique opportunity to apply my data analysis skills towards helping the government make better decisions and solving problems that impact millions of Singaporeans.”*
 
 Key Contributions and Projects
-Arun spent three months in Singapore, and worked with GovTech’s data scientists on enhancements to Singapore’s open data portal, Data.gov.sg https://data.gov.sg. Arun worked on building an exploration tool that allowed users to mash data from different datasets to create new insights. Arun also worked on Beeline https://www.beeline.sg, an open smart mobility platform developed by GovTech to empower commuters to crowd-start and activate more direct, private express bus routes to suit their travel needs. Arun helped the Beeline team to build data pipelines to track the success of their acquisition strategy and ways to retain and engage commuters
+Arun spent three months in Singapore, and worked with GovTech’s data scientists on enhancements to Singapore’s open data portal, Data.gov.sg https://data.gov.sg. Arun worked on building an exploration tool that allowed users to mash data from different datasets to create new insights. Arun also worked on Beeline https://www.beeline.sg, an open smart mobility platform developed by GovTech to empower commuters to crowd-start and activate more direct, private express bus routes to suit their travel needs. Arun helped the Beeline team to build data pipelines to track the success of their acquisition strategy and ways to retain and engage commuters.
