@@ -43,29 +43,4 @@ The survey was conducted from October to December 2017 for the reporting period 
 
 **Past Years' Digital Government Perception Survey Results**
 
-Government-to-Business Surveys
-
-- [2016 (For 2015)](digital-government-perception-survey-citizen-2005)
-- 2015 (For 2014)
-- 2014 (For 2013)
-- 2013 (For 2012)
-- 2012 (For 2011)
-- 2011 (For 2010)
-- 2010 (For 2009)
-- 2009 (For 2008/2007)
-- 2007 (For 2006)
-- 2006 (For 2005)
-
-
-Government-to-Public Surveys
-
-- [2016 (For 2015)](/digital-government-perception-survey-citizen-2005)
-- 2015 (For 2014)
-- 2014 (For 2013)
-- 2013 (For 2012)
-- 2012 (For 2011)
-- 2011 (For 2010)
-- 2010 (For 2009)
-- 2009 (For 2008/2007)
-- 2007 (For 2006)
-- 2006 (For 2005)
+Please refer to the following [link](/media/facts-and-figures/) for past year Digital Government Perception Survey Results.
