@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![what is next for blockchain]({{site.baseurl}}/images/technews/wondering-whats-next-for-blockchain-here-are-four-developments-on-the-horizon-part-1.png)
+![what is next for blockchain](/images/technews/wondering-whats-next-for-blockchain-here-are-four-developments-on-the-horizon-part-1.png)
 
 TLDR: Beyond Bitcoin, blockchain is being implemented in a diverse range of industries, from supply chain management to sustainability tracking. But there’s still some way to go before blockchain can become a universal business infrastructure like the internet. Learn about four major shifts that need to happen for blockchain to flourish. 
 
@@ -18,7 +18,7 @@ Also known as distributed ledger technology, blockchain serves as a digital reco
 
 “In the future, I think blockchain is going to be like the internet—something every company uses as part of a universal business infrastructure—and we believe that there are going to be four important transitions in the world of blockchain to make that possible,” said Mr Paul Brody, global blockchain innovation leader at Ernst & Young, during his talk titled ‘How Companies are Industrializing the Blockchain and Where They Need to Go Next’ at the Blockchain Summit Singapore 2018. Here are the four transitions that he thinks need to happen for blockchain to achieve ubiquity.
 
-![photo]({{site.baseurl}}/images/technews/wondering-whats-next-for-blockchain-here-are-four-developments-on-the-horizon-part-2.jpg)
+![photo](/images/technews/wondering-whats-next-for-blockchain-here-are-four-developments-on-the-horizon-part-2.JPG)
 
 
 **1. A shift from private to public blockchains**
