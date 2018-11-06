@@ -5,7 +5,7 @@ permalink: "/media/technews/how-govtech-and-sla-use-drones-and-ai-for-building-i
 category: technews
 image: 
 ---
-![how govtech and sla use drones and ai for building inspections]({{site.baseurl}}/images/technews/how-govtech-and-sla-use-drones-and-ai-for-building-inspections-part-1.jpg)
+![how govtech and sla use drones and ai for building inspections](/images/technews/how-govtech-and-sla-use-drones-and-ai-for-building-inspections-part-1.jpg)
 
 Keeping our buildings safe is no easy feat
 
