@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-1.png"
 ---
 
-![this govtech team is the reason you no longer have to use paper parking coupons]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-1.png)
+![this govtech team is the reason you no longer have to use paper parking coupons](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-1.png)
 
 * *Paper coupons be gone! Launched in October 2017, the Parking.sg mobile app now allows drivers in Singapore to pay for parking digitally* 
 * *In this two-part series, we take you behind the scenes of how GovTech’s engineers designed and developed the app* 
@@ -20,7 +20,7 @@ The good news is, paper coupons are a special kind of pain. “This is a very pe
 
 And address it they did—Mr Li and his team at GovTech developed Parking.sg, an app that liberates you from paper coupons, letting you pay for parking through your mobile device instead. Made with the support of the Ministry of National Development (MND), the Urban Redevelopment Authority (URA) and the Housing and Development Board (HDB), the app went live in October 2017 to mostly positive reception.  Speaking at the Public Sector Infocomm Seminar on 20 March 2018, Mr Li took the audience through the app’s development journey, detailing his team’s thought processes, challenges faced and lessons learned. If you weren’t there, we’ve got your back—read on for a behind-the-scenes look at how Parking.sg went from prototype to production.
  
-![this govtech team is the reason you no longer have to use paper parking coupons]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-2.png)
+![this govtech team is the reason you no longer have to use paper parking coupons](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-2.png)
 
 ### **Phase 1: The prototype  -  helping stakeholders say “I want that thing”**
 “Our team’s job is to actively identify, design and evangelise ideas that improve the public good,” said Mr Li. This means that when the team has an idea, it often dives straight into building a prototype rather than first pitching it to higher-ups and waiting for their go-ahead, he added. 
@@ -47,7 +47,7 @@ For example, one of the team’s original ideas was to incorporate computer visi
 
 But after shadowing an experienced officer, they realised that she was so good at reading paper coupons that it took her just seconds to figure out whether a driver had overparked—in other words, much faster than any computer vision solution they could code. The team ended up finding a not-so-fancy but much more effective way of speeding up enforcement: by listing the licence plate numbers of cars with valid parking, so that officers could simply walk down a road and pick out which vehicles were not on the list. 
  
-![this govtech team is the reason you no longer have to use paper parking coupons]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-3.png)
+![this govtech team is the reason you no longer have to use paper parking coupons](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-3.png)
  
 ### **[TL;DR] Phase 2: The proposal**
 **Goal**: To get your project in the hands of actual users Lessons learned: Fail fast; talk to experienced users on the ground; sometimes, dumb tech is the best tech
