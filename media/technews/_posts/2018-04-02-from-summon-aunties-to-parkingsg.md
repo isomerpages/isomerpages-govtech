@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/from-summon-aunties-to-parkingsg-part-1.png"
 ---
 
-![From Summon Aunties to Parking.sg]({{site.baseurl}}/images/technews/from-summon-aunties-to-parkingsg-part-1.png)
+![From Summon Aunties to Parking.sg](/images/technews/from-summon-aunties-to-parkingsg-part-1.png)
 
-![From Summon Aunties to Parking.sg]({{site.baseurl}}/images/technews/from-summon-aunties-to-parkingsg-part-2.png)
+![From Summon Aunties to Parking.sg](/images/technews/from-summon-aunties-to-parkingsg-part-2.png)
 
