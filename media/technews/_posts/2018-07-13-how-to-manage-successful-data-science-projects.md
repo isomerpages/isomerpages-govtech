@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/how-to-manage-successful-data-science-projects-part-1.png"
 ---
 
-![How to manage successful data science projects]({{site.baseurl}}/images/technews/how-to-manage-successful-data-science-projects-part-1.png)
+![How to manage successful data science projects](/images/technews/how-to-manage-successful-data-science-projects-part-1.png)
 
 TL:DR: Data analytics promises to take the guesswork out of policy design by assisting in evidence-based decision making, said GovTech’s Dr Daniel Lim Yew Mao. In addition to good quality data, clear problem statements and stakeholder involvement is key to getting a data science project off the ground. A “fail fast, learn fast” mentality is also useful for iterating data science projects and deciding which ones to prioritise to deliver value to civil servants and citizens 
 
@@ -16,7 +16,7 @@ Data has been touted as the new gold of the digital age, but just as gold needs 
 
 “The meeting point of data science and policy is really about enabling evidence-based decision making, as opposed to anecdote-based decision making, and this is a tricky thing to do,” said Dr Daniel Lim Yew Mao, acting deputy director (data science) at the Government Technology Agency of Singapore (GovTech), at the inaugural ‘Data Science in Singapore: Translating Data for a Smart Nation’ conference on 31 May 2018. Dr Lim spoke on the use of data science for the public good. 
 
-![How to manage successful data science projects]({{site.baseurl}}/images/technews/how-to-manage-successful-data-science-projects-part-2.png)
+![How to manage successful data science projects](/images/technews/how-to-manage-successful-data-science-projects-part-2.png)
 
 ### **A recipe for success**
 
