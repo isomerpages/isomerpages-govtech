@@ -29,7 +29,7 @@ The first thing that Mr Chowdhury noticed was that the majority of costs require
 
 That’s where digitalisation comes in. Mr Chowdhury has developed a business-to-business (B2B) platform that helps link small business owners, manufacturers and suppliers on a single mobile application, the EkkBaz Business app.
 
-![ekkbaz business app](/images/technews/running-provision-shops-with-blockchain-part-3.jpg)
+![ekkbaz business app](/images/technews/running-provision-shops-with-blockchain-part-3.png)
 
 “Our app uses blockchain and artificial intelligence technologies. Blockchain provides a valuable identity to small businesses, which some don’t possess currently, while AI facilitates order recommendation,” Mr Chowdhury explained. Think of this as the equivalent of having a verified account on Twitter and the recommender system of Netflix, but in the context of groceries and other merchandise. “The app recognises repeated order patterns and provides suggestions to store owners in their preferred language. This helps businesses save time.”
 
