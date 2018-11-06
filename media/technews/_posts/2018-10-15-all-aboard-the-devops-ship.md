@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/All-Aboard-the-DevOps-SHIP.png"
 ---
 
-![All Aboard the DevOps SHIP]({{site.baseurl}}/images/technews/All-Aboard-the-DevOps-SHIP.png)
+![All Aboard the DevOps SHIP](/images/technews/All-Aboard-the-DevOps-SHIP.png)
 
 TL:DR: More than just a buzzword, DevOps is a culture that can help organisations accelerate their delivery of digital solutions. But for it to work, organisations must understand their own pain points and bottlenecks. Mr Hudson Lee, DevOps Consultant at GovTech, shared his insights on DevOps in a highly-regulated environment at the STACK 2018 Developers Conference. 
 
