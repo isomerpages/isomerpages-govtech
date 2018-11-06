@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-1.png"
 ---
 
-![How technology is helping to improve athlete performance]({{site.baseurl}}/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-1.png)
+![How technology is helping to improve athlete performance](/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-1.png)
 
 TL:DR: Football is not the only sport that taps data, research and innovation to improve athlete performance. Coaches and athletes in other sports are also turning to technology to get a leg up in international competitions. We look at how video-based analytics and a 3D motion capture system are helping Singapore’s athletes train better and smarter. Ultimately, a multidisciplinary approach is needed to support our athletes in their quest for sporting excellence. 
 
@@ -19,7 +19,7 @@ Perhaps the World Cup is not your cup of tea. Or maybe you just don’t get a ki
 ### **Making sense of movement**
 Motion is the defining trait of virtually any sport. Being able to capture, measure and analyse the movement of the human body is the first step towards refining it. Portable and high-resolution video cameras are thus becoming critical assets at sports competitions.
  
-![How technology is helping to improve athlete performance]({{site.baseurl}}/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-2.png)
+![How technology is helping to improve athlete performance](/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-2.png)
 
 *Dartfish dashboard for video analysis*
 
@@ -34,7 +34,7 @@ But video-based performance analysis can also be used to directly measure athlet
 ### **Progress in another dimension**
 While video recordings in two dimensions are useful, three-dimensional (3D) motion capture technology can yield even more accurate information about an athlete’s movements. Such fine-grained insights are especially important in sports like kayaking, where the technical precision of each repetitive motion matters.
 
-![How technology is helping to improve athlete performance]({{site.baseurl}}/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-3.png)
+![How technology is helping to improve athlete performance](/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-3.png)
 
 “In a kayaking stroke, the coach may demand that the athlete bends his or her elbow at a particular angle,” said Mr Aziz. “Using a 3D motion analysis system, we are able to automatically measure this angle at every phase of the stroke.”
 
