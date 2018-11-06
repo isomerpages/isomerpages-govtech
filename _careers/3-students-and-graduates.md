@@ -6,18 +6,7 @@ breadcrumb: Students and Graduates
 collection_name: careers
 ---
 
-### **Internships**
 
-#### **What Can You Expect As A GovTech Intern**
-
-* Be exposed to IT infrastructure, projects and the tech industry.
-* Given opportunities to learn from experienced mentors.
-* Bond through interactions with a growing network of like-minded peers.
-* Be empowered to translate innovative ideas into reality, all while having fun at the same time!
-
-#### **How can you Apply?**
-
-We welcome university and polytechnic students to apply for our internship opportunities. A wide range of internship opportunities which spans over exciting domains, are available. To receive updates on internship opportunities, join our Talent Community!
 
 #### **Campus Ambassador Programme**
 Expand your network and enjoy greater industry exposure at the same time gain opportunities and enhance your leadership and communication skills. Join us today as a GovTech Campus Ambassador.
@@ -40,3 +29,50 @@ Infocomm drives innovation and powers business transformation while enhancing li
 [* National Infocomm Scholarship (NIS)](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
 
 [* Infocomm Polytechnic Scholarship](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
+
+
+From technology bootcamp, internships and scholarships to job openings, we are here to inspire you to join us in the building of the world’s first Smart Nation.  For aspiring tech leaders, chart your career with our Technology Associate Programme or affectionately known to our people as TAP, an exclusive leadership trainee programme to fast-track your career in GovTech.
+
+## **GeekOut**
+Showcase your innovation and imagination by participating in GeekOut, a five-day technology bootcamp. We are challenging you to experience different technologies, and build practical tech solutions. 
+
+Infographic to insert  
+
+### **How can you apply?**
+GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. 
+
+Insert Yes, I am interested! Button (link to https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3)
+
+## **The Smart Nation Scholarship**
+The Smart Nation Scholarship develops and nurtures talents who have a passion for technology, and the ambition to propel our nation towards its goal of digital transformation.
+
+Offered by the Cyber Security Agency of Singapore (CSA), Government Technology Agency (GovTech), and Infocomm Media Development Authority (IMDA), the Smart Nation Scholarship gives talented individuals the opportunity to embark on a dynamic career in technology, and lead Singapore into the digital age. Find out more here.
+
+Infographic to insert (the 3 icons representing Advance, Impact, Lead)
+
+### **How can you apply?**
+Applications are open from September to March each year. If you have a passion for technology and a strong desire to make a difference, you could be a Smart Nation Scholar.
+
+Insert Apply Now button (link to http://www.smartnationscholarship.gov.sg/ )
+
+## **Internships**
+Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for both current university and polytechnic students. If you have a passion for technology, and are team oriented, experience a tech internship with us today!
+
+Infographic to insert  
+
+### **How can you apply?**
+We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. 
+
+Insert Apply Now button (link to https://govtech.taleo.net/careersection/govtech_internship/jobsearch.ftl
+
+## **Technology Associate Programme**
+An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
+
+Infographic to insert  
+
+### **How can you apply?**
+Applications are open from September to January. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact!
+
+Insert Apply Now button (link to https://govtech.taleo.net/careersection/govtech_external/jobdetail.ftl?job=01UW6&tz=GMT%2B08%3A00)
+
+To receive updates about our Young Talent programmes, join our [* community](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
