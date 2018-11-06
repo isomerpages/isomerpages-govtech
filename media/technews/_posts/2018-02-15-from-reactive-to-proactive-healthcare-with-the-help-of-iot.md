@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![from reactive to proactive healthcare with the help of iot]({{site.baseurl}}/images/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot-part-1.jpg)
+![from reactive to proactive healthcare with the help of iot](/images/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot-part-1.jpg)
 
 - The Internet of Things (IoT) has permeated healthcare, allowing doctors to monitor patients’ health remotely and around the clock with wearables and sensors
 - IoT is supported by cognitive computing, which helps healthcare professionals make sense of a continuous stream of health data
