@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/how-artificial-intelligence-can-improve-your-health-part-1.png"
 ---
 
-![How Artificial Intelligence can improve your health?]({{site.baseurl}}/images/technews/how-artificial-intelligence-can-improve-your-health-part-1.png)
+![How Artificial Intelligence can improve your health?](/images/technews/how-artificial-intelligence-can-improve-your-health-part-1.png)
 
 TL: DR: The convergence of artificial intelligence and genomics may revolutionise healthcare and usher in an era of personalised medicine. While researchers and clinicians are convinced of the value of AI-assisted genomic analysis, laypersons may not fully appreciate the benefits of these technologies. Beyond technological innovation, society also needs innovation in terms of regulation and policy to steer AI and genomics into the future.
 
@@ -24,7 +24,7 @@ Fortunately, the genome, once sequenced, can be treated as digital data, and in 
 
 Moderated by SGInnovate CEO Steve Leonard, the panel consisted of Dr Robert Morris, professor, Yong Loo Lin School of Medicine, National University of Singapore; Dr Liu Xiaoqing, director of artificial intelligence, Complete Genomics Inc.; Dr Joanne Ngeow Yuen Yie, senior consultant, National Cancer Centre Singapore; Dr Devanathan Raghunathan, principal, Exploit Technologies Private Limited; and Dr Mark Burby, health and life sciences director, Intel.
 
-![How Artificial Intelligence can improve your health?]({{site.baseurl}}/images/technews/how-artificial-intelligence-can-improve-your-health-part-2.png)
+![How Artificial Intelligence can improve your health?](/images/technews/how-artificial-intelligence-can-improve-your-health-part-2.png)
 
 ### **Two (or more) heads are better than one**
 The interface of genomics and AI is fundamentally an attempt by the medical profession to overcome bottlenecks. Thousands of genomes have already been sequenced, representing a treasure trove of data—one that leaves clinicians overwhelmed by the sheer volume of information it holds.
