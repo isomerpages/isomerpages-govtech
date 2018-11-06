@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png"
 ---
 
-![In a truly smart city, the ‘smart’ part is invisible]({{site.baseurl}}/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png)
+![In a truly smart city, the ‘smart’ part is invisible](/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png)
 
 TD: LR:  Smart cities are on track to offer citizens a plethora of real-time, on-demand services. When well optimised, smart city technology should embed itself so naturally into the fabric of society that it becomes invisible. 
 
@@ -22,7 +22,7 @@ On 14 March 2018, a panel of experts considered this question at a seminar title
 
 The speakers included Professor Archan Misra, SMU associate dean for research and director of the SMU Centre for Applied Smart-Nation Analytics; Mr Koen Cardon, chief executive officer, Katoen Natie; Ms Jacqueline Poh, chief executive, Government Technology Agency of Singapore (GovTech); and Dr Hee Limin, director of research, Centre for Liveable Cities. Veteran journalist and broadcaster Mr Teymoor Nabili moderated the session.
  
-![In a truly smart city, the ‘smart’ part is invisible]({{site.baseurl}}/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png)
+![In a truly smart city, the ‘smart’ part is invisible](/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png)
  
 
 
