@@ -21,7 +21,7 @@ As an open economy, Singapore is impacted by global forces – geopolitical tens
 
 As part of the Smart Nation journey, the Government has also been actively using digital technology to better serve the public. For example, the recently announced Singapore Student Learning Space (SLS) for various primary and secondary schools is an initiative that empowers students towards self-directed learning. And soon, motorists will be able to pay for parking charges at public car parks via a mobile app, in place of paper coupons.
 
-![Strategic National Projects Infographic]({{"/images/media-release/Strategic National Projects Infographic.jpg" | absolute_url}})
+![Strategic National Projects Infographic](/images/media-release/Strategic National Projects Infographic.jpg)
 
 ### **Strategic National Projects**
 
