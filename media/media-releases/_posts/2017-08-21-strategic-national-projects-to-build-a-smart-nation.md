@@ -23,6 +23,7 @@ As part of the Smart Nation journey, the Government has also been actively using
 
 ![Strategic National Projects Infographic](/images/media-release/Strategic National Projects Infographic.jpg)
 
+
 ### **Strategic National Projects**
 
 However, there is a real danger that Singapore could fall behind in emerging areas, such as e-payments and digital identity systems. Singapore needs to do more, and with a renewed sense of urgency. The Government is therefore taking a more integrated approach to lay the foundation infrastructure, and drive pervasive adoption of digital and smart technologies throughout the economy and society. In the immediate months, the Government will focus on the following strategic national projects:
