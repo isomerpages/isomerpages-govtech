@@ -8,7 +8,7 @@ date: 2017-03-02
 * Grab and GovTech to study beta trial data and introduce new routes based on commuter demand
 * Passengers can download the GrabShuttle app and pre-book seats from today 
 
-![Grab]({{"/images/media-release/grab.jpg" | absolute_url}})
+![Grab](/images/media-release/grab.jpg)
 <sub>Image: Screenshots of GrabShuttle app</sub>
 
 
