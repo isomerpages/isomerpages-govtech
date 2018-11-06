@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![doing things differently]({{site.baseurl}}/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-1.png)
+![doing things differently](/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-1.png)
 
 TL: DR: GovTech’s approach to digitalisation is not just technology for technology’s sake, said chief executive Kok Ping Soon. Instead, it involves a fundamental re-think of the government-citizen relationship. The goal is to go beyond providing frictionless services to delighting citizens.
 
@@ -56,6 +56,6 @@ Nonetheless, it is essential for governments to embrace the “law of the custom
 
 “Developing services in this way requires us to do things very differently, in a more agile manner. It requires the government to change its thinking and the way we approach policies,” Mr Kok said. “At the end of the day, building a smart nation requires a new level of partnership between the people, the private and the public sector.”
 
-![doing things differently]({{site.baseurl}}/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-2.png)
+![doing things differently](/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-2.png)
 
 
