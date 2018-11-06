@@ -20,7 +20,7 @@ One early adopter of CorpPass is Mr Kelvin Tan, who is working in a family-owned
 
 Mr Chan Cheow Hoe, Government Chief Information Officer, GovTech said, “CorpPass is designed for all businesses, from multi-national companies to SMEs, and allows for greater data security, better control and enhanced convenience for business users when they transact with the Government. We are glad that the majority of businesses have started using CorpPass and strongly urge the rest to do so now.” 
 
-![Image of Hive]({{ "/images/govtech-hive.jpg" | absolute_url }})
+![Image of Hive](/images/govtech-hive.jpg)
 
 Industry partners, such as the **Singapore National Employers Federation (SNEF)**, have also been supportive in promoting CorpPass to their members. Mr Koh Juan Kiat, Executive Director of SNEF, shared, “We saw the merits of having a digital identity for business transactions. We have been working with GovTech, and will continue to do so, to raise awareness and encourage our members to sign up early, to enjoy the convenience and security of using more than 130 Government digital services.
 
