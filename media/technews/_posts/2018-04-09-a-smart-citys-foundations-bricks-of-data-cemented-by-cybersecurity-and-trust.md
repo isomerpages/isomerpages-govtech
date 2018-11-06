@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-1.png"
 ---
 
-![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust]({{site.baseurl}}/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-1.png)
+![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust](/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-1.png)
 
 TD: LR: To build smart cities, governments need to collect, integrate and mine data from multiple sources; in this, the Internet of Things (IoT) is a key enabling technology. 
 
@@ -22,14 +22,14 @@ At the IoT Asia 2018 conference held from 21-22 March 2018 at the Singapore Expo
 
 Moderated by Mr King Wang Poon, director of the Lee Kuan Yew Centre for Innovative Cities, Singapore University of Technology and Design, the panel consisted of Dr Wu Tsung-Ching, chief technology officer, Asia Silicon Valley Development Authority, Taiwan; Dr Claus Habfast, municipal councillor and vice president, Greater Grenoble City Area, France; and Mr Arndt Husar, deputy director, Global Centre for Public Service Excellence, United Nations Development Programme, Singapore.
  
-![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust]({{site.baseurl}}/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-2.png)
+![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust](/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-2.png)
  
 ### **Connecting the dots**
 The first step in the creation of smart cities is the collection of data. 
 
 But siloed data obtained with individual sensors is not enough. Like pieces of a puzzle that fit together to form a bigger picture, the integration of data from multiple sources is necessary if governments want to better manage their cities.
  
-![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust]({{site.baseurl}}/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-3.png)
+![A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust](/images/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust-part-3.png)
 
  
 “I think the big opportunities [for IoT] lie in the fact that a lot of governments struggle with poor-quality data and the lack of sensors to collect evidence for making good policies and designing public services,” said Mr Husar.
