@@ -30,7 +30,7 @@ Infocomm drives innovation and powers business transformation while enhancing li
 
 [* Infocomm Polytechnic Scholarship](https://portal.imda.gov.sg/Sub/Talent/Student-Programmes/Scholarship-and-Internships/NIS){:target="_blank"}
 
-
+---------------------------------------------
 From technology bootcamp, internships and scholarships to job openings, we are here to inspire you to join us in the building of the world’s first Smart Nation.  For aspiring tech leaders, chart your career with our Technology Associate Programme or affectionately known to our people as TAP, an exclusive leadership trainee programme to fast-track your career in GovTech.
 
 ## **GeekOut**
