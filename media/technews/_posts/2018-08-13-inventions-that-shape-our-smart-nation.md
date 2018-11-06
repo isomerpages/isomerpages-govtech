@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![inventions that shape our smart nation]({{site.baseurl}}/images/technews/inventions-that-shape-our-smart-nation-part-1.jpg)
+![inventions that shape our smart nation](/images/technews/inventions-that-shape-our-smart-nation-part-1.jpg)
 
 TL:DR: Singapore is striving to transform itself into a Smart Nation, and sensors are an integral part of that vision. Everything from aerial drones and autonomous wheelchairs are getting upgraded with onboard computing capabilities and sensors. GovTech’s Mr Quek Yang Boon shared about these inventions and more at the National Engineer’s Day 2018.
 
@@ -16,7 +16,7 @@ Were it not for the ingenuity of ancient inventors, the world as we know it toda
 
 Singapore is no exception to the global trend of leveraging technology to improve the lives of citizens, and its transformation into a Smart Nation is well underway. On 27 July 2018—National Engineers Day—Mr Quek Yang Boon, director of the Sensors and Internet of Things (IoT) Capability Centre at the Government Technology Agency of Singapore (GovTech), gave audiences a glimpse of some of the Smart Nation projects that are being carried out in the city state.
 
-![photo]({{site.baseurl}}/images/technews/inventions-that-shape-our-smart-nation-part-2.png)
+![photo](/images/technews/inventions-that-shape-our-smart-nation-part-2.PNG)
 
 
 **The sky’s the limit**
@@ -44,7 +44,7 @@ Having described sensors and IoT in flying gadgets, Mr Quek next highlighted how
 
 But making individual devices smart only goes so far in terms of impact to society. To truly become a Smart Nation, what’s needed is a network of connected devices to understand the environment and analyse citizen behaviour, allowing for evidence-based decision making. In Singapore, such a network is currently being developed—the Smart Nation Sensor Platform.
 
-![inventions that shape our smart nation]({{site.baseurl}}/images/technews/inventions-that-shape-our-smart-nation-part-3.png)
+![inventions that shape our smart nation](/images/technews/inventions-that-shape-our-smart-nation-part-3.PNG)
 
 **Making sense of the present (and the future)**
 
