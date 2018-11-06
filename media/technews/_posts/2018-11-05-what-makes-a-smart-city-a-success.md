@@ -8,9 +8,9 @@ image: "/images/technews/What-makes-a-smart-city-a-success-part-1.png"
 
 ![What makes a smart city a success](/images/technews/What-makes-a-smart-city-a-success-part-1.png)
 
-----
 Technology is fundamentally changing the way cities function. As governments aspire towards creating smart cities, what should be prioritised and how is success measured?. TechNews brings you insights from the Bloomberg Live ‘Sooner Than You Think’ forum. 
-----
+---
+
 Unless you’ve been actively avoiding the evening news, you probably would have heard the term ‘smart city’, which generally refers to urban centres that rely on technology to improve the lives of citizens. If you’re wondering which country is high up on the list of smart cities, look no further than Singapore. With its Smart Nation transformation well underway since 2014, Singapore is leveraging sensors, the Internet of Things and data analytics to tackle a diverse range of problems, from congestion to healthcare.
 
 But what is the measure of success for a smart city? This question was raised as a live poll at the Bloomberg Live ‘Sooner Than You Think’ forum held at the National Gallery on 6 September 2018. Delegates had three answers to choose from: connectivity, inclusiveness and economic growth. The results were decisive—nearly three-quarters of the audience picked inclusiveness.
