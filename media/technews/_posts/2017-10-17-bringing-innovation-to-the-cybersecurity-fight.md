@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/bringing-innovation-to-the-cybersecurity-fight-part-1.png"
 ---
 
-![Bringing innovation to the cybersecurity fight]({{site.baseurl}}/images/technews/bringing-innovation-to-the-cybersecurity-fight-part-1.png)
+![Bringing innovation to the cybersecurity fight](/images/technews/bringing-innovation-to-the-cybersecurity-fight-part-1.png)
 
 It's no surprise that today’s breed of cyberattacks are doing more damage than ever before — with the likes of Stuxnet, WannaCry and the Equifax hack affecting the functioning of physical infrastructure and compromising the privacy of millions of people.  
 
