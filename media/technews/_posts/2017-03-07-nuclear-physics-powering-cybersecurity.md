@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/nuclear-physics-powering-cybersecurity.md-part-1.png"
 ---
 
-![Nuclear physics powering Cybersecurity?]({{site.baseurl}}/images/technews/nuclear-physics-powering-cybersecurity.md-part-1.png)
+![Nuclear physics powering Cybersecurity?](/images/technews/nuclear-physics-powering-cybersecurity-part-1.png)
 
 Imagine an world in which our devices, websites, emails, passwords and personal information are completely hacker-proof.
 
