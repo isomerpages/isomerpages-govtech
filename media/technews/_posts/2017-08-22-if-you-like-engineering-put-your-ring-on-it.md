@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/if-you-like-engineering-put-your-ring-on-it-part-1.png"
 ---
 
-![If you like Engineering, put your ring on it]({{site.baseurl}}/images/technews/if-you-like-engineering-put-your-ring-on-it-part-1.png)
+![If you like Engineering, put your ring on it](/images/technews/if-you-like-engineering-put-your-ring-on-it-part-1.png)
 
 How do you picture an engineer?
 
