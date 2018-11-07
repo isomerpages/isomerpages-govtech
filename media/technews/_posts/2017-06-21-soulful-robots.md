@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/soulful-robots-part-1.png"
 ---
 
-![Soulful Robots]({{site.baseurl}}/images/technews/soulful-robots-part-1.png)
+![Soulful Robots](/images/technews/soulful-robots-part-1.png)
 
 Who needs PowerPoint slides when you’re a roboticist?
 
