@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/data-in-the-time-of-cholera-part-1.png"
 ---
 
-![Data in the time of Cholera]({{site.baseurl}}/images/technews/data-in-the-time-of-cholera-part-1.png)
+![Data in the time of Cholera](/images/technews/data-in-the-time-of-cholera-part-1.png)
 
 Visualise this: We are generating, gathering and using more data than ever.
 
