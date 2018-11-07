@@ -33,12 +33,14 @@
 - title: Careers
   url: /careers/why-govtech/
   sub-links:
-  - title: Why GovTech
+  - title: Our Culture and Values
     url: /careers/why-govtech/
-  - title: Professionals
+  - title: How We Hire
     url: /careers/professionals/
   - title: Students and Graduates
     url: /careers/students-and-graduates/
+  - title: Smart Nation Fellowship Programme
+    url: /careers/Smart-Nation-Fellowship-Programme/   
   - title: Apply Now
     url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
     external: true
