@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/government-tech-for-the-people-part-1.png"
 ---
 
-![Government Tech for the People]({{site.baseurl}}/images/technews/government-tech-for-the-people-part-1.png)
+![Government Tech for the People](/images/technews/government-tech-for-the-people-part-1.png)
 
 A lot of people have asked me about GovTech and how is it different from IDA.
 
