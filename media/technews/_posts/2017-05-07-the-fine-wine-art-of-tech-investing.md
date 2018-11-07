@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-fine-wine-art-of-tech-investing-part-1.png"
 ---
 
-![The fine wine art of tech investing]({{site.baseurl}}/images/technews/the-fine-wine-art-of-tech-investing-part-1.png)
+![The fine wine art of tech investing](/images/technews/the-fine-wine-art-of-tech-investing-part-1.png)
 
 Many tech startups are founded on great ideas, by passionate people who see opportunities to effect change in the world.
 
