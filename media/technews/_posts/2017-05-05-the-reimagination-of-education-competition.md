@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-reimagination-of-education-competition-part-1.png"
 ---
 
-![the reimagination of education competition]({{site.baseurl}}/images/technews/the-reimagination-of-education-competition-part-1.png)
+![the reimagination of education competition](/images/technews/the-reimagination-of-education-competition-part-1.png)
 
 “Isn't it amazing to be a student today?”
 
