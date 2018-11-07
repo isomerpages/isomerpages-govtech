@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png"
 ---
 
-![National Trade Platform grabs Smart City Award]({{site.baseurl}}/images/technews/lnational-trade-platform-grabs-smart-city-award-part-1.png)
+![National Trade Platform grabs Smart City Award](/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png)
 
 Singapore’s whole-of-government (WOG) approach to problem solving continued to put the country in good stead, as it garnered three top awards in IDC’s recent Smart City Asia Pacific Awards 2016.
 
