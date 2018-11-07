@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/bus-uncle-talks-data-lah-part-1.png"
 ---
 
-![bus uncle talks data lah]({{site.baseurl}}/images/technews/bus-uncle-talks-data-lah-part-1.png)
+![bus uncle talks data lah](/images/technews/bus-uncle-talks-data-lah-part-1.png)
 
 Plenty of apps and online tools can tell you when your bus is due to arrive.
 
