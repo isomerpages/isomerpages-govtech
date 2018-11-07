@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/we-predict-7-tech-trends-for-2017-part-1.png"
 ---
 
-![we predict 7 tech trends for 2017]({{site.baseurl}}/images/technews/we-predict-7-tech-trends-for-2017-part-1.png)
+![we predict 7 tech trends for 2017](/images/technews/we-predict-7-tech-trends-for-2017-part-1.png)
 
 Technology, like love is all around us, and innovation keeps it unpredictable and ever-evolving.
 
