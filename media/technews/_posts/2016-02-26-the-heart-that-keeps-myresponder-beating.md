@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png"
 ---
 
-![The Heart that keeps myResponder Beating]({{site.baseurl}}/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png)
+![The Heart that keeps myResponder Beating](/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png)
 
 
 Talk about heartstopping moments.
