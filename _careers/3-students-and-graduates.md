@@ -36,7 +36,7 @@ From technology bootcamp, internships and scholarships to job openings, we are h
 ## **GeekOut**
 Showcase your innovation and imagination by participating in GeekOut, a five-day technology bootcamp. We are challenging you to experience different technologies, and build practical tech solutions. 
 
-Infographic to insert  
+![Alternative text for screen readers](/images/careers/GeekOut_Infographic.png) 
 
 ### **How can you apply?**
 GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. 
