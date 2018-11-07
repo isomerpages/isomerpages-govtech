@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/riding-together-on-the-smart-nation-journey-part-1.png"
 ---
 
-![Riding together on the Smart Nation journey]({{site.baseurl}}/images/technews/riding-together-on-the-smart-nation-journey-part-1.png)
+![Riding together on the Smart Nation journey](/images/technews/riding-together-on-the-smart-nation-journey-part-1.png)
 
 Need to get somewhere in a hurry?
 
