@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/govtechies-shine-at-ps21-excel-part-1.png"
 ---
 
-![GovTechies shine at PS21 ExCEL]({{site.baseurl}}/images/technews/govtechies-shine-at-ps21-excel-part-1.png)
+![GovTechies shine at PS21 ExCEL](/images/technews/govtechies-shine-at-ps21-excel-part-1.png)
 
 The annual PS21 ExCEL Convention is a major calendar event for the Public Service in Singapore.
 
