@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/corppass-the-new-corporate-digital-identity-part-1.png"
 ---
 
-![CorpPass the new Corporate Digital Identity]({{site.baseurl}}/images/technews/corppass-the-new-corporate-digital-identity-part-1.png)
+![CorpPass the new Corporate Digital Identity](/images/technews/corppass-the-new-corporate-digital-identity-part-1.png)
 
 SingPass is a unique login identity that many Singaporeans use to access government digital services. 
 
