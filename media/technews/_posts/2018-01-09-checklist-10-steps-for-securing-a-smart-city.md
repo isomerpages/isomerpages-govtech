@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png"
 ---
 
-![checklist: 10 steps for securing a smart city]({{site.baseurl}}/images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png)
+![checklist: 10 steps for securing a smart city](/images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png)
 
 The reality of smart cities will soon be realised in many metropolises today, such as the likes of New York, London, Singapore, Tokyo and Hong Kong. Technology-driven movements are happening at an unprecedented rate. Usage of drones, autonomous cars and digital payment is increasingly pervasive; and most of us are only now beginning to grapple with the oft-unseen pervasiveness of technologies such as interconnected systems, sensor networks, data analytics and real-time location tracking. 
 
