@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/never-fail-to-innovate-part-1.png"
 ---
 
-![never fail to innovate]({{site.baseurl}}/images/technews/never-fail-to-innovate-part-1.png)
+![never fail to innovate](/images/technews/never-fail-to-innovate-part-1.png)
 
 Meet our innovative champions, Koh Keng Hun, Executive Consultant (Agile Consultancy and Engineering), and Natasha Low, Senior Consultant (Digital Design and Development) from GovTech’s Government Digital Services (GDS) team.
 
