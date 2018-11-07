@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![a meta conversation about humanity in tech]({{site.baseurl}}/images/technews/a-meta-conversation-about-humanity-in-tech-part-1.jpg)
+![a meta conversation about humanity in tech](/images/technews/a-meta-conversation-about-humanity-in-tech-part-1.jpg)
 
 What do rapid technological developments mean for humanity?
 
