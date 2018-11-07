@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/8the-technological-future-of-singapore-part-1.png"
 ---
 
-![the technological future of singapore]({{site.baseurl}}/images/technews/the-technological-future-of-singapore-part-1.png)
+![the technological future of singapore](/images/technews/the-technological-future-of-singapore-part-1.png)
 
 Research, innovation and enterprise are the cornerstones of Singapore’s economy, said Deputy Prime Minister Mr Teo Chee Hean in his opening address at the one-north Festival, a five-day science and technology event held from 2-6 August, 2016. 
 
