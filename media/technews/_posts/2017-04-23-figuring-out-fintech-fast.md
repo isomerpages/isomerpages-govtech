@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/figuring-out-fintech-fast-part-1.png"
 ---
 
-![Figuring out Fintech fast]({{site.baseurl}}/images/technews/figuring-out-fintech-fast-part-1.png)
+![Figuring out Fintech fast](/images/technews/figuring-out-fintech-fast-part-1.png)
 
 The barista hands you your afternoon pick-me-up and you reach over to pay with a tap of your phone, no cash or credit card required.
 
