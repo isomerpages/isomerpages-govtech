@@ -6,9 +6,9 @@ category: technews
 image: "/images/technews/be-our-tech-kaki-part-1.png"
 ---
 
-![be our tech kaki!]({{site.baseurl}}/images/technews/be-our-tech-kaki-part-1.png)
+![be our tech kaki!](/images/technews/be-our-tech-kaki-part-1.png)
 
-![be our tech kaki!]({{site.baseurl}}/images/technews/be-our-tech-kaki-part-2.png)
+![be our tech kaki!](/images/technews/be-our-tech-kaki-part-2.png)
 
 As you know, GovTech is taking an ‘outside-in’ approach to develop useful apps, digital services and tech.
 
@@ -34,4 +34,4 @@ We will be publishing quick surveys featuring upcoming products regularly.
 
 All you have to do is to take a few minutes to answer them, it’s that easy! 
 
-![be our tech kaki!]({{site.baseurl}}/images/technews/be-our-tech-kaki-part-3.png)
+![be our tech kaki!](/images/technews/be-our-tech-kaki-part-3.png)
