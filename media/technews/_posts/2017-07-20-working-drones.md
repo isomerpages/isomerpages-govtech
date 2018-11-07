@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/working-drones-part-1.png"
 ---
 
-![working drones]({{site.baseurl}}/images/technews/working-drones-part-1.png)
+![working drones](/images/technews/working-drones-part-1.png)
 
 They take to the sky on whirring blades, the hum of their propellers becoming a popular soundtrack of the urban environment.
 
