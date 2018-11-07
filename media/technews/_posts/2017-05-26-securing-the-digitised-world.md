@@ -3,10 +3,10 @@ layout: post
 title:  "Securing the digitised world"
 permalink: "/media/technews/securing-the-digitised-world"
 category: technews
-image: "/images/technews/securing-the-digitised-world-part-1.png"
+image: "/images/technews/securing-the-digitised-world.png"
 ---
 
-![securing the digitised world](/images/technews/securing-the-digitised-world-part-1.png)
+![securing the digitised world](/images/technews/securing-the-digitised-world.png)
 
 Driverless cars, smart homes, computer-controlled power grids and other automated technologies will soon change the way we live and work, bringing added convenience and efficiency to our doorsteps.
 
