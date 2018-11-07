@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/touching-technology-in-the-flash-part-1.png"
 ---
 
-![Touching technology in the flash]({{site.baseurl}}/images/technews/touching-technology-in-the-flash-part-1.png)
+![Touching technology in the flash](/images/technews/touching-technology-in-the-flash-part-1.png)
 
 [Dr Anders Ynnerman](http://scivis.itn.liu.se/members/anders-ynnerman) moves his hands over the images on the touchscreen, slicing, dicing and rotating, revealing layer upon layer of skin, muscle and bone.
 
