@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/of-robot-guides-and-selfdriving-cars-part-1.png"
 ---
 
-![Of Robot Guides and Self-Driving Cars]({{site.baseurl}}/images/technews/of-robot-guides-and-selfdriving-cars-part-1.png)
+![Of Robot Guides and Self-Driving Cars](/images/technews/of-robot-guides-and-selfdriving-cars-part-1.png)
 
 When was the last time you had a conversation with a robot, or hitched a ride on a driverless car?
 
