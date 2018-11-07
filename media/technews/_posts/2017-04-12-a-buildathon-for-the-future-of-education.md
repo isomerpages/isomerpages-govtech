@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/a-buildathon-for-the-future-of-education-part-1.png"
 ---
 
-![a buildathon for the future of education]({{site.baseurl}}/images/technews/a-buildathon-for-the-future-of-education-part-1.png)
+![a buildathon for the future of education](/images/technews/a-buildathon-for-the-future-of-education-part-1.png)
 
 It’s not every weekend that you see educators working hand-in-hand with techies to develop tech prototypes and demos.
 
