@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/iot-solutions-the-next-level-part-1.png"
 ---
 
-![IoT solutions: the next level]({{site.baseurl}}/images/technews/iot-solutions-the-next-level-part-1.png)
+![IoT solutions: the next level](/images/technews/iot-solutions-the-next-level-part-1.png)
 
 When Singapore’s first all-female Mount Everest team was preparing for their 2009 expedition, they knew that reaching the summit would take more than just physical training; teamwork would be just as critical.
 
