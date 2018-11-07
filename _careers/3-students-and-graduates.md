@@ -14,7 +14,7 @@ Showcase your innovation and imagination by participating in GeekOut, a five-day
 ![Alternative text for screen readers](/images/careers/GeekOut_Infographic.png) 
 
 ### **How can you apply?**
-GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. [Register Now!](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3)
+GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. [Register Now!](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
 
 
 ## **The Smart Nation Scholarship**
