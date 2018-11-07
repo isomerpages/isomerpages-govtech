@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/winning-women-in-tech-part-1.png"
 ---
 
-![Winning Women in Tech]({{site.baseurl}}/images/technews/winning-women-in-tech-part-1.png)
+![Winning Women in Tech](/images/technews/winning-women-in-tech-part-1.png)
 
 Pop quiz: Are businesses with more women in leadership roles likely to be more profitable?
 
