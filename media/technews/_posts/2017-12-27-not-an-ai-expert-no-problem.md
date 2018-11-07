@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/not-an-ai-expert-no-problem-part-1.png"
 ---
 
-![not an AI expert? no problem]({{site.baseurl}}/images/technews/not-an-ai-expert-no-problem-part-1.png)
+![not an AI expert? no problem](/images/technews/not-an-ai-expert-no-problem-part-1.png)
 
 * A basic understanding of the fundamentals of AI will help non-experts cut through the hype that surrounds the technology
 * Industry giants now run the technology platforms which businesses need to operate; however, there is still room for smaller companies to shine by developing novel applications
