@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-language-of-deep-learning-part-1.png"
 ---
 
-![the language of deep learning]({{site.baseurl}}/images/technews/the-language-of-deep-learning-part-1.png)
+![the language of deep learning](/images/technews/the-language-of-deep-learning-part-1.png)
 
 Have you ever asked your phone’s intelligent personal assistant a question, and gotten something unintelligible or irrelevant in reply?
 
