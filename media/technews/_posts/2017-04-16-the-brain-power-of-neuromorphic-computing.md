@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-brain-power-of-neuromorphic-computing-part-1.png"
 ---
 
-![the brain power of neuromorphic computing]({{site.baseurl}}/images/technews/the-brain-power-of-neuromorphic-computing-part-1.png)
+![the brain power of neuromorphic computing](/images/technews/the-brain-power-of-neuromorphic-computing-part-1.png)
 
 Imagine yourself as a leading researcher. 
 
