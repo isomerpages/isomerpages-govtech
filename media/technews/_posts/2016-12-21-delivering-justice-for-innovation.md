@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/delivering-justice-for-innovation-part-1.png"
 ---
 
-![Delivering Justice for Innovation]({{site.baseurl}}/images/technews/delivering-justice-for-innovation-part-1.png)
+![Delivering Justice for Innovation](/images/technews/delivering-justice-for-innovation-part-1.png)
 
 Senior Applications Consultant Wong Hong Chew (Top Photo, middle) is one of the many GovTechies contributing to other public agencies.
 
