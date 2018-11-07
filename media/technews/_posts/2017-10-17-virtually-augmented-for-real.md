@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/virtually-augmented-for-real-part-1.png"
 ---
 
-![Virtually augmented for real]({{site.baseurl}}/images/technews/virtually-augmented-for-real-part-1.png)
+![Virtually augmented for real](/images/technews/virtually-augmented-for-real-part-1.png)
 
 A virtual history lessons: In the early, heady days of computer science, punch cards and mainframe computers were seen as breakthroughs.
 
