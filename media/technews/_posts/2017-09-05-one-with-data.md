@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![one with data]({{site.baseurl}}/images/technews/one-with-data-part-1.jpg)
+![one with data](/images/technews/one-with-data-part-1.jpg)
 
 Nowhere is the need for speed more dramatic — and dangerous — than on the Formula One (F1) racetrack.
 
