@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/every-body-loves-biometrics-part-1.png"
 ---
 
-![Every body loves biometrics]({{site.baseurl}}/images/technews/every-body-loves-biometrics-part-1.png)
+![Every body loves biometrics](/images/technews/every-body-loves-biometrics-part-1.png)
 
 How many digital identities do you have — or need?
 
