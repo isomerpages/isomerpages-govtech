@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png"
 ---
 
-![AI Singapore: How a small island plans to bridge AI research and reality]({{site.baseurl}}/images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png)
+![AI Singapore: How a small island plans to bridge AI research and reality](/images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png)
 
 * *AI Singapore’s programmes will help researchers, industry and the public sector work together to better leverage the technology’s potential*
 * *Defining problem statements in key areas will help to focus AI research in Singapore*
