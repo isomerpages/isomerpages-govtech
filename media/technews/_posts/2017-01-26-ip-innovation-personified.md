@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/ip-innovation-personified-part-1.png"
 ---
 
-![IP innovation, personified]({{site.baseurl}}/images/technews/ip-innovation-personified-part-1.png)
+![IP innovation, personified](/images/technews/ip-innovation-personified-part-1.png)
 
 Intellectual Property (IP) may not be sexy to some, but rest assured, there is plenty of exciting tech innovation pushing the sector ahead.
 
