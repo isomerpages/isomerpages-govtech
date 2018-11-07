@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/closer-collaboration-for-the-smart-nation-part-1.png"
 ---
 
-![Closer collaboration for the Smart Nation]({{site.baseurl}}/images/technews/closer-collaboration-for-the-smart-nation-part-1.png)
+![Closer collaboration for the Smart Nation](/images/technews/closer-collaboration-for-the-smart-nation-part-1.png)
 
 The public sector and the private sector have to work together to build Singapore into a Smart Nation.
 
