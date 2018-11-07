@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/silver-tech-and-golden-seniors-part-1.png"
 ---
 
-![Silver Tech and Golden Seniors]({{site.baseurl}}/images/technews/silver-tech-and-golden-seniors-part-1.png)
+![Silver Tech and Golden Seniors](/images/technews/silver-tech-and-golden-seniors-part-1.png)
 
 If your grandma is on Facebook, Skyping with her daughter-in-law in Australia and asking you to “Eat more, you’re so thin!” over WhatsApp, applaud her for her commitment to lifelong learning. 
 
