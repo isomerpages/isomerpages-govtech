@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/a-world-of-smart-nations-part-1.png"
 ---
 
-![a world of smart nations]({{site.baseurl}}/images/technews/a-world-of-smart-nations-part-1.png)
+![a world of smart nations](/images/technews/a-world-of-smart-nations-part-1.png)
 
 As digitalisation transforms the world, governments across the globe are mobilising to get ‘smart’ about the ways in which they interact with their citizens.
 
