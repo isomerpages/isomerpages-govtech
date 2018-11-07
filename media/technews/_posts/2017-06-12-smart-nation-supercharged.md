@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-supercharged-part-1.png"
 ---
 
-![Smart Nation supercharged]({{site.baseurl}}/images/technews/smart-nation-supercharged-part-1.png)
+![Smart Nation supercharged](/images/technews/smart-nation-supercharged-part-1.png)
 
 Like a chrysalis, soon to emerge as a butterfly, Singapore’s infocomm media sector is undergoing its own transformation in a bid to support the drive to become a [Smart Nation.](https://www.smartnation.sg/)
 
