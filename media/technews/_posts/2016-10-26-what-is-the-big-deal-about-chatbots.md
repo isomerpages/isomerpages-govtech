@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/what-is-the-big-deal-about-chatbots-part-1.png"
 ---
 
-![What's the big deal about (chat)bots?]({{site.baseurl}}/images/technews/what-is-the-big-deal-about-chatbots-part-1.png)
+![What's the big deal about (chat)bots?](/images/technews/what-is-the-big-deal-about-chatbots-part-1.png)
 
 I’m often asked “Dharmesh, I hear you're obsessed with chatbots. But I don’t get it. What’s the big deal?”
 
