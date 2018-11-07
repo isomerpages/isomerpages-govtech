@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png"
 ---
 
-![How is preparing for cyber-attacks like cooking chilli crabs?]({{site.baseurl}}/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png)
+![How is preparing for cyber-attacks like cooking chilli crabs?](/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png)
 
 How is preparing for cyber-attacks like cooking chilli crabs? Just ask Mr Khoong Hock Yun, chief digital evangelist at Singapore’s Infocomm Media Development Agency (IMDA).
 
