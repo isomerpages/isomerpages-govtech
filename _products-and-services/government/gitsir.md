@@ -5,7 +5,8 @@ permalink: /products-and-services/gitsir/
 breadcrumb: Government IT Security Incident Response (GITSIR) Team 
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/GITSIR_Thumbnail1.jpg
+thumbnail_image: /images/programmes/products-and-services/GITSIR_Thumbnail.jpg
+      
 ---
 ![GITSIR_Header](/images/programmes/products-and-services/GITSIR_Header.jpg)
 
