@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![using artificial intelligence to make real-world connections]({{site.baseurl}}/images/technews/using-artificial-intelligence-to-make-real-world-connections-part-1.jpg)
+![using artificial intelligence to make real-world connections](/images/technews/using-artificial-intelligence-to-make-real-world-connections-part-1.JPG)
 
 - Artificial intelligence (AI) is no longer an experiment confined to the lab; it’s permeating our everyday lives
 - AI’s potential for disruption stems not just from the technology alone, but also from how it is being used to connect people and combine disparate ideas
