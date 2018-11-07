@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/robots-at-work-part-1.png"
 ---
 
-![robots at work]({{site.baseurl}}/images/technews/robots-at-work-part-1.png)
+![robots at work](/images/technews/robots-at-work-part-1.png)
 
 Robots are becoming our colleagues.
 
