@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-moves-for-smart-mobility-part-1.png"
 ---
 
-![smart moves for smart mobility]({{site.baseurl}}/images/technews/smart-moves-for-smart-mobility-part-1.png)
+![smart moves for smart mobility](/images/technews/smart-moves-for-smart-mobility-part-1.png)
 
 What every working person hopes for in the morning, apart from a good cup of coffee, is a smooth journey into work.
 
