@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/healing-power-of-soft-robotics-part-1.png"
 ---
 
-![Healing power of soft robotics]({{site.baseurl}}/images/technews/healing-power-of-soft-robotics-part-1.png)
+![Healing power of soft robotics](/images/technews/healing-power-of-soft-robotics-part-1.png)
 
 When 50-year-old Madam Lim experienced a stroke in January this year, the movement of the right side of her body became impaired.
 

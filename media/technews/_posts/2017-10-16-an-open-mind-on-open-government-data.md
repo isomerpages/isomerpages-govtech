@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/an-open-mind-on-open-government-data-part-1.png"
 ---
 
-![an open mind on open government data]({{site.baseurl}}/images/technews/an-open-mind-on-open-government-data-part-1.png)
+![an open mind on open government data](/images/technews/an-open-mind-on-open-government-data-part-1.png)
 
 Yes, it’s another international survey involving Singapore.
 

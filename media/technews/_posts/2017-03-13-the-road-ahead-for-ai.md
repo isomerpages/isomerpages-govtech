@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-road-ahead-for-ai-part-1.png"
 ---
 
-![the road ahead for AI]({{site.baseurl}}/images/technews/the-road-ahead-for-ai-part-1.png)
+![the road ahead for AI](/images/technews/the-road-ahead-for-ai-part-1.png)
 
 Artificial intelligence (AI) is everywhere.
 

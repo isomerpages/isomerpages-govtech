@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/winning-gov-innovation-part-1.png"
 ---
 
-![Winning Gov Innovation]({{site.baseurl}}/images/technews/winning-gov-innovation-part-1.png)
+![Winning Gov Innovation](/images/technews/winning-gov-innovation-part-1.png)
 
 Singapore Government agencies won big at the recent GovInsider Innovation Awards 2016, held at the Innovation Labs World event on 27 September 2016.
 

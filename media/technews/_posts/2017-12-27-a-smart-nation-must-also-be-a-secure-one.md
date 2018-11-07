@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![a smart nation must also be a secure one]({{site.baseurl}}/images/technews/a-smart-nation-must-also-be-a-secure-on-part-1.jpg)
+![a smart nation must also be a secure one](/images/technews/a-smart-nation-must-also-be-a-secure-on-part-1.jpg)
 
 - Cybersecurity is a top priority in a Smart Nation, where technology pervades the daily lives of every citizen
 - While the Singapore government is taking steps to train cybersecurity professionals, the success of these efforts also depends on good uptake from enterprises and the public 

@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![the smart nation movement needs smart people]({{site.baseurl}}/images/technews/the-smart-nation-movement-needs-smart-people-part-1.png)
+![the smart nation movement needs smart people](/images/technews/the-smart-nation-movement-needs-smart-people-part-1.png)
 
 - Smart Nation is a movement in which everyone—not just the government or the private sector alone—has a part to play
 - People are key to a Smart Nation, and technology must be used meaningfully to transform and improve the lives of all citizens

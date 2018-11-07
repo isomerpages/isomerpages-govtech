@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/8a-healthy-hub-at-your-fingertips-part-1.png"
 ---
 
-![a healthy hub at your fingertips]({{site.baseurl}}/images/technews/a-healthy-hub-at-your-fingertips-part-1.png)
+![a healthy hub at your fingertips](/images/technews/a-healthy-hub-at-your-fingertips-part-1.png)
 
 HealthHub is Singapore’s first one-stop online health information and services portal, with a mobile application too.
 

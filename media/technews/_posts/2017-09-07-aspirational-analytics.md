@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/aspirational-analytics-part-1.png"
 ---
 
-![Aspirational Analytics]({{site.baseurl}}/images/technews/aspirational-analytics-part-1.png)
+![Aspirational Analytics](/images/technews/aspirational-analytics-part-1.png)
 
 Thanks to the plethora of wearables and apps available to track our steps, workouts, calorie intake, sleep quality, heart rate and moods, we are now in a position to gather more data about ourselves than ever before — and more importantly, to use it to our advantage.
 

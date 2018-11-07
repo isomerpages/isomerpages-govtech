@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/beware-the-dark-side-of-digital-disruption-part-1.png"
 ---
 
-![Beware the Dark Side of Digital Disruption]({{site.baseurl}}/images/technews/beware-the-dark-side-of-digital-disruption-part-1.png)
+![Beware the Dark Side of Digital Disruption](/images/technews/beware-the-dark-side-of-digital-disruption-part-1.png)
 
 Digital disruption featured prominently in Singapore Prime Minister Lee Hsien Loong’s National Day Rally 2016 address; it was what he described as “the defining challenge” facing the Singapore economy.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/keeping-up-with-the-robots-part-1.png"
 ---
 
-![keeping up with the robots]({{site.baseurl}}/images/technews/keeping-up-with-the-robots-part-1.png)
+![keeping up with the robots](/images/technews/keeping-up-with-the-robots-part-1.png)
 
 In 2016, an unlikely YouTube star emerged — one that couldn’t have cared less about how many views its video received.
 

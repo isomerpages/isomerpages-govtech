@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/cannot-find-local-ai-talent-lets-train-it-ourselves-part-1.png"
 ---
 
-![can’t find local AI talent? let’s train it ourselves]({{site.baseurl}}/images/technews/cannot-find-local-ai-talent-lets-train-it-ourselves-part-1.png)
+![can’t find local AI talent? let’s train it ourselves](/images/technews/cannot-find-local-ai-talent-lets-train-it-ourselves-part-1.png)
 
 
 * *AI has already taken off in Singapore, but the AI Singapore initiative aims to further accelerate its adoption*

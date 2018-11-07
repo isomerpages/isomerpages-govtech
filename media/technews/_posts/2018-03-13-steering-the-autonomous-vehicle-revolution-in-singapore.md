@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/steering-the-autonomous-vehicle-revolution-in-singapore-part-1.png"
 ---
 
-![steering the autonomous vehicle revolution in singapore]({{site.baseurl}}/images/technews/steering-the-autonomous-vehicle-revolution-in-singapore-part-1.png)
+![steering the autonomous vehicle revolution in singapore](/images/technews/steering-the-autonomous-vehicle-revolution-in-singapore-part-1.png)
 
 * Autonomous vehicles (AVs) are being integrated into Singapore’s public transportation system to help make commutes more seamless
 

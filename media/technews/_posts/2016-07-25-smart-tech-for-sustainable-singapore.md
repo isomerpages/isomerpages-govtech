@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-tech-for-sustainable-singapore-part-1.png"
 ---
 
-![Smart Tech for Sustainable Singapore]({{site.baseurl}}/images/technews/smart-tech-for-sustainable-singapore-part-1.png)
+![Smart Tech for Sustainable Singapore](/images/technews/smart-tech-for-sustainable-singapore-part-1.png)
 
 An energy analytics startup, a video analytics service provider, a robot fitness coach and a consent-based platform that boosts the convenience of e-government transactions.
 

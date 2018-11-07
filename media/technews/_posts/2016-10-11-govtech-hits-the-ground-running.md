@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/8govtech-hits-the-ground-running-part-1.png"
 ---
 
-![govtech hits the ground running]({{site.baseurl}}/images/technews/govtech-hits-the-ground-running-part-1.png)
+![govtech hits the ground running](/images/technews/govtech-hits-the-ground-running-part-1.png)
 
 On the morning of 7 October 2016 at the Star Theatre at Star Vista, you would be forgiven for thinking it was a rock concert, with all the smartphones being waved in the air.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/from-internet-to-iot-part-1.png"
 ---
 
-![From Internet to IoT]({{site.baseurl}}/images/technews/from-internet-to-iot-part-1.png)
+![From Internet to IoT](/images/technews/from-internet-to-iot-part-1.png)
 
 Fancy waking up to kaya toast done just right by our smart toaster?
 

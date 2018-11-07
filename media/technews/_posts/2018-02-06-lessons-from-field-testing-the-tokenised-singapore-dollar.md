@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png"
 ---
 
-![lessons from field testing the tokenised singapore dollar]({{site.baseurl}}/images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png)
+![lessons from field testing the tokenised singapore dollar](/images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png)
 
 
 * *Although intended to remove the need for intermediaries and central regulation, blockchain or distributed ledger technologies (DLT) are nonetheless useful to the very organisations they are designed to replace: banks and central banks*

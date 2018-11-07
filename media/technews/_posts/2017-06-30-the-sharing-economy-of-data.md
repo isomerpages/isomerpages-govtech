@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-sharing-economy-of-data-part-1.png"
 ---
 
-![the sharing economy of data]({{site.baseurl}}/images/technews/the-sharing-economy-of-data-part-1.png)
+![the sharing economy of data](/images/technews/the-sharing-economy-of-data-part-1.png)
 
 Are you open to the idea of sharing your home or car with a complete stranger?
 

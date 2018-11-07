@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/product-design-lessons-from-google-part-1.png"
 ---
 
-![product design lessons from google]({{site.baseurl}}/images/technews/product-design-lessons-from-google-part-1.png)
+![product design lessons from google](/images/technews/product-design-lessons-from-google-part-1.png)
 
 TL:DR: Product designers should aspire to do more than just developing a usable application. By considering the emotional and psychological needs of end users, product designers can augment user experience (UX) design and change it for the better. Being willing to iterate a product as new insights surface is equally important.
 
@@ -18,7 +18,7 @@ But the interface between humans and the digital world is changing ever more rap
 
 “Unlike us, most of these users have never used a computer before,” said Mr Kumar at the ‘Google Next Billion Users: Product Design Lessons from UX’ seminar presented by SGInnovate in partnership with Google. “Their first internet experience is through a mobile phone, possibly an Android phone because it’s more affordable.” 
  
-![product design lessons from google]({{site.baseurl}}/images/technews/product-design-lessons-from-google-part-2.png)
+![product design lessons from google](/images/technews/product-design-lessons-from-google-part-2.png)
 
 ### **Going beyond usability**
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png"
 ---
 
-![smart nation starts With disrupting ourselves]({{site.baseurl}}/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png)
+![smart nation starts With disrupting ourselves](/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png)
 
 Can you see yourself riding a horse to work, instead of a car or the MRT? Or tell the time by looking at the position of the sun, rather than at a clock? How would life today be without modern medicine, machines and other advancements brought about by the Industrial Revolution?
 
@@ -52,7 +52,7 @@ He admits life may be “unpleasant” for some, as technology displaces certain
  
 “Most people will be engaged with work to a much later stage of their lives. Similarly, at any moment in time, it will be harder to disassociate from work... You’re too connected.”
 
-![smart nation starts With disrupting ourselves]({{site.baseurl}}/images/technews/smart-nation-starts-with-disrupting-ourselves-part-2.png)
+![smart nation starts With disrupting ourselves](/images/technews/smart-nation-starts-with-disrupting-ourselves-part-2.png)
 
 Mr Ng is passionate about bringing the people and private sectors along the Smart Nation journey.
 His advice to younger colleagues: Find opportunities to tune out and recharge. Organisations also need to have more informal discussions and “ring-fence” time off for people to reflect. “Otherwise, if you are always caught up in a quick-tempo, quick-response mentality, there won’t be sufficient insights.”

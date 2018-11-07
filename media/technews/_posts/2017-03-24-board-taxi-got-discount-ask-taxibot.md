@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/board-taxi-got-discount-ask-taxibot-part-1.png"
 ---
 
-![board taxi got discount? ask taxibot!]({{site.baseurl}}/images/technews/board-taxi-got-discount-ask-taxibot-part-1.png)
+![board taxi got discount? ask taxibot!](/images/technews/board-taxi-got-discount-ask-taxibot-part-1.png)
 
 Need to get to somewhere in a hurry? You could call an Uber. Or Grab a taxi.
 

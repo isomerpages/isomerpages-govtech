@@ -41,7 +41,7 @@ Speaking of physically straining tasks, carrying groceries up a flight of stairs
 
 “When elderly people go grocery shopping, they find it difficult to lift or carry the items back, especially if there are staircases in the way,” said Ms Gollapudi Venkata Sambhavi Deepthi, an electrical engineering student at NUS. Together with architecture student Mr Benedict Ho Jun Xian and industrial design student Mr Lim Jing Jie, she created a staircase-climbing shopping trolley, Legoceries, which bagged them the third prize in the competition.
 
-![Building tech solutions for the elderly, one Lego brick at a time]({{site.baseurl}}/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-1.png)
+![Building tech solutions for the elderly, one Lego brick at a time](/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-1.png)
 
 The robotic trolley has another unique function that the team calls the ‘shoplifter’. With the push of a button, located on the handle, the bottom of the shopping cart can be raised. This function was built on the concept of worm gears and a scissors lift and helps the trolley go over obstacles.
 
@@ -51,7 +51,7 @@ Clearly, while robots look set to do most of the heavy lifting for the elderly i
 
 ### **Winner: Silver Flexer**
 
-![Building tech solutions for the elderly, one Lego brick at a time]({{site.baseurl}}/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-2.png)
+![Building tech solutions for the elderly, one Lego brick at a time](/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-2.png)
 
 (left to right)
 Heng Meng Pei, Mechanical Engineering, Year 2
@@ -60,7 +60,7 @@ Chua Song Yu, Mechanical Engineering, Year 3
 
 ### **2nd prize: Handroid**
 
-![Building tech solutions for the elderly, one Lego brick at a time]({{site.baseurl}}/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-3.png)
+![Building tech solutions for the elderly, one Lego brick at a time](/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-3.png)
 
 (left to right)
 Francis Lee Jun Yao, Computer Engineering, Year 2
@@ -69,7 +69,7 @@ Heng Zi Xuan Caryn, Computer Science, Year 2
 
 ### **3rd prize: Legoceries**
 
-![Building tech solutions for the elderly, one Lego brick at a time]({{site.baseurl}}/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-4.png)
+![Building tech solutions for the elderly, one Lego brick at a time](/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-4.png)
 
 (left to right)
 Benedict Ho Jun Xuan, Architecture, Year 1

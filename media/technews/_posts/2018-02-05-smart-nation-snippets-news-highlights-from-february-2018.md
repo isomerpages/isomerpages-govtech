@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-1.png"
 ---
 
-![Smart Nation Snippets: News highlights from February 2018]({{site.baseurl}}/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-1.png)
+![Smart Nation Snippets: News highlights from February 2018](/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-1.png)
 
 *In this monthly series, TechNews seeks out the most important and interesting Smart Nation stories to bring to you, the reader. This month, learn about the Smart Nation Scholarship, the new SingPass mobile app, the importance of digital inclusion, and how smart cities of the future can be made even smarter.*
 
@@ -20,14 +20,14 @@ As much as technology is important, smart cities must also make digital inclusio
 
 In other news, top talent makes its way back to Singapore, the gravitational pull of smart, connected cities gets stronger, and data helps city planners and policy makers solve complex urban problems. Read about these issues and more in this month’s Smart Nation Snippets. 
  
-![Smart Nation Snippets: News highlights from February 2018]({{site.baseurl}}/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-2.png)
+![Smart Nation Snippets: News highlights from February 2018](/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-2.png)
 
 ### **[New Smart Nation Scholarship targets Singapore students keen on turning ideas into reality](https://www.channelnewsasia.com/news/singapore/new-smart-nation-scholarship-targets-singapore-students-keen-on-10002322)**
 A new Smart Nation Scholarship will be open for applications by end-2018, announced Dr Janil Puthucheary, Minister-in-charge of GovTech and Senior Minister of State, Ministry of Communications and Information (MCI) at the Committee of Supply (COS) debate. 
 
 Young talents will get to turn their ideas into reality at technology-oriented government agencies, including GovTech, the Cyber Security Agency and the Infocomm Media Development Authority.
 
-![Smart Nation Snippets: News highlights from February 2018]({{site.baseurl}}/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-3.png)
+![Smart Nation Snippets: News highlights from February 2018](/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-3.png)
 
 ### **[New SingPass Mobile app promises ease of on-the-go use for citizens](https://www.channelnewsasia.com/news/singapore/new-singpass-mobile-app-smart-nation-10002150)**
 The COS debate also saw Minister-in-charge for Smart Nation Initiative Vivian Balakrishnan announcing the new SingPass Mobile app, to be launched in the second half of 2018. The app, part of National Digital Identity initiative, will make the SingPass platform more usable and secure.

@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![key features of moment of life]({{site.baseurl}}/images/technews/five-key-features-of-the-new-moments-of-life-app-part-1.jpg)
+![key features of moment of life](/images/technews/five-key-features-of-the-new-moments-of-life-app-part-1.jpg)
 
 TL:DR: The Moments of Life (Families) app was launched on 29 June 2018.  It currently caters to the needs of new parents and those with children under six years old. Read on to find out how the app can help you ease the transition to parenthood and support your child’s development.
 
@@ -23,7 +23,7 @@ New parents, take a minute’s break from diaper duty and read on for five key f
  
 **1. Registering a birth**
 
-![registering a birth]({{site.baseurl}}/images/technews/five-key-features-of-the-new-moments-of-life-app-part-2.png)
+![registering a birth](/images/technews/five-key-features-of-the-new-moments-of-life-app-part-2.png)
 
 For parents whose child was delivered in a public hospital (KK Women’s and Children’s Hospital, the Singapore General Hospital or the National University Hospital), you can now register the birth in a hassle-free manner via the MOL (Families) app. Simply log in with your [SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login){:target="_blank"} and most of your personal information will already be pre-filled. This removes the need for presenting multiple physical documents when you collect your child’s birth certificate.
 
@@ -39,7 +39,7 @@ If you did not register your child via the app, fret not! Just download the app 
 
 **3. Checking your child’s immunisation and medical records**
 
-![check your child immunisation and medical record]({{site.baseurl}}/images/technews/five-key-features-of-the-new-moments-of-life-app-part-3.png)
+![check your child immunisation and medical record](/images/technews/five-key-features-of-the-new-moments-of-life-app-part-3.png)
 
 Did you know that within the [first 18 months](https://www.healthhub.sg/live-healthy/363/immunisation_chart_based_on_age){:target="_blank"} of birth, your child needs to receive up to 23 vaccinations? Keeping track of all these doses can be a headache. Now, with the MOL (Families) app, busy parents need not keep a manual checklist to tick off the number and type of vaccines their child has already received. 
 
@@ -48,7 +48,7 @@ Furthermore, the app also helps parents manage their child’s upcoming medical 
 
 **4. Finding a preschool**
 
-![finding a preschool]({{site.baseurl}}/images/technews/five-key-features-of-the-new-moments-of-life-app-part-4.png)
+![finding a preschool](/images/technews/five-key-features-of-the-new-moments-of-life-app-part-4.png)
 
 Searching for a preschool near your home just got simpler. The MOL (Families) app comes loaded with a list of preschools searchable by location. The vacancies available at each centre, as well as the enrolment fees, can be found via the app.
 
@@ -58,7 +58,7 @@ Parents can also use the app to indicate interest in sending their child to a pa
  
 **5. Getting advice on parenting**
 
-![getting advice on parenting]({{site.baseurl}}/images/technews/five-key-features-of-the-new-moments-of-life-app-part-5.png)
+![getting advice on parenting](/images/technews/five-key-features-of-the-new-moments-of-life-app-part-5.png)
 
 The journey of parenting can be a daunting one without the right support. With the MOL (Families) app, users can access a wealth of resources on topics relating to parenthood. 
 

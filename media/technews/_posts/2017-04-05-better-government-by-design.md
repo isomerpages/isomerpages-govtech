@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/better-government-by-design-part-1.png"
 ---
 
-![better government by design]({{site.baseurl}}/images/technews/better-government-by-design-part-1.png)
+![better government by design](/images/technews/better-government-by-design-part-1.png)
 
 We’ve all experienced the occasional frustration that comes with filling out unnecessary administrative forms, or navigating confusing government websites.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-future-beckons-through-emerging-technologies-part-1.png"
 ---
 
-![The future beckons through emerging technologies]({{site.baseurl}}/images/technews/the-future-beckons-through-emerging-technologies-part-1.png)
+![The future beckons through emerging technologies](/images/technews/the-future-beckons-through-emerging-technologies-part-1.png)
 
 The 4th Industrial Revolution will cause disruptions to the way we work, live and play, and is expected to have far-reaching impact on shaping the industries of tomorrow.
 

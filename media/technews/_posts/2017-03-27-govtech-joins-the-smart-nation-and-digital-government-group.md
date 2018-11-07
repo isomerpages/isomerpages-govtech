@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![govtech joins the smart nation and digital government group]({{site.baseurl}}/images/technews/govtech-joins-the-smart-nation-and-digital-government-group-part-1.jpg)
+![govtech joins the smart nation and digital government group](/images/technews/govtech-joins-the-smart-nation-and-digital-government-group-part-1.jpg)
 
 Dear readers,
 

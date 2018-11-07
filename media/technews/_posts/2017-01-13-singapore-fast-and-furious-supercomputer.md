@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/singapore-fast-and-furious-supercomputer-part-1.png"
 ---
 
-![Singapore's fast and furious Supercomputer]({{site.baseurl}}/images/technews/singapore-fast-and-furious-supercomputer-part-1.png)
+![Singapore's fast and furious Supercomputer](/images/technews/singapore-fast-and-furious-supercomputer-part-1.png)
 
 There are a quadrillion reasons why the crown of the fastest computer in Singapore goes to Aspire1!
 
@@ -22,4 +22,4 @@ Find out all you need to know about the Aspire1 in this handy infographic below.
 
 You can also view the [PDF version here.](https://www.tech.gov.sg/-/media/GovTech/TechNews/Innovation/2017/01/GovTech-TechNews-ASPIRE-1-infographic.pdf)
 
-![Singapore's fast and furious Supercomputer]({{site.baseurl}}/images/technews/singapore-fast-and-furious-supercomputer-part-2.png)
+![Singapore's fast and furious Supercomputer](/images/technews/singapore-fast-and-furious-supercomputer-part-2.png)

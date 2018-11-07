@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/8data-science-making-the-decisive-difference-part-1.png"
 ---
 
-![data science making the decisive difference]({{site.baseurl}}/images/technews/data-science-making-the-decisive-difference-part-1.png)
+![data science making the decisive difference](/images/technews/data-science-making-the-decisive-difference-part-1.png)
 
 Data science can be awesome — that much we can all agree on.
 

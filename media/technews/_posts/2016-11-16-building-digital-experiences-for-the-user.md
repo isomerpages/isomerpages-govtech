@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/building-digital-experiences-for-the-user-part-1.png"
 ---
 
-![Building Digital Experiences for the user]({{site.baseurl}}/images/technews/building-digital-experiences-for-the-user-part-1.png)
+![Building Digital Experiences for the user](/images/technews/building-digital-experiences-for-the-user-part-1.png)
 
 If you are in the business of designing digital solutions, do not let user need become an afterthought that is overshadowed by what the technology can do. User needs, and your relationship with the user, must be prioritised to create something meaningful, said Ms Jacqueline Poh, Chief Executive of the Government Technology Agency (GovTech).
 

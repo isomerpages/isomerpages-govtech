@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/tech-talent-for-the-people-part-1.png"
 ---
 
-![tech talent for the people]({{site.baseurl}}/images/technews/8tech-talent-for-the-people-part-1.png)
+![tech talent for the people](/images/technews/tech-talent-for-the-people-part-1.png)
 
 It all comes down to simple economics: when the demand for talent is high and supply is low, people with the right skills can command top dollar.
 

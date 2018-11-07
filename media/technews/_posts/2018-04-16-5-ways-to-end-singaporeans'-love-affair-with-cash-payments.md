@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png"
 ---
 
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png)
+![5 ways to end singaporeans’ love affair with cash payments](/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png)
 
 TL: DR: Although most Singaporeans own mobile phones and credit cards, cash is still king in this city state. In India, a mobile payments platform by Google—called Tez—has been relatively successful in overcoming people’s inertia to e-payments.
 
@@ -18,7 +18,7 @@ We list here 5 lessons that could help e-payments gain traction in Singapore.
 Ask any Singaporean on the street if they own a mobile phone and a credit card, and the answer is most likely to be “yes”. Yet, a recent survey by PayPal showed that the majority of Singaporeans still prefer to make payments using cash.“The reason why cash is so pervasive is that it’s easy to use and it’s accepted everywhere. Its power lies in its simplicity,” said Mr Sujith Narayanan, country business head of Tez, a mobile payments platform by Google. He was speaking at the Money20/20 Asia Conference on 13 March 2018, during which he shared some key learning points from Tez’s journey when it rolled out its mobile payments service in India. At the time of writing, Tez has more than 12 million users in India and has processed over 140 million transactions.
 How did Tez make significant headway in a society that was predominantly cash-reliant? We’ve put together a list of lessons that may help digital payments service providers replicate Tez’s success in the Singapore context.
 
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/of-aliens-and-the-digital-dark-age-part-2.JPG)
+![5 ways to end singaporeans’ love affair with cash payments](/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-2.JPG)
 
 ### **Lesson #1: Mind your language**
 The first barrier to entry that the Tez team encountered in India was language—India has 22 official languages. For Tez’s mobile payments platform to be adopted by the masses, it was imperative that its user interface be read and understood by individuals regardless of their native tongue. Hence, the Tez team had to adapt its system to suit the local linguistic diversity.

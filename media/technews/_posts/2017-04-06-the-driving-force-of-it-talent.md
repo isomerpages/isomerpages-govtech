@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-driving-force-of-it-talent-part-1.png"
 ---
 
-![the driving force of IT talent]({{site.baseurl}}/images/technews/the-driving-force-of-it-talent-part-1.png)
+![the driving force of IT talent](/images/technews/the-driving-force-of-it-talent-part-1.png)
 
 There will always be a technology flavour of the month driving innovation: artificial intelligence, neural networks and blockchain today — and who knows what else that's new and exciting tomorrow.
 

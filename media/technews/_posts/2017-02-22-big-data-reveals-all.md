@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/big-data-reveals-all-part-1.png"
 ---
 
-![Big Data reveals all]({{site.baseurl}}/images/technews/big-data-reveals-all-part-1.png)
+![Big Data reveals all](/images/technews/big-data-reveals-all-part-1.png)
 
 Pop quiz: What involves (a) tens of thousands of Singapore students, (b) but is not the National Day Parade, and (c) has data scientists rubbing their hands together in gleeful anticipation? 
 

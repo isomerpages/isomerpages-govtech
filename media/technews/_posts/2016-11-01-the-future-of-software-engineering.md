@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-future-of-software-engineering-part-1.png"
 ---
 
-![The Future of Software Engineering]({{site.baseurl}}/images/technews/the-future-of-software-engineering-part-1.png)
+![The Future of Software Engineering](/images/technews/the-future-of-software-engineering-part-1.png)
 
 “The future is here; it's all around us. It's not so clear that you actually can see it, but you will in the next few years — you're going to see how things change and become more advanced.”
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/on-the-road-with-iot-part-1.png"
 ---
 
-![on the road with IoT]({{site.baseurl}}/images/technews/on-the-road-with-iot-part-1.png)
+![on the road with IoT](/images/technews/on-the-road-with-iot-part-1.png)
 
 Transportation systems are evolving to meet the needs of a world on the move, and networks are playing a key role.
 

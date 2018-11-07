@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/project-digital-citizen-customer-part-1.png"
 ---
 
-![project: digital citizen-customer]({{site.baseurl}}/images/technews/project-digital-citizen-customer-part-1.png)
+![project: digital citizen-customer](/images/technews/project-digital-citizen-customer-part-1.png)
 
 Imagine the complex task of attempting to integrate online licence application systems from more than 20 different government agencies into one enormous, all-encompassing beast.
 

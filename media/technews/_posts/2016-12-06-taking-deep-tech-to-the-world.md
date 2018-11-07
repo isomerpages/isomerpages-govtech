@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/taking-deep-tech-to-the-world-part-1.png"
 ---
 
-![taking deep tech to the world]({{site.baseurl}}/images/technews/taking-deep-tech-to-the-world-part-1.png)
+![taking deep tech to the world](/images/technews/taking-deep-tech-to-the-world-part-1.png)
 
 Singapore’s technology sector glitterati turned up in full force on 22 November 2016 for the official launch of SGInnovate at 32 Carpenter Street, a refurbished six-storey building that will be its official headquarters.
 

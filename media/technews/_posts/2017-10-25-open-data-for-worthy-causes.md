@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/open-data-for-worthy-causes-part-1.png"
 ---
 
-![Open data for worthy causes]({{site.baseurl}}/images/technews/open-data-for-worthy-causes-part-1.png)
+![Open data for worthy causes](/images/technews/open-data-for-worthy-causes-part-1.png)
 
 In the quiet of a Saturday afternoon, dramatic music fills the Amazon Web Services (AWS) office in Singapore.
 

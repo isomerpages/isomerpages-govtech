@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/ai-for-enterprises-and-other-breakthroughs-part-1.png"
 ---
 
-![AI for enterprises and other breakthroughs]({{site.baseurl}}/images/technews/ai-for-enterprises-and-other-breakthroughs-part-1.png)
+![AI for enterprises and other breakthroughs](/images/technews/ai-for-enterprises-and-other-breakthroughs-part-1.png)
 
 Evolution in the natural world occurs on the time scale of millennia, but in the realm of business and enterprise, it occurs within decades.
 

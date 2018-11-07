@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/driving-autonomously-in-singapore-part-1.png"
 ---
 
-![Driving autonomously in Singapore]({{site.baseurl}}/images/technews/driving-autonomously-in-singapore-part-1.png)
+![Driving autonomously in Singapore](/images/technews/driving-autonomously-in-singapore-part-1.png)
 
 Remember Herbie, the Love Bug? Or Knight Rider with KITT? Or Lightning McQueen from Pixar’s Cars series?
 

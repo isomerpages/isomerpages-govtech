@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/corppass-what-you-need-to-know-part-1.png"
 ---
 
-![corppass: what you need to know]({{site.baseurl}}/images/technews/corppass-what-you-need-to-know-part-1.png)
+![corppass: what you need to know](/images/technews/corppass-what-you-need-to-know-part-1.png)
 
 Here are some of the important details about how the [new CorpPass](https://www.tech.gov.sg/IDA.html), which offers a single corporate digital identity for Singapore businesses, works.
 

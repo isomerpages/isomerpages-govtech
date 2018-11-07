@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![work in progress 2037]({{site.baseurl}}/images/technews/work-in-progress-2037-part-1.jpg)
+![work in progress 2037](/images/technews/work-in-progress-2037-part-1.jpg)
 
 From the Industrial Revolution in the late 18th century to corporatisation in the 20th century, monumental shifts in global labour markets have always led to deep anxiety among those whose jobs were being displaced. 
 

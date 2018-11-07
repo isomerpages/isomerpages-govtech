@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/winning-by-innovating-part-1.png"
 ---
 
-![Winning by Innovating]({{site.baseurl}}/images/technews/winning-by-innovating-part-1.png)
+![Winning by Innovating](/images/technews/winning-by-innovating-part-1.png)
 
 The unsung heroes behind Singapore’s most outstanding public sector IT projects were honoured at this year’s National Infocomm Awards 2016, which was held at Marina Bay Sands on 10 November 2016.
 

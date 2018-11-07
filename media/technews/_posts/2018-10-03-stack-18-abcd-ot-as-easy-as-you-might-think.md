@@ -7,7 +7,7 @@ image: "/images/technews/abcd-not-as-easy-as-you-might-think (1).png"
 ---
 TL:DR: ‘ABCD’—artificial intelligence, blockchain, cloud and data—could be considered the alphabet of the future. But amidst the excitement surrounding these technologies, it’s also important to acknowledge that they aren’t a silver bullet. Ultimately, for technology to make an impact, it must be designed and implemented with care, said panellists at GovTech’s STACK 2018 Developer Conference.
 
-![ABCD Not as easy as you might think]({{site.baseurl}}/images/technews/abcd-not-as-easy-as-you-might-think (1).png)
+![ABCD Not as easy as you might think](/images/technews/abcd-not-as-easy-as-you-might-think (1).png)
 
 Along with learning how to spell, children in classrooms of the future might have to contend with another category of ‘ABCD’—artificial intelligence (AI), blockchain, cloud and data. But even as organisations the world over rush to integrate these technologies into their business models, getting the most out of them is nowhere near as easy as reciting the English alphabet.
 “That’s the challenge with ABCD—there’s a lot of hype, and it’s very often sold as a silver bullet. But in the end, the devil is in the details and in trying to iron out the actual production issues,” said Mr Parimal Aswani, director of government digital services at the Government Technology Agency of Singapore (GovTech), who was moderating the ‘Building Apps For Tomorrow: The Future with ABCD’ panel discussion at GovTech’s inaugural STACK 2018 Developer Conference.

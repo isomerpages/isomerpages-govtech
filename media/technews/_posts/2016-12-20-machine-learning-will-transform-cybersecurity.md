@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/machine-learning-will-transform-cybersecurity-part-1.png"
 ---
 
-![machine Learning will transform cybersecurity]({{site.baseurl}}/images/technews/machine-learning-will-transform-cybersecurity-part-1.png)
+![machine Learning will transform cybersecurity](/images/technews/machine-learning-will-transform-cybersecurity-part-1.png)
 
 Cybersecurity has tapped into the power of machines for the extra edge against cybercriminals today.
 

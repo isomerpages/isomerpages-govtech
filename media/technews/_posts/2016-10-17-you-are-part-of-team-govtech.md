@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/you-are-part-of-team-govtech-part-1.png"
 ---
 
-![You are part of Team GovTech]({{site.baseurl}}/images/technews/you-are-part-of-team-govtech-part-1.png)
+![You are part of Team GovTech](/images/technews/you-are-part-of-team-govtech-part-1.png)
 
 What does the Government Technology Agency (GovTech) have in common with a flock of starlings? 
 

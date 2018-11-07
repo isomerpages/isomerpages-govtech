@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/asia-and-artificial-intelligence-part-1.png"
 ---
 
-![Asia and Artificial Intelligence]({{site.baseurl}}/images/technews/asia-and-artificial-intelligence-part-1.png)
+![Asia and Artificial Intelligence](/images/technews/asia-and-artificial-intelligence-part-1.png)
 
 First, a detour into outer space. Did you know that Southeast Asia has its very own incubator for space technologies?
 

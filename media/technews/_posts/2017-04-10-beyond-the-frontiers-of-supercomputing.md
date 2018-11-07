@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/beyond-the-frontiers-of-supercomputing-part-1.png"
 ---
 
-![Beyond the frontiers of Supercomputing]({{site.baseurl}}/images/technews/lbeyond-the-frontiers-of-supercomputing-part-1.png)
+![Beyond the frontiers of Supercomputing](/images/technews/beyond-the-frontiers-of-supercomputing-part-1.png)
 
 What do you get when you put the world’s foremost supercomputing experts together in the same room?
 

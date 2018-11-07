@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/every-one-a-cybersecurity-defender-part-1.png"
 ---
 
-![Every one a cybersecurity defender]({{site.baseurl}}/images/technews/every-one-a-cybersecurity-defender-part-1.png)
+![Every one a cybersecurity defender](/images/technews/every-one-a-cybersecurity-defender-part-1.png)
 
 Information flows seamlessly via the internet in this digital age, and the vast majority of our interactions take place online.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/healthy-robotics-part-1.png"
 ---
 
-![Healthy Robotics]({{site.baseurl}}/images/technews/healthy-robotics-part-1.png)
+![Healthy Robotics](/images/technews/healthy-robotics-part-1.png)
 
 Most people spend their weekends relaxing and recharging for the week ahead.
 

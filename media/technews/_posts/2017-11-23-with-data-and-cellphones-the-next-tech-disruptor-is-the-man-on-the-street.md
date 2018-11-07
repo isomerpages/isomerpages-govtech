@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![next tech disruptor is the man on the street with data and cellphones]({{site.baseurl}}/images/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street-part-1.jpg)
+![next tech disruptor is the man on the street with data and cellphones](/images/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street-part-1.JPG)
 
 - Disruption is not new: almost a thousand years ago, Genghis Khan changed the course of history with innovative ideas that culminated in the world's largest-ever contiguous empire
 - Today, digital technology is disrupting the world by enabling millions of people to collectively contribute data to solve problems

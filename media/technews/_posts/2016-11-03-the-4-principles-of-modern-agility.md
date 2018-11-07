@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/leading-with-the-team-part-1.png"
 ---
 
-![Leading with the Team]({{site.baseurl}}/images/technews/leading-with-the-team-part-1.png)
+![Leading with the Team](/images/technews/leading-with-the-team-part-1.png)
 
 Think of a waterfall, and you picture serenity: calm, pristine waters rushing down a magnificent cliff, splashing into cool waters below.
 

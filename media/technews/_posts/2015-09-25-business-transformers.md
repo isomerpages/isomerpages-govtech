@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/business-transformers-part-1.png"
 ---
 
-![Business Transformers]({{site.baseurl}}/images/technews/business-transformers-part-1.png)
+![Business Transformers](/images/technews/business-transformers-part-1.png)
 
 E-commerce made easy for food manufacturers, a unified command and control centre for hotels and other premises, and facial recognition for manpower management in the construction industry – these are some of the innovative ways in which technology can help relieve business and operational pain points for SMEs in Singapore. 
 

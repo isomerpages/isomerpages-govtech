@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/switching-on-tech-innovation-part-1.png"
 ---
 
-![SWITCHing on Tech Innovation]({{site.baseurl}}/images/technews/switching-on-tech-innovation-part-1.png)
+![SWITCHing on Tech Innovation](/images/technews/switching-on-tech-innovation-part-1.png)
 
  A new epoch beckons for Asia. 
  

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-power-of-the-community-part-1.png"
 ---
 
-![The power of the community]({{site.baseurl}}/images/technews/the-power-of-the-community-part-1.png)
+![The power of the community](/images/technews/the-power-of-the-community-part-1.png)
 
 When the Singapore government recently decided to use intelligent digital assistants — aka chatbots — to handle routine questions from the public, it did not turn to a huge multinational company to set them up. 
 

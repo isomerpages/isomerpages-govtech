@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/rogue-train-a-big-data-story-part-1.png"
 ---
 
-![Rogue Train: A Big Data Story]({{site.baseurl}}/images/technews/rogue-train-a-big-data-story-part-1.png)
+![Rogue Train: A Big Data Story](/images/technews/rogue-train-a-big-data-story-part-1.png)
 
 This is a story about how data played a big deductive role in a multi-agency collaborative effort to uncover an underground mystery.
 

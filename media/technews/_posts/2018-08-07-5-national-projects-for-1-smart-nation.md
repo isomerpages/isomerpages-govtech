@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![singapore national project]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-1.PNG)
+![singapore national project](/images/technews/5-national-projects-for-1-smart-nation-part-1.PNG)
 
 The Singapore flag bears five stars and a crescent moon, representing five key ideals and a nation on the rise. As Singapore celebrates its 53rd National Day, these ideals remain the same, but the nation-state is in another phase of transition, this time into a Smart Nation. Find out more about the five strategic national projects that will drive this digital transformation.
 
@@ -20,7 +20,7 @@ Today, the symbols of the five stars and a crescent moon still endure—this tim
 
 In case you haven’t heard of them, here are the five strategic national projects that are transforming Singapore into a Smart Nation.
 
-![national projects]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-2.PNG)
+![national projects](/images/technews/5-national-projects-for-1-smart-nation-part-2.PNG)
 
 **1. National Digital Identity**
 
@@ -30,7 +30,7 @@ If the Singapore Flag helped to forge a common identity, then the goal of a Nati
 
 To further enhance the convenience of transactions, MyInfo—a consent-based digital platform for citizen data management—has been developed so that users need only provide their personal information to the government once. Thereafter, with their authorisation, they will be able to extend the use of that information to other approved public and private sector agencies. With MyInfo, e-transaction forms can be filled in with a click, thus reducing hassle and the likelihood of errors. 
 
-![national digital identity]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-3.PNG)
+![national digital identity](/images/technews/5-national-projects-for-1-smart-nation-part-3.PNG)
 
 **2. E-payments**
 
@@ -40,7 +40,7 @@ In 2017, [PayNow](https://www.abs.org.sg/consumer-banking/pay-now){:target="_bla
 
 Besides PayNow, NETS and EZ-Link can be used at participating hawker centres island-wide, and the Singapore Quick Response (SGQR) code is in the works, which will allow financial transactions to be completed both domestically and internationally, across various e-wallets and banks.
 
-![e-payment]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-4.PNG)
+![e-payment](/images/technews/5-national-projects-for-1-smart-nation-part-4.PNG)
 
 **3. Smart Nation Sensor Platform**
 
@@ -50,7 +50,7 @@ As part of an initial rollout of the SNSP, connectivity infrastructure has been 
 
 With the data harnessed by the SNSP, government agencies will be able to perform in-depth and cross-domain analyses to make evidence-based decisions when planning public amenities and services for citizens. 
 
-![smart nation sensor platform]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-5.PNG)
+![smart nation sensor platform](/images/technews/5-national-projects-for-1-smart-nation-part-5.PNG)
 
 **4. Smart Urban Mobility**
 
@@ -60,7 +60,7 @@ SBS and SMRT buses in Singapore have already been equipped with an intelligent f
 
 In addition to fixed and scheduled bus routes, on-demand bus services are also being trialled to make the public transport system more dynamic and responsive to commuter needs. One example of this model is the crowdsourcing mobile app [Beeline](/products-and-services/beeline/){:target="_blank"}, developed by GovTech, which allows public bus operators to ply new routes according to passenger demand. Meanwhile, autonomous vehicles are also being tested at one-north and the Jurong Innovation District as a future mode of transport. 
 
-![smart urban mobility]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-6.PNG)
+![smart urban mobility](/images/technews/5-national-projects-for-1-smart-nation-part-6.PNG)
 
 **5. Moments of Life**
 
@@ -70,4 +70,4 @@ Launched in June 2018, the [Moments of Life (Families)](/media/technews/five-key
 
 By 2022, the functions of the app will be expanded to encompass a wider range of public services catering to more moments in citizens’ lives. Throughout the development and iteration process, the government will actively engage with citizens and businesses to obtain specific insights from the ground.
 
-![moments of life]({{site.baseurl}}/images/technews/5-national-projects-for-1-smart-nation-part-7.PNG)
+![moments of life](/images/technews/5-national-projects-for-1-smart-nation-part-7.PNG)

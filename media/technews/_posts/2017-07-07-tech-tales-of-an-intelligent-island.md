@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/tech-tales-of-an-intelligent-island-part-1.png"
 ---
 
-![tech tales of an intelligent island]({{site.baseurl}}/images/technews/tech-tales-of-an-intelligent-island-part-1.png)
+![tech tales of an intelligent island](/images/technews/tech-tales-of-an-intelligent-island-part-1.png)
 
 In 1970s Singapore, the idea of computers in the workplace was a radical one. Only a handful of people knew about them, and fewer still had seen one first-hand.
 

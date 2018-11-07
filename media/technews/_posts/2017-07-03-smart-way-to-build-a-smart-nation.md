@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-way-to-build-a-smart-nation-part-1.png"
 ---
 
-![smart way to build a smart nation]({{site.baseurl}}/images/technews/smart-way-to-build-a-smart-nation-part-1.png)
+![smart way to build a smart nation](/images/technews/smart-way-to-build-a-smart-nation-part-1.png)
 
 What defines a smart city?
 

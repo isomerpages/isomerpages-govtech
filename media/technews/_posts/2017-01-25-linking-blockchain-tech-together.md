@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/linking-blockchain-tech-together-part-1.png"
 ---
 
-![linking blockchain tech together]({{site.baseurl}}/images/technews/linking-blockchain-tech-together-part-1.png)
+![linking blockchain tech together](/images/technews/linking-blockchain-tech-together-part-1.png)
 
 Just about everyone has heard of the virtual currency known as Bitcoin.
 

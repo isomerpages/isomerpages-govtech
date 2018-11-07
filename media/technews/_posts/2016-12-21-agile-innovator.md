@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/agile-innovator-part-1.png"
 ---
 
-![agile innovator]({{site.baseurl}}/images/technews/agile-innovator-part-1.png)
+![agile innovator](/images/technews/agile-innovator-part-1.png)
 
 Steven Koh’s day job is Assistant Director, Agile Consultancy and Engineering at GovTech’s Government Digital Services (GDS) team.
 

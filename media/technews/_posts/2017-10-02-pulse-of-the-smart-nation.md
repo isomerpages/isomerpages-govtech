@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/pulse-of-the-smart-nation-part-1.png"
 ---
 
-![Pulse of the Smart Nation]({{site.baseurl}}/images/technews/pulse-of-the-smart-nation-part-1.png)
+![Pulse of the Smart Nation](/images/technews/pulse-of-the-smart-nation-part-1.png)
 
 Every city has its own unique rhythm.
 

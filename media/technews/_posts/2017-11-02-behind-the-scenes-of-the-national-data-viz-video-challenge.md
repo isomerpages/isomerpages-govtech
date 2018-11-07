@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![behind the scenes of the national data viz video challenge]({{site.baseurl}}/images/technews/behind-the-scenes-of-the-national-data-viz-video-challenge-part-1.jpg)
+![behind the scenes of the national data viz video challenge](/images/technews/behind-the-scenes-of-the-national-data-viz-video-challenge-part-1.jpg)
 
 You’ve spent the last seven months of your life crunching information, on top of your daily workload and family obligations. You’ve pitched your project to judging panels and made it through several rounds of competition. 
 

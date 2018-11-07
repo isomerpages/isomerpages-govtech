@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/singapore-station-in-space-part-1.png"
 ---
 
-![singapore's station in space]({{site.baseurl}}/images/technews/singapore-station-in-space-part-1.png)
+![singapore's station in space](/images/technews/singapore-station-in-space-part-1.png)
 
 “Space, the final frontier.”
 

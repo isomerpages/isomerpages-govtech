@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/improving-productivity-sustainability-and-usability-part-1.png"
 ---
 
-![improving productivity, sustainability and usability]({{site.baseurl}}/images/technews/improving-productivity-sustainability-and-usability-part-1.png)
+![improving productivity, sustainability and usability](/images/technews/improving-productivity-sustainability-and-usability-part-1.png)
 
 Improving the user experience, enhancing productivity and ensuring the sustainability of ICT – these were some of the key points addressed at the 39th Public Sector Infocomm (PSI) Seminar in January.
 

@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![engineering innovation with passion]({{site.baseurl}}/images/technews/engineering-innovation-with-passion-part-1.jpg)
+![engineering innovation with passion](/images/technews/engineering-innovation-with-passion-part-1.jpg)
 
 Drones and robots used to be the province of science fiction, but these products of human imagination are fast becoming an integral part of industry and everyday life.
 

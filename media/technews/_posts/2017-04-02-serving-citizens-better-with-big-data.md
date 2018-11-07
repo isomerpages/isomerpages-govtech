@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/serving-citizens-better-with-big-data-part-1.png"
 ---
 
-![serving citizens better with big data]({{site.baseurl}}/images/technews/serving-citizens-better-with-big-data-part-1.png)
+![serving citizens better with big data](/images/technews/serving-citizens-better-with-big-data-part-1.png)
 
 From helping public libraries target specific groups of borrowers to catching rogue MRT trains, the possibilities are endless when government agencies use data science for the public good.
 

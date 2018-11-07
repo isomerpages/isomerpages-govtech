@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/breaking-the-code-of-data-abstraction-part-1.png"
 ---
 
-![Breaking the code of Data Abstraction]({{site.baseurl}}/images/technews/breaking-the-code-of-data-abstraction-part-1.png)
+![Breaking the code of Data Abstraction](/images/technews/breaking-the-code-of-data-abstraction-part-1.png)
 
 Computer programmers today may take the idea of data abstraction — the structuring of code into discrete modules — for granted.
 

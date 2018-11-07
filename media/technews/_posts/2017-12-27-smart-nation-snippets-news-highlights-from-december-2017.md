@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png"
 ---
 
-![smart nation snippets: news highlights from december 2017]({{site.baseurl}}/images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png)
+![smart nation snippets: news highlights from december 2017](/images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png)
 
 *In this monthly series, TechNews seeks out the most important and interesting Smart Nation stories to bring to you, the reader. This December, learn about how digital technologies will impact everyday activities like commerce and commuting, as well as change the way we interact with physical space.*
 

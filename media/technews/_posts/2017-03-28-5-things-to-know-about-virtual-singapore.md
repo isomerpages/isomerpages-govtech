@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/5-things-to-know-about-virtual-singapore-part-1.png"
 ---
 
-![5 things to know about virtual singapore]({{site.baseurl}}/images/technews/5-things-to-know-about-virtual-singapore-part-1.png)
+![5 things to know about virtual singapore](/images/technews/5-things-to-know-about-virtual-singapore-part-1.png)
 
 Imagine being a researcher or city planner with the power to fly through and experience a digital version of Singapore with its every detail reproduced true-to-life — from street names and traffic information, to population data and environmental conditions.
 

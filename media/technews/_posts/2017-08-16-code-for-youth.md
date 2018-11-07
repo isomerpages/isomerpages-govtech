@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/code-for-youth-part-1.png"
 ---
 
-![Code for Youth]({{site.baseurl}}/images/technews/code-for-youth-part-1.png)
+![Code for Youth](/images/technews/code-for-youth-part-1.png)
 
 For most 12-year-olds in Singapore, the final year of preteen life is devoted to one all-consuming cause: studying for the Primary School Leaving Examination (PSLE),
 

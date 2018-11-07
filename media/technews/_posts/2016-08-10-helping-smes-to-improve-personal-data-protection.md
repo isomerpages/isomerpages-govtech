@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/helping-smes-to-improve-personal-data-protection-part-1.png"
 ---
 
-![Helping SMEs to improve personal data protection]({{site.baseurl}}/images/technews/helping-smes-to-improve-personal-data-protection-part-1.png)
+![Helping SMEs to improve personal data protection](/images/technews/helping-smes-to-improve-personal-data-protection-part-1.png)
 
 Training of data protection officers (DPOs), capability development and best practice guidance: these are some of the areas where the Personal Data Protection Commission (PDPC) is helping organisations — especially small and medium enterprises (SMEs) — to better equip themselves with good personal data management and security practices.
 

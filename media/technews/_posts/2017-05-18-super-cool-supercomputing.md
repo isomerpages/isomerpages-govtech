@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/super-cool-supercomputing-part-1.png"
 ---
 
-![Super Cool Supercomputing]({{site.baseurl}}/images/technews/super-cool-supercomputing-part-1.png)
+![Super Cool Supercomputing](/images/technews/super-cool-supercomputing-part-1.png)
 
 With one of the planet’s highest internet penetration rates, a dedicated [Smart Nation](https://www.smartnation.sg/) initiative, and an abundance of research and development activity, Singapore is one of the most tech-savvy countries in the world.
 

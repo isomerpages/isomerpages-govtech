@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/diversity-and-equality-in-tech-part-1.png"
 ---
 
-![Diversity and Equality in Tech]({{site.baseurl}}/images/technews/diversity-and-equality-in-tech-part-1.png)
+![Diversity and Equality in Tech](/images/technews/diversity-and-equality-in-tech-part-1.png)
 
 Flashback to 2014.
 

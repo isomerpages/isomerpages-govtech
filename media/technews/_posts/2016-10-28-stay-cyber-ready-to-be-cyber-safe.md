@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png"
 ---
 
-![stay cyber ready to be cyber safe]({{site.baseurl}}/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png)
+![stay cyber ready to be cyber safe](/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png)
 
 When was the last time you changed your email password?
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/space-for-innovation-part-1.png"
 ---
 
-![Space for innovation]({{site.baseurl}}/images/technews/space-for-innovation-part-1.png)
+![Space for innovation](/images/technews/space-for-innovation-part-1.png)
 
 Far above our heads floats a giant junkyard, made up of jettisoned rocket parts, damaged satellites and other assorted space debris.
 

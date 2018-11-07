@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/new-tech-on-the-cutting-edge-part-1.png"
 ---
 
-![new Tech on the cutting edge]({{site.baseurl}}/images/technews/new-tech-on-the-cutting-edge-part-1.png)
+![new Tech on the cutting edge](/images/technews/new-tech-on-the-cutting-edge-part-1.png)
 
 Soon, you could be seeing the seniors at your neighbourhood eldercare home breezily zooming about sans caregiver, thanks to a team of researchers who have designed a self-driving wheelchair.
 

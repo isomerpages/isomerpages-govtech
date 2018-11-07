@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![cyber criminals are using social engineering to find victims]({{site.baseurl}}/images/technews/cyber-criminals-are-using-social-engineering-to-find-victims-part-11.jpg)
+![cyber criminals are using social engineering to find victims](/images/technews/cyber-criminals-are-using-social-engineering-to-find-victims-part-1.jpg)
 
 It is no secret that cyber-attackers are getting better at what they do. 
 

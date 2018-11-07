@@ -3,10 +3,10 @@ layout: post
 title:  "Why kids should consider Coding"
 permalink: "/media/technews/why-kids-should-consider-coding"
 category: technews
-image: "/images/technews/why-kids-should-consider-coding-part-1.png"
+image: "/images/technews/why-kids-should-consider-coding-part-1.jpg"
 ---
 
-![Why kids should consider Coding]({{site.baseurl}}/images/technews/why-kids-should-consider-coding-part-1.png)
+![Why kids should consider Coding](/images/technews/why-kids-should-consider-coding-part-1.jpg)
 
 “Everyone should learn how to program a computer, because it teaches you how to think.”
 

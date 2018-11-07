@@ -14,7 +14,7 @@ To enable the Government to be more integrated and responsive in our strategy an
 
 Collectively, the SNDGO and GovTech will form the **Smart Nation and Digital Government Group (SNDGG)** in the Prime Minister’s Office. Figure 1 [below] illustrates these organisational changes.
 
-![Smart Nation Govtech]({{"/images/media-release/smart-nation-govtech.jpg" | absolute_url}})
+![Smart Nation Govtech](/images/media-release/smart-nation-govtech.jpg)
 <sub>*Figure 1: Organisational chart for Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office*</sub>
 
 The SNDGG shall be responsible for the following:

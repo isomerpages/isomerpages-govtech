@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/stepping-up-to-the-healthy-challenge-part-1.png"
 ---
 
-![stepping up to the healthy challenge]({{site.baseurl}}/images/technews/stepping-up-to-the-healthy-challenge-part-1.png)
+![stepping up to the healthy challenge](/images/technews/stepping-up-to-the-healthy-challenge-part-1.png)
 
 The Health Promotion Board’s (HPB) bold move to get Singaporeans to walk the talk about getting fit is well, working out.
 

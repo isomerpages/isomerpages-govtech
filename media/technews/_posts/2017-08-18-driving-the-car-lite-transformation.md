@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/driving-the-car-lite-transformation-part-1.png"
 ---
 
-![driving the car-lite transformation]({{site.baseurl}}/images/technews/driving-the-car-lite-transformation-part-1.png)
+![driving the car-lite transformation](/images/technews/driving-the-car-lite-transformation-part-1.png)
 
 For the Little Red Dot, size matters.
 

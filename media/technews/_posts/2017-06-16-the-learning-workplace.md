@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-learning-workplace-part-1.png"
 ---
 
-![The Learning Workplace]({{site.baseurl}}/images/technews/the-learning-workplace-part-1.png)
+![The Learning Workplace](/images/technews/the-learning-workplace-part-1.png)
 
 Contrary to what some students might think, learning doesn’t stop the moment you throw your cap in the air at your college graduation ceremony. Out in the real world, employees who want to stay relevant must keep abreast of new developments in their fields, and sometimes even branch out to learn new skills.
 

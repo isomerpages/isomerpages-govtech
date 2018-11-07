@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/5-things-to-know-about-arvr-part-1.png"
 ---
 
-![5 things to know about ar/vr]({{site.baseurl}}/images/technews/5-things-to-know-about-arvr-part-1.png)
+![5 things to know about ar/vr](/images/technews/5-things-to-know-about-arvr-part-1.png)
 
 Virtual reality (VR) and its increasingly popular cousin, augmented reality (AR), are two of the most popular tech trends today.
 

@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![from hong kong to hive]({{site.baseurl}}/images/technews/from-hong-kong-to-hive-part-1.jpg)
+![from hong kong to hive](/images/technews/from-hong-kong-to-hive-part-1.jpg)
 
 She came, she saw, and she concurred after visiting GovTech — that there were opportunities for technology exchanges and collaboration between Hong Kong and Singapore.
 

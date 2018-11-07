@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/brave-new-digital-world-part-1.png"
 ---
 
-![brave new digital world]({{site.baseurl}}/images/technews/brave-new-digital-world-part-1.png)
+![brave new digital world](/images/technews/brave-new-digital-world-part-1.png)
 
 We are now on the cusp of what many are calling the Fourth Industrial Revolution.
 

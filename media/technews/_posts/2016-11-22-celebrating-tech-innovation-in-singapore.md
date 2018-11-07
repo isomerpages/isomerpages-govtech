@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/celebrating-tech-innovation-in-singapore-part-1.png"
 ---
 
-![celebrating tech innovation in singapore]({{site.baseurl}}/images/technews/celebrating-tech-innovation-in-singapore-part-1.png)
+![celebrating tech innovation in singapore](/images/technews/celebrating-tech-innovation-in-singapore-part-1.png)
 
 Did you know that Kodak, once a leading photography and imaging technology company, was the first to develop a digital camera in 1975?
 

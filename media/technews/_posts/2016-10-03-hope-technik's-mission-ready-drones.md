@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/hope-technik's-mission-ready-drones-part-1.png"
 ---
 
-![hope technik's mission-ready drones]({{site.baseurl}}/images/technews/hope-technik's-mission-ready-drones-part-1.png)
+![hope technik's mission-ready drones](/images/technews/hope-technik's-mission-ready-drones-part-1.png)
 
 Many would agree that this year’s National Day Parade (NDP) was a sight to behold, with floating ‘buildings’, pyrotechnics and even a flying, glittering mythical creature.
 

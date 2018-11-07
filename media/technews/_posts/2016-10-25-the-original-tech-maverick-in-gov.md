@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-original-tech-maverick-in-gov-part-1.png"
 ---
 
-![The original Tech Maverick in Gov]({{site.baseurl}}/images/technews/the-original-tech-maverick-in-gov-part-1.png)
+![The original Tech Maverick in Gov](/images/technews/the-original-tech-maverick-in-gov-part-1.png)
 
 Mobile smartphones, desktops, laptops, notebooks and tablets represent a dizzying array of options for today’s savvy tech consumer.
 

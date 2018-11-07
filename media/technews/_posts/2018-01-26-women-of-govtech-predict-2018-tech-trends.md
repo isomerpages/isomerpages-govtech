@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![women of govtech predict tech trends]({{site.baseurl}}/images/technews/women-of-govtech-predict-2018-tech-trends-part-1.jpg)
+![women of govtech predict tech trends](/images/technews/women-of-govtech-predict-2018-tech-trends-part-1.jpg)
 
 GovTech is the Singapore government’s specialist technology agency with capabilities in: applications development, data science and artificial intelligence (AI), Internet of Things (IoT) and sensors, and cybersecurity. 
 

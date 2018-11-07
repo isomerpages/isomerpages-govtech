@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/chatty-champions-part-1.png"
 ---
 
-![Chatty champions]({{site.baseurl}}/images/technews/chatty-champions-part-1.png)
+![Chatty champions](/images/technews/chatty-champions-part-1.png)
 
 There's no doubt Government websites can be made more personal.
 

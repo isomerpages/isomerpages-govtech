@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/young-tech-talents-meet-real-world-challenges-part-1.png"
 ---
 
-![Young tech talents, meet real-world challenges!]({{site.baseurl}}/images/technews/young-tech-talents-meet-real-world-challenges-part-1.png)
+![Young tech talents, meet real-world challenges!](/images/technews/young-tech-talents-meet-real-world-challenges-part-1.png)
 
 Julian Kang, 17, is a first-year student at Singapore Polytechnic who lives and breathes tech.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-1.png"
 ---
 
-![An inclusive Smart Nation: 5 ways tech can empower persons with special needs]({{site.baseurl}}/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-1.png)
+![An inclusive Smart Nation: 5 ways tech can empower persons with special needs](/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-1.png)
 
 TL:DR: The benefits of Smart Nation should extend to all segments of society, even those with disabilities. Technologies that assist in communication and mobility are highly valued by persons with disabilities. Digital applications and the Internet of Things developed for a Smart Nation can be adapted to improve the lives of those with disabilities.
 
@@ -29,7 +29,7 @@ Where the human voice fails, writing and text-to-speech converters can help brid
 
 The TouchChat application on iPhones and iPads is an example of an AAC. It helps persons with speech impairments spell out and construct sentences by combining different symbols. A voice then reads out the message once it has been composed. Think of this as a translator or a spokesperson, helping to relay messages and broker conversations in an intuitive manner.
 
-![8 insights from singapore’s government chief information officer]({{site.baseurl}}/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-2.png)
+![8 insights from singapore’s government chief information officer](/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-2.png)
 
 ### **An eye for detail**
 Sometimes, diseases can strip a person of mobility as well as speech. For example, stroke survivors or patients who have motor neuron disease could be mentally aware but unable to communicate in any manner, apart from blinking and gazing with their eyes. With technology, these tiny movements are sufficient to open a window into an individual’s mind.
@@ -48,7 +48,7 @@ The Assistive Devices Centre run by the Singapore Association for the Visually H
 
 ### **Getting around**
 
-![8 insights from singapore’s government chief information officer]({{site.baseurl}}/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-3.png)
+![8 insights from singapore’s government chief information officer](/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-3.png)
 
 Personal mobility devices such as bicycles and electronic scooters may generate buzz in terms of urban mobility in a Smart Nation, but for those who are unable to walk, the wheelchair is the most important personal mobility device of all. However, those with upper and lower limb limitations may struggle to use manual or even powered wheelchairs.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-transformation-part-1.png"
 ---
 
-![smart nation transformation!]({{site.baseurl}}/images/technews/smart-nation-transformation-part-1.png)
+![smart nation transformation!](/images/technews/smart-nation-transformation-part-1.png)
 
 The digitalisation of urban life is in now full swing.
 

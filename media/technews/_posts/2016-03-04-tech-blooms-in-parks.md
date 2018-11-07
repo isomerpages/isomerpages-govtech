@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/tech-blooms-in-parks-part-1.png"
 ---
 
-![Tech blooms in Parks]({{site.baseurl}}/images/technews/tech-blooms-in-parks-part-1.png)
+![Tech blooms in Parks](/images/technews/tech-blooms-in-parks-part-1.png)
 
 ### **At A Glance:** 
 *	Cutting-edge tech helps NParks to manage 1.5 million trees, over 350 parks and 2,300 hectares of public greenery. 

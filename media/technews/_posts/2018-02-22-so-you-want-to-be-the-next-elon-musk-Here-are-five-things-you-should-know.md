@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/so-you-want-to-be-the-next-elon-musk-Here-are-five-things-you-should-know-part-1.png"
 ---
 
-![So you want to be the next Elon Musk? Here are five things you should know]({{site.baseurl}}/images/technews/so-you-want-to-be-the-next-elon-musk-Here-are-five-things-you-should-know-part-1.png)
+![So you want to be the next Elon Musk? Here are five things you should know](/images/technews/so-you-want-to-be-the-next-elon-musk-Here-are-five-things-you-should-know-part-1.png)
 
 
 * *Once dominated by large government space agencies, space tech is no longer a pipe dream for smaller players, said astropreneurs at SGInnovate’s Space Startup Night*

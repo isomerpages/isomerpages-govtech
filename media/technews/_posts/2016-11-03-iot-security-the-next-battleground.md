@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/iot-security-the-next-battleground-part-1.png"
 ---
 
-![IoT Security: The next battleground]({{site.baseurl}}/images/technews/iot-security-the-next-battleground-part-1.png)
+![IoT Security: The next battleground](/images/technews/iot-security-the-next-battleground-part-1.png)
 
 With Singapore’s push to become a Smart Nation, the Internet will soon permeate every corner of our everyday environments, said Dr Janil Puthucheary, Minister of State, Ministry of Communications and Information.
 

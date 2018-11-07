@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-tech-garden-city-part-1.png"
 ---
 
-![smart tech garden city]({{site.baseurl}}/images/technews/smart-tech-garden-city-part-1.png)
+![smart tech garden city](/images/technews/smart-tech-garden-city-part-1.png)
 
 Singapore may be a city state, but it is certainly far from being a concrete jungle.
 

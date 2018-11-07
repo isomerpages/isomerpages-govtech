@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/robots-at-your-service-part-1.png"
 ---
 
-![Robots at your service]({{site.baseurl}}/images/technews/robots-at-your-service-part-1.png)
+![Robots at your service](/images/technews/robots-at-your-service-part-1.png)
 
 In the healthcare facility of the future, humans will be so accustomed to robots that both will 'walk' side by side without so much as a second glance.
 

@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/cybersecurity-a-concentric-approach-part-1.png"
 ---
 
-![cybersecurity: a concentric approach]({{site.baseurl}}/images/technews/cybersecurity-a-concentric-approach-part-1.png)
+![cybersecurity: a concentric approach](/images/technews/cybersecurity-a-concentric-approach-part-1.png)
 
 “You can’t do that!”, she exclaims.
 

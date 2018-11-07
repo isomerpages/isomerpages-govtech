@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/a-wiz-at-data-viz-part-1.png"
 ---
 
-![A Wiz at Data Viz? Join the Challenge!]({{site.baseurl}}/images/technews/a-wiz-at-data-viz-part-1.png)
+![A Wiz at Data Viz? Join the Challenge!](/images/technews/a-wiz-at-data-viz-part-1.png)
 
 Data, data, everywhere — and too much for us to think.
 

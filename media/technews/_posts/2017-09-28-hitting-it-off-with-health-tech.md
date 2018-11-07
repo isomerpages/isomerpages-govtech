@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/hitting-it-off-with-health-tech-part-1.png"
 ---
 
-![hit-ting it off with health tech]({{site.baseurl}}/images/technews/hitting-it-off-with-health-tech-part-1.png)
+![hit-ting it off with health tech](/images/technews/hitting-it-off-with-health-tech-part-1.png)
 
 Technologies such as robotic surgery and artificial intelligence-based diagnostics look set to revolutionise the practice of medicine. 
 

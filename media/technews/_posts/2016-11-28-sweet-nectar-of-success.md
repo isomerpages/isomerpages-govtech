@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/sweet-nectar-of-success-part-1.png"
 ---
 
-![Sweet Nectar of success]({{site.baseurl}}/images/technews/sweet-nectar-of-success-part-1.png)
+![Sweet Nectar of success](/images/technews/sweet-nectar-of-success-part-1.png)
 
 It was a sweet victory for the Government Technology Agency (GovTech), as its Nectar project was one of two winners from Singapore in the recent 2016 Red Hat Innovation Awards.
 

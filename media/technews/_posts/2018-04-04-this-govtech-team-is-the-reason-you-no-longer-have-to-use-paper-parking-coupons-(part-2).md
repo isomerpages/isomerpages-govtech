@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png"
 ---
 
-![This govtech team is the reason you no longer have to use paper parking coupons (part 2)]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png)
+![This govtech team is the reason you no longer have to use paper parking coupons (part 2)](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png)
 
 * *Paper coupons be gone! Launched in October 2017, the Parking.sg mobile app now allows drivers in Singapore to pay for parking digitally* 
 
@@ -55,7 +55,7 @@ Almost there! Before launch, apps need to be polished to make sure that the user
 
 “When it comes to UX design, the less noticeable the better. You’re not trying to be a supermodel, you’re just trying to be pleasant-enough looking so that people aren’t turned off by you,” said Mr Li, adding that a lot of refinements were made to keep the UX for Parking.sg simple and understandable. 
  
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-2.png)
+![5 ways to end singaporeans’ love affair with cash payments](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-2.png)
  
 As an app scales, production bugs inevitably crawl out of the woodwork; the team discovered and fixed a rare ‘double-parking bug’ which would charge users twice for the same session. “This happened for the first time only after we reached 50,000 parking sessions,” said Mr Li. “These are rare bugs, which is why you need to scale incrementally rather than all at once.”
 
@@ -70,4 +70,4 @@ Since its launch in October 2017, Parking.sg has logged more than [two million p
 
 For the Parking.sg team, a successful launch was not the be-all and end-all of the project. “We’re trying to help improve the lives of citizens. It’s not about getting the project launched, or even about celebrating technology; it’s about using technology as one of myriad ways of helping to improve the public service,” said Mr Li.  
 
-![5 ways to end singaporeans’ love affair with cash payments]({{site.baseurl}}/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-3.png)
+![5 ways to end singaporeans’ love affair with cash payments](/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-3.png)

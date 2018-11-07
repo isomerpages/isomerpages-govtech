@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png"
 ---
 
-![What We can do about Cyber Security in Singapore]({{site.baseurl}}/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png)
+![What We can do about Cyber Security in Singapore](/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png)
 
 Singapore’s Smart Nation vision will bring all of us to the forefront of 21st century living – better lives for our citizens, more opportunities, and building stronger communities. 
 

@@ -30,7 +30,9 @@ The app will be progressively updated with new features to make it a one-stop to
 
 **Annex B : SingPass Mobile Videos**
 What is SingPass Mobile?
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDrqT64ydd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 

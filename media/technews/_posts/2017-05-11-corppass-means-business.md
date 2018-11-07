@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/corppass-means-business-part-1.png"
 ---
 
-![CorpPass means business]({{site.baseurl}}/images/technews/corppass-means-business-part-1.png)
+![CorpPass means business](/images/technews/corppass-means-business-part-1.png)
 
 If you run a business, you might at the moment be using multiple digital identities—such as SingPass and EASY—to access various services on government websites.
 

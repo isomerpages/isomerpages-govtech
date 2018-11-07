@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/it’s-the-fourth-industrial-revolution-do-you-know-where-your-jobs-are-at-part-1.png"
 ---
 
-![it’s the fourth industrial revolution. do you know where your jobs are at?]({{site.baseurl}}/images/technews/it’s-the-fourth-industrial-revolution-do-you-know-where-your-jobs-are-at-part-1.png)
+![it’s the fourth industrial revolution. do you know where your jobs are at?](/images/technews/it’s-the-fourth-industrial-revolution-do-you-know-where-your-jobs-are-at-park-1.png)
 
 * Societies and individuals must start preparing for the changing nature of work 
 * High-tech, high-touch and high-trust jobs are less susceptible to automation; people in these vocations, however, still stand to benefit from the use of technology 

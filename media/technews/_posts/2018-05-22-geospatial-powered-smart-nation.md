@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/geospatial-powered-smart-nation-part-1.png"
 ---
 
-![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-1.png)
+![Geospatial-Powered Smart Nation](/images/technews/geospatial-powered-smart-nation-part-1.png)
 
 **A team of geospatial specialists in GovTech is changing the geospatial technology landscape of Singapore**
 
@@ -23,7 +23,7 @@ Geospatial analytics helps give deeper evidence-based insights at both macro and
 **"When you look at Excel worksheets, tabular data or charts for example, you can't make sense of the raw data.  But the moment you geotag it and see it on a map, it's a totally different picture.
 The possibilities are endless – you can see patterns, trends, concentrations, and much more."**
 
-![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-2.png)
+![Geospatial-Powered Smart Nation](/images/technews/geospatial-powered-smart-nation-part-2.png)
 
 *Team members are attached to various Government agencies, lending their geospatial expertise through map-based projects such as the One Service system and intranet-based platform Geospace.*
 
@@ -50,7 +50,7 @@ Geoexcel is one of them. Two years ago, the geospatial team observed that many g
 
 All they need are basic columns such as postal codes or longitude and latitude coordinates, along with age, gender and more.
 
-![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-3.png)
+![Geospatial-Powered Smart Nation](/images/technews/geospatial-powered-smart-nation-part-3.png)
 
 *The geospatial team took the initiative to build Geoexcel for agencies to geotag their Excel information. 
 The simple plugin gained traction quickly and have garnered "a few thousand" downloads to date.*
@@ -60,7 +60,7 @@ The plugin is nothing fancy, but that was the team's intention. "We developed it
 The tool grew so popular that at one time, they received 80 to 90 installation requests. To date, there are 35 agencies using the tool with "a few thousand" downloads so far, says Anupam. Quite a feat, considering the plugin was not initially on the cards. 
 
 ### **The Future of Geospatial**
-![Geospatial-Powered Smart Nation]({{site.baseurl}}/images/technews/geospatial-powered-smart-nation-part-4.png)
+![Geospatial-Powered Smart Nation](/images/technews/geospatial-powered-smart-nation-part-4.png)
 
 *The small but agile geospatial team sees an increase in demand for geospatial technology. Back row from L to R: Sia Jin Jun, Andy Tan and Chew Xunmao.
 Front row from L to R: Abhishek Tandon, Anupam Mukherjee and Elvia Willyono*
