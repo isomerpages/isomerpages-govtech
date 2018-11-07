@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/enthusiasm-for-technological-Innovation-a-must-for-smes-part-1.png"
 ---
 
-![Enthusiasm for Technological Innovation a Must for SMEs]({{site.baseurl}}/images/technews/enthusiasm-for-technological-Innovation-a-must-for-smes-part-1.png)
+![Enthusiasm for Technological Innovation a Must for SMEs](/images/technews/enthusiasm-for-technological-Innovation-a-must-for-smes-part-1.png)
 
 To cope with a fast-evolving business landscape, Singapore hopes to nurture an enthusiasm for technological innovation, according to Mr Tharman Shanmugaratnam, Deputy Prime Minister and Coordinating Minister for Economic and Social Policies. 
 
