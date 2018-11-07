@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-new-team-sport-of-data-science-part-1.png"
 ---
 
-![The new team sport of Data Science]({{site.baseurl}}/images/technews/the-new-team-sport-of-data-science-part-1.png)
+![The new team sport of Data Science](/images/technews/the-new-team-sport-of-data-science-part-1.png)
 
 It takes teamwork to win in football and basketball – and in data too.
 
