@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-people-smart-cities-part-1.png"
 ---
 
-![Smart People Smart Cities]({{site.baseurl}}/images/technews/smart-people-smart-cities-part-1.png)
+![Smart People Smart Cities](/images/technews/smart-people-smart-cities-part-1.png)
 
 Try to imagine just one day without your smart phone. What would you do on the bus or on the train?
 
