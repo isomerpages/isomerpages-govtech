@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-passion-of-data-driven-policy-part-1.png"
 ---
 
-![the passion of data-driven policy]({{site.baseurl}}/images/technews/the-passion-of-data-driven-policy-part-1.png)
+![the passion of data-driven policy](/images/technews/the-passion-of-data-driven-policy-part-1.png)
 
 In 1872, a man named George Smith made an astonishing discovery in the archives of the British Museum: A [Mesopotamian clay fragment](http://www.bbc.co.uk/ahistoryoftheworld/objects/GOe8Mt6vRdSNcg-yeivrEA), predating the Hebrew Old Testament by several centuries, which bore a cuneiform text account of the Great Flood.
 
