@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/lmake-innovative-leaps-by-harnessing-data-part-1.png"
 ---
 
-![Make innovative leaps by harnessing data]({{site.baseurl}}/images/technews/make-innovative-leaps-by-harnessing-data-part-1.png)
+![Make innovative leaps by harnessing data](/images/technews/make-innovative-leaps-by-harnessing-data-part-1.png)
 
 In this day and age, when the Internet of Things and cloud storage systems are taken for granted, it is incredible that we all still depend heavily on a service as outdated as email.
 
