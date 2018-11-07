@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/getting-ahead-in-the-cloud-part-1.png"
 ---
 
-![getting ahead in the cloud]({{site.baseurl}}/images/technews/getting-ahead-in-the-cloud-part-1.png)
+![getting ahead in the cloud](/images/technews/getting-ahead-in-the-cloud-part-1.png)
 
 In the not-so-distant past, if you needed to share a large dataset with colleagues or collaborators, you’d snail-mail them a hard drive with the information on it.
 
