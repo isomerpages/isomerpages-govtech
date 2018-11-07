@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/gov-apps-for-everyone-part-1.png"
 ---
 
-![Gov Apps for Everyone]({{site.baseurl}}/images/technews/gov-apps-for-everyone-part-1.png)
+![Gov Apps for Everyone](/images/technews/gov-apps-for-everyone-part-1.png)
 
 If the thought of transferring several times between train platforms or  buses at the interchange to complete your journey makes you sigh, help is at hand.
 
