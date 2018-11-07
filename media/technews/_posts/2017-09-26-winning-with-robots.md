@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-![winning with robots]({{site.baseurl}}/images/technews/winning-with-robots-part-1.jpg)
+![winning with robots](/images/technews/winning-with-robots-part-1.jpg)
 
 As the alarm blasts, six robots rev up their engines and start across the grassy terrain.
 
