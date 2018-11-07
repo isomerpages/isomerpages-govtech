@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/digital-realm-of-engineering-marvels-part-1.png"
 ---
 
-![Digital Realm of Engineering Marvels]({{site.baseurl}}/images/technews/digital-realm-of-engineering-marvels-part-1.png)
+![Digital Realm of Engineering Marvels](/images/technews/digital-realm-of-engineering-marvels-part-1.png)
 
 Obvious fact#1: Singapore’s skyline is in a constant state of flux.
 
