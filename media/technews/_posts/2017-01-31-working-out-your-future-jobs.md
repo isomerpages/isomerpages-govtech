@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/working-out-your-future-jobs-part-1.png"
 ---
 
-![working out your future jobs]({{site.baseurl}}/images/technews/working-out-your-future-jobs-part-1.png)
+![working out your future jobs](/images/technews/working-out-your-future-jobs-part-1.png)
 
 The times, they are a-changin’.
 
