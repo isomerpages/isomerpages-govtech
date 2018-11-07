@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/smart-nation-big-on-big-data-part-1.png"
 ---
 
-![Smart Nation Big on Big Data]({{site.baseurl}}/images/technews/smart-nation-big-on-big-data-part-1.png)
+![Smart Nation Big on Big Data](/images/technews/smart-nation-big-on-big-data-part-1.png)
 
 What can the number of people exiting an MRT station, or the number of taxi drop-offs in the CBD during peak hours, tell us about Singapore’s economic health?
 
