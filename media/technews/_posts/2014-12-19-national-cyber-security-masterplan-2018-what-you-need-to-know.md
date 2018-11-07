@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png"
 ---
 
-![National Cyber Security Masterplan 2018: What you need to know]({{site.baseurl}}/images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png)
+![National Cyber Security Masterplan 2018: What you need to know](/images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png)
 
 The vision of the five-year National Cyber Security Masterplan 2018 is for Singapore to be a “Trusted and Robust Infocomm Hub”. It aims to engender a secure and resilient infocomm environment and a vibrant cybersecurity ecosystem. Developed through a multi-agency effort led by the Infocomm Development Authority of Singapore (IDA) under the guidance of the National Infocomm Security Committee, the masterplan focuses on three key areas.
 
