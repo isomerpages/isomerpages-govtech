@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png"
 ---
 
-![A Smart Campus to Serve Students and Staff]({{site.baseurl}}/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png)
+![A Smart Campus to Serve Students and Staff](/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png)
 
 An engineering student walks into the library and is notified about a new book related to his course. He also finds out, via a mobile app, where the less crowded spaces are within the library, — just in case he needs a cozy quiet corner to study.
 
