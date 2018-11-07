@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/demystifying-ai-and-big-data-part-1.png"
 ---
 
-![demystifying AI and big data]({{site.baseurl}}/images/technews/demystifying-ai-and-big-data-part-1.png)
+![demystifying AI and big data](/images/technews/demystifying-ai-and-big-data-part-1.png)
 
 Artificial intelligence (AI), deep learning and big data analytics are the tech world’s current buzzwords.
 
