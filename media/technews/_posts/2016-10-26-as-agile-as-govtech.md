@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/as-agile-as-govtech-part-1.png"
 ---
 
-![as agile as govtech]({{site.baseurl}}/images/technews/as-agile-as-govtech-part-1.png)
+![as agile as govtech](/images/technews/as-agile-as-govtech-part-1.png)
 
 Superheroes were everywhere at the Agile Singapore Conference.
 
