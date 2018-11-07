@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/driving-the-autonomous-revolution-part-1.png"
 ---
 
-![Driving the autonomous revolution]({{site.baseurl}}/images/technews/driving-the-autonomous-revolution-part-1.png)
+![Driving the autonomous revolution](/images/technews/driving-the-autonomous-revolution-part-1.png)
 
 When Henry Ford’s mass-manufactured cars — the famous Model T — first rolled out onto American roads in 1908, they set into motion the wheels of a land transport revolution.
 
