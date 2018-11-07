@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/assistive-tech-an-enabling-force-part-1.png"
 ---
 
-![Assistive Tech an enabling force]({{site.baseurl}}/images/technews/assistive-tech-an-enabling-force-part-1.png)
+![Assistive Tech an enabling force](/images/technews/assistive-tech-an-enabling-force-part-1.png)
 
 More people with disabilities, students from low-income families and Voluntary Welfare Organisations (VWOs) will have easier access to computers, smart gadgets and broadband connectivity, allowing them to tap the benefits of assistive technology.
 
