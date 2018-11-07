@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/no-phishing-on-sundaes-part-1.png"
 ---
 
-![No Phishing on Sundaes]({{site.baseurl}}/images/technews/no-phishing-on-sundaes-part-1.png)
+![No Phishing on Sundaes](/images/technews/no-phishing-on-sundaes-part-1.png)
 
 What is a surefire way to identify phishing attempts?
 
