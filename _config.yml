@@ -55,7 +55,7 @@ paginate: 12
 paginate_path: "/media/page:num"
 
 # Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+feedback_form_url: "https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e"
 
 # Site configuration for Blueprint
 ##################################
