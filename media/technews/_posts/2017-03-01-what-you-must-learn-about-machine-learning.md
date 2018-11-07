@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/what-you-must-learn-about-machine-learning-part-1.png"
 ---
 
-![what you must learn about machine learning]({{site.baseurl}}/images/technews/what-you-must-learn-about-machine-learning-part-1.png)
+![what you must learn about machine learning](/images/technews/what-you-must-learn-about-machine-learning-part-1.png)
 
 To the uninitiated, machine learning — getting computers to act without being explicitly programmed — may sound like science-fiction.
 
