@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/running-fast-running-slow-part-1.png"
 ---
 
-![Running fast, running slow]({{site.baseurl}}/images/technews/running-fast-running-slow-part-1.png)
+![Running fast, running slow](/images/technews/running-fast-running-slow-part-1.png)
 
 Imagine a property developer adding new facilities to an old office building.
 
