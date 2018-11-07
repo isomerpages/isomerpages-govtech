@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/in-a-tech-driven-economy-smes-need-to-get-comfy-with-intellectual-property-part-1.png"
 ---
 
-![In a tech-driven economy, SMEs need to get comfy with intellectual property]({{site.baseurl}}/images/technews/in-a-tech-driven-economy-smes-need-to-get-comfy-with-intellectual-property-part-1.png)
+![In a tech-driven economy, SMEs need to get comfy with intellectual property](/images/technews/in-a-tech-driven-economy-smes-need-to-get-comfy-with-intellectual-property-part-1.png)
 
 * *SMEs shouldn’t be afraid of IP-related issues; patents can protect their technology and bring in business opportunities*
 * *Innovation must be market-driven, sustainable and relevant*
