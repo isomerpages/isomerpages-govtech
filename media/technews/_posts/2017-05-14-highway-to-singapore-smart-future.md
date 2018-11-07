@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/highway-to-singapore-smart-future-part-1.png"
 ---
 
-![highway to singapore's smart future]({{site.baseurl}}/images/technews/highway-to-singapore-smart-future-part-1.png)
+![highway to singapore's smart future](/images/technews/highway-to-singapore-smart-future-part-1.png)
 
 Governments across the globe are rolling out strategic plans to build smart cities that harness the power of the digital future. From intelligent street lighting to connected cars, smart cities are already inching their way to reality today and inadvertently putting a strain on data networks.
 
