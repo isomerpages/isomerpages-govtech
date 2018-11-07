@@ -12,7 +12,7 @@ Today’s government digital services are held to the highest standards by users
 
 ![Organisational chart for Smart Nation and Digital Governance Group (SNDGG) in the Prime Minister Office (PMO)]({{ "/images/our-role/our-role-image.png" | absolute_url }})
 
-###### <center>Organisational chart for Smart Nation and Digital Governance Group (SNDGG) in the Prime Minister Office</center>
+###### <center>Organisational chart for Smart Nation and Digital Government Group (SNDGG) in the Prime Minister Office</center>
 
 This is a timely development, as the digital age is now under way. Digital technologies are acting as agents for change in everything from business to government, disrupting established industries and giving rise to new companies that dominate their fields.
 
