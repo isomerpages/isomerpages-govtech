@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/growing-innovation-smarts-part-1.png"
 ---
 
-![Growing Innovation Smarts]({{site.baseurl}}/images/technews/growing-innovation-smarts-part-1.png)
+![Growing Innovation Smarts](/images/technews/growing-innovation-smarts-part-1.png)
 
 The process of taking a technology from laboratory to market — a gap so fraught with pitfalls that some have dubbed it the ‘Valley of Death’ — is daunting to many academics who have no prior business experience.
 
