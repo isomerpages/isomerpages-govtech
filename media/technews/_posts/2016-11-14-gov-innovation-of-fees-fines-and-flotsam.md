@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/gov-innovation-of-fees-fines-and-flotsam-part-1.png"
 ---
 
-![Gov Innovation: Of fees, fines and flotsam]({{site.baseurl}}/images/technews/gov-innovation-of-fees-fines-and-flotsam-part-1.png)
+![Gov Innovation: Of fees, fines and flotsam](/images/technews/gov-innovation-of-fees-fines-and-flotsam-part-1.png)
 
 Singapore’s public agencies walked away with four top awards in the recent GovInsider Innovation Awards 2016.
 
