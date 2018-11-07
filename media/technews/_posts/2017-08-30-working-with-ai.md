@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/working-with-ai-part-1.png"
 ---
 
-![Working with AI]({{site.baseurl}}/images/technews/working-with-ai-part-1.png)
+![Working with AI](/images/technews/working-with-ai-part-1.png)
 
 Compute these sobering statistics: By 2025, [smart robots could replace](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/04/employees-an-endangered-species.pdf) more than 100 million knowledge workers — a third of the world’s jobs.
 
