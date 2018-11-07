@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/taxbook-example-of-a-hackathon-part-1.png"
 ---
 
-![Taxbook Example of a Hackathon]({{site.baseurl}}/images/technews/taxbook-example-of-a-hackathon-part-1.png)
+![Taxbook Example of a Hackathon](/images/technews/taxbook-example-of-a-hackathon-part-1.png)
 
 While hackathons have become a widely accepted way for organisations to crowdsource new apps or come up with meaningful solutions, it is also a relatively new way of fostering community collaboration — where individuals from within and outside an organisation come together to brainstorm solutions to common challenges. 
 
