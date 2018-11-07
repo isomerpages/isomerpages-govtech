@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/blockchain-beyond-cryptocurrencies-part-1.png"
 ---
 
-![blockchain beyond cryptocurrencies]({{site.baseurl}}/images/technews/blockchain-beyond-cryptocurrencies-part-1.png)
+![blockchain beyond cryptocurrencies](/images/technews/blockchain-beyond-cryptocurrencies-part-1.png)
 
 While the values of cryptocurrencies such as Bitcoin and Ethereum have been on a rollercoaster ride of late, the value of blockchains — the enabling technology upholding the existence of cryptocurrencies — is on a steady incline.
 
