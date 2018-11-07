@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/driverless-future-standard-on--track-part-1.png"
 ---
 
-![Driverless Future Standard on Track]({{site.baseurl}}/images/technews/driverless-future-standard-on--track-part-1.png)
+![Driverless Future Standard on Track](/images/technews/driverless-future-standard-on--track-part-1.png)
 
 The first and last miles are the longest of any journey — especially in Singapore's sticky humidity slash relentless heavy rain. 
 
