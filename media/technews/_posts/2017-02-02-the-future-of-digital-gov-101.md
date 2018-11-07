@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-future-of-digital-gov-101-part-1.png"
 ---
 
-![The Future of Digital Gov 101]({{site.baseurl}}/images/technews/the-future-of-digital-gov-101-part-1.png)
+![The Future of Digital Gov 101](/images/technews/the-future-of-digital-gov-101-part-1.png)
 
 [Singapore, 2050: Welcome to the first Digital Government lesson]
 
