@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png"
 ---
 
-![Security in the realm of Cloud, AI and Voice]({{site.baseurl}}/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png)
+![Security in the realm of Cloud, AI and Voice](/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png)
 
 Traditionally, security was simply about keeping ‘outside’ people out. We put up fences and locked our doors to prevent any unauthorized entry.
 
