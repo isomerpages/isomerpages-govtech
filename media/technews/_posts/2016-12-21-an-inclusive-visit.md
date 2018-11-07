@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/an-inclusive-visit-part-1.png"
 ---
 
-![an inclusive visit]({{site.baseurl}}/images/technews/an-inclusive-visit-part-1.png)
+![an inclusive visit](/images/technews/an-inclusive-visit-part-1.png)
 
 “Is this really a Government office?” Minister Tan Chuan-Jin quipped as he stepped into GovTech’s Hive office, home to the Government Digital Services (GDS) team.
 
