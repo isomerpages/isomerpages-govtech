@@ -41,6 +41,10 @@ There are two ways to do this, according to Mr Hohpe. The first is to reduce the
 
 Mr Hohpe echoed this point, advising the audience to “move fast, frequently deploy your software and get feedback from users.” Then rinse and repeat.
 
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=yCvtC3pAW3w&index=1&list=PLEpmxnWUCorkDKYZsOR3RnFDwIBsNYGNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ### **The price is right**
 
 Another critical benefit of building applications on cloud-based infrastructure is the flexibility of scaling and pricing. In the past, developers would have had to budget in (at the outset) all the capabilities that would go into a software or operating system. Development costs could therefore add up to a daunting amount of money. Now, with the dynamic pricing framework of the cloud, developers can create, test and implement individual software features at a low cost, then pay more to scale up only useful features.
