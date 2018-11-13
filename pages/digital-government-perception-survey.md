@@ -17,7 +17,7 @@ breadcrumb: Digital Government Perception Survey
 * 2009
 
 
-### Annual Digital Government Perception Survey (Business) Conducted in 2017
+### Annual Digital Government Perception Survey (Business)
 
 * 2017
 * 2016
