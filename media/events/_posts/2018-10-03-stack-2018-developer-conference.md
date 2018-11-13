@@ -5,6 +5,8 @@ permalink: "/media/events/stack-2018-developer-conference"
 category: events
 ---
 
+![STACK banner](/images/media/events/1.jpeg)
+
 STACK is the Government Technology Agency’s (GovTech) first-ever developer conference for developers, programmers and technologists from the public and private sectors.
 
 Held at Suntec Singapore Convention and Exhibition Centre from 2-3 October 2018, STACK is a platform for innovators and tech geeks to learn about, share knowledge and try out some of the latest digital products and innovations that the Singapore Government is working on.

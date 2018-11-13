@@ -42,7 +42,7 @@ There are two ways to do this, according to Mr Hohpe. The first is to reduce the
 Mr Hohpe echoed this point, advising the audience to “move fast, frequently deploy your software and get feedback from users.” Then rinse and repeat.
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=yCvtC3pAW3w&index=1&list=PLEpmxnWUCorkDKYZsOR3RnFDwIBsNYGNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yCvtC3pAW3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### **The price is right**
