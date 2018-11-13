@@ -14,8 +14,7 @@ breadcrumb: Digital Government Perception Survey
 * [2012](/digital-government-perception-survey-citizen-2012){:target="_blank"}
 * [2011](/digital-government-perception-survey-citizen-2011){:target="_blank"}
 * [2010](/digital-government-perception-survey-citizen-2010){:target="_blank"}
-* [2009](/digital-government-perception-survey-citizen-2009){:target="_blank"}
-* [2008](/digital-government-perception-survey-citizen-2008){:target="_blank"}
+* [2009 and 2008](/digital-government-perception-survey-citizen-2008-and-2009){:target="_blank"}
 * [2007](/digital-government-perception-survey-citizen-2007){:target="_blank"}
 * [2006](/digital-government-perception-survey-citizen-2006){:target="_blank"}
 
