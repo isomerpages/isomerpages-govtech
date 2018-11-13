@@ -6,7 +6,7 @@ breadcrumb: Digital Government Perception Survey
 ---
 
 ### Annual Digital Government Perception Survey (Citizen)
-* [2017](/pages/2017-01-01-digital-government-perception-survey-business-2017.md){:target="_blank"} 
+* [2017](/digital-government-perception-survey-citizen-2017){:target="_blank"} 
 * 2016
 * 2015
 * 2014
