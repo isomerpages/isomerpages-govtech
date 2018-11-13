@@ -43,4 +43,4 @@ The survey was conducted from October to December 2017 for the reporting period 
 
 **Past Years' Digital Government Perception Survey Results**
 
-Please refer to the following [link](/media/facts-and-figures/) for past years' results.
+Please refer to the following [link](/digital-government-perception-survey/){:target="_blank"} for past years' results.
