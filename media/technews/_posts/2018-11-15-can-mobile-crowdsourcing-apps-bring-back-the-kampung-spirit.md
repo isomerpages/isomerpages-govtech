@@ -46,6 +46,6 @@ This will allow users of HelpBuddy to leverage OneService App’s 150,000 users 
 
 ### **About TRANS Grant**
 
-This work is funded under the Translational R&D Initiative (TRANS Grant), which taps on the research community to solve public sector challenges with innovative use of digital technology. This funding initiative is in support of Singapore’s Smart Nation and Digital Government drive, and is jointly managed by the Government Technology Agency of Singapore (GovTech) and the National Research Foundation (NRF).
+This work is funded under the Translational R&D Initiative [(TRANS Grant)](https://www.tech.gov.sg/products-and-services/trans-grant/), which taps on the research community to solve public sector challenges with innovative use of digital technology. This funding initiative is in support of Singapore’s Smart Nation and Digital Government drive, and is jointly managed by the Government Technology Agency of Singapore (GovTech) and the National Research Foundation (NRF).
 
 Keen to find out more about the innovation and collaboration opportunities under TRANS Grant? Please write to GovTech, Applied innovation and Partnership (AIP) at:  innovate@tech.gov.sg 
