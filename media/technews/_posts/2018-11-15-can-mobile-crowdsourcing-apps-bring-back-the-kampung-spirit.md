@@ -24,6 +24,8 @@ Government agencies would put up location-specific tasks on the app, and citizen
 
 But the HelpBuddy developers soon had a better idea. Rather than only allowing government agencies to list tasks on the app, why not let citizens do the same and seek help from their neighbours? Hence, the Citizen-to-Citizen section of the app was born, serving as a tool for neighbours to connect with one another. “That builds community spirit, which was not what we had explicitly intended when we started on this journey,” said Professor Misra.
 
+![Prof Misra on Help Buddy](/images/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit-part2.png)
+
 ## **Three ways to help**
 
 For the beta trial, the project team developed three types of Citizen-to-Citizen tasks that can be posted and fulfilled on HelpBuddy. The first type encourages the sharing of items. Instead of buying household appliances or tools that may be used only occasionally, citizens can borrow them from people within their community. This not only saves money, but also encourages more frequent interaction among neighbours.
