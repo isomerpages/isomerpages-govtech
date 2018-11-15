@@ -16,7 +16,7 @@ Things weren’t always this way. In the 1960s, nearly three-quarters of Singapo
 
 Seeking to revive the kampung spirit, researchers at Singapore Management University (SMU), working with the Municipal Services Office (MSO), have developed and released a mobile crowdsourcing app called HelpBuddy for beta trial.
 
-##**Many hands make light work** 
+### **Many hands make light work** 
 
 Originally, HelpBuddy was designed as an app to mobilise communities to take charge of their living environment. When SMU first started working on HelpBuddy with MSO, the vision was more about promoting active citizenry with a focus on Government-to-Citizen related tasks such as the checking of state land and the condition of heritage markers, said Professor Archan Misra of SMU. He was speaking at the InnoLeap X TRANS Grant sharing day on 26 October 2018, which brought together researchers, government agencies and the industry to learn about the projects and opportunities made possible by the TRANS Grant funding initiative.
 
@@ -26,7 +26,7 @@ But the HelpBuddy developers soon had a better idea. Rather than only allowing g
 
 ![Prof Misra on Help Buddy](/images/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit-part2.png)
 
-##**Three ways to help**
+### **Three ways to help**
 
 For the beta trial, the project team developed three types of Citizen-to-Citizen tasks that can be posted and fulfilled on HelpBuddy. The first type encourages the sharing of items. Instead of buying household appliances or tools that may be used only occasionally, citizens can borrow them from people within their community. This not only saves money, but also encourages more frequent interaction among neighbours.
 
@@ -36,7 +36,7 @@ The second type of task involves crowdsourcing for voluntary medical escorts who
 
 Finally, dog owners will be happy to know that HelpBuddy allows mobile crowdsourcing to recruit a neighbourhood’s residents to help search for their missing pet dogs. “We may be extending it to cats in the future. We don’t look for tarantulas and snakes, though,” Mr Hardi joked.
 
-## **The return of the kampung spirit?**
+### **The return of the kampung spirit?**
 
 If all goes well, the various functions of HelpBuddy would eventually be integrated with MSO’s existing OneService App.   
 
@@ -44,7 +44,7 @@ This will allow users of HelpBuddy to leverage OneService App’s 150,000 users 
 
 “These mobile crowdsourcing capabilities serve not only the Smart Nation agenda, but also the desire to improve volunteerism in our communities,” Mr Hardi concluded. 
 
-## **About TRANS Grant**
+### **About TRANS Grant**
 
 This work is funded under the Translational R&D Initiative (TRANS Grant), which taps on the research community to solve public sector challenges with innovative use of digital technology. This funding initiative is in support of Singapore’s Smart Nation and Digital Government drive, and is jointly managed by the Government Technology Agency of Singapore (GovTech) and the National Research Foundation (NRF).
 
