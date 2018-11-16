@@ -3,4 +3,4 @@ layout: homepage
 title: Government Technology Agency
 permalink: /
 ---
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
+Empowering our nation through technology. From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure,GovTech uses technology to improve the lives of everyone in Singapore.
