@@ -8,7 +8,7 @@ image: "/images/technews/small-city-big win-singapore-named-smart-city-of-2018-p
 
 ![Small city, big win: Singapore named Smart City of 2018](/images/technews/small-city-big win-singapore-named-smart-city-of-2018-part-2.png)
 
-TL:DR: 20,000 visitors, representing more than 700 cities across 120 countries, attended the Smart City Expo World Congress 2018 in Barcelona, Spain. Singapore received the City Award at the Congress, a recognition of the city-state’s efforts to drive transformation through technology. Minister-in-charge of GovTech Dr Janil Puthucheary highlighted that Singapore’s Smart Nation investments will improve the lives of citizens for generations to come
+TL:DR: 20,000 visitors, representing more than 700 cities across 120 countries, attended the Smart City Expo World Congress 2018 in Barcelona, Spain. Singapore received the City Award at the Congress, a recognition of the city-state’s efforts to drive transformation through technology. Minister-in-charge of GovTech Dr Janil Puthucheary highlighted that Singapore’s Smart Nation investments will improve the lives of citizens for generations to come.
 --
 Like moths to a flame, people are drawn towards cities for the resources and opportunities offered by these urban centres. Yet, just as the insect eventually finds the heat of the flame unbearable, people may come to realise that city life is less ideal than what they had envisioned. Issues like housing and healthcare costs, traffic congestion and pollution can make a city intolerable for its inhabitants if not managed properly.
 
