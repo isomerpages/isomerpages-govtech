@@ -5,8 +5,8 @@ permalink: "/media/technews/2018-11-23-the-rise-of-robots-is-singapore-ready"
 category: technews
 image: "/images/technews/the-rise-of-robots-is-singapore-ready-part2.png"
 ---
-
-![The rise of robots: Is Singapore ready?](the-rise-of-robots-is-singapore-ready-part2.png)
+      
+![The rise of robots: Is Singapore ready?](/images/technews/the-rise-of-robots-is-singapore-ready-part2.png)
 
 TL:DR: Singapore is second only to South Korea in terms of installation of industrial robots. Speakers at the Singapore International Robo Expo 2018 highlighted three trends in robotics technologies that businesses can leverage on. They also highlighted the importance of 5G networks for larger-scale multi-robot deployments. 
 ---
@@ -17,7 +17,7 @@ Authors of science fiction enjoy extolling robots or painting them as bringers o
 
 Titled ‘The Robotics Landscape in Singapore and Beyond’, the session also included Professor Wang Dan Wei, president of the Institute of Electrical and Electronics Engineers Robotics and Automation Society (Singapore Chapter), and Mr Jim Lim, global director of Huawei International, as speakers.
 
-![The Robotics Landscape in Singapore and Beyond panel discussion](the-rise-of-robots-is-singapore-ready-part1.png)
+![The Robotics Landscape in Singapore and Beyond panel discussion](/images/technews/the-rise-of-robots-is-singapore-ready-part1.png)
 
 ### **Robots, at your service**
 
