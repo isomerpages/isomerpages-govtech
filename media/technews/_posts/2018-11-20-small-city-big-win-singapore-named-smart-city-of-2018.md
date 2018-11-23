@@ -16,7 +16,11 @@ Acknowledging these problems, governments around the world are taking steps to m
 
 “We are here in Barcelona to learn how we can do more [with smart cities], to take back the best possible lessons for our people,” said Singapore’s Minister-in-charge of GovTech and Senior Minister of State for Transport, Communications and Information Dr Janil Puthucheary in his speech at the conference.
 
-![Dr Janil Puthucheary speaking at the Smart City Expo World Congress](/images/technews/small-city-big win-singapore-named-smart-city-of-2018-part-1.png)
+---
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jLykagchXaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+---
 
 ### **A focus on innovation and inclusivity**
 
@@ -37,3 +41,5 @@ Under its Smart Nation Initiative, launched in 2014, Singapore has embarked on s
 For example, Dr Puthucheary mentioned Singapore’s National Digital Identity system, which serves as a secure online ‘passport’ that citizens can use to transact with both the public and private sector. Also in the works is “a national grid of IoT sensors to fuse data across our country”, he added, referring to the [(smart lamp posts)](https://www.tech.gov.sg/media/technews/infographics-just-how-smart-can-lamp-posts-get) that will monitor everything from traffic to temperature and humidity. Importantly, the digital platforms established, and the data collected, must put Singapore in a better position to face future challenges, including climate change and an ageing population.
 
 “The application of these technologies must benefit our grandchildren and re-engineer our country to improve lives for generations to come. And to do so, these efforts have to be sustainable, not just financially, but also with respect to resources and energy consumption,” Dr Puthucheary concluded.
+
+![Dr Janil Puthucheary speaking at the Smart City Expo World Congress](/images/technews/small-city-big win-singapore-named-smart-city-of-2018-part-1.png)
