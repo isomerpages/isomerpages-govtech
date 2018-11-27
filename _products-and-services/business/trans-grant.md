@@ -35,12 +35,7 @@ These TRANS Labs have significant capabilities in the fields of wireless communi
 
 Problem statements are polled from the agencies and evaluated for eligibility of the grant before they are selected to proceed with the proof-of-concepts. The grant will help to offset costs arising from the projects undertaken under each approved proposal. This includes costs associated with manpower, training, equipment investment, professional services and overheads. In addition, TRANS Grant will also provide support for operational activities and developments arising from the administration of this funding initiative. Only Singapore-based activities will be supported.
 
-Commercial entities will be invited to co-create solutions with the TRANS Labs and relevant government agencies for deployment and commercialisation of the solutions.**
-<!--
-###### 1 The emerging and focus tech areas include:
-* ###### SNPs: National Digital ID, e-Payments, Smart Nation Sensor Platform, Social Data Microservices Architecture and Social Mobility;
-* ###### CentEx: Cybersecurity (CSA-GovTech), Data Science (GovTech), Sensors & IoT (GovTech), Geospatial (SLA-GovTech), Infrastructure (GovTech) and Apps Development (GovTech).
--->
+Commercial entities will be invited to co-create solutions with the TRANS Labs and relevant government agencies for deployment and commercialisation of the solutions.
  
 ### **Supported Projects**
 Since the inception of the TRANS Grant funding initiative, these projects have been selected for proof-of-concepts.
