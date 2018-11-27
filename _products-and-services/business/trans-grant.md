@@ -9,27 +9,38 @@ thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
 ### **Introduction**
-The Translational Research and Development for Application to Smart Nation (TRANS) Grant funds translational R&D and technology or process innovations in areas that are aligned to the emerging and focused tech areas (Strategic National Projects (SNPs) and Centres of Excellence (CentEx)). 
+The Translational R&D Grant (TRANS Grant) initiative supports translation of R&D into applications and taps on the research community to solve public sector challenges with innovative use of digital technology.
 
-This funding initiative is jointly run by the Government Technology Agency of Singapore (GovTech), National Research Foundation (NRF) and Smart Nation and Digital Government Office (SNDGO). This initiative taps on research institutes’ capabilities to solve public sector challenges, demonstrates feasibility of new ideas and encourages agencies to experiment and deploy innovative solutions.  
+This grant initiative is in support of Singapore's Smart Nation and Digital Government drive, and is jointly managed by the Government Technology Agency of Singapore (GovTech) and the National Research Foundation (NRF).
 
-### **About TRANS Grant Funding**
+### **Eligibility and Evaluation Criteria**
+Problem statements are gathered from government agencies and assessed if they meet qualifying criteria (i.e. no commercially-ready solution) for TRANS Grant application.
+
+TRANS Grant applications are then evaluated based on: 
+
+* Capability building, including technical and scientific merit of project
+* Scale-up and commitment by agencies
+* Alignment with whole-of-government / agency's digitalisation plan
+* Potential industry application and value
+* Cost and schedule
+
+### **About the TRANS Labs**
 A total of $25 million of TRANS Grant funding has been awarded to three TRANS Labs. The approved grant duration is three years, with effect from 1 Sep 2016. The Labs are:
 
 * Smart Platform Infrastructure Research on Integrative Technology (SPIRIT) from Nanyang Technological University (NTU)
-* Smart Nation Applied R&D Lab (SNAL) from Agency for Science, Technology and Research (A*STAR) 
-* Centre for Applied Socio-Physical Analytics (CASA) from Singapore Management University (SMU) 
+* Smart Nation Applied R&D Lab (SNAL) from Agency for Science, Technology and Research (A*STAR)
+* Centre for Applied Socio-Physical Analytics (CASA) from Singapore Management University (SMU)
 
-These TRANS Labs have significant capabilities in the fields of wireless communication, data science, artificial intelligence, cyber security and social analytics. 
+These TRANS Labs have significant capabilities in the fields of wireless communication, data science, artificial intelligence, cyber security and social analytics.
 
-Problem statements are polled from the agencies and evaluated for eligibility of the grant before they are selected to proceed with the proof-of-concepts. The grant will help to offset costs arising from the projects undertaken under each approved proposal. This includes costs associated with manpower, training, equipment investment, professional services and overheads. In addition, TRANS Grant will also provide support for operational activities and developments arising from the administration of this funding initiative. Only Singapore-based activities will be supported.  
+Problem statements are polled from the agencies and evaluated for eligibility of the grant before they are selected to proceed with the proof-of-concepts. The grant will help to offset costs arising from the projects undertaken under each approved proposal. This includes costs associated with manpower, training, equipment investment, professional services and overheads. In addition, TRANS Grant will also provide support for operational activities and developments arising from the administration of this funding initiative. Only Singapore-based activities will be supported.
 
-Commercial entities will be invited to co-create solutions with the TRANS Labs and relevant government agencies for deployment and commercialisation of the solutions.  
-
+Commercial entities will be invited to co-create solutions with the TRANS Labs and relevant government agencies for deployment and commercialisation of the solutions.**
+<!--
 ###### 1 The emerging and focus tech areas include:
 * ###### SNPs: National Digital ID, e-Payments, Smart Nation Sensor Platform, Social Data Microservices Architecture and Social Mobility;
 * ###### CentEx: Cybersecurity (CSA-GovTech), Data Science (GovTech), Sensors & IoT (GovTech), Geospatial (SLA-GovTech), Infrastructure (GovTech) and Apps Development (GovTech).
-
+-->
  
 ### **Supported Projects**
 Since the inception of the TRANS Grant funding initiative, these projects have been selected for proof-of-concepts.
@@ -95,5 +106,10 @@ Since the inception of the TRANS Grant funding initiative, these projects have b
   </tr>
 </table>
 
-**Contact Details**<br>
-For more information and all other queries, please contact [innovate@tech.gov.sg](mailto:innovate@tech.gov.sg).
+**Contact Us**<br>
+If you have problem statements, use cases, queries or ideas looking for innovative solutions, send them to the Applied Innovation & Partnership team at [INNOVATE@tech.gov.sg](mailto:innovate@tech.gov.sg).
+
+To submit a problem statement, please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx). 
+       
+      
+      
