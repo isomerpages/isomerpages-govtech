@@ -28,9 +28,9 @@ button:
 
 # Key Highlights
 key-highlights:
-  - title: STRATEGIC NATIONAL PROJECTS
-    description: Singapore's five Smart Nation Strategic National Project
-    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
+  - title: PRODUCTS AND SERVICES
+    description: Programmes for citizens, businesses and government agencies
+    url: https://www.tech.gov.sg/products-and-services/
     external: true
   - title: DIGITAL GOVERNMENT BLUEPRINT
     description: To create a Government that is “Digital to the Core, and Serves with Heart
