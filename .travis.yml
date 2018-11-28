@@ -1,26 +1,5 @@
-language: ruby
-# only run CI-builds on master branch
+language: minimal
 branches:
   only:
   - master
-rvm:
-- 2.5.0
-# set execution permission on our build script
-before_script:
- - chmod +x ./script/cibuild
-# path to our build script. 
-# Travis will run `bundle install` by default before running our script
-script: ./script/cibuild
-exclude: [vendor]
-sudo: false
-install:
-  - npm install -g jekyll
-  - pip install awscli --upgrade --user
-deploy:
-  provider: s3
-  access_key_id: $ACCESS_KEY_ID
-  secret_access_key: $SECRET_ACCESS_KEY
-  bucket: isomer-govtech.gov.sg
-  skip_cleanup: true
-  local_dir: _site
-  region: ap-southeast-1
+script: curl "https://api.keycdn.com/zones/purge/112849.json" -u $KEYCDN_API_KEY
