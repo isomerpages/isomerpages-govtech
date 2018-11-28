@@ -2,4 +2,4 @@ language: minimal
 branches:
   only:
   - master
-script: curl "https://api.keycdn.com/zones/purge/112849.json" -u $KEYCDN_API_KEY
+script: 'curl "https://api.keycdn.com/zones/purge/112849.json" -u $KEYCDN_API_KEY:'
