@@ -25,7 +25,7 @@ TRANS Grant applications are then evaluated based on:
 * Cost and schedule
 
 ### **About the TRANS Labs**
-A total of $25 million of TRANS Grant funding has been awarded to three TRANS Labs. The approved grant duration is three years, with effect from 1 Sep 2016. The Labs are:
+A total of $25 million of TRANS Grant funding has been awarded to three TRANS Labs. The Grant will expire on 31 March 2021. The Labs are:
 
 * Smart Platform Infrastructure Research on Integrative Technology (SPIRIT) from Nanyang Technological University (NTU)
 * Smart Nation Applied R&D Lab (SNAL) from Agency for Science, Technology and Research (A*STAR)
