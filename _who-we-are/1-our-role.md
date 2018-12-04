@@ -34,6 +34,6 @@ Today, technology is no longer an enabler but a disruptor of business models. It
 
 * Services in future will be event-driven. They anticipate users’ needs and deliver what’s needed, even before they have to ask for it. They will enhance the convenience of everyday processes, making for a seamless experience with the Government.
 
-Citizens would not be passive consumers of technology. They will participate and co-create with the Government, determining the services they wish to have. As increasingly active stakeholders, they will shape the country..
+Citizens would not be passive consumers of technology. They will participate and co-create with the Government, determining the services they wish to have. As increasingly active stakeholders, they will shape the country.
 
 ![People at GovTech Hive](/images/our-role/our-role-people.png)
