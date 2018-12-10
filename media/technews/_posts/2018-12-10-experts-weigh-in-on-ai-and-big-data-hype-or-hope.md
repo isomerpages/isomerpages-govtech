@@ -3,7 +3,7 @@ layout: post
 title: "Experts weigh in on AI and big data - hype or hope?"
 permalink: "/media/technews/experts-weigh-in-on-ai-and-big-data-hype-or-hope"
 category: technews
-image: "/images/technews/experts-weigh-in-on-AI-and-big-data-hype-or-hope.png"
+image: "/images/technews/experts-weigh-in-on-ai-and-big-data-hype-or-hope.png"
 ---
      
 ![Experts weigh in on AI and big data - hype or hope](/images/technews/experts-weigh-in-on-ai-and-big-data-hype-or-hope.png)
