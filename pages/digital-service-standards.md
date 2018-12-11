@@ -4,7 +4,7 @@ title: Digital Service Standards
 permalink: /digital-service-standards/
 breadcrumb: Digital Service Standards
 ---
-Digital Standards (DSS) is a set of standards for agencies to implement their digital services to meet the Digital Government Blueprint (DGB) goal of delivering digital services that are easy, seamless and relevant for our citizens and businesses.
+Digital Service Standards (DSS) guide agencies to implement their digital services to meet the Digital Government Blueprint (DGB) goal of delivering digital services that are easy, seamless and relevant for our citizens and businesses.
 
 All public facing digital services of the Government must meet the DSS.  In addition, the Government conducts mystery-shopping checks based on the DSS, to ensure that our digital services are implemented consistently to meet the desired outcomes in DGB.
 
