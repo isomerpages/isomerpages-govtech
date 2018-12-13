@@ -101,7 +101,7 @@ Since the inception of the TRANS Grant funding initiative, these projects have b
   </tr>
 </table>
 
-**Contact Us**<br>
+### **Contact Us**<br>
 If you have problem statements, use cases, queries or ideas looking for innovative solutions, send them to the Applied Innovation & Partnership team at [INNOVATE@tech.gov.sg](mailto:innovate@tech.gov.sg).
 
 To submit a problem statement, please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx). 
