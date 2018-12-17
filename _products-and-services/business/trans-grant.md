@@ -108,6 +108,7 @@ A total of S$25m has been awarded to 3 TRANS Labs from A&ast;STAR, NTU and SMU. 
         </li>
       </ol>
   </tr>
+</table>
 &ast;Send your queries to Innovate@tech.gov.sg for problem statements requiring capabilities not listed in the above table. 
 
 ### Supported Projects
@@ -203,6 +204,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <td>HPB</td>
     <td>Automated Food Image Recognition and Crowdsourcing for New Foods in Singapore</td>
     <td>Solution to seamlessly and interactively capture food intake by matching against a database of local food images and accompanied by an intervention programmes to tackle obesity and diabetes through diet.</td>
-  </tr> 
+  </tr>
+</table>
       
       
