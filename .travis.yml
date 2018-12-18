@@ -1,5 +1,6 @@
-language: minimal
+language: node_js
+node_js:
+  - "8"
 branches:
   only:
   - master
-script: 'curl "https://api.keycdn.com/zones/purge/112849.json" -u $KEYCDN_API_KEY:'
