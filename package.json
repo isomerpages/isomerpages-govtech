@@ -1,0 +1,23 @@
+{
+  "name": "isomerpages-govtech",
+  "version": "1.0.0",
+  "description": "## Why Markdown and YAML?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node travis-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isomerpages/isomerpages-govtech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isomerpages/isomerpages-govtech/issues"
+  },
+  "homepage": "https://github.com/isomerpages/isomerpages-govtech#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
