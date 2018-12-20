@@ -38,20 +38,21 @@ The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised 
 For more information, please visit [www.csa.gov.sg](www.csa.gov.sg){:target="_blank"}.
 
 ### **For media clarification** ###
-Medha LIM (Ms)
-Senior Manager
-Communications and Marketing Group, GovTech
-DID: (65) 6211 1622
-Email: <Medha_LIM@tech.gov.sg>
-
-TAN Boon Leng (Mr)
-Senior Manager
-Communications and Marketing Group, GovTech
-DID: (65) 6211 0375
-Email: <TAN_Boon_Leng@tech.gov.sg>
-
-CHEN Jingxuan (Ms)
-Senior Manager
-Communications and Engagement Office, CSA
-DID: (65) 6323 5112
-Email: <CHEN_Jingxuan@csa.gov.sg>
+<br>
+<br>Medha LIM (Ms)
+<br>Senior Manager
+<br>Communications and Marketing Group, GovTech
+<br>DID: (65) 6211 1622
+<br>Email: <Medha_LIM@tech.gov.sg>
+<br>
+<br>TAN Boon Leng (Mr)
+<br>Senior Manager
+<br>Communications and Marketing Group, GovTech
+<br>DID: (65) 6211 0375
+<br>Email: <TAN_Boon_Leng@tech.gov.sg>
+<br>
+<br>CHEN Jingxuan (Ms)
+<br>Senior Manager
+<br>Communications and Engagement Office, CSA
+<br>DID: (65) 6323 5112
+<br>Email: <CHEN_Jingxuan@csa.gov.sg>
