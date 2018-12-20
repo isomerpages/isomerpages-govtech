@@ -41,16 +41,16 @@ Medha LIM (Ms)
 Senior Manager
 Communications and Marketing Group, GovTech
 DID: (65) 6211 1622
-Email: Medha_LIM@tech.gov.sg
+Email: <Medha_LIM@tech.gov.sg>
 
 TAN Boon Leng (Mr)
 Senior Manager
 Communications and Marketing Group, GovTech
 DID: (65) 6211 0375
-Email: TAN_Boon_Leng@tech.gov.sg
+Email: <TAN_Boon_Leng@tech.gov.sg>
 
 CHEN Jingxuan (Ms)
 Senior Manager
 Communications and Engagement Office, CSA
 DID: (65) 6323 5112
-Email: CHEN_Jingxuan@csa.gov.sg
+Email: <CHEN_Jingxuan@csa.gov.sg>
