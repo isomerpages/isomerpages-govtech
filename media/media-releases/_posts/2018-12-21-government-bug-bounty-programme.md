@@ -39,7 +39,6 @@ For more information, please visit [www.csa.gov.sg](www.csa.gov.sg){:target="_bl
 
 ### **For media clarification** ###
 Medha LIM (Ms)
-
 Senior Manager
 Communications and Marketing Group, GovTech
 DID: (65) 6211 1622
