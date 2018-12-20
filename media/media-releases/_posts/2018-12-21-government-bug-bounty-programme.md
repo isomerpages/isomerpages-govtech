@@ -29,13 +29,13 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 
 Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
-For more information, please visit www.tech.gov.sg.
+For more information, please visit [www.tech.gov.sg].
 
 **About the Cybersecurity Agency of Singapore**
 
 The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised oversight of national cybersecurity functions, and works with sector leads to protect Singapore’s critical services. It also engages with various industries, and stakeholders to heighten cybersecurity awareness as well as to ensure the holistic development of Singapore’s cyber security landscape. The Agency is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information. 
 
-For more information, please visit <www.csa.gov.sg>.
+For more information, please visit [www.csa.gov.sg].
 
 
 ### **For media clarification** ###
