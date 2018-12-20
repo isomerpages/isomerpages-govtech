@@ -37,7 +37,8 @@ The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised 
 
 For more information, please visit [www.csa.gov.sg](www.csa.gov.sg){:target="_blank"}.
 
-### **For media clarification** ###
+### **For media clarification**
+
 <br>Medha LIM (Ms)
 <br>Senior Manager
 <br>Communications and Marketing Group, GovTech
