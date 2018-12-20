@@ -2,7 +2,7 @@
 layout: post
 title:  "GovTech and CSA partner cybersecurity community on Government Bug Bounty Programme"
 permalink: /media/media-releases/govtech-and-csa-partner-cybersecurity-community-on-government-bug-bounty-programme
-date: 2018-12-21
+date: 2018-12-20
 ---
 
 **GovTech and CSA partner cybersecurity community on Government Bug Bounty Programme** 
