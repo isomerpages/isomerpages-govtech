@@ -128,7 +128,7 @@ A total of S$25m has been awarded to 3 TRANS Labs from A&ast;STAR, NTU and SMU. 
 	   </td>  
   </tr>
 </table>
-&ast;Send your queries to Innovate@tech.gov.sg for problem statements requiring capabilities not listed in the above table. 
+&ast; Send your queries to Innovate@tech.gov.sg for problem statements requiring capabilities not listed in the above table. 
 
 ### Supported Projects
 
