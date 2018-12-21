@@ -25,7 +25,7 @@ TRANS Grant applications are then evaluated based on:
 * Cost and schedule
 
 ### **About the TRANS Labs**
-A total of S$25m has been awarded to 3 TRANS Labs from A*STAR, NTU and SMU. The capabilities* of TRANS Labs include (but are not limited to) the following: 
+A total of S$25m has been awarded to 3 TRANS Labs from A\*STAR, NTU and SMU. The capabilities\* of TRANS Labs include (but are not limited to) the following: 
 
 <table class="table-h">
   <tr>
