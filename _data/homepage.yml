@@ -19,7 +19,7 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: Empowering our nation through technology
 hero-subtitle: From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, GovTech uses technology to improve the lives of everyone in Singapore.
-hero-banner: /images/banner_GovTech.png
+hero-banner: /images/Banner_GovTech2.jpg
 
 #Call to Action Button
 button:
