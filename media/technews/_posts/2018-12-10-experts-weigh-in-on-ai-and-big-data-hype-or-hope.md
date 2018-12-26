@@ -8,7 +8,6 @@ image: "/images/technews/the-potential-of-ai-and big-data-hype-or-hope.png"
 ![Experts weigh in on AI and big data - hype or hope](/images/technews/the-potential-of-ai-and big-data-hype-or-hope.png)
 
 TL:DR: Society is generating ever-larger datasets through the use of connected devices. Artificial intelligence (AI) is thus becoming an important analytical tool for organisations to better understand their client base. Operational objectives aside, the societal impact of AI must also be considered, said speakers at the Big Data & AI 2018 conference.
-
 ---
 
 The world is awash with data—some 2.5 quintillion bytes of it, generated every day. Each click, tap and swipe on a smartphone screen generates a data point, and every surveillance camera and sensor adds to an already burgeoning library of digital information. Big data looks set to get even bigger in the years ahead, making the case for artificial intelligence (AI) to take on an even bigger role in industry and society. 
