@@ -91,22 +91,34 @@ senior-leadership:
     title: Senior Director
     organisation: Government Digital Services
     image-url: /images/our-team/parimal-aswani.jpg
-  - name: Mr KWOK Quek Sin
-    title: Senior Director
-    organisation: National Digital Identity
-    image-url: /images/our-team/kwok-quek-sin.png
-  - name: Ms Jacqueline LIM
-    title: Senior Director
-    organisation: Government Infrastructure Group
-    image-url: /images/our-team/jacqueline-lim.png
   - name: Mr CHAI Chin Loon
     title: Senior Director
     organisation: Cyber Security Group
     image-url: /images/our-team/chai-chin-loon.jpg
+  - name: Mr KWOK Quek Sin
+    title: Senior Director
+    organisation: National Digital Identity
+    image-url: /images/our-team/kwok-quek-sin.png
+  - name: Mr LIM Chinn Hwa
+    title: Senior Director
+    organisation: Smart Nation Platform, Solutions & Services
+    image-url: /images/our-team/lim-chinn-hwa.jpg
+  - name: Ms Jacqueline LIM
+    title: Senior Director
+    organisation: Government Infrastructure Group
+    image-url: /images/our-team/jacqueline-lim.png
+  - name: Mr Dominic CHAN
+    title: Director
+    organisation: Moments of LIfe
+    image-url: /images/our-team/dominic-chan.jpg
   - name: Mr LEONG Der Yao
     title: Director
     organisation: Data Science and Artificial Intelligence
     image-url: /images/our-team/leong-der-yao.jpg
+  - name: Mr QUEK Yang Boon
+    title: Director
+    organisation: Sensors & IoT
+    image-url: /images/our-team/quek-yang-boon.jpg
   - name: Ms Evangeline CHUA
     title: Chief People Officer
     organisation: People and Organisation Group
