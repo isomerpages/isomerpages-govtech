@@ -62,6 +62,7 @@ Here is the list of companies whose products have been qualified on CloudStore.
   </tr>
 </table>
 
+
 <table class="table-h">
     <tr>
       <th colspan="2">Category: Open</th>
@@ -76,7 +77,7 @@ Here is the list of companies whose products have been qualified on CloudStore.
     </tr>
     <tr>
       <td>Ashnik Pte. Ltd.<br></td>
-      <td>EnterpriseDB PostgreSQL<br><br>MongoDB<br><br>Pentaho<br><br>Docker<br><br>Elastic Stack<br><br>NGINX<br><br></td>     </tr>
+      <td>EnterpriseDB PostgreSQL<br><br>MongoDB<br><br>Pentaho<br><br>Docker<br><br>Elastic Stack<br><br>NGINX<br><br></td>           </tr>
     <tr>
       <td>SAS Institute Pte Ltd<br></td>
       <td>SAS Customer Intelligence 360</td>
@@ -89,7 +90,50 @@ Here is the list of companies whose products have been qualified on CloudStore.
       <td>Solace Corporation<br></td>
       <td>Solace hardware software Cloud IOT Messaging for Digital backbone</td>
     </tr>
+    <tr>
+      <td>Netrust Ptd Ltd<br></td>
+      <td>Checkmarx CxSAST</td>
+    </tr>
+    <tr>
+     <td>NSFOCUS Technologies (S) Pte Ltd<br></td>
+     <td>NSFOCUS Threat Intelligence (NTI) Services</td>
+    </tr>
+    <tr>
+     <td>CHJ Singapore Pte Ltd<br></td>
+     <td>InfoArmor VigilanteATI</td>
+    </tr>
+    <tr>
+     <td>Vantage Point Security Pte Ltd<br></td>
+     <td>Nexus Pro<br><br>Nexus Firewall<br><br>Nexus Lifecycle</td>
+    </tr>
+    <tr>
+     <td>GoPivotal Singapore Pte Ltd<br></td>
+     <td>Pivotal GemFire<br><br>Pivotal GreenPlum Database<br><br>Pivotal Cloud Foundry<br><br>Pivotal Application Suite</td>
+    </tr>
+ </table>
+ 
+ <table class="table-h">
+    <tr>
+      <th colspan="2">Category: Open</th>
+    </tr>
+    <tr>
+      <td><strong>Company Name</strong></td>
+      <td><strong>Service Offering </strong></td>
+    </tr>
+    <tr>
+      <td>Accel Systems and Technologies Pte Ltd<br></td>
+      <td>FireEye iSIGHT<br><br>Group-IB Intelligence<br><br>Recorded Future</td>
+    </tr>
+    <tr>
+      <td>BAE Systems Applied Intelligence (Asia Pacific) Pte Ltd<br></td>
+      <td>Cyber Threat Intelligence Service</td>
+    </tr>
+    <tr>
+      <td>Deloitte & Touche Enterprise Risk Services Pte Ltd<br></td>
+      <td>Cyber Threat Intelligence and Attack Surface Reduction<br><br>Cyber Threat Campaign Service<br><br>Cyber Threat Surveillance Surface</td>
+    </tr>
   </table>
+
 
 **CloudStore Documents**<br>
 Download the respective Call for Participation documents for the instructions and the CloudStore application forms:
