@@ -60,7 +60,6 @@ Here is the list of companies whose products have been qualified on CloudStore.
       <td>Global Sign.In Pte Ltd<br></td>
       <td>GEVME Events Management System / G-Cloud<br><br></td>
   </tr>
-</table>
 
 <table class="table-h">
     <tr>
