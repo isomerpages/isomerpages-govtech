@@ -14,8 +14,8 @@ In order to encourage adoption of agile development, GovTech has developed the A
 
 For more information about Agile Maturity Model (AMM), files are listed here for you to download:
 
-* [AMM Part 1 - Agile Practices](/files/products-and-services/Agile-Maturity-Model-Pt-1-Agile-Practices.pdf"{:target="_blank"}
-* [AMM Part 2 - Common Software Practices](/files/products-and-services/Agile-Maturity-Model-Pt-2-Common-Software-Practices.pdf"){:target="_blank"}
+* [AMM Part 1 - Agile Practices](/files/products-and-services/Agile-Maturity-Model-Pt-1-Agile-Practices.pdf){:target="_blank"}
+* [AMM Part 2 - Common Software Practices](/files/products-and-services/Agile-Maturity-Model-Pt-2-Common-Software-Practices.pdf){:target="_blank"}
 
 
 For SMEs that are interested in building agile development capabilities within their organization, they can leverage on the Infocomm Productivity and Capability Services (iPCS) initiative. 
