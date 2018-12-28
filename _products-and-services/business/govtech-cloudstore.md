@@ -40,7 +40,7 @@ The first Call for Participation and second Call for Participation for CloudStor
     <td>(New) CFP-3</td>
     <td>Open</td>
     <td>Open</td>
-    <td>Open <br> Contact <a href="mailto:CloudStore@tech.gov.sg">CloudStore@tech.gov.sg</a> for more information</td>
+    <td>Temporarily Closed <br> Contact <a href="mailto:CloudStore@tech.gov.sg">CloudStore@tech.gov.sg</a> for more information</td>
   </tr>
 </table>
 
