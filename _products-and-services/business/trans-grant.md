@@ -128,7 +128,6 @@ A total of S$25m has been awarded to 3 TRANS Labs from A\*STAR, NTU and SMU. The
 	   </td>  
   </tr>
 </table>
-* Send your queries to Innovate@tech.gov.sg for problem statements requiring capabilities not listed in the above table. 
 
 ### Supported Projects
 
@@ -145,7 +144,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <td rowspan="8">A*STAR</td>
     <td>MCI</td>
     <td>Customised Government Machine Translation Engine</td>
-    <td>Use of Machine Translation Technology to produce a more accurate and contextualised translation engine using past translations as inputs.</td>
+    <td>Use of machine translation technology to produce a more accurate and contextualised translation engine using past translations as input. The final Chinese-to-English and English-to-Chinese engines are already delivered and currently in use. Work is currently in progress to develop the Malay-to-English and English-to-Malay engines.</td>
   </tr>
   <tr>
     <td>MOT</td>
@@ -228,6 +227,11 @@ The following list of projects has been funded under TRANS Grant. Where applicab
 
 
 ### **Contact Us**<br>
-If you have problem statements, use cases, queries or ideas looking for innovative solutions, send them to the Applied Innovation & Partnership team at [INNOVATE@tech.gov.sg](mailto:innovate@tech.gov.sg).
+Please contact us at INNOVATE@tech.gov.sg for the following:
+* To contribute problem statements
+* To use any of the TRANS Grant funded projects for your applications
+* To collaborate with the TRANS Labs
+* To commercialise the TRANS Grant funded projects
+* If you have any queries or ideas looking for innovative solutions
 
 To submit a problem statement, please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx). 
