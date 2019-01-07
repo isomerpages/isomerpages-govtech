@@ -9,20 +9,25 @@ thumbnail_image: /images/programmes/products-and-services/SingPass Thumbnail.jpg
       
 ---
 
-[SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login){:target="_blank"}, which stands for Singapore Personal Access, is an authentication system for citizens to access to all Government e-services. 
+[SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login){:target="_blank"}, which stands for Singapore Personal Access, is an authentication system for citizens to transact online with the Government. 
 
-Launched in March 2003, Singapore Personal Access (or SingPass) allows users to transact with over 60 government agencies online easily and 
-securely.
-Managed by the Government Technology Agency (GovTech), the SingPass system is reviewed regularly, and there are many on-going security enhancements to ensure that a secure SingPass service is delivered to our users.
+With a SingPass account, users can access hundreds of government digital services easily and securely. Managed by the Government Technology Agency (GovTech), users will need to enter their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS, or generated through a OneKey token. This serves as an additional layer of security via 2-Factor Authentication (2FA).
+
 
 ### **Ever-improving Security Measures**
 
-Over the years, SingPass was enhanced to include an improved user interface, mobile-friendly features and stronger security capabilities, such as 2-Step Verification (also known as 2FA) for digital transactions involving sensitive data.
-With 2FA, users will need to enter their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS, or generated through a OneKey token. This serves as an additional layer of security.
+Along with 2FA, users should also play their part to protect their account and personal information. Here are some tips:
 
-Users should also play their part to protect their account and personal information. Here are some tips: 
 * Do not share login information: Keep your SingPass ID, password and 2FA details confidential.
-* Do not re-use passwords: Certain websites that you access may not be secure. Login information may be stolen from these sites and used to hack your SingPass account.
-* Change your passwords regularly
-* Use strong passwords: Strong passwords are alphanumeric and contain 8 to 24 characters.
-* Look out for phishing sites: There may be sites that look like government websites to trick you in disclosing your personal details. To verify if it is not a phishing website, always check that the URL is correct (www.singpass.gov.sg), and there should be a 'lock' icon in the address bar.
+* Do not re-use passwords: Certain websites that you access may not be secure. Log-in information may be stolen from these sites and used to hack your SingPass account.
+* Be aware of phishing sites: Some sites may look like government websites to trick you Always check that the URL is correct (www.singpass.gov.sg) with a ‘lock’ icon in the address bar.
+
+
+### **More seamless logins using SingPass Mobile**
+
+In October 2018, we launched the SingPass Mobile app as an alternative mode of 2FA to provide citizens with more choices and easier access to government digital services – including biometrics for easy authentication.
+ 
+With SingPass Mobile, users can now log in to digital services within seconds using just their fingerprint or a 6-digit passcode. More features will be added to the SingPass Mobile app progressively, such as one-tap access to popular government digital services and users will be able to view their personal information at a glance with the app.
+
+
+For more information: SingPass Mobile - English Brouchure (/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}
