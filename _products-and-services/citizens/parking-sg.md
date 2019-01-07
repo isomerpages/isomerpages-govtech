@@ -19,5 +19,5 @@ thumbnail_image: /images/programmes/products-and-services/test.jpg
 * You can be alerted 10 minutes before your parking session expires. Turn on the “Notification” feature in your device settings.
 * If you need to extend your parking duration, you can do it remotely via the app.
 
-For more information, please visit www.parking.sg(www.parking.sg){:target="_blank"}.
+For more information, please visit [www.parking.sg](www.parking.sg){:target="_blank"}.
 
