@@ -30,4 +30,4 @@ In October 2018, we launched the SingPass Mobile app as an alternative mode of 2
 With SingPass Mobile, users can now log in to digital services within seconds using just their fingerprint or a 6-digit passcode. More features will be added to the SingPass Mobile app progressively, such as one-tap access to popular government digital services and users will be able to view their personal information at a glance with the app.
 
 
-For more information: SingPass Mobile - English Brouchure (/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}
+For more information: SingPass Mobile - English Brouchure(/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}
