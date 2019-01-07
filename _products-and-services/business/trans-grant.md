@@ -181,6 +181,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <td>Customised Malay‐English Translation Engine</td>
     <td>Use of Machine Translation Technology to produce a more accurate and contextualized translation engine using past translations as inputs.</td>
   </tr>
+	<tr></tr>
   <tr>
     <td rowspan="5">NTU</td>
     <td>Supreme Court and State Courts</td>
