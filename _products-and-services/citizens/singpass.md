@@ -11,7 +11,7 @@ thumbnail_image: /images/programmes/products-and-services/SingPass Thumbnail.jpg
 
 [SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login){:target="_blank"}, which stands for Singapore Personal Access, is an authentication system for citizens to transact online with the Government. 
 
-With a SingPass account, users can access hundreds of government digital services easily and securely. Managed by the Government Technology Agency (GovTech), users will need to enter their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS, or generated through a OneKey token. This serves as an additional layer of security via 2-Factor Authentication (2FA).
+With a SingPass account, users can access hundreds of government digital services easily and securely. Managed by the Government Technology Agency (GovTech), users will need to enter their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS, or generated through a OneKey token. Alternatively, they can use the SingPass Mobile app to log in using their fingerprint, facial recognition (for selected smartphones) or a 6-digit passcode. This provides an additional layer of security via 2-Factor Authentication (2FA) to better protect users' personal data.
 
 
 ### **Ever-improving Security Measures**
