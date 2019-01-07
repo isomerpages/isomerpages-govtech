@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Parking.sg
-permalink: /products-and-services/data-gov-sg/
+permalink: /products-and-services/parking-sg/
 breadcrumb: Parking.sg
 collection_name: products-and-services
 tag: citizens
