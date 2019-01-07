@@ -8,7 +8,7 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
-Parking.sg(www.parking.sg){:target="_blank"} is a mobile application that allows users to pay for short-term parking charges through their mobile devices at all existing coupon-based public car parks. The app serves as an alternative mode of payment to paper parking coupons.
+[Parking.sg](www.parking.sg){:target="_blank"} is a mobile application that allows users to pay for short-term parking charges through their mobile devices at all existing coupon-based public car parks. The app serves as an alternative mode of payment to paper parking coupons.
  
 **How to use the Parking.sg mobile app**
 * Activate the app to begin your parking session as soon as you park your vehicle within a designated parking lot.
@@ -19,5 +19,5 @@ Parking.sg(www.parking.sg){:target="_blank"} is a mobile application that allows
 * You can be alerted 10 minutes before your parking session expires. Turn on the “Notification” feature in your device settings.
 * If you need to extend your parking duration, you can do it remotely via the app.
 
-For more information, please visit www.parking.sg(www.parking.sg){:target="_blank"}.
+For more information, please visit [www.parking.sg](www.parking.sg){:target="_blank"}.
 
