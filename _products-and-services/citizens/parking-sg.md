@@ -20,3 +20,4 @@ Parking.sg(www.parking.sg){:target="_blank"} is a mobile application that allows
 * If you need to extend your parking duration, you can do it remotely via the app.
 
 For more information, please visit www.parking.sg(www.parking.sg){:target="_blank"}.
+
