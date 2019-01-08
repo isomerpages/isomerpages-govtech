@@ -19,7 +19,7 @@ Whereas in the past, phone calls, forms and face-to-face meetings served as the 
 
 Embodying these ideals of digital transformation in education is the Parents Gateway, which serves as a one-stop platform for schools to connect with parents on key administrative matters.
 
-Co-developed with the Ministry of Education (MOE), the Parents Gateway (download it via the Google Play Store or iOS AppStore) is driven by Mr Melvyn Song, executive application consultant at the Government Technology Agency of Singapore (GovTech). 
+Co-developed with the Ministry of Education (MOE), the Parents Gateway (download it via the [Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG) or [iOS AppStore](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)) is driven by Mr Melvyn Song, executive application consultant at the Government Technology Agency of Singapore (GovTech). 
 
 He gestated the idea of the app and brought it from ambition to reality. TechNews spoke to Mr Song about the labour of love that resulted in a platform that will eventually serve 600,000 parents and 33,000 teachers across Singapore. 
 
