@@ -27,7 +27,7 @@ He gestated the idea of the app and brought it from ambition to reality. TechNew
 
 Being a father of three himself, Mr Song is no stranger to the difficulties faced by working adults with school-going children. But what motivated him to create Parents Gateway was the numerous paper documents and forms he kept receiving from his children’s teachers when his kids were younger.
 
-“There were so many [documents] that I started to misplace some of them! At times, I even found some of these forms magnetised on my fridge (usually past their due dates)” he said with a laugh.
+“There were so many [documents] that I started to misplace some of them! At times, I even found some of these forms magnetised on my fridge (usually past their due dates)”, he said with a laugh.
 
 He was quick to see the value of having a centralised portal for parents and schools to interact digitally. It will reduce or remove the need for paper-based correspondence. Eagerly, he began working on prototypes, coding in various functions that he felt would be useful for teachers and parents. 
 
