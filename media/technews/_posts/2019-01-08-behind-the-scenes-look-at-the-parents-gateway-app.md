@@ -47,7 +47,7 @@ Mr Song went on to build a team that would help realise the vision for Parents G
 
 ![Part of the MOE and GovTech team behind the Parents Gateway app](/images/technews/behind-the-scenes-look-at-the-parents-gateway-part4.png)
 
-“They [MOE officers] have the relevant experience and knowledge of processes in schools, so we were able to bounce ideas off them quickly, then design the application based on their recommendations. This helped to cut down the number of rounds of iterations which otherwise would require more time interacting with schools,” he explained.
+>“They [MOE officers] have the relevant experience and knowledge of processes in schools, so we were able to bounce ideas off them quickly, then design the application based on their recommendations. This helped to cut down the number of rounds of iterations which otherwise would require more time interacting with schools,” he explained.
 
 The team also did extensive research, consulting over 1,200 teachers and at least 2,000 parents to understand their needs. “When we build a feature or change something in Parents Gateway, it impacts more than 300 schools and 600,000 parents, so we need to take a practical and conscious approach.”
 
