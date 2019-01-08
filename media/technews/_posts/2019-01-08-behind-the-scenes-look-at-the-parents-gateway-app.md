@@ -67,12 +67,12 @@ Mr Song hopes that Parents Gateway can help to reduce administrative workload by
 
 Going forward, the team plans to use Parents Gateway to share information and resources to provide greater support for parents when their children are choosing schools or preparing for exams.
 
-Like a proud parent, Mr Song gets emotional whenever he sees parents using the app in malls or at the hawker centres. 
-
 ![Melvyn Song gestated the idea of the Parents Gateway](/images/technews/behind-the-scenes-look-at-the-parents-gateway-part6.png)
 *Melvyn Song gestated the idea of the Parents Gateway*
 
 ### **Personal Development**
+
+Like a proud parent, Mr Song gets emotional whenever he sees parents using the app in malls or at the hawker centres. 
 
 This project has also benefited Mr Song’s personal development and he is grateful for the support and opportunities given to lead and drive it. 
 
