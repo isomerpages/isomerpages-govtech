@@ -47,7 +47,7 @@ One point to note is that additional lighting provision was required in the tunn
 
 ![GovTechxLTA](/images/technews/what-is-photogrammetry-part3.png)
 
-Based on this experience, LTA continued to explore using digital photogrammetry as a functional tool for quick visualization. LTA is considering digital photogrammetry may be more appropriately applied in a separate use case creating quickly a virtual 3D model of structures above ground, for better appreciation of site conditions.
+Based on this experience, LTA continued to explore using digital photogrammetry as a functional tool for quick visualization. For example, it can be use to create a quick virtual 3D model of structures above ground. 
 
 ### **What are some of the challenges you face in your role as a geospatial specialist?**
 
