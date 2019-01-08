@@ -61,7 +61,7 @@ The team also did extensive research, consulting over 1,200 teachers and at leas
 
 By January 2018, Mr Song’s team was ready to field test a viable version of Parents Gateway. Ten schools were enrolled during the alpha phase which ended in October 2018. 
 
-Mr Song hoped that Parents Gateway can help to reduce administrative workload by at least 30 minutes per teacher per week, and that parents can have a positive experience using the app.  
+Mr Song hopes that Parents Gateway can help to reduce administrative workload by at least 30 minutes per teacher per week, and that parents can have a positive experience using the app.  
 
 “Ideally, the app will help to reduce the angst around administrative paperwork for both parents and teachers. This is only the beginning. Depending on the feedback we receive, we will implement more features frequently to meet other needs,” he added.
 
