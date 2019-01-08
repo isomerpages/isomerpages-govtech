@@ -33,7 +33,7 @@ He was quick to see the value of having a centralised portal for parents and sch
 
 Within a fortnight, a rudimentary version of Parents Gateway was ready—one that will allow schools to send notifications to parents online and let parents grant permission for their child to take part in certain school activities. 
 
-![The first prototype of the Parents Gateway – known as the Parents Interaction Centre](/images/technews/behind-the-scenes-look-at-the-parents-gateway-part2.png)
+![The first prototype of the Parents Gateway – known as the Parents Interaction Centre](/images/technews/ behind-the-scenes-look-at-the-parents-gateway-part2.png)
 
 ### **Phase 2: Refining the solution**
 
