@@ -135,13 +135,16 @@ The following list of projects has been funded under TRANS Grant. Where applicab
 
 <table class="table-h">
   <tr>
-    <th>TRANS Lab</th>
+    <!-- <th>TRANS Lab</th> -->
     <th>Agency</th>
     <th>Proposal Title</th>
     <th>Use Case</th>
   </tr>
   <tr>
-    <td rowspan="8">A*STAR</td>
+	  <td colspan="3"><b>TRANS Lab: A*STAR</b></td>
+  </tr>	
+  <tr>
+    <!-- <td colspan="3">TRANS Lab: A*STAR</td> -->
     <td>MCI</td>
     <td>Customised Government Machine Translation Engine</td>
     <td>Use of machine translation technology to produce a more accurate and contextualised translation engine using past translations as input. The final Chinese-to-English and English-to-Chinese engines are already delivered and currently in use. Work is currently in progress to develop the Malay-to-English and English-to-Malay engines.</td>
@@ -181,9 +184,11 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <td>Customised Malay‐English Translation Engine</td>
     <td>Use of Machine Translation Technology to produce a more accurate and contextualized translation engine using past translations as inputs.</td>
   </tr>
-	<tr></tr>
   <tr>
-    <td rowspan="5">NTU</td>
+	  <td colspan="3"> <b>TRANS Lab: NTU</b></td>
+  </tr>	
+  <tr>
+    <!-- <td rowspan="5">NTU</td> -->
     <td>Supreme Court and State Courts</td>
     <td>Intelligent Case Retrieval System for Singapore Judiciary</td>
     <td>Utilize AI tools that understand the case details and do research by trawling through the case repositories and identifying points of law, relevant precedents and possible outcomes to guide judges. Tool should also provide possible outcomes to potential litigants prior to filing their case.</td>
@@ -209,7 +214,10 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <td>Zero Energy Management System that Combine Energy Harvesting on Individual Streetlight and Cluster Level.</td>
   </tr>
   <tr>
-    <td rowspan="3">SMU</td>
+	  <td colspan="3"><b>TRANS Lab: SMU</b></td>
+  </tr>	
+  <tr>
+    <!-- <td rowspan="3">SMU</td> -->
     <td>MND</td>
     <td>Mobile Crowd-sourcing via OneService</td>
     <td>CrowdTask mini-tasks to citizens in the vicinity to participate in municipal services to encourage Active Citizenry.</td>
