@@ -79,3 +79,4 @@ This project has also benefited Mr Song’s personal development and he is grate
 He had to adjust his leadership style and mindset from relying on outcome-based management to one that looks at team optimisation. Managing multiple stakeholders and appreciating diversity is also part and parcel of his job now. 
 
 In the new year, Mr Song hopes to see more public officers taking ownership for what they care for and start to “think bigger, fail faster, and learn quicker” to create better digital services for Singapore.
+
