@@ -3,7 +3,7 @@ layout: post
 title:  "Singapore entities to get one identification number for all government interaction"
 permalink: "/media/technews/singapore-entities-to-get-one-identification-number-for-all-government-interaction"
 category: technews
-image:
+image: "/images/technews/5-things-about-parents-gateway-part1.png" 
 ---
 
 From 1 January 2009, any entity registered in Singapore will have a Unique Entity Number (UEN) as its identification number, which will be used for all interaction with government agencies. The entity could be a business, local company, limited liability partnership (LLPs), society, representative office, healthcare institution or trade union.
