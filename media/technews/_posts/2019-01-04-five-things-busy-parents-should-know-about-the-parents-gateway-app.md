@@ -57,5 +57,5 @@ Another critical touchpoint between parents and schools is the parent-teacher co
 
 These functions and more will be added gradually to Parents Gateway to serve the needs of teachers, parents and children better, so stay tuned!
 
-Learn more about the app's development journey too. Read on here: [Behind-the-scenes look at the Parents Gateway app](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app)
+[Learn more about the app's development journey too. Read on here: Behind-the-scenes look at the Parents Gateway app](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app)
 ---
