@@ -24,24 +24,24 @@ hero-banner: /images/Banner_GovTech2.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/our-role/
+    url: /who-we-are/our-role/?utm_source=hero_banner
 
 # Key Highlights
 key-highlights:
   - title: PRODUCTS AND SERVICES
     description: Programmes for citizens, businesses and government agencies
-    url: https://www.tech.gov.sg/products-and-services/
+    url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
     external: true
   - title: DIGITAL GOVERNMENT BLUEPRINT
     description: To create a Government that is “Digital to the Core, and Serves with Heart"
-    url: /digital-government-blueprint/
+    url: /digital-government-blueprint/?utm_source=hero_banner
   - title: SUBSCRIBE TO TECHNEWS
     description: Get the latest news and highlights from GovTech
-    url: https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd
+    url: https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd/?utm_source=hero_banner
     external: true
   - title: SMART NATION <br> SCHOLARSHIP
     description: Unleash your passion and potential with us
-    url: /careers/students-and-graduates/
+    url: /careers/students-and-graduates/?utm_source=hero_banner
     external: true
 
 # Programmes Section
@@ -50,13 +50,13 @@ programmes-title: Products and Services
 programmes-subtitle: Co-creating for better value
 programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
 programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/
+programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
 resources-more-button: More Media
-resources-more-button-url: /media/
+resources-more-button-url: /media/?utm_source=media_homepage
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
@@ -64,4 +64,4 @@ careers-title: Careers
 careers-subtitle: Be part of the digital transformation
 careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
 careers-more-button: Explore Opportunities
-careers-more-button-url: /careers/our-culture-and-values/
+careers-more-button-url: /careers/our-culture-and-values/?utm_source=careers_homepage
