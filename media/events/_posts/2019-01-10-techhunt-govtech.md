@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TechHunt @ GovTech"
+title:  "TechHunt @ GovTech on 20 February"
 permalink: "/media/events/techhunt-at-govtech"
 category: events
 ---
