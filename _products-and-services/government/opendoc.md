@@ -14,8 +14,8 @@ Public accessing documents on the OpenDoc platform can look forward to these key
  
 * **Readability** – with a responsive design, documents adapt to all types of devices, allowing for comfortable viewing anytime, anywhere;
 
-* **Searchability** – complex searches are executed at a high speed, ensuring that users get relevant and accurate content fast;
+* **Searchability** – complex searches are executed at a high speed, ensuring that users get relevant and accurate content fast; and
 
-* **Accessibility** – documents can be accessed quickly without having to download files separately
+* **Accessibility** – documents can be accessed quickly without having to download files separately.
 
 If you are interested in using OpenDoc for your public Government document, email us at [admin@opendoc.sg](admin@opendoc.sg) with your name, agency, and information about the document you want to build or migrate.
