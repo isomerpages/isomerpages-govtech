@@ -29,4 +29,4 @@ category: events
 </table>
 
 
-Keen to attend? Find out more [here](https://www.hackertrail.com/m/govtech/). Application closes on **14 February 2019**.
+Keen to attend? Find out more [here](https://www.hackertrail.com/m/govtech). Application closes on **14 February 2019**.
