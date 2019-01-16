@@ -237,10 +237,8 @@ The following list of projects has been funded under TRANS Grant. Where applicab
 
 ### **Contact Us**<br>
 Please contact us at INNOVATE@tech.gov.sg for the following:
-* To contribute problem statements
+* To contribute problem statements (Please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx)
 * To use any of the TRANS Grant funded projects for your applications
 * To collaborate with the TRANS Labs
 * To commercialise the TRANS Grant funded projects
-* If you have any queries or ideas looking for innovative solutions
-
-To submit a problem statement, please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx). 
+* If you have any queries or ideas looking for innovative solutions 
