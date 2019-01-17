@@ -15,7 +15,7 @@ Launched in October 2018, the NDI Developer and Partner Portal enables developer
 The API library includes:
 
 
-
+![MyInfo](/images/programmes/products-and-services/myinfo-private-sector.png)
 
 
 **Trusted Data:**
@@ -35,4 +35,4 @@ The API library includes:
 **Trusted Services:**
 * Facilitate development of new opportunities or value-added services, leveraging trusted data, trusted identity and trusted access, for better business efficiencies and more intuitive user experience e.g. Digital signing, which will allow businesses to create, sign and validate contracts more efficiently and securely
  
-If you are a business owner or interested to integrate your apps with National Digital Identity, please visit [NDI-API.gov.sg](www.ndi-api.gov.sg) today!
+If you are a business owner or interested to integrate your apps with National Digital Identity, please visit [NDI-API.gov.sg](https://www.ndi-api.gov.sg) today!
