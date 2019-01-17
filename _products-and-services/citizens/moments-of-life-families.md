@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Moments of Life: Families
+title: "Moments of Life: Families"
 permalink: /products-and-services/moments-of-life-families/
 breadcrumb: Moments of Life Families
 collection_name: products-and-services
