@@ -65,8 +65,6 @@ Vincent Kor
 
 Vincent is the General Counsel of the Government Technology Agency where he heads its Legal Division.
 
-![Resolving Technology Disputes through ADR](/images/technews/resolving-technology-disputes-through-adr-part5.png)
-
 <img src="/images/technews/resolving-technology-disputes-through-adr-part5.png" 
      alt="Resolving Technology Disputes through ADR_Chiara" 
      width="178" 
