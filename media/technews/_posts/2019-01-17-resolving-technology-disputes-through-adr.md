@@ -59,7 +59,7 @@ This landmark Convention reinforces Singapore’s position as a leading and trus
 ![Resolving Technology Disputes through ADR](/images/technews/resolving-technology-disputes-through-adr-part4.png)
 
 Vincent Kor
-Vincent is the General Counsel of Government Technology Agency where he heads its Legal Division.
+Vincent is the General Counsel of the Government Technology Agency where he heads its Legal Division.
 
 ![Resolving Technology Disputes through ADR](/images/technews/resolving-technology-disputes-through-adr-part5.png)
 
