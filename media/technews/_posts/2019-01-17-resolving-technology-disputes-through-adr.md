@@ -56,20 +56,10 @@ This new Singapore Convention provides for the cross-border enforcement of media
 
 This landmark Convention reinforces Singapore’s position as a leading and trusted international forum for dispute resolution. A position steadily built over the years through the establishment of various ADR institutions as well as Maxwell Chambers where many highly regarded and reputable ADR providers like the WIPO Arbitration and Mediation Centre are located.  The Singapore Convention on Mediation is testament to the advantages and benefits of ADR in the efficient and effective resolution of technology disputes. 
 
-<img src="/images/technews/resolving-technology-disputes-through-adr-part4.png" 
-     alt="Resolving Technology Disputes through ADR_Vincent Kor" 
-     width="178" 
-     height="196" />
 
 Vincent Kor
 
 Vincent is the General Counsel of the Government Technology Agency where he heads its Legal Division.
-
-<img src="/images/technews/resolving-technology-disputes-through-adr-part5.png" 
-     alt="Resolving Technology Disputes through ADR_Chiara" 
-     width="178" 
-     height="196" />
-
 
 Chiara Accornero
 
