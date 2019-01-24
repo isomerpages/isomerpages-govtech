@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-tech-behind-the-moments-of-life.jpeg"
 ---
 
-![Mr Hoon Ding Yi, a software engineer, worked on the Moments of Life (Families) app](/images/technews/the-tech-behind-the-moments-of-life.jpeg)
+![Mr Hoon Ding Yi, a software engineer, worked on the Moments of Life (Families) app](/images/technews/the-tech-behind-the-moments-of-life-app.jpg)
 
 At the Government Technology Agency (GovTech), developers are far from the typical image of workers hunched over computers, typing lines of code all day.
 
