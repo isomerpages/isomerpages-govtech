@@ -62,4 +62,4 @@ Along the way, Ding Yi has found that using the right processes helps to shape a
 
 He adds: “I used to think of systems, especially software systems, as autonomous. This Moments of Life (Families) project has made me realise how wrong I was. Software systems are a direct reflection of the team that built it.”
 
-*The article was adapted from [Challenge Magazine](https://www.psd.gov.sg/challenge/ideas/feature/the-tech-behind-the-moments-of-life-(families)-app)* 
+*The article was adapted from [Challenge Magazine](https://www.psd.gov.sg/challenge/ideas/feature/the-tech-behind-the-moments-of-life-(families)-app)*. 
