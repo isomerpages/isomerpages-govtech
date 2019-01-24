@@ -8,7 +8,7 @@ image:
 
 ![e payment](/images/technews/e-payments-guideposts-to-a-smart-nation-part-1.jpg)
 
-*Contributed by Vincent Kor*
+**Contributed by Vincent Kor**
 
 “You’ve got an Angbao” the app notification flashed on my nephew’s mobile. 
 
