@@ -8,6 +8,8 @@ image:
 
 ![e payment](/images/technews/e-payments-guideposts-to-a-smart-nation-part-1.jpg)
 
+*Contributed by Vincent Kor*
+
 “You’ve got an Angbao” the app notification flashed on my nephew’s mobile. 
 
 “Thanks uncle, Gong Xi Fa Cai!“ he beamed excitedly and raced to his parents to show off his first digital red packet. As I watched my young nephew’s excitement, I instantly thought of how digitalising the traditional custom of red packet-giving is one of the sparks propelling the e-payment juggernaut across Asia. 
@@ -50,3 +52,5 @@ As an example, e-wallets and payment apps which allow users to make payments fro
 When enacted, the PS Bill will enhance MAS’ ability to implement appropriate user protection measures in a broad range of payment services. In turn, such measures would provide users even more assurance and confidence in their use of e-payment services. Viewed together with PayNow, SGQR and other market-led innovations, an expanded regulatory framework for payments is timely and would be much welcomed.
 
 With the expected double-digit growth rates in e-payment activities across Asia in the coming decade, Singapore’s continued efforts to develop an accessible, efficient and interoperable payments ecosystem serve as shining guideposts in the journey towards building a Smart Nation.
+
+*Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division.*
