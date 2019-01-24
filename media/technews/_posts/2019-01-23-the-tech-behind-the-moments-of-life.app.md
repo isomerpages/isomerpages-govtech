@@ -43,10 +43,12 @@ The second system, called Application Programming Interface Exchange (APEX), all
 Both resources are part of the [Singapore Government Tech Stack](https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/). As the Tech Stack was newly introduced when the Moments of Life (Families) app was being built, many agencies had to enhance their systems to connect to the Tech Stack.
 
 ---
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vt-r2vCqSh8&" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="bp-youtube">   
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 But with APEX making it easier to link various systems together, says Ms Lee May Gee, Director, Moments of Life (Families) Programme Office, the agencies were supportive and able to quickly upgrade their systems to match.
 
