@@ -8,6 +8,8 @@ image: "/images/technews/cybersecurity-a-concentric-approach-part-1.png"
 
 ![cybersecurity: a concentric approach](/images/technews/cybersecurity-a-concentric-approach-part-1.png)
 
+**Contributed by Vincent Kor**
+
 “You can’t do that!”, she exclaims.
 
 His fingers race across the keyboard, he grins and says, “Already done.”.
@@ -67,3 +69,5 @@ Through a creative series of outreach programmes, Jaga provides useful reminders
 Individuals, organisations and nations share a common responsibility to help each other stay cyber-secure.
 
 And that, we can do, together.
+
+*Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division.*
