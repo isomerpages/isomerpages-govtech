@@ -48,8 +48,6 @@ Both resources are part of the [Singapore Government Tech Stack](https://www.tec
 </div>
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 But with APEX making it easier to link various systems together, says Ms Lee May Gee, Director, Moments of Life (Families) Programme Office, the agencies were supportive and able to quickly upgrade their systems to match.
 
 Their support, along with using shared government digital resources and the agile methodology, kept the Moments of Life (Families) project on schedule. The app was launched within a year – and “without any major hiccups”, adds Ding Yi.
