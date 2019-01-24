@@ -40,7 +40,7 @@ The first, the Next-Generation Container Architecture or NECTAR, is a platform p
 
 The second system, called Application Programming Interface Exchange (APEX), allows GovTech’s systems to easily “talk” or exchange information with the digital systems of other public agencies.
 
-Both resources are part of the Singapore Government Tech Stack. As the Tech Stack was newly introduced when the Moments of Life (Families) app was being built, many agencies had to enhance their systems to connect to the Tech Stack.
+Both resources are part of the [Singapore Government Tech Stack](https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/). As the Tech Stack was newly introduced when the Moments of Life (Families) app was being built, many agencies had to enhance their systems to connect to the Tech Stack.
 
 ---
 <div class="bp-youtube">
