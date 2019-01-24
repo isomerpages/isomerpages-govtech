@@ -18,6 +18,10 @@ They also do “pair programming” – each task is assigned two developers who
 
 That written code gets reviewed by the end of the day by team members. This rapid and involved way of working is part of the agile methodology used to develop the Moments of Life (Families) app.
 
+
+[Five key features of the new Moments of Life (Families) app](https://www.tech.gov.sg/media/technews/five-key-features-of-the-new-moments-of-life-app)
+---
+
 ### **A more agile way of working**
 
 Many public agencies had to work together on the Moments of Life (Families) project. Besides GovTech, there was the Public Service Division (PSD), Ministry of Social and Family Development (MSF), Early Childhood Development Agency (ECDA), Immigration & Checkpoints Authority (ICA) and Health Promotion Board (HPB).
