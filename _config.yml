@@ -64,7 +64,7 @@ feedback_form_url: "https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
 homepage_programmes: true
 homepage_resources: true
-homepage_careers: true
+homepage_careers: false
 
 # Custom CSS file path
 custom_css_path: "/do-not-touch/theme-colors/custom.css"
