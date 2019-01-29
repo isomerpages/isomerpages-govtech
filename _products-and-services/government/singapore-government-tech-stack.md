@@ -32,13 +32,15 @@ One of the early uses of SGTS was the [MyInfo](http://myinfo.gov.sg){:target="_b
 ## A better, smarter, faster way for building applications
 
 
+
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
+More on NECTAR and APEX [here.](/media/technews/getting-to-know-nectar-and-apex/){:target="_blank"} 
+
+
 [Singapore Government Tech Stack Infographic](/images/programmes/products-and-services/sgts-infographic-28-Sep.jpg){:target="_blank"}
 
 [Singapore Government Tech Stack Factsheet](/files/products-and-services/sg-tech-stack-media-factsheet-sep-2018.pdf){:target="_blank"}
-
-More on NECTAR and APEX [here.](/media/technews/getting-to-know-nectar-and-apex/){:target="_blank"} 
