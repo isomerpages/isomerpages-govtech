@@ -29,6 +29,12 @@ Agencies can focus on designing solutions that best meet the needs of those they
 
 One of the early uses of SGTS was the [MyInfo](http://myinfo.gov.sg){:target="_blank"} bank pilot. It was developed and delivered in four months, instead of the usual timeframe of a year. [MyCareersFuture.sg](http://www.MyCareersFuture.sg){:target="_blank"} is another project built on SGTS. This allowed the development team to focus on building a scalable web service, without the need to develop its own infrastructure.
 
+## A better, smarter, faster way for building applications
+
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 [Singapore Government Tech Stack Infographic](/images/programmes/products-and-services/sgts-infographic-28-Sep.jpg){:target="_blank"}
 
 [Singapore Government Tech Stack Factsheet](/files/products-and-services/sg-tech-stack-media-factsheet-sep-2018.pdf){:target="_blank"}
