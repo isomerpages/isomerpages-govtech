@@ -1,0 +1,69 @@
+---
+layout: post
+title: "8 tech terms to impress your relatives with this lunar new year"
+permalink: "/media/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year"
+category: technews
+image: "/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part0.png"
+---
+
+![GovTech wishes you a happy lunar new year](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part0.png)
+
+Want to make small talk with relatives during the lunar new year celebrations? Steer the conversation away from awkward topics and impress everyone with our handy list of 8 tech terms that are relevant to everyone’s lives.
+---
+
+It’s that time of the year again when bak gua prices suddenly soar, dieting plans go out the window and the young or unmarried look forward to an unofficial bonus contained in a stack of angbaos. This lunar new year season, as you meet up with members of your great-grandparents’ extended bloodline, why not use the following eight (huat ah!) tech buzzwords to strike up some interesting conversations?
+
+![Artificial Intelligence](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part1.png)
+
+**Artificial Intelligence (人工智能 Réngōng zhìnéng)**
+
+No, this is not the Hanyu Pinyin of the title of that Taiwanese soap opera from almost a decade ago. AI stands for artificial intelligence, and you can tell your relatives that it refers to machines that can think and learn to perform specific functions. As an illustration of the technology, whip out your latest iPhone and ask Siri for the weather, or demonstrate how e-commerce websites know how to recommend you things that you like. All these applications require AI, and the odds are everyone is already using AI in one form or another.
+
+![Big Data](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part2.png)
+
+**Big Data (大数据 Dàshùjù)**
+
+Prosperity and abundance are key themes of lunar new year wishes. But something else has become extremely abundant in this digital age—data. It has been estimated that by 2025, the amount of data accumulated worldwide will amount to 175 zettabytes, or 175 trillion gigabytes. Such huge datasets represent a treasure trove of insights into human behaviour. Unsurprisingly, governments and companies are keen to analyse such datasets to develop better products and services for citizens and clients.
+
+![cybersecurity](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part3.png)
+
+**Cybersecurity (网络安全 Wǎngluò ānquán)**
+
+With increasing digitalisation comes a higher risk of cyber attacks. Computer viruses or malware are rampant in cyberspace, so remind all your relatives to update the antivirus software on their smartphones, tablets and laptops when you see them this lunar new year! The only fish that you want in your life now is the sliced one in your yusheng, not fishy business involving your social media accounts, so click on these links to find out how to steer clear of phishing attempts and keep cybercriminals at bay.
+
+![digital identity](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part4.png)
+
+
+**Digital Identity (数码身份认证 Shùmǎ shēnfèn rènzhèng)**
+
+Festive seasons like the lunar new year are often a time for reflection and reminiscence.  Looking back at your own life, you’ve probably taken on several identities over the years. They are represented by different online usernames and passwords. These identities will be consolidated under the upcoming National Digital Identity programme, which can vouch for your identity when accessing public and private sector services.
+
+For a start, citizens can log in with their SingPass Mobile (电子政府密码应用) from anywhere, at any time, Relevant personal information can also be drawn from the government-verified data vault MyInfo when transacting online soon.
+
+![e-payments](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part5.png)
+
+**E-payments (电子支付 Diànzǐ zhīfù)**
+
+The giving of angbaos or red packets containing money is an age-old Chinese tradition. In recent years, however, some financial service providers have introduced the digital or e-angbao, so you can tell your uncles or aunties that next year, maybe they won’t have to carry physical red packets around anymore! Also, with the rollout of the SGQR code, which simplifies transactions between consumers and merchants, and PayNow, which serves as a unified platform for online fund transfers, going cashless in Singapore is easier than ever before. Having said that, if you’re on the receiving end of angbaos, physical or digital, good for you! 
+
+![Moments of Life](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part6.png)
+
+**Moments of Life (人生旅程助手 Rénshēng lǚchéng zhùshǒu)**
+
+During critical turning points in life—whether you’re setting up a family, a company, or caring for an ageing parent—transactions with the government are often inevitable. In situations such as these, the less friction between you and the government agency the better. Digitalisation allows more efficient and streamlined delivery of services to businesses and citizens. Yet, it is not just about moving processes online, but also about unifying multiple touchpoints into a single coherent service journey. 
+
+This is being achieved through the Moments of Life (MOL) platform, spearheaded by the Government Technology Agency of Singapore (GovTech). The Moments of Life (Families) mobile app is an example. Whether you need to apply for the Baby Bonus or finding a preschool for your children, the app got it covered!
+
+![SGTS](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part7.png)
+
+**Government Technology Stack (新加坡政府科技堆栈 Xīnjiāpō zhèngfǔ kējì duīzhàn)**
+
+From spring cleaning to whipping up a feast, a lot of work goes on behind-the-scenes when preparing for lunar new year celebrations. The same goes for creating family-centric apps and government digital services. In fact, a whole new digital infrastructure—the Singapore Government Technology Stack (SGTS)—has been built by GovTech. Think of SGTS as a factory line where many different parts can be mixed and matched to assemble a variety of products, and instructions for assembly are freely shared among authorised personnel. This optimised workflow allows more and better government digital services to be delivered to citizens in a shorter time.
+
+![Smart Lamp Post](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part8.png)
+
+**Smart Lamp Posts (智能街灯 Zhìnéng jiēdēng)**
+
+When celebrations drag on into the wee hours of the morning, you’ll be grateful for Singapore’s brightly lit streets as you make your way home. Soon, the lamp posts along the roads could be doing much more than provide illumination. GovTech has been working on smart lamp posts that can record things like traffic conditions, footfall, temperature and humidity using a variety of cameras, sensors and Internet of Things devices. These lamp posts will form the backbone of the Smart Nation Sensor Platform, helping the Singapore government to gather urban and environmental data so as to better plan our cityscape.
+
+So there you have it, eight tech terms to share with your relatives and friends this lunar new year. If nothing else, these talking points could help divert the conversation away from those awkward questions about your grades or relationship status. Gong xi fa cai!
