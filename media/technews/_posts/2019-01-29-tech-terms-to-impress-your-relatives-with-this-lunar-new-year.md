@@ -36,9 +36,11 @@ With increasing digitalisation comes a higher risk of cyber attacks. Computer vi
 
 **Digital Identity (数码身份认证 Shùmǎ shēnfèn rènzhèng)**
 
-Festive seasons like the lunar new year are often a time for reflection and reminiscence.  Looking back at your own life, you’ve probably taken on several identities over the years. They are represented by different online usernames and passwords. These identities will be consolidated under the upcoming National Digital Identity programme, which can vouch for your identity when accessing public and private sector services.
+Festive seasons like the lunar new year are often time for spring cleaning. Looking back, you’ve probably had countless user IDs and passwords over the years. How about a day when you don't need to remember more than just one?
 
-For a start, citizens can log in with their SingPass Mobile (电子政府密码应用) from anywhere, at any time, Relevant personal information can also be drawn from the government-verified data vault MyInfo when transacting online soon.
+The upcoming National Digital Identity programme aims to streamline your access to public and private sector services (one ID to rule them all!)
+
+As part of the NDI programme, citizens can log in using their fingerprint (for selected phones) with the new SingPass Mobile app (电子政府密码应用). New features will be added into the app soon. These include a dashboard that allows you to view all your relevant personal information (e.g. CPF balance, passport expiry date) at one glance!
 
 ![e-payments](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part5.png)
 
