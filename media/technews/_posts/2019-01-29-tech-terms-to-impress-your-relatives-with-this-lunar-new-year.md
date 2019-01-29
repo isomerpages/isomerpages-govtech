@@ -15,7 +15,7 @@ It’s that time of the year again when bak gua prices suddenly soar, dieting pl
 
 ![Artificial Intelligence](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part1.png)
 
-### **Artificial Intelligence (人工智能 Réngōng zhìnéng)**
+### **AI - Artificial Intelligence (人工智能 Réngōng zhìnéng)**
 
 No, this is not the Hanyu Pinyin of the title of that Taiwanese soap opera from almost a decade ago. AI stands for artificial intelligence, and you can tell your relatives that it refers to machines that can think and learn to perform specific functions. As an illustration of the technology, whip out your latest iPhone and ask Siri for the weather, or demonstrate how e-commerce websites know how to recommend you things that you like. All these applications require AI, and the odds are everyone is already using AI in one form or another.
 
