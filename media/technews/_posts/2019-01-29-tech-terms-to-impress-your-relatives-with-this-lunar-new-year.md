@@ -29,7 +29,7 @@ Prosperity and abundance are key themes of lunar new year wishes. But something 
 
 ### **Cybersecurity (网络安全 Wǎngluò ānquán)**
 
-With increasing digitalisation comes a higher risk of cyber attacks. Computer viruses or malware are rampant in cyberspace, so remind all your relatives to update the antivirus software on their smartphones, tablets and laptops when you see them this lunar new year! The only fish that you want in your life now is the sliced one in your yusheng, not fishy business involving your social media accounts, so click on [these](ttps://www.tech.gov.sg/media/technews/cybersecurity-tips-everyone-can-use) [links](https://www.tech.gov.sg/media/technews/5-cybersecurity-tips-from-huawei-chief-cybersecurity-officer) to find out how to steer clear of phishing attempts and keep cybercriminals at bay.
+With increasing digitalisation comes a higher risk of cyber attacks. Computer viruses or malware are rampant in cyberspace, so remind all your relatives to update the antivirus software on their smartphones, tablets and laptops when you see them this lunar new year! The only fish that you want in your life now is the sliced one in your yusheng, not fishy business involving your social media accounts, so click on [these](https://www.tech.gov.sg/media/technews/cybersecurity-tips-everyone-can-use) [links](https://www.tech.gov.sg/media/technews/5-cybersecurity-tips-from-huawei-chief-cybersecurity-officer) to find out how to steer clear of phishing attempts and keep cybercriminals at bay.
 
 ![digital identity](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part4.png)
 
