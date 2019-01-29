@@ -33,7 +33,6 @@ With increasing digitalisation comes a higher risk of cyber attacks. Computer vi
 
 ![digital identity](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part4.png)
 
-
 **Digital Identity (数码身份认证 Shùmǎ shēnfèn rènzhèng)**
 
 Festive seasons like the lunar new year are often time for spring cleaning. Looking back, you’ve probably had countless user IDs and passwords over the years. How about a day when you don't need to remember more than just one? The upcoming National Digital Identity programme aims to streamline your access to public and private sector services (one ID to rule them all!)
@@ -50,9 +49,7 @@ The giving of angbaos or red packets containing money is an age-old Chinese trad
 
 **Moments of Life (人生旅程助手 Rénshēng lǚchéng zhùshǒu)**
 
-During critical turning points in life—whether you’re setting up a family, a company, or caring for an ageing parent—transactions with the government are often inevitable. In situations such as these, the less friction between you and the government agency the better. Digitalisation allows more efficient and streamlined delivery of services to businesses and citizens. Yet, it is not just about moving processes online, but also about unifying multiple touchpoints into a single coherent service journey. 
-
-This is being achieved through the Moments of Life (MOL) platform, spearheaded by the Government Technology Agency of Singapore (GovTech). The Moments of Life (Families) mobile app is an example. Whether you need to apply for the Baby Bonus or finding a preschool for your children, the app got it covered!
+Whether you’re setting up a family, a company, or caring for an ageing parent - we all hope for a smooth process and year ahead. To support citizens through these important phases of life, GovTech has launched family-centric apps such as the Moments of Life (Families) mobile app and the Parents Gateway mobile app for young parents. Whether you need to apply for the Baby Bonus or fill in a consent form for school activities, these apps have got you covered!
 
 ![SGTS](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part7.png)
 
