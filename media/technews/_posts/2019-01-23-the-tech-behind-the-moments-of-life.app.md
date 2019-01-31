@@ -3,7 +3,7 @@ layout: post
 title: "The Tech Behind The Moments Of Life (Families) App"
 permalink: "/media/technews/the-tech-behind-the-moments-of-life"
 category: technews
-image: "/images/technews/the-tech-behind-the-moments-of-life.jpeg"
+image: "/images/technews/the-tech-behind-the-moments-of-life.jpg"
 ---
 
 ![Mr Hoon Ding Yi, a software engineer, worked on the Moments of Life (Families) app](/images/technews/the-tech-behind-the-moments-of-life-app.jpg)
