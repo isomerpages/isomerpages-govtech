@@ -16,7 +16,7 @@ The Ministry Family Digitalisation Guide helps all Government ministries and age
 
 [Ministry Family Digitalisation Guide]({{"/files/digital-transformation/ministry-family-digitalisation-guide.pdf" | absolute_url }}){:target="_blank"}
 
-##### **Digital Services Standards**
+##### **Digital Service Standards**
 
 [Digital Service Standards (DSS)](/digital-service-standards/){:target="_blank"} is a set of standards for agencies to implement their digital services to meet the Digital Government Blueprint (DGB) goal of delivering digital services that are easy, seamless and relevant for our citizens and businesses.
 
