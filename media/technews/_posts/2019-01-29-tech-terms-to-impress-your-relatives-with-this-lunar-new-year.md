@@ -37,7 +37,7 @@ With increasing digitalisation comes a higher risk of cyber attacks. Computer vi
 
 Festive seasons like the lunar new year are often time for spring cleaning. Looking back, you’ve probably had countless user IDs and passwords over the years. How about a day when you don't need to remember more than just one? The upcoming National Digital Identity programme aims to streamline your access to public and private sector services (one ID to rule them all!). 
 
-As part of the NDI programme, citizens can log in using their fingerprint (for selected phones) with the new [SingPass Mobile app](https://singpassmobile.sg/) (电子政府密码应用). New features will be added into the app soon. These include a dashboard that allows you to view all your relevant personal information (e.g. CPF balance, passport expiry date) at one glance!
+As part of the NDI programme, citizens can log in using their fingerprint or facial recognition (for selected phones) with the new [SingPass Mobile app](https://singpassmobile.sg/) (电子政府密码应用). New features will be added into the app soon. These include a dashboard that allows you to view all your relevant personal information (e.g. CPF balance, passport expiry date) at one glance!
 
 ![e-payments](/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part5.png)
 
