@@ -18,7 +18,7 @@ For example, if you want him or her to say “Love you lots” The encoded URL m
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part2.png)
 
-### **Step 2: Enter your WhatsApp mobile number: [https://wa.me/65xxxxxxxx/?text=**](https://wa.me/65xxxxxxxx/?text=**)
+### **Step 2: Enter your WhatsApp mobile number: [https://wa.me/65xxxxxxxx/?text=](https://wa.me/65xxxxxxxx/?text=)**
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part3.png)
 
