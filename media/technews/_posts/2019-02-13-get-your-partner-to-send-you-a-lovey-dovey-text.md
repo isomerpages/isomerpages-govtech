@@ -28,13 +28,13 @@ https://wa.me/65xxxxxxxx/?text=YourEncodeUrlMessage and send it to your bae!
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part4.png)
 
-### **Here are some sample encoded messages you can consider for a start. Give it a try.**
+### **Here are some sample encoded messages you can consider for a start. Insert your WhatsApp mobile number and give it a try.**
 
 Sample message 1: I love you;
-insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=I%20love%20you](https://wa.me/65xxxxxxxx/?text=I%20love%20you)
+[https://wa.me/65xxxxxxxx/?text=I%20love%20you](https://wa.me/65xxxxxxxx/?text=I%20love%20you)
 
 Sample message 2: Shall we apply for bto?; 
-insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F](https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F)
+[https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F](https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F)
 
 Sample message 3: you so pretty, I am stunned like vegetable; 
-insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20](https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20)
+[https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20](https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20)
