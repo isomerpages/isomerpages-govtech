@@ -18,7 +18,7 @@ For example, if you want him or her to say “Love you lots” The encoded URL m
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part2.png)
 
-### **Step 2: Enter your WhatsApp mobile number: https://wa.me/65xxxxxxxx/?text=**
+### **Step 2: Enter your WhatsApp mobile number: [https://wa.me/65xxxxxxxx/?text=**](https://wa.me/65xxxxxxxx/?text=**)
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part3.png)
 
@@ -31,10 +31,10 @@ https://wa.me/65xxxxxxxx/?text=YourEncodeUrlMessage and send it to your bae!
 ### **Here are some sample encoded messages you can consider for a start. Give it a try.**
 
 Sample message 1: I love you;
-Insert your mobile number in this URL: https://wa.me/65xxxxxxxx/?text=I%20love%20you**
+Insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=I%20love%20you](https://wa.me/65xxxxxxxx/?text=I%20love%20you)
 
 Sample message 2: Shall we apply for bto?; 
-Insert your mobile number in this URL: https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F 
+Insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F](https://wa.me/65xxxxxxxx/?text=shall%20we%20apply%20for%20bto%3F)
 
 Sample message 3: you so pretty, I am stunned like vegetable; 
-Insert your mobile number in this URL: https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20 
+Insert your mobile number in this URL: [https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20](https://wa.me/65xxxxxxxx/?text=you%20so%20pretty%2C%20I%20am%20stunned%20like%20vegetable%20)
