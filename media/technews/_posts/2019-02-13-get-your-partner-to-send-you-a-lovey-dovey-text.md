@@ -12,7 +12,7 @@ image: "/images/technews/technews-v-day-part1.png"
 Not getting the lovey-dovey text you deserve this Valentine’s Day? Fret not! We are here to save your day. Simply follow the steps below and nudge your partner with this cool WhatsApp Hack. With lots of love, from all of us at GovTech. 
 ---
 
-### **Step 1: Encode the message you would like to see from your partner using this URL encoder: https://www.urlencoder.org/.** 
+### **Step 1: Encode the message you would like to see from your partner using this URL encoder: [https://www.urlencoder.org](https://www.urlencoder.org).** 
 
 For example, if you want him or her to say “Love you lots” The encoded URL message will read: “Love%20you%20lots” 
 
