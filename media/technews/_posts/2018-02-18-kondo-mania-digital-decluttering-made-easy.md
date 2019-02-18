@@ -51,7 +51,7 @@ Besides digital decluttering, we recommend decluttering life with digital tools 
 
 ### **1. MyInfo**
 
-Does filling in forms spark joy? Probably not. Now, with [MyInfo](https://www.singpass.gov.sg/myinfo/intro) — a government-verified database of personal data — you no longer need to manually key in your personal information when applying for government digital services or certain private sector services. Simply grant your consent and the relevant information such as your identification number and contact details will be automatically added to online documents and shared with the service provider. 
+Does filling in forms spark joy? Probably not. Now, with [MyInfo](https://www.singpass.gov.sg/myinfo/intro) — a government-verified personal data platform — you no longer need to manually key in your personal information when applying for government digital services or certain private sector services. Simply consent and the relevant information such as your identification number and contact details will be automatically added to online documents and shared with the service provider. 
 
 
 ### **2. Parking.sg**
