@@ -13,12 +13,12 @@ The world has become so fast paced that people don’t want to stand by reading 
 
 ---
 
-### **Centres of Excellence (CentEx)**
+### **Capability Centres**
 
-We seek to build capabilities in new technologies important for a Smart Nation. GovTech is focused on building six Centres of Excellence (CentEx):
+We seek to build capabilities in new technologies important for a Smart Nation. GovTech is focused on building five Capability Centres: 
+
 * Application Development
 * Cybersecurity
 * Data Science
 * Government ICT Infrastructure
-* Geospatial Technology
 * Sensors & IoT
