@@ -15,7 +15,7 @@ The world has become so fast paced that people don’t want to stand by reading 
 
 ### **Capability Centres**
 
-We seek to build capabilities in new technologies important for a Smart Nation. GovTech is focused on building five Capability Centres: 
+We seek to build capabilities in new technologies important for a Smart Nation. GovTech is focused on building the following Capability Centres: 
 
 * Application Development
 * Cybersecurity
