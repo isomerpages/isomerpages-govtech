@@ -1,5 +1,7 @@
 language: node_js
 node_js:
   - "node"
-shallow_clone: true
+git:
+  depth: 3
 script: node travis-script.js
+cache: npm
