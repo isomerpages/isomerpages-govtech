@@ -2,6 +2,7 @@
 layout: simple-page
 title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2006"
 permalink: "/digital-government-perception-survey-citizen-2006"
+breadcrumb: "Digital Government Perception Survey Citizen 2006"
 ---
 
 ### **Background**
