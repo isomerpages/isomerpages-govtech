@@ -12,7 +12,7 @@ collection_name: who-we-are
 
 This study assesses the UN’s 193 member states on the relative ability of their governments in harnessing infocomm technologies (ICT) to deliver online services and engage its citizens in public policies.
 
-* In 2018, Singapore was ranked 7th on the E-Government Development Index and placed 14th on the E-Participation Index.
+* In 2018, Singapore ranked 7th overall on the E-Government Development Index and was 2nd for the Online Services Index.
 
 <table>
   <tr>
