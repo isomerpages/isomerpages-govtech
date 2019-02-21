@@ -25,7 +25,7 @@ From 1 October 2017, motorists will be able to download the Parking.sg app on Ap
 
 * This mobile app is a demonstration of how digital technology can be applied in practical ways to make citizens’ lives more convenient in a Smart Nation. To be user-centric, we took in user feedback early in the product development cycle through various trials and enhanced the product with new features along the way. This agile and iterative way of developing government digital products will enhance the Government’s ability to develop, improve and deliver innovative digital public services to benefit our citizens.    
 
-* For more information on Parking.sg app and the steps on how to use it, please visit https://parking.sg.
+* For more information on Parking.sg app and the steps on how to use it, please visit <https://parking.sg>.
 
 ---
 
@@ -38,29 +38,29 @@ The Government Technology Agency of Singapore (GovTech) is a statutory board for
 
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
 
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
+For more information, please visit <tech.gov.sg> or follow us on <facebook.com/GovTechSG> and [Twitter @GovTechSG](https://twitter.com/GovTechSG).
 
 ### **For media clarification**
 Jolene HOON (Ms)
 <br>Executive Manager, Media Relations 
 <br>Urban Redevelopment Authority
 <br>DID: (65) 6329 3251
-<br>Email: Jolene_Hoon@ura.gov.sg
+<br>Email: <Jolene_Hoon@ura.gov.sg>
 <br>
 <br>Jeanne TAN (Ms)
 <br>Senior Manager, Media Relations
 <br>Housing and Development Board
 <br>DID: (65) 6490 1250
-<br>Email: Jeanne_PG_Tan@hdb.gov.sg
+<br>Email: <Jeanne_PG_Tan@hdb.gov.sg>
 <br>
 <br>Joycelyn CHAN (Ms)
 <br>Assistant Director, Communications & Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1151
-<br>Email: Joycelyn_Chan@tech.gov.sg
+<br>Email: <Joycelyn_Chan@tech.gov.sg>
 <br>
 <br>Elizabeth LEE (Ms)
 <br>Assistant Manager, Communications and Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1267
-<br>Email: Elizabeth_Lee@tech.gov.sg
+<br>Email: <Elizabeth_Lee@tech.gov.sg>

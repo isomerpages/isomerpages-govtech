@@ -21,16 +21,16 @@ Ladies and Gentlemen
 
 4.    The theme of this year’s DGX is “Seizing the Opportunities of Digital Disruption”.  Digital disruption is a term many of us are familiar with, but how exactly does it apply to governments?  How do digital governments remain competitive in this realm given we have no obvious competitors?  Do our existing models still work, and how cost-effective are they? Should we scale up our projects, or keep them small? There are no right answers to these questions, but I am sure that the discussions over the next two days will yield fruitful insights.
 
-Reorganising for Better Integration and Responsiveness
+  Reorganising for Better Integration and Responsiveness
 5.    For Singapore, this year’s DGX is significant for another reason.  It is the second day of work for our new Smart Nation and Digital Govement Office. Set up on 1 May 2017, the new outfit draws together the planning and policy teams from the Ministry of Finance, the Ministry of Communications and Information, and the Smart Nation Programme Office.  Together with GovTech, the implementing agency, they form the Smart Nation and Digital Government Group (or SNDGG), which will be housed within the Prime Minister’s Office.
 
 6.     The main reason for this re-organisation is to enable the Government to be more integrated and responsive in our strategy and processes for Smart Nation and Digital Government.  As the central agency, SNDGG will be responsible for:
 
-* a)    Applying digital and smart technologies to improve citizens’ lives in key domains like transportation;
+  * a)    Applying digital and smart technologies to improve citizens’ lives in key domains like transportation;
 
-* b)    Delivering digital enablers and platforms for Smart Nation, such as enhancing data sharing and driving the development of a national digital identity framework, and a national sensor communication backbone; and
+  * b)    Delivering digital enablers and platforms for Smart Nation, such as enhancing data sharing and driving the development of a national digital identity framework, and a national sensor communication backbone; and
 
-* c)    Driving digital transformation for the public service, to strengthen government ICT infrastructure and improve public service delivery.
+  * c)    Driving digital transformation for the public service, to strengthen government ICT infrastructure and improve public service delivery.
 
 7.    While SNDGG’s work is cross-cutting in nature, agencies will still own and maintain the bulk of digital services. Agencies are after all the domain experts, and should be supported through infrastructure and policies. This model reflects our belief that progress is best achieved somewhere between centralisation and decentralisation, and I am sure this balance is one that many governments are trying to strike as well.
 
@@ -55,7 +55,7 @@ Becoming a More Data-driven Government
 
 17.    We are also growing a cadre of data scientists within a Centre of Excellence in GovTech who are increasingly adopting machine and deep learning techniques to solve real world problems. Within its Data Science Centre of Excellence, GovTech will explore the adoption of artificial intelligence and machine learning to deliver more anticipatory public services, with a focus on harnessing sensor data, enhancing cybersecurity, public safety, and customer experience. We are interested in high impact applications of AI, such as using speech and text to change the way citizens use government digital services, and to help enforcement officials harness diverse data sources to more effectively and quickly complete their investigations.
 
-**Partnering with the Private Sector**
+  **Partnering with the Private Sector**
 
 18.    But the Government cannot build a Smart Nation on our own. Every day, more people interact and transact with commercial entities than with us, which is why it makes sense to partner with the private sector.  It will be the best of both worlds: businesses bring their best practices, while the Government helps through regulations and building platforms.
 
@@ -71,7 +71,7 @@ Becoming a More Data-driven Government
 
 24.    The Government has also put in enablers to promote innovation and experimentation in the private sector.  In November last year, the Monetary Authority of Singapore issued “regulatory sandbox” guidelines, enabling financial institutions and FinTech players to conduct live experiments within boundaries, in lieu of meeting full regulatory requirements upfront. The sandbox provides a conducive space to jumpstart testing of innovative solutions, while containing potential fallouts within the agreed boundaries.
 
-**Conclusion**
+  **Conclusion**
 25.    Re-organising, becoming data-driven, and partnering with the private sector – these are just some of the things the Singapore Government is doing to hasten our Smart Nation and Digital Government ambition. I look forward to hearing from all participants, on where you are in your respective digitalisation journeys. I trust that many of our exchanges will spark ideas for future collaborations.
 
 26.    I wish everyone a productive DGX, and a very pleasant stay in Singapore. 

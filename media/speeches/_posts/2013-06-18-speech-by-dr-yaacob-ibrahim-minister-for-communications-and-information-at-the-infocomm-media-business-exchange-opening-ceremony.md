@@ -9,7 +9,7 @@ Speech By Dr Yaacob IBRAHIM, Minister for Communications and Information, at the
 
 Honourable Ministers,
 Excellencies,
-Distinguished Guests,    
+Distinguished Guests,
 Ladies and Gentlemen,
 
 Good morning.
@@ -75,18 +75,18 @@ Good morning.
 * It gives me great pleasure to declare imbX 2013, open. Thank you.
 
 ### **Notes to Editor:**
-<sup>[1]</sup> http://www.e-gov.waseda.ac.jp/pdf/Press_Released_on_e-Gov_ranking_2013.pdf
+<sup>[1]</sup> <http://www.e-gov.waseda.ac.jp/pdf/Press_Released_on_e-Gov_ranking_2013.pdf>
 
-<sup>[2]</sup> http://www3.weforum.org/docs/WEF_GITR_Report_2010.pdf,
+<sup>[2]</sup> <http://www3.weforum.org/docs/WEF_GITR_Report_2010.pdf>,
 
-<sup>[2]</sup> http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf,
+<sup>[2]</sup> <http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf>,
 
-<sup>[2]</sup> http://www3.weforum.org/docs/Global_IT_Report_2012.pdf,
+<sup>[2]</sup> <http://www3.weforum.org/docs/Global_IT_Report_2012.pdf>,
 
-<sup>[2]</sup> http://www3.weforum.org/docs/GITR/2013/GITR_OverallRankings_2013.pdf
+<sup>[2]</sup> <http://www3.weforum.org/docs/GITR/2013/GITR_OverallRankings_2013.pdf>
 
 <sup>[3]</sup> Annual Survey on Infocomm Industry 2012
 
 <sup>[4]</sup> Annual Survey on Infocomm Manpower 2012
 
-<sup>[5]</sup> http://www.ida.gov.sg/Infocomm-Landscape/Facts-and-Figures/Telecommunications/Statistics-on-Telecom-Services/Statistics-on-Telecom-Services-for-2013-Jan-Jun
+<sup>[5]</sup> <http://www.ida.gov.sg/Infocomm-Landscape/Facts-and-Figures/Telecommunications/Statistics-on-Telecom-Services/Statistics-on-Telecom-Services-for-2013-Jan-Jun>
