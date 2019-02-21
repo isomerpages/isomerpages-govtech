@@ -68,7 +68,7 @@ To suggest and crowd-start new routes, individuals and corporates can visit Grab
 * [Beeline Factsheet](/files/media/media-releases/2017/03/Beeline Factsheet.pdf)
 
 ### **About Grab**
-Grab is Southeast Asia’s leading ride-hailing platform. Grab solves critical transportation challenges to make transport freedom a reality for 620 million people in Southeast Asia. Grab’s core product platform includes commuting solutions for drivers and passengers with an emphasis on convenience, safety and reliability, as well as its proprietary mobile payments platform, GrabPay. Grab currently offers services in Singapore, Indonesia, Philippines, Malaysia, Thailand and Vietnam. For more information, please visit: http://www.grab.com. 
+Grab is Southeast Asia’s leading ride-hailing platform. Grab solves critical transportation challenges to make transport freedom a reality for 620 million people in Southeast Asia. Grab’s core product platform includes commuting solutions for drivers and passengers with an emphasis on convenience, safety and reliability, as well as its proprietary mobile payments platform, GrabPay. Grab currently offers services in Singapore, Indonesia, Philippines, Malaysia, Thailand and Vietnam. For more information, please visit: <http://www.grab.com>.
 
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
@@ -88,4 +88,4 @@ For Grab
 <br>Senior Communications & Marketing Manager
 <br>GovTech
 <br>Tel: (65) 6211 1745
-<br>Email: Teresa_TAN@tech.gov.sg
+<br>Email: <Teresa_TAN@tech.gov.sg>
