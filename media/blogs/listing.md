@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Tech Behind The Moments Of Life (Families) App"
+title: "A listing of blogs by GovTechies"
 permalink: "/media/blogs/listing"
 category: blogs
 image: "/images/technews/the-tech-behind-the-moments-of-life.jpg"
