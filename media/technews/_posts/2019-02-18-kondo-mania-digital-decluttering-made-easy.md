@@ -48,26 +48,26 @@ Speaking of offload, it’s amazing how many gadgets we have these days. Perhaps
 Besides digital decluttering, we recommend decluttering life with digital tools as well. Here are some Smart Nation products to help you get things done more quickly, with less hassle.
 
 
-![MyInfo splash screen](/images/technews/MyInfo-MK.jpg)
 
+![MyInfo splash screen](/images/technews/MyInfo-MK.jpg)
 ### **1. MyInfo**
 
 Does filling in forms spark joy? Probably not. Now, with [MyInfo](https://www.singpass.gov.sg/myinfo/intro) — a government-verified personal data platform — you no longer need to manually key in your personal information when applying for government digital services or certain private sector services. Simply consent and the relevant information such as your identification number and contact details will be automatically added to online documents and shared with the service provider. 
 
-![ParkingSG screenshot](/images/technews/ParkingSG-MK.jpg)
 
+![ParkingSG screenshot](/images/technews/ParkingSG-MK.jpg)
 ### **2. Parking.sg**
 
 If you still have a stash of parking coupons in your car, take them out, hold them in your hands, thank them for their service, then download the [Parking.sg](https://www.parking.sg) mobile app. Unlike the parking coupon system which was implemented in Singapore in 1980, the Parking.sg mobile app allows drivers to extend their parking sessions without having to return to their vehicles, even making it possible for refunds in the event they overestimate their parking duration. Having said that, don’t throw those parking coupons away just yet; they are still accepted in carparks around Singapore.
 
-![OneService in use](/images/technews/OneService-MK.jpg)
 
+![OneService in use](/images/technews/OneService-MK.jpg)
 ### **3. OneService@SG**
 
 The KonMari method advocates having empathy for objects and places, a principle embodied by the [OneService](https://www.oneservice.sg/aboutus) mobile app. If a fallen tree is obstructing a road, or an elevator is not working, citizens can ‘empathise’ and help restore places and objects to their normal, functioning state by notifying municipal authorities via the app, which automatically routes issues to the relevant agencies for follow up.
 
-![Benefits of Moments of Life](/images/technews/MOL-Families-MK.jpg)
 
+![Benefits of Moments of Life](/images/technews/MOL-Families-MK.jpg)
 ### **4. Moments of Life**
 
 In ‘Tidying Up with Marie Kondo’, decluttering is depicted as having a transformative effect on human relationships, where people are freed up to focus on the things that really matter to them. In the same vein, the [Moments of Life](https://www.tech.gov.sg/media/technews/the-tech-behind-the-moments-of-life) approach to delivering government digital services aims to streamline interactions between the government, citizens and businesses so that they can achieve their goals and aspirations with minimal friction or frustration. 
