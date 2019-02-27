@@ -24,7 +24,7 @@ For example, if you want him or her to say “Love you lots” The encoded URL m
 
 ### **Step 3: Insert your encoded URL message to form this:**
 
-https://wa.me/65xxxxxxxx/?text=YourEncodeUrlMessage and send it to your bae!
+<https://wa.me/65xxxxxxxx/?text=YourEncodeUrlMessage> and send it to your bae!
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/technews-v-day-part4.png)
 

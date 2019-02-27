@@ -18,7 +18,7 @@ Ms Jacqueline Poh, Managing Director, IDA, said, “Building a Smart Nation requ
 
 Mr Liu Feng-Yuan, Director, Data Science Division, IDA, said, “It is not just about crunching data and playing with the latest, coolest technologies. What’s meaningful is harnessing insights that can improve public policy and operations; innovating with technology and building products and platforms that can help make a difference in people’s lives. We look forward to working with these passionate technologists to tackle challenges in areas such as healthcare, transportation, Open Data and public service delivery.” 
 
-For more information on the Smart Nation Fellowship Programme, please visit https://fellowships.data.gov.sg/
+For more information on the Smart Nation Fellowship Programme, please visit <https://fellowships.data.gov.sg/>
 
 ---
 

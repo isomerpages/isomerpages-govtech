@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Leading with the Team"
-permalink: "/media/technews/leading-with-the-team"
+permalink: /media/technews/the-4-principles-of-modern-agility
 category: technews
-image: "/images/technews/leading-with-the-team-part-1.png"
 ---
 
 ![Leading with the Team](/images/technews/leading-with-the-team-part-1.png)
@@ -23,6 +22,7 @@ According to Mr Joshua Kerievsky, CEO of Industrial Logic Inc, ‘agile’ is an
 Mr Kerievsky was speaking at the recent Agile Singapore Conference 2016, which was held at Hotel Fort Canning on 6-7 October 2016. 
 
 ### **Modern Agility**
+
 Modern agile methods can be distilled down to four simple guiding principles, which time and time again have proven to be effective, he noted. 
 
 They are: making people awesome; making safety a prerequisite; experimenting and learning rapidly; and delivering value continuously.
@@ -61,6 +61,7 @@ Similarly, with agile methodologies, people always think there’s only one way 
 “When you are being trained, you learn the rituals but you don’t necessarily learn the essence of agility. You don’t learn the balancing,” he argued.
 
 ### **Making Lemon Tarts from Lemons**
+
 In fact, the four principles behind modern agility extend beyond the software engineering world.
 
 In a story Mr Kerievsky recounted, the chef of a three Michelin star restaurant, Massimo Bottura, certainly demonstrated as much when one evening, sous chef Kondo ‘Taka’ Takahiko accidentally smashed a lemon tart meant for a dinner guest.

@@ -79,7 +79,7 @@ The Ministry of Finance (MOF) seeks to create a better Singapore through Finance
 The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global Infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
 
 ### **About the eGov Excellence Awards**
-First introduced in 2009, as the Web Excellence Awards (WEA), the Awards aimed to recognise good government websites and encourage the continual adoption of web standards and best practices. With the rapid advancement of infocomm technologies and increasing adoption rates of mobile devices, WEA was extended into the eGov Excellence Awards (GEA) with 6 categories - websites, e-Services, m-Services, Data Sharing, People Engagement, and Shared System & Services. More info on the Awards can be found at http://www.eGEA2013.sg
+First introduced in 2009, as the Web Excellence Awards (WEA), the Awards aimed to recognise good government websites and encourage the continual adoption of web standards and best practices. With the rapid advancement of infocomm technologies and increasing adoption rates of mobile devices, WEA was extended into the eGov Excellence Awards (GEA) with 6 categories - websites, e-Services, m-Services, Data Sharing, People Engagement, and Shared System & Services. More info on the Awards can be found at <http://www.eGEA2013.sg>
 
 ### **For media clarification**
 **Infocomm Development Authority of Singapore (IDA)**
