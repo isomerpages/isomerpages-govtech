@@ -19,35 +19,29 @@ As the drama unfurled on the global stage, Mr Ng Boon Seong and Ms Lee Pei Pei, 
 
 ### **A portal into unchartered territory**
 
-Instructions to prepare for the Summit came via a message to Mr Ng’s mobile phone on 12 May 2018. 
+Instructions to prepare for the Summit came as a message to Mr Ng’s mobile phone on 12 May 2018. 
 
 On 24 May, the meeting seemed uncertain as Trump wrote a letter to Kim saying that “it is inappropriate, at this time, to have this long-planned meeting”. 
 
-Amidst the uncertainty, Ng and Lee forged ahead with setting up an international media centre (IMC) for the world’s press corps. In particular, the MCI team was tasked with creating a media accreditation system for international media personnel. 
+Amidst the uncertainty, Ng and Lee forged ahead with setting up an International Media Centre (IMC) for the world’s press corps. In particular, the MCI team was tasked with creating a media accreditation system for international media personnel. 
 
-“The MCI’s existing Press Accreditation Card Online (PAC Online) system requires journalists to log in with SingPass to get accreditation. But foreign media personnel obviously wouldn’t have SingPass, so we needed an alternative solution,” said Mr Ng. 
+“The MCI’s existing Press Accreditation Card Online (PACOnline) system requires journalists to log in with SingPass to get accreditation. But foreign media personnel obviously wouldn’t have SingPass, so we needed an alternative solution,” said Mr Ng. 
 
 Here’s what transpired behind the scenes of the Trump-Kim Summit in Singapore, with key learning points the team picked up along the way. 
 
 ### **Sourcing for solutions (16-18 May 2018)**
 
-Building an media accreditation system as an extension of the PAC Online system would simply take too much time, so the team sought out solutions that were already available on the market. 
+Building a media accreditation system as an extension of the PACOnline system would simply take too much time, so the team sought out solutions that were already available on the market. 
 
 “Since the summit is a one-off event, we wanted a secure, scalable and flexible software-as-a-service solution which can be tailored to our requirements,” said Mr Ng.
 
 **Lesson 1: Set clear requirements**
 
-*In this case, the MCI team was looking for a fully integrated event management software hosted in G-Cloud (private cloud infrastructure used by the Singapore government) which supports data classification up to ‘confidential’.*
+*In this case, the MCI team was looking for a fully integrated event management software. The software had to comply with the policies, regulations and codes of practice for IT security defined by the Singapore Government. A web application firewall, data encryption in transit and 2FA for administrator access were deemed necessary.*
 
-*The software also had to comply with the policies, regulations and codes of practice for IT security defined by the Info-communications Media Development Authority, Singapore. A web application firewall, data encryption in transit and 2FA for administrator access were deemed necessary.*
+After considering various registration solutions, the team selected a vendor which had experience in providing ICT solutions to the Singapore Government. The Vendor also facilitated many large-scale events, including the Singapore FinTech Festival.
 
-After considering various registration solutions, the team selected a vendor that was already on the ‘green lane’ for the provision of ICT solutions to the Singapore government and had facilitated many large-scale events, including the Singapore FinTech Festival.
-
-**Lesson 2: Move fast via the ‘green lane’**
-
-*A whole-of-government portal with pre-vetted or approved vendors for ICT solutions can drastically reduce the time taken for procurement.*
-
-**Lesson 3: Select tried and tested solutions**
+**Lesson 2: Select tried and tested solutions**
 
 *For mission-critical events, you don’t want to reinvent the wheel, but rather choose something that is reliable in a similar context.*
 
@@ -59,7 +53,7 @@ Multiple rounds of performance testing through wee hours of the night were carri
 
 Meanwhile, the Cybersecurity Group at the Government Technology Agency of Singapore chipped in to carry out penetration testing, making sure that the system could withstand cyberattacks. Once these were done, the portal was launched on 24 May 2018 for international media personnel to start registering for accreditation. 
 
-**Lesson 4: Partner for success**
+**Lesson 3: Partner for success**
 
 *The public and private sectors have different strengths. Where the stakes are high, pooling resources and talent helps expedite processes and raise operational standards.*
 
@@ -68,9 +62,10 @@ Meanwhile, the Cybersecurity Group at the Government Technology Agency of Singap
 The next challenge was getting registration booths ready at the IMC itself. This involved making sure that international media personnel could simply show up, scan a QR code and enter the F1 pit building.
 
 Upon examining the facilities supporting the network infrastructure and expected human traffic, the MCI Team decided that it was important to have a backup offline database with accredited journalists’ credentials on site, just in case internet connectivity was disrupted, which in turn would affect the flow of journalists into the IMC. 
+
 The Vendor designed a standalone offline database within a day. Despite the haste, the system was tested multiple times, with support personnel from telecommunications provider on standby in case of any network issues. The registration flow – both virtual and physical – was also altered to ensure the registration process can withstand any power outage with no impact the media personnel registration.
 
-**Lesson 5: Plan for contingencies**
+**Lesson 4: Plan for contingencies**
 
 *While it is impossible to predict everything that could go wrong during a live event, brainstorming about potential problems allows you to put failsafe measures in place for some of them.*
 
@@ -80,10 +75,10 @@ On 10 June 2018, Mr Trump flew into Singapore’s Paya Lebar airbase in Air Forc
 
 After a frenetic few weeks of preparation, the MCI team watched as thousands of accredited journalists came to the Media Centre, collect their press badges and went on to cover the Summit. All without a hitch or drop in service levels – peaceful with no fuss! Summit proceeded smoothly on 12 June 2018. 
 
-Yet, the MCI Team cannot stand down till the last of media crew had left. For the first time in weeks, the team enjoyed a night without calls, watching monitors, and any anxiety.  
+Yet, the MCI Team could not stand down till the last of media crew had left. For the first time in weeks, the team enjoyed a night without calls, watching monitors, and any anxiety.  
 
 “We wouldn’t have pulled it off without teamwork,” said Ms Lee. “Although it was a really tight timeline, everyone worked hard towards a common goal and had fun as well.” 
 
-**Lesson 6: Don’t forget to have fun!**
+**Lesson 5: Don’t forget to have fun!**
 
 *Making history can be tough, but that doesn’t mean it can’t be enjoyable and satisfying.*
