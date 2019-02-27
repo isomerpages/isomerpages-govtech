@@ -11,7 +11,7 @@ image: "/images/technews/inside-story-of-how-govtech-officers-prepared-for-the-k
 TL:DR: Vietnam is gearing up for the second Trump-Kim Summit, scheduled for 27-28 February 2019. Find out how GovTech officers played a crucial role in the first Trump-Kim Summit in Singapore on 12 June 2018.
 ---
 
-When American singer Katy Perry sang ‘Hot N Cold’, she could not have imagined that the lyrics of her song would be an apt description for the lead up to a historic meeting between US president Mr Donald Trump and North Korean leader Mr Kim Jong-un. For indeed, the two politicians were blowing hot and cold between the time Trump announced by Tweet (on 10 May 2018) that his meeting with Kim would take place on 12 June 2018 in Singapore.
+When American singer Katy Perry sang ‘Hot N Cold’, she could not have imagined that the lyrics of her song would be an apt description for the lead up to a historic meeting between US president Mr Donald Trump and North Korean leader Mr Kim Jong Un. For indeed, the two politicians were blowing hot and cold between the time Trump announced by Tweet (on 10 May 2018) that his meeting with Kim would take place on 12 June 2018 in Singapore.
 
 As the drama unfurled on the global stage, Mr Ng Boon Seong and Ms Lee Pei Pei, GovTech officers seconded to the Ministry of Communications and Information (MCI) were mobilised to get Singapore ready to receive almost 5,000 reporters and their crew who would inevitably want to cover the momentous event.
 
