@@ -8,10 +8,13 @@ category: speeches
 Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at the FutureEverything Signals of Tomorrow Conference at The ArtScience Museum, 17 October, 10:25am.
 
 Mr Drew Hemment, CEO of FutureEverything
+
 Ms Honor Harger, Executive Director of ArtScience Museum
+
 Ms Jacqueline Poh, Managing Director of IDA
 
 ### **Some crazy ideas for the Future of Everything in Singapore**
+
 1. I see a very eclectic mix of people including some of the usual suspects; welcome to Singapore! I heard that some of you have been trying to catch some sleep at The Chronarium while others have been talking to the Merlion. You have been doing crazy things, but I think we need some apparently crazy people for society to progress. 
 
 2. Singapore must come across as a little crazy to have a Foreign Minister who is also involved in the Smart Nation initiative but there is actually a pattern to the madness. My favourite quote on the future is from a former oil minister of Saudi Arabia; Sheikh Zaqi Yamani. He said ‘The Stone Age did not end for lack of stone and the Oil Age will end long before the world runs out of oil.’ Hold this thought in your mind as I quickly gallop through some ongoing revolutions in energy, water, food, manufacturing, logistics, how everything is evolving towards software as a service and finally, what a Smart Nation - or indeed a Smart world - is all about.

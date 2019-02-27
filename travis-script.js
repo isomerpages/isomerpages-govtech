@@ -1,9 +1,8 @@
-const travisScript = require("@liyicheng/isomerpages-travisci-scripts");
+const travisScript = require("@isomerpages/isomerpages-travisci-scripts");
 const travisBranch = process.env.TRAVIS_BRANCH;
 
 if(travisBranch == "master") {
-    travisScript.testsOnly();
-    console.log("master branch!");
+    travisScript.runAll();
 }
 else {
     travisScript.testsOnly();
