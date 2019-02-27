@@ -46,16 +46,16 @@ Good Morning.
 * Let me once again bid you a warm welcome to this Forum. It is my hope that you will have a memorable stay in Singapore, and a most fruitful time at imbX. Thank you.
 
 ### **Notes to Editor:**
-<sup>[1]</sup> https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2013-e.pdf
+<sup>[1]</sup> <https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2013-e.pdf>
 
-<sup>[2]</sup> http://www.forbes.com/sites/haydnshaughnessy/2012/10/04/facebooks-1-billion-users-why-the-sky-is-still-the-limit/
+<sup>[2]</sup> <http://www.forbes.com/sites/haydnshaughnessy/2012/10/04/facebooks-1-billion-users-why-the-sky-is-still-the-limit/>
 
-<sup>[3]</sup> https://business.twitter.com/whos-twitter
+<sup>[3]</sup> <https://business.twitter.com/whos-twitter>
 
-<sup>[4]</sup> http://www.youtube.com/yt/press/statistics.html
+<sup>[4]</sup> <http://www.youtube.com/yt/press/statistics.html>
 
-<sup>[5]</sup> http://reports.weforum.org/global-risks-2013/view/risk-case-1/digital-wildfires-in-a-hyperconnected-world/
+<sup>[5]</sup> <http://reports.weforum.org/global-risks-2013/view/risk-case-1/digital-wildfires-in-a-hyperconnected-world/>
 
-<sup>[6]</sup> http://www.analysysmason.com/Research/Content/Reports/Internet-global-growth-lessons-for-the-future/Internet-global-growth-lessons-for-the-future/
+<sup>[6]</sup> <http://www.analysysmason.com/Research/Content/Reports/Internet-global-growth-lessons-for-the-future/Internet-global-growth-lessons-for-the-future/>
 
-<sup>[7]</sup> http://siteresources.worldbank.org/EXTINFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/WBG_ICT_Strategy-2012.pdf
+<sup>[7]</sup> <http://siteresources.worldbank.org/EXTINFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/WBG_ICT_Strategy-2012.pdf>

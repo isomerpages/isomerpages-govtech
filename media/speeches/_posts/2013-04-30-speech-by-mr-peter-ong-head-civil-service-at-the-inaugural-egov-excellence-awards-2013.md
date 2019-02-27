@@ -87,8 +87,8 @@ Friends and Colleagues,
 ### **Notes to Editor**
 <sup>[1]</sup> Household access to Internet is over 85% (IDA's Annual Survey on Infocomm Usage, 2011), mobile penetration rate is about 152% (IDA's statistics on telecom services for 2012).
 
-<sup>[2]</sup> http://www.healthcareitnews.com/news/stockholm-uses-city-wide-mobile-phone-system-document-elderly-care
+<sup>[2]</sup> <http://www.healthcareitnews.com/news/stockholm-uses-city-wide-mobile-phone-system-document-elderly-care>
 
-<sup>[3]</sup> http://sfpark.org/about-the-project
+<sup>[3]</sup> <http://sfpark.org/about-the-project>
 
-<sup>[4]</sup> http://www.fixmystreet.com
+<sup>[4]</sup> <http://www.fixmystreet.com>

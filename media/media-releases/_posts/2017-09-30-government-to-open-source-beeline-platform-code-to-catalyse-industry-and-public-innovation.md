@@ -19,8 +19,8 @@ Jacqueline Poh, Chief Executive, GovTech, said, "Getting people from one place t
 Chua U-Zyn, Founder, Zynesis, said, “Open-sourcing encourages open innovation and collaboration between the public and Government – a true quality of a Smart Nation, where anyone and everyone is able to contribute to the public good. I applaud GovTech’s move to open-source Beeline, and hope this would encourage more software companies and individuals in Singapore to actively participate and open-source their work."
 
 The first set of Beeline code will be released on 1 October 2017, on GitHub, at the following URLs:
-* https://github.com/datagovsg/beeline-frontend
-* https://github.com/datagovsg/beeline-admin
+* <https://github.com/datagovsg/beeline-frontend>
+* <https://github.com/datagovsg/beeline-admin>
  
 For more information, interested members of the transport industry may write to feedback@beeline.sg 
 
@@ -48,10 +48,10 @@ Elizabeth LEE (Ms)
 <br>Assistant Manager, Communications and Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1267
-<br>Email: Elizabeth_Lee@tech.gov.sg
+<br>Email: <Elizabeth_Lee@tech.gov.sg>
 <br>
 <br>Joycelyn CHAN (Ms)
 <br>Assistant Director, Communications & Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1151
-<br>Email: Joycelyn_Chan@tech.gov.sg
+<br>Email: <Joycelyn_Chan@tech.gov.sg>

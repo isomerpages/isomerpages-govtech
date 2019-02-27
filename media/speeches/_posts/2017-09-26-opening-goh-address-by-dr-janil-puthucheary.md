@@ -23,7 +23,7 @@ Ladies and Gentlemen
 
 3. The public sector also welcomed the beta release of the New OneMap. Built by SLA entirely in-house, the New OneMap is now the most authoritative and user-friendly source of geospatial data in Singapore. It serves as the common platform for government agencies to deliver geospatial information and services, and brings us one step closer toward Smart Nation.
 
-**The Ethos of Smart Nation**
+    **The Ethos of Smart Nation**
 
 4. In the execution of Singapore’s Smart Nation initiative we have three major objectives. First, we will improve our citizens’ everyday convenience and their quality of life. Second, we will drive greater enterprise efficacy and support new areas of innovation. Third, the expectation, and correctly so, is for us to be inclusive for all Singaporeans from the start. The benefits of our Smart Nation have to be widely distributed and not available to a select few.
 
@@ -33,13 +33,13 @@ Ladies and Gentlemen
 
 7. There are some key issues that have to be tackled upfront to ensure the effectiveness of our vision – issues that we have to get right, and we have to deal with these issues in a cohesive manner. Our success in addressing the challenges within them will drive the implementation and adoption of the Smart Nation initiatives. These three key issues are data, a willingness to restructure and a focus on the user experience.
 
-**Data as an Enabler**
+    **Data as an Enabler**
 
 8. Data is a key enabler that underpins our Smart Nation efforts. That is why for the past year, we have been designing a data sharing framework that will boost inter-agency collaboration to improve the design, integration and delivery of public services, while introducing legal safeguards to maintain the longstanding public trust towards the government’s use of data. Soon, we will be formalising a robust public sector data architecture that will accelerate our Smart Nation journey.
 
 9. We are also enhancing ways that we share data with the public. We have come a long way with our open data platform, Data.gov.sg. Earlier this year, we introduced our Open Data License to welcome more citizen involvement by simplifying the terms and lowering the barriers of using public sector data. We have also continued to provide more granular, machine readable and API accessible datasets for users. If we are to develop new solutions, new ideas and even new platforms to help us solve policy issues, we need more participation and co-creation. So if you have not looked at Data.gov.sg recently, please have a look, and join in.
 
-**Being Creative about Government Platforms**
+    **Being Creative about Government Platforms**
 
 10. A willingness to restructure and be creative in the way that we develop the platforms to better meet the needs of our citizens is vital. We are studying ways to transform how our services and information are organised, how we can better address our citizens’ needs and to provide them with a seamless experience when interacting with government.
 
@@ -47,7 +47,7 @@ Ladies and Gentlemen
 
 12. One of the projects we are currently looking at is the Moments of Life initiative, which bundles services and information to citizens at different key life moments, such as when they start a family, or around housing, schooling and even health. How can we push, pull, coordinate and collaborate so that a particular service for the citizen is tailored to their needs and is as friction-free as possible? We are exploring the development of this digital service for citizens and an initial version will be made available by the middle of next year.
 
-**Delivering New User Experiences**
+    **Delivering New User Experiences**
 
 13. We have to continually focus on the experience of the users – our citizens. There is a need to improve the convenience and safety of online transactions. Our daily transactions have become more digitised and increasingly performed on mobile devices. We need to also design these experiences to be more intuitive, secure and hassle-free.
 
@@ -61,7 +61,7 @@ Ladies and Gentlemen
 
 18. I am also very excited to announce today that we are looking to extend the use of MyInfo to businesses by the end of this year. We have been piloting our Proof-of-Concept with DBS, OCBC, UOB and Standard Chartered Bank for the past 5 months, and users have been able to use MyInfo for 19 different banking services, such as opening a new bank account or applying for a new credit card. After providing consent to share data from MyInfo, users save the hassle of entering their personal information or uploading personal documents. We believe that MyInfo, and the future National Digital Identity framework, will transform the way our citizens transact online, and the number of services that support it will grow.
 
-**Using Platforms in the Public Service**
+    **Using Platforms in the Public Service**
 
 19. Since our Smart Nation vision was launched in 2014, we have had ideas for many different types of platforms: platforms for better service delivery, platforms for citizen engagement and platforms for improved data distribution. Some of these ideas have crystalised into products, like MyInfo. Others have become our five Strategic National Projects, which includes the National Digital Identity framework, our E-Payments platform, the Smart Nation Sensor Platform, the Smart Urban Mobility initiative and the Moments of Life initiative. These projects will form the core infrastructure that drive pervasive adoption of digital and smart technologies throughout the economy and society.
 
