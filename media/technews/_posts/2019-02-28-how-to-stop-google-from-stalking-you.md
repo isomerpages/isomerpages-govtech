@@ -21,7 +21,7 @@ Thinking of taking back control of how much information Google can collect about
 
 Most of us use Google’s Chrome browser and apps on default settings, which means that Google is granted permissions to gather data on your location, what you search for and watch on YouTube, as well as your voice and audio activity. Here are three simple steps to revoke some of these permissions:
 
-1. Open your Google account page at https://myaccount.google.com/
+1. Open your Google account page at [https://myaccount.google.com/](https://myaccount.google.com/)
 
 2. Select Data & Personalisation > Activity Controls
 
@@ -49,7 +49,7 @@ We’ve described some of the ways that you can tweak your privacy settings to l
  
 For starters, try clearing out your browsing history and cache (History > Clear browsing data), although keep in mind that this will temporarily slow down the speed at which pages load, and you may have to input your passwords again when accessing certain websites. If you’re determined to purge Google of your data and quit Google altogether, follow these steps:
 
-1. Open your Google account page at https://myaccount.google.com/
+1. Open your Google account page at [https://myaccount.google.com/](https://myaccount.google.com/)
 
 2. Select Data & Personalisation > Scroll down to Download your data > Delete a service or your account
 
