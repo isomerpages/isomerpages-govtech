@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The inside story of how GovTech prepared to receive 5,000 reporters during the 2018 Trump-Kim Summit"
+title: "The inside story of how GovTech prepared to receive 3,000 reporters during the 2018 Trump-Kim Summit"
 permalink: "/media/technews/inside-story-of-how-govtech-officers-prepared-for-the-kim-trump-summit"
 category: technews
 image: "/images/technews/inside-story-of-how-govtech-officers-prepared-for-the-kim-trump-summit-part1.png"
@@ -13,7 +13,7 @@ TL:DR: Vietnam is gearing up for the second Trump-Kim Summit, scheduled for 27-2
 
 When American singer Katy Perry sang ‘Hot N Cold’, she could not have imagined that the lyrics of her song would be an apt description for the lead up to a historic meeting between US president Mr Donald Trump and North Korean leader Mr Kim Jong Un. For indeed, the two politicians were blowing hot and cold between the time Trump announced by Tweet (on 10 May 2018) that his meeting with Kim would take place on 12 June 2018 in Singapore.
 
-As the drama unfurled on the global stage, Mr Ng Boon Seong and Ms Lee Pei Pei, GovTech officers seconded to the Ministry of Communications and Information (MCI) were mobilised to get Singapore ready to receive almost 5,000 reporters and their crew who would inevitably want to cover the momentous event.
+As the drama unfurled on the global stage, Mr Ng Boon Seong and Ms Lee Pei Pei, GovTech officers seconded to the Ministry of Communications and Information (MCI) were mobilised to get Singapore ready to receive more than 3,000 reporters and their crew who would inevitably want to cover the momentous event.
 
 ![Mr Ng Boon Seong and Ms Lee Pei Pei, GovTech officers seconded to the Ministry of Communications and Information (MCI)](/images/technews/inside-story-of-how-govtech-officers-prepared-for-the-kim-trump-summit-part2.png)
 
@@ -63,7 +63,7 @@ The next challenge was getting registration booths ready at the IMC itself. This
 
 Upon examining the facilities supporting the network infrastructure and expected human traffic, the MCI Team decided that it was important to have a backup offline database with accredited journalists’ credentials on site, just in case internet connectivity was disrupted, which in turn would affect the flow of journalists into the IMC. 
 
-The Vendor designed a standalone offline database within a day. Despite the haste, the system was tested multiple times, with support personnel from telecommunications provider on standby in case of any network issues. The registration flow – both virtual and physical – was also altered to ensure the registration process can withstand any power outage with no impact the media personnel registration.
+The Vendor designed a standalone offline database within a day. Despite the haste, the system was tested multiple times, with support personnel from telecommunications provider on standby in case of any network issues. The registration flow – both virtual and physical – was also altered to ensure the registration process can withstand any power outage with no impact to the media personnel registration.
 
 **Lesson 4: Plan for contingencies**
 
