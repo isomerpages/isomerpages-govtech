@@ -35,8 +35,6 @@ As explained in its privacy policy, Google and its partners use information abou
 
 Fun fact: if you click on Go to ad settings, you can view what Google has already deduced about you, including your age range and personal interests. See how eerily accurate Google can get! You may even learn something about yourself.  
 
-![How to stop Google from stalking you](/images/technews/how-to-stop-google-from-stalking-you-part4.png)
-
 ### **Go cookie-free**
 
 How do websites remember your login information and the contents of your shopping cart? These useful functions are performed by cookies—not the ones baked in an oven, but small packets of data sent from a website and stored on your web browser.
