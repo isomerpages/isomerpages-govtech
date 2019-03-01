@@ -17,6 +17,8 @@ In exchange for the services Google provides, we volunteer seemingly innocuous i
 
 Thinking of taking back control of how much information Google can collect about you? The TechNews team has got you covered.
 
+![How to stop Google from stalking you](/images/technews/how-to-stop-google-from-stalking-you-part2.png)
+
 ### **Manage data and personalisation**
 
 Most of us use Google’s Chrome browser and apps on default settings, which means that Google is granted permissions to gather data on your location, what you search for and watch on YouTube, as well as your voice and audio activity. Here are three simple steps to revoke some of these permissions:
@@ -35,6 +37,8 @@ As explained in its privacy policy, Google and its partners use information abou
 
 Fun fact: if you click on Go to ad settings, you can view what Google has already deduced about you, including your age range and personal interests. See how eerily accurate Google can get! You may even learn something about yourself.  
 
+![How to stop Google from stalking you](/images/technews/how-to-stop-google-from-stalking-you-part4.png)
+
 ### **Go cookie-free**
 
 How do websites remember your login information and the contents of your shopping cart? These useful functions are performed by cookies—not the ones baked in an oven, but small packets of data sent from a website and stored on your web browser.
@@ -42,6 +46,8 @@ How do websites remember your login information and the contents of your shoppin
 If you’re purchasing items from an e-commerce platform, for example, the website could use cookies to track not only what you’ve bought, but also the pages that you’ve browsed on the site, as well as the ads you’ve clicked on. Should you find this intrusive, try browsing in incognito mode (Ctrl+Shift+N on Google Chrome) before making a purchase from the website.
 
 To view and manage all cookies on your browser, select Settings > Advanced > Content Settings > Cookies > All cookies and site data and remove those that you may no longer need.
+
+![How to stop Google from stalking you](/images/technews/how-to-stop-google-from-stalking-you-part5.png)
 
 ### **Clean out your history and cache, or wipe your Google account**
 
