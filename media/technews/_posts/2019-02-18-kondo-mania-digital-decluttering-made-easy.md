@@ -62,7 +62,7 @@ If you still have a stash of parking coupons in your car, take them out, hold th
 
 
 ![OneService in use](/images/technews/OneService-MK.jpg)
-### **3. OneService@SG**
+### **3. OneService App**
 
 The KonMari method advocates having empathy for objects and places, a principle embodied by the [OneService](https://www.oneservice.sg/aboutus) mobile app. If a fallen tree is obstructing a road, or an elevator is not working, citizens can ‘empathise’ and help restore places and objects to their normal, functioning state by notifying municipal authorities via the app, which automatically routes issues to the relevant agencies for follow up.
 
