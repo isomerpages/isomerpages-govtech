@@ -8,7 +8,7 @@ image: "/images/technews/how-data-science-can-drive-social-impact-part1.png"
      
 ![data science drive social impact](/images/technews/how-data-science-can-drive-social-impact-part1.png)
 
-TL;DR: Sharing in the benefits of scientific advancement is a universal human right. While data and artificial intelligence could are a boon for driving social causes, they are not uniformly accessible to governments and organisations. Mr Tariq Khokhar, managing director and senior data scientist of the Rockefeller Foundation, shares some strategies to level the playing field.
+TL;DR: Sharing the benefits of scientific advancement is a universal human right. While data and artificial intelligence are a boon for driving social causes, they are not uniformly accessible to governments and organisations. Mr Tariq Khokhar, managing director and senior data scientist of the Rockefeller Foundation, shares some strategies to level the playing field.
 ---
 
 More than 70 years ago, the [Universal Declaration of Human Rights](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf) was drafted by a group of international representatives, defining the fundamental human rights that need to be protected across the globe. Alongside the rights to life and liberty, article 27 of the Declaration clearly states that everyone has the right “to share in scientific advancement and its benefits”. This clause is more important today than ever before—as technology leaps ahead, does it uplift the last and least of society?
