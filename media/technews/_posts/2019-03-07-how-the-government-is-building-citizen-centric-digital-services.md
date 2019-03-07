@@ -43,10 +43,11 @@ Furthermore, given the current climate of rampant hacking, Mr Kok urged IT manag
 
 ### **Putting people first**
 
-Finally, referencing the Digital Government Blueprint that was published in June 2018, Mr Kok reiterated the importance of “serving with heart”.
+Finally, referencing the [Digital Government Blueprint](https://www.tech.gov.sg/digital-government-blueprint/?utm_source=top_nav) that was published in June 2018, Mr Kok reiterated the importance of “serving with heart”.
 
 “This is where the primacy of citizens’ needs overwrites the sovereignty of an agency,” he noted. Rather than just develop a policy, then provide specifications for an IT system to translate the policy to operations, GovTech seeks to engage with citizens in the development process, iterating on an outcome based on their requests and feedback.
 
 Citing the Moments of Life (Families) mobile app that was launched last year, Mr Kok explained, “People say they want a dashboard, okay; we put in a dashboard. People say they want to search for healthcare institutions based on whether they qualify for some government scheme, okay; we will continue to enrich [the app].”
 
 “We're still figuring things out, but we're taking a step in the right direction,” Mr Kok concluded.
+
