@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/how-the-government-is-building-citizen-centric-digital-services-part1.png"
 ---
      
-![How the government is building citizen-centric digital services](/images/technews/man-using-myresponder1.JPG)
+![meet the man using myResponder to save lives](/images/technews/man-using-myresponder1.JPG)
 
 TL;DR: In the event of a medical emergency, community first responders can provide crucial assistance to patients and their families before paramedics arrive. TechNews spoke to nursing student Mr Rex Ang Jia Jie to find out how he uses the SCDF’s myResponder app to put his lifesaving skills to good use.
 ---
@@ -17,7 +17,7 @@ But Mr Ang isn’t a paramedic with the Singapore Civil Defence Force (SCDF). In
 
 “I’ve always felt a calling to help others, and I thought the best way to contribute was to start getting myself certified in standard first aid, the use of an automated external defibrillator (AED) and basic cardiac life support,” said Mr Ang. He bore the cost of training himself, noting that it was “well worth it”—his knowledge and skills have come in handy more than 20 times now since he downloaded the myResponder mobile app on his smartphone in January 2017.
 
-![How the government is building citizen-centric digital services](/images/technews/images/technews/man-using-myresponder2.JPG)
+![the myResponder app](/images/technews/man-using-myresponder2.JPG)
 
 ### **Building a community of good Samaritans**
 
