@@ -3,7 +3,7 @@ layout: post
 title: "Meet the man using myResponder to save lives"
 permalink: "/media/technews/meet-the-man-using-myResponder-to-save-lives"
 category: technews
-image: "/images/technews/how-the-government-is-building-citizen-centric-digital-services-part1.png"
+image: "/images/technews/man-using-myresponder1.JPG"
 ---
      
 ![meet the man using myResponder to save lives](/images/technews/man-using-myresponder1.JPG)
