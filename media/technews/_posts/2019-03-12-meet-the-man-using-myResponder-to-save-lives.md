@@ -63,4 +63,3 @@ At the end of the day, myResponder is but software; it is the actions of people 
 
 “I just feel very satisfied being able to help people. Watching them recover reinforces the fact that I made the right choice to join nursing as a profession,” he said. 
 
-
