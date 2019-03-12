@@ -29,6 +29,8 @@ Developed by the SCDF in collaboration with the Government Technology Agency of 
 
 Every second counts when the heart stops beating, so CFRs like Mr Ang make a huge difference by rendering immediate help. “Most of the time, when I’m activated by myResponder, I will need to perform CPR,” Mr Ang recounted. In doing so, he increases a cardiac arrest patient’s chances of survival by two to three times.
 
+![meet the man using myResponder to save lives](/images/technews/man-using-myresponder2.JPG)
+
 Today, there are more than 40,000 CFRs like Mr Ang registered on myResponder, augmenting the capabilities of the SCDF. Mr Ang highlights some features of the app that he finds immensely useful:
 
 
@@ -61,8 +63,6 @@ Rubbish chute fires account for approximately 50 percent of fires in residential
 “You can capture an overview of the scene, highlight points of interest and even send the SCDF a video of the incident,” Mr Ang explained, adding that this serves as real-time feedback to the SCDF so that additional firefighting resources can be dispatched if necessary.
 
 ---
-
-![the myResponder app](/images/technews/man-using-myresponder2.JPG)
 
 At the end of the day, myResponder is but software; it is the actions of people like Mr Ang who truly change the outcome of life-and-death situations, a fact deeply appreciated by the SCDF. To date, Mr Ang has received five commendations from the SCDF for administering CPR to cardiac arrest patients.
 
