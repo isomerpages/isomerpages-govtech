@@ -17,7 +17,11 @@ But Mr Ang isn’t a paramedic with the Singapore Civil Defence Force (SCDF). In
 
 “I’ve always felt a calling to help others, and I thought the best way to contribute was to start getting myself certified in standard first aid, the use of an automated external defibrillator (AED) and basic cardiac life support,” said Mr Ang. He bore the cost of training himself, noting that it was “well worth it”—his knowledge and skills have come in handy more than 20 times now since he downloaded the myResponder mobile app on his smartphone in January 2017.
 
-![the myResponder app](/images/technews/man-using-myresponder2.JPG)
+
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6NthS4UqLsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 ### **Building a community of good Samaritans**
 
@@ -58,6 +62,7 @@ Rubbish chute fires account for approximately 50 percent of fires in residential
 
 ---
 
+![the myResponder app](/images/technews/man-using-myresponder2.JPG)
 
 At the end of the day, myResponder is but software; it is the actions of people like Mr Ang who truly change the outcome of life-and-death situations, a fact deeply appreciated by the SCDF. To date, Mr Ang has received five commendations from the SCDF for administering CPR to cardiac arrest patients.
 
