@@ -19,7 +19,7 @@ But Mr Ang isn’t a paramedic with the Singapore Civil Defence Force (SCDF). In
 
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6NthS4UqLsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vwOetdgO6UU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
