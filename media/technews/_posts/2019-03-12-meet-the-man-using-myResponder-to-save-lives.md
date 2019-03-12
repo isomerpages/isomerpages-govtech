@@ -19,35 +19,48 @@ But Mr Ang isn’t a paramedic with the Singapore Civil Defence Force (SCDF). In
 
 ![How the government is building citizen-centric digital services](/images/technews/how-the-government-is-building-citizen-centric-digital-services-part2.png)
 
-### **Not just lip service**
+### **Building a community of good Samaritans**
 
-“Digitalisation is not just about taking a form, converting it into a PDF and putting it online,” Mr Kok cautioned. Instead, it involves re-engineering back-end IT infrastructure so that the form could be made redundant.
+Developed by the SCDF in collaboration with the Government Technology Agency of Singapore (GovTech), myResponder is a means to crowdsource for lifesavers. Whenever the SCDF is notified of a medical emergency and assesses it to be a case of cardiac arrest, it sends out a message to CFRs registered on the app who are within 400 metres of the patient.
 
-Such re-engineering is currently being undertaken by the Singapore government and spearheaded by GovTech, resulting in the [Singapore Government Technology Stack (SGTS)](https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/)—a common platform for hosting services, sharing data and building applications. Whereas in the past, government IT architecture comprised monolithic systems with ministry-specific applications, the SGTS has different modules, akin to LEGO bricks, that can be pieced together to give rise to a variety of different digital services.
+Every second counts when the heart stops beating, so CFRs like Mr Ang make a huge difference by rendering immediate help. “Most of the time, when I’m activated by myResponder, I will need to perform CPR,” Mr Ang recounted. In doing so, he increases a cardiac arrest patient’s chances of survival by two to three times.
 
-Importantly, with the SGTS, data can be shared easily between ministries when citizens grant their consent via MyInfo, a repository of government-verified personal information, said Mr Kok. In this way, a re-imagined back-end IT system has drastically reduced the need to fill in forms when transacting online.
+Today, there are more than 40,000 CFRs like Mr Ang registered on myResponder, augmenting the capabilities of the SCDF. Mr Ang highlights some features of the app that he finds immensely useful:
+
+
+1. Easy registration
+
+Anyone interested in becoming a CFR can simply sign in to the app using their SingPass, which makes it convenient for them to input their contact details and personal particulars. This is important to ensure that notifications from the app will be sent to an active device.
+
+Thereafter, “you’ll be guided through a short tutorial and asked to indicate whether you are trained in first aid, CPR or AED,” said Mr Ang. And with that, you’re all set and good to go!
+
+2. Constant GPS updates
+
+You can’t save a life if you have trouble finding your way to the location of a person who has suffered a cardiac arrest. Hence, constant GPS updates, coupled with an address revealed only to the CFR who accepts the call for help, allow lifesavers to navigate quickly to where they are needed.
+
+3. Map of all nearby AEDs
+
+In the event of a cardiac arrest, an AED may be required to deliver a shock to the heart to kickstart its rhythm once more. Not everyone owns an AED, so the SCDF has partnered with the Singapore Heart Foundation to develop a national AED registry for publicly accessible AEDs.
+
+“The myResponder app has a map of all the AEDs in your vicinity. You can probably find one every two blocks. I always look for the nearest AED when I respond to a cardiac arrest case,” said Mr Ang.
+
+4. After-action review
+
+Mr Ang also noted that the app allows CFRs to submit a brief report on what happened prior to the arrival of an emergency medical team. The default report comes in a simple yes-or-no format: Did you arrive before the SCDF? Did you perform CPR? Was an AED used?
+
+There’s also an optional, open-ended field for additional details to be filled up. For Mr Ang, he includes information such as the patient’s heart rate, blood pressure and blood oxygenation level, obtained using the equipment in his trauma bag. Where possible, he even keys in a brief medical history of the patient provided by the patient’s family members. All this information can help medical professionals make better decisions later on.
+
+5. Alerts on minor fires
+
+Rubbish chute fires account for approximately 50 percent of fires in residential estates, and some of these minor blazes do not need to be dealt with by a fire truck. CFRs that are in the area can help to put out these small fires and take geo-tagged photos of the extent of the damage.
+
+“You can capture an overview of the scene, highlight points of interest and even send the SCDF a video of the incident,” Mr Ang explained, adding that this serves as real-time feedback to the SCDF so that additional firefighting resources can be dispatched if necessary.
 
 ---
-<div class="bp-youtube">   
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
----
 
-### **Ahead in the cloud**
 
-Mr Kok also highlighted that the Singapore government is looking to tap on the commercial cloud to develop digital services. Partnering with leading providers of commercial cloud services will grant organisations access to the latest innovations in the information and communications technology sector.
+At the end of the day, myResponder is but software; it is the actions of people like Mr Ang who truly change the outcome of life-and-death situations, a fact deeply appreciated by the SCDF. To date, Mr Ang has received five commendations from the SCDF for administering CPR to cardiac arrest patients.
 
-“We have our Government Data Centre for confidential systems… [but] in our own estimate, more than 70 percent of government IT systems can be hosted on the commercial cloud—with the right classification,” he said, adding that functions classified as ‘restricted’ and below will be offloaded to the cloud.
+“I just feel very satisfied being able to help people. Watching them recover reinforces the fact that I made the right choice to join nursing as a profession,” he said. 
 
-Furthermore, given the current climate of rampant hacking, Mr Kok urged IT managers to always ask: is your IT architecture designed with security in mind? While commercial cloud providers do have robust cybersecurity measures in place, they should not be taken for granted when developing digital services.
-
-### **Putting people first**
-
-Finally, referencing the [Digital Government Blueprint](https://www.tech.gov.sg/digital-government-blueprint/?utm_source=top_nav) that was published in June 2018, Mr Kok reiterated the importance of “serving with heart”.
-
-“This is where the primacy of citizens’ needs overwrites the sovereignty of an agency,” he noted. Rather than just develop a policy, then provide specifications for an IT system to translate the policy to operations, GovTech seeks to engage with citizens in the development process, iterating on an outcome based on their requests and feedback.
-
-Citing the Moments of Life (Families) mobile app that was launched last year, Mr Kok explained, “People say they want a dashboard, okay; we put in a dashboard. People say they want to search for healthcare institutions based on whether they qualify for some government scheme, okay; we will continue to enrich [the app].”
-
-“We're still figuring things out, but we're taking a step in the right direction,” Mr Kok concluded.
 
