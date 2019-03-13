@@ -16,7 +16,9 @@ Businesses currently conduct business transactions through multiple digital iden
 
 The Government has received feedback from the business community that SingPass should only be used for personal transactions, and not corporate transactions, due to privacy concerns. For instance, employees who go on leave tend to share their personal SingPass IDs and passwords with colleagues to help carry out business transactions like filing corporate tax, or applying for permits and licences. Having separate login IDs for corporate and personal matters will therefore better protect information of both businesses and employees.
 
-Developed in consultation with industry partners and pilot users, CorpPass has been rolled out since September 2016, and more than 130 government digital services are now using CorpPass as a login method. By Q3 2018, CorpPass will be the only login method for online corporate transactions with the Government.
+Developed in consultation with industry partners and pilot users, CorpPass has been rolled out since September 2016 and more than 170 government digital services (as of early 2019) are now using CorpPass as a login method.
+
+As of 1 September 2018, CorpPass is the only login method for online corporate transactions with Government.
 
 For more information, please visit the [CorpPass website](http://www.corppass.gov.sg/){:target="_blank"}.
 
