@@ -17,7 +17,7 @@ Enter Mr Samuel Eng, 29-year-old security consultant at ST Engineering (Info-Sec
 
 “I actually found five bugs, but one of them was a duplicate, which means someone identified the vulnerability before me. Sometimes people beat you to it, so you have to live with that,” he said jokingly.
 
-![meet the man using myResponder to save lives](/images/technews/whitehacker2.png)
+![mr eng shares about what being a white hacker is like](/images/technews/whitehacker2.jpg)
 
 ### **A contest of wits**
 
@@ -42,13 +42,16 @@ Mr Eng recommends that organisations set up a portal or contact point for white 
 
 Over the years, Mr Eng has noticed three common ‘bugs’ in the IT systems he has tried to penetrate as a white hat hacker, which he thinks cybersecurity professionals ought to pay more attention to:
 
+
 1. Insecure Direct Object References (IDOR)
 
     This occurs when an application allows an individual to bypass authorisation and access an organisation’s data by changing the value of a specific parameter. “Let's say I’m logged in as ID#1000. But if I change a field to ID#1001, I may be able to view someone else’s personal information within the same database,” said Mr Eng.
+    
 
 2. Cross-site scripting (XSS)
 
     An attacker can send malicious code to an unsuspecting user which grants access to the victim’s cookies and sensitive information, such as usernames and passwords. The malicious code could arrive as a pop-up link while someone is making a banking transaction, and once clicked, becomes a gateway for information to be siphoned from the banking site.
+    
 
 3. Cross-site request forgery (CSRF)
 
