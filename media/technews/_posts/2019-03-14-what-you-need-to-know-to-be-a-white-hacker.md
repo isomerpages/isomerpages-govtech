@@ -21,7 +21,7 @@ Enter Mr Samuel Eng, 29-year-old security consultant at ST Engineering (Info-Sec
 
 ### **A contest of wits**
 
-The bug bounty format of hunting down digital vulnerabilities can be traced back to 1983, when a Silicon Valley startup called Hunter & Ready offered a Volkswagen Beetle—a ‘bug’—to anyone who could find software ‘bugs’ in their operating system. The crowdsourcing nature of bug bounties made it highly popular, and today, one of the largest platforms for bug bounties is HackerOne, which allows organisations to tap on an international community of white hackers and cybersecurity experts.
+The bug bounty format of hunting down digital vulnerabilities can be traced back to 1983, when a Silicon Valley startup called Hunter & Ready offered a Volkswagen Beetle—a ‘bug’—to anyone who could find software ‘bugs’ in their operating system. The crowdsourcing nature of bug bounties made it highly popular, and today, one of the largest platforms for bug bounties is HackerOne, which allows organisations to tap on an international community of white hat hackers and cybersecurity experts.
 
 At the time of writing, Mr Eng is ranked within the top 200 of the HackerOne community. Getting there required a great deal of persistence, he said. Individuals interested in becoming white hat hackers need to get themselves qualified as an Offensive Security Certified Professional, then prove themselves repeatedly in real-world challenges posted on HackerOne.
 
@@ -36,7 +36,7 @@ Contrary to the popular notion that sophisticated coding skills are needed to be
 
 When a white hat hacker identifies a major cybersecurity loophole, it is their social responsibility to make it known to the public. However, organisations need time to patch these vulnerabilities, so white hat hackers operate under a responsible disclosure model, where they only release information about the vulnerability after a certain amount of time has lapsed.
 
-Mr Eng recommends that organisations set up a portal or contact point for white hat hackers to practice responsible disclosure. For those relatively new to the white hat hacking space, he advocates that they “stick to the rules” and participate in public bug bounties where the legal boundaries are clear.
+Mr Eng recommends that organisations set up a portal or contact point for white hat hackers to practise responsible disclosure. For those relatively new to the white hat hacking space, he advocates that they “stick to the rules” and participate in public bug bounties where the legal boundaries are clear.
 
 ### **3 common bugs cybersecurity professionals should note**
 
