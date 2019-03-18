@@ -44,13 +44,13 @@ Over the years, Mr Eng has noticed three common ‘bugs’ in the IT systems he 
 
 1. Insecure Direct Object References (IDOR)
 
-        This occurs when an application allows an individual to bypass authorisation and access an organisation’s data by changing the value of a specific parameter. “Let's say I’m logged in as ID#1000. But if I change a field to ID#1001, I may be able to view someone else’s personal information within the same database,” said Mr Eng.
+    This occurs when an application allows an individual to bypass authorisation and access an organisation’s data by changing the value of a specific parameter. “Let's say I’m logged in as ID#1000. But if I change a field to ID#1001, I may be able to view someone else’s personal information within the same database,” said Mr Eng.
 
 2. Cross-site scripting (XSS)
 
-        An attacker can send malicious code to an unsuspecting user which grants access to the victim’s cookies and sensitive information, such as usernames and passwords. The malicious code could arrive as a pop-up link while someone is making a banking transaction, and once clicked, becomes a gateway for information to be siphoned from the banking site.
+    An attacker can send malicious code to an unsuspecting user which grants access to the victim’s cookies and sensitive information, such as usernames and passwords. The malicious code could arrive as a pop-up link while someone is making a banking transaction, and once clicked, becomes a gateway for information to be siphoned from the banking site.
 
 3. Cross-site request forgery (CSRF)
 
-        Unlike XSS attacks which allow hackers to steal data, CSRF attacks grant hackers the ability to force a user to make a state-changing action, such as approving a fund transfer. “Basically, the attacker sends you a link, and this link will make you do something on the attacker’s behalf,” Mr Eng said.
+    Unlike XSS attacks which allow hackers to steal data, CSRF attacks grant hackers the ability to force a user to make a state-changing action, such as approving a fund transfer. “Basically, the attacker sends you a link, and this link will make you do something on the attacker’s behalf,” Mr Eng said.
 
