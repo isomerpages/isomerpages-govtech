@@ -3,7 +3,7 @@ layout: post
 title: "What you need to know to be a white hacker"
 permalink: "/media/technews/what-you-need-to-know-to-be-a-white-hacker"
 category: technews
-image: "/images/technews/man-using-myresponder1.JPG"
+image: "/images/technews/whitehacker1.png"
 ---
      
 TL;DR: Singapore has concluded its second Government Bug Bounty Programme (GBBP) and TechNews spoke to the Singaporean champion of the second GBBP, Mr Samuel Eng about common weaknesses and best practices in the white hat hacker space. 
@@ -13,11 +13,11 @@ Mention the word ‘hacker’ and the first image that comes to mind is likely t
 
 Enter Mr Samuel Eng, 29-year-old security consultant at ST Engineering (Info-Security), who is part of a growing community of white hat hackers around the world, helping organisations find loopholes in their cybersecurity landscape before the ‘bad guys’ get to them. Mr Eng uncovered four of 26 bugs in government IT systems during the second Government Bug Bounty Programme launched by the Government Technology Agency of Singapore and the Cybersecurity Agency of Singapore, emerging as the top white hat hacker from Singapore.
 
-![what you need to know to be a white hacker](/images/technews/man-using-myresponder1.JPG)
+![what you need to know to be a white hacker](/images/technews/whitehacker1.png)
 
 “I actually found five bugs, but one of them was a duplicate, which means someone identified the vulnerability before me. Sometimes people beat you to it, so you have to live with that,” he said jokingly.
 
-![meet the man using myResponder to save lives](/images/technews/man-using-myresponder2.JPG)
+![meet the man using myResponder to save lives](/images/technews/whitehacker2.png)
 
 ### **A contest of wits**
 
