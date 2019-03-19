@@ -38,7 +38,7 @@ Today, there are more than 40,000 CFRs like Mr Ang registered on myResponder, au
 
     Anyone interested in becoming a CFR can simply sign in to the app using their SingPass, which makes it convenient for them to input their contact details and personal particulars. This is important to ensure that notifications from the app will be sent to an active device.
 
-Thereafter, “you’ll be guided through a short tutorial and asked to indicate whether you are trained in first aid, CPR or AED,” said Mr Ang. And with that, you’re all set and good to go!
+    Thereafter, “you’ll be guided through a short tutorial and asked to indicate whether you are trained in first aid, CPR or AED,” said Mr Ang. And with that, you’re all set and good to go!
 
 2. Constant GPS updates
 
@@ -48,19 +48,20 @@ Thereafter, “you’ll be guided through a short tutorial and asked to indicate
 
     In the event of a cardiac arrest, an AED may be required to deliver a shock to the heart to kickstart its rhythm once more. Not everyone owns an AED, so the SCDF has partnered with the Singapore Heart Foundation to develop a national AED registry for publicly accessible AEDs.
 
-“The myResponder app has a map of all the AEDs in your vicinity. You can probably find one every two blocks. I always look for the nearest AED when I respond to a cardiac arrest case,” said Mr Ang.
+    “The myResponder app has a map of all the AEDs in your vicinity. You can probably find one every two blocks. I always look for the nearest AED when I respond to a cardiac arrest case,” said Mr Ang.
 
 4. After-action review
 
     Mr Ang also noted that the app allows CFRs to submit a brief report on what happened prior to the arrival of an emergency medical team. The default report comes in a simple yes-or-no format: Did you arrive before the SCDF? Did you perform CPR? Was an AED used?
 
-There’s also an optional, open-ended field for additional details to be filled up. For Mr Ang, he includes information such as the patient’s heart rate, blood pressure and blood oxygenation level, obtained using the equipment in his trauma bag. Where possible, he even keys in a brief medical history of the patient provided by the patient’s family members. All this information can help medical professionals make better decisions later on.
+    There’s also an optional, open-ended field for additional details to 
+    be filled up. For Mr Ang, he includes information such as the patient’s heart rate, blood pressure and blood oxygenation level, obtained using the equipment in his trauma bag. Where possible, he even keys in a brief medical history of the patient provided by the patient’s family members. All this information can help medical professionals make better decisions later on.
 
 5. Alerts on minor fires
 
     Rubbish chute fires account for approximately 50 percent of fires in residential estates, and some of these minor blazes do not need to be dealt with by a fire truck. CFRs that are in the area can help to put out these small fires and take geo-tagged photos of the extent of the damage.
 
-“You can capture an overview of the scene, highlight points of interest and even send the SCDF a video of the incident,” Mr Ang explained, adding that this serves as real-time feedback to the SCDF so that additional firefighting resources can be dispatched if necessary.
+    “You can capture an overview of the scene, highlight points of interest and even send the SCDF a video of the incident,” Mr Ang explained, adding that this serves as real-time feedback to the SCDF so that additional firefighting resources can be dispatched if necessary.
 
 ---
 
