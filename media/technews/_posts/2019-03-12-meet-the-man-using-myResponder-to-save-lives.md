@@ -54,8 +54,7 @@ Today, there are more than 40,000 CFRs like Mr Ang registered on myResponder, au
 
     Mr Ang also noted that the app allows CFRs to submit a brief report on what happened prior to the arrival of an emergency medical team. The default report comes in a simple yes-or-no format: Did you arrive before the SCDF? Did you perform CPR? Was an AED used?
 
-    There’s also an optional, open-ended field for additional details to 
-    be filled up. For Mr Ang, he includes information such as the patient’s heart rate, blood pressure and blood oxygenation level, obtained using the equipment in his trauma bag. Where possible, he even keys in a brief medical history of the patient provided by the patient’s family members. All this information can help medical professionals make better decisions later on.
+    There’s also an optional, open-ended field for additional details to be filled up. For Mr Ang, he includes information such as the patient’s heart rate, blood pressure and blood oxygenation level, obtained using the equipment in his trauma bag. Where possible, he even keys in a brief medical history of the patient provided by the patient’s family members. All this information can help medical professionals make better decisions later on.
 
 5. Alerts on minor fires
 
