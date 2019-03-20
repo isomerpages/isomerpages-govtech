@@ -3,9 +3,11 @@ layout: post
 title: "How GovTech simulates four million bus rides a day"
 permalink: "/media/technews/How-GovTech-simulates-four-million-bus-rides-a-day"
 category: technews
-image: "/images/technews/man-using-myresponder1.JPG"
+image: "/images/technews/how-govtech-simulates-four million-bus-rides-day-part1.png"
 ---
-     
+
+![how govtech simulates four million bus rides a day](/images/technews/how-govtech-simulates-four million-bus-rides-day-part1.png)
+
 TL;DR: Planning bus routes is no easy task; the Land Transport Authority of Singapore must consider the ripple effects of any changes to the transport network. With Reroute, a simulator developed by the Government Technology Agency of Singapore, Land Transport Authority can now test out different scenarios to maximise the convenience of bus services. 
 ---
  
@@ -17,7 +19,7 @@ As with most economic decisions, there are trade-offs when planning new bus serv
 
 To enhance the efficiency of bus planning, a Government Technology Agency of Singapore (GovTech) Open Data Products (ODP) team worked with the LTA to develop Reroute, an application that simulates the impact that bus route changes or withdrawals have on commuters. 
 
-![what you need to know to be a white hacker](/images/technews/man-using-myresponder1.JPG)
+![a screenshot of a bus route](/images/technews/how-govtech-simulates-four million-bus-rides-day-part2.png)
 
 Here’s a behind-the-scenes look at how they built it.
 
