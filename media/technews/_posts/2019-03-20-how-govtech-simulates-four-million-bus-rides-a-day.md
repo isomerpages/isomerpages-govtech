@@ -49,4 +49,3 @@ Since simulations are likely to be run on an ad-hoc basis with varying computati
 
 Like most agile development workflows, there is never a finished product, and the GovTech ODP team comprising data scientists and software engineers continues to build, test and implement code for Reroute. User testing with bus planners is also carried out in parallel with development cycles, which means faster iterations and a solution that fits users’ needs.
 
-
