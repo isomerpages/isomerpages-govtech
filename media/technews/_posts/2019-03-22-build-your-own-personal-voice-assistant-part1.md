@@ -6,13 +6,14 @@ category: technews
 image: "/images/technews/how-govtech-simulates-four million-bus-rides-day-part1.png"
 ---
 
-TL;DR: In the last few years, personal voice assistants like the Amazon Alexa and Google Home have become commonplace in our humble home. Many would say that the personal voice assistant is the first essential when it comes to a smart home. In this tutorial, we teach you how to make your own with a Raspberry Pi and Google Assistant! 
+In the last few years, personal voice assistants like the Amazon Alexa and Google Home have become commonplace in our humble home. Many would say that the personal voice assistant is the first essential when it comes to a smart home. In this tutorial, by Yap Zi Qi and Gwyneth D'Cotta, we teach you how to make your own with a Raspberry Pi and Google Assistant! 
 ---
 
 
-Hardware and software you need and where to find them:
+> Hardware and software you need and where to find them:
  
- ![how govtech simulates four million bus rides a day](/images/technews/how-govtech-simulates-four-million-bus-rides-day-part1.jpg)
+ ![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+ 
  
  
  <table class="table-h">
@@ -81,12 +82,12 @@ Retailers are provided for reference only. GovTech TechNews is not affiliated wi
 
 #### **What you need** 
 
-Computer with Windows/Mac OS to flash the Raspbian OS onto the SD card
-SD card slot/reader
-USB mouse & keyboard
-HDMI-compatible Monitor & HDMI cable
+1. Computer with Windows/Mac OS to flash the Raspbian OS onto the SD card
+2. SD card slot/reader
+3. USB mouse & keyboard
+4. HDMI-compatible Monitor & HDMI cable
 
-Step 1: Flash the SD card
+**Step 1: Flash the SD card**
 
 1. Download the Raspbian (https://www.raspberrypi.org/downloads/raspbian/) Image.
 (Raspbian is the OS for the Raspberry Pi)
@@ -98,14 +99,14 @@ Step 1: Flash the SD card
 6. Click 'Flash!' to begin writing Raspbian to the micro SD card
 
 
-Step 2: Boot Raspbian for the first time
+**Step 2: Boot Raspbian for the first time**
 
 1. Login with the following credentials
 User: pi
 Password: raspberry
 (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
 
-##Testing the microphone and speaker
+> Testing the microphone and speaker
 
 1. Plug in the microphone and speaker
 2. Open Terminal and run the following commands
@@ -119,7 +120,7 @@ aplay -l displays the list of output hardware devices
 
 3. Note down the card and device number of the microphone and speaker 
 
-![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
+![a screenshot of a bus route](/images/technews/personal-voice-assistant2.jpg)
 
 In the above screenshot, the recording device is USB PnP Sound Device and the playback is bcm2835 ALSA. So, the card no. and device no. for recording device is 1 and 0 respectively, and for playback it is 0 and 0.
 
@@ -147,7 +148,7 @@ In the above screenshot, the recording device is USB PnP Sound Device and the pl
 	    }
 
 
-![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
+![a screenshot of a bus route](/images/technews/personal-voice-assistant3.jpg)
 
 6.   To test the audio setup, run the following code in Terminal
 
@@ -161,6 +162,6 @@ Then, run:
 
 to listen to the audio recorded.
 
-![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
+![a screenshot of a bus route](/images/technews/personal-voice-assistant4.jpg)
 
 And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
