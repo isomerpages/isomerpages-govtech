@@ -92,15 +92,12 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
 
 4. HDMI-compatible Monitor & HDMI cable
 
+
 **Step 1: Flash the SD card**
 
-1. Download the [Raspbian Image](https://www.raspberrypi.org/downloads/raspbian/).
+1. Download the [Raspbian Image](https://www.raspberrypi.org/downloads/raspbian/).Raspbian is the OS for the Raspberry Pi.
 
-(Raspbian is the OS for the Raspberry Pi)
-
-2. Download and install [Etcher](https://etcher.io/).
-
-(Etcher cross-platform tool for flashing images to SD cards & USB drives)
+2. Download and install [Etcher](https://etcher.io/). Etcher cross-platform tool for flashing images to SD cards & USB drives.
 
 3. Insert micro SD card to your computer
 
@@ -114,9 +111,13 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
 **Step 2: Boot Raspbian for the first time**
 
 1. Login with the following credentials
+
 User: pi
-Password: raspberry
+
+Password: raspberry 
+
 (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
+
 
 
 > Testing the microphone and speaker
@@ -128,6 +129,7 @@ Password: raspberry
         aplay -l
 
 arecord -l displays the list of input hardware devices
+
 aplay -l displays the list of output hardware devices
 
 
@@ -177,4 +179,6 @@ to listen to the audio recorded.
 
 ![a screenshot of a bus route](/images/technews/personal-voice-assistant4.jpg)
 
-And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
+And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. 
+
+Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
