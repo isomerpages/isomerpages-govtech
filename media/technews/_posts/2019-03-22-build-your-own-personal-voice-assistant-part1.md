@@ -10,9 +10,11 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
 ---
 
 
+
 > Hardware and software you need and where to find them:
  
  ![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+ 
  
  
  
@@ -78,24 +80,34 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
   </tr>
 </table>
  
-Retailers are provided for reference only. GovTech TechNews is not affiliated with any of the retailers listed in this tutorial.
+*Retailers are provided for reference only. GovTech TechNews is not affiliated with any of the retailers listed in this tutorial.*
 
 #### **What you need** 
 
 1. Computer with Windows/Mac OS to flash the Raspbian OS onto the SD card
+
 2. SD card slot/reader
+
 3. USB mouse & keyboard
+
 4. HDMI-compatible Monitor & HDMI cable
 
 **Step 1: Flash the SD card**
 
-1. Download the Raspbian (https://www.raspberrypi.org/downloads/raspbian/) Image.
+1. Download the [Raspbian Image](https://www.raspberrypi.org/downloads/raspbian/).
+
 (Raspbian is the OS for the Raspberry Pi)
-2. Download and install Etcher (https://etcher.io/).
+
+2. Download and install [Etcher](https://etcher.io/).
+
 (Etcher cross-platform tool for flashing images to SD cards & USB drives)
+
 3. Insert micro SD card to your computer
+
 4. Open Etcher and select the downloaded Raspbian Image (either .img or .zip file)
+
 5. Select the micro SD card.
+
 6. Click 'Flash!' to begin writing Raspbian to the micro SD card
 
 
@@ -105,6 +117,7 @@ Retailers are provided for reference only. GovTech TechNews is not affiliated wi
 User: pi
 Password: raspberry
 (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
+
 
 > Testing the microphone and speaker
 
