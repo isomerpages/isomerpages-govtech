@@ -8,12 +8,12 @@ image: "/images/technews/how-govtech-simulates-four million-bus-rides-day-part1.
 
 TL;DR: In the last few years, personal voice assistants like the Amazon Alexa and Google Home have become commonplace in our humble home. Many would say that the personal voice assistant is the first essential when it comes to a smart home. In this tutorial, we teach you how to make your own with a Raspberry Pi and Google Assistant! 
 ---
- 
- Hardware and software you need and where to find them:
+
+
+Hardware and software you need and where to find them:
  
  ![how govtech simulates four million bus rides a day](/images/technews/how-govtech-simulates-four-million-bus-rides-day-part1.jpg)
  
- For voice control setup
  
  <table class="table-h">
   <tr>
@@ -129,21 +129,38 @@ In the above screenshot, the recording device is USB PnP Sound Device and the pl
 
 5.   Copy the following code into the file, and adjust the card and device number according to what card and device numbers you have recorded down in step 3.
 
+	pcm.!default {
+	    type asym
+	    capture.pcm "mic"
+	    playback.pcm "speaker"
+	}
+	pcm.mic {
+	    type plug
+	    slave {
+		pcm "hw:1,0"	# "hw:card,device (for recording)"
+	    }
+	}
+	pcm.speaker {
+	    type plug
+	    slave {
+		pcm "hw:0,0"	# "hw:card,device (for playback)"
+	    }
 
-        pcm.!default {
-            type asym
-            capture.pcm "mic"
-            playback.pcm "speaker"
-        }
-        pcm.mic {
-            type plug
-            slave {
-                pcm "hw:1,0"	# "hw:card,device (for recording)"
-            }
-        }
-        pcm.speaker {
-            type plug
-            slave {
-                pcm "hw:0,0"	# "hw:card,device (for playback)"
-            }
 
+![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
+
+6.   To test the audio setup, run the following code in Terminal
+
+	arecord --duration=5 test.wav
+	
+The raspberry pi will record audio through the microphone for 5 seconds.
+Then, run:
+
+
+	aplay test.wav
+
+to listen to the audio recorded.
+
+![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
+
+And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
