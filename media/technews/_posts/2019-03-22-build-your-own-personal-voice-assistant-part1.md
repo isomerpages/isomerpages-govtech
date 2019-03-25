@@ -115,9 +115,7 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
 
 1. Login with the following credentials
 
-    User: pi
-
-    Password: raspberry 
+    User: pi<br />Password: raspberry 
 
     (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
 
