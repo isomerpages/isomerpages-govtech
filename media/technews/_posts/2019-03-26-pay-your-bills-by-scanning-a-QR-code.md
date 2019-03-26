@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/personal-voice-assistance-head.jpg"
 ---
 
-![personal voice assistant](/images/technews/personal-voice-assistance-head.jpg)
+![Pay your bills by scanning a QR code](/images/technews/pay-your-bills-by-QR.jpg)
 
 
 QR codes are a straightforward method to make cashless payments. Citizens can now use the Government QR Payment system to transact with HDB, CPF, SLA and LTA.
@@ -50,7 +50,7 @@ Here are five tips you should note.
 
 When scanning a QR code, make sure you get a complete ‘front view’ image by positioning your camera so that it directly faces the QR code. A scanning angle of less than 30 degrees will likely result in failure to process a transaction.
 
-![personal voice assistant](/images/technews/personal-voice-assistance-head.jpg)
+![Scan head on](/images/technews/pay-your-bills-by-QR-part2.png)
 
 **2. Tap to focus**
 
@@ -60,17 +60,17 @@ Most smartphone cameras these days come with built-in auto-focus, but it helps t
 
 The squares at the top two and bottom-left corners of the QR code are there for a purpose—to help the scanner align the image such that it knows top from bottom, left from right, so make sure all three corners are in the frame while scanning.
 
-![personal voice assistant](/images/technews/personal-voice-assistance-head.jpg)
+![Capture all three corners](/images/technews/pay-your-bills-by-QR-part3.png)
 
 **4. Don’t crumple or deface the QR code**
 
 The pattern on the QR code is important, so crumpling or drawing on it can prevent the scanner from recognising it.
 
-![personal voice assistant](/images/technews/personal-voice-assistance-head.jpg)
+![Do not crumpe or deface the QR code](/images/technews/pay-your-bills-by-QR-part4.png)
 
 **5. Verify payment details**
 
 Always check that the transaction details are correct before sending payment. For bills from government agencies, the Gov QR Payment code should automatically indicate the amount to be paid and the bill reference number. For merchant transactions, be sure that the store name matches what is displayed after the QR code has been scanned.
 
-![personal voice assistant](/images/technews/personal-voice-assistance-head.jpg)
+![Verify payment details](/images/technews/pay-your-bills-by-QR-part5.png)
 
