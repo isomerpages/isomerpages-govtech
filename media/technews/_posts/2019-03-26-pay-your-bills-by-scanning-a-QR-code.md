@@ -73,4 +73,3 @@ The pattern on the QR code is important, so crumpling or drawing on it can preve
 Always check that the transaction details are correct before sending payment. For bills from government agencies, the Gov QR Payment code should automatically indicate the amount to be paid and the bill reference number. For merchant transactions, be sure that the store name matches what is displayed after the QR code has been scanned.
 
 ![Verify payment details](/images/technews/pay-your-bills-by-QR-part5.png)
-
