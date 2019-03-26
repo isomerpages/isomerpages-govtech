@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What you need to know to be a white hacker"
+title: "What you need to know to be a white hat hacker"
 permalink: "/media/technews/what-you-need-to-know-to-be-a-white-hacker"
 category: technews
 image: "/images/technews/whitehacker1.png"
