@@ -40,7 +40,7 @@ InnoLeap activities happen throughout the year. Contact GovTech’s Applied Inno
 
 **(2) For Industry:**
 
-If you would like to seek collaboration opportunities. Also, look out for InnoLeap activities on the Ideas! [Ideas!](https://ideas.gov.sg){:target="_blank"} portal.
+If you would like to seek collaboration opportunities. Also, look out for InnoLeap activities on the [Ideas!](https://ideas.gov.sg){:target="_blank"} portal.
 
 <!--
 **Contact Details**<br>
