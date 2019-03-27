@@ -5,8 +5,10 @@ permalink: /products-and-services/tech-kaki-community/
 breadcrumb: Tech Kaki Community
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/TechKaki_Thumbnail1.png
+thumbnail_image: /images/programmes/products-and-services/TechKaki-Thumbnail.jpg
 ---
+
+![Tech Kaki banner](/images/programmes/products-and-services/TechKaki-Header.jpg)
 
 We want to solve problems. In fact, we want to solve problems with you!
 
@@ -14,4 +16,4 @@ At GovTech Singapore, we transform the delivery of Government digital services b
 
 Tech Kaki is a community set up by GovTech for citizen participation. As part of this community, you will get first dibs on new tech products before they go live and be part of the development team to make them better.
 
-We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at [https://www.facebook.com/TechKaki](https://www.facebook.com/TechKaki){:target="_blank"} today!
+We regularly publish quick polls and mini surveys, and the latest in tech news. Join our community at [https://www.facebook.com/TechKaki](https://www.facebook.com/TechKaki){:target="_blank"} today!

@@ -5,7 +5,7 @@ permalink: /products-and-services/singpass/
 breadcrumb: SingPass
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/SingPass Thumbnail.jpg
+thumbnail_image: /images/programmes/products-and-services/SingPass-Thumbnail.jpg
       
 ---
 
@@ -27,7 +27,11 @@ Along with 2FA, users should also play their part to protect their account and p
 
 In October 2018, we launched the SingPass Mobile app as an alternative mode of 2FA to provide citizens with more choices and easier access to government digital services – including biometrics for easy authentication.
  
-With SingPass Mobile, users can now log in to digital services within seconds using just their fingerprint or a 6-digit passcode. More features will be added to the SingPass Mobile app progressively, such as one-tap access to popular government digital services and users will be able to view their personal information at a glance with the app.
+With SingPass Mobile, users can now log in to digital services within seconds using just their fingerprint, facial recognition (for selected smartphones) or a 6-digit passcode. More features will be added to the SingPass Mobile app progressively, such as one-tap access to popular government digital services and a dashboard to view the user's personal information at a glance within the app.
 
 
-For more information: [SingPass Mobile - English Brouchure](/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}
+For more information:
+<br>
+Visit [www.singpassmobile.sg](https://singpassmobile.sg?utm_source=GovTech&utm_medium=website&utm_campaign=SPM2019)
+
+[SingPass Mobile - English Brouchure](/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}

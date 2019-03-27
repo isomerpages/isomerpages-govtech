@@ -16,4 +16,4 @@ FormSG allows integration with government systems, enabling it to support authen
  
 **Usage rates**
 
-More than 3,000 public officers across over 65 agencies are currently using FormSG to push digitisation of their paper forms, with more than 1,200 forms built to date. As of October 2018, we have 3,269 public officers on our platform, 1202 digital forms deployed, and 178,419 citizens have filled up our forms.
+More than 6,000 public officers across over 65 agencies are currently using FormSG to push digitisation of their paper forms, with more than 1,200 forms built to date. As of March 2019, we have 6,804 public officers on our platform, 3,488 digital forms deployed, and 554,738 citizens filling up our forms.
