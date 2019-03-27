@@ -162,7 +162,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
   <tr>
     <td>HDB</td>
     <td>Integrated Real-time Structural Health Monitoring (SHM) Platform for Residential Building </td>
-    <td>An integrated real time system to monitor structural health of high rise HDB buildings and to identify any early distress sign. </td>
+    <td>An integrated real-time system to monitor structural health of high-rise HDB buildings and to identify any early distress signs. </td>
   </tr>
   <tr>
     <td>IPOS</td>
@@ -191,7 +191,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
     <!-- <td rowspan="5">NTU</td> -->
     <td>Supreme Court and State Courts</td>
     <td>Intelligent Case Retrieval System for Singapore Judiciary</td>
-    <td>Utilize AI tools that understand the case details and do research by trawling through the case repositories and identifying points of law, relevant precedents and possible outcomes to guide judges. Tool should also provide possible outcomes to potential litigants prior to filing their case.</td>
+    <td>Utilise AI tools that understand the case details and do research by trawling through the case repositories and identifying points of law, relevant precedents and possible outcomes to guide judges. Tool should also provide possible outcomes to potential litigants prior to filing their case.</td>
   </tr> 
    <tr>
     <td>MND</td>
@@ -225,19 +225,19 @@ The following list of projects has been funded under TRANS Grant. Where applicab
   <tr>
     <td>MND</td>
     <td>Social Media Analytics for Municipal Issues</td>
-    <td>Identify legitimate feedback cases related to municipal issues from social media posts and categorize them so that the information could be sent to the relevant agencies for follow-up.</td>
+    <td>Identify legitimate feedback cases related to municipal issues from social media posts and categorise them so that the information could be sent to the relevant agencies for follow-up.</td>
   </tr> 
   <tr>
     <td>HPB</td>
     <td>Automated Food Image Recognition and Crowdsourcing for New Foods in Singapore</td>
-    <td>Solution to seamlessly and interactively capture food intake by matching against a database of local food images and accompanied by an intervention programmes to tackle obesity and diabetes through diet.</td>
+    <td>Solution to seamlessly and interactively capture food intake by matching against a database of local food images and accompanied by an intervention programme to tackle obesity and diabetes through diet.</td>
   </tr>
 </table>
 
 
 ### **Contact Us**<br>
 Please contact us at INNOVATE@tech.gov.sg for the following:
-* To contribute problem statements (Please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx)
+* To contribute problem statements (Please fill up this [form](/files/products-and-services/TRANSGrant-Call-for-Problem-Statement-Form-2017.docx))
 * To use any of the TRANS Grant funded projects for your applications
 * To collaborate with the TRANS Labs
 * To commercialise the TRANS Grant funded projects
