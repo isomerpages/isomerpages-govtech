@@ -120,3 +120,50 @@ Make the environment for Google Assistant to run in
 
 
 		sudo apt install --reinstall virtualenv
+
+###Setting up the lights###
+
+1. As we are using the Sonoff WiFi UK Plug switch in this tutorial, download eWeLink app from the Google Play Store for Android or App Store for iOS devices. 
+2. Sign up for an eWeLink account.
+3. Turn on the WiFi plug and click on Add Device (plus sign) in the eWeLink app.
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+4. Choose the first option (Quick Pairing Mode)
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+5. Next, choose a WiFi network (note the switch only supports 2.4GHz WiFi) and provide the credentials to the WiFi.
+6. The app will then attempt to pair the switch and on success it will ask you to name the device. You can name the device however you prefer.
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+7. Once connected, you should be able to control the plug through the app. Try it out by plugging the light into the plug and switching the plug on and off through the app. 
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+8. Download Google Home on your phone. Make sure it is logged into the same account you used for the Google Assistant setup.
+9. Go to Add Device and select "Have something already set up?" option. Search for Smart We Link on the list of support devices and select it.
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+10. Log into your eWeLink account and allow Google access.
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like)
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+12. Now you can control the light through your Home app as well.
+
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+
+13. Try controlling the light through Raspberry Pi Assistant by saying "Ok Google" or "Hey Google", following with "Turn on [your device name from step 6]" The light should turn on. 
+
+14. To make things easier through voice control, you can change the device name to "Lights" by selecting the device and then the settings icon. Now you can control the lights by saying "Turn on/off the lights".
+
+You can use the Sonoff WiFi Plug for any other household appliances as long as it does not take up more than 10A of current, as the switch is rated for up to a maximum of 10A. (For example, fans or pet feeder) Any appliances connected to the switch drawing more than 10A will damage the switch. For air conditioning control, you can look for infrared control device such as Tado, which controls air conditioning with infrared information rather than directly controlling the power supply (which is what the Sonoff Switch does in this tutorial) and is able to link to Google Home as well for voice control.
+
+And with that, your AI voice assistant should be fired up and ready to go! Definitely try your hand at building a cool case for it. Our case was made in the form of a pie to commemorate Pi Day on March 14, but you can let your creativity flow and make all kinds of cases - just remember to leave holes for the speaker and microphone!
+
