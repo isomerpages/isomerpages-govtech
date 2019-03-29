@@ -12,8 +12,6 @@ image: "/images/technews/personal-voice-assistance-head.jpg"
 In the previous post, we covered how to set up the Raspberry Pi and how to set up your microphone and speaker for your DIY voice assistant. In this last part of the tutorial, we will go through the process of setting up the Google Assistant and linking up the light for the finished product. 
 ---
 
-
-
 > Hardware and software you need and where to find them:
  
  ![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
@@ -87,85 +85,38 @@ Click on it and then click on Register Model. You can enter any name you like fo
 
 6. Check if python is installed on the Pi by typing in the Terminal
 
+		phyton
+		
+Python should be installed by default in Raspbian. If it is installed, you will see the following:
+
 ![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+Python should be installed by default in Raspbian. If it is installed, you will see the following:
+
 Exit out of the python programme by pressing ctrl-d.<br>
 <br>
 If it is not installed, install it by typing
 
+		sudo apt-get install python
+
+
 ![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
 
-7. Recommended by Google: Make a Python virtual environment for Google Assistant by first installing virtual environment and virtual environment wrapper
-        pip install virtualenv
-        pip install virtualenvwrapper
-        
+7. Recommended by Google: Make a Python virtual environment for Google Assistant by first installing virtual environment and virtual environment wrapper.
 
-**Step 2: Boot Raspbian for the first time**
+		pip install virtualenv
+		pip install virtualenvwrapper
 
-1. Login with the following credentials
+After this is done, configure the virtual environment wrapper
 
-    User: pi<br />Password: raspberry 
+		export WORKON_HOME=~/Envs
+		source ~/.local/bin/virtualenvwrapper.sh
+		
+![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
 
-    (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
-
-> Testing the microphone and speaker
-
-2. Plug in the microphone and speaker
-3. Open Terminal and run the following commands
-
-        arecord -l
-        aplay -l
-
-arecord -l displays the list of input hardware devices
-
-aplay -l displays the list of output hardware devices
+Make the environment for Google Assistant to run in
+ 
+		mkvirtualenv env
+*If the above step throws an error, it might be that the virtualenv that did not install properly. Try the following code to reinstall virtualenv:
 
 
-4. Note down the card and device number of the microphone and speaker 
-
-![a screenshot of a bus route](/images/technews/personal-voice-assistant2.jpg)
-
-In the above screenshot, the recording device is USB PnP Sound Device and the playback is bcm2835 ALSA. So, the card no. and device no. for recording device is 1 and 0 respectively, and for playback it is 0 and 0.
-
-5. Create a new file by typing the following command in Terminal
-
-        sudo nano .asoundrc
-
-6.   Copy the following code into the file, and adjust the card and device number according to what card and device numbers you have recorded down in step 3.
-
-	pcm.!default {
-	    type asym
-	    capture.pcm "mic"
-	    playback.pcm "speaker"
-	}
-	pcm.mic {
-	    type plug
-	    slave {
-		pcm "hw:1,0"	# "hw:card,device (for recording)"
-	    }
-	}
-	pcm.speaker {
-	    type plug
-	    slave {
-		pcm "hw:0,0"	# "hw:card,device (for playback)"
-	    }
-
-
-![a screenshot of a bus route](/images/technews/personal-voice-assistant3.jpg)
-
-7.   To test the audio setup, run the following code in Terminal
-
-	arecord --duration=5 test.wav
-	
-The raspberry pi will record audio through the microphone for 5 seconds.
-Then, run:
-
-
-	aplay test.wav
-
-to listen to the audio recorded.
-
-![a screenshot of a bus route](/images/technews/personal-voice-assistant4.jpg)
-
-And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. 
-
-Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
+		sudo apt install --reinstall virtualenv
