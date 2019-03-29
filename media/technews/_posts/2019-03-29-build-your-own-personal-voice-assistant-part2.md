@@ -59,19 +59,19 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
 1. On the Pi's browser, sign in to your Google Account. Then go to Google [Action Console](https://console.actions.google.com/) and click "New Project". Give a name to the project and click "Create Project". This will take a while so proceed with the next steps while leaving the tab open. 
 
-![parts to build a personal voice assistant](/images/technews/1pi.png)
+![Go to Google Action Console](/images/technews/1pi.png)
 
 2. Go to [Google Assistant API website](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview?pli=1) and click Enable. This will allow us to use the Google Assistant on our Pi.
 
-![parts to build a personal voice assistant](/images/technews/2pi.png)
+![Go to Google Assistant API website](/images/technews/2pi.png)
 
 3. Go to [Activity Control Panel](https://myaccount.google.com/activitycontrols?pli=1) and make sure the following activities are turned on.
    * Web and App Activity (including Chrome history checkbox)
    * Device Information
    * Voice and Audio Activity
 
-![parts to build a personal voice assistant](/images/technews/3pi.png)
-![parts to build a personal voice assistant](/images/technews/4pi.png)
+![Go to Activity Control Panel](/images/technews/3pi.png)
+![Go to Activity Control Panel 2](/images/technews/4pi.png)
 
 4. Go back to Google [Action Console](https://console.actions.google.com) and find the Device Registration button.
 <br>
@@ -79,20 +79,20 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 <br>
 Click on it and then click on Register Model. You can enter any name you like for your Pi and Manufacturer name* (the latter is not important but you still need to key in something), and set the Device type to Auto.
 
-![parts to build a personal voice assistant](/images/technews/5pi.png)
-![parts to build a personal voice assistant](/images/technews/6pi.png)
-![parts to build a personal voice assistant](/images/technews/7pi.png)
+![Go back to Google Action Console I](/images/technews/5pi.png)
+![Go back to Google Action Console II](/images/technews/6pi.png)
+![Go back to Google Action Console III](/images/technews/7pi.png)
 
 5. Click on Register Model and download the OAuth2.0 Credentials. After the file has been downloaded, move it to the /home/pi directory
 
-![parts to build a personal voice assistant](/images/technews/8pi.png)
+![Click on Register Model and download the OAuth2.0](/images/technews/8pi.png)
 
 6. Check if python is installed on the Pi by typing in the Terminal
 
 		phyton
 		
 Python should be installed by default in Raspbian. If it is installed, you will see the following:
-[insert image]
+![Python should be installed by default in Raspbian](/images/technews/23pi.png)
 
 Exit out of the python programme by pressing ctrl-d.<br>
 <br>
@@ -100,8 +100,7 @@ If it is not installed, install it by typing
 
 		sudo apt-get install python
 
-
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![install python](/images/technews/personal-voice-assistant1.jpg)
 
 7. Recommended by Google: Make a Python virtual environment for Google Assistant by first installing virtual environment and virtual environment wrapper.
 
@@ -113,7 +112,7 @@ After this is done, configure the virtual environment wrapper
 		export WORKON_HOME=~/Envs
 		source ~/.local/bin/virtualenvwrapper.sh
 		
-![parts to build a personal voice assistant](/images/technews/10pi.png)
+![configure the virtual environment wrapper](/images/technews/10pi.png)
 
 Make the environment for Google Assistant to run in
  
@@ -131,18 +130,18 @@ Make the environment for Google Assistant to run in
 
 4. Choose the first option (Quick Pairing Mode)
 
-![parts to build a personal voice assistant](/images/technews/15pi.jpg)
+![Choose quick pairing mode](/images/technews/15pi.jpg)
 
 5. Next, choose a WiFi network (note the switch only supports 2.4GHz WiFi) and provide the credentials to the WiFi.
 6. The app will then attempt to pair the switch and on success it will ask you to name the device. You can name the device however you prefer.
 
-![parts to build a personal voice assistant](/images/technews/16pi.jpg)
-![parts to build a personal voice assistant](/images/technews/17pi.jpg)
+![pair the switch I](/images/technews/16pi.jpg)
+![pair the switch II](/images/technews/17pi.jpg)
 
 
 7. Once connected, you should be able to control the plug through the app. Try it out by plugging the light into the plug and switching the plug on and off through the app. 
 
-![parts to build a personal voice assistant](/images/technews/18pi.jpg)
+![Control the plug through the app](/images/technews/18pi.jpg)
 
 8. Download Google Home on your phone. Make sure it is logged into the same account you used for the Google Assistant setup.
 
@@ -150,15 +149,15 @@ Make the environment for Google Assistant to run in
 
 10. Log into your eWeLink account and allow Google access.
 
-![parts to build a personal voice assistant](/images/technews/20pi.jpg)
+![Log into your eWeLink account allow Google access](/images/technews/20pi.jpg)
 
 11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like)
 
-![parts to build a personal voice assistant](/images/technews/21pi.jpg)
+![Add the switch devide which you named in step 6](/images/technews/21pi.jpg)
 
 12. Now you can control the light through your Home app as well.
 
-![parts to build a personal voice assistant](/images/technews/22pi.jpg)
+![Now you can control the light through your Home app](/images/technews/22pi.jpg)
 
 13. Try controlling the light through Raspberry Pi Assistant by saying "Ok Google" or "Hey Google", following with "Turn on [your device name from step 6]" The light should turn on. 
 
