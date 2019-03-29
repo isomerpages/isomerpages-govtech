@@ -84,7 +84,7 @@ Click on it and then click on Register Model. You can enter any name you like fo
 
 5. Click on Register Model and download the OAuth2.0 Credentials. After the file has been downloaded, move it to the /home/pi directory
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/8pi.png)
 
 6. Check if python is installed on the Pi by typing in the Terminal
 
@@ -114,7 +114,7 @@ After this is done, configure the virtual environment wrapper
 		export WORKON_HOME=~/Envs
 		source ~/.local/bin/virtualenvwrapper.sh
 		
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/10pi.png)
 
 Make the environment for Google Assistant to run in
  
@@ -130,37 +130,36 @@ Make the environment for Google Assistant to run in
 2. Sign up for an eWeLink account.
 3. Turn on the WiFi plug and click on Add Device (plus sign) in the eWeLink app.
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
-
 4. Choose the first option (Quick Pairing Mode)
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/15pi.png)
 
 5. Next, choose a WiFi network (note the switch only supports 2.4GHz WiFi) and provide the credentials to the WiFi.
 6. The app will then attempt to pair the switch and on success it will ask you to name the device. You can name the device however you prefer.
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/16pi.png)
+![parts to build a personal voice assistant](/images/technews/17pi.png)
+
 
 7. Once connected, you should be able to control the plug through the app. Try it out by plugging the light into the plug and switching the plug on and off through the app. 
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/18pi.png)
 
 8. Download Google Home on your phone. Make sure it is logged into the same account you used for the Google Assistant setup.
-9. Go to Add Device and select "Have something already set up?" option. Search for Smart We Link on the list of support devices and select it.
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+9. Go to Add Device and select "Have something already set up?" option. Search for Smart We Link on the list of support devices and select it.
 
 10. Log into your eWeLink account and allow Google access.
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/20pi.png)
 
 11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like)
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/21pi.png)
 
 12. Now you can control the light through your Home app as well.
 
-![parts to build a personal voice assistant](/images/technews/personal-voice-assistant1.jpg)
+![parts to build a personal voice assistant](/images/technews/22pi.png)
 
 13. Try controlling the light through Raspberry Pi Assistant by saying "Ok Google" or "Hey Google", following with "Turn on [your device name from step 6]" The light should turn on. 
 
