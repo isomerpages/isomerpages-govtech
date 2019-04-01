@@ -59,11 +59,9 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
 1. On the Pi's browser, sign in to your Google Account. Then go to Google [Action Console](https://console.actions.google.com/) and click "New Project". Give a name to the project and click "Create Project". This will take a while so proceed with the next steps while leaving the tab open. 
 
-    ![Go to Google Action Console](/images/technews/1pi.png)
-
 2. Go to [Google Assistant API website](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview?pli=1) and click Enable. This will allow us to use the Google Assistant on our Pi.
 
-    ![Go to Google Assistant API website](/images/technews/2pi.png)
+    ![Go to Google Assistant API website](/images/technews/pi1and2.jpg)
 
 3. Go to [Activity Control Panel](https://myaccount.google.com/activitycontrols?pli=1) and make sure the following activities are turned on.
     * Web and App Activity (including Chrome history checkbox)
