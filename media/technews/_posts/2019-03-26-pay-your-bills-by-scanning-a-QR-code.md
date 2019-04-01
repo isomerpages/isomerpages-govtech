@@ -57,13 +57,13 @@ Most smartphone cameras these days come with built-in auto-focus, but it helps t
 
 The squares at the top two and bottom-left corners of the QR code are there for a purpose—to help the scanner align the image such that it knows top from bottom, left from right, so make sure all three corners are in the frame while scanning.
 
-![Capture all three corners](/images/technews/pay-your-bills-by-QR-part3.png)
+![Capture all three corners](/images/technews/pay-your-bills-by-QR-part4.png)
 
 **4. Don’t crumple or deface the QR code**
 
 The pattern on the QR code is important, so crumpling or drawing on it can prevent the scanner from recognising it.
 
-![Do not crumpe or deface the QR code](/images/technews/pay-your-bills-by-QR-part4.png)
+![Do not crumple or deface the QR code](/images/technews/pay-your-bills-by-QR-part3.png)
 
 **5. Verify payment details**
 
