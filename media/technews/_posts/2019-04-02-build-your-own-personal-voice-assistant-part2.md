@@ -140,10 +140,7 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
 10. Log into your eWeLink account and allow Google access.
 
-    ![Log into your eWeLink account allow Google access](/images/technews/pi20.jpg)
-
-11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like)
-
+11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like).
 
 12. Now you can control the light through your Home app as well.
 
