@@ -100,8 +100,6 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
 		sudo apt-get install python
 
-    ![install python](/images/technews/personal-voice-assistant1.jpg)
-
 7. Recommended by Google: Make a Python virtual environment for Google Assistant by first installing virtual environment and virtual environment wrapper.
 
 		pip install virtualenv
