@@ -70,8 +70,7 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
     * Device Information
     * Voice and Audio Activity
 
-    ![Go to Activity Control Panel](/images/technews/3pi.png)
-    ![Go to Activity Control Panel 2](/images/technews/4pi.png)
+    ![Go to Activity Control Panel](/images/technews/pi34.jpg)
 
 4. Go back to Google [Action Console](https://console.actions.google.com) and find the Device Registration button.
 
@@ -79,9 +78,7 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
     Click on it and then click on Register Model. You can enter any name you like for your Pi and Manufacturer name* (the latter is not important but you still need to key in something), and set the Device type to Auto.
 
-    ![Go back to Google Action Console I](/images/technews/5pi.png)
-    ![Go back to Google Action Console II](/images/technews/6pi.png)
-    ![Go back to Google Action Console III](/images/technews/7pi.png)
+    ![Go back to Google Action Console I](/images/technews/pi567.jpg)
 
 5. Click on Register Model and download the OAuth2.0 Credentials. After the file has been downloaded, move it to the /home/pi directory
 
@@ -126,20 +123,16 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 2. Sign up for an eWeLink account.
 3. Turn on the WiFi plug and click on Add Device (plus sign) in the eWeLink app.
 
-4. Choose the first option (Quick Pairing Mode)
-
-    ![Choose quick pairing mode](/images/technews/15pi.jpg)
-
+4. Choose the first option (Quick Pairing Mode)<br>
 5. Next, choose a WiFi network (note the switch only supports 2.4GHz WiFi) and provide the credentials to the WiFi.
 6. The app will then attempt to pair the switch and on success it will ask you to name the device. You can name the device however you prefer.
 
-    ![pair the switch I](/images/technews/16pi.jpg)
-    ![pair the switch II](/images/technews/17pi.jpg)
-
+    ![pair the switch I](/images/technews/pi151617.jpg)
+    
 
 7. Once connected, you should be able to control the plug through the app. Try it out by plugging the light into the plug and switching the plug on and off through the app. 
 
-    ![Control the plug through the app](/images/technews/18pi.jpg)
+    ![Control the plug through the app](/images/technews/pi18.jpg)
 
 8. Download Google Home on your phone. Make sure it is logged into the same account you used for the Google Assistant setup.
 
@@ -147,15 +140,14 @@ In the previous post, we covered how to set up the Raspberry Pi and how to set u
 
 10. Log into your eWeLink account and allow Google access.
 
-    ![Log into your eWeLink account allow Google access](/images/technews/20pi.jpg)
+    ![Log into your eWeLink account allow Google access](/images/technews/pi20.jpg)
 
 11. Add the switch device which you have named in step 6. Assign it to a room (whichever room you like)
 
-    ![Add the switch devide which you named in step 6](/images/technews/21pi.jpg)
 
 12. Now you can control the light through your Home app as well.
 
-    ![Now you can control the light through your Home app](/images/technews/22pi.jpg)
+    ![Now you can control the light through your Home app](/images/technews/pi2122.jpg)
 
 13. Try controlling the light through Raspberry Pi Assistant by saying "Ok Google" or "Hey Google", following with "Turn on [your device name from step 6]" The light should turn on. 
 
