@@ -115,35 +115,42 @@ In the last few years, personal voice assistants like the Amazon Alexa and Googl
 
 1. Login with the following credentials
 
-    User: pi<br />Password: raspberry 
+    ```
+    User: pi
+    Password: raspberry 
+    ```
 
     (You can change the password by running Terminal and typing sudo raspi-config and selecting the Change Password option)
 
-> Testing the microphone and speaker
+    > Testing the microphone and speaker
 
 2. Plug in the microphone and speaker
 3. Open Terminal and run the following commands
 
-        arecord -l
-        aplay -l
+    ```
+    arecord -l
+    aplay -l
+    ```
 
-arecord -l displays the list of input hardware devices
+    `arecord -l` displays the list of input hardware devices
 
-aplay -l displays the list of output hardware devices
-
+    `aplay -l` displays the list of output hardware devices
 
 4. Note down the card and device number of the microphone and speaker 
 
-![a screenshot of a bus route](/images/technews/personal-voice-assistant2.jpg)
+    ![a screenshot of a bus route](/images/technews/personal-voice-assistant2.jpg)
 
-In the above screenshot, the recording device is USB PnP Sound Device and the playback is bcm2835 ALSA. So, the card no. and device no. for recording device is 1 and 0 respectively, and for playback it is 0 and 0.
+    In the above screenshot, the recording device is USB PnP Sound Device and the playback is bcm2835 ALSA. So, the card no. and device no. for recording device is 1 and 0 respectively, and for playback it is 0 and 0.
 
 5. Create a new file by typing the following command in Terminal
 
-        sudo nano .asoundrc
+    ```
+    sudo nano .asoundrc
+    ```
 
-6.   Copy the following code into the file, and adjust the card and device number according to what card and device numbers you have recorded down in step 3.
+6. Copy the following code into the file, and adjust the card and device number according to what card and device numbers you have recorded down in step 3.
 
+    ```
 	pcm.!default {
 	    type asym
 	    capture.pcm "mic"
@@ -160,24 +167,27 @@ In the above screenshot, the recording device is USB PnP Sound Device and the pl
 	    slave {
 		pcm "hw:0,0"	# "hw:card,device (for playback)"
 	    }
+    ```
 
+    ![a screenshot of a bus route](/images/technews/personal-voice-assistant3.jpg)
 
-![a screenshot of a bus route](/images/technews/personal-voice-assistant3.jpg)
+7. To test the audio setup, run the following code in Terminal
 
-7.   To test the audio setup, run the following code in Terminal
-
-	arecord --duration=5 test.wav
+    ```
+    arecord --duration=5 test.wav
+    ```
 	
-The raspberry pi will record audio through the microphone for 5 seconds.
-Then, run:
+    The raspberry pi will record audio through the microphone for 5 seconds.
+    Then, run:
 
+    ```
+    aplay test.wav
+    ```
 
-	aplay test.wav
+    to listen to the audio recorded.
 
-to listen to the audio recorded.
+    ![a screenshot of a bus route](/images/technews/personal-voice-assistant4.jpg)
 
-![a screenshot of a bus route](/images/technews/personal-voice-assistant4.jpg)
+    And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. 
 
-And there you have it, your microphone and speaker are working and all that’s left is to set up the Google Assistant and link up the WiFi plug and lightbulb. 
-
-Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
+    Be sure to look out for part 2 coming next week where you learn to light up your room with a simple voice command!
