@@ -36,15 +36,15 @@
   url: /careers/overview
   sub-links:
   - title: How We Hire
-    url: /careers/overview
-  - title: How We Hire
     url: /careers/how-we-hire/?utm_source=top_nav
   - title: How We Work
     url: /careers/how-we-work/?utm_source=top_nav
   - title: Students and Graduates
     url: /careers/students-and-graduates/?utm_source=top_nav
   - title: Smart Nation Fellowship Programme
-    url: /careers/smart-nation-fellowship-programme/?utm_source=top_nav 
+    url: /careers/smart-nation-fellowship-programme/?utm_source=top_nav
+  - title: The GovTech Network
+    url: /careers/the-govtech-network
   - title: Apply Now
     url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
     external: true
