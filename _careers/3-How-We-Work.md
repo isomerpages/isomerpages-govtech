@@ -7,7 +7,6 @@ collection_name: careers
 ---
 
 ### **How We Work**
-<br>
 
 **Agent of change**<br>
 We challenge ourselves to innovate and change things that are not meeting our goals. Speak up, not follow instructions. We seek to deconstruct problems on the fly and talk to users to solve problems. Help us get through tough spots so that we develop the best solutions that will impact our users.
