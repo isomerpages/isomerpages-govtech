@@ -9,7 +9,7 @@ image: "/images/technews/pay-your-bills-by-QR.jpg"
 ![Pay your bills by scanning a QR code](/images/technews/pay-your-bills-by-QR.jpg)
 *L to R: Rachel KM Lim, William Lee, Lua Hai Chen, Jennifer Lai and Kendrick Lee from the Government QR Payment team*
 
-QR codes are a straightforward method to make cashless payments. Citizens can now use the Government QR Payment system to transact with HDB, CPF, SLA and LTA.
+QR codes are a straightforward method to make digital payments. Citizens can now use the Government QR Payment system to transact with HDB, CPF, SLA and LTA.
 ---
 
 What’s worse than having to foot a bill? A cumbersome payment process requiring the payer to verify personal particulars, fill in bill reference numbers, key in the amount payable, or set up a GIRO account from which the payment can be deducted.

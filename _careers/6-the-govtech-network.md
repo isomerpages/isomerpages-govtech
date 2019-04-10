@@ -11,6 +11,6 @@ collection_name: careers
 Former GovTechies, we are growing our GovTech community. We want to actively support you as you move out of GovTech.
 Our community’s mission is to connect GovTech alumni and current GovTechies to advance our ambitions in the tech ecosystem.
 
-Join us today: www.go.gov.sg/govtechalumni
+Join us today: [www.go.gov.sg/govtechalumni](www.go.gov.sg/govtechalumni)
 
 ![The GovTech Network for Alumnis](/images/careers/GovTech_Alumni_Network.jpg)
