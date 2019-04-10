@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/xx.png"
 ---
 
-![Senior Delivery Manager of Government Digital Services shares about the Whole of Government Application Analytics](/images/technews/Whole-of-Government-Application-Analytics-Smart-Nation.jpg)
+![Sentiments from citizens are critical to gather insights in a Smart Nation](/images/technews/Whole-of-Government-Application-Analytics-Sentiments-Smart-Nation-2.jpg)
 
 User feedback is important when developing and deploying government digital services. GovTech has developed a tool as part of the Whole-of-Government-Application-Analytics - called Sentiments - to help agencies understand the experiences and emotions of users better.
 ---
@@ -17,7 +17,7 @@ Furthermore, when you're a government running more than 300 websites with an acc
 
 At the Public Sector Infocomm Seminar held at the NTUC Centre on 26 March 2019, Mr Lingesvaran Palanisamy from the Government Digital Services team at the Government Technology Agency of Singapore (GovTech) shared how a Whole-of-Government Application Analytics (WOGAA) application—named ‘Sentiments'—is helping to streamline the gathering of feedback from the ground.
 
-![The brain and the heart are an important mix to develop great user experience in a Smart Nation](/images/technews/Brain-Heart-Analytics-Smart-Nation.jpg)
+![Senior Delivery Manager of Government Digital Services shares about the Whole of Government Application Analytics](/images/technews/Whole-of-Government-Application-Analytics-Smart-Nation.jpg)
 
 ### **User experience: going beyond usability**
 
@@ -27,7 +27,7 @@ As he and his team were working on Sentiments, Mr. Palanisamy began to notice a 
 
 "Good usability is essential but not sufficient for securing good user sentiment," he said. A website could be functioning well during the testing phase, but when it is deployed and used by thousands of people, certain technical issues may surface that mar the user experience, contributing to negative user emotions such as confusion or frustration, he added. Being able to capture those reactions when they arise and pinpoint the reasons behind them is what Sentiments was built for. 
 
-![Sentiments from citizens are critical to gather insights in a Smart Nation](/images/technews/Whole-of-Government-Application-Analytics-Sentiments-Smart-Nation.jpg)
+![The brain and the heart are an important mix to develop great user experience in a Smart Nation](/images/technews/Brain-Heart-Analytics-Smart-Nation.jpg)
 
 ### **A listening tool based on data**
 
