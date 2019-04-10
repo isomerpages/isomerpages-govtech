@@ -7,6 +7,7 @@ collection_name: careers
 ---
 
 Singapore is embarking on a journey to build a Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience! Take three to six months to collaborate with us to co-create digital or engineering solutions that will make an impact on people’s lives.
+
 Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors & IoT.
 
 Part-time consultancy can be arranged if you are unable to commit to three to six months.
@@ -15,6 +16,8 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://g
 
 
 ## **Hear from our Fellows**
+
+![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
 
 ### **Paul Piong**
 Staff Firmware Engineer, Tesla
