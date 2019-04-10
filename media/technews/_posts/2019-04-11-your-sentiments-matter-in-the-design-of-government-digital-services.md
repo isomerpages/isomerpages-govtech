@@ -26,9 +26,7 @@ At the Public Sector Infocomm Seminar held at the NTUC Centre on 26 March 2019, 
 As he and his team were working on Sentiments, Mr. Palanisamy began to notice a potential disconnect between usability and user experience. Just because something can be used doesn't mean that someone will want to use it. 
 
 "Good usability is essential but not sufficient for securing good user sentiment," he said. A website could be functioning well during the testing phase, but when it is deployed and used by thousands of people, certain technical issues may surface that mar the user experience, contributing to negative user emotions such as confusion or frustration, he added. Being able to capture those reactions when they arise and pinpoint the reasons behind them is what Sentiments was built for. 
-
 ![The brain and the heart are an important mix to develop great user experience in a Smart Nation](/images/technews/Brain-Heart-Analytics-Smart-Nation.jpg)
-
 ### **A listening tool based on data**
 
 By crunching large datasets of interactions between citizens and a website, for example, Sentiments can provide public officers with insights into how a digital service is faring in the eyes of its users. It can even highlight specific parameters surrounding the use of a website that likely contributed to positive or negative emotions.
