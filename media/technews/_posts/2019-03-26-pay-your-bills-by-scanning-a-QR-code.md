@@ -30,7 +30,7 @@ However, instead of creating a separate mobile app for the Gov QR Payment, the t
 
 **A step in the right direction**
 
-Once the technical framework had been put in place, the Gov QR Payment team carried out a pilot test on the Housing Development Board (HDB) Resale and Sale Portal in August 2018.
+Once the technical framework had been put in place, the Gov QR Payment team carried out a pilot test on the Housing Development Board (HDB) Resale Portal and Sales e-Application in August 2018.
 
 Resale flat buyers and sellers could pay for resale application administrative fees, conveyance fees and title search fees using the Gov QR Payment system, thereby eliminating the need for buyers and sellers to make payment personally at HDB if they do not have a credit card. For those applying to buy apartments from HDB, the S$10 administrative fee can be paid via QR payment as well. To date, some 3,500 individuals have used the Gov QR Payment system to transact with HDB.
 
