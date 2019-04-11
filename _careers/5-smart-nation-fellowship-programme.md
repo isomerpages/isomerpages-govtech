@@ -18,7 +18,10 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://g
 ## **Hear from our Fellows**
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
-[Paul Piong](#paul-piong) [Hunter Nield](#hunter-nield)
+[Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
+[Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
+[Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong]<br>
+
 
 ### **Paul Piong**
 <a id="paul-piong"></a>
@@ -42,6 +45,7 @@ Key Contributions and Projects
 Hunter spent three months with our Application Infrastructure team. He worked on an Object Storage Service project where he designed and developed a Minimum Viable Product for enabling Internet objects to be made available to Intranet with access control. During his Fellowship stint, Hunter also conducted learning sessions for GovTech developers on topics such as DevOps, Kubernetes, and Blockchain.
 
 ### **Chang Sau Sheong**
+<a id="chang-sau-sheong"></a>
 Managing Director, Singapore Power
 
 Key Contributions and Projects
