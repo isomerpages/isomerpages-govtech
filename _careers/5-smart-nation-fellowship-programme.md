@@ -20,7 +20,10 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://g
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
 [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
 [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
-[Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong]<br>
+[Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong)<br>
+[Goh Siew Hong, Senior System Manager, GovTech](#goh-siew-hong)<br>
+[U-Zyn Chua, Principal Consultant, Zynesis](#uzyn-chua)<br>
+[Arun Kishore, Product Analyst, YouTube](#arun-kishore)<br>
 
 
 ### **Paul Piong**
@@ -54,6 +57,7 @@ Sau Sheong guided the Government Digital Services team working on the Whole-of-G
 (WOGGA) is an application that helps provide a common set of metrics and measurements to enable public sector agencies to monitor the performance of websites and digital services in real-time.  This will in turn help improve public service delivery, set more effective web and mobile strategies and provide insights for policy making.
 
 ### **Goh Siew Hong**
+<a id="goh-siew-hong"></a>
 Senior System Engineer, GovTech
 
 *“With this programme, there’s actually greater sense of satisfaction knowing that this research project has
@@ -64,6 +68,7 @@ Key Contributions and Projects
 Siew Hong spent six months with our Sensors and IoT team to develop a standard communication framework to allow integration with healthcare robots, a first of its kind to accelerate robotics development for healthcare sector.  This includes standardisation of robotics sensors and intelligent packages which encourages code reusability. The middleware will also standardise communication and integration between smart systems which translate to a standardised healthcare smart systems specification for all future systems acquisition.
 
 ### **U-Zyn Chua**
+<a id="uzyn-chua"></a>
 Principal Consultant, Zynesis
 
 *“It is visionary of Singapore to announce the Smart Nation initiative and be one of world leaders to drive technology innovations for public good. I knew I had to apply for the Smart Nation Fellowship as this is an opportunity for me to contribute to the Smart Nation initiative. I am honoured to be selected for the inaugural batch of Fellows, and hope to leverage on blockchain technology to work on projects for public good.”*
@@ -73,6 +78,7 @@ Key Contributions and Projects
 U-Zyn spent six months working with GovTech’s emerging tech team to create ‘Smart Node’, an open ecosystem of service procurements backed by blockchain for smart homes and offices. Through the shared wallet, smart appliances are able to procure services on-demand and automatically whenever supply runs low. During his stint, U-Zyn collaborated with online concierge and delivery service, Honestbee, on this experiment. As an open source software advocate, U-Zyn is delighted that GovTech is advocating the open source movement, which makes his work available to the wider tech community.
 
 ### **Arun Kishore**
+<a id="arun-kishore"></a>
 Product Analyst, YouTube
 
 *“Singapore is setting an example for the rest of the world with its Smart Nation initiative and bringing data- driven decision-making into government. As a member of the inaugural batch of Smart Nation Fellows, I am thrilled to be part of this vision. I see this as a unique opportunity to apply my data analysis skills towards helping the government make better decisions and solving problems that impact millions of Singaporeans.”*
