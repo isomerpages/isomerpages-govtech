@@ -18,12 +18,12 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://g
 ## **Hear from our Fellows**
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
-[Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
-[Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
-[Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong)<br>
-[Goh Siew Hong, Senior System Manager, GovTech](#goh-siew-hong)<br>
-[U-Zyn Chua, Principal Consultant, Zynesis](#uzyn-chua)<br>
-[Arun Kishore, Product Analyst, YouTube](#arun-kishore)<br>
+* [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
+* [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
+* [Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong)<br>
+* [Goh Siew Hong, Senior System Manager, GovTech](#goh-siew-hong)<br>
+* [U-Zyn Chua, Principal Consultant, Zynesis](#uzyn-chua)<br>
+* [Arun Kishore, Product Analyst, YouTube](#arun-kishore)<br>
 
 
 ### **Paul Piong**
