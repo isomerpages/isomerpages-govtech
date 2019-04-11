@@ -18,8 +18,10 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://g
 ## **Hear from our Fellows**
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
+[Paul Piong](#paul-piong) [Hunter Nield](#hunter-nield)
 
 ### **Paul Piong**
+<a id="paul-piong"></a>
 Staff Firmware Engineer, Tesla
 
 *“GovTech serves as the perfect platform for me to collaborate with like-minded individuals, and gives me the opportunity to directly impact Singapore’s drive to become a truly Smart Nation.”*
@@ -30,6 +32,7 @@ From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedic
 
 
 ### **Hunter Nield**
+<a id="hunter-nield"></a>
 Founder, Acaleph
 
 *“My primary motivation for applying for the Smart Nation Fellowship was to be able to positively impact people’s lives. Although I was born in Australia, Singapore has become my home, and I’ve a strong interest in seeing Singapore succeed and help provide the best environment for the nation’s growth into a Smart Nation.”*
