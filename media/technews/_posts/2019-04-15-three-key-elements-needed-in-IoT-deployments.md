@@ -3,10 +3,10 @@ layout: post
 title: "Three key elements needed in IoT deployments"
 permalink: "/media/technews/three-key-elements-needed-in-IoT-deployments"
 category: technews
-image: "/images/technews/three-key-elements-needed-in-IoT-deployments-part1-png"
+image: "/images/technews/three-key-elements-you-need-in-iot-deployments-part1.png"
 ---
 
-![Three key elements needed in IoT deployments](/images/technews/three-key-elements-needed-in-IoT-deployments-part1-png)
+![Three key elements needed in IoT deployments](/images/technews/three-key-elements-you-need-in-iot-deployments-part1.png)
 
 TL:DR: Sensors, connectivity and analytics are three key elements of IoT deployments. Mr Eric Yeo of SP Telecom shares how organisations can leverage shared connectivity infrastructure, security and edge computing to implement IoT solutions. 
 ---
@@ -16,6 +16,8 @@ Believe it or not, there are now more connected devices chatting on the internet
 Critical to the successful deployment of an IoT strategy are sensors, connectivity infrastructure and analytics, said Mr Eric Yeo, Assistant Director, Business Development at SP Telecom, at the IoT Asia Conference held from 27-28 March 2019. “The sensors dictate the quality of the analytics, but you also need connectivity infrastructure so that the data collected by the sensors can be easily transferred,” he added.
 
 Most organisations seeking to deploy an IoT solution tend to prefer to control the full works—they want to use their own sensors, build and maintain their own connectivity infrastructure and develop their own analytics workflows. In Mr Yeo’s opinion, this is not the most efficient way of going about IoT deployments. “We should be thinking about which aspects of the IoT pipeline can be shared,” he emphasised, alluding to a platform-as-a-service approach to IoT.
+
+![Three key elements needed in IoT deployments](/images/technews/three-key-elements-you-need-in-iot-deployments-part2.png)
 
 ### **When sharing makes practical sense**
 
