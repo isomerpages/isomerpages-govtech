@@ -155,9 +155,9 @@ organisational-structure:
       - name: Internal Audit
   - title: Corporate Services
     teams:
-      - name: Applied Innovation  and Partnership (AIP)
-        link:
       - name: Communications and Marketing Group (CMG)
+        link:
+      - name: Development & Organisation Transformation (DOT)
         link:
       - name: Finance, Investment and Procurement Group (FIPG)
         link:
@@ -167,15 +167,21 @@ organisational-structure:
         link:  
       - name: People and Organisation Group (POG)
         link:  
-      - name: Strategic Planning and International (SPI)
-        link:  
+      - name: Strategy and Plans Division (SPD)
+        link:
+      - name: Special Projects
+        link:
   - title: Cybersecurity Group
     teams:
-      - name: Cybersecurity Policies, Advisory and Technologies
+      - name: Advanced Cybersecurity Capabilities
         link:
-      - name: Government Cybersecurity Operations
+      - name: Government Cyber Defence
         link:
-      - name: Ministry CISOs
+      - name: Government Cybersecurity Consulting Services
+        link:
+      - name: Government Cybersecurity Policy & Planning
+        link:
+      - name: Ministry CISO
         link:
   - title: Governance Group
     teams:
@@ -199,7 +205,7 @@ organisational-structure:
         link:
   - title: Product Management
     teams:
-      - name: Government Business Management Division
+      - name: Business Management Division (BMD)
       - name: Moments of Life (MOL)
       - name: National Digital Identity (NDI)
       - name: Smart Nation Sensor Programme Office (SNSPO)
