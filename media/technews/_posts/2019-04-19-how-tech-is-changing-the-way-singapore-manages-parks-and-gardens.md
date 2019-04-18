@@ -19,6 +19,10 @@ The National Parks Board (NParks), a statutory board of the Government of Singap
 
 Technology is critical in NParks’ mission, and TechNews found out how digitalisation, data and even drones are helping to protect and promote nature in Singapore.
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kzFvp37s8Mg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ### **INSPECTION & MAINTENANCE**
 
 **Resistograph**
