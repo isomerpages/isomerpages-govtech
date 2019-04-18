@@ -1,3 +1,4 @@
+media/technews/_posts/2019-04-15-three-key-elements-needed-in-IoT-deployments.md
 ---
 layout: post
 title: "How tech is changing the way Singapore manages parks and gardens"
