@@ -15,7 +15,7 @@ With a global reputation for being a biophilic City in a Garden, Singapore goes 
 
 The National Parks Board (NParks), a statutory board of the Government of Singapore, is responsible for maintaining and growing these natural spaces over the years. Going beyond simply setting aside areas for the conservation of flora and fauna, NParks seeks to integrate greenery into urban landscapes, building on a vision to transform Singapore into a biophilic city.
 
-“Biophilic means that people and nature are always in close proximity. In the past, buildings were buildings, and parks were parks. That line is increasingly being blurred as we continue our efforts to green our city,” said Mr Shee Zhi Qiang, Director, Horticulture and Operations at the Singapore Botanic Gardens.
+“Biophilic means that people and nature are always in close proximity. In the past, buildings were buildings, and parks were parks. That line is increasingly being blurred as we continue our efforts to green our city,” said Mr Shee Zhi Qiang, director, horticulture and operations at the Singapore Botanic Gardens.
 
 Technology is critical in NParks’ mission, and TechNews found out how digitalisation, data and even drones are helping to protect and promote nature in Singapore.
 
