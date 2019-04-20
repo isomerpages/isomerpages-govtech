@@ -5,10 +5,10 @@ permalink: "/media/events/smart-nation-and-digital-government-industry-briefing-
 category: events
 ---
 
-### **Event:** Smart Nation & Digital Government Industry Briefing 2019<br>
-### **Date:** 28 May 2019 <br>
-### **Time:** 9:30am – 12:00pm *(Registration and refreshments start at 8:30am)* <br>
-### **Venue:** Suntec Singapore Convention & Exhibition Centre, Level 3, Summit 1 & 2 <br>
+#### **Event:** Smart Nation & Digital Government Industry Briefing 2019<br>
+#### **Date:** 28 May 2019<br>
+#### **Time:** 9:30am – 12:00pm *(Registration and refreshments start at 8:30am)*<br>
+#### **Venue:** Suntec Singapore Convention & Exhibition Centre, Level 3, Summit 1 & 2<br>
 
 
 Tickets: $88 (inclusive of GST)
