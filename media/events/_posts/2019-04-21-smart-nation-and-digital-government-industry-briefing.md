@@ -34,22 +34,23 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
   </tr>
   <tr>
     <td><span style="font-weight:bold">10:30am</span></td>
-    <td><span style="font-weight:bold">Building for Scale through Micro-services for a Better Citizen Experience</span><br>Eyung Lim, Director, Digital Design & Development, GovTech</td>
+    <td><span style="font-weight:bold">Building for Scale through Micro-services for a Better Citizen Experience</span> <br>Eyung Lim, Director, Digital Design & Development, GovTech</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">3:00pm</span></td>
-    <td>Networking Tea Break</td>
+    <td><span style="font-weight:bold">11:00am</span></td>
+    <td><span style="font-weight:bold">New Partnership Models, New Digitalisation Opportunities</span><br>Mah Yu Ling, Director, Procurement, GovTech</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">3:45pm</span></td>
-    <td><span style="font-weight:bold">Enabling Smart Nation through National Digital Identity</span><br>Kwok Quek Sin, Senior Director, National Digital Identity, GovTech<br><br><br><span style="font-weight:bold">Dialogue: Delivering User-Friendly Digital Services for Businesses &amp; Citizens</span><br>Tan Bee Teck, Chief Information Officer, Ministry of Education<br>Daniel Chan, Deputy Director, Product Management, GovTech<br>Moderator: P. Ramakrishna, CEO, CIO Academy Asia<br><br><br><span style="font-weight:bolder">Panel Discussion: Partnering  the Technology Community to Realise Smart Nation Vision</span><br>Tan Ying Kiat, Director, Science &amp; Engineering Research Council (SERC), A*STAR<br>Howie Lau, President, Singapore Computer Society<br>Lau Shih Hor, Chairman, Smart Nation Committee &amp; Councillor, SGTech<br>Moderator: Vivien Chow, Director, Applied Innovation and Partnership, GovTech<br></td>
+    <td><span style="font-weight:bold">11:30am</span></td>
+    <td><span style="font-weight:bold">Closing</span><br>Government on Commercial Cloud: Implications & Opportunities</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">5:25pm</span></td>
-    <td><span style="font-weight:bold">Closing</span><br>Kok Ping Soon, Chief Executive, GovTech</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">5:30pm</span></td>
+    <td><span style="font-weight:bold">12:00pm</span></td>
     <td>End of Event</td>
   </tr>
 </table>
+
+
+Tickets: $88 (inclusive of GST)
+ 
+Click [here](https://www.sndg-industrybriefing.sg) to register by 13 May 2019.
