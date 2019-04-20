@@ -31,7 +31,7 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
   </tr>
   <tr>
     <td><span style="font-weight:bold">9:30am</span></td>
-    <td><span style="font-weight:bold">Digital Government Blueprint: A Year Later</span><br>Kok Ping Soon, Chief Executive, GovTech</td>
+    <td><span style="font-weight:bold">Digital Government Blueprint: A Year Later</span><br>*Kok Ping Soon, Chief Executive, GovTech* </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold">10:00am</span></td>
@@ -47,7 +47,7 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
   </tr>
   <tr>
     <td><span style="font-weight:bold">11:30am</span></td>
-    <td><span style="font-weight:bold">Closing</span><br>Government on Commercial Cloud: Implications & Opportunities</td>
+    <td><span style="font-weight:bold">Government on Commercial Cloud: Implications & Opportunities</span></td>
   </tr>
   <tr>
     <td><span style="font-weight:bold">12:00pm</span></td>
