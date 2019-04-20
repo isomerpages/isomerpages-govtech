@@ -5,19 +5,16 @@ permalink: "/media/events/smart-nation-and-digital-government-industry-briefing-
 category: events
 ---
 
-#### **Event:** Smart Nation & Digital Government Industry Briefing 2019<br>
-#### **Date:** 28 May 2019<br>
-#### **Time:** 9:30am – 12:00pm *(Registration and refreshments start at 8:30am)*<br>
-#### **Venue:** Suntec Singapore Convention & Exhibition Centre, Level 3, Summit 1 & 2<br>
+### **Event:** Smart Nation & Digital Government Industry Briefing 2019<br>
+### **Date:** 28 May 2019<br>
+### **Time:** 9:30am – 12:00pm *(Registration and refreshments start at 8:30am)*<br>
+### **Venue:** Suntec Singapore Convention & Exhibition Centre, Level 3, Summit 1 & 2<br>
+ 
+### Click [here](https://www.sndg-industrybriefing.sg) to register by 13 May 2019. ### Tickets: $88 (inclusive of GST)
 
-
-Tickets: $88 (inclusive of GST)
+#### The annual Smart Nation & Digital Government Industry Briefing organised by GovTech provides information on the business and partnership opportunities with the Singapore Government.
  
-Click [here](https://www.sndg-industrybriefing.sg) to register by 13 May 2019.
- 
-The annual Smart Nation & Digital Government Industry Briefing organised by GovTech provides information on the business and partnership opportunities with the Singapore Government.
- 
-Don’t miss out this opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies and get the latest updates on the implementation of the Digital Government Blueprint to improve the lives of citizens and businesses.
+#### Don’t miss out this opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies and get the latest updates on the implementation of the Digital Government Blueprint to improve the lives of citizens and businesses.
 
 
 <table>
@@ -56,5 +53,5 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
 </table>
 
 
-For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg>
+#### For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg>
 
