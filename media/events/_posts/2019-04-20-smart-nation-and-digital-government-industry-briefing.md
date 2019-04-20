@@ -53,4 +53,4 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
 </table>
 
 
-#### For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg>
+For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg>
