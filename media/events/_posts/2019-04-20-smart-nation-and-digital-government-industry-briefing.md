@@ -5,6 +5,8 @@ permalink: "/media/events/smart-nation-and-digital-government-industry-briefing-
 category: events
 ---
 
+![Smart Nation and Digital Government Industry Briefing 2019](/images/media/events/Smart-Nation-Digital-Government-Industry-Briefing-GovTech.jpg)
+
 **Event:** Smart Nation & Digital Government Industry Briefing 2019<br>
 **Date:** 28 May 2019<br>
 **Time:** 9:30am – 12:00pm *(Registration and refreshments start at 8:30am)*<br>
