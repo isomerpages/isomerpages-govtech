@@ -63,6 +63,8 @@ For example, if an organisation server is using Drupal 8.6.10 (a Content Managem
 
 ### HaveIBeenPwned
 
+![Are you leaking information on the web? Use these tools to find out](/images/technews/are-you-leading-information-on-the-web-part2.png)
+
 [HaveIBeenPwned](https://haveibeenpwned.com/) is a search engine for compromised email addresses. Anyone can use it to check if their email addresses have been hijacked for malicious purposes and identify which breaches the email addresses were involved in. If an employee learns that his or her email address has been compromised, they can be advised to change their passwords or to enable 2-factor authentication.
 
 Hopefully, with the sharing of some of these basic OSINT tools, you can now leverage this knowledge to discover unexpected information you or your organisation might have leaked on the internet. Take action now to prevent vulnerabilities from being exploited.
