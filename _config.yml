@@ -118,4 +118,4 @@ custom_print_css_path: "/assets/css/print.css"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules]
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
