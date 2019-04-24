@@ -81,7 +81,7 @@ The sea surrounding Singapore is rich in biodiversity, and NParks plays an impor
 
 ### **SGBioAtlas**
 
-Caring for nature cannot be left to the authorities alone. Hence, NParks is using mobile apps to educate citizens about nature and get them involved in conservation efforts. The SGBioAtlas app, free to download from the [App Store(https://itunes.apple.com/sg/app/sgbioatlas/id975080923?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp&hl=en_SG) Store, allows citizens to take photos of flora and fauna around Singapore and submit those images to NParks for identification.
+Caring for nature cannot be left to the authorities alone. Hence, NParks is using mobile apps to educate citizens about nature and get them involved in conservation efforts. The SGBioAtlas app, free to download from the [App Store] (https://itunes.apple.com/sg/app/sgbioatlas/id975080923?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp&hl=en_SG) Store, allows citizens to take photos of flora and fauna around Singapore and submit those images to NParks for identification.
 
 “This is a win-win situation because not only do citizens learn about the organisms sharing their environment, but at the same time, NParks gathers data about the location and frequency of interesting sightings,” Mr Shee explained.
 
