@@ -87,4 +87,4 @@ Caring for nature cannot be left to the authorities alone. Hence, NParks is usin
 
 **trees.sg** 
 
-Finally, nature lovers can also visit (trees.sg)[https://www.nparks.gov.sg/trees] to find out the scientific and common names of trees planted in their neighbourhoods, as well as details about the dimensions, carbon content, pruning schedules of each tree. Developed together with GovTech, the trees.sg database contains data on more than 500,000 urban trees and is synchronised with MAVEN, making it easy for both the public and NParks officers to access up-to-date information. 
+Finally, nature lovers can also visit [trees.sg](https://www.nparks.gov.sg/trees) to find out the scientific and common names of trees planted in their neighbourhoods, as well as details about the dimensions, carbon content, pruning schedules of each tree. Developed together with GovTech, the trees.sg database contains data on more than 500,000 urban trees and is synchronised with MAVEN, making it easy for both the public and NParks officers to access up-to-date information. 
