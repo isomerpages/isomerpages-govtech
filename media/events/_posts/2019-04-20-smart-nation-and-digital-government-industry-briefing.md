@@ -55,4 +55,4 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
 </table>
 
 
-Register [here](https://www.sndg-industrybriefing.sg) today. For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg> .
+Register [here](https://www.sndg-industrybriefing.sg) today. For enquiries, please call 6996 6710 or email <info@sndg-industrybriefing.sg>.

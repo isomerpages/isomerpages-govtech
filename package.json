@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/isomerpages/isomerpages-govtech#readme",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.2.5"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.8"
   }
 }
