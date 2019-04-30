@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: The GovTech Network
+title: The GovTech Alumni Network
 permalink: /careers/the-govtech-network/
-breadcrumb: The GovTech Network
+breadcrumb: The GovTech Alumni Network
 collection_name: careers
 ---
 
-### **The GovTech Network**
+### **The GovTech Alumni Network**
 
 Former GovTechies, we are growing our GovTech community. We want to actively support you as you move out of GovTech.
 Our community’s mission is to connect GovTech alumni and current GovTechies to advance our ambitions in the tech ecosystem.
