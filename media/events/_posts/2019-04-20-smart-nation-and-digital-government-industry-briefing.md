@@ -46,7 +46,7 @@ Don’t miss out this opportunity to network with industry leaders, Chief Inform
   </tr>
   <tr>
     <td><span style="font-weight:bold">11:30am</span></td>
-    <td><span style="font-weight:bold">Government on Commercial Cloud: Implications & Opportunities</span></td>
+    <td><span style="font-weight:bold">Panel Discussion<br>Government on Commercial Cloud: Implications & Opportunities</span><br>Moderator: Howie Lau, Chief Industry Development Officer, IMDA</td>
   </tr>
   <tr>
     <td><span style="font-weight:bold">12:00pm</span></td>
