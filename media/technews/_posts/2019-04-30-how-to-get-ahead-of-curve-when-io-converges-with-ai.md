@@ -10,7 +10,7 @@ image: "/images/technews/three-key-elements-you-need-in-iot-deployments-part1.pn
 
 IoT devices collect vast amounts of data, making AI essential for sifting through the noise to produce actionable insights. Here are four points you should think about when developing or deploying an AI-IoT solution.
 ---
- 
+
 Like unrefined gold ore, the raw data accumulated by millions of Internet of Things (IoT) devices means nothing without some form of analysis—also known as ‘data mining’. Rather than perform data mining manually, many organisations are marrying IoT with artificial intelligence (AI), essentially automating the process of distilling insights from what would otherwise just be noisy information. 
 
 During a discussion titled ‘Where AI Meets Industrial IoT—Key Considerations for Instrumenting & Integrating Intelligence for Business’ at the IoT Asia 2019 conference, a group of experts shared ideas on how to effectively leverage AI and IoT to create value. We bring you four key takeaways from the session.
@@ -34,11 +34,3 @@ This is where 5G wireless network infrastructure comes in to play. Promising hig
 Given the buzz around AI and IoT, one of the myths that have surfaced is that such cutting-edge solutions are expensive. However, Mr Kopp noted that fit-for-purpose systems could be developed at low cost and also made available to small businesses—even to humble mom-and-pop shops. 
 
 For example, in the retail sector, one could obtain valuable data insights with a system built for just US$120, Mr Kopp claimed. Such a system would consist of a US$40 video camera to capture the movement of people (or product sales) and the video data can then be analysed at the edge with publicly-available software run on a Raspberry Pi mini-computer that only costs US$80. Therefore, by defining a specific use case, organisations may be able to benefit from AI and IoT without breaking the bank.
-
-### **Keeping the user in mind**
-
-At the end of the day, the convergence of AI and IoT should result in an outcome that is easy to understand by a decisionmaker, who most likely would be a human. Hence, developers of AI-enabled IoT systems ought to keep user interfaces in mind when creating their products. 
-
-Mr Kopp cited the example of dashboards with multiple data visualisation panels—these are a common feature of many AI-enabled analytics software nowadays. “[But] the reality is this: people understand and read bullet points better than they read a graph… and plain English works a lot better than fancy visualisation,” he said.
-
-Hence, a chatbot-like user interface could be a more user-friendly alternative, simply telling human analysts “you may want to look into this” and providing a link to the supporting graphs. Even then, chatbots may not be a one-size-fits-all solution, cautioned Mr Kopp. People have different preferences depending on their background, interests and personality. Thus, interfaces will still have to be tailored based on the specific end-users to enable them to extract even greater value from data.
