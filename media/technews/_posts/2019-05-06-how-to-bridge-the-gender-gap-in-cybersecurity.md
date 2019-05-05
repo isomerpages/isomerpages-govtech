@@ -17,6 +17,8 @@ The cybersecurity industry is actively seeking to reverse this trend, and a pane
 
 The panel consisted of Ms Gillian Low, manager (talent acquisition), Government Technology Agency of Singapore (GovTech); Mr Tan Boon Kiat, human resource business partner and talent acquisition, Booz Allen Hamilton; Ms Serene Yeo, vice president (human resource), Ensign InfoSecurity; and Ms Neelima, regional talent acquisition specialist, Trend Micro. Ms Sherin Lee, head of marketing, brand and communications at Ensign InfoSecurity, moderated the session. 
 
+![cybersec gender gap](/images/technews/bridging-the-gender-gap-in-cybersecurity-part2.png)
+
 ### **Be confident and play to your strengths**
 
 Like mathematics and physics, “cybersecurity is very technical in nature,” said Mr Tan, observing that some men may doubt the technical capabilities of female cybersecurity consultants.
