@@ -10,4 +10,4 @@ Wireless connectivity has changed the way we work, communicate and consume produ
 
 5G technology will provide an incredible amount of bandwidth to strengthen our connectivity. Our Smart Nation ambition will benefit significantly from this emerging technology.
 
-![Fast track to 5G in SG](/images/technews/Fast-Track-to-5G-in-Singapore-GovTech-Smart-Nation.png)
+![Fast track to 5G in SG](/images/technews/Fast-Track-to-5G-in-Singapore-GovTech-Smart-Nation-infographic2.png)
