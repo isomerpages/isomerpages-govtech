@@ -44,23 +44,25 @@ Furthermore, although text may be a convenient medium of interaction with a chat
 For readers who want to hold an efficient yet meaningful conversation with Ask Jamie, here are some best practices to keep in mind:
 
 
-1. Read the list of ‘most popular’ questions first
+**1. Read the list of ‘most popular’ questions first**
 
 Each government agency has compiled a list of frequently asked questions it receives from citizens. When you click on the Ask Jamie tab, these questions are surfaced immediately, with links to the relevant answers.
 
-2. Pay attention to the ‘Are you looking for’ options 
+**2. Pay attention to the ‘Are you looking for’ options** 
 
 As you type in your question, Ask Jamie will try to predict what you are searching for and provide suggestions, much like the autofill function in the Google search bar. 
 
-3. Ask one question per sentence
+**3. Ask one question per sentence**
 
 For example, instead of asking ‘How can I appeal a traffic fine and what are the grounds for appeal?’, consider splitting your question into two separate sentences, i.e., ‘How can I appeal a traffic offence?’ followed by ‘What are the grounds for appealing a traffic offence?’.
 
-4. Be concise
+**4. Be concise**
 
 Keep your questions short and sweet. Remember, the chatbot is looking out for keywords in your question, so don’t confuse it with an essay of background information describing the circumstances leading up to your query.
 
-5. Speak slowly when using Ask Jamie Voice
+**5. Speak slowly when using Ask Jamie Voice**
 
 To help Ask Jamie accurately understand what you are saying, avoid areas with loud background noises and speak at a slow and measured pace.
 
+
+*If you want to read about another local famous chatbot, then check out our [story](https://www.tech.gov.sg/media/technews/bus-uncle-talks-data-lah) on Bus Uncle here.*
