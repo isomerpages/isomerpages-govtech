@@ -17,7 +17,7 @@ You feel your patience wearing thin as the interactive voice response system goe
 
 Thankfully, with the advent of chatbots, a more direct route to information is now available. These virtual assistants, relying on a machine learning technique known as natural language processing, are clever enough to hold a conversation and provide answers to specific questions. Today, if you visit the website of a Singapore government agency, you’ll notice on the right side of your internet browser a tab called ‘Ask Jamie’. This is the whole-of-government virtual assistant, a pleasant-looking chatbot ever ready to assist citizens. 
 
-##Ask and it shall be answered
+### **Ask and it shall be answered**
 
 The idea of creating an intelligent chatbot for government agencies was seeded in 2014, after a survey revealed that approximately half of the queries by visitors to government agencies were general enquiries. For example, people may want to know their eligibility for the Baby Bonus scheme, or what MediShield Life is about.
 
@@ -26,7 +26,7 @@ The idea of creating an intelligent chatbot for government agencies was seeded i
 Trained on a vast repository of Q&As between citizens and staffers at government agencies, Ask Jamie has gotten proficient at identifying keywords in questions and giving accurate replies. Should a question prove more complex than it can handle, Ask Jamie knows how to escalate it to the relevant party, either via a form or via a live chat. Importantly, any officer that subsequently responds to an ‘escalated’ query will have received the conversation history between Ask Jamie and the enquirer, which helps set the context for follow-up correspondence, Ms Ong explained.
 
 
-From conversations to transactions
+### **From conversations to transactions**
 
 Now almost five years old, Ask Jamie is picking up some new tricks to make interactions between citizens and the government more seamless. Going beyond answering questions, Ask Jamie can now mitigate some transactions as well. 
 
@@ -39,7 +39,7 @@ Furthermore, although text may be a convenient medium of interaction with a chat
 “As technology continues to improve, we want Ask Jamie to evolve to become more functional and helpful,” Mr Zhuo noted.
 
 
-Tips for interacting with Ask Jamie
+### **Tips for interacting with Ask Jamie**
 
 For readers who want to hold an efficient yet meaningful conversation with Ask Jamie, here are some best practices to keep in mind:
 
