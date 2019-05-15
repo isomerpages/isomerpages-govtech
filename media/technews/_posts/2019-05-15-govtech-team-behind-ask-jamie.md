@@ -8,7 +8,7 @@ image: "/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-c
 
 ![GovTech team behind Ask Jamie the government chatbot](/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-chatbot.JPG)
 
-Chatbots are becoming increasingly popular as a means for customer engagement. The Singapore government now has its own chatbot—Ask Jamie—that can field questions from citizens and provide them with the relevant answers.
+Chatbots are becoming increasingly popular as a means for customer engagement. The Singapore government now has its own chatbot —Ask Jamie— that can field questions from citizens and provide them with the relevant answers.
 ---
 
 Here’s a scenario most of us would be familiar with: you call up an organisation’s 24-hour helpline to make an enquiry, only to listen to a robotic voice read you options like, “Press ‘1’ if you would like to find out more about service A. Press ‘2’ if you would like to find out more about service B”.
