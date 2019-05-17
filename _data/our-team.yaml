@@ -87,6 +87,10 @@ senior-leadership:
     title: Assistant Chief Executive
     organisation: Services
     image-url: /images/our-team/tan-eng-pheng.jpg
+  - name: Ms ANG Mui Kim
+    title: Senior Director
+    organisation: Manpower Cluster and SVC Workforce Transformation
+    image-url: /images/our-team/Ang-Mui-Kim-GovTech-Smart-Nation-Senior-Leader.jpg 
   - name: Mr CHAI Chin Loon
     title: Senior Director
     organisation: Cyber Security Group
@@ -103,6 +107,10 @@ senior-leadership:
     title: Senior Director
     organisation: Government Infrastructure Group
     image-url: /images/our-team/jacqueline-lim.png
+  - name: Mr TAN Bee Teck
+    title: Senior Director
+    organisation: Education Cluster and Application Portfolio Remake
+    image-url: /images/our-team/Bee-Teck-GovTech-Smart-Nation-Senior-Leader.jpg    
   - name: Mr Dominic CHAN
     title: Director
     organisation: Moments of Life
@@ -217,7 +225,7 @@ organisational-structure:
         link: 
       - name: Culture, Community and Youth Cluster
         link: 
-      - name: Education Cluster
+      - name: Education Cluster and Application Portfolio Remake
         link: 
       - name: Environment and Water Resources Cluster
         link: 
@@ -229,7 +237,7 @@ organisational-structure:
         link:    
       - name: Justice, Law and Foreign Affairs Cluster
         link: 
-      - name: Manpower Cluster
+      - name: Manpower Cluster and SVC Workforce Transformation
         link: 
       - name: Ministry of Communication and Information Cluster
         link: 
