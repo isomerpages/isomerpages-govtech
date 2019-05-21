@@ -41,8 +41,8 @@ Even as SingPass Mobile becomes increasingly multifunctional, ease of use remain
 When you tap on the SingPass Mobile app, you will be shown icons of some frequently used digital services such as those offered by CPF, HDB and NS Portal. Tap on the service you are interested, verify yourself using biometrics or passcode and you will be immediately directed to the relevant services without having to search for them. More shortcuts will be added progressively to make your experience even better.
 
 So what are you waiting for? Download or update your SingPass Mobile app now!<br>
-Find out more at [www.singpassmobile.sg](https://singpassmobile.sgutm_source=GovTech&utm_medium=TechNews&utm_campaign=SPMFeaturesMay2019)
-,<
+Find out more at [www.singpassmobile.sg](https://singpassmobile.sgutm_source=GovTech&utm_medium=TechNews&utm_campaign=SPMFeaturesMay2019)<br>
+
 Apple App Store: [Download here](https://itunes.apple.com/us/app/singpass-mobile/id1340660807)<br>
 Google Play Store: [Download here](https://play.google.com/store/apps/details?id=sg.ndi.sp&hl=en-GB)
 
