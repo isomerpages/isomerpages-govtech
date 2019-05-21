@@ -42,8 +42,8 @@ When you tap on the SingPass Mobile app, you will be shown icons of some frequen
 
 So what are you waiting for? Download or update your SingPass Mobile app now!<br>
 Find out more at [www.singpassmobile.sg](https://singpassmobile.sgutm_source=GovTech&utm_medium=TechNews&utm_campaign=SPMFeaturesMay2019)
-
-Apple App Store: [Download here](https://itunes.apple.com/us/app/singpass-mobile/id1340660807)
+,<
+Apple App Store: [Download here](https://itunes.apple.com/us/app/singpass-mobile/id1340660807)<br>
 Google Play Store: [Download here](https://play.google.com/store/apps/details?id=sg.ndi.sp&hl=en-GB)
 
 *Having security concerns? Not to worry, SingPass Mobile has stringent security measures in place to detect and prevent unauthorised access of your personal data. For example, when the app identifies a potential security breach or the presence of malicious software on a mobile device, it will prompt the user to exit the app.*
