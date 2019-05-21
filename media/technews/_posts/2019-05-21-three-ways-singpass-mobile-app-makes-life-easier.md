@@ -8,7 +8,7 @@ image: "/images/technews/SingPass-Mobile-app-GovTech-Smart-Nation.png"
 
 ![SingPass Mobile App built by GovTech for a Smart Nation](/images/technews/SingPass-Mobile-app-GovTech-Smart-Nation.png)
 
-SingPass Mobile is part of the Singapore Government’s National Digital Identity initiative, which aims to provide more convenience and security for citizens when transacting online. With this app, you no longer need to enter long passwords and carry your token around, What’s more, the app just launched two new features. You now get faster access to your important information and favourite digital services!
+With the new SingPass Mobile app, you no longer need to enter long passwords and carry your token around, What’s more, the app just launched two new features. You now get faster access to your important information and favourite digital services!
 ---
 ### **Forget about long passwords and having “where’s that token?!” moments.**
 
@@ -20,7 +20,7 @@ Biometric authentication options are now also available, whereby you simply have
 ### **View your information at a glance**
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/G9pPW7CvZ1w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dVdRW_DOpag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 With the MyInfo Profile feature, you can now view your passport expiry date, CPF contribution history, HDB property details and more, all in one place. 
@@ -33,7 +33,7 @@ When you select ‘View MyInfo Profile’ in the SingPass Mobile app, you will b
 ### **Access digital services with a tap**
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xykucFp8dto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dxEbVxIYsKQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Even as SingPass Mobile becomes increasingly multifunctional, ease of use remains a top priority. Hence, the SingPass Mobile team has implemented an intuitive navigation system for users in the form of Login Shortcuts.
@@ -47,3 +47,5 @@ Apple App Store: [Download here](https://itunes.apple.com/us/app/singpass-mobile
 Google Play Store: [Download here](https://play.google.com/store/apps/details?id=sg.ndi.sp&hl=en-GB)
 
 *Having security concerns? Not to worry, SingPass Mobile has stringent security measures in place to detect and prevent unauthorised access of your personal data. For example, when the app identifies a potential security breach or the presence of malicious software on a mobile device, it will prompt the user to exit the app.*
+
+*SingPass Mobile is part of the Singapore Government’s National Digital Identity initiative, which aims to provide more convenience and security for citizens when transacting online.*
