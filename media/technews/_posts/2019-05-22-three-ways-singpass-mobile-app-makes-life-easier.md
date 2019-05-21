@@ -3,10 +3,10 @@ layout: post
 title: "Three ways SingPass Mobile app makes your life easier"
 permalink: "/media/technews/three-ways-singpass-mobile-app-makes-your-life-easier"
 category: technews
-image: "/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-chatbot.JPG"
+image: "/images/technews/SingPass-Mobile-app-GovTech-Smart-Nation.png"
 ---
 
-![GovTech team behind Ask Jamie the government chatbot](/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-chatbot.JPG)
+![SingPass Mobile App built by GovTech for a Smart Nation](/images/technews/SingPass-Mobile-app-GovTech-Smart-Nation.png)
 
 SingPass Mobile is part of the Singapore Government’s National Digital Identity initiative, which aims to provide more convenience and security for citizens when transacting online. With this app, you no longer need to enter long passwords and carry your token around, What’s more, the app just launched two new features. You now get faster access to your important information and favourite digital services!
 ---
