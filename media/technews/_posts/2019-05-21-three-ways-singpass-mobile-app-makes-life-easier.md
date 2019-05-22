@@ -38,7 +38,7 @@ When you select ‘View MyInfo Profile’ in the SingPass Mobile app, you will b
 
 Even as SingPass Mobile becomes increasingly multifunctional, ease of use remains a top priority. Hence, the SingPass Mobile team has implemented an intuitive navigation system for users in the form of Login Shortcuts.
 
-When you tap on the SingPass Mobile app, you will be shown icons of some frequently used digital services such as those offered by CPF, HDB and NS Portal. Tap on the service you are interested, verify yourself using biometrics or passcode and you will be immediately directed to the relevant services without having to search for them. More shortcuts will be added progressively to make your experience even better.
+When you tap on the SingPass Mobile app, you will be shown icons of some frequently used digital services such as those offered by CPF, HDB and NS Portal. Tap on the service you are interested in, verify yourself using biometrics or passcode and you will be immediately directed to the relevant services without having to search for them. More shortcuts will be added progressively to make your experience even better.
 
 So what are you waiting for? Download or update your SingPass Mobile app now!<br>
 Find out more about SingPass Mobile [here](https://go.gov.sg/spm-technews-may2019).<br>
