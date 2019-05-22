@@ -13,7 +13,7 @@ Cybersecurity is still a male-dominated profession, but women are starting to ge
 
 Though no less capable than their male counterparts, women are still underrepresented in science, technology, engineering and mathematics (STEM) roles, and the field of cybersecurity is no exception. For example, in 2013, only [11 percent of cybersecurity professionals were women](https://iamcybersafe.org/women_in_cybersecurity/).
 
-The cybersecurity industry is actively seeking to reverse this trend, and a panel of speakers at the ‘Ladies in Cyber Career’ talk, organised by the Association of Information Security, provided their insights on how women participation can be bolstered in a male-dominated cybersecurity landscape.
+The cybersecurity industry is actively seeking to reverse this trend, and a panel of speakers at the ‘Ladies in Cyber Career’ talk, organised by the Association of Security Professionals, provided their insights on how women participation can be bolstered in a male-dominated cybersecurity landscape.
 
 The panel consisted of Ms Gillian Low, manager (talent acquisition), Government Technology Agency of Singapore (GovTech); Mr Tan Boon Kiat, human resource business partner and talent acquisition, Booz Allen Hamilton; Ms Serene Yeo, vice president (human resource), Ensign InfoSecurity; and Ms Neelima, regional talent acquisition specialist, Trend Micro. Ms Sherin Lee, head of marketing, brand and communications at Ensign InfoSecurity, moderated the session. 
 
