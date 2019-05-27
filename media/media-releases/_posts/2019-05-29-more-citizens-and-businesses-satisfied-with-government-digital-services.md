@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "More Citizens and Businesses Satisfied with Government Digital Services"
-permalink: /media/media-releases/eighteen-government-services-score-e-government-excellence-awards
-date: 2013-04-30
+permalink: /media/media-releases/more-citizens-and-businesses-satisfied-with-government-digital-services
+date: 2019-05-29
 ---
 One year into the implementation of the Digital Government Blueprint (DGB) – first launched in June 2018 – citizens and businesses have expressed greater satisfaction with government digital services .  G2C (Government to Citizens) satisfaction survey score had increased from 73 to 78 per cent year-on-year in 2018, and G2B (Government to Businesses) score had risen from 64 to 69 per cent year-on-year. 
 
