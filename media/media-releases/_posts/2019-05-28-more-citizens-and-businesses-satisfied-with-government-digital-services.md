@@ -74,7 +74,6 @@ Singapore’s Smart Nation initiative is about harnessing the full power of digi
 
 
 ### **For media enquiries, please contact:**
-<br>
 <br>TAN Boon Leng (Mr)
 <br>Communications & Marketing Group
 <br>Government Technology Agency
