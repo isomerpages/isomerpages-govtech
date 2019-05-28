@@ -78,7 +78,7 @@ Singapore’s Smart Nation initiative is about harnessing the full power of digi
 <br>Communications & Marketing Group
 <br>Government Technology Agency
 <br>Tel: +65 6211 0375
-<br>Email: tan_boon_lengn@tech.gov.sg
+<br>Email: tan_boon_leng@tech.gov.sg
 <br>
 <br>
 <br>Elizabeth LEE (Ms)
