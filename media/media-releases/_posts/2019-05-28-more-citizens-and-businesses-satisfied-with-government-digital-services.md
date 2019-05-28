@@ -46,10 +46,8 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Citizens and businesses are
 The Government’s progress in implementing DGB and the focus for FY2019 were announced by GovTech at the annual Smart Nation and Digital Government Industry Briefing themed “Engineering Digital Government; Making Lives Better” this morning.  
 
 ---
-
 **ISSUED BY COMMUNICATIONS AND MARKETING GROUP**<br>
 **GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
 ---
 
 ### **Related Resources**
@@ -66,11 +64,11 @@ The Government Technology Agency (GovTech) is the lead agency driving Singapore�
 
 GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
 
-For more information, please visit www.tech.gov.sg. Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
+For more information, please visit [www.tech.gov.sg](www.tech.gov.sg). Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
 
 
 ### **About Smart Nation**
-Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit www.smartnation.sg.
+Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit [www.smartnation.sg](www.smartnation.sg).
 
 
 ### **For media enquiries, please contact:**
