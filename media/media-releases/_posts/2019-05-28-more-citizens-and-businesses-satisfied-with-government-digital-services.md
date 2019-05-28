@@ -5,7 +5,7 @@ permalink: /media/media-releases/more-citizens-and-businesses-satisfied-with-gov
 date: 2019-05-28
 ---
 
-**More Citizens and Businesses Satisfied with Government Digital Services**
+**More Citizens and Businesses Satisfied with Government Digital Services**<br>
 *Over 80 per cent of contracts in FY2019 available for SMEs to partner Government in building a Smart Nation*
 
 One year into the implementation of the Digital Government Blueprint (DGB) – first launched in June 2018 – citizens and businesses have expressed greater satisfaction with government digital services .  G2C (Government to Citizens) satisfaction survey score had increased from 73 to 78 per cent, and G2B (Government to Businesses) score had risen from 64 to 69 per cent, in 2018. 
