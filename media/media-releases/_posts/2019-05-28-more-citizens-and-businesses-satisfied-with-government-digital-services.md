@@ -64,11 +64,11 @@ The Government Technology Agency (GovTech) is the lead agency driving Singapore�
 
 GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
 
-For more information, please visit [www.tech.gov.sg](www.tech.gov.sg). Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
+For more information, please visit <https://www.tech.gov.sg>. Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
 
 
 ### **About Smart Nation**
-Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit [www.smartnation.sg](www.smartnation.sg).
+Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit <https://www.smartnation.sg>.
 
 
 ### **For media enquiries, please contact:**
@@ -76,11 +76,11 @@ Singapore’s Smart Nation initiative is about harnessing the full power of digi
 <br>Communications & Marketing Group
 <br>Government Technology Agency
 <br>Tel: +65 6211 0375
-<br>Email: [tan_boon_leng@tech.gov.sg](tan_boon_leng@tech.gov.sg)
+<br>Email: <tan_boon_leng@tech.gov.sg>
 <br>
 <br>
 <br>Elizabeth LEE (Ms)
 <br>Communications & Marketing Group 
 <br>Government Technology Agency
 <br>Tel: +65 6211 1267
-<br>Email: [elizabeth_lee@tech.gov.sg](elizabeth_lee@tech.gov.sg)
+<br>Email: <elizabeth_lee@tech.gov.sg>
