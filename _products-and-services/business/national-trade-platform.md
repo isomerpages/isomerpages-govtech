@@ -8,14 +8,13 @@ tag: business
 thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
-The Networked Trade Platform (NTP) is a national trade information management platform that provides the foundation for Singapore to be the world's leading trade, supply chain and trade financing hub. At its core, it represents a concerted effort to drive an industry-wide digital transformation to build a trade and logistics IT ecosystem which connects businesses, community systems and platforms and government systems.
+The Networked Trade Platform (NTP) – developed by Singapore Customs and GovTech –  is a one-stop trade and logistics ecosystem which supports digitalisation efforts and connects players across the trade value chain – in Singapore and abroad. 
 
-Its vision is to be a national trade info-ecosystem that provides the foundation for Singapore to be the world's leading trade, supply chain and trade financing hub. Replacing TradeNet for trade-related applications and TradeXchange for connecting the trade and logistics community, the NTP is designed to provide beyond the service offerings of the incumbent systems. Specifically, it aims to be a:
+By bringing players across the trade value chain onto a single platform, the NTP enables end-to-end digital trade. Traders can tap on a range of trade-related value added services (VAS) such as cargo freight booking, trade financing, cargo insurance, customs declarations and payment reconciliation. These services will allow them to arrange shipments, improve cash flow, and better manage trade compliance, all on one platform. Trade is by nature cross-border, and the NTP serves as a key node for digital trade
+connectivity to rest of the world. 
 
--One-stop trade information management system linked to other platforms
--Next-generation platform offering a wide range of trade-related services
--Open innovation platform allowing development of insights & new services with cross-industry data
--Document hub for digitisation at source that enables reuse of data to cut costs and streamline processes
- 
-To visit the NTP,  please click [here](http://www.customs.gov.sg/about-us/national-single-window//networked-trade-platform){:target="_blank"}.
+The NTP was the winner in the e-business category of the World Summit on the Information Society (WSIS) Prizes 2017, and was also conferred the best Smart City Project under the Economic Development category of the International Data Corporation’s (IDC) 2016 Smart City/Asia Pacific Awards (SCAPA).
 
+Officially launched in 2018, the NTP is part of government’s efforts in driving industry-wide digital transformation.
+
+For more information, please visit the [Networked Trade Platform](https://www.ntp.gov.sg/){:target="_blank"}.
