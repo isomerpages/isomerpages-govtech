@@ -20,7 +20,7 @@ Questions? Email us at <careers@tech.gov.sg>
 
 **Apply**
 
-Paper applications are passé. Electronic applications saves paper and reduces our carbon footprint at the same time.
+Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
 
 If there’s an available role here that excites you, one that puts your skills to good use and lets you grow professionally, apply for it! (Electronically of course.)
 
