@@ -50,4 +50,4 @@ Mr Tay calls these “the three key pillars of the Worker 4.0, who is agile, abl
 “A lot of organisations are built towards optimising for the present, not so much for the future. If you want to optimise for the future, then you probably need to create a safe space for your employees to learn new skills,” Mr Koh concluded.
 
 
-If you are interested in agile practices and development and want to know how to get the most of it, click [here](https://www.tech.gov.sg/media/technews/how-to-get-the-most-out-of-agile-development). 
+*If you are interested in agile practices and development and want to know how to get the most of it, click [here](https://www.tech.gov.sg/media/technews/how-to-get-the-most-out-of-agile-development).*
