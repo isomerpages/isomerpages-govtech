@@ -48,3 +48,6 @@ Important as technology may be, the agile framework places great importance on p
 Mr Tay calls these “the three key pillars of the Worker 4.0, who is agile, able and adaptable”. Organisations also have a responsibility to help their employees achieve these three ideals, recognising that an investment in its people has payoffs in the future.
 
 “A lot of organisations are built towards optimising for the present, not so much for the future. If you want to optimise for the future, then you probably need to create a safe space for your employees to learn new skills,” Mr Koh concluded.
+
+
+If you are interested in agile practices and development and want to know how to get the most of it, click [here](https://www.tech.gov.sg/media/technews/how-to-get-the-most-out-of-agile-development). 
