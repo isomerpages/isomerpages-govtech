@@ -9,7 +9,7 @@ image: "/images/technews/New-Partnership-Models-Industry-Briefing-Smart-Nation-D
 ![3 new ways to partner with GovTech in this Smart Nation](/images/technews/New-Partnership-Models-Industry-Briefing-Smart-Nation-Digital-Government.JPG)
 
 
-Digital services are being built on commercial cloud systems by the Singapore Government; and what this means for both individuals and businesses, as discussed by a panel at the Smart Nation & Digital Government Industry Briefing 2019. 
+Procurement procedures typically set out rigid specifications and timelines for industry partners to fulfil ; GovTech is introducing a new procurement framework to increase the flexibility of collaboration with partners. 
 ---
 
 A Government technology procurement process typically goes like this: an agency raises a tech need, goes through a process to source for the right solution and award to industry partners that are selected based on agreed terms. These partners are required to work based on an outcome-defined and timeline-based framework. 
