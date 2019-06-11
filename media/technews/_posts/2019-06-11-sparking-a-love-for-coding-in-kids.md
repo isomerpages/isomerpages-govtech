@@ -3,10 +3,10 @@ layout: post
 title: "Sparking a love for coding in kids"
 permalink: "/media/technews/sparking-a-love-for-coding-in-kids"
 category: technews
-image: "/images/technews/New-Partnership-Models-Industry-Briefing-Smart-Nation-Digital-Government.JPG"
+image: "/images/technews/Getting-kids-interested-in-scratch-GovTech-Smart-Nation.jpg"
 ---
 
-![3 new ways to partner with GovTech in this Smart Nation](/images/technews/New-Partnership-Models-Industry-Briefing-Smart-Nation-Digital-Government.JPG)
+![Teaching scratch to kids by GovTech volunteers in a Smart Nation](/images/technews/Getting-kids-interested-in-scratch-GovTech-Smart-Nation.jpg)
 
 
 Children as young as eight learnt to build applications from scratch ; made possible by GovTech staff volunteers who participated in GovTech’s signature Digital4Good programme from 3 March to 14 May 2019.
