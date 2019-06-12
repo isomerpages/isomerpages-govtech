@@ -3,7 +3,7 @@ layout: post
 title: "Sparking a love for coding in kids"
 permalink: "/media/technews/sparking-a-love-for-coding-in-kids"
 category: technews
-image: "/images/technews/Getting-kids-interested-in-scratch-GovTech-Smart-Nation.jpg"
+image: "/images/technews/Getting-kids-interested-in-scratch-coding-GovTech-Smart-Nation.jpg"
 ---
 
 ![Teaching Scratch coding to kids by GovTech volunteers in a Smart Nation](/images/technews/Getting-kids-interested-in-scratch-coding-GovTech-Smart-Nation.jpg)
