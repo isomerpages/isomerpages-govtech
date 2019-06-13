@@ -20,7 +20,9 @@ Head of the UK Government Digital Service, Kevin Cunnington, said: “GDS is del
 The MoU comes at a time when the two countries are actively engaged in the SG-UK Partnership for the Future. Launched in January 2019 by the UK’s Foreign Secretary Jeremy Hunt and Singapore’s Minister for Foreign Affairs Dr Vivian Balakrishnan, the campaign expands and solidifies existing links while creating new opportunities for collaboration that secure the future bilateral partnership between the two nations. 
 
 ---
+
 **JOINTLY ISSUED BY BRITISH HIGH COMMISSION SINGAPORE AND GOVTECH**
+
 ---
 
 ### **About UK Government Digital Service**
