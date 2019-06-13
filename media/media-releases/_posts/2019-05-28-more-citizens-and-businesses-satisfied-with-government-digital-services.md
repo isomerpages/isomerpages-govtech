@@ -46,8 +46,10 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Citizens and businesses are
 The Government’s progress in implementing DGB and the focus for FY2019 were announced by GovTech at the annual Smart Nation and Digital Government Industry Briefing themed “Engineering Digital Government; Making Lives Better” this morning.  
 
 ---
+
 **ISSUED BY COMMUNICATIONS AND MARKETING GROUP**<br>
 **GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
+
 ---
 
 ### **Related Resources**
