@@ -50,7 +50,7 @@ The relationship between Singapore and the United Kingdom is as broad as it is d
 ### **For media enquiries, please contact:**
 <br>Joycelyn CHAN (Ms)
 <br>Communications & Marketing Group
-<br>Government Technology Agency
+<br>Government Technology Agency of Singapore
 <br>Tel: +65 6211 1151
 <br>Email: <joycelyn_chan@tech.gov.sg>
 <br>
