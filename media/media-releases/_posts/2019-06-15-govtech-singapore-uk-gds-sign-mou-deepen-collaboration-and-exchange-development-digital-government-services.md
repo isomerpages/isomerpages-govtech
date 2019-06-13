@@ -22,6 +22,7 @@ The MoU comes at a time when the two countries are actively engaged in the SG-UK
 ---
 **JOINTLY ISSUED BY BRITISH HIGH COMMISSION SINGAPORE AND GOVTECH**
 ---
+
 ### **About UK Government Digital Service**
 
 The Government Digital Service (GDS) is part of the Cabinet Office. It helps government work better for everyone by leading digital transformation. GDS helps people interact with government more easily and support government to operate more effectively and efficiently.
