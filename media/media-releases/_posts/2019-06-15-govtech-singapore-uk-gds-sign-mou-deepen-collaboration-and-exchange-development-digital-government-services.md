@@ -47,14 +47,12 @@ The relationship between Singapore and the United Kingdom is as broad as it is d
 * Security and defence
 * Education, culture and youth
 
-
 ### **For media enquiries, please contact:**
 <br>Joycelyn CHAN (Ms)
 <br>Communications & Marketing Group
 <br>Government Technology Agency
 <br>Tel: +65 6211 1151
 <br>Email: <joycelyn_chan@tech.gov.sg>
-<br>
 <br>
 <br>Amelia AUSTIN (Ms)
 <br>British High Commission Singapore
