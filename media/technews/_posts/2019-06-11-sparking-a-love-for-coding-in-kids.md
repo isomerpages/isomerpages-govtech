@@ -17,7 +17,8 @@ Children growing up in today’s fast-paced, digitalised world could find that i
 However, there are unique challenges in introducing children to coding. For starters, coding is highly abstract and technical. Many parents may find it incredibly difficult to get their kids excited over reams of alien-looking programming code. But the coding gurus at the Government Technology Agency of Singapore (GovTech) were unfazed!
 
 
-**Scratching the surface**
+
+# **Scratching the surface**
 
 Beginning on 3 March 2019, 101 GovTechies volunteered their time to run GovTech’s signature Digital4Good programme, meant to promote digital inclusion of underprivileged children and spark their interest in technology. The programme was organised in collaboration with [FaithActs](https://www.faithacts.org.sg/)—a non-profit organisation that works to meet community needs and provides diverse programmes catering to different segments of society—and [Saturday Kids](https://www.saturdaykids.com/), a coding school known for its youth-centric programmes and coding camps.
 
@@ -35,3 +36,4 @@ Another notable project was by Siva, the youngest member of the class, who desig
 At the end of the show-and-tell was the graduation ceremony, during which GovTech Chief Executive Mr Kok Ping Soon presented each child with a certificate. All in all, the programme successfully demonstrated that one is never too young to start picking up the fundamentals of coding. With some imagination and perseverance, anyone can develop great digital applications, and perhaps when these children grow up, they too will contribute towards building Singapore into a Smart Nation.
 
 
+If you want to read more about coding...
