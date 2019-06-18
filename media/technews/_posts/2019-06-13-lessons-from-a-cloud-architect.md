@@ -3,10 +3,10 @@ layout: post
 title: "Lessons from a cloud architect"
 permalink: "/media/technews/lessons-from-a-cloud-architect"
 category: technews
-image: "/images/technews/Getting-kids-interested-in-scratch-coding-GovTech-Smart-Nation.jpg"
+image: "/images/technews/Gregor-Hope-StackX-Cloud-GovTech-Smart-Nation.jpg"
 ---
 
-![Teaching Scratch coding to kids by GovTech volunteers in a Smart Nation](/images/technews/Getting-kids-interested-in-scratch-coding-GovTech-Smart-Nation.jpg)
+![Gregor Hohpe, sharing about Cloud Architecture at Stack-X: Cloud organised by GovTech](/images/technews/Gregor-Hope-StackX-Cloud-GovTech-Smart-Nation.jpg)
 
 
 Cloud computing has revolutionised the way digital applications are being developed. Mr Gregor Hohpe, former technical director in Google Cloud’s office of the CTO, highlighted the importance of replaceability, resilience and requirements in cloud deployments, as well as the changing roles and responsibilities of cloud architects.
@@ -38,4 +38,5 @@ In addition, the cloud offers elastic costing—commercial cloud service provide
 
 “At the grocery store, everything you buy costs just two or three dollars, but at the cashier, the final bill may amount to a hundred dollars [without you even realising it],” he explained. Therefore, cloud architects need to be more discerning in their choice of features to include in their cloud applications.
 
-Interested in cloud? Read more about it [here](
+
+If you want to know what more was shared about Cloud, at the Smart Nation & Digital Government Industry Briefing 2019, click [here](https://www.tech.gov.sg/media/technews/soaring-high-with-commercial-cloud).
