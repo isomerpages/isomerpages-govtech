@@ -18,6 +18,10 @@ Cloud computing architecture, like the plumbing and electrical wiring that runs 
 
 “From day one, we really saw cloud as an innovation platform. It wasn’t an infrastructure retrofit; it was something that would change the way we build software,” said Mr Gregor Hohpe, cloud architect and former technical director in Google Cloud’s office of the CTO. He was delivering a keynote speech about ‘What it means to be an architect in the cloud era’ at the STACK-X: Cloud seminar organised by the Government Technology Agency of Singapore (GovTech). 
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b75e1y2nFXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 **Best practices in cloud architecture**
 
 When thinking about cloud architecture, Mr Hohpe suggested three ‘R’s that would help guide decisions—replaceability, resilience and requirements.
