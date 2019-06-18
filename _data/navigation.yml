@@ -5,65 +5,65 @@
 #########################
 
 - title: Digital Gov Transformation
-  url: /digital-government-transformation/?utm_source=top_nav
+  url: /digital-government-transformation/
   sub-links:
   - title: Overview
-    url: /digital-government-transformation/?utm_source=top_nav
+    url: /digital-government-transformation/
   - title: Digital Government Blueprint
-    url: /digital-government-blueprint/?utm_source=top_nav
+    url: /digital-government-blueprint/
   - title: Products and Services
-    url: /products-and-services/?utm_source=top_nav
+    url: /products-and-services/
   - title: Digital Standards and Guides
-    url: /digital-standards-and-guides/?utm_source=top_nav
+    url: /digital-standards-and-guides/
   - title: Get Involved
-    url: /get-involved/?utm_source=top_nav
+    url: /get-involved/
 - title: Who We Are
-  url: /who-we-are/our-role/?utm_source=top_nav
+  url: /who-we-are/our-role/
   sub-links:
   - title: Our Role
-    url: /who-we-are/our-role/?utm_source=top_nav
+    url: /who-we-are/our-role/
   - title: Our Journey
-    url: /who-we-are/our-journey/?utm_source=top_nav
+    url: /who-we-are/our-journey/
   - title: Our Culture and Values
-    url: /who-we-are/our-culture-and-values/?utm_source=top_nav
+    url: /who-we-are/our-culture-and-values/
   - title: Our Digital Government Rankings
-    url: /who-we-are/our-digital-government-rankings/?utm_source=top_nav
+    url: /who-we-are/our-digital-government-rankings/
   - title: Our Statistics
-    url: /who-we-are/our-statistics/?utm_source=top_nav
+    url: /who-we-are/our-statistics/
   - title: Our Team
-    url: /who-we-are/our-team/?utm_source=top_nav
+    url: /who-we-are/our-team/
 - title: Careers
   url: /careers/overview
   sub-links:
   - title: How We Hire
-    url: /careers/how-we-hire/?utm_source=top_nav
+    url: /careers/how-we-hire/
   - title: How We Work
-    url: /careers/how-we-work/?utm_source=top_nav
+    url: /careers/how-we-work/
   - title: Students and Graduates
-    url: /careers/students-and-graduates/?utm_source=top_nav
+    url: /careers/students-and-graduates/
   - title: Smart Nation Fellowship Programme
-    url: /careers/smart-nation-fellowship-programme/?utm_source=top_nav
+    url: /careers/smart-nation-fellowship-programme/
   - title: The GovTech Alumni Network
-    url: /careers/the-govtech-network/?utm_source=top_nav
+    url: /careers/the-govtech-network/
   - title: Apply Now
     url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
     external: true
 - title: Media
-  url: /media/?utm_source=top_nav
+  url: /media/
   sub-links:
   - title: All
-    url: /media/?utm_source=top_nav
+    url: /media/
   - title: Corporate Publications
-    url: /media/corporate-publications/?utm_source=top_nav
+    url: /media/corporate-publications/
   - title: Events
-    url: /media/events/?utm_source=top_nav
+    url: /media/events/
   - title: Media Releases
-    url: /media/media-releases/?utm_source=top_nav
+    url: /media/media-releases/
   - title: Speeches
-    url: /media/speeches/?utm_source=top_nav
+    url: /media/speeches/
   - title: TechNews
-    url: /media/technews/?utm_source=top_nav
+    url: /media/technews/
   - title: Blogs
     url: /media/blogs/listing 
 - title: Contact Us
-  url: /contact-us/?utm_source=top_nav
+  url: /contact-us/
