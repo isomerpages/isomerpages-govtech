@@ -3,9 +3,10 @@ layout: post
 title: "Three important considerations in API development"
 permalink: "/media/technews/three_important_considerations_in_api_development"
 category: technews
-image: "/images/technews/technews_api_part1"
+image: "/images/technews/technews_api_part1.PNG"
+---
 
-![Three important considerations in API development](/images/technews/technews_api_part1)
+![Three important considerations in API development](/images/technews/technews_api_part1.PNG)
 
 Application programming interfaces (APIs) are essential for the interoperability of digital services. The MyInfo team at GovTech encourages the tech community to keep standards, security and documentation in mind when developing APIs.
 ---
@@ -19,7 +20,7 @@ For example, when a citizen uses [MyInfo](https://www.singpass.gov.sg/myinfo/com
 
 If you are building an API library, the MyInfo team would recommend you to consider these three important aspects.
 
-![the MyInfo Team at GovTech](/images/technews/technews_api_part2)
+![the MyInfo Team at GovTech](/images/technews/technews_api_part2.png)
 
 ### **1. Standards**
 
