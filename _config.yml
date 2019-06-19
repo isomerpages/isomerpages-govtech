@@ -32,7 +32,7 @@ plugins:
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@recommender
 safe: false
 
 # Breadcrumbs
