@@ -17,7 +17,7 @@ You think, “Why can’t the Land Transport Authority (LTA) divert an existing 
 
 As with most economic decisions, there are trade-offs when planning new bus services or making changes to existing bus routes. LTA need to properly analyse not only the number of people affected by route changes and bus timings, but also take into consideration knock-on effects on other bus routes. With over four million public rides on more than 300 bus routes daily, calling bus planning a complex process would be an understatement.
 
-To enhance the efficiency of bus planning, a Government Technology Agency of Singapore (GovTech) Open Data Products (ODP) team worked with the LTA to develop Reroute, an application that simulates the impact that bus route changes or withdrawals have on commuters. 
+To enhance the efficiency of bus planning, a Government Technology Agency of Singapore (GovTech) Open Government Products (OGP) team worked with the LTA to develop Reroute, an application that simulates the impact that bus route changes or withdrawals have on commuters. 
 
 ![a screenshot of a bus route](/images/technews/how-govtech-simulates-four-million-bus-rides-a-day-part2.png)
 
@@ -25,7 +25,7 @@ Here’s a behind-the-scenes look at how they built it.
 
 Phase 1: Data sources and model choice
 
-Before being able to build a robust simulator, one must have data. Fortunately for the GovTech ODP team, LTA logs copious amounts of real-world farecard data, which captures commuter behaviours. In the same way, you would have to know a person well enough to understand how he or she may react to an unexpected turn of events, the farecard data would serve as a baseline for analysing potential bus route changes.
+Before being able to build a robust simulator, one must have data. Fortunately for the GovTech OGP team, LTA logs copious amounts of real-world farecard data, which captures commuter behaviours. In the same way, you would have to know a person well enough to understand how he or she may react to an unexpected turn of events, the farecard data would serve as a baseline for analysing potential bus route changes.
 
 The next step involves choosing a model for analysing data. In this case, the GovTech ODP team decided on what is known as a directed graph model, wherein data is organised as nodes and edges.
 
