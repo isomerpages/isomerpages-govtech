@@ -33,7 +33,7 @@ Achieving faster search speeds entailed optimising databases for generic text qu
  
 The GovTech team also paid attention to the perceived performance of JARVIS, making small but tangible tweaks so that users would find the screening platform more responsive.
  
-“Initially, JARVIS would fetch all the information [it could find] and display the entire page of results. But that took some time, and users may be frustrated by the appreciable lag. So what I did instead was to programme JARVIS to fetch and display even the smallest bit of relevant information that it finds, adding new information onto the results page when it comes in,” explained Mr Nikhil Choudhary, associate software engineer at GovTech. This provides investigation officers with some information to chew on even as the search continues in the background.
+“Initially, JARVIS would fetch all the information [it could find] and display the entire page of results. But that took some time, and users may be frustrated by the appreciable lag. So what I did instead was to programme JARVIS to fetch and display even the smallest bit of relevant information that it finds, adding new information onto the results page when it comes in,” explained Mr Nikhil Choudhary,  software engineer at GovTech. This provides investigation officers with some information to chew on even as the search continues in the background.
  
 Mr Choudhary even went as far as to make JARVIS initiate a search the moment a keyboard key is depressed rather than when it was released, noting that this results in several milliseconds in time savings. “Even really small things like that add up,” he said.
  
