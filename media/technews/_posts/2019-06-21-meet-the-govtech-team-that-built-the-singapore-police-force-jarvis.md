@@ -8,7 +8,7 @@ image: "/images/technews/technews_javis.png"
 
 ![Meet the GovTech team that built the Singapore Police Force’s JARVIS](/images/technews/technews_javis.png)
 
-The Singapore Police Force unveiled a new screening platform called JARVIS at the 2019 Police Workplan Seminar. We bring you the story of how JARVIS was conceptualised and developed by a team at GovTech.
+The Singapore Police Force unveiled a new screening platform called [JARVIS](https://www.police.gov.sg/news-and-publications/features/Police%20Workplan%20Seminar%202019%20-%20A%20Smart%20Force%20for%20the%20Nation) at the 2019 Police Workplan Seminar. We bring you the story of how JARVIS was conceptualised and developed by a team at GovTech.
 ---
 
 Remember the popular television series Criminal Minds and CSI? Regardless of which team of investigators you were enamoured with and rooting for, there was always this intelligence officer character sitting in front a computer, punching in queries on a keyboard and calling up details of a person of interest almost instantaneously. 
@@ -38,7 +38,7 @@ The GovTech team also paid attention to the perceived performance of JARVIS, mak
 Mr Choudhary even went as far as to make JARVIS initiate a search the moment a keyboard key is depressed rather than when it was released, noting that this results in several milliseconds in time savings. “Even really small things like that add up,” he said.
  
 Meanwhile, Ms Ang focused on making the user interface (UI) of JARVIS more intuitive so that investigative officers can easily locate and execute specific functions on the screening platform. “I think UI is core to speed, because if the UI is poorly designed, then you are ten button clicks away from your answer rather than two,” she said.
- 
+
 ### **Safe within and without**
  
 With these enhancements in place, JARVIS was tested by investigation officers between March and November 2018 and has since been used by more than 2,000 police personnel, to positive reviews. One specific use case? Scalping incidents on online marketplace platforms.
