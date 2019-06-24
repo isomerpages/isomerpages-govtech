@@ -17,6 +17,7 @@ Enter Marie Kondo—organising guru from Japan—whose television series hit Net
 
 At GovTech, we’ve got some ideas on how the KonMari method can reduce clutter and “spark joy” in citizens’ lives as well. Here are some steps to help you click, tap and swipe your way to happiness.
 
+![GovTech's Marie Kondo teaching us about digital decluttering](/images/technews/technews_mariekondo.png)
 
 ### **1. Purge with a purpose**
 
