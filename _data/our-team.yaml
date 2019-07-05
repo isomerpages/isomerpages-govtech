@@ -90,7 +90,11 @@ senior-leadership:
   - name: Ms ANG Mui Kim
     title: Senior Director
     organisation: Manpower Cluster and SVC Workforce Transformation
-    image-url: /images/our-team/Ang-Mui-Kim-GovTech-Smart-Nation-Senior-Leader.jpg 
+    image-url: /images/our-team/Ang-Mui-Kim-GovTech-Smart-Nation-Senior-Leader.jpg
+  - name: Mr Jason BAY
+    title: Senior Director
+    organisation: Government Digital Services
+    image-url: /images/our-team/Jason-Bay-GovTech-Smart-Nation-Senior-Leader.jpg
   - name: Mr CHAI Chin Loon
     title: Senior Director
     organisation: Cyber Security Group
@@ -115,18 +119,10 @@ senior-leadership:
     title: Director
     organisation: Moments of Life
     image-url: /images/our-team/dominic-chan.jpg
-  - name: Mr Steven KOH
-    title: Director
-    organisation: Government Digital Services
-    image-url: /images/our-team/steven-koh-govtech-senior-leader.jpg
   - name: Mr LEONG Der Yao
     title: Director
     organisation: Data Science and Artificial Intelligence
     image-url: /images/our-team/leong-der-yao.jpg
-  - name: Mr Eyung LIM
-    title: Director
-    organisation: Government Digital Services
-    image-url: /images/our-team/eyung-lim-govtech-senior-leader.jpg
   - name: Mr QUEK Yang Boon
     title: Director
     organisation: Sensors & IoT
