@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Smart Nation Fellowship Programme
-permalink: /careers/smart-nation-fellowship-programme/
+permalink: http://smartnationfellowship.sg/
 breadcrumb: Smart Nation Fellowship Programme
 collection_name: careers
 ---
