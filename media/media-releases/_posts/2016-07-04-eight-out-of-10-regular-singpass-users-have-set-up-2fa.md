@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Eight Out of 10 Regular SingPass Users have Set Up 2FA"
 permalink: /media/media-releases/eight-out-of-10-regular-singpass-users-have-set-up-2fa
 date: 2016-07-04

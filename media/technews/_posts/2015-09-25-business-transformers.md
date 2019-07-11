@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Business Transformers"
 permalink: "/media/technews/business-transformers"
 category: technews

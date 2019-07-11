@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Tech Behind The Moments Of Life (Families) App"
 permalink: "/media/technews/the-tech-behind-the-moments-of-life"
 category: technews

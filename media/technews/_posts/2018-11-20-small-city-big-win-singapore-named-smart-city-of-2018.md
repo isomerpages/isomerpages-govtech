@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Small city, big win: Singapore named Smart City of 2018"
 permalink: "/media/technews/singapore-named-smart-city-of-2018"
 category: technews

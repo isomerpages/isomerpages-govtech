@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The inside story of how NParks mapped 500,000 trees in Singapore on trees.sg"
 permalink: "/media/technews/the-inside-story-of-how-nparks-mapped-500000-trees-in-singapore-on-treessg"
 category: technews

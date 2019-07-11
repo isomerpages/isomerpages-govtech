@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A healthy hub at your fingertips"
 permalink: "/media/technews/a-healthy-hub-at-your-fingertips"
 category: technews

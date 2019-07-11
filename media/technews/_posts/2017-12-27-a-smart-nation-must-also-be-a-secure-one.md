@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A Smart Nation must also be a secure one"
 permalink: "/media/technews/a-smart-nation-must-also-be-a-secure-one"
 category: technews

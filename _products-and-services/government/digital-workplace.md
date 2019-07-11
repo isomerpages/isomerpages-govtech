@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Digital Workplace
 permalink: /products-and-services/digital-workplace/
-breadcrumb: Digital Workplace
-collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

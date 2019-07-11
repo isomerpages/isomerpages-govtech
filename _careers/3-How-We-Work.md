@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: How We Work
 permalink: /careers/how-we-work/
-breadcrumb: How We Work
-collection_name: careers
 ---
 
 ### **How We Work**

@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Unique Entity Number
 permalink: /products-and-services/unique-entity-number/
-breadcrumb: Unique Entity Number
-collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

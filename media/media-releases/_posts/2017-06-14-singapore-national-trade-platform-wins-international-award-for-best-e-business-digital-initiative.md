@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Singapore's National Trade Platform wins International Award for best e-Business Digital Initiative"
 permalink: /media/media-releases/singapore-national-trade-platform-wins-international-award-for-best-e-business-digital-initiative
 date: 2017-06-14

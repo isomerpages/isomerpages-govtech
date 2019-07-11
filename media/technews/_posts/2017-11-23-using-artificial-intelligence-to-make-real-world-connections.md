@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Using artificial intelligence to make real-world connections"
 permalink: "/media/technews/using-artificial-intelligence-to-make-real-world-connections"
 category: technews

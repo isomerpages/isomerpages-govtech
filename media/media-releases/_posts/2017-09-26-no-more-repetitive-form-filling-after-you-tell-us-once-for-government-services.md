@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "No more repetitive form filling after you “Tell Us Once” for government services"
 permalink: /media/media-releases/no-more-repetitive-form-filling-after-you-tell-us-once-for-government-services
 date: 2017-09-26

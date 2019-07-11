@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Government QR Payment
 permalink: /products-and-services/government-qr-payment/
-breadcrumb: Government QR Payment
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

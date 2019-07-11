@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Eighteen Government Services Score e-Government Excellence Awards"
 permalink: /media/media-releases/eighteen-government-services-score-e-government-excellence-awards
 date: 2013-04-30

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Infocomm Media 2025"
 date:   2018-01-01
 permalink: "/media/corporate-publications/infocomm-media-2025"

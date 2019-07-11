@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Chatty champions"
 permalink: "/media/technews/chatty-champions"
 category: technews

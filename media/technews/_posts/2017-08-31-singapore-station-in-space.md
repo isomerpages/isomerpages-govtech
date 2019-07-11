@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Singapore's station in Space"
 permalink: "/media/technews/singapore-station-in-space"
 category: technews

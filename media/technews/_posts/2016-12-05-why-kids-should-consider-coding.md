@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Why kids should consider Coding"
 permalink: "/media/technews/why-kids-should-consider-coding"
 category: technews

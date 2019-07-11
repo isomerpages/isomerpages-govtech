@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation Snippets: 5 Must-Read Stories in April 2018"
 permalink: "/media/technews/smart-nation-snippets-5-must-read-stories-in-april-2018"
 category: technews

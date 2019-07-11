@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Three key elements needed in IoT deployments"
 permalink: "/media/technews/three-key-elements-needed-in-IoT-deployments"
 category: technews

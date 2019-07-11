@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: "'Ask Jamie' Virtual Assistant"
 permalink: /products-and-services/ask-jamie/
-breadcrumb: Ask Jamie
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/AskJamie_Thumbnail.jpg
 ---

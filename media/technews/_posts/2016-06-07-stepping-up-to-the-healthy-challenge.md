@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Stepping Up to the Healthy Challenge"
 permalink: "/media/technews/stepping-up-to-the-healthy-challenge"
 category: technews

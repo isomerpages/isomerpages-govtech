@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tenders Called for Government ICT Infrastructure Services"
 permalink: /media/media-releases/tenders-called-for-government-ict-infrastructure-services
 date: 2013-06-24

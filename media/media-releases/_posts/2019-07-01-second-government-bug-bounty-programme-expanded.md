@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Second Government Bug Bounty Programme expanded to cover more systems and digital services"
 permalink: /media/media-releases/Second-Government-Bug-Bounty-Programme-expanded-to-cover-more-systems-and-digital-services
 date: 2019-07-01

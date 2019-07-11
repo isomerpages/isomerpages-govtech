@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Digital Government Blueprint"
 permalink: "/media/technews/digital-government-blueprint"
 category: technews

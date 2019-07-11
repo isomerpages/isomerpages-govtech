@@ -1,8 +1,6 @@
 ---
-layout: simple-page
 title: Digital Government Blueprint
 permalink: /digital-government-blueprint/
-breadcrumb: Digital Government Blueprint
 ---
 
 Digitalisation is a key pillar of the Government’s public service transformation efforts. The Digital Government Blueprint (DGB) is a statement of the Government’s ambition to better leverage data and harness new technologies, and to drive broader efforts to build a digital economy and digital society, in support of Smart Nation.

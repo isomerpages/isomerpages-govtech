@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Data.gov.sg
 permalink: /products-and-services/data-gov-sg/
-breadcrumb: Data.gov.sg
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

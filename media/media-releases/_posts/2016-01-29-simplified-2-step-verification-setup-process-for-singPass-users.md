@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Simplified 2-Step Verification Setup Process for SingPass Users"
 permalink: /media/media-releases/simplified-2-step-verification-setup-process-for-singPass-users
 date: 2016-01-29

@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: FormSG
 permalink: /products-and-services/formsg/
-breadcrumb: FormSG
-collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

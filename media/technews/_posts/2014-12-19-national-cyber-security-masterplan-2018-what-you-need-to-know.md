@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "National Cyber Security Masterplan 2018: What you need to know"
 permalink: "/media/technews/national-cyber-security-masterplan-2018-what-you-need-to-know"
 category: technews

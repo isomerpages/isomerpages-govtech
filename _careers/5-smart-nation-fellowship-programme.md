@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Smart Nation Fellowship Programme
 permalink: /careers/smart-nation-fellowship-programme/
-breadcrumb: Smart Nation Fellowship Programme
-collection_name: careers
 ---
 
 Singapore is embarking on a journey to build a Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience! Take three to six months to collaborate with us to co-create digital or engineering solutions that will make an impact on people’s lives.

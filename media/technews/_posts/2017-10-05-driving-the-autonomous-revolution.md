@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Driving the autonomous revolution"
 permalink: "/media/technews/driving-the-autonomous-revolution"
 category: technews

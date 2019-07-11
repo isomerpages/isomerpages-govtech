@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "You are part of Team GovTech"
 permalink: "/media/technews/you-are-part-of-team-govtech"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Pioneer Batch of Smart Nation Scholars"
 permalink: /media/media-releases/pioneer-batch-of-smart-nation-scholars
 date: 2018-08-17

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation and Digital Government Industry Briefing"
 permalink: "/media/events/smart-nation-and-digital-government-industry-briefing"
 category: events

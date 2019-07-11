@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The sharing economy of Data"
 permalink: "/media/technews/the-sharing-economy-of-data"
 category: technews

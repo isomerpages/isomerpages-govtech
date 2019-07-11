@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "7 cool pieces of technology SCDF is using"
 permalink: "/media/technews/7-cool-pieces-of-technology-scdf-is-using"
 category: technews

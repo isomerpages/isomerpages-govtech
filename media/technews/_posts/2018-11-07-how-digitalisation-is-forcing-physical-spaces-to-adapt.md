@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How digitalisation is forcing physical spaces to adapt"
 permalink: "/media/technews/How-digitalisation-is-forcing-physical-spaces-to-adapt"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A Wiz at Data Viz? Join the Challenge!"
 permalink: "/media/technews/a-wiz-at-data-viz"
 category: technews

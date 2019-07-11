@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Newly-launched GovTech to Transform Public Service Delivery with Citizen-centric Digital Services and Products"
 permalink: /media/media-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products
 date: 2016-10-07

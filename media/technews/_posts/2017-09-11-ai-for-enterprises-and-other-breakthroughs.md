@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AI for enterprises and other breakthroughs"
 permalink: "/media/technews/ai-for-enterprises-and-other-breakthroughs"
 category: technews

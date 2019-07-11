@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "So you want to be the next Elon Musk? Here are five things you should know"
 permalink: "/media/technews/so-you-want-to-be-the-next-elon-musk-Here-are-five-things-you-should-know"
 category: technews

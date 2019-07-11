@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: SingPass
 permalink: /products-and-services/singpass/
-breadcrumb: SingPass
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/SingPass-Thumbnail.jpg
       

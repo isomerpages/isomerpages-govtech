@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: InnoLeap
 permalink: /products-and-services/innoleap/
-breadcrumb: InnoLeap
-collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/InnoLeap_Thumbnail.jpg
 ---

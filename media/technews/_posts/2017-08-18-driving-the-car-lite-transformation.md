@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Driving the car-lite transformation"
 permalink: "/media/technews/driving-the-car-lite-transformation"
 category: technews

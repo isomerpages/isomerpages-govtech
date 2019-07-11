@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "With data and cellphones, the next tech disruptor is the man on the street"
 permalink: "/media/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Working Drones"
 permalink: "/media/technews/working-drones"
 category: technews

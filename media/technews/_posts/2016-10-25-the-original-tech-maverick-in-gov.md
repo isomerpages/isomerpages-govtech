@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The original Tech Maverick in Gov"
 permalink: "/media/technews/the-original-tech-maverick-in-gov"
 category: technews

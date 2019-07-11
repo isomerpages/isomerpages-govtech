@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Growing Innovation Smarts"
 permalink: "/media/technews/growing-innovation-smarts"
 category: technews

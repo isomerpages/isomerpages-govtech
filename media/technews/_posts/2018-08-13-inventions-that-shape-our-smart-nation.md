@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Inventions that shape our Smart Nation"
 permalink: "/media/technews/inventions-that-shape-our-smart-nation"
 category: technews

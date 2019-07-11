@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to stop Google from stalking you"
 permalink: "/media/technews/how-to-stop-google-from-stalking-you"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Linking Blockchain tech together"
 permalink: "/media/technews/linking-blockchain-tech-together"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What makes a smart city a success"
 permalink: "/media/technews/what-makes-a-smart-city-a-success"
 category: technews

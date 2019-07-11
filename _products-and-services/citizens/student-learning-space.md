@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Student Learning Space
 permalink: /products-and-services/student-learning-space/
-breadcrumb: Student Learning Space
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

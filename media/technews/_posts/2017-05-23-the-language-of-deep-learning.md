@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Language of Deep Learning"
 permalink: "/media/technews/the-language-of-deep-learning"
 category: technews

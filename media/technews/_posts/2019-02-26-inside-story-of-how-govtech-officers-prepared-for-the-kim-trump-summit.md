@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The inside story of how GovTech prepared to receive 3,000 reporters during the 2018 Trump-Kim Summit"
 permalink: "/media/technews/inside-story-of-how-govtech-officers-prepared-for-the-kim-trump-summit"
 category: technews

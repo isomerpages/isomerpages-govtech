@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Resolving Technology Disputes through ADR"
 permalink: "/media/technews/resolving-technology-disputes-through-adr"
 category: technews

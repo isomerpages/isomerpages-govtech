@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Young tech talents, meet real-world challenges!"
 permalink: "/media/technews/young-tech-talents-meet-real-world-challenges"
 category: technews

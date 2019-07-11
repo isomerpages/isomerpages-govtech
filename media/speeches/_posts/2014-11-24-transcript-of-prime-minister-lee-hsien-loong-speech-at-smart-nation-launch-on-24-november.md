@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Transcript of Prime Minister Lee Hsien Loong's Speech at Smart Nation Launch on 24 November"
 permalink: "/media/speeches/transcript-of-prime-minister-lee-hsien-loong-speech-at-smart-nation-launch-on-24-november"
 category: speeches

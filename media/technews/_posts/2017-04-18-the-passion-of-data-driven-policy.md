@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Passion of Data-driven Policy"
 permalink: "/media/technews/the-passion-of-data-driven-policy"
 category: technews

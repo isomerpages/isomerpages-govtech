@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Improving Lives Through Data Science and Analytics"
 permalink: /media/media-releases/improving-lives-through-data-science-and-analytics
 date: 2015-10-29

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome Remarks by Dr Yaacob Ibrahim, Minister for Communications and Information (Singapore), at the Gala Dinner of the 13th ASEAN Telecommunications and IT Ministers Meeting and the 2nd Asean ICT Awards"
 permalink: "/media/speeches/welcome-remarks-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-gala-dinner-of-the-13th-asean-telecommunications-and-it-ministers-meeting-and-the-2nd-asean-ict-awards"
 category: speeches

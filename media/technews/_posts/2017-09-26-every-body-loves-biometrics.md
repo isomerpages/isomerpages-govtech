@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Every body loves biometrics"
 permalink: "/media/technews/every-body-loves-biometrics"
 category: technews

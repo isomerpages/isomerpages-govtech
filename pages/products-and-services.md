@@ -2,7 +2,6 @@
 layout: initiatives
 title: Products and Services
 permalink: /products-and-services/
-breadcrumb: Products and Services
 ---
 
 <h1><div class="has-text-centered has-text-weight-bold">Co-creating for Better Value</div></h1>

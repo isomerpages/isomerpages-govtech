@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Opening Remarks By Dr Yaacob IBRAHIM, Minister for Communications and Information, at the 9th Ministerial Forum on ICT"
 permalink: "/media/speeches/opening-remarks-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-9th-ministerial-forum-on-ict"
 category: speeches

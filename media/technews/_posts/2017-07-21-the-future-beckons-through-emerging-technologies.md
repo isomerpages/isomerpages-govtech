@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The future beckons through emerging technologies"
 permalink: "/media/technews/the-future-beckons-through-emerging-technologies"
 category: technews

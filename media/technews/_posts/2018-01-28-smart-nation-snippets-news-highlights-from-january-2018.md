@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation Snippets: News highlights from January 2018"
 permalink: "/media/technews/smart-nation-snippets-news-highlights-from-january-2018"
 category: technews

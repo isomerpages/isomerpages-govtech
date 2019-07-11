@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How the government is building citizen-centric digital services"
 permalink: "/media/technews/how-the-government-is-building-citizen-centric-digital-services"
 category: technews

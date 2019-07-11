@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Five key features of the new Moments of Life (Families) app"
 permalink: "/media/technews/five-key-features-of-the-new-moments-of-life-app"
 category: technews

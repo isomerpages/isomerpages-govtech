@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "With VR and AR, your television, tablet and mobile phone screens may soon go the way of the dinosaur"
 permalink: "/media/technews/with-vr-and-ar-your-television-tablet-and-mobile-phone-screens-may-soon-go-the-way-of-the-dinosaur"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "5 insights from Dr Janil Puthucheary - minister-in-charge of GovTech"
 permalink: "/media/technews/insights-from-the-minister-in-charge-of-govtech"
 category: technews

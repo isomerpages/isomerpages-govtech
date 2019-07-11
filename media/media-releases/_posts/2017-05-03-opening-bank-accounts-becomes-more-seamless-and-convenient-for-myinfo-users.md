@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Opening Bank Accounts Becomes More Seamless and Convenient for MyInfo Users"
 permalink: /media/media-releases/opening-bank-accounts-becomes-more-seamless-and-convenient-for-myinfo-users
 date: 2017-05-03

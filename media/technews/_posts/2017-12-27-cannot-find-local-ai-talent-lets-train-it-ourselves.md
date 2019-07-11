@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Can’t find local AI talent? Let’s train it ourselves"
 permalink: "/media/technews/cannot-find-local-ai-talent-lets-train-it-ourselves"
 category: technews

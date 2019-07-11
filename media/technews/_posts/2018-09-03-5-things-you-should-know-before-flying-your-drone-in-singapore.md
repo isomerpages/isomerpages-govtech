@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "5 Things You Should Know Before Flying Your Drone In Singapore"
 permalink: "/media/technews/5-things-you-should-know-before-flying-your-drone-in-singapore"
 category: technews

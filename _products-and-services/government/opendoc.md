@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: OpenDoc
 permalink: /products-and-services/opendoc/
-breadcrumb: Open Doc
-collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

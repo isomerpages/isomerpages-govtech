@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Wondering what’s next for blockchain? Here are four developments on the horizon"
 permalink: "/media/technews/wondering-whats-next-for-blockchain-here-are-four-developments-on-the-horizon"
 category: technews

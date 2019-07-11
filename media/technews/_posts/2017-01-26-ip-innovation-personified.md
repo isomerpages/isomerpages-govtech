@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IP Innovation, Personified"
 permalink: "/media/technews/ip-innovation-personified"
 category: technews

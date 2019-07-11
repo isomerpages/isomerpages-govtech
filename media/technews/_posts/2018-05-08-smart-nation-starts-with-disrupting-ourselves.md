@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation Starts With Disrupting Ourselves"
 permalink: "/media/technews/smart-nation-starts-with-disrupting-ourselves"
 category: technews

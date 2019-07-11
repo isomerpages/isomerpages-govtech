@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IoT Solutions: The next level"
 permalink: "/media/technews/iot-solutions-the-next-level"
 category: technews

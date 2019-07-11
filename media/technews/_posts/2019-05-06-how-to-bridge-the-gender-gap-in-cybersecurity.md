@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to bridge the gender gap in cybersecurity"
 permalink: "/media/technews/how-to-bridge-the-gender-gap-in-cybersecurity"
 category: technews

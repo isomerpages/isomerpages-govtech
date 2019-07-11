@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The brain power of neuromorphic computing"
 permalink: "/media/technews/the-brain-power-of-neuromorphic-computing"
 category: technews

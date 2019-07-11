@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Parents Gateway
 permalink: /products-and-services/parents-gateway/
-breadcrumb: Parents Gateway
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

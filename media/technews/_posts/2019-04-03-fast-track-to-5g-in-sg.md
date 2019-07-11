@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Fast track to 5G in SG"
 permalink: "/media/technews/infographics/fast-track-to-5g-in-sg"
 category: technews

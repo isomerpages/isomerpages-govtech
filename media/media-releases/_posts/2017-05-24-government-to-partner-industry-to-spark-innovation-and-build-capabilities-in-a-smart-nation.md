@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Government to Partner Industry to Spark Innovation and Build Capabilities in a Smart Nation"
 permalink: /media/media-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation
 date: 2017-05-24

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GovTech Partners with Eight Institutes of Higher Learning to Develop Deep Technical Capabilities in Students to Help Build a Smart Nation"
 permalink: /media/media-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities
 date: 2017-02-13

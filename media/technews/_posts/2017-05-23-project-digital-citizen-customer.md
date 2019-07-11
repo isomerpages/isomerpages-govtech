@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Project: Digital citizen-customer"
 permalink: "/media/technews/project-digital-citizen-customer"
 category: technews

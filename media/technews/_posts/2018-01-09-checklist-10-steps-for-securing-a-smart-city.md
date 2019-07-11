@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Checklist: 10 steps for securing a smart city"
 permalink: "/media/technews/checklist-10-steps-for-securing-a-smart-city"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation supercharged"
 permalink: "/media/technews/smart-nation-supercharged"
 category: technews

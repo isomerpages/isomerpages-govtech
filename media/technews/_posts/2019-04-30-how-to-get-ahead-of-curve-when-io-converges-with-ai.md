@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to get ahead of the curve when IoT converges with AI"
 permalink: "/media/technews/how-to-get-ahead-of-curve-when-io-converges-with-ai"
 category: technews

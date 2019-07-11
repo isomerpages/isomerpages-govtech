@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Agile Maturity Model
 permalink: /products-and-services/agile-maturity-model/
-breadcrumb: Agile Maturity Model
-collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test2.jpg
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to manage successful data science projects"
 permalink: "/media/technews/how-to-manage-successful-data-science-projects"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Singapore Continues to Enhance Cyber Security with a Five-Year National Cyber Security Masterplan 2018"
 permalink: /media/media-releases/singapore-continues-to-enhance-cyber-security-with-a-five-year-national-cyber-security-masterplan-2018
 date: 2013-07-24

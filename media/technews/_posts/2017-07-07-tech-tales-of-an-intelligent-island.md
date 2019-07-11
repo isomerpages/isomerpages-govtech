@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tech tales of an intelligent island"
 permalink: "/media/technews/tech-tales-of-an-intelligent-island"
 category: technews

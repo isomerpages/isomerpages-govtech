@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The driving force of IT Talent"
 permalink: "/media/technews/the-driving-force-of-it-talent"
 category: technews

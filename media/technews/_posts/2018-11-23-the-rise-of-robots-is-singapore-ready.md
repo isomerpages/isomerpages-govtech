@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The rise of robots: Is Singapore ready?"
 permalink: "/media/technews/2018-11-23-the-rise-of-robots-is-singapore-ready"
 category: technews

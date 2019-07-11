@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Re-Entry Permits go electronic"
 permalink: "/media/technews/reentry-permits-go-electronic"
 category: technews

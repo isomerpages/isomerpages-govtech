@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A World of Smart Nations"
 permalink: "/media/technews/a-world-of-smart-nations"
 category: technews

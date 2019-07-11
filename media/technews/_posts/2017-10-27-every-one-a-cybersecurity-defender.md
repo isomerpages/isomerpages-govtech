@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Every one a cybersecurity defender"
 permalink: "/media/technews/every-one-a-cybersecurity-defender"
 category: technews

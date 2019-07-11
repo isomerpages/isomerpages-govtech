@@ -2,8 +2,6 @@
 layout: our-journey
 title: Our Journey
 permalink: /who-we-are/our-journey/
-breadcrumb: Our Journey
-collection_name: who-we-are
 ---
 
 Since the arrival of the first personal computer in the 1980s, Singapore has embraced technology 

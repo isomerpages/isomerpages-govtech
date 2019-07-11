@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "ABCD: not as easy as you might think"
 permalink: "/media/technews/stack-18-abcd-ot-as-easy-as-you-might-think"
 category: technews

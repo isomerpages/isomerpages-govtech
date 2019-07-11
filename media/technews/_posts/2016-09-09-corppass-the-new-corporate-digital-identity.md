@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "CorpPass the new Corporate Digital Identity"
 permalink: "/media/technews/corppass-the-new-corporate-digital-identity"
 category: technews

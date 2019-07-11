@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Make innovative leaps by harnessing data"
 permalink: "/media/technews/make-innovative-leaps-by-harnessing-data"
 category: technews

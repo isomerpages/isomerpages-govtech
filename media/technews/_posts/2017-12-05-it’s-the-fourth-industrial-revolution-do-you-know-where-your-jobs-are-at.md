@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "It’s the Fourth Industrial Revolution. Do you know where your jobs are at?"
 permalink: "/media/technews/its-the-fourth-industrial-revolution-do-you-know-where-your-jobs-are-at"
 category: technews

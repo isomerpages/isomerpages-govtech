@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Practical applications of artificial intelligence"
 permalink: "/media/technews/practical-applications-of-artificial-intelligence"
 category: technews

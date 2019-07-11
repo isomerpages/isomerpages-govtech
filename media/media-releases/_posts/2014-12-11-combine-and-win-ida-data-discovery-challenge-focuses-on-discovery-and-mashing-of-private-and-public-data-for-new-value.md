@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Combine and Win! IDA’s Data Discovery Challenge Focuses on Discovery and Mashing of Private and Public Data for New Value"
 permalink: /media/media-releases/combine-and-win-ida-data-discovery-challenge-focuses-on-discovery-and-mashing-of-private-and-public-data-for-new-value
 date: 2014-12-11

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Driverless Future Standard on Track"
 permalink: "/media/technews/driverless-future-standard-on--track"
 category: technews

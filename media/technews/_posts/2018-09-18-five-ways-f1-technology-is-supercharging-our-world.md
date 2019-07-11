@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Five ways F1 technology is supercharging our world"
 permalink: "/media/technews/five-ways-f1-technology-is-supercharging-our-world"
 category: technews

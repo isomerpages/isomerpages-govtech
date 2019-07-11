@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Silver Tech and Golden Seniors"
 permalink: "/media/technews/silver-tech-and-golden-seniors"
 category: technews

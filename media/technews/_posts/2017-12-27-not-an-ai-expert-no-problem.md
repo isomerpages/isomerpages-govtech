@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Not an AI expert? No problem"
 permalink: "/media/technews/not-an-ai-expert-no-problem"
 category: technews

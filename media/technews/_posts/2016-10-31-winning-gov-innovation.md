@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Winning Gov Innovation"
 permalink: "/media/technews/winning-gov-innovation"
 category: technews

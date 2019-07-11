@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: MyInfo
 permalink: /products-and-services/my-info/
-breadcrumb: MyInfo
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/MyInfo_Thumbnail.jpg
 ---

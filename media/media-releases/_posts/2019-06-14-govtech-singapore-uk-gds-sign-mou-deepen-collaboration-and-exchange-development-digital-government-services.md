@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GovTech Singapore and the UK’s GDS sign MoU to deepen collaboration and exchange in the development of Digital Government Services"
 permalink: /media/media-releases/govtech-singapore-uk-gds-sign-mou-deepen-collaboration-and-exchange-development-digital-government-services
 date: 2019-06-14

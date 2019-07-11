@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Experts weigh in on AI and big data - hype or hope?"
 permalink: "/media/technews/experts-weigh-in-on-ai-and-big-data-hype-or-hope"
 category: technews

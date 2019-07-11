@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "eGov Masterplans"
 date:   2016-01-01
 permalink: "/media/corporate-publications/egov-masterplans"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Space for innovation"
 permalink: "/media/technews/space-for-innovation"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Board taxi got discount? Ask TaxiBot!"
 permalink: "/media/technews/board-taxi-got-discount-ask-taxibot"
 category: technews

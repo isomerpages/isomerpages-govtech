@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tech opens up new roads and governance has to catch up"
 permalink: "/media/technews/tech-opens-up-new-roads-and-governance-has-to-catch-up"
 category: technews

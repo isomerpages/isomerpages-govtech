@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Opening Speech by Head of Civil Service at Digital Government Exchange 2017"
 permalink: "/media/speeches/opening-speech-by-head-of-civil-service"
 category: speeches

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Focus on people when building smart cities"
 permalink: "/media/technews/focus-on-people-when-building-smart-cities"
 category: technews

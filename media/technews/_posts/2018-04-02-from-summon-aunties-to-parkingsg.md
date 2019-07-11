@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "From Summon Aunties to Parking.sg"
 permalink: "/media/technews/from-summon-aunties-to-parkingsg"
 category: technews

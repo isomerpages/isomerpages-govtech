@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "More Citizens and Businesses Satisfied with Government Digital Services"
 permalink: /media/media-releases/more-citizens-and-businesses-satisfied-with-government-digital-services
 date: 2019-05-28

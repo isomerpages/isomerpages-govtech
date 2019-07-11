@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Assistive Tech an enabling force"
 permalink: "/media/technews/assistive-tech-an-enabling-force"
 category: technews

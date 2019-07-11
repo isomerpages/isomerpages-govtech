@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Learning Workplace"
 permalink: "/media/technews/the-learning-workplace"
 category: technews

@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: The GovTech Alumni Network
 permalink: /careers/the-govtech-network/
-breadcrumb: The GovTech Alumni Network
-collection_name: careers
 ---
 
 ### **The GovTech Alumni Network**

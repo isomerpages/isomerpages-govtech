@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "From reactive to proactive healthcare, with the help of IoT"
 permalink: "/media/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot"
 category: technews

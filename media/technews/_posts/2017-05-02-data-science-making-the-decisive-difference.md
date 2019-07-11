@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Data Science making the decisive difference"
 permalink: "/media/technews/data-science-making-the-decisive-difference"
 category: technews

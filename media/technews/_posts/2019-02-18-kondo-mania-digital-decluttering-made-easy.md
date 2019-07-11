@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kondo Mania - Digital decluttering made easy"
 permalink: "/media/technews/digital-decluttering-made-easy"
 category: technews

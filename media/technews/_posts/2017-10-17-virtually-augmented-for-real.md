@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Virtually augmented for real"
 permalink: "/media/technews/virtually-augmented-for-real"
 category: technews

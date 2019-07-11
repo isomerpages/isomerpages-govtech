@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Demystifying AI and Big Data"
 permalink: "/media/technews/demystifying-ai-and-big-data"
 category: technews

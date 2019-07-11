@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "More Government Data to be Made Available to Spur Social Innovation and Create Greater Public Value"
 permalink: /media/media-releases/more-government-data-to-be-made-available-to-spur-social-innovation-and-create-greater-public-value
 date: 2013-06-17

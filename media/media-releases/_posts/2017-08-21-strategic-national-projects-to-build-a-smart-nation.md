@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Strategic National Projects to build a Smart Nation"
 permalink: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
 date: 2017-08-21

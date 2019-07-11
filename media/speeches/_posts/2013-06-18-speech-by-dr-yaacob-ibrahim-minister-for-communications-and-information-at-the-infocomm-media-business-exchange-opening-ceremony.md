@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Speech By Dr Yaacob IBRAHIM, Minister for Communications and Information, at the Infocomm Media Business Exchange Opening Ceremony"
 permalink: "/media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-infocomm-media-business-exchange-opening-ceremony"
 category: speeches

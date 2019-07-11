@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Robots at Work"
 permalink: "/media/technews/robots-at-work"
 category: technews

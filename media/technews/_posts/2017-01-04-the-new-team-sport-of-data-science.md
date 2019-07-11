@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The new team sport of Data Science"
 permalink: "/media/technews/the-new-team-sport-of-data-science"
 category: technews

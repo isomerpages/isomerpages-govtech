@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Bus Uncle talks Data lah"
 permalink: "/media/technews/bus-uncle-talks-data-lah"
 category: technews

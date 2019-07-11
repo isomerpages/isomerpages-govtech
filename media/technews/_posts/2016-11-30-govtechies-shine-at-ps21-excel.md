@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GovTechies shine at PS21 ExCEL"
 permalink: "/media/technews/govtechies-shine-at-ps21-excel"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Calling all Formula One geeks! Read about the tech behind the race cars"
 permalink: "/media/technews/calling-all-formula-one-geeks-read-about-the-tech-behind-the-race-cars"
 category: technews

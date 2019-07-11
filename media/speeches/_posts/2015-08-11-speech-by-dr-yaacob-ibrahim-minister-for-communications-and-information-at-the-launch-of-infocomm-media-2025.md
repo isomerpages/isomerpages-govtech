@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Speech by Dr Yaacob Ibrahim, Minister for Communications and Information at the launch of Infocomm Media 2025"
 permalink: "/media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-launch-of-infocomm-media-2025"
 category: speeches

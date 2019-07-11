@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Government Agencies to Conduct Trials on Digital Payment of Parking Charges"
 permalink: /media/media-releases/government-agencies-to-conduct-trials-on-digital-payment-of-parking-charges
 date: 2017-05-15

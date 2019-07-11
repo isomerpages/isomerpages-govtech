@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How EdTech is disrupting classroom learning"
 permalink: "/media/technews/how-edtech-is-disrupting-classroom-learning"
 category: technews

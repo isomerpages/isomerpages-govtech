@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Your Sentiments matter in the design of government digital services"
 permalink: "/media/technews/your-sentiments-matter-in-the-design-of-government-digital-services"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "CorpPass means business"
 permalink: "/media/technews/corppass-means-business"
 category: technews

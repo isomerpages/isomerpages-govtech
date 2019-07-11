@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Past IDA Corporate Brochures"
 date:   2018-01-01
 permalink: "/media/corporate-publications/past-ida-corporate-brochures"

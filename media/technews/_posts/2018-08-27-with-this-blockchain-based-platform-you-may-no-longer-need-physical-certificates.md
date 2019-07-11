@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "With this blockchain-based platform, you may no longer need physical certificates"
 permalink: "/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates"
 date: 2018-08-27

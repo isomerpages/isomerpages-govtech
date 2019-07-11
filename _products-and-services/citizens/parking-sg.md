@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Parking.sg
 permalink: /products-and-services/parking-sg/
-breadcrumb: Parking.sg
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---

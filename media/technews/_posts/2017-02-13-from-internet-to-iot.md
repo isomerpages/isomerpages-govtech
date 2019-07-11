@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "From Internet to IoT"
 permalink: "/media/technews/from-internet-to-iot"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Winning Women in Tech"
 permalink: "/media/technews/winning-women-in-tech"
 category: technews

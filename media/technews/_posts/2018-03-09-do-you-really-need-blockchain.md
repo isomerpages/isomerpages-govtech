@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Do you really need a blockchain? Here are a few tips you should think about first"
 permalink: "/media/technews/do-you-really-need-blockchain"
 category: technews

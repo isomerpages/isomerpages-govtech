@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A centralised ‘host in the machine’ is helping government agencies fast-track digital services"
 permalink: "/media/technews/a-centralised-host-in-the-machine-is-helping-government-agencies-fast-track-digital-services"
 category: technews

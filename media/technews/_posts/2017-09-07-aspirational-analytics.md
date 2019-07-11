@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Aspirational Analytics"
 permalink: "/media/technews/aspirational-analytics"
 category: technews

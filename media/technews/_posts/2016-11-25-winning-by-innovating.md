@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Winning by Innovating"
 permalink: "/media/technews/winning-by-innovating"
 category: technews

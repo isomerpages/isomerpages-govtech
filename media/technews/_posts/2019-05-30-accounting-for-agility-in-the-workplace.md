@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Accounting for agility in the workplace"
 permalink: "/media/technews/accounting-for-agility-in-the-workplace"
 category: technews

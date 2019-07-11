@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Diversity and Equality in Tech"
 permalink: "/media/technews/diversity-and-equality-in-tech"
 category: technews

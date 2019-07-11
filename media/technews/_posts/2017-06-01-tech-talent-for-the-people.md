@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tech talent for the people"
 permalink: "/media/technews/tech-talent-for-the-people"
 category: technews

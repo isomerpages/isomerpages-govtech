@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Government and Industry to build a Smart Nation Together"
 permalink: /media/media-releases/government-and-industry-to-build-a-smart-nation-together
 date: 2016-05-23

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Better Government by Design"
 permalink: "/media/technews/better-government-by-design"
 category: technews

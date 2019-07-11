@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Cyber-criminals are using social engineering to find victims"
 permalink: "/media/technews/cyber-criminals-are-using-social-engineering-to-find-victims"
 category: technews

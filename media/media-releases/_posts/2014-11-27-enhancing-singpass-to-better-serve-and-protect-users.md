@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Enhancing SingPass to Better Serve and Protect Users
 permalink: /media/media-releases/enhancing-singpass-to-better-serve-and-protect-users
 date: 2014-11-27

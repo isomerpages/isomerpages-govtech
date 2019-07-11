@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "CorpPass: What you need to know"
 permalink: "/media/technews/corppass-what-you-need-to-know"
 category: technews

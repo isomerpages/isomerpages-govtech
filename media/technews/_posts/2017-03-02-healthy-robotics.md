@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Healthy Robotics"
 permalink: "/media/technews/healthy-robotics"
 category: technews

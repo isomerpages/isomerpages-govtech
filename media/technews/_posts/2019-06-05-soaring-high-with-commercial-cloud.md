@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Soaring high with commercial cloud"
 permalink: "/media/technews/soaring-high-with-commercial-cloud"
 category: technews

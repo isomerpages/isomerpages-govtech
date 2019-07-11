@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Delivering Justice for Innovation"
 permalink: "/media/technews/delivering-justice-for-innovation"
 category: technews

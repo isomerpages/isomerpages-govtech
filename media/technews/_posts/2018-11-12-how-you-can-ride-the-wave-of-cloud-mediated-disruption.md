@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How you can ride the wave of cloud-mediated disruption"
 permalink: "/media/technews/how-you-can-ride-the-wave-of-cloud-mediated-disruption"
 category: technews

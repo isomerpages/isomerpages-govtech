@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Technological Future of Singapore"
 permalink: "/media/technews/the-technological-future-of-singapore"
 category: technews

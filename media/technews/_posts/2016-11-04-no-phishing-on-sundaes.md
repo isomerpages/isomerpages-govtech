@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "No Phishing on Sundaes"
 permalink: "/media/technews/no-phishing-on-sundaes"
 category: technews

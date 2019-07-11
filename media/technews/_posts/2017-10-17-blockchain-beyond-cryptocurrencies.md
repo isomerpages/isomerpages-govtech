@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Blockchain beyond cryptocurrencies"
 permalink: "/media/technews/blockchain-beyond-cryptocurrencies"
 category: technews

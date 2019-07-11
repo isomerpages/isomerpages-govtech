@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Leading with the Team"
 permalink: /media/technews/the-4-principles-of-modern-agility
 category: technews

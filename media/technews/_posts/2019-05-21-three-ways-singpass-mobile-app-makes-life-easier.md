@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Three ways SingPass Mobile app makes your life easier"
 permalink: "/media/technews/three-ways-singpass-mobile-app-makes-your-life-easier"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A smart city’s foundations: Bricks of data, cemented by cybersecurity and trust"
 permalink: "/media/technews/a-smart-citys-foundations-bricks-of-data-cemented-by-cybersecurity-and-trust"
 category: technews

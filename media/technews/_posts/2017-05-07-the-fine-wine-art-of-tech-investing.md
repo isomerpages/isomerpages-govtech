@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The fine wine art of tech investing"
 permalink: "/media/technews/the-fine-wine-art-of-tech-investing"
 category: technews

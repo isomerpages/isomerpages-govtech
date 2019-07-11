@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Grab Launches GrabShuttle, An Affordable Shuttle Service for Commuters"
 permalink: /media/media-releases/grab-launches-grabShuttle-an-affordable-shuttle-service-for-commuters
 date: 2017-03-02

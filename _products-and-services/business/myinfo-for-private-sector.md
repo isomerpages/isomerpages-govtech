@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: MyInfo for Private Sector
 permalink: /products-and-services/myinfo-for-private-sector/
-breadcrumb: MyInfo for Private Sector
-collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/MyInfo_Thumbnail.jpg
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The road ahead for AI"
 permalink: "/media/technews/the-road-ahead-for-ai"
 category: technews

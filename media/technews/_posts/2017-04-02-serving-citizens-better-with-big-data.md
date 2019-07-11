@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Serving citizens better with Big Data"
 permalink: "/media/technews/serving-citizens-better-with-big-data"
 category: technews

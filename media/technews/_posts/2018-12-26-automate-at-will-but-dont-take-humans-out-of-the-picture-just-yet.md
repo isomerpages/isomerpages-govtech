@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Automate at will, but don’t take humans out of the picture just yet"
 permalink: "/media/technews/automate-at-will-but-dont-take-humans-out-of-the-picture-just-yet"
 category: technews

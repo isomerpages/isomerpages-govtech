@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Improving productivity, sustainability and usability"
 permalink: "/media/technews/improving-productivity-sustainability-and-usability"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart People Smart Cities"
 permalink: "/media/technews/smart-people-smart-cities"
 category: technews

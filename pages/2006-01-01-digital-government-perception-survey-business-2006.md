@@ -1,8 +1,6 @@
 ---
-layout: simple-page
 title:  "Annual Digital Government Perception Survey (Business) Conducted in 2006"
 permalink: "/digital-government-perception-survey-business-2006"
-breadcrumb: 2006 Annual Digital Government Perception Survey (Business)
 ---
 
 ### **Background**

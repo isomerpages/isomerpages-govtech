@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Singapore Government Projected to Invest $1.2 Billion in Infocomm Technologies to Enhance Operational Efficiency and Public Service Delivery"
 permalink: /media/media-releases/singapore-government-projected-to-invest-1-point-2-billion-in-infocomm-technologies-to-enhance-operational-efficiency-and-public-service-delivery
 date: 2013-05-23

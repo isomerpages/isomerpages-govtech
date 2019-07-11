@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /careers/overview/
-breadcrumb: Overview
-collection_name: careers
 ---
 
 ### **Overview**

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Code for Youth"
 permalink: "/media/technews/code-for-youth"
 category: technews

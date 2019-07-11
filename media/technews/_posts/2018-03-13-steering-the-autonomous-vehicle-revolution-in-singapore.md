@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Steering the autonomous vehicle revolution in Singapore"
 permalink: "/media/technews/steering-the-autonomous-vehicle-revolution-in-singapore"
 category: technews

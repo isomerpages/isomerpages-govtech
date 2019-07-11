@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Soulful Robots"
 permalink: "/media/technews/soulful-robots"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "5 tricks to make sure your Wi-Fi never misses a spot"
 permalink: "/media/technews/tricks-to-make-sure-your-wifi-never-misses-a-spot"
 category: technews

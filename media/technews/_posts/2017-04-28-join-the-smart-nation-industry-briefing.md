@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Join the Smart Nation Industry Briefing"
 permalink: "/media/technews/join-the-smart-nation-industry-briefing"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AI Singapore: How a small island plans to bridge AI research and reality"
 permalink: "/media/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Tech Garden City"
 permalink: "/media/technews/smart-tech-garden-city"
 category: technews

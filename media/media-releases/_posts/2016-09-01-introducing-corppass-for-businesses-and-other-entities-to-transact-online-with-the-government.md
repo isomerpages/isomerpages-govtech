@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Introducing CorpPass for Businesses and other Entities to Transact online with the Government"
 permalink: /media/media-releases/introducing-corppass-for-businesses-and-other-entities-to-transact-online-with-the-government
 date: 2016-09-01

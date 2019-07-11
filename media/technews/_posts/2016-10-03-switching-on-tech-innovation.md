@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "SWITCHing on Tech Innovation"
 permalink: "/media/technews/switching-on-tech-innovation"
 category: technews

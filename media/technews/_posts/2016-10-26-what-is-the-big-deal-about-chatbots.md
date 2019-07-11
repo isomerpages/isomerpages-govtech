@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What's the big deal about (chat)bots?"
 permalink: "/media/technews/what-is-the-big-deal-about-chatbots"
 category: technews

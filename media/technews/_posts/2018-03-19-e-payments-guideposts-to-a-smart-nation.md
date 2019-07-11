@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "E-payments : Guideposts to a Smart Nation"
 permalink: "/media/technews/e-payments-guideposts-to-a-smart-nation"
 category: technews

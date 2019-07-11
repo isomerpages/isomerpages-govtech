@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "As Agile as GovTech"
 permalink: "/media/technews/as-agile-as-govtech"
 category: technews

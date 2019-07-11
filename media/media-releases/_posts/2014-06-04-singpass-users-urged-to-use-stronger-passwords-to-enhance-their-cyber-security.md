@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "SingPass Users Urged to Use Stronger Passwords to Enhance Their Cyber Security"
 permalink: /media/media-releases/singpass-users-urged-to-use-stronger-passwords-to-enhance-their-cyber-security
 date: 2014-06-04

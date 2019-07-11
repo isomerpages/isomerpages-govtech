@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What do the cybercriminals (already) know about you?"
 permalink: "/media/technews/what-do-the-cybercriminals-already-know-about-you"
 category: technews

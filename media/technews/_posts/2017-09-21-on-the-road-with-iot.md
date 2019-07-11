@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "On the road with IoT"
 permalink: "/media/technews/on-the-road-with-iot"
 category: technews

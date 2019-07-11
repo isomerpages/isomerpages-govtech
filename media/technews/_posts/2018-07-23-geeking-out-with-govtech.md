@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Geeking out with GovTech"
 permalink: "/media/technews/geeking-out-with-govtech"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Nuclear physics powering Cybersecurity?"
 permalink: "/media/technews/nuclear-physics-powering-cybersecurity.md"
 category: technews

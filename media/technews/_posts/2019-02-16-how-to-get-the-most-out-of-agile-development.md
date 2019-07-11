@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to get the most out of agile development"
 permalink: "/media/technews/how-to-get-the-most-out-of-agile-development"
 category: technews

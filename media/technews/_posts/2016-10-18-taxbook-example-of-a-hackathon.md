@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Taxbook Example of a Hackathon"
 permalink: "/media/technews/taxbook-example-of-a-hackathon"
 category: technews

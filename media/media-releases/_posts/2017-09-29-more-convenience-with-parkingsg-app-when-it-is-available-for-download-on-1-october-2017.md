@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "More convenience with Parking.sg app when it is available for download on 1 October 2017"
 permalink: /media/media-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017
 date: 2017-09-29

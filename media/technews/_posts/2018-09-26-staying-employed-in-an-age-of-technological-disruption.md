@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Staying employed in an age of technological disruption"
 permalink: "/media/technews/staying-employed-in-an-age-of-technological-disruption"
 category: technews

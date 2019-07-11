@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Celebrating tech innovation in Singapore"
 permalink: "/media/technews/celebrating-tech-innovation-in-singapore"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Tech of Humanity"
 permalink: "/media/technews/the-tech-of-humanity"
 category: technews

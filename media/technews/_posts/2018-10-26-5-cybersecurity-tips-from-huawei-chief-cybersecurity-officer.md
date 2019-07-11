@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "5 cybersecurity tips from Huawei's chief cybersecurity officer"
 permalink: "/media/technews/5-cybersecurity-tips-from-huawei-chief-cybersecurity-officer"
 category: technews

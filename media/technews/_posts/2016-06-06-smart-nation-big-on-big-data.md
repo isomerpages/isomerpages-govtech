@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation Big on Big Data"
 permalink: "/media/technews/smart-nation-big-on-big-data"
 category: technews

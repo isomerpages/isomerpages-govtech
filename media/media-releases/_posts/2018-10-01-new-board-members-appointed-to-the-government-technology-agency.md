@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New Board Members Appointed to The Government Technology Agency"
 permalink: /media/media-releases/new-board-members-appointed-to-the-government-technology-agency
 date: 2018-10-01

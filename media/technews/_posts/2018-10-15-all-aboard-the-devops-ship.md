@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "All Aboard the DevOps SHIP"
 permalink: "/media/technews/all-aboard-the-devops-ship"
 category: technews

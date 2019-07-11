@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Super Cool Supercomputing"
 permalink: "/media/technews/super-cool-supercomputing"
 category: technews

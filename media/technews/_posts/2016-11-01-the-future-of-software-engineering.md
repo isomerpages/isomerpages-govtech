@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Future of Software Engineering"
 permalink: "/media/technews/the-future-of-software-engineering"
 category: technews

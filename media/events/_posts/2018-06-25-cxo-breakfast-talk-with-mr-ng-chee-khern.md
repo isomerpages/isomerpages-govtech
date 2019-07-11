@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "CXO Breakfast Talk with Mr. Ng Chee Khern"
 permalink: "/media/events/cxo-breakfast-talk-with-mr-ng-chee-khern"
 category: events

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Opening GOH Address by Dr Janil Puthucheary for GovInsider Innovation Labs World Conference 2017"
 permalink: "/media/speeches/opening-goh-address-by-dr-janil-puthucheary"
 category: speeches

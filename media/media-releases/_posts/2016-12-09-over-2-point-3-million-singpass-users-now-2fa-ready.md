@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Over 2.3 Million SingPass Users now 2FA-ready"
 permalink: /media/media-releases/over-2-point-3-million-singpass-users-now-2fa-ready
 date: 2016-12-09

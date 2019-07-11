@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Heart that keeps myResponder Beating"
 permalink: "/media/technews/the-heart-that-keeps-myresponder-beating"
 category: technews

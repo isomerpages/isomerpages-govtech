@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How technology is helping to improve athlete performance"
 permalink: "/media/technews/how-technology-is-helping-to-improve-athlete-performance"
 category: technews

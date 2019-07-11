@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "SingPass - Now Easier, More Convenient and Extra Secure"
 permalink: /media/media-releases/singpass-now-easier-more-convenient-and-extra-secure
 date: 2015-07-02

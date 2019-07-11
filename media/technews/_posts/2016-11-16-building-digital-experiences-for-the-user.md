@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Building Digital Experiences for the user"
 permalink: "/media/technews/building-digital-experiences-for-the-user"
 category: technews

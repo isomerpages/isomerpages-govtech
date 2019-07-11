@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)"
 permalink: "/media/speeches/speech-by-mr-peter-ong-head-civil-service-at-the-inaugural-egov-excellence-awards-2013"
 category: speeches

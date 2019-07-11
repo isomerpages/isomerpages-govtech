@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at the FutureEverything Signals of Tomorrow Conference"
 permalink: "/media/speeches/opening-speech-by-dr-vivian-balakrishnan-minister-for-foreign-affairs-and-minister-in-charge-of-the-smart-nation-initiative-at-the-futureeverything-signals-of-tomorrow-conference"
 category: speeches

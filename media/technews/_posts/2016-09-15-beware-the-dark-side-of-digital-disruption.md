@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Beware the Dark Side of Digital Disruption"
 permalink: "/media/technews/beware-the-dark-side-of-digital-disruption"
 category: technews

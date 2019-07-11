@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Change the world with tech. These teams got it pitch-perfect"
 permalink: "/media/technews/change-the-world-with-tech-these-teams-got-it-pitch-perfect"
 category: technews

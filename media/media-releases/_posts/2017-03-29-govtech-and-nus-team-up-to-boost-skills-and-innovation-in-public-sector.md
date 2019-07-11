@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GovTech and NUS Team Up to Boost Skills and Innovation in Public Sector"
 permalink: /media/media-releases/govtech-and-nus-team-up-to-boost-skills-and-innovation-in-public-sector
 date: 2017-03-29

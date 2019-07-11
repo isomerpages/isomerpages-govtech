@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Working out your future jobs"
 permalink: "/media/technews/working-out-your-future-jobs"
 category: technews

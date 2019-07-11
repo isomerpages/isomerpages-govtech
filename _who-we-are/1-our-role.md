@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Our Role
 permalink: /who-we-are/our-role/
-breadcrumb: Our Role
-collection_name: who-we-are
 ---
 
 ### Digital transformation within the public sector is at the heart of what GovTech, or Government Technology Agency of Singapore, does. We harness the best info-communications technologies to make a difference to the everyday lives of people in Singapore.

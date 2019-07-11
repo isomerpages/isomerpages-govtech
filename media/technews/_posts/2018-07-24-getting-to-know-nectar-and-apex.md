@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Getting to know NECTAR and APEX"
 permalink: "/media/technews/getting-to-know-nectar-and-apex"
 category: technews

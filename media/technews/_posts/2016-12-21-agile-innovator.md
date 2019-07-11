@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Agile Innovator"
 permalink: "/media/technews/agile-innovator"
 category: technews

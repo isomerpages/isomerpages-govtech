@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Are you leaking information on the web? Use these tools to find out"
 permalink: "/media/technews/are-you-leaking-information-on-the-web"
 category: technews

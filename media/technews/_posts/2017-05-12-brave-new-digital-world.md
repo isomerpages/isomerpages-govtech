@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Brave New Digital World"
 permalink: "/media/technews/brave-new-digital-world"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "More Opportunities for Industry to Support Digital Government Blueprint Implementation"
 permalink: /media/more-opportunities-for-Industry-to-support-digital-government-blueprint
 date: 2018-06-07

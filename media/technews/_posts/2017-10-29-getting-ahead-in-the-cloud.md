@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Getting ahead in the Cloud"
 permalink: "/media/technews/getting-ahead-in-the-cloud"
 category: technews

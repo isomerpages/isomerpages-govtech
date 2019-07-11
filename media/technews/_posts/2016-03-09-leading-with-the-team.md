@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Leading with the Team"
 permalink: "/media/technews/leading-with-the-team"
 category: technews

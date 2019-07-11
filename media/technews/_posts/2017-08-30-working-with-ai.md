@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Working with AI"
 permalink: "/media/technews/working-with-ai"
 category: technews

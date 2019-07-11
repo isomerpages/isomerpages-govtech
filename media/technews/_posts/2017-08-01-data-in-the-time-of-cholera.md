@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Data in the time of Cholera"
 permalink: "/media/technews/data-in-the-time-of-cholera"
 category: technews

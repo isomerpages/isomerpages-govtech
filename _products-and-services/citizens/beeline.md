@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Beeline
 permalink: /products-and-services/beeline/
-breadcrumb: Beeline
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/beeline-thumbnail.png
 ---

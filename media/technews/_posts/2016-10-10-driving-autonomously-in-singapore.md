@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Driving autonomously in Singapore"
 permalink: "/media/technews/driving-autonomously-in-singapore"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Pulse of the Smart Nation"
 permalink: "/media/technews/pulse-of-the-smart-nation"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IDA Appoints New Government Chief Information Officer / Assistant Chief Executive (Government Chief Information Office)"
 permalink: /media/media-releases/ida-appoints-new-government-chief-information-officer
 date: 2014-01-21

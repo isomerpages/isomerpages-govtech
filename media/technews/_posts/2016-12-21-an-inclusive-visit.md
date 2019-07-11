@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "An Inclusive Visit"
 permalink: "/media/technews/an-inclusive-visit"
 category: technews

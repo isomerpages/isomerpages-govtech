@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Securing the digitised world"
 permalink: "/media/technews/securing-the-digitised-world"
 category: technews

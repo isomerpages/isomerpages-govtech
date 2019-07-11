@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Asia and Artificial Intelligence"
 permalink: "/media/technews/asia-and-artificial-intelligence"
 category: technews

@@ -1,9 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Our Digital Government Rankings
 permalink: /who-we-are/our-digital-government-rankings/
-breadcrumb: Our Awards
-collection_name: who-we-are
 ---
 
 

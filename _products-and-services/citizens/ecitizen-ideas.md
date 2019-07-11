@@ -1,9 +1,6 @@
 ---
-layout: simple-page
 title: Ideas! crowdsourcing portal
 permalink: /products-and-services/ecitizen-ideas/
-breadcrumb: Ideas! crowdsourcing portal
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/idea's-portal.jpg
       

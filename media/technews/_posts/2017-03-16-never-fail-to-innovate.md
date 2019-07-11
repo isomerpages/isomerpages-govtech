@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Never Fail to Innovate"
 permalink: "/media/technews/never-fail-to-innovate"
 category: technews

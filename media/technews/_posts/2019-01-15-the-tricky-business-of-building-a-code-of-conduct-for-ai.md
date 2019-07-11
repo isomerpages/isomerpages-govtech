@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The tricky business of building a code of conduct for AI"
 permalink: "/media/technews/the-tricky-business-of-building-a-code-of-conduct-for-ai"
 category: technews

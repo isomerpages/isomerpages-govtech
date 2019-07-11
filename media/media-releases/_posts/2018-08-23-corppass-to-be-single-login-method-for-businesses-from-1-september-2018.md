@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "CorpPass to be single login method for businesses from 1 September 2018"
 permalink: /media/media-releases/corppass-to-be-single-login-method
 date: 2018-08-23

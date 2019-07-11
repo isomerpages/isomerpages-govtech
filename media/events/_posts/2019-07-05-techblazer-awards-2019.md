@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "SG:D Techblazer Awards 2019"
 permalink: "/media/events/sg-digital-techblazer-awards-2019"
 category: events

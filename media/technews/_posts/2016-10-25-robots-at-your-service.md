@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Robots at your service"
 permalink: "/media/technews/robots-at-your-service"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Women of GovTech ‘predict’ 2018 tech trends"
 permalink: "/media/technews/women-of-govtech-predict-2018-tech-trends"
 category: technews

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GovTech hits the ground running"
 permalink: "/media/technews/govtech-hits-the-ground-running"
 category: technews

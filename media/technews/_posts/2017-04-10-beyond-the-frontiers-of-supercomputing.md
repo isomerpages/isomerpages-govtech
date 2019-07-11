@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Beyond the frontiers of Supercomputing"
 permalink: "/media/technews/beyond-the-frontiers-of-supercomputing"
 category: technews

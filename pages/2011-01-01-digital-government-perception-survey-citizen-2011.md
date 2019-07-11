@@ -1,8 +1,6 @@
 ---
-layout: simple-page
 title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2011"
 permalink: "/digital-government-perception-survey-citizen-2011"
-breadcrumb: 2011 Annual Digital Government Perception Survey (Citizen)
 ---
 
 ### **Background**

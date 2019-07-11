@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Past Infocomm Plans"
 date:   2015-01-01
 permalink: "/media/corporate-publications/past-infocomm-plans"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IoT Security: The next battleground"
 permalink: "/media/technews/iot-security-the-next-battleground"
 category: technews

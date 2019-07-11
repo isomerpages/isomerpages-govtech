@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Singapore's fast and furious Supercomputer"
 permalink: "/media/technews/singapore-fast-and-furious-supercomputer"
 category: technews

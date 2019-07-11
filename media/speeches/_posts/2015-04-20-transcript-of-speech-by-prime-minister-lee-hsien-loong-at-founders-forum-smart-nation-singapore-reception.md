@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Transcript of Speech by Prime Minister Lee Hsien Loong at Founders Forum Smart Nation Singapore Reception"
 permalink: "/media/speeches/transcript-of-speech-by-prime-minister-lee-hsien-loong-at-founders-forum-smart-nation-singapore-reception"
 category: speeches

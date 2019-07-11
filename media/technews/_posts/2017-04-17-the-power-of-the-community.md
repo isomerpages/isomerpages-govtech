@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The power of the community"
 permalink: "/media/technews/the-power-of-the-community"
 category: technews

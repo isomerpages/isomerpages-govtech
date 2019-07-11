@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Big Data reveals all"
 permalink: "/media/technews/big-data-reveals-all"
 category: technews

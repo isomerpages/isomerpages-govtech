@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smart Nation and Digital Government Group appoints new Chief Executive of Government Technology Agency"
 permalink: /media/smart-nation-and-digital-government-group-appoints-new-chief-executive-of-government-technology-agency
 date: 2018-04-09

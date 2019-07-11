@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Behind-the-scenes look at GovTech’s Red Team cyberattack"
 permalink: "/media/technews/behind-the-scenes-look-at-govtech’s-red-team-cyberattack"
 category: technews

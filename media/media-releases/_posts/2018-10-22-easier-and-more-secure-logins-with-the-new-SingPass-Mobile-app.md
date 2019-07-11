@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Easier and more Secure Logins with the New SingPass Mobile App"
 permalink: /media/media-releases/easier-and-more-secure-logins-with-the-new-singpass-mobile-app
 date: 2018-10-22

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Build Your Own Personal Voice Assistant Part 1"
 permalink: "/media/technews/build-your-own-personal-voice-assistant-part1"
 category: technews

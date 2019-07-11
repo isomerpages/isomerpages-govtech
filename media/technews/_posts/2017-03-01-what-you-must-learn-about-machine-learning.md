@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What you must learn about Machine Learning"
 permalink: "/media/technews/what-you-must-learn-about-machine-learning"
 category: technews
