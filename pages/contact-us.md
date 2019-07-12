@@ -34,7 +34,7 @@ contacts:
     - email: qsm@tech.gov.sg
   - title: Whistleblowing Line
     content:
-    - other: <a href="tel:18009447853">1800-WHISTLE (1800 944 7853)</a>
+    - other: <a href="tel:18009447853"><u>1800-WHISTLE (1800 944 7853)</u></a>
     - email: whistleblow@tech.gov.sg
     - other: <a href="/whistleblowing-line/"> View details</a>
   - title: Fax

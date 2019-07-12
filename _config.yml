@@ -1,31 +1,7 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Government Technology Agency
-baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "https://www.tech.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Build settings
-remote_theme: isomerpages/isomerpages-template@next-gen
-safe: false
 
 collections:
   careers:
@@ -37,25 +13,33 @@ collections:
 
 # Resource Room and Pagination
 resources_name: "media"
-paginate: 12
-
-# Custom CSS file path
-custom_css_path: "/do-not-touch/theme-colors/custom.css"
-custom_print_css_path: "/assets/css/print.css"
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
 
+google_analytics: UA-82296306-1
+favicon: /images/favicon-govtech.ico
+
+##################################################################################################################
+# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
+##################################################################################################################
+permalink: none
+baseurl: "" # the subpath of your site, e.g. /blog
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 include: [_redirects]
-
 defaults:
   - scope:
       path: ""
     values:
       layout: "page"
-
-google_analytics: UA-82296306-1
-favicon: /images/favicon-govtech.ico
-
-github_username: jekyll
+# Custom CSS file path
+custom_css_path: "/do-not-touch/theme-colors/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap

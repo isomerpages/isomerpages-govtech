@@ -1,5 +1,7 @@
 feedback: https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e
-#contact_us: /contact-us/
+contact_us: /contact-us/
+#faq: /faq/
+
 social_media:
   facebook: https://www.facebook.com/GovTechSG
   twitter: https://www.twitter.com/GovTechSG
