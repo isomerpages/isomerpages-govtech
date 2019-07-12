@@ -45,4 +45,4 @@ Once all of the relevant parties are on board, the next challenge would be to ge
 
 “Frequently, misunderstandings come from the fact that both sides have different ways of expressing themselves; a yes does not always mean yes in some cases,” she shared, adding that it takes open dialogue between all parties right from the beginning to align expectations and bridge any gaps in communication. 
 
-“One of the things that we also do [at Cisco] is to make sure that we have colleagues who come from the public sector. They know much more than we do in terms of how to better work with governments,” said Mr Tan, who also emphasised the importance of mutual understanding for a fruitful PPP. 
+“One of the things that we also do [at Cisco] is to make sure that we have colleagues who come from the public sector. They know much more than we do in terms of how to better work with governments,” said Mr Tan, who also emphasised the importance of mutual understanding for a fruitful partnership. 
