@@ -23,13 +23,13 @@ At the fourth Digital Government Exchange organised by the Government Technology
 
 Contrary to popular sentiment, AI is not a homogenous technology, nor is it a magic bullet for all problems. Rather, AI is an umbrella term encompassing innovations in the fields of natural language processing, machine translation, image and graph analytics, visualisation and much more, Dr Enzell noted. Hence, matching the appropriate technological capability with the right use case is critical. 
 
-For instance, Sweden, being a welfare state, processes vast volumes of social insurance transactions. “[The Swedish Social Insurance Agency] handles about 250 million payments and makes about 20 million decisions [on claims] each year,” said Dr Enzell. The agency has since adopted what it calls a ‘cognitive framework’—leveraging speech-to-text, image recognition and emotional analysis technologies, among others—to streamline these processes while preserving trust between citizens and the Swedish government, he added. 
+For instance, Sweden, being a welfare state, processes vast volumes of social insurance transactions. The agency has since adopted what it calls a ‘cognitive framework’—leveraging speech-to-text, image recognition and emotional analysis technologies, among others—to streamline these processes. 
 
 Offering alternative use cases from China was Mr Lu, who noted how AI and sensors had great potential to transform municipal services, such as waste disposal. Unlike in the past, where the removal of rubbish in trash bins was carried out at fixed intervals, sensors can now send an alert to the relevant agency when a trash bin is nearing maximum capacity. At the same time, AI is applied to analyse data on disposal patterns for predictive waste clearance. “By doing this, we can better manage the hygiene level of an area,” said Mr Lu, adding that a similar approach can be taken with predictive maintenance of elevators.
 
 ### **Deciding with data**
 
-Both panellists agreed that the foundation for developing practical AI applications lies in the ability to collect and integrate data. Dr Enzell called data “the strategic national resource of our time” and highlighted the need for standards for data classification, and rules or guidelines surrounding data security. “If you don't get the data right, you won't get the decision right,” he quipped.
+Both panellists agreed that the foundation for developing practical AI applications lies in the ability to collect and integrate data. Dr Enzell highlighted the need for standards for data classification, and rules or guidelines surrounding data security. 
 
 Visualisation of data, once it has been analysed by AI, is just as important, said Mr Lu. He showed how the command centre of Jing’an district in Shanghai, China, has an integrated interface which displays event assessment and analysis reports as well as real-time information about the goings-on in the city. Importantly, this information can be overlaid onto an accurate geospatial map, giving authorities a bird’s-eye view for city management while allowing them to zoom in on specific details as and when it is necessary.
 
