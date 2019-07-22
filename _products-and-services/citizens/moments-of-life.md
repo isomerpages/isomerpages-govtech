@@ -8,7 +8,7 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
-![MOL app screen grab](/images/technews/MOL webpage.PNG)
+![MOL app screen grab](/images/mol-webpage.PNG)
 
 The Moments of Life app is a Smart Nation initiative that supports families with children aged 6 and below by bundling useful services and information on a single digital platform. It is a one-stop, convenient option to access relevant services and information, including:
 
