@@ -67,6 +67,3 @@
     url: /media/blogs/listing 
 - title: Contact Us
   url: /contact-us/
-  sub-links:
-  - title: Report Vulnerability
-    url: /sg-vdp/
