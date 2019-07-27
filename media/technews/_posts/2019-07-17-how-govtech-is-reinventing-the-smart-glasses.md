@@ -20,7 +20,7 @@ But fast forward to 2019, and Google Glass is nowhere to be seen. Mr Ng Yong Kia
 Does that sound the death knell for smart glasses technology? Far from it. At GovTech, Mr Ng and his team have evaluated numerous ways to use smart glasses, essentially finding specific niches for the futuristic eyewear. 
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8M7Qrr6yLqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8M7Qrr6yLqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### **Show, don’t tell**
