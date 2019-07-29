@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services-part1.png"
 ---
 
-![MOL at PST](/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services-part1.png)
+![MOL at PST](/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services.part1.png)
 
 At the Public Service Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services.
 ---
