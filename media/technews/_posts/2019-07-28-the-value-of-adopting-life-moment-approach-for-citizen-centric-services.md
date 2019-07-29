@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The benefits of adopting a life-moment approach for citizen centric services"
-permalink: "/media/technews/post/the-value-of-adopting-life-moment-approach-for-citizen-centric-services
+title: "The value of adopting a life-moment approach for citizen-centric services"
+permalink: "/media/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services"
 category: technews
 image: "/images/technews/how-govtech-is-reinventing-the-smart-glasses-part1.png"
 ---
