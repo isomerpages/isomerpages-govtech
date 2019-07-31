@@ -35,11 +35,7 @@ Changi Airport Group is also exploring the use of smart glasses for managing the
 
 ### **Finding the right fit**
 
-The applications discussed thus far mainly rely on the video conferencing function of smart glasses. Seeking to take things to the next level, Mr Ng’s team has developed custom video analytics software for smart glasses.
-
-For instance, his team and the Sensors and Internet of Things team at GovTech are running a trial with LTA that involves using smart glasses to identify personal mobility devices (PMDs). “What we’re trying to do is pick out PMDs in a crowded scene of joggers, cyclists and so on. You can have sensors that measure the speed of a moving object, but you still need video analytics to find out whether that object is a PMD or something else,” Mr Ng explained.
-
-To do so, his team performs data collection, data cleansing, data annotation and training of deep learning models for PMD detection. 
+The applications discussed thus far mainly rely on the video conferencing function of smart glasses. Seeking to take things to the next level, Mr Ng’s team is developing custom video analytics software for smart glasses.
 
 Mr Ng emphasised that when developing software for smart glasses, the important thing is to avoid vendor lock-in, which means that the software must be compatible with a variety of off-the-shelf smart glasses. Hence, the application programming interfaces and software development kits used should be modular and interchangeable.
 
