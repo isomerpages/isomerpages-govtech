@@ -28,7 +28,7 @@ sections:
         title: Products and Services
         subtitle: Co-creating for better value
         description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-        link: More Products and Services
+        button: More Products and Services
         url: /products-and-services/?utm_source=programmes_homepage
     - carousel:
         items:
