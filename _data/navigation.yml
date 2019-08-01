@@ -67,3 +67,5 @@
     url: /media/blogs/listing 
 - title: Contact Us
   url: /contact-us/
+    - title: Vulnerability Disclosure Programme
+    url: /report_vulnerability
