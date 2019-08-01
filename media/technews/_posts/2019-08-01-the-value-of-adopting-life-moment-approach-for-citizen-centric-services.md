@@ -8,7 +8,7 @@ image: "/images/technews/service-blueprinting-part1"
 
 ![Service blueprinting at PST](/images/technews/service-blueprinting-part1.png)
 
-At the Public Service Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services.
+A service blueprint is a systematic methodology to improve the way services are built and delivered. Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019.
 ---
 A service blueprint is a systematic methodology to improve the way services are built and delivered. Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019.
  
