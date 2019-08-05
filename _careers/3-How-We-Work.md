@@ -16,6 +16,10 @@ We challenge ourselves to innovate and change things that are not meeting our go
 **Learning & Growth**<br>
 Opportunities for learning and growth are enormous. You are surrounded by a multidisciplinary group of experts across application development, business, design, data analytics, hardware engineering, where you can share and learn from each other. Take charge of your growth, and allocate time to attend courses, meetups, and conferences. Not enough? Embark on a technical mentorship to get guidance from technical experts locally and internationally.
 
+**Staying Connected with the Tech Industry**
+
+Keen for a learning stint in the private sector, you can take a six-month learning stint with tech companies under our Digital Technology Attachment Programme. You can also hop on our Digital Technical Mentorship Programme and be matched with local or overseas technical mentors. These programmes are critical in building our technical capabilities to deliver our mandate of driving public digital transformation. 
+
 ![How we work, learn and grow](/images/careers/GovTech_Hive_staff.jpg)
 
 **Inspiring Environment**<br>
