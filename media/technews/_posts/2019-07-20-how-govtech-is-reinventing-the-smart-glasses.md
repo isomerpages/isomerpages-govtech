@@ -17,7 +17,7 @@ Fast forward to 2019, smart glasses have still not quite taken off in the mass c
 
 Does that sound the death knell for smart glasses technology? Far from it. At GovTech’s Video Analytics (VA) team, Mr Ng and his colleagues have evaluated numerous ways to use smart glasses, essentially finding specific niches for the futuristic eyewear. 
 
-##**Show, don't tell**
+### **Show, don't tell**
 
 GovTech’s VA team has been piloting projects with smart glasses, featuring two major functionalities: remote assistance and facial recognition. While both can be done using conventional cameras, smart glasses are more ergonomic, allowing hands-free operation while being connected to a secured network via a smartphone. 
 
@@ -27,7 +27,7 @@ Mr Ng cited the example of an engineer performing maintenance work which require
 
 In workflows that require overview, supervision and audit of processes, rather than have static mounted cameras, smart glasses could also allow supervisors or auditors to have a broader, more dynamic view for situational awareness, as well as video recordings for auditing needs, said Mr Ng. 
 
-##**Finding the right fit**
+### **Finding the right fit**
 
 The applications discussed thus far mainly rely on the remote assistance function of smart glasses. Seeking to take things to the next level, Mr Ng’s team has developed custom video analytics software for smart glasses.
 
