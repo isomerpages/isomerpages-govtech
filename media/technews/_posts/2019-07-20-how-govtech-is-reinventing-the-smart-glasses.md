@@ -3,10 +3,10 @@ layout: post
 title: "How GovTech is reinventing the smart glasses"
 permalink: "/media/technews/how-govtech-is-reinventing-the-smart-glasses"
 category: technews
-image: "/images/technews/service-blueprinting-part1"
+image: "/images/technews/how-govtech-is-reinventing-the-smart-glasses-part1.png"
 ---
 
-![Service blueprinting at PST](/images/technews/service-blueprinting-part1.png)
+![GovTech smart glasses](/images/technews/how-govtech-is-reinventing-the-smart-glasses-part1.png)
 
 Google’s smart glasses never really took off despite strong initial interest from the public. GovTech’s Mr Ng Yong Kiat shares why he thinks smart glasses technology deserves a second shot. 
 ---
@@ -38,3 +38,5 @@ To do so, his team performs data collection, data cleansing, data annotation and
 Noting strong interest from government agencies in adopting smart glasses technology, Mr Ng believes that this is the right approach to thinking about disruptive innovation—start with the problem statements, select the appropriate invention, then customise it to your use. 
 
 “We are definitely not early adopters of smart glasses, but we’ve taken the time to think about the appropriate contexts in which to deploy the technology,” he concluded.
+
+![GovTech smart glasses](/images/technews/how-govtech-is-reinventing-the-smart-glasses-part2.png)
