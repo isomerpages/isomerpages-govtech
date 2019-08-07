@@ -1,7 +1,6 @@
 ---
 title:  "In a tech-driven economy, SMEs need to get comfy with intellectual property"
 permalink: "/media/technews/in-a-tech-driven-economy-smes-need-to-get-comfy-with-intellectual-property"
-category: technews
 image: "/images/technews/in-a-tech-driven-economy-smes-need-to-get-comfy-with-intellectual-property-part-1.png"
 ---
 

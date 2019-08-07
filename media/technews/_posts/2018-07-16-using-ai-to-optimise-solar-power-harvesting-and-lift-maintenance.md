@@ -1,7 +1,6 @@
 ---
 title:  "Using AI to optimise solar power harvesting and lift maintenance"
 permalink: "/media/technews/using-ai-to-optimise-solar-power-harvesting-and-lift-maintenance"
-category: technews
 image: 
 ---
 

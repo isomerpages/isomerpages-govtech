@@ -1,7 +1,6 @@
 ---
 title:  "Robots at your service"
 permalink: "/media/technews/robots-at-your-service"
-category: technews
 image: "/images/technews/robots-at-your-service-part-1.png"
 ---
 

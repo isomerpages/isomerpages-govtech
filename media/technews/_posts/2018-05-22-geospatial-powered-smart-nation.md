@@ -1,7 +1,6 @@
 ---
 title:  "Geospatial-Powered Smart Nation"
 permalink: "/media/technews/geospatial-powered-smart-nation"
-category: technews
 image: "/images/technews/geospatial-powered-smart-nation-part-1.png"
 ---
 

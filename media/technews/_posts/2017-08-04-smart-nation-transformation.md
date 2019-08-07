@@ -1,7 +1,6 @@
 ---
 title:  "Smart Nation Transformation!"
 permalink: "/media/technews/smart-nation-transformation"
-category: technews
 image: "/images/technews/smart-nation-transformation-part-1.png"
 ---
 

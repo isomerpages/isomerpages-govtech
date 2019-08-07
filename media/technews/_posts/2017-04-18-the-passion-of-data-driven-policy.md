@@ -1,7 +1,6 @@
 ---
 title:  "The Passion of Data-driven Policy"
 permalink: "/media/technews/the-passion-of-data-driven-policy"
-category: technews
 image: "/images/technews/the-passion-of-data-driven-policy-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Business Transformers"
 permalink: "/media/technews/business-transformers"
-category: technews
 image: "/images/technews/business-transformers-part-1.png"
 ---
 

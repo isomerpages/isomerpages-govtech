@@ -1,7 +1,6 @@
 ---
 title:  "The Reimagination of Education Competition"
 permalink: "/media/technews/the-reimagination-of-education-competition"
-category: technews
 image: "/images/technews/the-reimagination-of-education-competition-part-1.png"
 ---
 

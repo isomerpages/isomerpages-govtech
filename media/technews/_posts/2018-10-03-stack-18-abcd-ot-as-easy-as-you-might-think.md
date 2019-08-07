@@ -1,7 +1,6 @@
 ---
 title:  "ABCD: not as easy as you might think"
 permalink: "/media/technews/stack-18-abcd-ot-as-easy-as-you-might-think"
-category: technews
 image: "/images/technews/abcd-not-as-easy-as-you-might-think (1).png"
 ---
 TL:DR: ‘ABCD’—artificial intelligence, blockchain, cloud and data—could be considered the alphabet of the future. But amidst the excitement surrounding these technologies, it’s also important to acknowledge that they aren’t a silver bullet. Ultimately, for technology to make an impact, it must be designed and implemented with care, said panellists at GovTech’s STACK 2018 Developer Conference.

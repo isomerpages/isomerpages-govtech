@@ -1,7 +1,6 @@
 ---
 title: "Meet the GovTech team that built the Singapore Police Force’s JARVIS"
 permalink: "/media/technews/meet-the-govtech-team-that-built-the-singapore-police-force-jarvis"
-category: technews
 image: "/images/technews/technews_javis.png"
 ---
 

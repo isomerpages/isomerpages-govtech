@@ -1,7 +1,6 @@
 ---
 title:  "7 cool pieces of technology SCDF is using"
 permalink: "/media/technews/7-cool-pieces-of-technology-scdf-is-using"
-category: technews
 image: "/images/technews/7-cool-pieces-of-technology-scdf-is-using-part-1.png"
 ---
 

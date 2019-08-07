@@ -1,7 +1,6 @@
 ---
 title:  "Hope Technik's Mission-ready Drones"
 permalink: "/media/technews/hope-technik's-mission-ready-drones"
-category: technews
 image: "/images/technews/hope-technik's-mission-ready-drones-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Smart Nation Snippets: News highlights from February 2018"
 permalink: "/media/technews/smart-nation-snippets-news-highlights-from-february-2018"
-category: technews
 image: "/images/technews/smart-nation-snippets-news-highlights-from-february-2018-part-1.png"
 ---
 

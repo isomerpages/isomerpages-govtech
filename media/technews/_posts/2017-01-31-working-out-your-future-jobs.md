@@ -1,7 +1,6 @@
 ---
 title:  "Working out your future jobs"
 permalink: "/media/technews/working-out-your-future-jobs"
-category: technews
 image: "/images/technews/working-out-your-future-jobs-part-1.png"
 ---
 

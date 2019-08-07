@@ -1,7 +1,6 @@
 ---
 title: "How to stop Google from stalking you"
 permalink: "/media/technews/how-to-stop-google-from-stalking-you"
-category: technews
 image: "/images/technews/how-to-stop-google-from-stalking-you-part1.png"
 ---
      

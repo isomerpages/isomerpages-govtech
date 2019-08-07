@@ -1,7 +1,6 @@
 ---
 title:  "Breaking the code of Data Abstraction"
 permalink: "/media/technews/breaking-the-code-of-data-abstraction"
-category: technews
 image: "/images/technews/breaking-the-code-of-data-abstraction-part-1.png"
 ---
 

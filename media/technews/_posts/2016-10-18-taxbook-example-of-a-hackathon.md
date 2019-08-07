@@ -1,7 +1,6 @@
 ---
 title:  "Taxbook Example of a Hackathon"
 permalink: "/media/technews/taxbook-example-of-a-hackathon"
-category: technews
 image: "/images/technews/taxbook-example-of-a-hackathon-part-1.png"
 ---
 

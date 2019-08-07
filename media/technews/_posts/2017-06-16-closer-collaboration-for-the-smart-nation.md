@@ -1,7 +1,6 @@
 ---
 title:  "Closer collaboration for the Smart Nation"
 permalink: "/media/technews/closer-collaboration-for-the-smart-nation"
-category: technews
 image: "/images/technews/closer-collaboration-for-the-smart-nation-part-1.png"
 ---
 

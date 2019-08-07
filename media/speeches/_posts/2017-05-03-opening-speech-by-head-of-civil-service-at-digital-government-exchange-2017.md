@@ -1,7 +1,6 @@
 ---
 title:  "Opening Speech by Head of Civil Service at Digital Government Exchange 2017"
 permalink: "/media/speeches/opening-speech-by-head-of-civil-service"
-category: speeches
 ---
 
 3 May 2017, Wednesday, 9.05am

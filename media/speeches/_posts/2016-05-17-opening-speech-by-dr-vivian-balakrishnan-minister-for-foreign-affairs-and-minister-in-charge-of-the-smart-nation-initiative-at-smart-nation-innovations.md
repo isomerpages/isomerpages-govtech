@@ -1,7 +1,6 @@
 ---
 title:  "Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at Smart Nation Innovations / Innovfest UnBound"
 permalink: "/media/speeches/opening-speech-by-dr-vivian-balakrishnan-minister-for-foreign-affairs-and-minister-in-charge-of-the-smart-nation-initiative-at-smart-nation-innovations"
-category: speeches
 ---
 
 Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at Smart Nation Innovations / Innovfest UnBound at Marina Bay Sands Expo and Convention Centre, 17 May 2016, 10:00am

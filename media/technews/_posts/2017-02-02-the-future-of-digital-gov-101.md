@@ -1,7 +1,6 @@
 ---
 title:  "The Future of Digital Gov 101"
 permalink: "/media/technews/the-future-of-digital-gov-101"
-category: technews
 image: "/images/technews/the-future-of-digital-gov-101-part-1.png"
 ---
 

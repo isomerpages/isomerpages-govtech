@@ -1,7 +1,6 @@
 ---
 title:  "How technology is helping to improve athlete performance"
 permalink: "/media/technews/how-technology-is-helping-to-improve-athlete-performance"
-category: technews
 image: "/images/technews/how-technology-is-helping-to-improve-athlete-performance-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Linking Blockchain tech together"
 permalink: "/media/technews/linking-blockchain-tech-together"
-category: technews
 image: "/images/technews/linking-blockchain-tech-together-part-1.png"
 ---
 

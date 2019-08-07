@@ -1,7 +1,6 @@
 ---
 title:  "The Technological Future of Singapore"
 permalink: "/media/technews/the-technological-future-of-singapore"
-category: technews
 image: "/images/technews/8the-technological-future-of-singapore-part-1.png"
 ---
 

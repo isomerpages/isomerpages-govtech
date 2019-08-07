@@ -1,7 +1,6 @@
 ---
 title: "How to manage risk in fintech"
 permalink: "/media/technews/how-to-manage-risk-in-fintech"
-category: technews
 image: "/images/technews/how-to-manage-risk-in-fintech-part1.png"
 ---
       

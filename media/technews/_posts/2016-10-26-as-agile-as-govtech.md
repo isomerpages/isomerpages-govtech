@@ -1,7 +1,6 @@
 ---
 title:  "As Agile as GovTech"
 permalink: "/media/technews/as-agile-as-govtech"
-category: technews
 image: "/images/technews/as-agile-as-govtech-part-1.png"
 ---
 

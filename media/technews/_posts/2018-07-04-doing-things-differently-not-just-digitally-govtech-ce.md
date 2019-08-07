@@ -1,7 +1,6 @@
 ---
 title:  "“Doing things differently, not just digitally”: GovTech CE"
 permalink: "/media/technews/doing-things-differently-not-just-digitally-govtech-ce"
-category: technews
 image: 
 ---
 

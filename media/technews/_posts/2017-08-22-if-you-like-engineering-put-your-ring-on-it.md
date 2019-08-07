@@ -1,7 +1,6 @@
 ---
 title:  "If you like Engineering, put your ring on it"
 permalink: "/media/technews/if-you-like-engineering-put-your-ring-on-it"
-category: technews
 image: "/images/technews/if-you-like-engineering-put-your-ring-on-it-part-1.png"
 ---
 

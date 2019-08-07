@@ -1,7 +1,6 @@
 ---
 title:  "Growing Innovation Smarts"
 permalink: "/media/technews/growing-innovation-smarts"
-category: technews
 image: "/images/technews/growing-innovation-smarts-part-1.png"
 ---
 

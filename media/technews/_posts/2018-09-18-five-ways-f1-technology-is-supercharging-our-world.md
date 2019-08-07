@@ -1,7 +1,6 @@
 ---
 title:  "Five ways F1 technology is supercharging our world"
 permalink: "/media/technews/five-ways-f1-technology-is-supercharging-our-world"
-category: technews
 image: "/images/technews/five-ways-f1-technology-is-supercharging-our-world-part-1.jpg"
 ---
 

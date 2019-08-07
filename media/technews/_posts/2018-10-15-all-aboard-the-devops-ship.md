@@ -1,7 +1,6 @@
 ---
 title:  "All Aboard the DevOps SHIP"
 permalink: "/media/technews/all-aboard-the-devops-ship"
-category: technews
 image: "/images/technews/All-Aboard-the-DevOps-SHIP.png"
 ---
 

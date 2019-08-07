@@ -1,7 +1,6 @@
 ---
 title:  "Asia and Artificial Intelligence"
 permalink: "/media/technews/asia-and-artificial-intelligence"
-category: technews
 image: "/images/technews/asia-and-artificial-intelligence-part-1.png"
 ---
 

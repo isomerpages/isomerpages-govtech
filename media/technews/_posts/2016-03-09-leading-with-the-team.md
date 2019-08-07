@@ -1,7 +1,6 @@
 ---
 title:  "Leading with the Team"
 permalink: "/media/technews/leading-with-the-team"
-category: technews
 image: "/images/technews/leading-with-the-team-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "An Inclusive Visit"
 permalink: "/media/technews/an-inclusive-visit"
-category: technews
 image: "/images/technews/an-inclusive-visit-part-1.png"
 ---
 

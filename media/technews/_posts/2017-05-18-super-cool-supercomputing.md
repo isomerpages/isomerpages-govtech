@@ -1,7 +1,6 @@
 ---
 title:  "Super Cool Supercomputing"
 permalink: "/media/technews/super-cool-supercomputing"
-category: technews
 image: "/images/technews/super-cool-supercomputing-part-1.png"
 ---
 

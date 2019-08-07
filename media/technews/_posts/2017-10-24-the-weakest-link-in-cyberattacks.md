@@ -1,7 +1,6 @@
 ---
 title:  "The weakest link in cyberattacks"
 permalink: "/media/technews/the-weakest-link-in-cyberattacks"
-category: technews
 image: 
 ---
 

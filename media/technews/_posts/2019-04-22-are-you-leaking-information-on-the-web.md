@@ -1,7 +1,6 @@
 ---
 title: "Are you leaking information on the web? Use these tools to find out"
 permalink: "/media/technews/are-you-leaking-information-on-the-web"
-category: technews
 image: "/images/technews/are-you-leading-information-on-the-web-part1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Code for Youth"
 permalink: "/media/technews/code-for-youth"
-category: technews
 image: "/images/technews/code-for-youth-part-1.png"
 ---
 

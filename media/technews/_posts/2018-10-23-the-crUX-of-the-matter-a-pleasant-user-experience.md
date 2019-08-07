@@ -1,7 +1,6 @@
 ---
 title: "The crUX of the matter—a pleasant user experience"
 permalink: "/media/technews/the-crUX-of-the-matter-a-pleasant-user-experience"
-category: technews
 image: "/images/technews/the-crUX-of-the-matter-a-pleasant-user-experience-part-1.png"
 ---
 

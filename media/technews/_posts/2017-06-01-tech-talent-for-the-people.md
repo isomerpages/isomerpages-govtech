@@ -1,7 +1,6 @@
 ---
 title:  "Tech talent for the people"
 permalink: "/media/technews/tech-talent-for-the-people"
-category: technews
 image: "/images/technews/tech-talent-for-the-people-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Brave New Digital World"
 permalink: "/media/technews/brave-new-digital-world"
-category: technews
 image: "/images/technews/brave-new-digital-world-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "The Language of Deep Learning"
 permalink: "/media/technews/the-language-of-deep-learning"
-category: technews
 image: "/images/technews/the-language-of-deep-learning-part-1.png"
 ---
 

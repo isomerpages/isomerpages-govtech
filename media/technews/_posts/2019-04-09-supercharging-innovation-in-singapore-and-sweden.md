@@ -1,7 +1,6 @@
 ---
 title: "Supercharging innovation in Singapore and Sweden"
 permalink: "/media/technews/supercharging-innovation-in-singapore-and-sweden"
-category: technews
 image: "/images/technews/supercharging-innovation-in-singapore-and-sweden-part1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Healthy Robotics"
 permalink: "/media/technews/healthy-robotics"
-category: technews
 image: "/images/technews/healthy-robotics-part-1.png"
 ---
 

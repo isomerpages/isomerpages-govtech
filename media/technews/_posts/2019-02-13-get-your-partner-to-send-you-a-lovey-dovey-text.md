@@ -1,7 +1,6 @@
 ---
 title: "Tech Hack: How to get your partner to send you a lovey-dovey text this Valentine’s Day"
 permalink: "/media/technews/how-to-get-your-partner-to-send-you-a-lovey-dovey-text"
-category: technews
 image: "/images/technews/technews-v-day-part1.png"
 
 ---

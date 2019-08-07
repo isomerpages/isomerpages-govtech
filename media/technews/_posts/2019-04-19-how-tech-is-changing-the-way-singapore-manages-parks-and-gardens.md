@@ -1,7 +1,6 @@
 ---
 title: "How tech is changing the way Singapore manages parks and gardens"
 permalink: "/media/technews/how-tech-is-changing-the-way-singapore-manages-parks-and-gardens"
-category: technews
 image: "/images/technews/how-tech-is-changing-the-way-singapore-manages-parks-and-gardens-part1.png"
 ---
 

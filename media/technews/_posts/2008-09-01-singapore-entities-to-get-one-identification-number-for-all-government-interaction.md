@@ -1,7 +1,6 @@
 ---
 title:  "Singapore entities to get one identification number for all government interaction"
 permalink: "/media/technews/singapore-entities-to-get-one-identification-number-for-all-government-interaction"
-category: technews
 image: 
 ---
 

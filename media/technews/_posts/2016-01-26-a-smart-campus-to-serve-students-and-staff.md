@@ -1,7 +1,6 @@
 ---
 title:  "A Smart Campus to Serve Students and Staff"
 permalink: "/media/technews/a-smart-campus-to-serve-students-and-staff"
-category: technews
 image: "/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png"
 ---
 

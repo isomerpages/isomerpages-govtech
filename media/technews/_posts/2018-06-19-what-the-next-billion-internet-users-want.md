@@ -1,7 +1,6 @@
 ---
 title:  "What the next billion internet users want"
 permalink: "/media/technews/what-the-next-billion-internet-users-want"
-category: technews
 image: "/images/technews/what-the-next-billion-internet-users-want-part-1.png"
 ---
 

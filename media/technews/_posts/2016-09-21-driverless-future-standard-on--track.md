@@ -1,7 +1,6 @@
 ---
 title:  "Driverless Future Standard on Track"
 permalink: "/media/technews/driverless-future-standard-on--track"
-category: technews
 image: "/images/technews/driverless-future-standard-on--track-part-1.png"
 ---
 

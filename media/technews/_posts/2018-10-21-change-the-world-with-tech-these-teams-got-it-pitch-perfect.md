@@ -1,7 +1,6 @@
 ---
 title:  "Change the world with tech. These teams got it pitch-perfect"
 permalink: "/media/technews/change-the-world-with-tech-these-teams-got-it-pitch-perfect"
-category: technews
 image: "SWSGPart1.png"
 ---
 TL:DR: A virtual reality ‘mind palace’ to help dementia patients and an app that translates sign language into text—these were just two of many great ideas pitched at Startup Weekend Singapore Mega 2018. Teams that leveraged technology for social good won big at the hackathon. TechNews spoke to the winning teams about the solutions they brought to the table. 

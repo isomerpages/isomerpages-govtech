@@ -1,7 +1,6 @@
 ---
 title:  "CorpPass the new Corporate Digital Identity"
 permalink: "/media/technews/corppass-the-new-corporate-digital-identity"
-category: technews
 image: "/images/technews/corppass-the-new-corporate-digital-identity-part-1.png"
 ---
 

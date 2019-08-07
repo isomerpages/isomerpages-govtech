@@ -1,7 +1,6 @@
 ---
 title:  "Re-Entry Permits go electronic"
 permalink: "/media/technews/reentry-permits-go-electronic"
-category: technews
 image: "/images/technews/reentry-permits-go-electronic-part-1.png"
 ---
 

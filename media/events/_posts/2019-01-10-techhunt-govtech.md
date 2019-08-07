@@ -1,7 +1,6 @@
 ---
 title:  "TechHunt @ GovTech (20 February)"
 permalink: "/media/events/techhunt-at-govtech"
-category: events
 ---
 
 

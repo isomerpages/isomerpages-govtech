@@ -1,7 +1,6 @@
 ---
 title:  "Every body loves biometrics"
 permalink: "/media/technews/every-body-loves-biometrics"
-category: technews
 image: "/images/technews/every-body-loves-biometrics-part-1.png"
 ---
 

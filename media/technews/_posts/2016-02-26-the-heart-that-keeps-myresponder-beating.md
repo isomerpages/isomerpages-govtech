@@ -1,7 +1,6 @@
 ---
 title:  "The Heart that keeps myResponder Beating"
 permalink: "/media/technews/the-heart-that-keeps-myresponder-beating"
-category: technews
 image: "/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png"
 ---
 

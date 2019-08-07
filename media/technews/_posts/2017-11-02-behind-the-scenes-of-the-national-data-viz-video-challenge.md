@@ -1,7 +1,6 @@
 ---
 title:  "Behind the scenes of the National Data Viz Video Challenge"
 permalink: "/media/technews/behind-the-scenes-of-the-national-data-viz-video-challenge"
-category: technews
 image: 
 ---
 

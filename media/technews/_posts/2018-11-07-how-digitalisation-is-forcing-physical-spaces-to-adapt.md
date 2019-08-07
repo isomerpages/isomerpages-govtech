@@ -1,7 +1,6 @@
 ---
 title: "How digitalisation is forcing physical spaces to adapt"
 permalink: "/media/technews/How-digitalisation-is-forcing-physical-spaces-to-adapt"
-category: technews
 image: "/images/technews/How-digitalisation-is-forcing-physical-spaces-to-adapt.png"
 ---
 ![Milken Institute Asia Summit 2018 during the ‘Smarter Cities for a Smarter World’ panel discussion](/images/technews/How-digitalisation-is-forcing-physical-spaces-to-adapt.png)

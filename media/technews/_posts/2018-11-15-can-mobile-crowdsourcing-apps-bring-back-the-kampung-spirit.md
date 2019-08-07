@@ -1,7 +1,6 @@
 ---
 title: "Can mobile crowdsourcing apps bring back the kampung spirit?"
 permalink: "/media/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit"
-category: technews
 image: "/images/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit-part1.png"
 ---
 

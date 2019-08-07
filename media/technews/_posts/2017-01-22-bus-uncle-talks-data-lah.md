@@ -1,7 +1,6 @@
 ---
 title:  "Bus Uncle talks Data lah"
 permalink: "/media/technews/bus-uncle-talks-data-lah"
-category: technews
 image: "/images/technews/bus-uncle-talks-data-lah-part-1.png"
 ---
 

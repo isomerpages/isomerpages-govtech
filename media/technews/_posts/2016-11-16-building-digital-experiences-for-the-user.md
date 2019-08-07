@@ -1,7 +1,6 @@
 ---
 title:  "Building Digital Experiences for the user"
 permalink: "/media/technews/building-digital-experiences-for-the-user"
-category: technews
 image: "/images/technews/building-digital-experiences-for-the-user-part-1.png"
 ---
 

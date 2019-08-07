@@ -1,7 +1,6 @@
 ---
 title: "How data science can drive social impact"
 permalink: "/media/technews/how-data-science-can-drive-social-impact"
-category: technews
 image: "/images/technews/how-data-science-can-drive-social-impact-part1.png"
 ---
      

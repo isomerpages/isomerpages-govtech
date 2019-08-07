@@ -1,7 +1,6 @@
 ---
 title:  "STACK 2018 Developer Conference"
 permalink: "/media/events/stack-2018-developer-conference"
-category: events
 ---
 
 ![STACK banner](/images/media/events/1.jpeg)

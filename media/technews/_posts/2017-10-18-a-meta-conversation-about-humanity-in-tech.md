@@ -1,7 +1,6 @@
 ---
 title:  "A meta conversation about humanity in tech"
 permalink: "/media/technews/a-meta-conversation-about-humanity-in-tech"
-category: technews
 image: 
 ---
 

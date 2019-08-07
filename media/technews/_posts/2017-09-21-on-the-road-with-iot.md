@@ -1,7 +1,6 @@
 ---
 title:  "On the road with IoT"
 permalink: "/media/technews/on-the-road-with-iot"
-category: technews
 image: "/images/technews/on-the-road-with-iot-part-1.png"
 ---
 

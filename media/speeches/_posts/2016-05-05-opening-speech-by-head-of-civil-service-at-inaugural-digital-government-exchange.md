@@ -1,7 +1,6 @@
 ---
 title:  "Opening Speech by Head of Civil Service at Inaugural Digital Government Exchange"
 permalink: "/media/speeches/opening-speech-by-head-of-civil-service-at-inaugural-digital-government-exchange"
-category: speeches
 ---
 Opening Speech by Head of Civil Service at Inaugural Digital Government Exchange on 5 May 2016, 9:10 am, at the POD @ National Library Board
 

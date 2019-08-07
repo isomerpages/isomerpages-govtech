@@ -1,7 +1,6 @@
 ---
 title: "How to bridge the gender gap in cybersecurity"
 permalink: "/media/technews/how-to-bridge-the-gender-gap-in-cybersecurity"
-category: technews
 image: "/images/technews/bridging-the-gender-gap-in-cybersecurity-part1.png"
 ---
 

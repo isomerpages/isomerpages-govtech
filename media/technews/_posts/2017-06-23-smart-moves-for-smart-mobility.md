@@ -1,7 +1,6 @@
 ---
 title:  "Smart moves for Smart Mobility"
 permalink: "/media/technews/smart-moves-for-smart-mobility"
-category: technews
 image: "/images/technews/smart-moves-for-smart-mobility-part-1.png"
 ---
 

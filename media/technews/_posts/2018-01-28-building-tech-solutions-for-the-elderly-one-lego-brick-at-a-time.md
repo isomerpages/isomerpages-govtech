@@ -1,7 +1,6 @@
 ---
 title:  "Building tech solutions for the elderly, one Lego brick at a time"
 permalink: "/media/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time"
-category: technews
 image: "/images/technews/building-tech-solutions-for-the-elderly-one-lego-brick-at-a-time-part-1.png"
 ---
 

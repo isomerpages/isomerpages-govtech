@@ -1,7 +1,6 @@
 ---
 title:  "8 insights from Singapore’s Government Chief Information Officer"
 permalink: "/media/technews/8-insights-from-singapore’s-government-chief-information-officer"
-category: technews
 image: "/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-1.png"
 ---
 

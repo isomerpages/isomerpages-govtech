@@ -1,7 +1,6 @@
 ---
 title:  "Better Government by Design"
 permalink: "/media/technews/better-government-by-design"
-category: technews
 image: "/images/technews/better-government-by-design-part-1.png"
 ---
 

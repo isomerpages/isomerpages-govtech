@@ -1,7 +1,6 @@
 ---
 title:  "Getting to know you"
 permalink: "/media/technews/getting-to-know-you"
-category: technews
 image: 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "IP Innovation, Personified"
 permalink: "/media/technews/ip-innovation-personified"
-category: technews
 image: "/images/technews/ip-innovation-personified-part-1.png"
 ---
 

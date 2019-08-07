@@ -1,7 +1,6 @@
 ---
 title:  "SWITCHing on Tech Innovation"
 permalink: "/media/technews/switching-on-tech-innovation"
-category: technews
 image: "/images/technews/switching-on-tech-innovation-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "What We can do about Cyber Security in Singapore"
 permalink: "/media/technews/what-we-can-do-about-cyber-security-in-singapore"
-category: technews
 image: "/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png"
 ---
 

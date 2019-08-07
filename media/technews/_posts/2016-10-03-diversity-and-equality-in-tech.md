@@ -1,7 +1,6 @@
 ---
 title:  "Diversity and Equality in Tech"
 permalink: "/media/technews/diversity-and-equality-in-tech"
-category: technews
 image: "/images/technews/diversity-and-equality-in-tech-part-1.png"
 ---
 

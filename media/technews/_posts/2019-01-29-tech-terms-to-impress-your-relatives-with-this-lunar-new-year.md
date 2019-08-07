@@ -1,7 +1,6 @@
 ---
 title: "8 tech terms to impress your relatives with this lunar new year"
 permalink: "/media/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year"
-category: technews
 image: "/images/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year-part0.png"
 ---
 

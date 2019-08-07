@@ -1,7 +1,6 @@
 ---
 title: "Kondo Mania - Digital decluttering made easy"
 permalink: "/media/technews/digital-decluttering-made-easy"
-category: technews
 image: "/images/technews/kondo-mania-digital-decluttering.jpg"
 ---
      

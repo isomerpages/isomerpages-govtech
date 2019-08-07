@@ -1,7 +1,6 @@
 ---
 title: "Get to know the GovTech team behind Ask Jamie, the government chatbot"
 permalink: "/media/technews/govtech-team-behind-ask-jamie-government-chatbot"
-category: technews
 image: "/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-chatbot.JPG"
 ---
 

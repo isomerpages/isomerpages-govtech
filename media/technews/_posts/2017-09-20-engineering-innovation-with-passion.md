@@ -1,7 +1,6 @@
 ---
 title:  "Engineering innovation with passion"
 permalink: "/media/technews/engineering-innovation-with-passion"
-category: technews
 image: 
 ---
 

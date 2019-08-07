@@ -1,7 +1,6 @@
 ---
 title:  "Speech by Dr Yaacob Ibrahim, Minister for Communications and Information at Nanyang Polytechnic (NYP) School of Information Technology Graduation Ceremony"
 permalink: "/media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-nanyang-polytechnic-school-of-information-technology-graduation-ceremony"
-category: speeches
 ---
 Speech by Dr Yaacob Ibrahim, Minister for Communications and Information at Nanyang Polytechnic (NYP) School of Information Technology Graduation Ceremony on 6 May 2016 (Friday) at 9:15am, at NYP Auditorium
 

@@ -1,7 +1,6 @@
 ---
 title:  "The future beckons through emerging technologies"
 permalink: "/media/technews/the-future-beckons-through-emerging-technologies"
-category: technews
 image: "/images/technews/the-future-beckons-through-emerging-technologies-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Celebrate National Day with this Augmented Reality app"
 permalink: "/media/technews/celebrate-national-day-with-this-augmented-reality-app"
-category: technews
 image: 
 ---
 

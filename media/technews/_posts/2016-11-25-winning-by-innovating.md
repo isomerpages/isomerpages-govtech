@@ -1,7 +1,6 @@
 ---
 title:  "Winning by Innovating"
 permalink: "/media/technews/winning-by-innovating"
-category: technews
 image: "/images/technews/winning-by-innovating-part-1.png"
 ---
 

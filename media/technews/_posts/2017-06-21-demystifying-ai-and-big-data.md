@@ -1,7 +1,6 @@
 ---
 title:  "Demystifying AI and Big Data"
 permalink: "/media/technews/demystifying-ai-and-big-data"
-category: technews
 image: "/images/technews/demystifying-ai-and-big-data-part-1.png"
 ---
 

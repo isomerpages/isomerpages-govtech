@@ -1,7 +1,6 @@
 ---
 title:  "SG:D Techblazer Awards 2019"
 permalink: "/media/events/sg-digital-techblazer-awards-2019"
-category: events
 ---
 
 ![Techblazer Awards 2019](/images/media/events/SG-Techblazer-webpage_1500X500.jpg)

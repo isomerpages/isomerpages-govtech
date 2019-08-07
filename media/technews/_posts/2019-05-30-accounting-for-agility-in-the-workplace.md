@@ -1,7 +1,6 @@
 ---
 title: "Accounting for agility in the workplace"
 permalink: "/media/technews/accounting-for-agility-in-the-workplace"
-category: technews
 image: "/images/technews/ACCA-Agile-Conference-Smart-Nation-GovTech.jpg"
 ---
 

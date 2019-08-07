@@ -1,7 +1,6 @@
 ---
 title:  "Enthusiasm for Technological Innovation a Must for SMEs"
 permalink: "/media/technews/enthusiasm-for-technological-Innovation-a-must-for-smes"
-category: technews
 image: "/images/technews/enthusiasm-for-technological-Innovation-a-must-for-smes-part-1.png"
 ---
 

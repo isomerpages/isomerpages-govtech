@@ -1,7 +1,6 @@
 ---
 title: "A behind-the-scenes look at the Parents Gateway app"
 permalink: "/media/technews/behind-the-scenes-look-at-the-parents-gateway-app"
-category: technews
 image: "/images/technews/behind-the-scenes-look-at-the-parents-gateway-part1.jpg"
 ---
 

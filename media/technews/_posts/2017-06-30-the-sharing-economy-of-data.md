@@ -1,7 +1,6 @@
 ---
 title:  "The sharing economy of Data"
 permalink: "/media/technews/the-sharing-economy-of-data"
-category: technews
 image: "/images/technews/the-sharing-economy-of-data-part-1.png"
 ---
 

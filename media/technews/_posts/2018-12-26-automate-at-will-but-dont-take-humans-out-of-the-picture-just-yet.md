@@ -1,7 +1,6 @@
 ---
 title: "Automate at will, but don’t take humans out of the picture just yet"
 permalink: "/media/technews/automate-at-will-but-dont-take-humans-out-of-the-picture-just-yet"
-category: technews
 image: "/images/technews/automate-at-will-but-don-take-humans-out-of-the-picture-just-yet-part1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Winning with Robots"
 permalink: "/media/technews/winning-with-robots"
-category: technews
 image: 
 ---
 

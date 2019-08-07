@@ -1,7 +1,6 @@
 ---
 title:  "Soulful Robots"
 permalink: "/media/technews/soulful-robots"
-category: technews
 image: "/images/technews/soulful-robots-part-1.png"
 ---
 

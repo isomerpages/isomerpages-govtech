@@ -1,7 +1,6 @@
 ---
 title:  "The driving force of IT Talent"
 permalink: "/media/technews/the-driving-force-of-it-talent"
-category: technews
 image: "/images/technews/the-driving-force-of-it-talent-part-1.png"
 ---
 

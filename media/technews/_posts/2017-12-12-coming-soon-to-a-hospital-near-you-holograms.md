@@ -1,7 +1,6 @@
 ---
 title:  "Coming soon to a hospital near you: Holograms"
 permalink: "/media/technews/coming-soon-to-a-hospital-near-you-holograms"
-category: technews
 image: 
 ---
 

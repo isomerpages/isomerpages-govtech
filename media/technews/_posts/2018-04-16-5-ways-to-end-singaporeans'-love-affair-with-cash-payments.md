@@ -1,7 +1,6 @@
 ---
 title:  "5 ways to end Singaporeans’ love affair with cash payments"
 permalink: "/media/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments"
-category: technews
 image: "/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png"
 ---
 

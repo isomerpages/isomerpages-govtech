@@ -1,7 +1,6 @@
 ---
 title: "Five things busy parents should know about the Parents Gateway app"
 permalink: "/media/technews/five-things-busy-parents-should-know-about-the-parents-gateway-app"
-category: technews
 image: "/images/technews/5-things-about-parents-gateway-part1.png"
 ---
 

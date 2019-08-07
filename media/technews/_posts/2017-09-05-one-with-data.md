@@ -1,7 +1,6 @@
 ---
 title:  "One with Data"
 permalink: "/media/technews/one-with-data"
-category: technews
 image: 
 ---
 

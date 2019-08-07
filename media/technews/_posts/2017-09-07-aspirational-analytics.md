@@ -1,7 +1,6 @@
 ---
 title:  "Aspirational Analytics"
 permalink: "/media/technews/aspirational-analytics"
-category: technews
 image: "/images/technews/aspirational-analytics-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "National Trade Platform grabs Smart City Award"
 permalink: "/media/technews/national-trade-platform-grabs-smart-city-award"
-category: technews
 image: "/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png"
 ---
 

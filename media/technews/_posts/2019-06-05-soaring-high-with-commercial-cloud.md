@@ -1,7 +1,6 @@
 ---
 title: "Soaring high with commercial cloud"
 permalink: "/media/technews/soaring-high-with-commercial-cloud"
-category: technews
 image: "/images/technews/ACCA-Agile-Conference-Smart-Nation-GovTech.jpg"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "AI for enterprises and other breakthroughs"
 permalink: "/media/technews/ai-for-enterprises-and-other-breakthroughs"
-category: technews
 image: "/images/technews/ai-for-enterprises-and-other-breakthroughs-part-1.png"
 ---
 

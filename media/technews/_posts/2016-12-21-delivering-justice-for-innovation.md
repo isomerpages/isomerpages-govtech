@@ -1,7 +1,6 @@
 ---
 title:  "Delivering Justice for Innovation"
 permalink: "/media/technews/delivering-justice-for-innovation"
-category: technews
 image: "/images/technews/delivering-justice-for-innovation-part-1.png"
 ---
 

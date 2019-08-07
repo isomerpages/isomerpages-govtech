@@ -1,7 +1,6 @@
 ---
 title:  "GovTech hits the ground running"
 permalink: "/media/technews/govtech-hits-the-ground-running"
-category: technews
 image: "/images/technews/8govtech-hits-the-ground-running-part-1.png"
 ---
 

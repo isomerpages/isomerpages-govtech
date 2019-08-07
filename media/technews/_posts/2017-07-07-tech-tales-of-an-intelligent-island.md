@@ -1,7 +1,6 @@
 ---
 title:  "Tech tales of an intelligent island"
 permalink: "/media/technews/tech-tales-of-an-intelligent-island"
-category: technews
 image: "/images/technews/tech-tales-of-an-intelligent-island-part-1.png"
 ---
 

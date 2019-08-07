@@ -1,7 +1,6 @@
 ---
 title:  "What's the big deal about (chat)bots?"
 permalink: "/media/technews/what-is-the-big-deal-about-chatbots"
-category: technews
 image: "/images/technews/what-is-the-big-deal-about-chatbots-part-1.png"
 ---
 

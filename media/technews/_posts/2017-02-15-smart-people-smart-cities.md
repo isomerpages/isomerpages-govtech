@@ -1,7 +1,6 @@
 ---
 title:  "Smart People Smart Cities"
 permalink: "/media/technews/smart-people-smart-cities"
-category: technews
 image: "/images/technews/smart-people-smart-cities-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "An inclusive Smart Nation: 5 ways tech can empower persons with special needs"
 permalink: "/media/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs"
-category: technews
 image: "/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-1.png"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "How Artificial Intelligence can improve your health?"
 permalink: "/media/technews/how-artificial-intelligence-can-improve-your-health"
-category: technews
 image: "/images/technews/how-artificial-intelligence-can-improve-your-health-part-1.png"
 ---
 

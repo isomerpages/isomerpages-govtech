@@ -1,7 +1,6 @@
 ---
 title:  "Big Data reveals all"
 permalink: "/media/technews/big-data-reveals-all"
-category: technews
 image: "/images/technews/big-data-reveals-all-part-1.png"
 ---
 

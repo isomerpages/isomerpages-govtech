@@ -1,7 +1,6 @@
 ---
 title:  "Staying employed in an age of technological disruption"
 permalink: "/media/technews/staying-employed-in-an-age-of-technological-disruption"
-category: technews
 image: "/images/technews/staying-employed-in-an-age-of-technological-disruption-part-1.jpg"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title:  "Tech blooms in Parks"
 permalink: "/media/technews/tech-blooms-in-parks"
-category: technews
 image: "/images/technews/tech-blooms-in-parks-part-1.png"
 ---
 

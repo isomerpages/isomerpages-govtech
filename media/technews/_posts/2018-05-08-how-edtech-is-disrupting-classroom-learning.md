@@ -1,7 +1,6 @@
 ---
 title:  "How EdTech is disrupting classroom learning"
 permalink: "/media/technews/how-edtech-is-disrupting-classroom-learning"
-category: technews
 image: "/images/technews/how-edtech-is-disrupting-classroom-learning-part-1.png"
 ---
 

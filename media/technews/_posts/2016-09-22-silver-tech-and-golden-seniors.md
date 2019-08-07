@@ -1,7 +1,6 @@
 ---
 title:  "Silver Tech and Golden Seniors"
 permalink: "/media/technews/silver-tech-and-golden-seniors"
-category: technews
 image: "/images/technews/silver-tech-and-golden-seniors-part-1.png"
 ---
 

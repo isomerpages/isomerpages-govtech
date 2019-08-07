@@ -1,7 +1,6 @@
 ---
 title: "What makes a smart city a success"
 permalink: "/media/technews/what-makes-a-smart-city-a-success"
-category: technews
 image: "/images/technews/What-makes-a-smart-city-a-success-part-1.png"
 ---
 

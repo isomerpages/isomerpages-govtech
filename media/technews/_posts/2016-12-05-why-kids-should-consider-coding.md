@@ -1,7 +1,6 @@
 ---
 title:  "Why kids should consider Coding"
 permalink: "/media/technews/why-kids-should-consider-coding"
-category: technews
 image: "/images/technews/why-kids-should-consider-coding-part-1.jpg"
 ---
 

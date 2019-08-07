@@ -1,7 +1,6 @@
 ---
 title:  "A Buildathon for the Future of Education"
 permalink: "/media/technews/a-buildathon-for-the-future-of-education"
-category: technews
 image: "/images/technews/a-buildathon-for-the-future-of-education-part-1.png"
 ---
 
