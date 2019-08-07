@@ -31,19 +31,21 @@ sections:
         button: More Products and Services
         url: /products-and-services/?utm_source=programmes_homepage
     - carousel:
-        items:
-            - title: Beeline
-              subtitle: CITIZEN
-              description: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters.
-              image: /images/programmes/products-and-services/BeeLine.png
-            - title: ParkingSG
-              subtitle: CITIZEN
-              description: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
-              image: /images/programmes/products-and-services/ParkingSG.png
-            - title: SingPass
-              subtitle: CITIZEN
-              description: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
-              image: /images/programmes/products-and-services/SingPass.png
+        - title: Beeline
+          subtitle: CITIZEN
+          description: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters.
+          image: /images/programmes/products-and-services/BeeLine.png
+          alt: Screenshot of the Beeline app
+        - title: ParkingSG
+          subtitle: CITIZEN
+          description: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
+          image: /images/programmes/products-and-services/ParkingSG.png
+          alt: Screenshot of the ParkingSG app
+        - title: SingPass
+          subtitle: CITIZEN
+          description: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
+          image: /images/programmes/products-and-services/SingPass.png
+          alt: Screenshot of the SingPass login page
     - resources:
         title: "Be in the know"
         subtitle: "MEDIA"

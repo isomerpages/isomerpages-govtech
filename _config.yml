@@ -1,7 +1,5 @@
 title: Government Technology Agency
-description: test test
 url: "https://www.tech.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 collections:
   careers:
@@ -43,6 +41,7 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+description: test test
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
