@@ -189,6 +189,10 @@ organisational-structure:
         link:
       - name: Ministry CISO
         link:
+  - title: Government Incident Reporting & Operation Centre (GIROC)
+    teams:
+      - name: Government Incident Reporting & Operation Centre 
+        link:
   - title: Governance Group
     teams:
       - name: Audit and Compliance 
@@ -198,6 +202,10 @@ organisational-structure:
       - name: Policies and Standards
         link:
       - name: Procurement
+        link:
+  - title: Open Government Products
+    teams:
+      - name: Open Government Products
         link:
   - title: Product Development
     teams:
@@ -254,4 +262,8 @@ organisational-structure:
       - name: Standard Products (SP)
         link: 
       - name: Trade and Industry Cluster
+        link:
+  - title: Technology Management Office
+    teams:
+      - name: Technology Management Office 
         link:
