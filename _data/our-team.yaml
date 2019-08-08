@@ -189,6 +189,10 @@ organisational-structure:
         link:
       - name: Ministry CISO
         link:
+  - title: xx (GIROC)
+    teams:
+      - name: xx 
+        link:
   - title: Governance Group
     teams:
       - name: Audit and Compliance 
