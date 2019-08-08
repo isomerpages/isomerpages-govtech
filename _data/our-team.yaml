@@ -203,6 +203,10 @@ organisational-structure:
         link:
       - name: Procurement
         link:
+  - title: Open Government Products
+    teams:
+      - name: Open Government Products
+        link:
   - title: Product Development
     teams:
       - name: Government Infrastructure Group (GIG)
@@ -258,4 +262,8 @@ organisational-structure:
       - name: Standard Products (SP)
         link: 
       - name: Trade and Industry Cluster
+        link:
+  - title: Technology Management Office
+    teams:
+      - name: Technology Management Office 
         link:
