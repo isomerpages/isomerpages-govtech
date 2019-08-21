@@ -3,10 +3,8 @@ layout: post
 title: "This GovTech team built an eCanvas to help persons with disabilities paint"
 permalink: "/media/technews/this-govtech-team-built-an-ecanvas-to-help-persons-with-disabilities-paint"
 category: technews
-image: "/images/technews/xxx"
+image: "/images/technews/this-govtech-team-built-an-ecanvas-to-help-persons-with-disabilities-paint-part1.png"
 ---
-
-![Service blueprinting at PST](/images/technews/service-blueprinting-part1.png)
 
 By developing a mobile canvas that automatically dispenses paint, engineers at GovTech hope to land a helping hand to persons with disabilities. 
 ---
@@ -20,6 +18,8 @@ With only her mouth, this 19-year-old painter toggles a joystick positioned next
 Despite her limitations, Elaine enjoys painting, and lays an array of colours onto an empty canvas using a paintbrush held in her mouth. At the moment, Elaine receives assistance from volunteers at the Cerebral Palsy Alliance Singapore (CPAS), who help her to move the canvas and dispense paint.
 
 In August 2018, a team led by Dr Ong Lay Teen, a Senior System Engineer at the Government Technology Agency of Singapore (GovTech), visited CPAS to discuss how they could apply new technologies to help those with physical disability. “We were introduced to Elaine and were told that she is a mouth painter,” recalled Dr Ong. “It all began from there when we saw her passion to paint.” 
+
+![Dr Ong Lay Teen](/images/technews/this-govtech-team-built-an-ecanvas-to-help-persons-with-disabilities-paint-part2.png)
 
 ### **A dream come true for mouth painters**
 
