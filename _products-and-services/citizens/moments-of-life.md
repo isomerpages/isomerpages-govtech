@@ -8,11 +8,11 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
-![Moments of Life Unique selling proposition](/images/programmes/products-and-services/MOL-Landing-Page_Main.png)
+![Moments of Life Unique selling proposition](/images/mol-webpage.png)
 
 The Moments of Life app is a Smart Nation initiative that supports families with children aged 6 and below by bundling useful services and information on a single digital platform. It is a one-stop, convenient option to access relevant services and information, including:
 
-![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
+![Moments of Life Product Features](/images/programmes/products-and-services/mol-families-app-features.jpg)
 
 * Registering a child’s birth and applying for Baby Bonus online in a single form;
 
