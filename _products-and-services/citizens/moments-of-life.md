@@ -8,11 +8,11 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
-![MOL app screen grab](/images/mol-webpage.PNG)
+![Moments of Life Unique selling proposition](/images/mol-webpage.PNG)
 
 The Moments of Life app is a Smart Nation initiative that supports families with children aged 6 and below by bundling useful services and information on a single digital platform. It is a one-stop, convenient option to access relevant services and information, including:
 
-![MOL Families features](/images/programmes/products-and-services/mol-families-app-features.jpg)
+![Moments of Life Product Features](/images/programmes/products-and-services/mol-families-app-features.jpg)
 
 * Registering a child’s birth and applying for Baby Bonus online in a single form;
 
@@ -24,4 +24,4 @@ The MOL app also provides parents-to-be and caregivers with up-to-date Governmen
 
 The app is the first step towards delivering integrated services and information that citizens need, when they need it, through a single platform, and was developed based on insights gathered through citizen engagement sessions to identify and better understand parents’ challenges and needs.
 
-Download the app on the [App Store](https://itunes.apple.com/us/app/mol-families/id1383218758?ls=1&mt-8) or [Google Play Store today](https://play.google.com/store/apps/details?id=sg.gov.app.mol)!
+Download the app on the [App Store](https://momentsoflifeapp.page.link/ZH7o) or [Google Play Store today](https://momentsoflifeapp.page.link/ZH7o)!
