@@ -14,14 +14,10 @@ The Moments of Life app is a Smart Nation initiative that places citizens at the
 
 ![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
 
-* Registering a child’s birth and applying for Baby Bonus online in a single form;
+The app is the first step towards delivering integrated services and information that citizens need, when they need it, through a single platform. It was developed based on insights gathered through citizen engagement sessions to identify and better understand users’ challenges and needs. More features will be rolled out on the app progressively. 
 
-* Searching for and indicating interest for suitable preschool facilities through the use of geolocation technology, with accompanying information on school fees and vacancies;
+If you are viewing this on your mobile phone, download the app on the App Store or Google Play Store by clicking [here](https://momentsoflifeapp.page.link/ZH7o). 
 
-* Accessing a child’s upcoming medical appointments and immunisation records.
+If you are viewing this on your desktop browser, scan this QR code to download.
 
-The MOL app also provides parents-to-be and caregivers with up-to-date Government content on applicable schemes and benefits, parenting information and event listings based on their topics of interest.
-
-The app is the first step towards delivering integrated services and information that citizens need, when they need it, through a single platform, and was developed based on insights gathered through citizen engagement sessions to identify and better understand parents’ challenges and needs.
-
-Download the app on the [App Store](https://momentsoflifeapp.page.link/ZH7o) or [Google Play Store today](https://momentsoflifeapp.page.link/ZH7o)!
+![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
