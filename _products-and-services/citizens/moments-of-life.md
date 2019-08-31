@@ -16,7 +16,7 @@ The Moments of Life app is a Smart Nation initiative that places citizens at the
 
 The app is the first step towards delivering integrated services and information that citizens need, when they need it, through a single platform. It was developed based on insights gathered through citizen engagement sessions to identify and better understand users’ challenges and needs. More features will be rolled out on the app progressively. 
 
-If you are viewing this on your mobile phone, download the app on the App Store or Google Play Store by clicking [here](https://momentsoflifeapp.page.link/ZH7o). 
+If you are viewing this on your mobile phone, download the app from the App Store or Google Play Store by clicking [here](https://momentsoflifeapp.page.link/ZH7o). 
 
 If you are viewing this on your desktop browser, scan this QR code to download.
 
