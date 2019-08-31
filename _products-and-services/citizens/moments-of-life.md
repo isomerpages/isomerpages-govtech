@@ -20,4 +20,4 @@ If you are viewing this on your mobile phone, download the app on the App Store 
 
 If you are viewing this on your desktop browser, scan this QR code to download.
 
-![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
+![Moments of Life Product Features](/images/programmes/products-and-services/mol-qrcode.png)
