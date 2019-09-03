@@ -6,6 +6,8 @@ breadcrumb: Students and Graduates
 collection_name: careers
 ---
 
+![GovTech is a top ten IT firm in 2019](/images/careers/GovTech-Top-Ten-IT-Firms-Singapore-Smart-Nation.jpg)
+
 From technology bootcamp, internships and scholarships to job openings, we are here to inspire you to join us in the building of the world’s first Smart Nation.  For aspiring tech leaders, chart your career with our Technology Associate Programme or affectionately known to our people as TAP, an exclusive leadership trainee programme to fast-track your career in GovTech.
 
 ### **GeekOut**
