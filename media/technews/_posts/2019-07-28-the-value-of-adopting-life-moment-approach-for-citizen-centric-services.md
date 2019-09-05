@@ -8,14 +8,14 @@ image: "/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-
 
 ![MOL at PST](/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services.part1.png)
 
-At the Public Service Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services.
+At the Public Sector Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services.
 ---
  
 By now, you’ve probably heard about Industry 4.0, where digitalisation, data and automation are shaking up the way organisations operate. Less talked about is the concept of Services 4.0, which challenges leaders to shift their focus beyond just technical capabilities.  
 
 “Services 4.0 is about being end to end, thinking about the whole customer journey and making it frictionless, smooth and seamless,” explained Ms Jane Lim, assistant chief executive of the Info-communications Media Development Authority (IMDA) at a cross-agency panel discussion titled ‘The Value of Adopting a Life-Moment Approach for Citizen-Centric Services.’
 
-The sharing session was part of the Public Service Transformation Conference held at Our Tampines Hub on 18 July 2019. Joining Ms Lim on the panel was Mr Dominic Chan, director, Moments of Life platform, Government Technology Agency of Singapore (GovTech); Mr Eugene Toh, director, Pro-Enterprise Division at the Ministry of Trade and Industry; and Mr Tan Chia Han, assistant commissioner of police, Singapore Police Force.
+The sharing session was part of the Public Sector Transformation Conference held at Our Tampines Hub on 18 July 2019. Joining Ms Lim on the panel was Mr Dominic Chan, director, Moments of Life platform, Government Technology Agency of Singapore (GovTech); Mr Eugene Toh, director, Pro-Enterprise Division at the Ministry of Trade and Industry; and Mr Tan Chia Han, assistant commissioner of police, Singapore Police Force.
 
 ![MOL at PST](/images/technews/the-value-of-adopting-life-moment-approach-for-citizen-centric-services-part2.png)
 
