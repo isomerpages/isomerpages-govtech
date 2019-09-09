@@ -16,7 +16,7 @@ For most working adults, submitting a medical certificate (MC) is an inevitabili
 Seeking to overcome these pain points, a team from Open Government Products (OGP), a division of the Government Technology Agency of Singapore (GovTech) has built a digital medical certificate system, called [DigiMC](https://www.mc.gov.sg/). Product managers Mr Chong Zi Xin and Ms Annabelle Ng at OGP shared with TechNews some of the key features of DigiMC and explained how the system is being integrated into Singapore’s broader healthcare ecosystem.
 
 ![DigiMC by GovTech](/images/technews/digimc-part2.png)
-*The GovTech team behind DigiMC
+*The GovTech team behind DigiMC*
 
 ### **Healthy ambitions**
 
