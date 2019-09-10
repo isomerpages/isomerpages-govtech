@@ -48,6 +48,6 @@ So far, DigiMC has been piloted at two public health institutions—the Singapor
 
 The OGP team is now focusing on getting a critical user base on board DigiMC. It plans to implement DigiMC across all SingHealth institutions by early 2020. To ensure a smooth transition, DigiMCs will be issued in parallel with hardcopy MCs for a few months before the latter is eventually phased out. This will also allow time for employers to become used to DigiMC and adapt their internal MC submission procedures accordingly.
 
-The team has also prepared various recommendations on how to handle digital MCs in their FAQ for employers. However, patients will still be able to request a paper MC if they require it. 
+The team has also prepared various recommendations on how to handle digital MCs in their FAQs for employers. However, patients will still be able to request a paper MC if they require it. 
 
-In the longer run, the team also explore integrating DigiMC with other government applications such as HealthHub to create a one-stop solution for all medical records and appointments, Mr Chong concluded.
+In the longer run, the team also will explore integrating DigiMC with other government applications such as HealthHub to create a one-stop solution for all medical records and appointments, Mr Chong concluded.
