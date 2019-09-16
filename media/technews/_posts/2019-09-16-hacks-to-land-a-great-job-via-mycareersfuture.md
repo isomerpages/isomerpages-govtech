@@ -29,6 +29,7 @@ Here’s how:
  
  ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part2.png)
  
+ 
  ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part3.png)
  
 The more thorough you are in highlighting your capabilities, the more job opportunities can possibly be made available to you. However, also take note that the skills you add are appropriate to the kinds of jobs you are applying for as the algorithm will sort candidates based on how well they match the job.
@@ -36,12 +37,16 @@ The more thorough you are in highlighting your capabilities, the more job opport
 **2. Create job alerts to get notified of relevant jobs**
  
 Once you’ve created your profile, you’re all set to start job hunting! Simply start by searching for your desired job. Alternatively, you can explore jobs that are popular or in demand. 
+
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part4.png)
  
 Timing matters in a job search, and sometimes your ideal position just isn’t available yet. Fret not—the MyCareersFuture.sg portal allows you to create a job alert based on your search term and filters.
  
 Here’s how:
  - Key in a job title in the search bar.
  - Click on ‘Create Job Alert’.
+ 
+ ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part5.png)
  
 This means that you will be automatically notified if there are new job postings that match your preferences. The database of job postings is refreshed daily, so the moment a good match is found, you can pounce on the opportunity and send in your application.
  
@@ -52,13 +57,21 @@ Maybe you’ve been looking for a job for six months or more. Or perhaps you’r
 Here’s what you need to do:
  - Click on ‘Search jobs with government support’ on the main page.
  
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part6.png)
+ 
 Browse through job postings eligible for government support. For example, if you see ‘Government support for individuals between jobs’ next to the job posting, it means that the government will provide wage subsidies to companies for hiring experienced individuals under the Career Support Programme. 
+
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part7.png)
  
 ### **For employers**
+
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part8.png)
  
 ### **1. Use the ‘Top Matches’ checkbox**
  
 Let’s face it—hiring managers are flooded with job applications every day, not all of which are relevant to the position being advertised. MyCareersFuture.sg can help you cut through the noise with its ‘Top Matches’ function. With just a click of a button, you’ll be able to quickly view the top matches as assessed by the platform’s two job matching partners—WCC and JobKred. For even better results, employers should include in their job postings the skills they expect their prospective hires to have. This helps close the loop with the skills information volunteered by jobseekers while raising the visibility of the job posting. 
+
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part9.png)
  
 ### **2. Rank applicants by suitability**
  
@@ -67,4 +80,6 @@ Instead of sorting candidates based on the date they submitted their application
 ### **3. Discover hidden talents**
  
 Sometimes, experienced and competent individuals may not be actively looking for a career transition, but they remain open to job offers and opportunities. Companies that are looking to hire opportunistically or urgently can view suggested talents who have been assessed to be a good fit based on how closely they matched the job.
+
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part10.png)
 
