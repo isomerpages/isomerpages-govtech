@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/images/technews/mcf-hacks-part1.png"
 ---
 
-![MCF career hacks by GovTech](/images/technews/mcf-hacks-part1.png")
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part1.png)
 
 The MyCareersFuture.sg portal has been upgraded with new features to make job hunting and hiring more efficient. We spoke with our GovTechies who worked on the portal and found insider tips on how to increase the chances of finding that ideal match in a competitive job market.
 --
@@ -26,6 +26,10 @@ Here’s how:
  - Click on the ‘Add Skills’ button
  - Identify skills that you have, and click to add
  - Login with SingPass to save the skills to your profile
+ 
+ ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part2.png)
+ 
+ ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part3.png)
  
 The more thorough you are in highlighting your capabilities, the more job opportunities can possibly be made available to you. However, also take note that the skills you add are appropriate to the kinds of jobs you are applying for as the algorithm will sort candidates based on how well they match the job.
  
