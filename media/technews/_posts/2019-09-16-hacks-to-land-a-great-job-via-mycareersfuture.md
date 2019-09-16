@@ -13,7 +13,7 @@ The [MyCareersFuture.sg portal](https://www.mycareersfuture.sg/) has been upgrad
 
 Everybody wants to land their dream job and build a career in the profession of their choice. To help matchmake citizens with their ideal roles in companies, Workforce Singapore, in collaboration with the Government Technology Agency of Singapore (GovTech), has launched MyCareersFuture.sg —a one-stop portal for job hunting, hiring, career advice and industry insights
 
-We spoke to two GovTechies from the MyCareersFuture.sg team, Barry Lim and Yvonne Chia who worked on the portal and found six insider tips for jobseekers looking to increase their visibility on MyCareersFuture.sg. For employers, read on to find out how you can use the portal to find that elusive but exceptional candidate to fill a position.
+We spoke to two GovTechies from the MyCareersFuture.sg team, Barry Lim and Yvonne Chia who worked on the portal and found insider tips for jobseekers looking to increase their visibility on MyCareersFuture.sg. For employers, read on to find out how you can use the portal to find that elusive but exceptional candidate to fill a position.
 
 ### **For jobseekers**
 
