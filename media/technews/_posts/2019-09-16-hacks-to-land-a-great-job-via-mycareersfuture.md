@@ -3,10 +3,10 @@ layout: post
 title:  "6 hacks to land a great job via MyCareersFuture.sg"
 permalink: "/media/technews/hacks-to-land-a-great-job-via-mycareersfuture"
 category: technews
-image: "/images/technews/digimc-part1.PNG"
+image: "/images/technews/images/technews/mcf-hacks-part1.png"
 ---
 
-![DigiMC by GovTech](/images/technews/digimc-part1.PNG)
+![MCF career hacks by GovTech](/images/technews/mcf-hacks-part1.png")
 
 The MyCareersFuture.sg portal has been upgraded with new features to make job hunting and hiring more efficient. We spoke with our GovTechies who worked on the portal and found insider tips on how to increase the chances of finding that ideal match in a competitive job market.
 --
