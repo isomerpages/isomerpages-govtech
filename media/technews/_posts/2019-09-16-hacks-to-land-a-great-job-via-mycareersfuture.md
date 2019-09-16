@@ -8,7 +8,7 @@ image: "/images/technews/images/technews/mcf-hacks-part1.png"
 
 ![MCF career hacks by GovTech](/images/technews/mcf-hacks-part1.png)
 
-The MyCareersFuture.sg portal has been upgraded with new features to make job hunting and hiring more efficient. We spoke with our GovTechies who worked on the portal and found insider tips on how to increase the chances of finding that ideal match in a competitive job market.
+The [MyCareersFuture.sg portal](https://www.mycareersfuture.sg/) has been upgraded with new features to make job hunting and hiring more efficient. We spoke with our GovTechies who worked on the portal and found insider tips on how to increase the chances of finding that ideal match in a competitive job market.
 --
 
 Everybody wants to land their dream job and build a career in the profession of their choice. To help matchmake citizens with their ideal roles in companies, Workforce Singapore, in collaboration with the Government Technology Agency of Singapore (GovTech), has launched MyCareersFuture.sg —a one-stop portal for job hunting, hiring, career advice and industry insights
@@ -80,6 +80,3 @@ Instead of sorting candidates based on the date they submitted their application
 ### **3. Discover hidden talents**
  
 Sometimes, experienced and competent individuals may not be actively looking for a career transition, but they remain open to job offers and opportunities. Companies that are looking to hire opportunistically or urgently can view suggested talents who have been assessed to be a good fit based on how closely they matched the job.
-
-![MCF career hacks by GovTech](/images/technews/mcf-hacks-part10.png)
-
