@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 tips to help you get started with coding"
-permalink: "/media/technews/5-tips-to-help-you-get-started-with-coding"
+permalink: "/media/technews/tips-to-help-you-get-started-with-coding"
 category: technews
 image: "images/technews/5-tips-to-help-you-get-started with-coding.png"
 ---
