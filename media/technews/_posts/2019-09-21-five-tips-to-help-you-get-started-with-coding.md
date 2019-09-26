@@ -3,7 +3,7 @@ layout: post
 title:  "5 tips to help you get started with coding"
 permalink: "/media/technews/5-tips-to-help-you-get-started-with-coding"
 category: technews
-image: "/images/technews/images/technews/5-tips-to-help-you-get-started with-coding.png"
+image: "images/technews/5-tips-to-help-you-get-started with-coding.png"
 ---
 
 ![GovTech coding tips](/images/technews/5-tips-to-help-you-get-started with-coding.png)
