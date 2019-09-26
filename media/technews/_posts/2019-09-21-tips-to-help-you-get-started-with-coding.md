@@ -37,9 +37,9 @@ Each learning portal typically includes video lectures and follow-up tutorials t
 
 ### **4. Find inspiration**
 
-Learning to code is a long and cumulative process, so some persistence is definitely required. When you feel yourself losing interest or passion, why not check out livecoding websites like this to remind yourself of what you’ll be able to do once you’ve achieved a certain level of mastery? In the process, you’ll also get an idea of the challenges that programmers run into when trying to create an application from scratch—perfect for troubleshooting your own development project once the time comes.
+Learning to code is a long and cumulative process, so some persistence is definitely required. When you feel yourself losing interest or passion, why not check out livecoding websites like [this](https://www.education-ecosystem.com/projects) to remind yourself of what you’ll be able to do once you’ve achieved a certain level of mastery? In the process, you’ll also get an idea of the challenges that programmers run into when trying to create an application from scratch—perfect for troubleshooting your own development project once the time comes.
 
-Also, rather than code in isolation, you can tap into a whole community of enthusiastic fellow developers on the internet for motivation and advice. Stack Overflow is one such platform for peer-to-peer learning, with a vast repository of questions and answers on common and not-so-common issues faced by software engineers. GitHub is another collaborative development space that is even referenced by experienced coders.
+Also, rather than code in isolation, you can tap into a whole community of enthusiastic fellow developers on the internet for motivation and advice. [Stack Overflow](https://stackoverflow.com/) is one such platform for peer-to-peer learning, with a vast repository of questions and answers on common and not-so-common issues faced by software engineers. [GitHub](https://github.com/) is another collaborative development space that is even referenced by experienced coders.
 
 ### **5. Pay attention to code documentation**
 
