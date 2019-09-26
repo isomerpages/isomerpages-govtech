@@ -13,7 +13,7 @@ Interested to build your own website or digital application but don’t know whe
 
 Let’s face it—in this digital age, some of the most useful languages you can learn aren’t meant for human-to-human communication. Rather, a ‘mother tongue’ that allows one to speak to computers: fluency in a programming language (or two), is what separates creators of digital products from the average digital consumer.
 
-From building websites to mobile applications, learning how to code unlocks a world of possibilities, not to mention career opportunities. According to jobs site Glassdoor, the top two highest-paying entry-level jobs are ‘Data Scientist’ and ‘Software Engineer’, with median annual base salaries in the range of US$90,000-95,000. Both are positions in which a background in coding and computer science would be advantageous.
+From building websites to mobile applications, learning how to code unlocks a world of possibilities, not to mention career opportunities. According to jobs site Glassdoor, the [top two highest-paying entry-level](https://www.glassdoor.com/blog/highest-paying-entry-level-jobs-19/) jobs are ‘Data Scientist’ and ‘Software Engineer’, with median annual base salaries in the range of US$90,000-95,000. Both are positions in which a background in coding and computer science would be advantageous.
 
 So whether you’re thinking about pursuing a career in tech, or simply want to learn to code as a hobby, here are some things to think about before you get started, alongside useful resources you can reference to go deeper into the skillset. 
 
@@ -21,13 +21,13 @@ So whether you’re thinking about pursuing a career in tech, or simply want to 
 
 In other words, ask yourself: why do you want to code? What problem would you like to solve that requires coding? Setting these objectives right from the start can help you decide which programming language to pick up.
 
-If your ambition is to create a whole new operating system, perhaps you ought to learn C++. For developing a website, HTML would be an essential starting point. Need help deciding? Check out this infographic on the different types of programming languages and their applications.
+If your ambition is to create a whole new operating system, perhaps you ought to learn C++. For developing a website, HTML would be an essential starting point. Need help deciding? Check out this [infographic](https://lifehacker.com/learn-which-programming-language-to-choose-with-this-in-1669612111) on the different types of programming languages and their applications.
 
 ### **2. Get the right tools**
 
 Once you know which programming language you need, the next question in your mind might be: where do I type in the code? This is where you’ll need to download a code editor or integrated development environment (IDE) software. The difference between the two is that IDEs provide much greater functionality to compile and debug code in addition to just write it. 
 
-Code editors include Atom and Brackets, many of which are free an open-source—excellent if you just want to try your hand at programming. IDEs, on the other hand, usually come with a price tag attached. Once again, knowing ‘what’ you want to develop will help you select the right tool for the job. Click here for a list of some popular IDEs and what they’re suitable for.
+Code editors include [Atom](https://atom.io) and [Brackets](http://brackets.io/), many of which are free an open-source—excellent if you just want to try your hand at programming. IDEs, on the other hand, usually come with a price tag attached. Once again, knowing ‘what’ you want to develop will help you select the right tool for the job. Click here for a list of some popular [IDEs](https://www.keycdn.com/blog/best-ide) and what they’re suitable for.
 
 ### **3. Structure your learning**
 
