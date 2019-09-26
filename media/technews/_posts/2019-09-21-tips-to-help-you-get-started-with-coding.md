@@ -31,7 +31,7 @@ Code editors include [Atom](https://atom.io) and [Brackets](http://brackets.io/)
 
 ### **3. Structure your learning**
 
-While it’s possible to learn to code just by watching YouTube videos, a proper course that takes you through fundamental concepts such as how computers function, how networks work and so on can be incredibly helpful. For example, thorough and well-curated courses for computer science and programming can be found online at Codeacademy, Khan Academy and Udemy.
+While it’s possible to learn to code just by watching YouTube videos, a proper course that takes you through fundamental concepts such as how computers function, how networks work and so on can be incredibly helpful. For example, thorough and well-curated courses for computer science and programming can be found online at [Codeacademy](https://www.codecademy.com/catalog/subject/all), [Khan Academy](https://www.khanacademy.org/computing/computer-science) and [Udemy](https://www.udemy.com/courses/development/).
 
 Each learning portal typically includes video lectures and follow-up tutorials to help beginners put into practice what they learn. Many of these course providers grant certificates of completion for their programmes, but do note that these certificates cannot be used for formal accreditation.
 
