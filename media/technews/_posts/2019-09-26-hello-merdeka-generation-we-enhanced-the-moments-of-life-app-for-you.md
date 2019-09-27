@@ -46,8 +46,6 @@ User testing is a critical stage for any product, said Mr Ang, as it surfaces is
 
 In addition to feedback on font sizes, seniors also preferred the use of symbols and icons for intuitive navigation of the app’s features. Many of the users also requested for CHAS benefits to be accessible via the app.
 
-![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
-
 ### **Inclusion and ambition**
 
 With these insights, the GovTech team iterated on their product, and between June and September 2019, conducted alpha- and beta-testing for further refinement.
@@ -55,3 +53,5 @@ With these insights, the GovTech team iterated on their product, and between Jun
 The GovTech team is also looking at expanding the Moments of Life app’s range of functions. “For example, we found that there are seniors who want to look for short-term employment, say, to work for just a few hours a day, hence there may be synergies with the Moments of Life product we are building for working adults,” said Mr Ang.
 
 “This is the beauty of the reusability of the various modules of our Moments of Life platform, where the technology we build to serve one population segment can be repurposed quickly and easily to serve another group of people,” he quipped.
+
+![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
