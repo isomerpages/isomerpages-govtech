@@ -24,7 +24,7 @@ For instance, a would-be restauranteur may have to approach the Urban Redevelopm
 
 ### **An e-advisor to light the way**
 
-Developed in collaboration with the Smart Nation and Digital Government Office (SNDGO) and the Ministry of Trade and Industry (MTI), the GoBusiness Licensing portal is meant to streamline regulatory requirements and digitalise transactions between the government and businesses. This is part of the larger effort to foster a pro-enterrpise environment for businesses to grow. “The food services sector was chosen primarily because of the complexity involved in obtaining the right licenses, as well as the relatively high volume of annual transactions in the sector,” Mr Chan explained. 
+Developed in collaboration with the Smart Nation and Digital Government Office (SNDGO) and the Ministry of Trade and Industry (MTI), the GoBusiness Licensing portal is meant to streamline regulatory requirements and digitalise transactions between the government and businesses. This is part of the larger effort to foster a pro-enterprise environment for businesses to grow. “The food services sector was chosen primarily because of the complexity involved in obtaining the right licenses, as well as the relatively high volume of annual transactions in the sector,” Mr Chan explained. 
 
 Before even a single line of code was typed out, the user experience (UX) team working on GoBusiness consulted with experienced and inexperienced business owners to figure out hidden frictions in the application processes. The Restaurant Association of Singapore played an important role in making these consultations possible between May and September 2018.
 
