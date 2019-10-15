@@ -10,6 +10,7 @@ image: "/images/technews/gregor-insights.png"
 ![Gregor Hohpe at Stack-X](/images/technews/gregor-insights.png)
 
 Cloud architect and Smart Nation Fellow Mr Gregor Hohpe gives his take on how organisations can accelerate digital innovation while reaping the benefits of greater flexibility and resilience.
+---
  
 “No business has ever complained that their IT is moving too quickly,” says Mr Gregor Hohpe, Smart Nation Fellow at the Government Technology Agency of Singapore (GovTech). In fact, with the likes of Facebook, Amazon, Grab and Go-Jek delivering massive value to consumers around the world, other organisations—including governments—want to emulate what they see as rapid digital innovation that enables new and better ways of doing things.
 
