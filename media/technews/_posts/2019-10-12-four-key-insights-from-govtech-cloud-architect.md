@@ -10,6 +10,7 @@ image: "/images/technews/gregor-insights.png"
 ![Gregor Hohpe at Stack-X](/images/technews/gregor-insights.png)
 
 Cloud architect and Smart Nation Fellow Mr Gregor Hohpe gives his take on how organisations can accelerate digital innovation while reaping the benefits of greater flexibility and resilience.
+---
  
 “No business has ever complained that their IT is moving too quickly,” says Mr Gregor Hohpe, Smart Nation Fellow at the Government Technology Agency of Singapore (GovTech). In fact, with the likes of Facebook, Amazon, Grab and Go-Jek delivering massive value to consumers around the world, other organisations—including governments—want to emulate what they see as rapid digital innovation that enables new and better ways of doing things.
 
@@ -56,3 +57,4 @@ Leveraging platforms, organisations will not only be able to move faster, but al
 Yet another side effect of speed, flexibility and resilience is disposability. “Disposing and re-creating your systems ensures that you are in a well-defined, clean state, free of disturbance by malware or by a developer who ‘just needed to make that small fix’,” he says. 
 
 “So, speeding up does a lot more for your organization than just making it go faster. It allows you to work in completely different ways that break existing assumptions.”
+
