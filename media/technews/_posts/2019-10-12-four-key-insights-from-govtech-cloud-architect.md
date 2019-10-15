@@ -56,3 +56,4 @@ Leveraging platforms, organisations will not only be able to move faster, but al
 Yet another side effect of speed, flexibility and resilience is disposability. “Disposing and re-creating your systems ensures that you are in a well-defined, clean state, free of disturbance by malware or by a developer who ‘just needed to make that small fix’,” he says. 
 
 “So, speeding up does a lot more for your organization than just making it go faster. It allows you to work in completely different ways that break existing assumptions.”
+
