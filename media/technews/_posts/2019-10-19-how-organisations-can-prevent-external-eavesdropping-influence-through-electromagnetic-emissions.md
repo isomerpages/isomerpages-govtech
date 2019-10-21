@@ -20,6 +20,8 @@ During a brown bag seminar at GovTech’s Mapletree Business City headquarters, 
 
 Configuring those contraptions, Peng Chong was able to mirror the screen of another computer in the room on his laptop. Any action performed on the would-be victim’s computer was now visible to him in real time. 
 
+![Peng Chong from GovTech tools](/images/technews/electromagnetic-emissions-security-part2.png)
+
 ### **Tuning in to the right channel**
 
 So how did Peng Chong do it? Put simply, electronic devices emit electromagnetic (EM) radiation when they process information. This radiation propagates like radio waves that are used for television or radio broadcasting.
@@ -34,6 +36,6 @@ Although commercial electronics are seldom designed to protect against [EM emiss
 
 For those concerned about becoming victims to such attacks, Peng Chong indicated three possible countermeasures: shielding, filtering and masking. While all three approaches may sound similar, they differ in their implementation. Like most cyber defence strategies, there is no one-size fit all solution, and each person or organisation will have to decide for themselves which strategy—or combination of strategies—is most suitable for their applications, after factoring in the risks, cost and usability.
 
-Evolving emission security threats
+### **Evolving emission security threats**
 
 Besides remote surveillance at a system level, Peng Chong said that an emerging cybersecurity concern is the exploitation of EM radiation at a microscopic level, onto small security components such as Trusted Platform Module. Moving from passive EM eavesdropping, a new dimension is the exploitation through injecting EM faults into the security components. If successful, the fault could reveal further vulnerabilities to a hacker, or even allowing the hacker to recover cryptographic keys.
