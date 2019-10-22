@@ -49,5 +49,6 @@ Bearing in mind that SMEs’ interaction with government agencies is not limited
  
 IRAS reached out to ACRA to also incorporate their filing requirements in the Start-up Kit. With this information reflected in the kit, SMEs can now view their filing timelines for both IRAS and ACRA, all in one place. 
 
->IRAS will continue to explore collaborations to make the Start-Up Kit useful, relevant and informative for SMEs. 
-Design is about redefining experiences for taxpayers and staff… our journey was anchored on what really mattered to the people we were serving. We have about 2,700 users [of the New Company Start-Up Kit] today, and we're now trying to educate more new companies about the availability of this tool. ~Ms Ong 
+IRAS will continue to explore collaborations to make the Start-Up Kit useful, relevant and informative for SMEs. 
+
+>Design is about redefining experiences for taxpayers and staff… our journey was anchored on what really mattered to the people we were serving. We have about 2,700 users [of the New Company Start-Up Kit] today, and we're now trying to educate more new companies about the availability of this tool. ~Ms Ong 
