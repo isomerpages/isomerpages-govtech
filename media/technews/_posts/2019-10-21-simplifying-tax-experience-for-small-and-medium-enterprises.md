@@ -23,8 +23,6 @@ At the Public Sector Transformation Workshop on 18 July 2019, three members of t
 
 In order to gain a deeper understanding of the SMEs, the project team visited and spoke to SMEs from various industries such as transportation, food, real estate, finance and manufacturing.
 
-We carried out 45 in-depth interviews—sitting down with SMEs, in their native working environment, to try and understand what their reality was and engaging with other stakeholders such as software providers, tax agents, government agencies and members of the tax community (SIATP) to understand the ecosystem of SMEs. ~ Mr Kranz
-
 >We carried out 45 in-depth interviews—sitting down with SMEs, in their native working environment, to try and understand what their reality was and engaging with other stakeholders such as software providers, tax agents, government agencies and members of the tax community (SIATP) to understand the ecosystem of SMEs. ~ Mr Kranz
 
 The IRAS team then synthesised findings from the interviews and created archetypes of the SMEs to personify their profile and characteristics. With a deeper understanding of the SMEs’ pain points, the team engaged SME owners/employees, representatives from other government agencies and IRAS staff to brainstorm and co-create approximately 600 ideas that could help to resolve the pain points and improve the experiences of the SMEs. 
