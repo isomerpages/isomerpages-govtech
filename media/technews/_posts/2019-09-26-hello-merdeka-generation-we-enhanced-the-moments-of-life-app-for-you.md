@@ -10,7 +10,7 @@ image: "/images/technews/images/technews/mol-technews-aa.png"
 
 Singapore is home to one of the fastest ageing populations in the world. The government thus hopes to keep its senior citizens engaged in their silver years via the Moments of Life mobile app. 
 
-In June 2018, the Government Technology Agency of Singapore (GovTech) launched the [Moments of Life mobile app](www.go.gov.sg/mol) catering to the needs of young parents—the first example of a citizen-centric concierge-like approach to the provision of government digital services. Rather than seek out multiple ministries to register a new birth and apply for a baby bonus, young parents can now complete all these tasks on a single platform using a mobile device. 
+In June 2018, the Government Technology Agency of Singapore (GovTech) launched the [Moments of Life mobile app](https://www.tech.gov.sg/products-and-services/moments-of-life/) catering to the needs of young parents—the first example of a citizen-centric concierge-like approach to the provision of government digital services. Rather than seek out multiple ministries to register a new birth and apply for a baby bonus, young parents can now complete all these tasks on a single platform using a mobile device. 
 
 In this way, multiple touchpoints between citizens and the government are unified into a seamless and coherent service journey. 
 This same approach is now being taken to cater to the unique requirements of another citizen demographic further downstream in the continuum of life—senior citizens. 
