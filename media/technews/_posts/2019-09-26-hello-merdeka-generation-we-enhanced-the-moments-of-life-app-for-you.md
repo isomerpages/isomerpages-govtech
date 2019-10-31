@@ -55,3 +55,4 @@ The GovTech team is also looking at expanding the Moments of Life app’s range 
 “This is the beauty of the reusability of the various modules of our Moments of Life platform, where the technology we build to serve one population segment can be repurposed quickly and easily to serve another group of people,” he quipped.
 
 ![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
+
