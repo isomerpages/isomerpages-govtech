@@ -6,12 +6,12 @@ category: technews
 image: 
 ---
 
-1. This lucky draw giveaway will be happening from 15 November 2019 to xxxxxx
+1. This lucky draw giveaway will be happening from 15 November 2019 to 31 December 2019
 2. The competition is open to anyone residing in Singapore, except employees of GovTech and their close relatives and anyone otherwise connected with the organisation or judging of the competition.
 3. There is no entry fee or purchase necessary to participate in this contest.
 4. By participating in this contest, an entrant is indicating his/her agreement to be bound by these terms and conditions.
 5. Only the selected entry will be notified and eligible for the prize.
-6. Closing date for entry is XXX Dec 2019. After this date, no further entries to the contest will be considered.
+6. Closing date for entry is 31 December 2019. After this date, no further entries to the contest will be considered.
 7. No responsibility can be accepted for entries not received for whatever reason.
 8. Winners will be selected at random.
 9.  GovTech reserves the right, at its sole discretion, to change, amend or add on to these Terms and Conditions, or terminate, vary or suspend this contest, or substitute this contest for another, at any time without prior notice to you.
