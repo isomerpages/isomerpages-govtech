@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How organisations can prevent external eavesdropping and influence through electromagnetic emissions"
+title:  "GovTech expert shows you how to prevent cyber eavesdropping"
 permalink: "/media/technews/how-organisations-can-prevent-external-eavesdropping-influence-through-electromagnetic-emissions"
 category: technews
 image: "/images/technews/electromagnetic-emissions-security-part1.png"
