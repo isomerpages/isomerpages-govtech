@@ -14,7 +14,7 @@ TL:DR: Red-teaming is used in cybersecurity to simulate real-world attacks on in
 
 For most people, phishing for phone numbers, impersonating a company and going undercover into an organisation’s secured premises all sound like plot points in the latest spy thriller.  
 
-But these activities are all in a day’s work for Mr Chong Rong Hwa and Mr Terence Teo, principal cybersecurity specialist and senior cybersecurity specialist respectively at the Government Technology Agency of Singapore’s (GovTech) Cyber Security Group. 
+But these activities are all in a day’s work for Mr Chong Rong Hwa, director, advanced cybersecurity capabilities and Mr Terence Teo,  lead cybersecurity specialist at the Government Technology Agency of Singapore’s (GovTech) Cyber Security Group. 
 
 Mr Chong and Mr Teo are part of GovTech’s Red Team, a white-hat group that plans and carries out unannounced cyberattacks against government agencies in Singapore. 
 
