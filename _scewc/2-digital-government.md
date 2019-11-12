@@ -9,23 +9,23 @@ permalink: /scewc/digital-government
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Project 1" /><br></td>
-<td><strong>Mr Flemming Borreskov</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
+<td><strong>Project 1</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.png" alt="Project 2" /><br></td>
-<td><br><strong>Ambassador Chan Heng Chee</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Read More</a></td>
+<td><br><strong>Project 2</strong><br />Chairman<br />Lee Kuan Yew Centre for Innovative Cities<br />Singapore<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/helen-clark.png" alt="Project 3" /><br></td>
-<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
+<td><br><strong>Project 3</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/park-won-soon.png" alt="Project 4" /><br></td>
-<td><br><strong>Mr Park Won-soon</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>Project 4</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/ilmar-reepalu.png" alt="Project 5" /><br></td>
-<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Read More</a></td>
+<td><br><strong>Project 5</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Read More</a></td>
 </tr> 
 </tbody>
 </table>
