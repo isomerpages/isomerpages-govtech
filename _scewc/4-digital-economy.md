@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Digital Society
 permalink: /scewc/digital-society
-breadcrumb: How We Work
+breadcrumb: Digital Society
 ---
 
 #### **Digital Economy**
