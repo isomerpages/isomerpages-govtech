@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smart Nation Sensor Platform"
-permalink: "/scewc2019/smart-nation-sensor-platform"
+permalink: "/scewc/smart-nation-sensor-platform"
 category: barcelona
 image: 
 ---
