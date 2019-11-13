@@ -16,11 +16,11 @@ category: events
   </tr>
   <tr>
     <td><span style="font-weight:bolder">Date</span></td>
-    <td>20 February 2019</td>
+    <td>27 November 2019</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">Time</span></td>
-    <td>6:30pm - 10:00pm</td>
+    <td>3:00pm onwards</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">About</span></td>
@@ -29,4 +29,4 @@ category: events
 </table>
 
 
-Keen to attend? Find out more [here](https://www.hackertrail.com/m/govtech). Application closes on **14 February 2019**.
+Keen to attend? Find out more [here](https://www.hackertrail.com/m/govtech). Application closes on **20 November 2019**.
