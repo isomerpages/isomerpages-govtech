@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "National Digital Identity"
-permalink: "/scewc2019/ndi"
+permalink: "/scewc/ndi"
 category: barcelona
 image: 
 ---
