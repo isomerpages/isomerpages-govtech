@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lamppost as a Platform"
-permalink: "/scewc2019/lamppost-as-a-platform"
+permalink: "/scewc/lamppost-as-a-platform"
 category: barcelona
 image: 
 ---
