@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Digital Society
-permalink: /scewc/digital-society
-breadcrumb: Digital Society
+title: Digital Economy
+permalink: /scewc/digital-economy
+breadcrumb: Digital Economy
 ---
 
 #### **Digital Economy**
