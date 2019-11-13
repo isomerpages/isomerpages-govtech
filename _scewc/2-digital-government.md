@@ -1,5 +1,7 @@
 ---
+layout: leftnav-page-content
 title: Digital Government
+breadcrumb: Digital Government
 permalink: /scewc/digital-government
 ---
 
