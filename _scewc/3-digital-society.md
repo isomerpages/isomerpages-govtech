@@ -1,5 +1,7 @@
 ---
+layout: leftnav-page-content
 title: Digital Society
+breadcrumb: Digital Society
 permalink: /scewc/digital-society
 ---
 
