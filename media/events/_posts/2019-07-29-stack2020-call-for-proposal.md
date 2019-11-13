@@ -15,6 +15,6 @@ Returning on 30 March to 1 April 2020, the three-day STACK will be larger and be
 
 It is aimed at engaging a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.
  
-For more information on STACK 2020: Call for Proposal or if you are interested to be a speaker, please visit [https://www.go.gov.sg/cfp2020](https://www.go.gov.sg/cfp2020)
+**Update: Submissions are now closed. We thank everyone for their interest and invite you to check out www.govtechstack.sg for more details about STACK 2020.**
  
 For further queries, please send an email to <stack@tech.gov.sg>.
