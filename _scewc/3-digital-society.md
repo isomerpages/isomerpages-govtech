@@ -25,7 +25,7 @@ permalink: /scewc/digital-society
 </tr>
 <tr>
 <td><br><img src="/images/jury/park-won-soon.png" alt="Project 4" /><br></td>
-<td><br><strong>Moments of Life</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>Dementia Friends App</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/park-won-soon.png" alt="Project 4" /><br></td>
