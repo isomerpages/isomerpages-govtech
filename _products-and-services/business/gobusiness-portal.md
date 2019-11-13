@@ -5,7 +5,7 @@ permalink: /products-and-services/gobusiness/
 breadcrumb: GoBusiness
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/CorpPass_ThumbNail.jpg
+thumbnail_image: /images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg
 ---
 
 ![Smart Nation GoBusiness Licensing Portal](/images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg)
