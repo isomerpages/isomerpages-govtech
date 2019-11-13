@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Digital Economy
 permalink: /scewc/digital-economy
 breadcrumb: Digital Economy
+collection_name: scewc
 ---
 
 #### **Digital Economy**
