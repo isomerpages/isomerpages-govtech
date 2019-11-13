@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sense-Making in Estate Management"
-permalink: "/scewc2019/sense-making-in-estate-management"
+permalink: "/scewc/sense-making-in-estate-management"
 category: barcelona
 image: 
 ---
