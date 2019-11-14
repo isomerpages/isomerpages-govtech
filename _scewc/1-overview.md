@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /scewc/overview/
 breadcrumb: Overview
-collection_name: careers
+collection_name: scewc
 ---
 
 ### **Overview**
