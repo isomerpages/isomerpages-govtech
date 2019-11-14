@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Overview
 permalink: /scewc/overview/
 breadcrumb: Overview
-collection_name: scewc
 ---
 
 ![Smart City Expo 2019 GovTech Projects](/images/Smart-City-Expo-banner.png)
