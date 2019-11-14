@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "E-Payments"
 permalink: "/scewc/epayments"
-category: barcelona
-image: 
+breadcrumb: E-Payments 
 ---
 
 With the E-Payments initiatives, citizens and businesses are able to transact digitally in a hassle-free, seamless and secure manner. It creates an open, accessible and interoperable national E-Payments infrastructure.
