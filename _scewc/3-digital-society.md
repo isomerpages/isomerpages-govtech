@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Digital Society
 permalink: /scewc/digital-society
 breadcrumb: Digital Society
-collection_name: scewc
 ---
 
 #### **Digital Society**

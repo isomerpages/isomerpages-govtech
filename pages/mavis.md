@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "MAVIS"
-permalink: "/scewc/mavis"
-category: barcelona
-image: 
+permalink: "/scewc2019/mavis"
+breadcrumb: MAVIS
 ---
 
 Tapping on assistive technologies, the Mobility Assistance for the Visually Impaired and Special Users (MAVIS) mobile app, provides a customised journey guidance for commuters with special needs. As part of its feature, it sends smartphone alerts which includes the estimated time of arrival and notifications for when to board and alight the bus.

@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "GoBusiness Licensing Portal"
-permalink: "/scewc/gobusiness"
-category: barcelona
-image: 
+permalink: "/scewc2019/gobusiness"
+breadcrumb: GoBusiness
 ---
 
 The GoBusiness Licensing Portal, a pro-enterprise digitalisation effort to enable a simpler, faster and better process for businesses to apply for licenses, permits and certificates from the government. This helps business owners save time and reduce compliance cost so that they can focus on their core business. 
