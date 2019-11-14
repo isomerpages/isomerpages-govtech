@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Digital Government
 permalink: /scewc/digital-government
 breadcrumb: Digital Government
-collection_name: scewc
 ---
 
 #### **Digital Government**
