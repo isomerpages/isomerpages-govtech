@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Drowning Detection System"
-permalink: "/scewc/drowning-detection-system"
-category: barcelona
-image: 
+permalink: "/scewc2019/drowning-detection-system"
+breadcrumb: Drowning Detection System
 ---
 
 Using a network of infrared cameras that detects possible drowning incidents, the Drowning Detection System sounds an alert upon detection of possible drowning. The system segments the pool into grids and analyses the real-time trajectories of swimmers, sending alerts to the lifeguards within 15 seconds of someone sinking to the bottom of the pool.
