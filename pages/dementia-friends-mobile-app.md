@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: simple-page
 title:  "Dementia Friends Mobile App"
-permalink: "/scewc/dementia-friends-mobile-app"
+permalink: "/scewc2019/dementia-friends-app"
 category: barcelona
 image: 
 ---
