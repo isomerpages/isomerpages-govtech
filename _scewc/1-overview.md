@@ -11,9 +11,9 @@ breadcrumb: Overview
 
 Singapore was named Smart City of the Year at the Smart City Expo World Congress in November 2018 for our Smart Nation initiative, which promotes digital technology and innovation to boost liveability and sustainability. 
  
-The Singapore Smart Nation initiative is built on three core pillars:
-(a) To be Digital to the Core and Serve with Heart in our Digital Government, using data and technology to transform the delivery of public services for the benefit of citizens;
-(b) Empowering our citizens and enhancing daily life, while ensuring equal opportunities for all in a Digital Society; 
+The Singapore Smart Nation initiative is built on three core pillars:<br>
+(a) To be Digital to the Core and Serve with Heart in our Digital Government, using data and technology to transform the delivery of public services for the benefit of citizens;<br>
+(b) Empowering our citizens and enhancing daily life, while ensuring equal opportunities for all in a Digital Society; <br>
 (c) Embracing the possibilities brought by digitalisation so that Singapore stays attractive to businesses and talents, with good opportunities for her people in a Digital Economy.
  
 For Singapore to realise our Smart Nation vision, our people, businesses and public agencies will each have their key roles to play. This collaboration between the people, private and public sectors ensures that we are able to deliver citizen- and business- centric digital solutions and build stronger communities across boundaries. 
