@@ -12,7 +12,7 @@ collection_name: scewc
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Lamppost" /><br></td>
-<td><strong>Lamppost as a Platform</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
+<td><strong>Lamppost as a Platform</strong><br />Supporting urban planning and operations through the use of street lampposts<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/jury/chan-heng-chee.png" alt="NDI" /><br></td>
