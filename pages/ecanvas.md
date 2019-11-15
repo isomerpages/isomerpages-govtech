@@ -1,9 +1,8 @@
 ---
-layout: post
-title:  "Lamppost as a Platform"
-permalink: "/scewc/lamppost-as-a-platform"
-category: barcelona
-image: 
+layout: simple-page
+title:  "eCanvas"
+permalink: "/scewc2019/eCanvas"
+breadcrumb: eCanvas
 ---
 
 The eCanvas, a neural-networked voice command system, provides greater independence for persons with disabilities to pursue their artistic endeavours.
