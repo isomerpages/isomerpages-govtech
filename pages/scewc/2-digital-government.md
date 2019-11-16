@@ -19,7 +19,7 @@ breadcrumb: Digital Government
 </tr>
 <tr>
 <td><br><img src="/images/150SENSEMAKING.png" alt="Sensemaking" /><br></td>
-<td><br><strong>Sense-making in Estate Management</strong><br />Providing intelligence, informing decisions and improving the quality of life in an estate<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
+<td><br><strong>Sense-making in Estate Management</strong><br />Providing intelligence, informing decisions & improving the quality of life<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150SGTSQRv2.png" alt="SGTS" /><br></td>
