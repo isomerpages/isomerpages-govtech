@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Moments of Life"
-permalink: "/scewc/mol"
-category: barcelona
-image: 
+permalink: "/scewc2019/mol"
+breadcrumb: Moments of Life
 ---
 
 In digitalisation, the importance lies not only in moving processes online but also in unifying multiple touchpoints into one single service journey. This has been achieved through the Moments of Life (MOL) app, which places citizens at the heart of government digital services. It delivers integrated services and information to citizens at key milestones in their lives.
