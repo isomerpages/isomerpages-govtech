@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Digital Government
-permalink: /scewc/digital-government
+permalink: /scewc2019/digital-government
 breadcrumb: Digital Government
 ---
 
