@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "National Digital Identity"
-permalink: "/scewc/ndi"
-category: barcelona
-image: 
+permalink: "/scewc2019/ndi"
+breadcrumb: National Digital Identity
 ---
 
 With transactions being increasingly digitised, the Singapore Government is developing a National Digital Identity (NDI) platform, an extension from the SingPass authentication system, which provides better convenience and security for citizens when transacting online. The NDI allows citizens a single digital identity to transact with both the public and private sectors.
