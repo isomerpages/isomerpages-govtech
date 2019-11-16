@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Smart Nation Sensor Platform"
-permalink: "/scewc/smart-nation-sensor-platform"
-category: barcelona
-image: 
+permalink: "/scewc2019/snsp"
+breadcrumb: Smart Nation Sensor Platform 
 ---
 
 In becoming a Smart Nation where people live meaningful and fulfilling lives filled with endless opportunities, enabled by technology, citizens and businesses need to be empowered with information that allows them to make more meaningful choices to improve their lives.
