@@ -1,9 +1,8 @@
 ---
-layout: post
-title:  "Lamppost as a Platform"
-permalink: "/scewc/oneservice"
-category: barcelona
-image: 
+layout: simple-page
+title:  "OneService"
+permalink: "/scewc2019/oneservice"
+breadcrumb: OneService
 ---
 
 The OneService App is a convenient way for members of the public to provide feedback on municipal issues without the hassle of knowing which relevant Government agency to approach. 
