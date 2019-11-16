@@ -22,7 +22,7 @@ breadcrumb: Digital Government
 <td><br><strong>Sense-making in Estate Management</strong><br />Providing intelligence, informing decisions and improving the quality of life in an estate<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/150SGTSQR.png" alt="SGTS" /><br></td>
+<td><br><img src="/images/150SGTSQRv2.png" alt="SGTS" /><br></td>
 <td><br><strong>Singapore Government Tech Stack</strong><br />Building blocks for digital transformation<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 </tr>
 <tr>
