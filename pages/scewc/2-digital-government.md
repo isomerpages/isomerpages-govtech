@@ -10,7 +10,7 @@ breadcrumb: Digital Government
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Lamppost" /><br></td>
+<td style="width: 150px;"><img src="/images/150LAAP.png" alt="Lamppost" /><br></td>
 <td><strong>Lamppost as a Platform</strong><br />Supporting urban planning and operations through the use of street lampposts<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
 </tr>
 <tr>
@@ -18,7 +18,7 @@ breadcrumb: Digital Government
 <td><br><strong>National Digital Identity</strong><br />Quick and slick digital authentication<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Read More</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/helen-clark.png" alt="Sensemaking" /><br></td>
+<td><br><img src="/images/150SENSEMAKING.png" alt="Sensemaking" /><br></td>
 <td><br><strong>Sense-making in Estate Management</strong><br />Providing intelligence, informing decisions and improving the quality of life in an estate<br><a href="/about/prize-jury/prize-council/helen-clark/">Read More</a></td>
 </tr>
 <tr>
