@@ -5,7 +5,7 @@ permalink: /scewc2019/overview/
 breadcrumb: Overview
 ---
 
-![Smart City Expo 2019 GovTech Projects](/images/Smart-City-Expo-banner.png)
+![Smart City Expo 2019 GovTech Projects](/images/Smart-City-bannerv2.png)
 
 ### **Thank you for visiting the Singapore Pavilion**
 
