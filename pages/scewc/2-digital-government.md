@@ -11,11 +11,11 @@ breadcrumb: Digital Government
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/150LAAP.png" alt="Lamppost" /><br></td>
-<td><strong>Lamppost as a Platform</strong><br />Urban planning and operations by using street lampposts<br><a href="/pages/scewc/lamppost-as-a-platform/">Read More</a></td>
+<td><strong>Lamppost as a Platform</strong><br />Urban planning and operations by using street lampposts<br><a href="/pages/scewc/lamppost-as-a-platform.md">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150National-Digital IdentityQR.png" alt="NDI" /><br></td>
-<td><br><strong>National Digital Identity</strong><br />Quick and slick digital authentication<br><a href="/about/prize-jury/prize-council/chan-heng-chee/">Read More</a></td>
+<td><br><strong>National Digital Identity</strong><br />Quick and slick digital authentication<br><a href="/pages/national-digital-identity.md/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150SENSEMAKING.png" alt="Sensemaking" /><br></td>
