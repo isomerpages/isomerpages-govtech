@@ -35,14 +35,14 @@ breadcrumb: Digital Society
 </tr>  
 <tr>
 <td><br><img src="/images/150ParkingQR.png" alt="Project 4" /><br></td>
-<td><br><strong>Parking.sg</strong><br />Bid farewell to paper coupons!<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>Parking.sg</strong><br />Bid farewell to paper coupons<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 <tr>
 <td><br><img src="/images/150Drowning-Detection-SystemQR.png" alt="Project 4" /><br></td>
-<td><br><strong>Drowning Detection System</strong><br />Keeping swimming pools safe!<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>Drowning Detection System</strong><br />Keeping swimming pools safe<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150OpenCertsQR.png" alt="Project 4" /><br></td>
-<td><br><strong>OpenCerts</strong><br />Certified for school!<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>OpenCerts</strong><br />Digitally certified for school<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 </tr>  
 <tr>
 <td><br><img src="/images/150OneServiceQR.png" alt="Project 5" /><br></td>
