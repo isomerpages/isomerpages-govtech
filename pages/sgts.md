@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Singapore Government Tech Stack"
-permalink: "/scewc/sgts"
-category: barcelona
-image: 
+permalink: "/scewc2019/sgts"
+breadcrumb: Singapore Government Tech Stack
 ---
 
 The Singapore Government Tech Stack (SGTS) is a centralised platform that enables quick and efficient deployment of digital services to the Singapore Government. Instead of having to spend time and effort to develop infrastructures from scratch to meet the needs of citizens or business groups they serve, SGTS allows agencies to tap on a suite of tools and services that are hosted on the common infrastructure to ensure consistency and quality of the applications. Above that, SGTS enables the exchange of data across the government for richer insights that will help with policy and solution development, as well as monitoring of operations.
