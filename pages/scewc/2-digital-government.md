@@ -11,7 +11,7 @@ breadcrumb: Digital Government
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/150LAAP.png" alt="Lamppost" /><br></td>
-<td><strong>Lamppost as a Platform</strong><br />Supporting urban planning and operations through the use of street lampposts<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
+<td><strong>Lamppost as a Platform</strong><br />Urban planning and operations by using street lampposts<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150National-Digital IdentityQR.png" alt="NDI" /><br></td>
