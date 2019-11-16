@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Lamppost as a Platform"
-permalink: "/scewc/lamppost-as-a-platform"
-category: barcelona
-image: 
+permalink: "/scewc2019/laap"
+breadcrumb: Lamppost as a Platform
 ---
 
 Part of the Smart Nation Sensor Platform (SNSP) project, the Lamppost as a Platform (LaaP) aims to maximise the use of Singapore’s street lampposts. Under the current LaaP trial in two parts of Singapore, lampposts are fitted with a network of wireless sensors and cameras that better support urban planning and operations.
