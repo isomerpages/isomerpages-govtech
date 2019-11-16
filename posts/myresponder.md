@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "myResponder"
-permalink: "/scewc/myresponder"
-category: barcelona
-image: 
+permalink: "/scewc2019/myResponder"
+breadcrumb: myResponder
 ---
 
 The myResponder app taps on the active community to respond as quickly as possible to improve the chances of survival. In other words, an app to crowdsource for lifesavers. 
