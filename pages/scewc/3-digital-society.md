@@ -35,7 +35,7 @@ breadcrumb: Digital Society
 </tr>  
 <tr>
 <td><br><img src="/images/150ParkingQR.png" alt="Project 4" /><br></td>
-<td><br><strong>Parking.sg</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
+<td><br><strong>Parking.sg</strong><br />Bid farewell to paper coupons!<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
 <tr>
 <td><br><img src="/images/150Drowning-Detection-SystemQR.png" alt="Project 4" /><br></td>
 <td><br><strong>Drowning Detection System</strong><br />Keeping swimming pools safe!<br><a href="/about/prize-jury/prize-council/park-won-soon/">Read More</a></td>
