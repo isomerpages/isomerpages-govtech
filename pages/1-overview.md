@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Overview
-permalink: /scewc/overview/
+permalink: /scewc2019/overview/
 breadcrumb: Overview
 ---
 
