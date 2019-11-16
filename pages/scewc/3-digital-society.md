@@ -10,7 +10,7 @@ breadcrumb: Digital Society
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/jury/flemming-borreskov.png" alt="Project 1" /><br></td>
+<td style="width: 150px;"><img src="/images/150eCanvas.png" alt="Project 1" /><br></td>
 <td><strong>eCanvas</strong><br />President<br />Catalytic Society<br />Denmark<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
 </tr>
 <tr>
