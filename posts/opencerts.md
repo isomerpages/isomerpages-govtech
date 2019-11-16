@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "OpenCerts"
-permalink: "/scewc/opencerts"
-category: barcelona
-image: 
+permalink: "/scewc2019/opencerts"
+breadcrumb: OpenCerts
 ---
 
 OpenCerts is an open-source platform for issuing and validating tamper-resistant digital academic certificates. Powered by Ethereum, a blockchain network also known as distributed ledger technology, OpenCerts reduces the barrier to entry of publishing cryptographically protected educational credentials.
