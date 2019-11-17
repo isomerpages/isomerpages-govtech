@@ -8,7 +8,7 @@ breadcrumb: IPOS GO App
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKSgiMhSnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
+<br>
 
 The IPOS GO mobile app provides companies with the ability to apply for their trademark directly with the Government in just under 10 minutes, down from the previous wait of an hour! Businesses will save time and even costs from filing directly with the government.
 
