@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Overview
-permalink: /scewc2019/overview/
+permalink: /smart-city-expo-2019
 breadcrumb: Overview
 ---
 
