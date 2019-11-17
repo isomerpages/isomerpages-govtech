@@ -8,7 +8,7 @@ breadcrumb: Dementia Friends App
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0uu1cZZ8wrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
+<br>
 
 As Singapore embarks on creating a more caring and inclusive society, the use of technology can help to rally the communities to look out for and support each other. The Dementia Friends App is one of such initiatives where members of the public can play a more active role in looking out for persons with dementia and their caregivers. 
 
