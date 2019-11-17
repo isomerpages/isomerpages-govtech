@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title:  "E-Payments"
-permalink: "/scewc/epayments"
+permalink: "/scewc2019/epayments"
 breadcrumb: E-Payments 
 ---
 
