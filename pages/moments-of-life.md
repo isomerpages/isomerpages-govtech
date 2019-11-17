@@ -13,4 +13,6 @@ In digitalisation, the importance lies not only in moving processes online but a
 
 The MOL app was developed based on the insights gathered through citizen engagement sessions to identify and better understand users’ challenges and needs. Currently, it supports parents with children aged six and below, and seniors above the age of 60, providing personalised information relating to childcare and active ageing respectively.
 
+![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
+
 *Developed by Government Technology Agency (GovTech)* 
