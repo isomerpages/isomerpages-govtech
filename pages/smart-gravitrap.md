@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: simple-page
 title:  "Smart Gravitrap"
-permalink: "/scewc/smart-gravitrap"
-category: barcelona
-image: 
+permalink: "/scewc2019/smart-gravitrap"
+breadcrumb: Smart-Gravitrap
 ---
+
+![Smart Gravitrap](/images/gravitrap.png)
 
 The Smart Gravitrap enhances mosquito surveillance efforts in the fight against dengue, which is endemic in Singapore. The prototype attracts and traps dengue-spreading female Aedes mosquitoes looking for sites to lay their eggs in.
 

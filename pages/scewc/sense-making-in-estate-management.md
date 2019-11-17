@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title:  "Sense-Making in Estate Management"
-permalink: "/scewc/sense-making-in-estate-management"
-category: barcelona
-image: 
+permalink: "/scewc2019/mavis"
+breadcrumb: Sense-Making in Estate Management
 ---
 
 The sense-making in estate management concept will focus on providing intelligence to Government agencies, industries and citizens, informing decisions and improving the quality of life in an estate.

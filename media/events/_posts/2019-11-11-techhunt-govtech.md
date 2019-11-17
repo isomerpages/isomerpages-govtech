@@ -6,7 +6,7 @@ category: events
 ---
 
 
-## **TechHunt @ GovTech - an exclusive recruitment event for Cloud Specialists** ##
+## **TechHunt @ GovTech - an exclusive recruitment event** ##
 
 ![TechHunt banner](/images/media/events/techhunt-banner.jpg)
 

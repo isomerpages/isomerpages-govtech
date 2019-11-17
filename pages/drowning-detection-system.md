@@ -9,5 +9,5 @@ Using a network of infrared cameras that detects possible drowning incidents, th
 
 The system was put through 1400 tests, and possible scenarios that include different weather conditions. By 2020, this system will be implemented at 11 public pools in Singapore.
 
-*Developed by Sport Singapore (SportSG)*
+*Project by Sport Singapore (SportSG) and Government Technology Agency*
 
