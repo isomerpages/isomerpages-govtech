@@ -11,7 +11,7 @@ breadcrumb: Digital Society
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/150eCanvas.png" alt="Project 1" /><br></td>
-<td><strong>eCanvas</strong><br />Empowering persons with disabilities in their artistic pursuits<br><a href="/about/prize-jury/prize-council/flemming-borreskov/">Read More</a></td>
+<td><strong>eCanvas</strong><br />Empowering persons with disabilities in their artistic pursuits<br><a href="/pages/ecanvas.md">Read More</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/150National-Digital IdentityQR.png" alt="Project 2" /><br></td>
