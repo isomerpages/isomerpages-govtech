@@ -5,6 +5,8 @@ permalink: "/scewc2019/gobusiness"
 breadcrumb: GoBusiness
 ---
 
+![GoBusiness](/images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg)
+
 The GoBusiness Licensing Portal, a pro-enterprise digitalisation effort to enable a simpler, faster and better process for businesses to apply for licenses, permits and certificates from the government. This helps business owners save time and reduce compliance cost so that they can focus on their core business. 
 
 The portal features a Guided Journey, which is a step-by-step guide that help businesses navigate the licensing landscape to determine the licenses required, and the order to apply for them. 
