@@ -13,4 +13,4 @@ The cameras have analytic capabilities to count and analyse crowd build-ups, as 
 
 ![Lamppost as a Platform](https://d33wubrfki0l68.cloudfront.net/66a829f356be32e3927b3cfa17ab8e7200db9404/66a3e/images/technews/infographics-just-how-smart-can-lamp-posts-get-part-2.jpg)
  
-*Developed by the Government Technology Agency (GovTech) in collaboration with the Land Transport Authority (LTA)*
+*Developed by the Government Technology Agency (GovTech)*
