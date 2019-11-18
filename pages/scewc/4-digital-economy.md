@@ -19,7 +19,7 @@ breadcrumb: Digital Economy
 </tr>
 <tr>
 <td><br><img src="/images/150IPOS-GO-AppQR.png" alt="Project 3" /><br></td>
-<td><br><strong>IPOS GO App</strong><br />Filing trademarks on the GO<br><a href="/pages/gobusiness.md">Read More</a></td>
+<td><br><strong>IPOS GO App</strong><br />Filing trademarks on the GO<br><a href="www.tech.gov.sg/scewc2019/ipos-go-app">Read More</a></td>
 </tr>
 </tbody>
 </table>
