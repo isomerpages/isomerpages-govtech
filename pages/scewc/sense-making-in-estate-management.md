@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title:  "Sense-Making in Estate Management"
-permalink: "/scewc2019/mavis"
+permalink: "/scewc2019/sense-making-in-estate"
 breadcrumb: Sense-Making in Estate Management
 ---
 
