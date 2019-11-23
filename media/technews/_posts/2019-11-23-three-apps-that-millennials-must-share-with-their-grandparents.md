@@ -19,13 +19,19 @@ This Grandparents’ Day, tell grandpa and grandma about the Moments of Life (Ac
 
 ### **Cherishing Moments of Life better**
 
+![Three Apps That Millennials Must Share with Their Grandparents](/images/technews/grandparents2.png)
+
 The Moments of Life app, created by the Government Technology Agency of Singapore (GovTech), has recently been modified to meet the needs of citizens above 60 years old. Via the Active Ageing module of the Moments of Life, seniors can browse listings of activities, interest groups or events suitable for them to participate in.
 
 Perhaps grandpa would like to revive his old hobby of Chinese chess? Or maybe grandma wants to have a karaoke session with friends. There’s lots to choose from! Then, if grandpa and grandma want to sit down for some kopi or have a hearty meal after a good mental or physical workout, they can use the app to access certain discounts on food and drinks.
 
+![Three Apps That Millennials Must Share with Their Grandparents](/images/technews/grandparents1.png)
+
 Another important feature of the Moments of Life app is the embedded Merdeka Generation e-card. With this e-card, eligible senior citizens can receive subsidies at Community Health Assist Scheme (CHAS) GP and dental clinics, as well as discounts at participating merchant outlets. 
 
 ### **A first pass at SingPass Mobile**
+
+![Three Apps That Millennials Must Share with Their Grandparents](/images/technews/grandparents3.png)
 
 Whether your grandparents want to check their CPF balances or housing details, they can do so from the convenience of their home using the SingPass Mobile app. If forgetfulness is something that comes with old age, fret not! The SingPass Mobile app does not require users to remember passwords if they choose to use biometric login methods such as fingerprints or facial recognition.
 
