@@ -33,11 +33,11 @@ Another important feature of the Moments of Life app is the embedded Merdeka Gen
 
 ![Three Apps That Millennials Must Share with Their Grandparents](/images/technews/grandparents3.png)
 
-Whether your grandparents want to check their CPF balances or housing details, they can do so from the convenience of their home using the SingPass Mobile app. If forgetfulness is something that comes with old age, fret not! The SingPass Mobile app does not require users to remember passwords if they choose to use biometric login methods such as fingerprints or facial recognition.
+Whether your grandparents want to check their CPF balance or housing details, they can do so from the convenience of their home using the SingPass Mobile app. If forgetfulness or dexterity is something that you think comes with old age, fret not! The SingPass Mobile app does not require users to key in passwords. They can choose to use easy biometric login methods such as fingerprints or facial recognition.
 
-Even better, once logged in, grandpa or grandma will find all their essential information stored under one roof, accessible with just a few taps or swipes. They can even choose to enable notifications for government digital services that they are interested in or frequently use. 
+Even better, once logged in, grandpa or grandma can view all their essential information at a glance, accessible with just a few taps or swipes. The home screen will also prioritise and display government digital services that are relevant to them.
 
-For example, it may be important for seniors to receive regular updates on the amount remaining in their Medisave accounts. The elderly who are thinking of downsizing to a smaller house to extend their retirement funds can also access the Housing Development Board’s services via SingPass Mobile. 
+For example, through the profile feature in SingPass Mobile, seniors can have a quick overview of their Medisave account balance that is available to meet their healthcare needs. Also, elderly who are thinking of downsizing to a smaller house to extend their retirement funds can access the Housing Development Board’s services via SingPass Mobile. 
 
 ### **3.  Be a good sport and get the ActiveSG app**
 
