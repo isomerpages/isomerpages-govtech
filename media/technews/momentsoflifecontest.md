@@ -20,4 +20,5 @@ image:
 11. The winner will be notified by email within 14 days from the date of selection. If the winner cannot be contacted or does not claim the prize within 14 days of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
 12. GovTech will notify the winners on how the prizes are to be collected.
 13. GovTech’s decision in respect of all matters related to the contest will be final. GovTech reserves the right not to enter into any correspondence.
-14.  You are providing your information to GovTech and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at https://www.tech.gov.sg/privacy/.
+14. Apple is neither the sponsor nor connected in any way, shape or form with this giveaway.
+15.  You are providing your information to GovTech and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at https://www.tech.gov.sg/privacy/.
