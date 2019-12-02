@@ -43,4 +43,6 @@ Eighteen institutions in Singapore are already using the platform, but what surp
 
 OpenCerts also lay the foundation for TradeTrust, another blockchain-based platform for the exchange of digital trade documents, which will enhance security, pre-empt fraud, as well as reduce cost of documentation, said Mr Koh. 
 
+![Why blockchain matters in Singapore's Smart Nation](/images/technews/blockchain-part1.jpg)
+
 And these are just the tip of the iceberg of blockchain applications. Mr Mohan noted that by taking a step back and looking at blockchain technology from a broader perspective, one will realise that at its heart, “blockchain is a very inclusive technology. It is for everyone, not just for people who are at the fringes—it's also for governments, enterprises and the man or woman on the street.”
