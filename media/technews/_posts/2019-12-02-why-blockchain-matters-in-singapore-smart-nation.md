@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why blockchain matters in Singapore's Smart Nation"
+title:  "How Government and Corporates Can Collaborate to Drive Blockchain innovation"
 permalink: "/media/technews/why-blockchain-matters-in-singapore-smart-nation"
 category: technews
 image: "images/technews/blockchain-part1.jpg"
