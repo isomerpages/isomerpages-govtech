@@ -37,7 +37,7 @@ Blockchain technology could well be the lynchpin for all this data exchange amon
 
 ### **Unlocking new opportunities**
 
-If implemented correctly, blockchain-based projects can have a much larger impact than initially anticipated, Mr Koh added. He highlighted OpenCerts, a blockchain-based platform used to digitise and verify educational credentials, developed as a collaborative project between GovTech and the Ministry of Education of Singapore.
+If implemented correctly, blockchain-based projects can have a much larger impact than initially anticipated, Mr Koh added. He highlighted [OpenCerts](https://www.tech.gov.sg/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates), a blockchain-based platform used to digitise and verify educational credentials, developed as a collaborative project between GovTech and the Ministry of Education of Singapore.
 
 Eighteen institutions in Singapore are already using the platform, but what surprised Mr Koh was that foreign institutions also began adopting OpenCerts. “You'll notice that the University of Lithuania already uses it. We also have local startups like Accredify, Next ID and even a Canadian company called Convergence using OpenCerts as well,” he revealed.
 
