@@ -15,7 +15,7 @@ The use of mobile apps and social media may be second nature to millennials, but
 
 So listen up millennials! As digital natives, you can be tech advocates to the elderly in our midst. For a start, why not share with your grandparents some mobile apps that could help them keep in touch with friends and family, make their lives more convenient and keep them healthy?
 
-This Grandparents’ Day, tell grandpa and grandma about the Moments of Life (Active Ageing) app, the SingPass app and the ActiveSG app. 
+This Grandparents’ Day, tell grandpa and grandma about the [Moments of Life app](www.go.gov.sg/mol), the SingPass app and the ActiveSG app. 
 
 ### **Cherishing Moments of Life better**
 
