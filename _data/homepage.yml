@@ -18,13 +18,13 @@ ask-jamie: non-empty string
 
 # Hero Banner
 hero-title: Empowering our nation through technology
-hero-subtitle: From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, GovTech uses technology to improve the lives of everyone in Singapore.
-hero-banner: /images/GovTech-Smart-Nation-Staff-Banner3.jpg
+hero-subtitle: Join us at STACK 2020, Singapore's largest Government-led developers conference.
+hero-banner: /images/Stack 2020 banner_LI_Company cover_1536x768 - NEW.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/our-role/?utm_source=hero_banner
+    url: /media/events/stack2020
 
 # Key Highlights
 key-highlights:
