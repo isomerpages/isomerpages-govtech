@@ -17,8 +17,8 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Empowering our nation through technology
-hero-subtitle: Join us at STACK 2020, Singapore's largest Government-led developers conference.
+hero-title:
+hero-subtitle:
 hero-banner: /images/Stack 2020 banner_LI_Company cover_1536x768 - NEW.jpg
 
 #Call to Action Button
