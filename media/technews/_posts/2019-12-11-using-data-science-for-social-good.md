@@ -3,10 +3,10 @@ layout: post
 title:  "Using data science for social good"
 permalink: "/media/technews/using-data-science-for-social-good"
 category: technews
-image: "images/technews/smart-city-part1.jpg"
+image: "images/technews/datascience1.jpg"
 ---
 
-![GovTech expert shares challenges and considerations of building a smart city](/images/technews/smart-city-part1.jpg)
+![datascience connect](/images/technews/datascience1.jpg)
 
 Hundreds of public officers took part in the Data Arcade Tournament 2019, a second year running of the visual analytics competition within the Singapore Public Service. The competition concluded with a 5-hour live hackathon with finalist teams presenting their insights that could promote volunteerism and philanthropy in Singapore.
 ---
@@ -29,6 +29,8 @@ A team of three data analysts and scientist from LTA did an analysis on the dist
 
 When asked about the most challenging aspect of the competition, Ms Wang Hui Xian, also from the LTA team, said that the lack of time had restricted the depth of the analysis they could conduct. Nonetheless, there may be opportunities to explore that depth further, as Ms Wang noted that NVPC has expressed interest in collaborating with her team in the future. 
 
+![datascience connect](/images/technews/datasciencetb.jpg)
+
 ### **Many drops make an ocean**
 
 Meanwhile, among the users of Qlik Sense, the team from MOM clinched the top prize for their analysis of the conversion rates among new, former and long-term donors. The team made recommendations in their presentation on areas which NVPC could look at to encourage more long-term donors to stay on this journey of giving.
@@ -36,6 +38,8 @@ Meanwhile, among the users of Qlik Sense, the team from MOM clinched the top pri
 The team also noted that smaller donations accounted for the majority of the total donations received by NVPC. “A message we want to bring across is that it is okay to donate very little, and it is okay to start small. Every bit of donation adds up in the end,” said Ms Madeleine Sim, a member of the MOM team. 
 
 Ms Ruth Lee, another member of the MOM team, said that they would use the experience from the Data Arcade Tournament to delve deeper and explore the capabilities of data visualisation in their work. “We may explore data visualisation as part of the data literacy programme we have been developing at MOM to empower others to use and work with data more efficiently,” said Ms Lee.
+
+![datascience connect](/images/technews/datascienceqlik.jpg)
 
 ### **Empowered by data**
 
