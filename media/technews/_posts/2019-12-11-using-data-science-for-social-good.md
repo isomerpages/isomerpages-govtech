@@ -50,3 +50,4 @@ Calling the event a success, guest-of-honour Mr Ng Chee Khern, Permanent Secreta
 All participants of the Data Arcade Tournament received extended trial use of the respective analytics tools for the purpose of the Tournament. Grand prizes for the winners include overseas conference tickets for the Qlik and Tableau conferences to broaden their horizons on the potential of visual analytics.
 
 Planning for the Data Arcade Tournament 2020 has started. If you are keen to come in as a dataset sponsor, please email mindy_lim@tech.gov.sg
+
