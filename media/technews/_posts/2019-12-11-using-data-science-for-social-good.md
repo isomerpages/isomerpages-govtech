@@ -30,6 +30,7 @@ A team of three data analysts and scientist from LTA did an analysis on the dist
 When asked about the most challenging aspect of the competition, Ms Wang Hui Xian, also from the LTA team, said that the lack of time had restricted the depth of the analysis they could conduct. Nonetheless, there may be opportunities to explore that depth further, as Ms Wang noted that NVPC has expressed interest in collaborating with her team in the future. 
 
 ![datascience connect](/images/technews/datasciencetb.jpg)
+*(From Left) Wang Huixian, Cheo Rui Ming, Rachel Lim*
 
 ### **Many drops make an ocean**
 
@@ -40,6 +41,7 @@ The team also noted that smaller donations accounted for the majority of the tot
 Ms Ruth Lee, another member of the MOM team, said that they would use the experience from the Data Arcade Tournament to delve deeper and explore the capabilities of data visualisation in their work. “We may explore data visualisation as part of the data literacy programme we have been developing at MOM to empower others to use and work with data more efficiently,” said Ms Lee.
 
 ![datascience connect](/images/technews/datascienceqlik.jpg)
+*(From Left) Benjamin Aw, Madeleine Sim, Ruth Lee*
 
 ### **Empowered by data**
 
