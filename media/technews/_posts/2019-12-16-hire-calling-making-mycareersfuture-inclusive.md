@@ -13,7 +13,7 @@ Persons with disabilities may have difficulty navigating the MyCareersFuture.sg 
  
 Gone are the days when job hunting involved flipping through the classified ads in the newspapers. In the internet age, employers have moved their talent search online to gain access to a bigger, global pool of candidates, and employees have more choices when scouting for positions posted on job portals.
 
-One such portal is the MyCareersFuture.sg platform, developed by the Government Technology Agency of Singapore (GovTech), which serves as a digital one-stop repository and resource centre for hirers and job seekers. From creating job alerts to ranking job applicants by suitability, both sides of the recruitment fence stand to gain from the new features of the government-hosted job-matching site.  
+One such portal is the [MyCareersFuture.sg](https://www.mycareersfuture.sg/) platform, developed by the Government Technology Agency of Singapore (GovTech), which serves as a digital one-stop repository and resource centre for hirers and job seekers. From creating job alerts to ranking job applicants by suitability, both sides of the recruitment fence stand to gain from the new features of the government-hosted job-matching site.  
 
 But simply moving hiring processes online is not enough—the inclusivity of job portals ought to be taken into consideration as well. For example, people with partial or total loss of vision will have difficulty navigating an online job portal. GovTech thus recognises that greater effort needs to be put into augmenting the very fabric of a web page to make it fully accessible to all individuals.
 
