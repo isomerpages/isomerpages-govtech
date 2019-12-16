@@ -15,4 +15,4 @@ The Government has been organising crowdsourcing activities in the form of chall
 
 The revamped Ideas! features a fresh new look, with easier navigation for an improved user experience. Users will also be able to browse for challenges sorted by categories, as well as utilise the improved search engine. Sign up using your social media accounts or SingPass and stand a chance to win prizes when you take part in challenges.
 
-For Government agencies that use the portal to host their challenges, they will be able to run, manage and review their challenges independently. To find out how to host your agency’s challenge on Ideas! please email [Jayaraj_Dirilokaraj@tech.gov.sg](mailto:Jayaraj_Dirilokaraj@tech.gov.sg) or [Goh_Kiat_Huen@tech.gov.sg](mailto:Goh_Kiat_Huen@tech.gov.sg). 
+For Government agencies that use the portal to host their challenges, they will be able to run, manage and review their challenges independently. To find out how to host your agency’s challenge on Ideas! please email [Eric_YZ_Tan@tech.gov.sg](mailto:Eric_YZ_Tan@tech.gov.sg). 
