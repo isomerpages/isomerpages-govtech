@@ -23,8 +23,9 @@ hero-banner: /images/STACK-2020-Hero-Banner-Corp-Site.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /media/events/stack2020
+  - text: Register Now
+    url: https://www.govtechstack.sg
+    external: true
 
 # Key Highlights
 key-highlights:
