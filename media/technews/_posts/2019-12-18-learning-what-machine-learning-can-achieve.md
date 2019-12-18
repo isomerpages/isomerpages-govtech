@@ -17,6 +17,8 @@ For something to be trainable, however, it must first be embedded with some form
 
 Giving audiences a flavour of the practical uses of machine learning were Dr Tok Wee Hyong, Principal Data Science Manager at Microsoft; and Mr Chong Jia Yi, distinguished engineer at the Government Technology Agency of Singapore (GovTech). They were speaking at the 4th GovTech STACK-X Meetup, a regular series of talks to engage the tech community. 
 
+![Learning what machine learning can achieve](/images/technews/machine-learning-part2.jpg)
+
 ### **Counting on AI**
 
 “Today, developments in machine learning and artificial intelligence (AI) are happening at an accelerated pace, but what is really important is that these are not just innovations in academia. A lot of the advancements are immediately applicable to real-world problems,” said Dr Tok.
@@ -32,6 +34,8 @@ Today, a large segment of the world’s population lacks access to trained radio
 Speaking of complex problems, creating lifelike simulations of objects and living things, such as those portrayed in video games or animated movies, used to be a manual and painstaking process. Now, with the help of machine learning, animators can achieve their vision of realistic digital characters with less hassle. 
 
 Mr Chong, distinguished engineer at GovTech, knows very well the potential of machine learning in graphics. Having worked with Pixar for close to ten years prior to joining GovTech, he was responsible for developing physics simulation and animation tools used in popular films such as WALL-E, Brave, Toy Story 3 and Up. 
+
+![Learning what machine learning can achieve](/images/technews/machine-learning-part4.jpg)
 
 “For instance, I worked on a skin simulation for digital characters which was used on all the animals of the movie Brave,” he said, adding that mimicking how the skin slides across the body during movement is actually a pretty complicated problem to solve mathematically. 
 
