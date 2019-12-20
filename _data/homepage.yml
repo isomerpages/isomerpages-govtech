@@ -19,12 +19,13 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title:
 hero-subtitle:
-hero-banner: /images/stack-banner-final.jpg
+hero-banner: /images/Stack-2020-hero-banner-v2.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /media/events/stack2020
+  - text: Register Now
+    url: https://www.govtechstack.sg
+    external: true
 
 # Key Highlights
 key-highlights:
