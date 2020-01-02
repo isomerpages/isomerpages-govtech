@@ -3,15 +3,19 @@ layout: post
 title:  "5 cybersecurity trends to note (plus tips to stay safe online)"
 permalink: "/media/technews/cybersecurity-trends-to-note"
 category: technews
-image: "images/technews/machine-learning-part1.jpg"
+image: "images/technews/cybersectrend1.jpg"
 ---
 
 At the rapidly evolving frontier of cybersecurity, it pays to have an understanding of the emerging threats and the protective actions that can be taken to mitigate them.
 ---
 
+![cybersec trend](/images/technews/cybersectrend1.jpg)
+
 When Singapore rolled out its Digital Government Blueprint in June 2018, building reliable, secure and resilient systems was earmarked as a key priority. Aware of the risks from digitalising government systems—especially with the push for cloud-centric services—the Cybersecurity Agency of Singapore and the Government Technology Agency of Singapore (GovTech) have been keeping a close eye on the global cyber threat landscape and are working with government agencies to bolster defences and prevent security breaches.
  
 TechNews spoke to Mr Shane Woo, an associate cybersecurity analyst at GovTech, to learn about some key trends in cybersecurity, as well as highlight how individuals and organisations can stay safe online. 
+
+![cybersec trend](/images/technews/cybersectrend2.jpg)
 
 ### **1. Cryptojacking**
 
