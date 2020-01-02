@@ -27,6 +27,8 @@ In addition, the user account menu that previously only appeared when a mouse cu
 
 “For example, we’ve fixed the skills input function. Before we patched it, the skills were not read out correctly by screen readers and were difficult to select or deselect,” Mr Tan explained.
 
+![Dickson GovTech Accessibility MyCareersFuture](/images/technews/Dickson-TechNews-Accessibility.jpg)
+
 ### **Championing ability and inclusiveness**
 
 These accessibility tools implemented by Mr Tan came from a deeply personal place—he is legally blind and has experienced first-hand some of the difficulties in job hunting, be it online or offline. Notably, the enhanced keyboard-based user interface benefits not only those who are visually impaired or who have limited dexterity but is also useful for “anyone who is eating with their ‘mouse hand’ while on a computer.” In other words, accessibility options tend to serve a wider group than their originally-intended audience, which is why Mr Tan is motivated to do what he does. 
