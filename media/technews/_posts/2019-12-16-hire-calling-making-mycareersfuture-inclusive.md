@@ -19,11 +19,11 @@ But simply moving hiring processes online is not enough—the inclusivity of job
 
 ### **Key improvements in accessibility**
 
-One of the ways to navigate a web page is to mouse over icons and click on them. This still requires one to watch where the cursor goes, an interface that is not suitable for persons with vision loss. For others with limited upper limb mobility, the fine motor control required to use a mouse may also impede web page access.
+One of the ways to navigate a web page is to mouse over icons and click on them. This still requires one to watch where the cursor goes, an interface that could be difficult for use for person with vision loss. For others with limited upper limb mobility, the fine motor control required to use a mouse may also impede web page access.
 
 To solve these problems, the MyCareersFuture.sg team at GovTech endeavoured to make every corner of the job portal accessible by keyboard. “All our search filters, including the trees for selecting government support schemes and location filters, are now completely operable via the keyboard—they can be reached via tab navigation. The arrow keys move through options, and the spacebar toggles selection,” said Mr Dickson Tan, a software engineer at GovTech. 
 
-In addition, the user account menu that previously only appeared when a mouse cursor was hovering over it can now be called up at the stroke of a key. Various instances of links or buttons that could only be activated via the computer mouse are now keyboard operable too, Mr Tan quipped, adding that it was just as important to make sure that everything displayed on the page was compatible with screen readers.
+In addition, the user account menu that previously only appeared when a mouse cursor was hovering over it can now be called up at the stroke of a key. Various instances of links or buttons that could only be activated via the computer mouse are now keyboard operable too, Mr Tan quipped, adding that it was just as important to make sure that everything displayed on the page was compatible with screen readers - a form of assitive technology to help people with visual impairement.
 
 “For example, we’ve fixed the skills input function. Before we patched it, the skills were not read out correctly by screen readers and were difficult to select or deselect,” Mr Tan explained.
 
@@ -39,6 +39,6 @@ During a sharing session at The Enabling Village located in Redhill, Singapore, 
 
 To ensure a more level playing field for job applicants, employers can avoid the use of such screenshots in tests, and if the test is to be conducted at the organisation itself, test terminals ought to have open-source screen reader software installed. 
 
-Accommodations at the workplace can also facilitate productivity and seamless cooperation between people with visual impairment and their colleagues. Illustrating this point, Mr Tan highlighted that GovTech has provided software that allows two people to edit code at the same time from two different workstations. This makes collaboration more convenient for him, since he can rely on his workstation’s screen reader to quickly understand what his colleague is doing, rather than have his colleague constantly verbalise code changes to him.
+Accommodations at the workplace can also facilitate productivity and seamless cooperation between people with visual impairment and their colleagues. Illustrating this point, Mr Tan highlighted that GovTech had enabled a screen reader tool that allows two people to edit code at the same time from two different workstations. This makes collaboration more convenient for him, since he can rely on his workstation’s screen reader to quickly understand what his colleague is doing, rather than have his colleague constantly verbalise code changes to him.
 
 Hence, with better accessibility on job portals, the right hiring practices, appropriate workplace accommodations and inclusive organisational culture, employers can attract diverse talents to fill their ranks, Mr Tan concluded.
