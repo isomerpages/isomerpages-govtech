@@ -42,3 +42,6 @@ To ensure a more level playing field for job applicants, employers can avoid the
 Accommodations at the workplace can also facilitate productivity and seamless cooperation between people with visual impairment and their colleagues. Illustrating this point, Mr Tan highlighted that GovTech had enabled a screen reader tool that allows two people to edit code at the same time from two different workstations. This makes collaboration more convenient for him, since he can rely on his workstation’s screen reader to quickly understand what his colleague is doing, rather than have his colleague constantly verbalise code changes to him.
 
 Hence, with better accessibility on job portals, the right hiring practices, appropriate workplace accommodations and inclusive organisational culture, employers can attract diverse talents to fill their ranks, Mr Tan concluded.
+
+
+(Read more web accessibility from Mr Dickson Tan's post [here](https://blog.gds-gov.tech/an-introduction-to-web-accessibility-part-1-e1a160a75163)
