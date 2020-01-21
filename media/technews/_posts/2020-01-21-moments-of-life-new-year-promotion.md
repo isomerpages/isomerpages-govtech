@@ -14,8 +14,6 @@ Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at ju
 
 **Promotion Period: 25 Jan 2020 to 1 Feb 2020***
 
-<Insert GIF on how to get to homescreen>
-
  - Step 1: Open up your Moments of Life app
  - Step 2: Login with SingPass & set up your account (if you haven’t already done so)
  - Step 3: Flash the home screen to redeem. 
