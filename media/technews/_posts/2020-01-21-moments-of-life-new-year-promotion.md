@@ -3,10 +3,10 @@ layout: post
 title:  "Celebrate this Lunar New Year with bundled goodness, just like the Moments of Life app!"
 permalink: "/media/technews/moments-of-life-new-year-promotion"
 category: technews
-image: "/images/mol-webpage.PNG"
+image: "/images/technews/mrbean.jpg"
 ---
 
-![MOL](/images/mol-webpage.PNG)
+![MOL](/images/technews/mrbean.jpg)
 
 
 Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at just $1 (UP $2.60).
@@ -33,9 +33,12 @@ Limited to 1 redemption per person per purchase and while stocks last.
 
 Moments of Life app home screen shall be presented at the cashier before being able to purchase this bundled set.
 
-Mr Bean & GovTech reserve the right, at our discretion, to change, modify, add, or remove portions of these Terms at any time by posting the amended Terms. Please check these Terms periodically for changes.
+Mr Bean & GovTech reserve the right, at our discretion, to change, modify, add, or remove portions of these Terms at any time by posting the amended Terms. Please check these Terms periodically for changes. This is in partnership with Mr Bean Singapore.
 
 *Other T&Cs apply.*
 
-This is in partnership with Mr Bean Singapore.
+If you are viewing this on your mobile phone, download the app from the App Store or Google Play Store by clicking [here](https://momentsoflifeapp.page.link/ZH7o). 
 
+If you are viewing this on your desktop browser, scan this QR code to download.
+
+![Moments of Life Product Features](/images/programmes/products-and-services/mol-qrcode.png)
