@@ -3,10 +3,10 @@ layout: post
 title:  "Celebrate this Lunar New Year with bundled goodness, just like the Moments of Life app!"
 permalink: "/media/technews/moments-of-life-new-year-promotion"
 category: technews
-image: "images/technews/tvws-part1.JPG"
+image: "/images/mol-webpage.PNG"
 ---
 
-![tvws](/images/technews//tvws-part1.JPG)
+![MOL](/images/mol-webpage.PNG)
 
 
 Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at just $1 (UP $2.60).
