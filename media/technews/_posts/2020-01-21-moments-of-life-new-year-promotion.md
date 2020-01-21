@@ -40,3 +40,4 @@ Mr Bean & GovTech reserve the right, at our discretion, to change, modify, add, 
 *Other T&Cs apply.*
 
 This is in partnership with Mr Bean Singapore.
+
