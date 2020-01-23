@@ -26,8 +26,7 @@ The true challenge came in October 2018, when a manual governing ICT platforms w
 
 ### **Handling a ‘big bang’ transition**
 
-Beyond implementing the new password policy at short notice, the team anticipated a greater challenge in getting teachers to adopt iCON 2.0. 
-Acknowledging that not all teachers are equal in terms of IT savviness, the team began putting together change management plans to reduce the friction of transiting to the new system.
+Beyond implementing the new password policy at short notice, the team anticipated a greater challenge in getting teachers to adopt iCON 2.0. Acknowledging that not all teachers are equal in terms of IT savviness, the team began putting together change management plans to reduce the friction of transiting to the new system.
 
 “It was a ‘big bang’ change, meaning that the switch to iCON 2.0 was to take place overnight, and for all 45,000 users at once,” said Mr Ng. “If we do not handle the transition correctly, the MOE’s IT helpdesk would probably be overwhelmed by calls from teachers asking to troubleshoot login issues.”
 
@@ -39,25 +38,20 @@ Before the actual launch of their product, the team leveraged multiple communica
 
 “It’s also crucial to help the end users understand that we are not trying to make life difficult for them with this new product, and to show them there is a real need for it,” shared Ms Lee Soon Lan, Senior Assistant Director, MOE ITD.
 
-
-2. Embed in-app prompting
+#### **2. Embed in-app prompting**
  
 While an instruction manual for iCON 2.0 may be helpful for some users, others may need more ‘personalised’ guidance in setting up their accounts. Thus, the team included intuitive prompts and error messages in the app that appear as the user navigates through the login process, said Ms Lee. 
 
 Moreover, if users do not meet the password complexity requirements, they will receive instructions on how to create a more robust password and be able to gauge if they are getting closer to the necessary complexity level.
 
-
-3. Get user feedback early
+#### **3. Get user feedback early**
 
 In line with agile development practices, the team went through multiple iterations of iCON 2.0 in consultation with the system’s end users — the teachers. In fact, a few of the iCON 2.0 team members are teachers themselves. Working with the end users often allows problems to be surfaced and addressed earlier on in the product development process, thereby helping to prevent deployment bottlenecks downstream.
 
-4. Train the trainers
+#### **4. Train the trainers**
 
 When carrying out a ‘big bang’ adoption of new digital products, it helps to train up a cadre of ‘technical ambassadors’ within the organisation who will be able to provide on-site troubleshooting services to end users. In the case of iCON 2.0, the team relied on the ICT managers of each school. This way, should self-help guides and in-app prompting fail, users will have someone to turn to for advice on the spot. Helpdesk personnel will also not be overwhelmed by calls from frustrated end users. 
 
-5. Seek management’s support and guidance
+#### **5. Seek management’s support and guidance**
 
 Lastly, the management’s involvement in the project could not be overstated. The management  provided many valuable feedback during iCON 2.0’s development process. The feedback and suggestions led to a better user experience and change management process during iCON 2.0’s rollout. 
-
-
- 
