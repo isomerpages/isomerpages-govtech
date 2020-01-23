@@ -9,6 +9,7 @@ image: "images/technews/icon-part1.jpg"
 ![MOE Icon team](/images/technews/icon-part1.jpg)
 
 iCON 2.0—a messaging and collaboration system for teachers—was launched in February 2019. Find out how GovTechies and officers from the Ministry of Education ensured a pleasant user experience and a seamless transition to the new system.
+---
   
 A decade ago, the mobile phone was primarily used for calling and texting; access to the internet was limited to browsers on a desktop computer. With the advent of smartphones, however, the interface between people and the digital world was completely overhauled. 
 
