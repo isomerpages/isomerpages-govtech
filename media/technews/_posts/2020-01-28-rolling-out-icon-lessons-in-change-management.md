@@ -16,9 +16,13 @@ Unfortunately, some online systems built for desktop browsing have not aged well
 
 This was a problem faced by teachers in Singapore when they started logging in to the Ministry of Education’s (MOE’s) messaging and collaboration system—known as iCON—on their mobile devices. “Users sers found that the dashboard for iCON did not render nicely on their smartphones or tablets, with all the links becoming very small and hard to click,” said Mr Samuel Ng, Senior IT Consultant, MOE ITD. He is one of the GovTech officerbased in the Ministry of Education  tasked to give iCON a facelift. Given the technicalities involved, Mr Ng and his colleagues from GovTech were tasked to drive the development of iCON 2.0.
 
+![MOE Icon2.0](/images/technews/icon-part2.jpg)
+
 ### **Mobile is our Friend**
 
 The first order of the day was to make iCON mobile-friendly. “This meant that the text on iCON’s pages had to adapt to varying screen sizes, which was not difficult to accomplish technically,” shared Derrick Lau, Senior IT Consultant. Furthermore, after holding focus group sessions with teachers, as well as Information and communications technology (ICT) heads of department at schools, the iCON 2.0 team discovered that teachers preferred clickable icons instead of text-based hyperlinks when accessing the various features of iCON, such as email or cloud storage. This was also implemented with relative ease. 
+
+![MOE Icon2.0](/images/technews/icon-part3.jpg)
 
 ### **Complex password made easy**
 
