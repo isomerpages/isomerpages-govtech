@@ -15,7 +15,7 @@ A decade ago, the mobile phone was primarily used for calling and texting; acces
 
 Unfortunately, some online systems built for desktop browsing have not aged well with new technology and changing user habits. For example, webpages meant for large desktop screens became grotesque and difficult to navigate when viewed on a smaller smartphone display. 
 
-This was a problem faced by teachers in Singapore when they started logging in to the Ministry of Education’s (MOE’s) messaging and collaboration system—known as iCON—on their mobile devices. “Users found that the dashboard for iCON did not render nicely on their smartphones or tablets, with all the links becoming very small and hard to click,” said Mr Samuel Ng, Senior IT Consultant, MOE ITD. He is one of the GovTech officer based in the Ministry of Education  tasked to give iCON a facelift. Given the technicalities involved, Mr Ng and his colleagues from GovTech were tasked to drive the development of iCON 2.0.
+This was a problem faced by teachers in Singapore when they started logging in to the Ministry of Education’s (MOE’s) messaging and collaboration system—known as iCON—on their mobile devices. “Users found that the dashboard for iCON did not render nicely on their smartphones or tablets, with all the links becoming very small and hard to click,” said Mr Samuel Ng, Senior IT Consultant, MOE ITD. He is one of the GovTech officers based in the Ministry of Education  tasked to give iCON a facelift. Given the technicalities involved, Mr Ng and his colleagues from GovTech were tasked to drive the development of iCON 2.0.
 
 ![MOE Icon2.0](/images/technews/icon-part2.jpg)
 
