@@ -30,7 +30,7 @@ Mr Bean store locator [here](http://www.mrbean.com.sg/store-locator).
 
 Limited to 1 redemption per person per purchase and while stocks last. 
 
-Moments of Life app home screen shall be presented at the cashier before being able to purchase this bundled set.
+Moments of Life app shall be presented at the cashier before being able to purchase this bundled set.
 
 Mr Bean & GovTech reserve the right, at our discretion, to change, modify, add, or remove portions of these Terms at any time by posting the amended Terms. Please check these Terms periodically for changes. This is in partnership with Mr Bean Singapore.
 
