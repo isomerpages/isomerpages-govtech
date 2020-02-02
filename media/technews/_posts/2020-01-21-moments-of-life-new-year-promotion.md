@@ -12,7 +12,7 @@ image: "/images/technews/mrbean.jpg"
 Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at just $1 (UP $2.60).
 ---
 
-**Promotion Period: 25 Jan 2020 to 1 Feb 2020***
+**Promotion Period & Status: On-going since 25 Jan 2020***
 
  - Step 1: Flash the Moments of Life app
  - Step 2: Redeem your Classic Soya Milk + Pancake set!

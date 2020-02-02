@@ -1,9 +1,3 @@
-- title: Beeline
-  category: CITIZEN
-  desc: Beeline is an open, cloud-based smart mobility platform developed to provide data-driven shuttle bus services for commuters.
-  img: images/programmes/products-and-services/BeeLine.png
-  bg-color: bg-beeline
-
 - title: ParkingSG
   category: CITIZEN
   desc: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
