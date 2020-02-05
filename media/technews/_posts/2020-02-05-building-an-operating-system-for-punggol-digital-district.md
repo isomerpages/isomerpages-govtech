@@ -38,7 +38,7 @@ In terms of deployment and form factor, the Open Digital Platform is embedded in
 
 “We’re not doing away with the 2D dashboards and graphs and charts, but we believe that the 3D user interface will be helpful for users to monitor the situation on the ground,” Mr Tan noted. 
 
-![Open Digital Platform](/images/technews/pdd-part2.JPG)
+![Open Digital Platform](/images/technews/pdd-part2.PNG)
 
 ### **Simulation station**
 
@@ -54,4 +54,4 @@ Going forward, his team is looking forward to connecting live systems to the Ope
 
 “We’re very excited about the potential of the Open Digital Platform and what it will do for PDD,” Mr Tan concluded. 
 
-![Open Digital Platform](/images/technews/pdd-part3.JPG)
+![Open Digital Platform](/images/technews/pdd-part3.PNG)
