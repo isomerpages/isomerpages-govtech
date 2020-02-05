@@ -21,10 +21,10 @@ Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at ju
 
 This promotion is only valid at participating Mr Bean (Singapore) stores below:
 
- - North - Ang Mo Kio Hub, Causeway Point and Kovan Heartland Mall
- - East - Bedok Mall, Eastpoint Mall, White Sands
- - South - Central - Vivo City, Tiong Bahru Plaza
- - West - Jurong East MRT, Choa Chu Kang MRT
+ - North - Ang Mo Kio Hub, Causeway Point, Kovan Heartland Mall, Junction 8 Shopping Centre, North Point, North Point City, Sun Plaza, Yew Tee Point, 
+ - East - Bedok Mall, Eastpoint Mall, White Sands, Kallang MRT station, Paya Lebar MRT Station, Tampines Mall, Our Tampines Hub, Pasir Ris MRT station
+ - South - Central - Vivo City, Tiong Bahru Plaza, Clementi Mall
+ - West - Jurong East MRT, Choa Chu Kang MRT, Bukit Panjang Plaza, Jurong Point Shopping Centre, West Mall
 
 Mr Bean store locator [here](http://www.mrbean.com.sg/store-locator).
 
