@@ -21,4 +21,5 @@ image:
 12. GovTech will notify the winners on how the prizes are to be collected.
 13. GovTech’s decision in respect of all matters related to the contest will be final. GovTech reserves the right not to enter into any correspondence.
 14. Apple is neither the sponsor nor connected in any way, shape or form with this giveaway.
-15.  You are providing your information to GovTech and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at https://www.tech.gov.sg/privacy/.
+15. I agree to receive marketing, advertising and promotional information relating to the app from Government Technology Agency (Singapore). 
+16.  You are providing your information to GovTech and not to any other party. The information provided will be used in conjunction with the following Privacy Policy found at https://www.tech.gov.sg/privacy/.
