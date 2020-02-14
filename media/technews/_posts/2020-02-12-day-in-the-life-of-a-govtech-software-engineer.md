@@ -15,9 +15,11 @@ Ever wondered what it’s like to manage a team of software engineers tasked wit
 
 [Michael will be conducting a Coding Dojo at STACK 2020, GovTech’s flagship conference and the largest government-led developers event in Singapore that connects government, industry and the tech community. The event runs from 30 March to 1 April 2020.
 
+![GovTech software engineer](/images/technews/michael-part5.jpg)
+
 At the Coding Dojo, pairs of coders will be given a small coding puzzle where they have to attempt together. This is called a Code Kata. Through practice, writing small changes, tests before writing code and collaboration, Michael hopes to share the knowledge of how modern software is built.]
 
-![GovTech software engineer](/images/technews/michael-part3.jpg)
+![GovTech software engineer](/images/technews/michael-part4.jpg)
 
 **7:30 a.m**
 I’m up and about getting ready for the day! On my way to the office, I make it a point to check in on the Telegram chat group that I have with my colleagues. We are responsible for the smooth running of the Ministry of Manpower’s (MOM) work pass system for Foreign Domestic Workers (FDW), so if any problems with the system surfaced during the night, I’ll be notified about it via the chatgroup. As they say, “no news is good news!” 
