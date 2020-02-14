@@ -13,9 +13,9 @@ Michael Cheng, lead software engineer at GovTech, shares how his team helps keep
  
 Ever wondered what it’s like to manage a team of software engineers tasked with keeping a government digital service running seamlessly? Follow Michael Cheng, a lead software engineer at the Government Technology Agency of Singapore (GovTech), as he goes about his day. 
 
-[Michael will be conducting a Coding Dojo at STACK 2020, GovTech’s flagship conference and the largest government-led developers event in Singapore that connects government, industry and the tech community. The event runs from 30 March to 1 April 2020.
-
 ![GovTech software engineer](/images/technews/michael-part5.jpg)
+
+[Michael will be conducting a Coding Dojo at STACK 2020, GovTech’s flagship conference and the largest government-led developers event in Singapore that connects government, industry and the tech community. The event runs from 30 March to 1 April 2020.
 
 At the Coding Dojo, pairs of coders will be given a small coding puzzle where they have to attempt together. This is called a Code Kata. Through practice, writing small changes, tests before writing code and collaboration, Michael hopes to share the knowledge of how modern software is built.]
 
