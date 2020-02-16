@@ -15,11 +15,6 @@ Ever wondered what it’s like to manage a team of software engineers tasked wit
 
 ![GovTech software engineer](/images/technews/michael-part5.jpg)
 
-[Michael will be conducting a Coding Dojo at STACK 2020, GovTech’s flagship conference and the largest government-led developers event in Singapore that connects government, industry and the tech community. The event runs from 30 March to 1 April 2020.
-
-At the Coding Dojo, pairs of coders will be given a small coding puzzle where they have to attempt together. This is called a Code Kata. Through practice, writing small changes, tests before writing code and collaboration, Michael hopes to share the knowledge of how modern software is built.]
-
-![GovTech software engineer](/images/technews/michael-part4.jpg)
 
 **7:30 a.m**
 I’m up and about getting ready for the day! On my way to the office, I make it a point to check in on the Telegram chat group that I have with my colleagues. We are responsible for the smooth running of the Ministry of Manpower’s (MOM) work pass system for Foreign Domestic Workers (FDW), so if any problems with the system surfaced during the night, I’ll be notified about it via the chatgroup. As they say, “no news is good news!” 
@@ -35,6 +30,8 @@ An error crops up on the dashboard! This is when we, as a team, will huddle toge
 
 **9:55 a.m**
 We’ve diagnosed the error as a minor issue. Some maintenance works were carried out the night before, and we just needed to tweak a few settings to get things working again. Only the production support team members were needed. Phew!
+
+![GovTech software engineer](/images/technews/michael-part4.jpg)
 
 **10:30 a.m**
 Something on the dashboard flickers from green to red, and I spot it from the corner of my eye. What now? This one looks like a real bug in the system, and we might take a few hours to get to the root of the problem. But we can’t afford hours of downtime, so we come up with what we call a ‘hotfix’ to buy us some time.
