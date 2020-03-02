@@ -3,10 +3,10 @@ layout: post
 title:  "MaskGoWhere - This team has the answers"
 permalink: "/media/technews/maskgowhere"
 category: technews
-image: "images/technews/michael-part1.jpg"
+image: "images/technews/maskgowhereteam.jpg"
 ---
 
-![A guide to securing your Google account](/images/technews/google-secure-part1.png)
+![The GovTech MaskGoWhere team](/images/technews/maskgowhereteam.jpg)
 
 Find out how GovTech created MaskGoWhere in record time to help citizens find out where to pick up their masks amid the COVID-19 outbreak.
 ---
@@ -15,7 +15,7 @@ Watching the coronavirus outbreak unfurl in Wuhan, China, Singaporeans worried t
 
 The very next day, several retail outlets across the island saw their mask stocks dwindle to zero, and Singaporeans fretted about not being able to protect themselves against a highly contagious virus. In response, the Singapore government announced on 30 January 2020 that it would be giving each household four surgical masks, to be collected from specific distribution centres between 1-9 February 2020. 
 
-Recognising the importance of getting timely and accurate information about the distribution centres to citizens, a team of developers at the Government Technology Agency of Singapore (GovTech) mobilised to develop MaskGoWhere. The website allows citizens to key in their postal code to learn about their respective mask collection points. Led by Mr Lim Eyung, director of Government Digital Services at GovTech, the team built and designed the first version of the site in less than 12 hours.
+Recognising the importance of getting timely and accurate information about the distribution centres to citizens, a team of developers at the Government Technology Agency of Singapore (GovTech) mobilised to develop [MaskGoWhere](https://www.maskgowhere.gov.sg). The website allows citizens to key in their postal code to learn about their respective mask collection points. Led by Mr Lim Eyung, director of Government Digital Services at GovTech, the team built and designed the first version of the site in less than 12 hours.
 
 
 **GovTechies assemble!**
