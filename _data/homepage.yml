@@ -17,15 +17,15 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title:
+hero-title: Empowering our nation through technology 
 hero-subtitle:
-hero-banner: /images/Stack-2020-hero-banner-v2.jpg
+hero-banner: /images/GovTech-Hero-Banner-March2020.jpg
 
 #Call to Action Button
 button:
-  - text: Register Now
-    url: https://www.govtechstack.sg
-    external: true
+  - text: Learn More
+    url: /who-we-are/our-role/?utm_source=hero_banner
+    external: false
 
 # Key Highlights
 key-highlights:
