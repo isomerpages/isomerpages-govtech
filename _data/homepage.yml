@@ -19,7 +19,7 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: Empowering our nation through technology 
 hero-subtitle:
-hero-banner: /images/GovTech-Hero-Banner-March2020.jpg
+hero-banner: /images/GovTech-Hero-Banner-March2020v2.jpg
 
 #Call to Action Button
 button:
