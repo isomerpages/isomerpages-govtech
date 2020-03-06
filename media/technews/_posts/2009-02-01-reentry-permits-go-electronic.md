@@ -22,3 +22,5 @@ Prior to the launch of the e-service, the REP was issued in the form of an endor
 Permanent Residents who hold valid REPs and have a SingPass account can access the e-service in order to renew or transfer their REPs. Those who do not have SingPass or whose REPs have expired will have to submit their REP applications personally at the Permanent Resident Services Centre at the ICA Building.
 
 Singapore citizens or Permanent Residents with SingPass accounts can also use e-REP to submit REP renewal applications on behalf of their spouse and children. The fee for a five-year REP remains at S$50, and is payable via credit/debit card through e-REP once the application is approved. There is no fee for the transfer of REPs.
+
+<iframe src="https://giphy.com/embed/3o7TKB3oifq46DDhOE" width="480" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-basketball-no-3o7TKB3oifq46DDhOE">via GIPHY</a></p>
