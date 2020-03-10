@@ -8,7 +8,7 @@ image: "/images/technews/web4all-part1.JPG"
 
 ![How GovTech created a web accessibility testing tool](/images/technews/web4all-part1.JPG)
 
-Excerpt: Meet the GovTech team working to embed inclusion and accessibility into webpage design and software development. 
+Meet the GovTech team working to embed inclusion and accessibility into webpage design and software development. 
 ---
 
 When Louis Braille invented the Braille system in 1824, he empowered individuals with vision impairment to participate more actively in their communities. With the print alphabet translated into a touch-based format of raised dots on embossed paper, sight was no longer a prerequisite for accessing printed content—one could read without needing to see. 
@@ -23,7 +23,7 @@ At the Government Technology Agency of Singapore (GovTech), a team of developers
 
 Conversations about web accessibility should necessarily involve PWDs who are the ultimate end users of digital services, Ms Chua emphasised. That was why the GovTech team began the process of developing their web accessibility tool by carrying out a contextual inquiry on government e-service use by PWDs. This entails not only interviews with PWDs, but also observation of how PWDs interface with the relevant webpages. 
 
-“We worked with our partner, SG Enable, facilitated our involvement with relevant research participants who could help us better understand the needs of PWDs,” Ms Chua said.
+“Our partner, SG Enable, facilitated our involvement of relevant research participants who could help us better understand the needs of PWDs,” Ms Chua said.
 
 The contextual inquiry revealed some crucial shortcomings of government e-services. For example, persons with vision impairments rely on screen readers to inform them of what is being displayed on a screen. However, not all webpages are screen reader friendly. 
 
