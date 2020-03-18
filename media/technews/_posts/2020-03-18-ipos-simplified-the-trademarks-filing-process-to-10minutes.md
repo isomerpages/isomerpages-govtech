@@ -40,4 +40,4 @@ Aligned with Singapore’s Smart Nation initiative, the transformation of Singap
 
 “Based on the filing numbers recorded in the first month, IPOS Go has improved the user experience of business owners, allowing them to file their trademarks directly with IPOS,” says Chee King. The team also hopes to introduce more useful features, such as renewals, on the app in the future.
 
-Have a trademark to file? Download IPOS Go on the App Store or Google Play Store today, and get your trademark filed in just 10 minutes!
+Have a trademark to file? Download IPOS Go on the [App Store](https://apps.apple.com/us/app/ipos-go/id1475896971) or [Google Play Store](https://play.google.com/store/apps/details?id=sg.ipos.mobile) today, and get your trademark filed in just 10 minutes!
