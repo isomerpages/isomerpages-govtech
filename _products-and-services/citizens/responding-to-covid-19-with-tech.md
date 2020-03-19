@@ -19,10 +19,10 @@ Amid the Covid-19 situation, Ask Jamie has been enhanced to address queries rela
 
 In addition to the Gov.sg and Ministry of Health websites, citizens are also able to access the chatbot via Facebook Messenger and Telegram:
 
- - Gov.sg
- - Moh.gov.sg
- - go.gov.sg/askjamiebotfbm
- - go.gov.sg/askjamiebottg
+ - [Gov.sg](www.gov.sg)
+ - [Moh.gov.sg](www.moh.gov.sg)
+ - [go.gov.sg/askjamiebotfbm](www.go.gov.sg/askjamiebotfbm)
+ - [go.gov.sg/askjamiebottg](www.go.gov.sg/askjamiebottg)
  
 The chatbot is developed by the Government Technology Agency (GovTech).
 
@@ -30,7 +30,7 @@ The chatbot is developed by the Government Technology Agency (GovTech).
 
 This chatbot addresses questions from businesses related to COVID-19, including information on measures to help businesses in Budget 2020.
 
-Businesses can access the chatbot at go.gov.sg/businessconnect.
+Businesses can access the chatbot at www.go.gov.sg/businessconnect.
 
 The chatbot is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Trade and Industry (MTI).
 
