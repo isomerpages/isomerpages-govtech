@@ -30,7 +30,7 @@ The chatbot is developed by the Government Technology Agency (GovTech).
 
 This chatbot addresses questions from businesses related to COVID-19, including information on measures to help businesses in Budget 2020.
 
-Businesses can access the chatbot at www.go.gov.sg/businessconnect.
+Businesses can access the chatbot at [www.go.gov.sg/businessconnect](www.go.gov.sg/businessconnect).
 
 The chatbot is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Trade and Industry (MTI).
 
@@ -38,7 +38,7 @@ The chatbot is developed by the Government Technology Agency (GovTech) in collab
 
 FluGoWhere is a website for quick and easy search for the list of Public Health Preparedness Clinics (PHPCs) providing special subsidies for those diagnosed with respiratory illnesses. There are more than 900 participating clinics as of 19 March 2020.
 
-Citizens can access the website via www.FluGoWhere.gov.sg.
+Citizens can access the website via [www.FluGoWhere.gov.sg](www.FluGoWhere.gov.sg).
 
 The website is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
 
@@ -46,13 +46,13 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 
 The official Gov.sg WhatsApp account, this service provides citizens with timely and trusted updates on the COVID-19 situation. This service is available in 4 languages, and the system has been optimised to send multi-lingual messages to all subscribers within 30 minutes.
 
-Citizens can subscribe to updates by registering at www.go.gov.sg/Whatsapp.
+Citizens can subscribe to updates by registering at [www.go.gov.sg/Whatsapp](www.go.gov.sg/Whatsapp).
 
 ### **MaskGoWhere**
 
 MaskGoWhere is a website that helps Singaporean households find the designated location, day and time to collect their allocation of masks. GovTech engineers have been making progressive updates and improvements to the website based on the latest available information and insights gathered through real-time user feedback function embedded within the website.
 
-Citizens can access the website via www.MaskGoWhere.gov.sg.
+Citizens can access the website via [www.MaskGoWhere.gov.sg](www.MaskGoWhere.gov.sg).
 
 The website is developed by the Government Technology Agency (GovTech) in collaboration with several Government agencies including the Ministry of Communications and Information (MCI), Ministry of Health (MOH) and People’s Association (PA).
 
