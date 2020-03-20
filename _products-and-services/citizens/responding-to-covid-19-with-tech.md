@@ -25,11 +25,11 @@ To learn more about the app, visit [www.TraceTogether.gov.sg](www.tracetogether.
 
 The app is developed by the Government Technology Agency (GovTech) and Ministry of Health (MOH), in support of SGUnited.
 
-![TraceTogerther](/images/Volunteers.jpg)
-
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
+
+![TraceTogerther](/images/Volunteers.jpg)
  
 ### **Ask Jamie chatbot**
 
