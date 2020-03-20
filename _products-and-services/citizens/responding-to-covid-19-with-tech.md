@@ -39,7 +39,9 @@ As organisations implement temperature scanning as a Covid-19 safeguard prior to
  
 Developed by GovTech, the Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
 
-Businesses and building owners can find out more at www.go.gov.sg/travelandhealth.
+Businesses and building owners can find out more at [www.go.gov.sg/travelandhealth](www.go.gov.sg/travelandhealth).
+
+![covid](/images/thd-covid.jpg)
  
 ### **Ask Jamie chatbot**
 
@@ -53,6 +55,8 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [Moh.gov.sg](www.moh.gov.sg)
  - [go.gov.sg/askjamiebotfbm](www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](www.go.gov.sg/askjamiebottg)
+ 
+ ![covid](/images/askjamie-covid.jpg)
  
 ### **COVID-19 Chat for Biz**
 
@@ -95,4 +99,6 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 The Leave of Absence & Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
  
 The solution is developed by GovTech.
+
+![covid](/images/shn-covid.jpg)
 
