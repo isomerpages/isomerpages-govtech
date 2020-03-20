@@ -17,24 +17,29 @@ The Government has progressively built up the digital infrastructure and enginee
  
 TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
  
-Through the exchange of short-distance Bluetooth signals between mobile phones that have the app installed, each phone can detect other participating TraceTogether phones that are in close proximity. The app estimates the distance between users, and the duration of such encounters. Records of these encounters are stored locally, in encrypted form, on each user’s phone for 21 days (covering the incubation period of the virus).
+Through the exchange of short-distance Bluetooth signals between mobile phones with the installed app, each phone can detect other participating TraceTogether phones that are in close proximity. The app estimates the distance between users, and the duration of such encounters. Records of these encounters are stored locally, in encrypted form, on each user’s phone for 21 days (covering the incubation period of the virus).
  
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to MOH. MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
  
 To learn more about the app, visit [www.TraceTogether.gov.sg](www.tracetogether.gov.sg)
 
-The app is developed by the Government Technology Agency (GovTech) and Ministry of Health (MOH), in support of SGUnited.
+The app is developed by the Government Technology Agency (GovTech) and Ministry of Health (MOH).
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/k1vCOx6RcWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
 
 ![TraceTogerther](/images/Volunteers.jpg)
+
+### **Travel and Health Declaration System**
+ 
+Developed by GovTech, the Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their SingPass Mobile app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
+
+Businesses and building owners can find out more at www.go.gov.sg/travelandhealth.
  
 ### **Ask Jamie chatbot**
 
