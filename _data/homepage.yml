@@ -17,16 +17,16 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Empowering our nation through technology 
+hero-title: Responding to COVID-19 with Tech
 hero-subtitle:
-hero-banner: /images/GovTech-Hero-Banner-March2020v2.jpg
+hero-banner: /images/hero-banner-covid.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/our-role/?utm_source=hero_banner
+    url: /products-and-services/responding-to-covid-19-with-tech/?utm_source=hero_banner
     external: false
-
+    
 # Key Highlights
 key-highlights:
   - title: PRODUCTS AND SERVICES
@@ -66,3 +66,4 @@ careers-subtitle: Be part of the digital transformation
 careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
 careers-more-button: Explore Opportunities
 careers-more-button-url: /careers/overview
+
