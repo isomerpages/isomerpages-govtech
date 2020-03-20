@@ -75,6 +75,7 @@ The solution is developed by the Government Technology Agency (GovTech).
 
 As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
 
-![TraceTogerther](/images/programmes/products-and-services/tracetogether-part1.jpg)
+![TraceTogerther](/images/Volunteers.jpg)
+
 
 
