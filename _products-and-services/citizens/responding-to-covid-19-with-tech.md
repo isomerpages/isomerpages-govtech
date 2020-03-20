@@ -56,7 +56,7 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](www.go.gov.sg/askjamiebottg)
  
- ![covid](/images/askjamie-covid.jpg)
+ ![covid](/images/askjamie-covid.png)
  
 ### **COVID-19 Chat for Biz**
 
