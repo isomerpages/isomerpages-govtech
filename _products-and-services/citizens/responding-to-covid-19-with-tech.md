@@ -10,10 +10,27 @@ thumbnail_image: /images/programmes/products-and-services/test.jpg
 
 ![hero](/images/Thumbnail.jpg)
 
-
 The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
 ---
 
+### **TraceTogether**
+ 
+TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
+ 
+Through the exchange of short-distance Bluetooth signals between mobile phones that have the app installed, each phone can detect other participating TraceTogether phones that are in close proximity. The app estimates the distance between users, and the duration of such encounters. Records of these encounters are stored locally, in encrypted form, on each user’s phone for 21 days (covering the incubation period of the virus).
+ 
+If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to MOH. MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
+ 
+To learn more about the app, visit [www.TraceTogether.gov.sg](www.tracetogether.gov.sg)
+
+The app is developed by the Government Technology Agency (GovTech) and Ministry of Health (MOH), in support of SGUnited.
+
+![TraceTogerther](/images/Volunteers.jpg)
+
+### **Self-help Temperature Scanner**
+
+As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
+ 
 ### **Ask Jamie chatbot**
 
 Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
@@ -70,12 +87,3 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 The Leave of Absence & Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
 
 The solution is developed by the Government Technology Agency (GovTech).
-
-### **Self-help Temperature Scanner**
-
-As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
-
-![TraceTogerther](/images/Volunteers.jpg)
-
-
-
