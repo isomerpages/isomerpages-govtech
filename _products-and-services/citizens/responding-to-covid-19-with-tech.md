@@ -42,6 +42,8 @@ Citizens can access the website via [www.FluGoWhere.gov.sg](www.FluGoWhere.gov.s
 
 The website is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
 
+![MGW](/images/programmes/products-and-services/fgw.png)
+
 ### **Gov.sg WhatsApp**
 
 The official Gov.sg WhatsApp account, this service provides citizens with timely and trusted updates on the COVID-19 situation. This service is available in 4 languages, and the system has been optimised to send multi-lingual messages to all subscribers within 30 minutes.
@@ -57,6 +59,8 @@ Citizens can access the website via [www.MaskGoWhere.gov.sg](www.MaskGoWhere.gov
 The website is developed by the Government Technology Agency (GovTech) in collaboration with several Government agencies including the Ministry of Communications and Information (MCI), Ministry of Health (MOH) and People’s Association (PA).
 
 (*The mask collection exercise has concluded as of 29 February 2020.*)
+
+![MGW](/images/programmes/products-and-services/mgw.png)
  
 ### **Leave of Absence & Stay-Home Notice Tracking Solution**
 
@@ -67,3 +71,7 @@ The solution is developed by the Government Technology Agency (GovTech).
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a Covid-19 safeguard prior to entry to buildings/offices, the Government Technology Agency (GovTech) developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
+
+![TraceTogerther](/images/programmes/products-and-services/tracetogether-part1.jpg)
+
+
