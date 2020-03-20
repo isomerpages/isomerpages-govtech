@@ -64,7 +64,7 @@ This chatbot addresses questions from businesses related to COVID-19, including 
  
 Businesses can access the chatbot at [www.go.gov.sg/businessconnect](www.go.gov.sg/businessconnect).
 
-The chatbot is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Trade and Industry (MTI).
+The chatbot is developed by GovTech in collaboration with the Ministry of Trade and Industry (MTI).
 
 ### **FluGoWhere**
 
