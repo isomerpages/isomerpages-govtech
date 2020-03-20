@@ -43,10 +43,10 @@ Businesses and building owners can find out more at www.go.gov.sg/travelandhealt
  
 ### **Ask Jamie chatbot**
 
-Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
+Developed by GovTech, Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
 
-Amid the Covid-19 situation, Ask Jamie has been enhanced to address queries related to the virus, which helped to reduce overall call centre volumes. The chatbot uses machine learning to improve accuracy of the replies, and data analytics to detect trending topics.
-
+Since 1 February 2020, the chatbot has been enhanced to address queries related to COVID-19, and uses machine learning to improve accuracy of the replies, and data analytics to detect trending topics.
+ 
 In addition to the Gov.sg and Ministry of Health websites, citizens are also able to access the chatbot via Facebook Messenger and Telegram:
 
  - [Gov.sg](www.gov.sg)
@@ -54,29 +54,27 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](www.go.gov.sg/askjamiebottg)
  
-The chatbot is developed by the Government Technology Agency (GovTech).
-
 ### **COVID-19 Chat for Biz**
 
 This chatbot addresses questions from businesses related to COVID-19, including information on measures to help businesses in Budget 2020.
-
+ 
 Businesses can access the chatbot at [www.go.gov.sg/businessconnect](www.go.gov.sg/businessconnect).
 
 The chatbot is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Trade and Industry (MTI).
 
 ### **FluGoWhere**
 
-FluGoWhere is a website for quick and easy search for the list of Public Health Preparedness Clinics (PHPCs) providing special subsidies for those diagnosed with respiratory illnesses. There are more than 900 participating clinics as of 19 March 2020.
+FluGoWhere is a website to conveniently and easily search through a list of Public Health Preparedness Clinics (PHPCs) providing special subsidies for those diagnosed with respiratory illnesses. There are more than 900 participating clinics as of 19 March 2020.
 
 Citizens can access the website via [www.FluGoWhere.gov.sg](www.FluGoWhere.gov.sg).
 
-The website is developed by the Government Technology Agency (GovTech) in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
+The website is developed by GovTech in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
 
 ![MGW](/images/programmes/products-and-services/fgw.png)
 
 ### **Gov.sg WhatsApp**
 
-The official Gov.sg WhatsApp account, this service provides citizens with timely and trusted updates on the COVID-19 situation. This service is available in 4 languages, and the system has been optimised to send multi-lingual messages to all subscribers within 30 minutes.
+The official Gov.sg WhatsApp account provides citizens with timely and trusted updates on the COVID-19 situation. This service is available in 4 languages, and the system has been optimised to send multi-lingual messages to all subscribers within 30 minutes.
 
 Citizens can subscribe to updates by registering at [www.go.gov.sg/Whatsapp](www.go.gov.sg/Whatsapp).
 
@@ -95,5 +93,6 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 ### **Leave of Absence & Stay-Home Notice Tracking Solution**
 
 The Leave of Absence & Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
+ 
+The solution is developed by GovTech.
 
-The solution is developed by the Government Technology Agency (GovTech).
