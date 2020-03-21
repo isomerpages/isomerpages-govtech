@@ -26,7 +26,7 @@ To learn more about the app, visit [www.TraceTogether.gov.sg](https://www.tracet
 The app is developed by the GovTech and MOH.
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/k1vCOx6RcWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### **Self-help Temperature Scanner**
