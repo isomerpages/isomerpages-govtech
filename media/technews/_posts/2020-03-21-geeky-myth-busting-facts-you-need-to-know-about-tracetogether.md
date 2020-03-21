@@ -63,5 +63,3 @@ The app uses about 1MB of data in a day, which is equivalent to the data used by
 If this set of information does not satisfy your geeky curiosity, please visit https://tracetogether.zendesk.com/hc/en-sg to read the full list of FAQs.
 
 If you are convinced now that the app can do more good than harm, download the app from [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en) or the [App Store](https://apps.apple.com/us/app/tracetogether/id1498276074) and help everyone at home to download too.
-
-![9 geeky myth-busting facts you need to know about TraceTogether](/images/technews/tt-myth2.png)
