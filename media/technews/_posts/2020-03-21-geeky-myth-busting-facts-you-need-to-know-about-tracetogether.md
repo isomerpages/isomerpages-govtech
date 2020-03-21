@@ -36,7 +36,7 @@ When a TraceTogether user is a confirmed COVID-19 case and agrees to upload the 
 
 ### **Myth #5 - I do not wish to download this TraceTogether app which will increase the risk of a data breach on my phone.**
 
-The TraceTogether app will not increase the risk of a data breach. Given the app’s security and privacy safeguards, the risk of a data leak from your phone as a result of TraceTogether is very low. By downloading the app, you can tap on technology to enhance contact tracing -- a key pillar of Singapore’s fight against COVID-19. The choice is yours to make.
+The TraceTogether app does not increase the risk of a data breach on your phone. Given the app’s security and privacy safeguards, the risk of a data leak from your phone as a result of TraceTogether is very low. By downloading the app, you can tap on technology to enhance contact tracing -- a key pillar of Singapore’s fight against COVID-19. The choice is yours to make.
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
