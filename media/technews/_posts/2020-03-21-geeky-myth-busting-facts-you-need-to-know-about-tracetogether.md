@@ -58,7 +58,7 @@ Once contact tracing activities cease, the TraceTogether app will prompt users t
 
 ### **Myth #9 - Running the TraceTogether app in the background uses up a lot of data and phone battery.**
 
-The app uses about 1MB of data in a day, which is equivalent to the data used in watching 1 second of HD movie, and it consumes only marginally more battery than phones that already have Bluetooth enabled.
+The app uses about 1MB of data in a day, which is equivalent to the data used by watching 1 second of a high definition movie, and consumes only marginally more battery than phones that already have Bluetooth enabled. 
 
 If this set of information does not satisfy your geeky curiosity, please visit https://tracetogether.zendesk.com/hc/en-sg to read the full list of FAQs.
 
