@@ -10,11 +10,11 @@ image: "/images/technews/tt-myth.jpg"
 
 [TraceTogether](https://www.tracetogether.gov.sg/) is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing. Through the exchange of short-distance Bluetooth signals between mobile phones with the installed app, each phone can detect other participating TraceTogether phones that are in close proximity. 
 
-Here’s a handy list of nine geeky facts you need to know about TraceTogether
+Here’s a handy list of nine geeky facts you need to know about TraceTogether. 
 
 ### **Myth #1 - The government is using the TraceTogether app to track or spy on every citizen’s whereabouts.**
 
-No, the TraceTogether app does not collect any location data and there is no way for the government to locate your whereabouts with this app. The app uses Bluetooth technology to exchange connections with nearby devices that have the app. The app only has the ability to show connections between devices, and not their locations.  Furthermore, the logs stay in your phone.  Should MOH need the logs for contact tracing, they will seek your consent to share the logs with them. 
+No, the TraceTogether app does not collect any location data and there is no way for the government to locate your whereabouts with this app. The app uses Bluetooth technology to exchange connections with nearby devices that have the app. The app only has the ability to show connections between devices, and not their locations. Furthermore, the logs stay in your phone. Should MOH need the logs for contact tracing, they will seek your consent to share the logs with them. 
 
 ### **Myth #2 - With the TraceTogether app running on my mobile phone that's Bluetooth enabled, anyone, including the government, can hack into my phone and extract all information in the phone.**
 
@@ -32,7 +32,7 @@ These measures protect users from malicious actors who may seek to eavesdrop and
 
 ### **Myth #4 - If MOH contact-traced to me and asks me to upload the data stored in the TraceTogether app, the Ministry can also extract any other data that they want from my phone.**
 
-When a TraceTogether user is a confirmed COVID-19 case and agrees to upload the data log in the TraceTogether app to MOH, MOH will decrypt the temporary IDs in the user’s app using its privately-held key, and obtain a list of phone numbers from the uploaded data log. Each phone number will only have the information related to the Bluetooth signal strength and time information.  That is all the information that MOH will have from the user’s app log.  Based on the signal strength and time information, MOH will then determine which devices were in physical proximity with the confirmed case. 
+When a TraceTogether user is a confirmed COVID-19 case and agrees to upload the data log in the TraceTogether app to MOH, MOH will decrypt the temporary IDs in the user’s app using its privately-held key, and obtain a list of phone numbers from the uploaded data log. Each phone number will only have the information related to the Bluetooth signal strength and time information.  That is all the information that MOH will get from the user’s app log.  Based on the signal strength and time information, MOH will then determine which devices were in physical proximity with the confirmed case. 
 
 ### **Myth #5 - I do not wish to download this TraceTogether app which will increase the risk of a data breach on my phone.**
 
