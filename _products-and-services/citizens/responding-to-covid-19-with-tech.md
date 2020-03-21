@@ -21,7 +21,7 @@ Through the exchange of short-distance Bluetooth signals between mobile phones w
  
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
  
-To learn more about the app, visit [www.TraceTogether.gov.sg](www.tracetogether.gov.sg)
+To learn more about the app, visit [www.TraceTogether.gov.sg](https://www.tracetogether.gov.sg)
 
 The app is developed by the GovTech and MOH.
 
