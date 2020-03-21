@@ -38,6 +38,10 @@ When a TraceTogether user is a confirmed COVID-19 case and agrees to upload the 
 
 The TraceTogether app will not increase the risk of a data breach. Given the app’s security and privacy safeguards, the risk of a data leak from your phone as a result of TraceTogether is very low. By downloading the app, you can tap on technology to enhance contact tracing -- a key pillar of Singapore’s fight against COVID-19. The choice is yours to make.
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### **Myth #6 - All information in the TraceTogether app is uploaded onto a server that faces a perpetual threat of being hacked into.**
 
 Apart from your mobile number, at the point of registration, all data collected through the TraceTogether app is stored locally in your phone in an encrypted form. It is not uploaded to any central server. The data will never be accessed, unless you have been in close contact with a COVID-19 case and are contacted by a contact tracer. The MOH contact tracing team will then ask you for explicit approval to access the data in your app, and it is transferred to private storage that is not exposed to the Internet.
