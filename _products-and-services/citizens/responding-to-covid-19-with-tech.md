@@ -29,6 +29,16 @@ The app is developed by the GovTech and MOH.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### **VigilantGantry**
+
+Developed by GovTech, VigilantGantry is an AI-driven automated temperature screening gantry that augments existing thermal systems to enhance the rate of contactless screening, saving time and manpower.
+
+An alert will sound once the system has detected an abnormal temperature. This is especially useful for high traffic volume sites and detection of symptomatic cases. VigilantGantry is modular and can be easily integrated with off-the-shelf electronics, existing thermal systems and mobile optical cameras. If required, the solution is also able to interface with facial recognition solutions for contact tracing.
+
+A trial at the National University of Singapore (NUS) showed significant improvements to the temperature screening process, with an average of 2 seconds of waiting time per visitor. This is an improvement from the previous temperature screening process involving the use of hand-held thermometers, which can take up to 1 minute per visitor. 
+
+GovTech plans to open-source VigilantGantry’s source codes for the industry to scale and deploy to different sites across Singapore.
+
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a COVID-19 safeguard prior to entry to buildings/offices, GovTech developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
