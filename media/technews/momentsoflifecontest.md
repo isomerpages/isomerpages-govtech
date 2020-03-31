@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-1. This lucky draw giveaway will be happening from 14 November 2019 to 14 April 2020
+1. This lucky draw giveaway will be happening from 14 November 2019 to 30 March 2020 (Ended)
 2. All contest participants must download the Moments of Life app (https://www.tech.gov.sg/products-and-services/moments-of-life/). 
 2. The competition is open to anyone residing in Singapore, except employees of GovTech and their close relatives and anyone otherwise connected with the organisation or judging of the competition.
 3. There is no entry fee or purchase necessary to participate in this contest.

@@ -5,7 +5,7 @@ permalink: /media/media-releases/SingPass-Mobile-hits-one-million-users
 date: 2020-03-31
 ---
 
-**SingPass Mobile hits one million users **<br>
+**SingPass Mobile hits one million users**<br>
 *98 per cent of all 2FA transactions done via SingPass Mobile or SMS 2FA OneKey token to be decommissioned in 2021*
 
 As of March 2020, the number of SingPass Mobile (SPM) users has surpassed one million.
