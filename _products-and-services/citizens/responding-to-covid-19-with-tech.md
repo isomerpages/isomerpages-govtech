@@ -78,7 +78,7 @@ The chatbot is developed by GovTech in collaboration with the Ministry of Trade 
 
 ### **COVID-19 GoBusiness portal**
 
-Together with MTI and MOM, we have launched the Covid GoBusiness portal to support the application, approval and management process for businesses applying for essential worker permits, and to assist officers with enforcement and identification of such workers. More at: Covid.gobusiness.gov.sg
+Together with Ministry of Trade and Industry and Ministry of Manpower, we have launched the Covid GoBusiness portal to support the application, approval and management process for businesses applying for essential worker permits, and to assist officers with enforcement and identification of such workers. More at: Covid.gobusiness.gov.sg.
 
 ### **FluGoWhere**
 
