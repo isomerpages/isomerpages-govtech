@@ -14,7 +14,7 @@ Developed in an eight-week sprint, TraceTogether has since been downloaded by ov
 
 This generic codebase is called OpenTrace and comprises the reference implementation source code for an iOS app, an Android app, as well as a central server that is built around Google Firebase (although implementations built on other cloud service providers are also possible). It also includes basic calibration data for a range of popular mobile phones. 
 
-At the same time, GovTech has also published the BlueTrace protocol, which both OpenTrace and TraceTogether are built on. Apps that implement the BlueTrace protocol are assured of interoperability across jurisdictions. The team hopes to work with other countries and national public health organisations to enhance the codebase and protocol. But before that, here are six things you need to know about OpenTrace.
+At the same time, GovTech has also published the [BlueTrace](https://bluetrace.io) protocol, which both OpenTrace and TraceTogether are built on. Apps that implement the BlueTrace protocol are assured of interoperability across jurisdictions. The team hopes to work with other countries and national public health organisations to enhance the codebase and protocol. But before that, here are six things you need to know about OpenTrace.
 
 ![OpenTrace explained](/images/technews/OpenTrace-Infographic-Final.png)
 
