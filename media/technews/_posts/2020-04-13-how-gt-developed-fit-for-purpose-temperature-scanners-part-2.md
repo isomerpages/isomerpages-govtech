@@ -9,11 +9,9 @@ image: "/images/technews/thermo-part3.JPG"
 The VigilantGantry contactless system can effectively reduce the manpower needed at temperature screening stations.
 ---
 
-
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4quAADmKs40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4quAADmKs40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 
 As the COVID-19 pandemic worsens around the world, Singapore is shoring up its efforts to combat the spread of the novel coronavirus. Businesses, for example, are advised to adopt precautionary measures like temperature screening to help detect the disease and to facilitate contact tracing efforts.
 
