@@ -6,13 +6,13 @@ category: technews
 image: "/images/technews/thermo-part1.JPG"
 ---
 
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GeM9phUWgck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
 Take a behind-the-scenes look at how the Sensors and Internet of Things (SIOT) team at GovTech invented a system that automatically measures a person’s temperature.
 ---
+
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GeM9phUWgck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 Since COVID-19 touched Singapore’s shores, temperature screening has become a common practice at medical facilities, workplaces and events across the island. A fever is one of the more immediately identifiable symptoms of infection, so thermometers are a key defensive tool in the fight against the highly contagious virus. The Ministry of Health even recommends that all employers should have their staff take their temperature at least twice daily. 
 
