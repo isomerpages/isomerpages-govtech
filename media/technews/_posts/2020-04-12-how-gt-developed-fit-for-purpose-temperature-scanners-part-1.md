@@ -5,9 +5,11 @@ permalink: "/media/technews/how-gt-developed-fit-for-purpose-temperature-scanner
 category: technews
 image: "/images/technews/thermo-part1.JPG"
 ---
+
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GeM9phUWgck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GeM9phUWgck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
 
 Take a behind-the-scenes look at how the Sensors and Internet of Things (SIOT) team at GovTech invented a system that automatically measures a person’s temperature.
 ---
