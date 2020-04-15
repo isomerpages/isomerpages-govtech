@@ -46,10 +46,6 @@ By Valentine’s day, everything was working as it was supposed to, but the team
 
 Like a successful match made on dating apps like Tinder, the GovTech team received 30 thermometers to re-engineer on Valentine’s day. Several romantic dates were cancelled that evening, but the team knew that what they were doing was important in the larger scheme of virus containment. 
 
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ### **Bringing Agile to hardware development**
 
 “I divided my team into four groups: one to modify the thermometer, another to program the single-board computers, a third group to assemble the different components and ensure the robustness and stability of the system, and the final group to test the system and make sure that everything is working properly,” Mr Quek said.
