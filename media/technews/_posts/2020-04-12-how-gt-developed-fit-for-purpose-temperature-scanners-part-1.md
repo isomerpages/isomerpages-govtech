@@ -58,7 +58,7 @@ Asked why GovTech was taking it upon itself to build the self-service temperatur
 
 The first two self-service temperature scanners were deployed at Keat Hong Community Club and Bishan Community Club. . The People’s Association is also providing GovTech with more units of thermometers from its stockpile to be upgraded into self-service scanners. ‘Orders’ for scanner units are already streaming in from other government agencies, so Mr Quek is prioritising delivering the scanners to agencies that carry out more people-facing activities.  
 
-![SiOT thermo scanner](/images/technews/thermo-part2.JPG)
+![SiOT thermoo scanner](/images/technews/thermo-part2.JPG)
 
 “This outcome really reflects the Agile methodology applied to hardware development and showcases how the country is coming together to fight this virus situation as a unit,” Mr Quek concluded.
 
