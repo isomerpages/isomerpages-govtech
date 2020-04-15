@@ -16,7 +16,7 @@ The survey was conducted from November to December 2019 for the reporting period
 
 About 1,500 respondents, comprising representatives of the total demographic population above the age of 19, were surveyed. Data collection was done via face-to-face interviews.
 
-![Digital Government Perception Survey 2018 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2018-Citizen-GovTech-Smart-Nation-survey.jpg)
+![Digital Government Perception Survey 2019 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Citizen-GovTech-Smart-Nation-study.png)
 ### **Annual Digital Government Perception Survey (Business) Conducted in 2019**
 
 **Background / Objectives**
@@ -29,7 +29,7 @@ The survey was conducted from November to December 2019 for the reporting period
 
 About 1,500 businesses, under 13 different industry sectors (e.g. Commerce, Construction, Financial & Business Services, Manufacturing, Transportation, Storage, Information & Communications etc.) in Singapore were surveyed. Data collection was done through telephone interviews.
 
-![Digital Government Perception Survey 2018 for Business by GovTech](/images/our-statistics/Digital-Government-Perception-2018-Business-GovTech-Smart-Nation-study3.jpg)
+![Digital Government Perception Survey 2019 for Business by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Business-GovTech-Smart-Nation-study.png)
 
 
 **Past Years' Digital Government Perception Survey Results**
