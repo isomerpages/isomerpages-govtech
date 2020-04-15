@@ -17,7 +17,7 @@ The VigilantGantry contactless system can effectively reduce the manpower needed
 
 As the COVID-19 pandemic worsens around the world, Singapore is shoring up its efforts to combat the spread of the novel coronavirus. Businesses, for example, are advised to adopt precautionary measures like temperature screening to help detect the disease and to facilitate contact tracing efforts.
 
-Besides setting up stations for temperature screenings, businesses also require staff members to operate the equipment. While areas with lower footfall can tap on solutions like GovTech’s self-service temperature scanner  , areas with high human traffic need a different approach to cope with the high volume.
+Besides setting up stations for temperature screenings, businesses also require staff members to operate the equipment. While areas with lower footfall can tap on solutions like GovTech’s self-service temperature scanner, areas with high human traffic need a different approach to cope with the high volume.
 
 To speed up temperature screening in crowded areas and reduce the number of human operators required, a team from GovTech’s Data Science and Artificial Intelligence Division (DSAID) has developed VigilantGantry, a fully automated, contactless gantry system for temperature screening. 
 
@@ -27,7 +27,7 @@ In this second instalment of a three-part series  that follows GovTech’s in-ho
 
 ### **Safe, speedy screening**
 
-“The main goal of VigilantGantry   is to help automate temperature screening and manage the flow of movement into buildings in a contactless manner,” said Ms Rachel Shong, a video analytics manager from DSAID.
+“The main goal of VigilantGantry is to help automate temperature screening and manage the flow of movement into buildings in a contactless manner,” said Ms Rachel Shong, a video analytics manager from DSAID.
 
 To ensure minimal physical contact, VigilantGantry works like the gates to an MRT station. Instead of swiping your card to enter, a machine screens your temperature and takes your picture before letting you through. GovTech has developed VigilantGantry, a video analytics model to identify cases missed out by current thermal systems (such as fringe, cap, head-gear, and occlusion)  using face and neck segmentation and colour segmentation algorithms. An alert will sound once the system detects an abnormal temperature, and entry will be denied, allowing for further checks on the visitor.
 
