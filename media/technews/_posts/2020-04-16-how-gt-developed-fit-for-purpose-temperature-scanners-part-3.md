@@ -10,7 +10,7 @@ This temperature scanner developed by GovTech’s Smart Nation Platform Solution
 ---
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=q7LykdDqdFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/q7LykdDqdFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 While areas with low footfall can tap on [GovTech’s self-service temperature scanner](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-1) and gated venues like libraries can quickly implement [VigilantGantry](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-3), many other places need to screen potentially large numbers of people with very little infrastructural support. Places like shopping malls and supermarkets, for example, are likely to see a high number of visitors despite the on-going “circuit breaker” social distancing measures, but do not have physical barriers to manage the flow of people.
