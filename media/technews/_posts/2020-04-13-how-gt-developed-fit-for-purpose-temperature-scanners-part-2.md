@@ -9,6 +9,7 @@ image: "/images/technews/thermo-part3.JPG"
 The VigilantGantry contactless system can effectively reduce the manpower needed at temperature screening stations.
 ---
 
+
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4quAADmKs40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
