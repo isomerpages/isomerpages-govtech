@@ -35,7 +35,7 @@ The challenge of building this temperature screening solution did not merely dep
 
 “We’re not just saying that we can do something efficiently; efficiency allows our solution to be deployed on a wider range of lower-tier hardware, which increases the coverage of our solution,” Mr Chong explained. “It’s the reason why we could drive the cost of our solution so low.”
 
-It is precisely this design principle that sets their model apart from VigilantGantry , a contactless, mass temperature screening solution developed by another team at GovTech. Instead of leveraging on existing infrastructure like gantries at the entrance of libraries, the SNSP solution can be deployed anywhere using low-cost hardware. “The actual setup takes less than five minutes, and it still manages to be cheap and effective all at once,” Mr Chong said.
+It is precisely this design principle that sets their model apart from VigilantGantry, a contactless, mass temperature screening solution developed by another team at GovTech. Instead of leveraging on existing infrastructure like gantries at the entrance of libraries, the SNSP solution can be deployed anywhere using low-cost hardware. “The actual setup takes less than five minutes, and it still manages to be cheap and effective all at once,” Mr Chong said.
 
 ### **Rolled out in record time**
 
