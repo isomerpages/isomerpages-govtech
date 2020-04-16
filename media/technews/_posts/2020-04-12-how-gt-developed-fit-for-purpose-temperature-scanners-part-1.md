@@ -58,4 +58,4 @@ The first two self-service temperature scanners were deployed at Keat Hong Commu
 
 “This outcome really reflects the Agile methodology applied to hardware development and showcases how the country is coming together to fight this virus situation as a unit,” Mr Quek concluded.
 
-While the self-service approach works fantastically for areas with a low volume of human traffic, what are the options for areas which have to process more people? [Read part 2](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2) and part 3  to find out!
+While the self-service approach works fantastically for areas with a low volume of human traffic, what are the options for areas which have to process more people? [Read part 2](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2) and [part 3](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2) to find out!
