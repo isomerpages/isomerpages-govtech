@@ -15,7 +15,7 @@ The VigilantGantry contactless system can effectively reduce the manpower needed
 
 As the COVID-19 pandemic worsens around the world, Singapore is shoring up its efforts to combat the spread of the novel coronavirus. Businesses, for example, are advised to adopt precautionary measures like temperature screening to help detect the disease and to facilitate contact tracing efforts.
 
-Besides setting up stations for temperature screenings, businesses also require staff members to operate the equipment. While areas with lower footfall can tap on solutions like GovTech’s self-service temperature scanner, areas with high human traffic need a different approach to cope with the high volume.
+Besides setting up stations for temperature screenings, businesses also require staff members to operate the equipment. While areas with lower footfall can tap on solutions like GovTech’s [self-service temperature scanner](www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2), areas with high human traffic need a different approach to cope with the high volume.
 
 To speed up temperature screening in crowded areas and reduce the number of human operators required, a team from GovTech’s Data Science and Artificial Intelligence Division (DSAID) has developed VigilantGantry, a fully automated, contactless gantry system for temperature screening. 
 
