@@ -8,6 +8,14 @@ collection_name: who-we-are
 
 ### Digital transformation within the public sector is at the heart of what GovTech, or Government Technology Agency of Singapore, does. We harness the best info-communications technologies to make a difference to the everyday lives of people in Singapore.
 
+### **Vision**
+
+Empowering our nation with possibilities through infocomm technology and related engineering technology.
+
+### **Mission**
+
+Engineering Digital Government, Making Lives Better. 
+
 Today’s government digital services are held to the highest standards by users. Not only must they be safe, secure and accurate, they have to be easy to use and empowering. This means business is not as usual anymore for the government seeking to connect more closely with citizens.
 
 ![Organisational chart for Smart Nation and Digital Governance Group (SNDGG) in the Prime Minister Office (PMO)]({{ "/images/our-role/our-role-image.png" | absolute_url }})
