@@ -13,4 +13,4 @@ The survey was conducted from October to November 2017 for the reporting period 
 ### **Research Methodology**
 1,500 respondents, comprising representatives of the total demographic population above the age of 19, were surveyed. Data collection was done via face-to-face interviews.
 
-![Digital Government Perception Survey 2017 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2017-Citizen-GovTech-Smart-Nation-survey.png)
+![Digital Government Perception Survey 2017 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2017-Citizen-GovTech-Smart-Nation-study.png)
