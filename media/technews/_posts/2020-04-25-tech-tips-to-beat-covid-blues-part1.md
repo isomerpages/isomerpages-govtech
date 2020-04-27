@@ -19,6 +19,8 @@ Travel restrictions and social distancing have prevented face-to-face meetings b
 
 If you’re keen to avoid a video conference faux pas like the [‘BBC Dad’](https://www.youtube.com/watch?v=Mh4f9AYRCZY) or just want to hide the clutter in your room, take advantage of the Virtual Background feature that allows you to display custom images or videos in the background. Additionally, Zoom also lets you record video calls. This can be handy for students who want to revisit course materials and lectures. 
 
+![Zoom tips](/images/technews/tech-covid-part1.jpg)
+
 ### **2. Get organised with Airtable**
 
 Keeping tabs on multiple projects when your colleagues are cocooned at home can be cumbersome. Enter Airtable, a free-to-use cloud collaboration service that promises to make organising projects easy. Its spreadsheet design—which is similar to Microsoft Excel and Google Sheets—feels familiar and easy to work with. Airtable also provides several ready-to-use templates for a variety of activities including marketing and product planning, making it easy for new users to get started.
@@ -37,11 +39,16 @@ Physical activity is important for our health, mood and productivity. If you’r
 
 The portal monitors the real-time visitors of major parks and green spaces with the help of data gathered by staff on the ground, as well as aerial photographs taken by drones. NParks has advised that people should avoid areas where footfall is high and return home as soon as they complete their exercise, so as to free up space and allow others to use the park.
 
+![Safe Distance](/images/technews/tech-covid-part3.JPG)
+
 ### **5. Stay healthy with home workouts**
 
 Parks too crowded? Fret not. Plenty of YouTube and Instagram videos, as well as apps catering to varying fitness goals, are providing home workouts you can bank on. For example, [FitOn app](https://apps.apple.com/us/app/fiton-fitness-workout-plans/id1442473191) offers free exercises designed by celebrity trainers, ranging from pilates to high-intensity interval training sessions. 
 
 If you’d like to support local fitness experts while working on your health goals at the same time, why not try [ActiveSG Circle](https://circle.myactivesg.com/), a new platform connecting freelance fitness instructors to users across Singapore. With 88 verified instructors in piloxing, Zumba, yoga and more, you can choose from free content or classes that cost as little as $10 to $20 per session. ActiveSG Circle content is also available on GetActive TV, dedicated [YouTube](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) and [Facebook](https://www.facebook.com/getactivetv/) channels that also provide talk shows and cooking tips for a well-rounded healthy life.
+
+
+![active SG](/images/technews/tech-covid-part2.JPG)
 
 ### **6. Protect your mental well-being**
 
