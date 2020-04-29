@@ -80,6 +80,12 @@ The chatbot is developed by GovTech in collaboration with the Ministry of Trade 
 
 Together with Ministry of Trade and Industry and Ministry of Manpower, we have launched the Covid GoBusiness portal to support the application, approval and management process for businesses applying for essential worker permits, and to assist officers with enforcement and identification of such workers. More at: Covid.gobusiness.gov.sg.
 
+### **COVID-19 Situation Report**
+
+The COVID-19 Situation Report dashboard presents the key statistics and figures on the current situation in Singapore. The solution is developed by GovTech in collaboration with the Ministry of Health.
+
+To learn more, visit [https://covidsitrep.moh.gov.sg](https://covidsitrep.moh.gov.sg)
+
 ### **FluGoWhere**
 
 FluGoWhere is a website to conveniently and easily search through a list of Public Health Preparedness Clinics (PHPCs) providing special subsidies for those diagnosed with respiratory illnesses. There are more than 900 participating clinics as of 19 March 2020.
