@@ -13,46 +13,6 @@ thumbnail_image: /images/programmes/products-and-services/test.jpg
 The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
 ---
 
-### **TraceTogether**
- 
-TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
- 
-Through the exchange of short-distance Bluetooth signals between mobile phones with the installed app, each phone can detect other participating TraceTogether phones that are in close proximity. The app estimates the distance between users, and the duration of such encounters. Records of these encounters are stored locally, in encrypted form, on each user’s phone for 21 days (covering the incubation period of the virus).
- 
-If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
- 
-To learn more about the app, visit [www.TraceTogether.gov.sg](https://www.tracetogether.gov.sg)
-
-The app is developed by the GovTech and MOH.
-
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### **VigilantGantry**
-
-Developed by GovTech, VigilantGantry is an AI-driven automated temperature screening gantry that augments existing thermal systems to enhance the rate of contactless screening, saving time and manpower.
-
-An alert will sound once the system has detected an abnormal temperature. This is especially useful for high traffic volume sites and detection of symptomatic cases. VigilantGantry is modular and can be easily integrated with off-the-shelf electronics, existing thermal systems and mobile optical cameras. If required, the solution is also able to interface with facial recognition solutions for contact tracing.
-
-A trial at the National University of Singapore (NUS) showed significant improvements to the temperature screening process, with an average of 2 seconds of waiting time per visitor. This is an improvement from the previous temperature screening process involving the use of hand-held thermometers, which can take up to 1 minute per visitor. 
-
-GovTech plans to open-source VigilantGantry’s source codes for the industry to scale and deploy to different sites across Singapore.
-
-### **Self-help Temperature Scanner**
-
-As organisations implement temperature scanning as a COVID-19 safeguard prior to entry to buildings/offices, GovTech developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
-
-![TraceTogerther](/images/Volunteers.jpg)
-
-### **Travel and Health Declaration System**
- 
-Developed by GovTech, the Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their [SingPass Mobile](https://www.singpassmobile.sg/) app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
-
-Businesses and building owners can find out more at [www.go.gov.sg/travelandhealth](https://www.go.gov.sg/travelandhealth).
-
-![covid](/images/thd-covid.jpg)
- 
 ### **Ask Jamie chatbot**
 
 Developed by GovTech, Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
@@ -122,3 +82,51 @@ The solution is developed by GovTech.
 
 ![covid](/images/shn-covid.jpg)
 
+### **SafeEntry**
+
+Developed by GovTech, SafeEntry is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services.
+
+SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
+
+![covid-safeentry](/images/programmes/products-and-services/safeentry.png)
+
+### **Self-help Temperature Scanner**
+
+As organisations implement temperature scanning as a COVID-19 safeguard prior to entry to buildings/offices, GovTech developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
+
+![TraceTogerther](/images/Volunteers.jpg)
+
+### **TraceTogether**
+ 
+TraceTogether is a mobile app that supports Singapore’s efforts to mitigate the spread of COVID-19 through community-driven contact tracing.
+ 
+Through the exchange of short-distance Bluetooth signals between mobile phones with the installed app, each phone can detect other participating TraceTogether phones that are in close proximity. The app estimates the distance between users, and the duration of such encounters. Records of these encounters are stored locally, in encrypted form, on each user’s phone for 21 days (covering the incubation period of the virus).
+ 
+If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
+ 
+To learn more about the app, visit [www.TraceTogether.gov.sg](https://www.tracetogether.gov.sg)
+
+The app is developed by the GovTech and MOH.
+
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### **Travel and Health Declaration System**
+ 
+Developed by GovTech, the Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their [SingPass Mobile](https://www.singpassmobile.sg/) app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
+
+Businesses and building owners can find out more at [www.go.gov.sg/travelandhealth](https://www.go.gov.sg/travelandhealth).
+
+![covid](/images/thd-covid.jpg)
+
+### **VigilantGantry**
+
+Developed by GovTech, VigilantGantry is an AI-driven automated temperature screening gantry that augments existing thermal systems to enhance the rate of contactless screening, saving time and manpower.
+
+An alert will sound once the system has detected an abnormal temperature. This is especially useful for high traffic volume sites and detection of symptomatic cases. VigilantGantry is modular and can be easily integrated with off-the-shelf electronics, existing thermal systems and mobile optical cameras. If required, the solution is also able to interface with facial recognition solutions for contact tracing.
+
+A trial at the National University of Singapore (NUS) showed significant improvements to the temperature screening process, with an average of 2 seconds of waiting time per visitor. This is an improvement from the previous temperature screening process involving the use of hand-held thermometers, which can take up to 1 minute per visitor. 
+
+GovTech plans to open-source VigilantGantry’s source codes for the industry to scale and deploy to different sites across Singapore.
