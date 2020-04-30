@@ -88,6 +88,8 @@ Developed by GovTech, SafeEntry is a national digital check-in system that logs 
 
 SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
 
+![covid-safeentry](/images/programmes/products-and-services/safeentry.png)
+
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a COVID-19 safeguard prior to entry to buildings/offices, GovTech developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
