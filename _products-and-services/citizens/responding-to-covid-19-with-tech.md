@@ -13,7 +13,6 @@ thumbnail_image: /images/programmes/products-and-services/test.jpg
 The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
 ---
 
-
 ### **Ask Jamie chatbot**
 
 Developed by GovTech, Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
@@ -87,9 +86,7 @@ The solution is developed by GovTech.
 
 Developed by GovTech, SafeEntry is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services.
 
-SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations.
-
-Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
+SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
 
 ### **Self-help Temperature Scanner**
 
