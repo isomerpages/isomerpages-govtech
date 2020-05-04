@@ -7,6 +7,8 @@ breadcrumb: whistleblowing-line
 
 GovTech Whistleblowing Line is an independent hotline service that gives one the opportunity to raise, in confidence and without fear of retaliation, occurrences of illegal or unethical conduct by GovTech staff for appropriate investigation and action subject to applicable laws.
 
+GovTech will not tolerate discrimination, retaliation or harassment of any kind against a whistleblower who submits a complaint or report in good faith.
+
 For general queries, feedback or quality service matters, please email or submit them using the feedback form.
 
 The Whistleblowing Line includes:
