@@ -70,6 +70,8 @@ homepage_careers: false
 custom_css_path: "/do-not-touch/theme-colors/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
++ google-tag-manager: GTM-KJNR9MC
+
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
 
