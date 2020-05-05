@@ -119,6 +119,10 @@ senior-leadership:
     title: Director
     organisation: Moments of Life
     image-url: /images/our-team/dominic-chan.jpg
+  - name: Mr Kevin NG
+    title: Director
+    organisation: Core Operations Development Environment and xChange
+    image-url: /images/our-team/Kevin-Ng-Smart-Nation-GovTech.png
   - name: Mr QUEK Yang Boon
     title: Director
     organisation: Sensors & IoT
@@ -212,6 +216,7 @@ organisational-structure:
   - title: Product Management
     teams:
       - name: Business Management Division (BMD)
+      - name: Core Operations Development Environment and xChange (CODEX)
       - name: Moments of Life (MOL)
       - name: National Digital Identity (NDI)
       - name: Smart Nation Sensor Programme Office (SNSPO)
