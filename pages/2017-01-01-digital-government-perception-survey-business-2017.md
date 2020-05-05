@@ -22,4 +22,4 @@ The survey was conducted from October to December 2017 for the reporting period 
 * Manufacturing; and
 * Transportation, Storage & Communications.
 
-![Digital Government Perception Survey 2017 for Businesses by GovTech](/images/our-statistics/Digital-Government-Perception-2017-Business-GovTech-Smart-Nation-study.png)
+![Digital Government Perception Survey 2017 for Businesses by GovTech](/images/our-statistics/Digital-Government-Perception-2017-Business-GovTech-Smart-Nation-studyv2.png)
