@@ -3,9 +3,9 @@ layout: post
 title: "No short supply of good ideas"
 permalink: "/media/technews/six-things-about-opentrace"
 category: technews
-image: "/images/technews/OpenTrace-Infographic-Final.png"
+image: "/images/technews/SupplyAlly-GovTech-team-photo.jpg"
 ---
-![TraceTogether GovTech reaches one million](/images/technews/TraceTogether-1m-banner.png)
+![The SupplyAlly team from GovTech in a Smart Nation](/images/technews/SupplyAlly-GovTech-team-photo.jpg)
 
 This GovTech team developed a mobile app, SupplyAlly, that enabled hundreds of volunteers to distribute millions of reusable face masks to residents in Singapore over one weekend. 
 ---
