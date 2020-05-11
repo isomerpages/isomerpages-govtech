@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No short supply of good ideas"
-permalink: "/media/technews/six-things-about-opentrace"
+permalink: "/media/technews/no-short-supply-of-good-ideas"
 category: technews
 image: "/images/technews/SupplyAlly-GovTech-team-photo.jpg"
 ---
