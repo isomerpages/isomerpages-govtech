@@ -23,7 +23,7 @@ At the Government Technology Agency of Singapore (GovTech), a team of developers
 
 Conversations about web accessibility should necessarily involve PWDs who are the ultimate end users of digital services, Ms Chua emphasised. That was why the GovTech team began the process of developing their web accessibility tool by carrying out a contextual inquiry on government e-service use by PWDs. This entails not only interviews with PWDs, but also observation of how PWDs interface with the relevant webpages. 
 
-“Our partner, SG Enable, facilitated our involvement of relevant research participants who could help us better understand the needs of PWDs,” Ms Chua said.
+“Our partner, SG Enable and the Singapore Association of the Visually Handicapped, facilitated our involvement of relevant research participants who could help us better understand the needs of PWDs,” Ms Chua said.
 
 The contextual inquiry revealed some crucial shortcomings of government e-services. For example, persons with vision impairments rely on screen readers to inform them of what is being displayed on a screen. However, not all webpages are screen reader friendly. 
 
