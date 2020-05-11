@@ -20,7 +20,7 @@ Seeking a technological solution to facilitate both processes, MTI and PA reache
 
 Fortunately, Mr Koh and his colleagues at GovTech were prepared to meet MTI’s and PA’s tight deadline. It certainly helped that they had been working on a similar application beforehand which could be quickly repurposed and refined for this distribution, said Mr Raymond Yeh, a software engineer at GovTech.
 
-After conferring with Dr Janil Puthucheary, Minister-in-charge of GovTech, and officers from MTI and PA to firm up operationalisation details, the GovTech team went into full development mode. The mobile app, named SupplyAlly, was delivered on time on 5 April.
+After conferring with Minister-in-charge of GovTech, Dr Janil Puthucheary, and officers from MTI and PA to firm up operationalisation details, the GovTech team went into full development mode. The mobile app, named SupplyAlly, was delivered on time on 5 April.
 
 Since SupplyAlly was meant to be used by volunteers at residents’ committees and community centres, the GovTech team paid attention to user-friendliness during app design and development. “We wanted to make sure that volunteers needed minimal training to start using the mobile app,” noted Mr Lim Zui Young, a DevOps and quality engineer at GovTech. 
 
