@@ -26,4 +26,4 @@ Leave your email below to be the first to access this feature when it's launched
 
 Moments of Life is a Smart Nation initiative that places citizens at the centre of developing digital Government services. It is a mobile app containing a suite of services which supports citizens’ needs at key junctures, by integrating and bundling services across Government agencies.
 
-For more information about the app, you may visit: http://go.gov.sg/mol
+For more information about the app, you may visit: [https://go.gov.sg/mol](https://go.gov.sg/mol)
