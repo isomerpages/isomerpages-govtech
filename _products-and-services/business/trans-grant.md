@@ -236,7 +236,7 @@ The following list of projects has been funded under TRANS Grant. Where applicab
 
 
 ### **Contact Us**<br>
-Please contact us at INNOVATE@tech.gov.sg for the following:
+Please contact us at TMO@tech.gov.sg for the following:
 * To contribute problem statements (Please fill up this [form](/files/products-and-services/InnoLeap-Call-for-Problem-Statement-template-0219.docx))
 * To use any of the TRANS Grant funded projects for your applications
 * To collaborate with the TRANS Labs
