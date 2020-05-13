@@ -10,7 +10,7 @@ image:
 
 As a response to the current COVID-19 situation, the Moments of Life app will be launching a new feature to help jobseekers who are retrenched, unemployed or of low-income. 
 
-This feature consists of career and training support, job opportunities and much more.
+**This feature consists of career and training support, job opportunities and much more.**
 
 Leave your email below to be the first to access this feature when it's launched in June 2020. 
 
