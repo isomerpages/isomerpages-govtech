@@ -12,12 +12,12 @@ As a response to the current COVID-19 situation, the Moments of Life app will be
 
 This feature consists of career and training support, job opportunities and much more.
 
-Leave your email below to be the first to access this feature when it's launched in June 2020. We'll also be sending you instructions on how to collect your **$5 Mr Bean voucher after submission.** 
+Leave your email below to be the first to access this feature when it's launched in June 2020. 
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5eb917530dfc410011e24e6c">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/5eb917530dfc410011e24e6c" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/5eb917530dfc410011e24e6c" style="width:100%;height:800px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
