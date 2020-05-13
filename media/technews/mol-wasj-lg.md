@@ -21,7 +21,7 @@ Leave your email below to be the first to access this feature when it's launched
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-
+<br>
 **About the Moments of Life app:**
 
 Moments of Life is a Smart Nation initiative that places citizens at the centre of developing digital Government services. It is a mobile app containing a suite of services which supports citizens’ needs at key junctures, by integrating and bundling services across Government agencies.
