@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Demystifying AI and Big Data"
-permalink: "/media/technews/demystifying-ai-and-big-data"
+title: 'Demystifying AI and Big Data'
+permalink: /media/technews/demystifying-ai-and-big-data
 category: technews
-image: "/images/technews/demystifying-ai-and-big-data-part-1.png"
+image: /images/technews/demystifying-ai-and-big-data-part-1.png
+
 ---
+
 
 ![demystifying AI and big data](/images/technews/demystifying-ai-and-big-data-part-1.png)
 
