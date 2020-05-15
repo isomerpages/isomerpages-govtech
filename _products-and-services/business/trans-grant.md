@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: TRANS Grant
+title: 'TRANS Grant'
 permalink: /products-and-services/trans-grant/
-breadcrumb: TRANS Grant
-collection_name: products-and-services
+breadcrumb: 'TRANS Grant'
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 ### **Introduction**
 The Translational R&D Grant (TRANS Grant) initiative supports translation of R&D into applications and taps on the research community to solve public sector challenges with innovative use of digital technology.
