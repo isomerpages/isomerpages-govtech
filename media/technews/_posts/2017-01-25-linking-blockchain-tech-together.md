@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Linking Blockchain tech together"
-permalink: "/media/technews/linking-blockchain-tech-together"
+title: 'Linking Blockchain tech together'
+permalink: /media/technews/linking-blockchain-tech-together
 category: technews
-image: "/images/technews/linking-blockchain-tech-together-part-1.png"
+image: /images/technews/linking-blockchain-tech-together-part-1.png
+
 ---
+
 
 ![linking blockchain tech together](/images/technews/linking-blockchain-tech-together-part-1.png)
 
