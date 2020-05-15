@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Businesses can tap on MyInfo to offer faster transactions for citizens"
-date: 2017-11-10
-permalink: "/media/media-releases/businesses-can-tap-on-myinfo"
+title: 'Businesses can tap on MyInfo to offer faster transactions for citizens'
+date: 2017-11-10T00:00:00.000Z
+permalink: /media/media-releases/businesses-can-tap-on-myinfo
+
 ---
+
 
 SINGAPORE, 10 Nov 2017 – Businesses and developers can now offer simpler and hassle-free digital services to their customers by tapping on the government’s MyInfo service. Launched today, the MyInfo Developer & Partner Portal, as a next step towards building a vibrant ecosystem for the National Digital Identity (NDI), provides businesses with the necessary resources to integrate their digital services with MyInfo.
 
@@ -25,34 +26,3 @@ Following news of the bank pilot, GovTech has received strong interest from more
  
 The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at [https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction](https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction) to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.
 
---- 
-
-### **Related Resources:**
-* [Annex A](/files/media/media-releases/2017/11/Annex A.pdf)
-
-### **What is MyInfo?**
-
-MyInfo is a service for SingPass users to manage the use of their personal data when transacting online with participating government agencies and commercial entities. MyInfo users can skip filling in personal data repeatedly for every digital transaction, while enjoying greater convenience from producing fewer verification documents. MyInfo was extended to the banking sector in May 2017, with four banks piloting the use of MyInfo for opening of new bank accounts and application of credit cards.
-
-### **About Smart Nation**
-Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit www.smartnation.sg.
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. 
-
-Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-### **For media clarification**
-Henna JAYABALAN (Ms)
-<br>Assistant Manager
-<br>Communications and Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 1203
-<br>Email: Henna_Jayabalan@tech.gov.sg
-<br>
-<br>Medha LIM (Ms)
-<br>Senior Manager
-<br>Communications and Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 1622
-<br>Email: Medha_Lim@tech.gov.sg
