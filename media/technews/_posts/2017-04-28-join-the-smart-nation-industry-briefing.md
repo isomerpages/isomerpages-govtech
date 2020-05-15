@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Join the Smart Nation Industry Briefing"
-permalink: "/media/technews/join-the-smart-nation-industry-briefing"
+title: 'Join the Smart Nation Industry Briefing'
+permalink: /media/technews/join-the-smart-nation-industry-briefing
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![join the smart nation industry briefing](/images/technews/join-the-smart-nation-industry-briefing-part-1.jpg)
 
@@ -39,17 +40,3 @@ You can actually visit imbX in the morning and join us for the Briefing in the a
 
 We look forward to meeting you there! 
 
----
-
-**About Smart Nation Industry Briefing 2017**
-Date: 24 May 2017
-
-Time: 1pm to 5pm
-
-Venue: The Sands Expo and Convention Centre, Marina Bay Sands
-
-Level 4, Simpor-Roselle Ballroom
-
-* Ticket price: $80 (inclusive of 7% GST).
-
-More details at: www.industrybriefing.com.sg
