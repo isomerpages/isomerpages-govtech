@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Over 2.3 Million SingPass Users now 2FA-ready"
+title: 'Over 2.3 Million SingPass Users now 2FA-ready'
 permalink: /media/media-releases/over-2-point-3-million-singpass-users-now-2fa-ready
-date: 2016-12-09
+date: 2016-12-09T00:00:00.000Z
+
 ---
+
 
 > Provision of 30-day grace period to end on 15 January 2017
 
@@ -24,30 +25,3 @@ Mr Chan Cheow Hoe, Government Chief Information Officer, GovTech, said, “Havin
 
 For enquiries regarding SingPass 2FA setup, users can refer to the 2FA FAQs and Video Guides. They can also contact Assurity Helpdesk via email at helpdesk@assurity.sg.
 
----
-
-ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE
-
----
-
-### **Related Resources:**
-* [Annex: SingPass Media Statement Grace Period Provision to end on 15 Jan 2017](/files/media/media-releases/2016/12/SingPass Media Statement Grace Period Provision to end on 15 Jan 2017.pdf)
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a new statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-Medha Lim (Ms)
-<br>Manager, Communications and Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 1622
-<br>Email: Medha_LIM@tech.gov.sg
-<br>
-<br>Jacklyn Chew (Ms)
-<br>Assistant Manager, Communications and Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 0708
-<br>Email: Jacklyn_CHEW@tech.gov.sg
