@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Infocomm Media 2025"
-date:   2018-01-01
-permalink: "/media/corporate-publications/infocomm-media-2025"
+title: 'Infocomm Media 2025'
+date: 2018-01-01T00:00:00.000Z
+permalink: /media/corporate-publications/infocomm-media-2025
+
 ---
+
 
 In 2025, we envision a Singapore transformed for the better by infocomm media. It will be a nation where people live meaningful and fulfilled lives enabled by technology, and where there are exciting opportunities for all. It will be a place where infocomm media enables a better quality of life for our people through world-class connectivity, compelling local content, and technologies to make everyday lives smoother and more convenient. It will be a living lab to entrepreneurs, growth companies and multinationals in the infocomm media space where they continually experiment and innovate to contribute to sustainable and quality economic growth.
 
