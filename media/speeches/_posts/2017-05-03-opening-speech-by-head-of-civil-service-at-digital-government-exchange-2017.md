@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Opening Speech by Head of Civil Service at Digital Government Exchange 2017"
-permalink: "/media/speeches/opening-speech-by-head-of-civil-service"
+title: 'Opening Speech by Head of Civil Service at Digital Government Exchange 2017'
+permalink: /media/speeches/opening-speech-by-head-of-civil-service
 category: speeches
+
 ---
+
 
 3 May 2017, Wednesday, 9.05am
 Asian Civilisations Museum
@@ -80,10 +81,4 @@ Ladies and Gentlemen
 26. I wish everyone a productive DGX, and a very pleasant stay in Singapore. 
 
 27. Thank you.
-
----
-
-### **Related Rosources:**
-* [Factsheet - Digital Government Exchange 2017](/files/media/speeches/2017/05/Factsheet Digital Government Exchange 2017.pdf)
-* [Factsheet - Smart Nation Sensor Platform](/files/media/speeches/2017/05/Factsheet Smart Nation Sensor Platform.pdf)
 
