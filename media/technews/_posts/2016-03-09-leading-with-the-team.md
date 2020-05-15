@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Leading with the Team"
-permalink: "/media/technews/leading-with-the-team"
+title: 'Leading with the Team'
+permalink: /media/technews/leading-with-the-team
 category: technews
-image: "/images/technews/leading-with-the-team-part-1.png"
+image: /images/technews/leading-with-the-team-part-1.png
+
 ---
+
 
 ![Leading with the Team](/images/technews/leading-with-the-team-part-1.png)
 
