@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: "Moments of Life"
+title: 'Moments of Life'
 permalink: /products-and-services/moments-of-life/
-breadcrumb: Moments of Life
-collection_name: products-and-services
+breadcrumb: 'Moments of Life'
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg  
+thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 ![Moments of Life Unique selling proposition](/images/programmes/products-and-services/MOL-Landing-Page_Main.png)
 
