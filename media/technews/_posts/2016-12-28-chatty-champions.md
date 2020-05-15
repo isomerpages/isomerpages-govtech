@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Chatty champions"
-permalink: "/media/technews/chatty-champions"
+title: 'Chatty champions'
+permalink: /media/technews/chatty-champions
 category: technews
-image: "/images/technews/chatty-champions-part-1.png"
+image: /images/technews/chatty-champions-part-1.png
+
 ---
+
 
 ![Chatty champions](/images/technews/chatty-champions-part-1.png)
 
