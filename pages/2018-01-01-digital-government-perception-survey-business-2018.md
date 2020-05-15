@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Annual Digital Government Perception Survey (Business) Conducted in 2018"
-permalink: "/digital-government-perception-survey-business-2018"
-breadcrumb: 2018 Annual Digital Government Perception Survey (Business)
+title: 'Annual Digital Government Perception Survey (Business) Conducted in 2018'
+permalink: /digital-government-perception-survey-business-2018
+breadcrumb: '2018 Annual Digital Government Perception Survey (Business)'
+
 ---
+
 
 ### **Background / Objectives**
 
