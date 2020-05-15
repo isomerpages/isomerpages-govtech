@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "National Trade Platform grabs Smart City Award"
-permalink: "/media/technews/national-trade-platform-grabs-smart-city-award"
+title: 'National Trade Platform grabs Smart City Award'
+permalink: /media/technews/national-trade-platform-grabs-smart-city-award
 category: technews
-image: "/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png"
+image: /images/technews/national-trade-platform-grabs-smart-city-award-part-1.png
+
 ---
+
 
 ![National Trade Platform grabs Smart City Award](/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png)
 
@@ -63,9 +64,3 @@ In the public voting phase, the project stood out against other initiatives such
 
 Singapore’s plan to develop itself into a Global Hydrohub, which took top honours in the Smart Water category, pushes the envelope in its efforts to build up a sustainable supply of water to ensure resilience in the face of variable weather and growing demand for water. 
 
----
-
-Photo credits:
-
-1. Teaser and main image (top photo): Creative Commons Singapore Port by Noel Reynolds licensed under CC By 2.0. Original image has been cropped.
-2. Creative Commons Port of Singapore by William Cho licensed under CC BY-NC-SA 2.0. Original image has been cropped.
