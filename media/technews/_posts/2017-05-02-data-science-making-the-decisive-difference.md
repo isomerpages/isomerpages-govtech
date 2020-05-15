@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Data Science making the decisive difference"
-permalink: "/media/technews/data-science-making-the-decisive-difference"
+title: 'Data Science making the decisive difference'
+permalink: /media/technews/data-science-making-the-decisive-difference
 category: technews
-image: "/images/technews/8data-science-making-the-decisive-difference-part-1.png"
+image: /images/technews/8data-science-making-the-decisive-difference-part-1.png
+
 ---
+
 
 ![data science making the decisive difference](/images/technews/data-science-making-the-decisive-difference-part-1.png)
 
