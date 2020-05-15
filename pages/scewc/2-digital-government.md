@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Digital Government
+title: 'Digital Government'
 permalink: /scewc2019/digital-government
-breadcrumb: Digital Government
+breadcrumb: 'Digital Government'
+
 ---
+
 
 #### **Digital Government**
 
