@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Cyberattacks in healthcare put human lives at risk"
-permalink: "/media/technews/cyberattacks-in-healthcare-put-human-lives-at-risk"
+title: 'Cyberattacks in healthcare put human lives at risk'
+permalink: /media/technews/cyberattacks-in-healthcare-put-human-lives-at-risk
 category: technews
-image: "/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png"
+image: /images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png
+
 ---
+
 
 ![cyberattacks in healthcare put human lives at risk]({{site.baseurl}}/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png)
 
