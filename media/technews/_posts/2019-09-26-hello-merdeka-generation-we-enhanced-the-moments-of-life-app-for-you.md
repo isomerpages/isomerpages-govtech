@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Hello Merdeka Generation - we enhanced the Moments of Life app for you"
-permalink: "/media/technews/hello-merdeka-generation-we-enhanced-the-moments-of-Life-app-for-you"
+title: 'Hello Merdeka Generation - we enhanced the Moments of Life app for you'
+permalink: /media/technews/hello-merdeka-generation-we-enhanced-the-moments-of-Life-app-for-you
 category: technews
-image: "/images/technews/images/technews/mol-technews-aa.png"
+image: /images/technews/images/technews/mol-technews-aa.png
+
 ---
+
 
 ![Moments of Life for Seniors](/images/technews/mol-technews-aa.png)
 
