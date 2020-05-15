@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Re-Entry Permits go electronic"
-permalink: "/media/technews/reentry-permits-go-electronic"
+title: 'Re-Entry Permits go electronic'
+permalink: /media/technews/reentry-permits-go-electronic
 category: technews
-image: "/images/technews/reentry-permits-go-electronic-part-1.png"
+image: /images/technews/reentry-permits-go-electronic-part-1.png
+
 ---
+
 
 Singapore Permanent Residents can now let their mouse do the journeying, instead of having to travel down to the Immigration & Checkpoints Authority (ICA, [http://www.ica.gov.sg/](https://www.ica.gov.sg/)) Building to renew or transfer their Re-Entry Permit (REP). With the launch of the Electronic Re-Entry Permit service (e-REP) by ICA on 2 January 2009, these transactions can now be done online, anywhere and at anytime, within minutes.
 
