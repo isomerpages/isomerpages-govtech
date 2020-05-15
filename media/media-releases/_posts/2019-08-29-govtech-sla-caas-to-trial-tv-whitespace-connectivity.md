@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "GovTech, SLA and CAAS to trial TV whitespace connectivity to Singapore’s Southern Islands"
+title: 'GovTech, SLA and CAAS to trial TV whitespace connectivity to Singapore’s Southern Islands'
 permalink: /media/media-releases/govtech-sla-caas-to-trial-TV-whitespace-connectivity
-date: 2019-08-29
+date: 2019-08-29T00:00:00.000Z
+
 ---
+
 
 **GovTech, SLA and CAAS to trial TV whitespace connectivity to Singapore’s Southern Islands**
 
@@ -21,43 +22,3 @@ Tan Kah Han, Senior Director (Safety Regulation Group), CAAS, said: “CAAS supp
 
 Besides enabling island maintenance and inspections, TVWS could also potentially provide internet network connectivity for island visitors to St John’s and Kusu Islands, such as students and devotees, bringing about a more pleasurable experience.  
 
----
-
-**JOINTLY ISSUED BY GOVTECH, SLA AND CAAS**
-
----
-
-### **About Government Technology Agency**
-The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity.  
-
-GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
-
-For more information, please visit <https://www.tech.gov.sg>. Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
-
-
-### **About Singapore Land Authority**
-Singapore Land Authority (SLA) is a statutory board with the Ministry of Law. Its mission is to optimise land resources for the social and economic development of Singapore. SLA manages some 11,000 hectares of State land and about 5,000 State buildings, which have largely been tenanted out for a variety of uses. It also manages land sales, leases, acquisitions and allocation, developing and marketing land-related information, and maintaining the national land information database through digitised land information services. Being the national land registration authority for property transactions, SLA issues and guarantees land titles in Singapore. It also manages and maintains the national land survey system, where boundaries or legal limits of properties are defined, based on a coordinated cadastre survey system. The use of geospatial information is also spearheaded by SLA through a national collaborative environment where geospatial data, policies and technologies are established and defined, thereby fostering innovation, knowledge and value creation for the Government, enterprises and community. 
-
-For more details, visit <www.sla.gov.sg> or find us on Facebook and Instagram @SingaporeLandAuthority.
-
-
-### **About Civil Aviation Authority of Singapore**
-The mission of the Civil Aviation Authority of Singapore (CAAS) is to grow a safe, vibrant air hub and civil aviation system, making a key contribution to Singapore's success.  CAAS' roles are to oversee and promote safety in the aviation industry, develop the air hub and aviation industry, provide air navigation services, provide aviation training for human resource development, and contribute to the development of international civil aviation.
-
-
-### **For media enquiries, please contact:**
-<br>Lydia LEE (Ms)
-<br>Communications & Marketing Group
-<br>Government Technology Agency of Singapore
-<br>Tel: +65 6211 0894
-<br>Email: <lydia_lee@tech.gov.sg>
-<br>
-<br>Adrian TAN (Mr)
-<br>Singapore Land Authority
-<br>Tel: +65 6478 3881
-<br>Email: <adrian_tan@sla.gov.sg>
-<br>
-<br>Nur Diana JAMALUDIN (Ms)
-<br>Civil Aviation Authority of Singapore
-<br>Tel: +65 6541 2085
-<br>Email: <nur_diana_jamaludin@caas.gov.sg>
