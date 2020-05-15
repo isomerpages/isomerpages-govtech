@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "How the government chief information security officer keeps cyberspace secure - Part 2"
-permalink: "/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace secure-part2"
+title: 'How the government chief information security officer keeps cyberspace secure - Part 2'
+permalink: '/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace secure-part2'
 category: technews
-image: "/images/technews/chinloon-technews.png"
+image: /images/technews/chinloon-technews.png
 
 ---
+
 
 ![Chin Loon GovTech interview](/images/technews/chinloon-technews.png)
 
