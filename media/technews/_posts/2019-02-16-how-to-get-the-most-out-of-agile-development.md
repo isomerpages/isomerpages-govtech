@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "How to get the most out of agile development"
-permalink: "/media/technews/how-to-get-the-most-out-of-agile-development"
+title: 'How to get the most out of agile development'
+permalink: /media/technews/how-to-get-the-most-out-of-agile-development
 category: technews
-image: "/images/technews/how-to-get-the-most-out-of-agile-development-part1.png"
+image: /images/technews/how-to-get-the-most-out-of-agile-development-part1.png
 
 ---
+
 
 ![How to get your partner to send you a lovey-dovey text this Valentine’s Day](/images/technews/how-to-get-the-most-out-of-agile-development-part1.png)
 *Contributed by Steven Koh, Director, Government Digital Services, GovTech*
