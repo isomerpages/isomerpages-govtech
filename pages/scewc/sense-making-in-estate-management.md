@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Sense-Making in Estate Management"
-permalink: "/scewc2019/sense-making-in-estate"
-breadcrumb: Sense-Making in Estate Management
+title: 'Sense-Making in Estate Management'
+permalink: /scewc2019/sense-making-in-estate
+breadcrumb: 'Sense-Making in Estate Management'
+
 ---
+
 
 The sense-making in estate management concept will focus on providing intelligence to Government agencies, industries and citizens, informing decisions and improving the quality of life in an estate.
 
