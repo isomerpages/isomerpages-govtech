@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Bus Uncle talks Data lah"
-permalink: "/media/technews/bus-uncle-talks-data-lah"
+title: 'Bus Uncle talks Data lah'
+permalink: /media/technews/bus-uncle-talks-data-lah
 category: technews
-image: "/images/technews/bus-uncle-talks-data-lah-part-1.png"
+image: /images/technews/bus-uncle-talks-data-lah-part-1.png
+
 ---
+
 
 ![bus uncle talks data lah](/images/technews/bus-uncle-talks-data-lah-part-1.png)
 
