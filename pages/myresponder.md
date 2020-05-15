@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "myResponder"
-permalink: "/scewc2019/myResponder"
+title: myResponder
+permalink: /scewc2019/myResponder
 breadcrumb: myResponder
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vwOetdgO6UU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
