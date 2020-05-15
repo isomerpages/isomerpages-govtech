@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Driverless Future Standard on Track"
-permalink: "/media/technews/driverless-future-standard-on--track"
+title: 'Driverless Future Standard on Track'
+permalink: /media/technews/driverless-future-standard-on--track
 category: technews
-image: "/images/technews/driverless-future-standard-on--track-part-1.png"
+image: /images/technews/driverless-future-standard-on--track-part-1.png
+
 ---
+
 
 ![Driverless Future Standard on Track](/images/technews/driverless-future-standard-on--track-part-1.png)
 
@@ -69,8 +70,3 @@ Current partners include TUV-SUD, an independent assurance company with a strong
 
 With all of these partnerships and research efforts in the works, Cetran could be sending the very first mass SDV fleet onto local roads sooner than later.
 
----
-
-Photo credits:
-1. Teaser image and main image (Top Photo) from [Pixabay.](https://pixabay.com/)
-2. Photos of Cetran launch courtesy of Nanyang Technological Univresity (NTU).
