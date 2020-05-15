@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2006"
-permalink: "/digital-government-perception-survey-citizen-2006"
-breadcrumb: 2006 Annual Digital Government Perception Survey (Citizen)
+title: 'Annual Digital Government Perception Survey (Citizen) Conducted in 2006'
+permalink: /digital-government-perception-survey-citizen-2006
+breadcrumb: '2006 Annual Digital Government Perception Survey (Citizen)'
+
 ---
+
 
 ### **Background**
 
