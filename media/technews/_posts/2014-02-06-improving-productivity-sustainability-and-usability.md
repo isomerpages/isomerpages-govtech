@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Improving productivity, sustainability and usability"
-permalink: "/media/technews/improving-productivity-sustainability-and-usability"
+title: 'Improving productivity, sustainability and usability'
+permalink: /media/technews/improving-productivity-sustainability-and-usability
 category: technews
-image: "/images/technews/improving-productivity-sustainability-and-usability-part-1.png"
+image: /images/technews/improving-productivity-sustainability-and-usability-part-1.png
+
 ---
+
 
 ![improving productivity, sustainability and usability](/images/technews/improving-productivity-sustainability-and-usability-part-1.png)
 
