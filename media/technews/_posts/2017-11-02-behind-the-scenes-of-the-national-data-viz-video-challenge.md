@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Behind the scenes of the National Data Viz Video Challenge"
-permalink: "/media/technews/behind-the-scenes-of-the-national-data-viz-video-challenge"
+title: 'Behind the scenes of the National Data Viz Video Challenge'
+permalink: /media/technews/behind-the-scenes-of-the-national-data-viz-video-challenge
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![behind the scenes of the national data viz video challenge](/images/technews/behind-the-scenes-of-the-national-data-viz-video-challenge-part-1.jpg)
 
