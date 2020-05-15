@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Remarks by Mr Koh Boon Hwee, Chairman of Infocomm Media 2025 Steering Committee at the launch of Infocomm Media 2025"
-permalink: "/media/speeches/remarks-by-mr-koh-boon-hwee-chairman-of-infocomm-media-2025-steering-committee-at-the-launch-of-infocomm-media-2025"
+title: 'Remarks by Mr Koh Boon Hwee, Chairman of Infocomm Media 2025 Steering Committee at the launch of Infocomm Media 2025'
+permalink: /media/speeches/remarks-by-mr-koh-boon-hwee-chairman-of-infocomm-media-2025-steering-committee-at-the-launch-of-infocomm-media-2025
 category: speeches
+
 ---
+
 
 Remarks by Mr Koh Boon Hwee, Chairman of Infocomm Media 2025 Steering Committee at the launch of Infocomm Media 2025 on 11 August 2015, at BASH
 
