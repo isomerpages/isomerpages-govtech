@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "GovTech hits the ground running"
-permalink: "/media/technews/govtech-hits-the-ground-running"
+title: 'GovTech hits the ground running'
+permalink: /media/technews/govtech-hits-the-ground-running
 category: technews
-image: "/images/technews/8govtech-hits-the-ground-running-part-1.png"
+image: /images/technews/8govtech-hits-the-ground-running-part-1.png
+
 ---
+
 
 ![govtech hits the ground running](/images/technews/govtech-hits-the-ground-running-part-1.png)
 
@@ -79,8 +80,3 @@ And on this note of collaboration and co-creation, GovTech was officially launch
 
 Keep watching this space for the exciting new things that are developing at GovTech!
 
----
-
-Image credit
-
-1. Top Photo of Wefie moment during GovTech Launch courtesy of Ministry of Communications and Information (MCI). 
