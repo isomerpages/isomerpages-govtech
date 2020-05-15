@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Of Aliens and the Digital Dark Age"
-permalink: "/media/technews/of-aliens-and-the-digital-dark-age"
+title: 'Of Aliens and the Digital Dark Age'
+permalink: /media/technews/of-aliens-and-the-digital-dark-age
 category: technews
-image: "/images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg"
+image: /images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg
+
 ---
+
 
 ![of aliens and the digital dark age](/images/technews/of-aliens-and-the-digital-dark-age-part-1.jpg)
 
