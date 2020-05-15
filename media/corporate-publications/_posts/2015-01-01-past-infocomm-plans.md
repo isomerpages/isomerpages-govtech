@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Past Infocomm Plans"
-date:   2015-01-01
-permalink: "/media/corporate-publications/past-infocomm-plans"
+title: 'Past Infocomm Plans'
+date: 2015-01-01T00:00:00.000Z
+permalink: /media/corporate-publications/past-infocomm-plans
+
 ---
+
 
 ### **Connected Singapore Brochure**
 To maintain relevance in the face of change, the IDA initiated a re-visioning exercise of Infocomm 21 to fine-tune the plan and to take cognizance of the need for Singapore to develop new sources of growth. Connected Singapore aimed to bring Singapore's infocomm development to new heights, including more pervasive connectivity among the people and businesses through infocomm technology, and revitalising the infocomm industry.
