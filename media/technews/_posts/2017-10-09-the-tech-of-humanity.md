@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Tech of Humanity"
-permalink: "/media/technews/the-tech-of-humanity"
+title: 'The Tech of Humanity'
+permalink: /media/technews/the-tech-of-humanity
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![the tech of humanity](/images/technews/the-tech-of-humanity-part-1.jpg)
 
