@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Future of Digital Gov 101"
-permalink: "/media/technews/the-future-of-digital-gov-101"
+title: 'The Future of Digital Gov 101'
+permalink: /media/technews/the-future-of-digital-gov-101
 category: technews
-image: "/images/technews/the-future-of-digital-gov-101-part-1.png"
+image: /images/technews/the-future-of-digital-gov-101-part-1.png
+
 ---
+
 
 ![The Future of Digital Gov 101](/images/technews/the-future-of-digital-gov-101-part-1.png)
 
@@ -64,8 +65,3 @@ Thank you for joining this whirlwind tour. And remember: don’t forget how impo
 
 Even as we look ahead to the future.
 
----
-
-This commentary was contributed by Mr Joshua Chambers, Founder of [GovInsider](https://govinsider.asia/) and the [Innovation Labs World summit](https://www.innovationlabsworld.com/). The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
-
-Teaser, main (Top Photo) and other images from Pixabay.
