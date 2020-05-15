@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Brave New Digital World"
-permalink: "/media/technews/brave-new-digital-world"
+title: 'Brave New Digital World'
+permalink: /media/technews/brave-new-digital-world
 category: technews
-image: "/images/technews/brave-new-digital-world-part-1.png"
+image: /images/technews/brave-new-digital-world-part-1.png
+
 ---
+
 
 ![brave new digital world](/images/technews/brave-new-digital-world-part-1.png)
 
