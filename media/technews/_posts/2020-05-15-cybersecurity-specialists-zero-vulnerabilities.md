@@ -3,11 +3,11 @@ layout: post
 title: "GovTech cybersecurity specialists zero in on zero-day vulnerabilities"
 permalink: "/media/technews/cybersecurity-on-zero-day-vulnerabilities"
 category: technews
-image: "/images/technews/SupplyAlly-GovTech-team-photo.jpg"
+image: "/images/GovTech-Smart-Nation-zerodayteam.png"
 ---
-![The SupplyAlly team from GovTech in a Smart Nation](/images/technews/SupplyAlly-GovTech-team-photo.jpg)
-Find out what zero-day vulnerabilities are and how white-hat hackers at GovTech’s Cyber
-Security Group are hunting them down to keep government systems safe. 
+![The GovTech Cybersecurity Zero Day Team](/images/GovTech-Smart-Nation-zerodayteam.png)
+
+Find out what zero-day vulnerabilities are and how white-hat hackers at GovTech’s Cyber Security Group are hunting them down to keep government systems safe.
 ---
 
 Staying home is essential for keeping us safe during this global COVID-19 pandemic. Yet, now more than ever, our increased dependence on the internet could expose us to a multitude of non-biological threats: computer bugs rather than actual viruses. 
