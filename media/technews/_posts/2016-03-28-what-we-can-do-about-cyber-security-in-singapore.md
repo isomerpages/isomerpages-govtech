@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "What We can do about Cyber Security in Singapore"
-permalink: "/media/technews/what-we-can-do-about-cyber-security-in-singapore"
+title: 'What We can do about Cyber Security in Singapore'
+permalink: /media/technews/what-we-can-do-about-cyber-security-in-singapore
 category: technews
-image: "/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png"
+image: /images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png
+
 ---
+
 
 ![What We can do about Cyber Security in Singapore](/images/technews/what-we-can-do-about-cyber-security-in-singapore-part-1.png)
 
@@ -92,6 +93,3 @@ It is crucial that every single staff member â€”  and not just the leadership â€
 
 To help companies become more aware of the importance of cyber security, the Singapore Business Federation has launched the [Employee Cyber Security Kit (ECS Kit)](https://login.sbf.org.sg/Employeecybersecuritykit/), a free plug-and-play Web-based toolkit. It will guide SMEs on their employee cyber security awareness efforts. The ECS Kit was developed by National Security Coordination Secretariat and Singapore Business Federation, with the support of the [Cyber Security Agency (CSA)](https://www.csa.gov.sg/) of Singapore.
 
----
-
-This commentary was contributed by Anthony Lim, Director, Singapore, [Cloud Security Alliance.](https://cloudsecurityalliance.org/) The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
