@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Introducing CorpPass for Businesses and other Entities to Transact online with the Government"
+title: 'Introducing CorpPass for Businesses and other Entities to Transact online with the Government'
 permalink: /media/media-releases/introducing-corppass-for-businesses-and-other-entities-to-transact-online-with-the-government
-date: 2016-09-01
+date: 2016-09-01T00:00:00.000Z
+
 ---
+
 The Infocomm Development Authority of Singapore (IDA) <sup>[1]</sup> announced today that Singapore Corporate Access (CorpPass) will be launched on 15 September 2016. CorpPass will be a new corporate digital identity for businesses and other entities (such as non-profit organisations and associations) to transact with Government agencies online.
 
 Businesses currently conduct business transactions through multiple digital identities such as SingPass and EASY <sup>[2]</sup>. Having a single corporate digital identity will increase convenience for users who transact with multiple government agencies as they no longer need to handle multiple login IDs. CorpPass will also allow businesses to have greater control, as they will be able to grant and manage employees’ access to Government digital services.
@@ -24,28 +25,3 @@ For information regarding CorpPass setup, users can visit www.corppass.gov.sg, o
 
 <sup>[2]</sup> E-Services Authorisation System (EASY) is an online digital service authorisation system currently used by some agencies including the Inland Revenue Authority of Singapore, JTC Corporation and the Immigration Checkpoints Authority of Singapore.
 
----
-
-**ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex 1: List of Government Agencies and digital services available from 15 Sept 2016 – Phase One](/files/media/media-releases/2016/09/Annex_1_-_List_of_Government_agencies_and_digital_services_available_from_15_September_2016.pdf)
-* [Annex 2: Factsheet (CorpPass)](/files/media/media-releases/2016/09/CorpPass - Factsheet_1 Sep 2016 (1).pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
-
-### **For media clarification**
-Lynda LIM (Ms)
-<br>Manager, Corporate & Marketing Communication
-<br>Infocomm Development Authority of Singapore
-<br>Tel: (65) 6211 1702
-<br>Email: lynda_lim@ida.gov.sg 
-<br>
-<br>Kenneth TAN (Mr)
-<br>Manager, Corporate & Marketing Communication
-<br>Infocomm Development Authority of Singapore
-<br>Tel: (65) 6211 1600
-<br>Email: kenneth_tan@ida.gov.sg
