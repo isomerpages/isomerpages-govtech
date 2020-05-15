@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Digital Society
+title: 'Digital Society'
 permalink: /scewc/digital-society
-breadcrumb: Digital Society
+breadcrumb: 'Digital Society'
+
 ---
+
 
 #### **Digital Society**
 
