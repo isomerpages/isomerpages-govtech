@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Singapore Government Projected to Invest $1.2 Billion in Infocomm Technologies to Enhance Operational Efficiency and Public Service Delivery"
+title: 'Singapore Government Projected to Invest $1.2 Billion in Infocomm Technologies to Enhance Operational Efficiency and Public Service Delivery'
 permalink: /media/media-releases/singapore-government-projected-to-invest-1-point-2-billion-in-infocomm-technologies-to-enhance-operational-efficiency-and-public-service-delivery
-date: 2013-05-23
+date: 2013-05-23T00:00:00.000Z
+
 ---
+
 The Singapore Government plans to call S$1.2 billion worth of new infocomm tenders in the Financial Year (FY) 2013 leveraging on industry expertise to improve service delivery to citizens and businesses, through the innovative use of technology. This was announced at the annual Industry Briefing on Business Opportunities for Infocomm in the Public Sector held today, where IDA together with the Ministry of Defence (MINDEF) and Singapore Customs share their infocomm procurement plans for FY13.
 
 Mr James Kang, Assistant Chief Executive Officer, Government Chief Information Office of the Infocomm Development Authority of Singapore, said that the Government will focus on key areas of technology development to drive improvements within the public sector. These include Agile Software Development, Government Cloud Solutions, Data and Analytics, and Infocomm Security.
@@ -32,46 +33,3 @@ Singapore Customs will be implementing several new systems in the coming years. 
 
 Singapore Customs is also developing a customs intelligence & investigation system to manage end-to-end processing of cases, and build up a repository of intelligence for profiling and data analysis. In addition, Singapore Customs is looking to revamp its trade statistics system and corporate website. The new trade statistics system will be supported by analytic solutions to enable Customs officers to identify outliers easily and compile statistical information more efficiently, while the new corporate website will enhance the general public interaction experience with Singapore Customs.
 
----
-
-**ISSUED BY CORPORATE AND MARKETING COMMUNICATIONS DIVISIONINFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex A - Singapore Government Cloud Computing Fact Sheet](/files/media/media-releases/2013/06/AnnexApdf.pdf)
-* [Annex B - Data & Analytics Apps4SG Fact Sheet](/files/media/media-releases/2013/06/AnnexBpdf.pdf)
-* [Annex C - Data & Analytics Social Analytics CFC Fact Sheet](/files/media/media-releases/2013/06/AnnexCpdf.pdf)
-* [Annex D - Cyber Watch Centre Fact Sheet](/files/media/media-releases/2013/06/AnnexDpdf.pdf)
-* [Annex E - Centralised Provisioning of Data Encryption Products & Services Fact Sheet](/files/media/media-releases/2013/06/AnnexEpdf.pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
-
-### **For media clarification**
-**Infocomm Development Authority of Singapore**
-<br>
-<br>Christopher Koh (Mr)
-<br>Manager
-<br>Corporate and Marketing Communication
-<br>DID: +65 6211 1709
-<br>HP: +65 9144 1995     
-<br>Fax: +65 6211 2427
-<br>E-mail: christopher_koh@ida.gov.sg
-<br>
-<br>**Ministry of Defence**
-<br>
-<br>Goh Kai Shi (Ms)
-<br>Media Relations Officer
-<br>MINDEF Public Affairs
-<br>DID: +65 6307 5548
-<br>HP: +65 9784 2348
-<br>Email: Goh_Kai_Shi@starnet.gov.sg
-<br>
-<br>**Singapore Customs** 
-<br>
-<br>Patricia Bay (Ms)
-<br>Assistant Head, 
-<br>Corporate Communications
-<br>DID: +65 6355 2127
-<br>Email: Patricia_Bay@customs.gov.sg
