@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Digital Standards and Guides
+title: 'Digital Standards and Guides'
 permalink: /digital-standards-and-guides/
-breadcrumb: Digital Standards and Guides
+breadcrumb: 'Digital Standards and Guides'
 
 ---
+
 
 ### **Standards and Guides**
 
