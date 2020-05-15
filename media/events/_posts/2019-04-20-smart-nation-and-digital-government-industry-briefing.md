@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Smart Nation & Digital Government Industry Briefing 2019 (28 May)"
-permalink: "/media/events/smart-nation-and-digital-government-industry-briefing-2019"
+title: 'Smart Nation & Digital Government Industry Briefing 2019 (28 May)'
+permalink: /media/events/smart-nation-and-digital-government-industry-briefing-2019
 category: events
+
 ---
+
 
 ![Smart Nation and Digital Government Industry Briefing 2019](/images/media/events/Smart-Nation-Digital-Government-Industry-Briefing-GovTech.jpg)
 
