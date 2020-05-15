@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Grab Launches GrabShuttle, An Affordable Shuttle Service for Commuters"
+title: 'Grab Launches GrabShuttle, An Affordable Shuttle Service for Commuters'
 permalink: /media/media-releases/grab-launches-grabShuttle-an-affordable-shuttle-service-for-commuters
-date: 2017-03-02
+date: 2017-03-02T00:00:00.000Z
+
 ---
+
 * Grab integrates with Beeline’s open smart mobility platform to offer GrabShuttle, which supplements public transport services with more direct bus routes at affordable prices
 * Grab and GovTech to study beta trial data and introduce new routes based on commuter demand
 * Passengers can download the GrabShuttle app and pre-book seats from today 
@@ -58,34 +59,3 @@ The GrabShuttle service adds to Grab’s multi-modal transport offerings ranging
 
 To suggest and crowd-start new routes, individuals and corporates can visit Grab’s website for more information: www.grab.com/sg/shuttle. 
 
----
-
-**JOINTLY ISSUED BY GRAB AND GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Beeline Factsheet](/files/media/media-releases/2017/03/Beeline Factsheet.pdf)
-
-### **About Grab**
-Grab is Southeast Asia’s leading ride-hailing platform. Grab solves critical transportation challenges to make transport freedom a reality for 620 million people in Southeast Asia. Grab’s core product platform includes commuting solutions for drivers and passengers with an emphasis on convenience, safety and reliability, as well as its proprietary mobile payments platform, GrabPay. Grab currently offers services in Singapore, Indonesia, Philippines, Malaysia, Thailand and Vietnam. For more information, please visit: <http://www.grab.com>.
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-For Grab
-<br>Golin for Grab SEA
-<br>Tel: (65) 6551 5444 
-<br>Email: grab@golin.com
-<br>
-<br>For GovTech
-<br>Teresa Tan (Ms)
-<br>Senior Communications & Marketing Manager
-<br>GovTech
-<br>Tel: (65) 6211 1745
-<br>Email: <Teresa_TAN@tech.gov.sg>
