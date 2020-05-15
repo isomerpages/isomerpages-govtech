@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Figuring out Fintech fast"
-permalink: "/media/technews/figuring-out-fintech-fast"
+title: 'Figuring out Fintech fast'
+permalink: /media/technews/figuring-out-fintech-fast
 category: technews
-image: "/images/technews/figuring-out-fintech-fast-part-1.png"
+image: /images/technews/figuring-out-fintech-fast-part-1.png
+
 ---
+
 
 ![Figuring out Fintech fast](/images/technews/figuring-out-fintech-fast-part-1.png)
 
