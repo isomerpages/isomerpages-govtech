@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Dementia Friends Mobile App"
-permalink: "/scewc2019/dementia-friends-app"
-breadcrumb: Dementia Friends App
+title: 'Dementia Friends Mobile App'
+permalink: /scewc2019/dementia-friends-app
+breadcrumb: 'Dementia Friends App'
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0uu1cZZ8wrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
