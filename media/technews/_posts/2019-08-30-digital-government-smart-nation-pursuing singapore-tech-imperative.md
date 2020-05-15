@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative"
-permalink: "/media/technews/digital-government-smart-nation-pursuing singapore-tech-imperative"
+title: 'Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative'
+permalink: '/media/technews/digital-government-smart-nation-pursuing singapore-tech-imperative'
 category: technews
-image: "/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png"
+image: /images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png
+
 ---
+
 
 ![smart nation starts With disrupting ourselves](/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png)
 
@@ -76,7 +77,3 @@ Finally, becoming an effective digital government demands that we engage our cit
 
 Through the Smart Nation Co-Creating with People Everywhere (SCOPE) initiative, we partner with and leverage outreach events by the People’s Association and the National Trades Union Congress to garner public feedback on products under development. We believe that this increases citizens’ ownership towards these products, and makes them more inclined to use the products once they launch.
 
----
-**Ng Chee Khern is Permanent Secretary for Smart Nation and Digital Government in the Prime Minister’s Office.**
-
-**This article is adapted from a longer essay in the July 2019 issue of Ethos, a publication of the Civil Service College.**
