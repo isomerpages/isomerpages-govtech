@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Agile Maturity Model
+title: 'Agile Maturity Model'
 permalink: /products-and-services/agile-maturity-model/
-breadcrumb: Agile Maturity Model
-collection_name: products-and-services
+breadcrumb: 'Agile Maturity Model'
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test2.jpg
+
 ---
+
 
 Agile Development is a software development methodology that is characterised by iterative and incremental development, and demonstrating significant productivity benefits such as faster time-to-markets for development and cost-savings for customers. 
 
