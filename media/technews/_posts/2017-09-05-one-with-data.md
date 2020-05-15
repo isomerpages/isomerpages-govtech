@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "One with Data"
-permalink: "/media/technews/one-with-data"
+title: 'One with Data'
+permalink: /media/technews/one-with-data
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![one with data](/images/technews/one-with-data-part-1.jpg)
 
@@ -81,9 +82,3 @@ Mr Villeneuve also noted that at the end of the day, F1 racing is a spectator sp
 
 “Sure, you could get to the point where a driverless car is faster than human-driven cars. But then who would watch that? You only have racing if you have fans watching it, because it’s very expensive, and for the sponsors and manufacturers to come in, you need to have heroes and gladiators.”
 
----
-
-Photo credit:
-1. Main image (top photo): Creative Commons [Villeneuve BAR USGP 2003](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Villeneuve_BAR_USGP_2003.jpg){:target="_blank"} by [Rick Dikeman](https://commons.wikimedia.org/wiki/User:RickDikeman){:target="_blank"} licensed under [CC BY-SA 3.0.](https://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"}
-2. Photo of 2005 Canadian Grand Prix: Creative Commons [Jacques Villeneuve 2005 Canada 2](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Jacques_Villeneuve_2005_Canada_2.jpg){:target="_blank"} by [Mark McArdle](https://www.flickr.com/people/12169388@N05){:target="_blank"} licensed under [CC BY-SA 2.0.](https://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"}
-3. Teaser image: Creative Commons [Jacques Villeneuve 2005 Canada](https://commons.wikimedia.org/wiki/Jacques_Villeneuve#/media/File:Jacques_Villeneuve_2005_Canada.jpg){:target="_blank"}  by [TMWolf](https://www.flickr.com/people/64917036@N00){:target="_blank"}  licensed under [CC BY-SA 2.0.](https://creativecommons.org/licenses/by-sa/2.0/){:target="_blank"}
