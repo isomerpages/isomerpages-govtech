@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "IDA Launches Smart Nation Fellowship Programme to Foster a Network of Top Data Science and Tech Talents for Singapore"
+title: 'IDA Launches Smart Nation Fellowship Programme to Foster a Network of Top Data Science and Tech Talents for Singapore'
 permalink: /media/media-releases/ida-launches-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore
-date: 2016-03-07
+date: 2016-03-07T00:00:00.000Z
+
 ---
+
 The Infocomm Development Authority of Singapore (IDA) today launched the **Smart Nation Fellowship Programme**, calling out to top data scientists, technologists and engineers to help the Singapore government deliver meaningful digital and data solutions to improve the lives of citizens.
 
 This initiative serves to encourage those passionate about the intersection of technology and the public good to contribute to Singapore’s Smart Nation initiative. These could include Singaporeans working overseas for technology companies, or others working in the private sector or academia in Singapore. This is part of government’s overall effort to bring a wider group of engineers and technologists to contribute to our Smart Nation efforts as shared by the Prime Minister of Singapore, Mr Lee Hsien Loong during his earlier trip to San Francisco in February 2016.
@@ -20,30 +21,3 @@ Mr Liu Feng-Yuan, Director, Data Science Division, IDA, said, “It is not just 
 
 For more information on the Smart Nation Fellowship Programme, please visit <https://fellowships.data.gov.sg/>
 
----
-
-**ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex A: Smart Nation Fellowship Programme Factsheet](/files/media/media-releases/2016/03/Annex ASmart Nation Fellowship Prog Factsheetpdf.pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.tech.gov.sg. Follow IDA on Facebook IDA.Singapore and Twitter @IDAsg.
-
-About Smart Nation
-Singapore strives to be a Smart Nation, in which our people are empowered by technology to lead meaningful and fulfilled lives. By harnessing the power of networks, data and info-comm technologies, we endeavour to improve living, create economic opportunity and build a closer community. We have the conducive environment to experiment, prototype and deploy innovative solutions that can be shared with other global cities. It is an exciting journey, and we want your ideas to help us realise our vision. For more information, please visit www.smartnation.sg.
-
-### **For media clarification**
-Teresa TAN (Ms)
-<br>Manager, Corporate & Marketing Communications
-<br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 1745
-<br>Email: Teresa_Tan@ida.gov.sg
-<br>
-<br>TAN Boon Leng (Mr)
-<br>Manager, Corporate & Marketing Communications
-<br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 0375
-<br>Email: Tan_Boon_Leng@ida.gov.sg
