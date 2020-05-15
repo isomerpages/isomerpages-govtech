@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Machine Learning will transform Cybersecurity"
-permalink: "/media/technews/machine-learning-will-transform-cybersecurity"
+title: 'Machine Learning will transform Cybersecurity'
+permalink: /media/technews/machine-learning-will-transform-cybersecurity
 category: technews
-image: "/images/technews/machine-learning-will-transform-cybersecurity-part-1.png"
+image: /images/technews/machine-learning-will-transform-cybersecurity-part-1.png
+
 ---
+
 
 ![machine Learning will transform cybersecurity](/images/technews/machine-learning-will-transform-cybersecurity-part-1.png)
 
@@ -86,6 +87,3 @@ Threats stop and wait for no one.
 
 Which is why we been driving machine learning for over 10 years and will continue to refine this technology further to combat future threats.
 
----
-
-This commentary was contributed by Mr Dhanya Thakkar, Managing Director & Vice President, Asia Pacific, Trend Micro. The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
