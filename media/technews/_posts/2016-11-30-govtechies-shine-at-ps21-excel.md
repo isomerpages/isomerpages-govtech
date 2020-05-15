@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "GovTechies shine at PS21 ExCEL"
-permalink: "/media/technews/govtechies-shine-at-ps21-excel"
+title: 'GovTechies shine at PS21 ExCEL'
+permalink: /media/technews/govtechies-shine-at-ps21-excel
 category: technews
-image: "/images/technews/govtechies-shine-at-ps21-excel-part-1.png"
+image: /images/technews/govtechies-shine-at-ps21-excel-part-1.png
+
 ---
+
 
 ![GovTechies shine at PS21 ExCEL](/images/technews/govtechies-shine-at-ps21-excel-part-1.png)
 
