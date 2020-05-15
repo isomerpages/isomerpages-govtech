@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "E-payments : Guideposts to a Smart Nation"
-permalink: "/media/technews/e-payments-guideposts-to-a-smart-nation"
+title: 'E-payments : Guideposts to a Smart Nation'
+permalink: /media/technews/e-payments-guideposts-to-a-smart-nation
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![e payment](/images/technews/e-payments-guideposts-to-a-smart-nation-part-1.jpg)
 
