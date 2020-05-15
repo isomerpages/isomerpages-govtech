@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Super Cool Supercomputing"
-permalink: "/media/technews/super-cool-supercomputing"
+title: 'Super Cool Supercomputing'
+permalink: /media/technews/super-cool-supercomputing
 category: technews
-image: "/images/technews/super-cool-supercomputing-part-1.png"
+image: /images/technews/super-cool-supercomputing-part-1.png
+
 ---
+
 
 ![Super Cool Supercomputing](/images/technews/super-cool-supercomputing-part-1.png)
 
