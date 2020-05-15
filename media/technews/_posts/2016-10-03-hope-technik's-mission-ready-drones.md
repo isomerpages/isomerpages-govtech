@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Hope Technik's Mission-ready Drones"
-permalink: "/media/technews/hope-technik's-mission-ready-drones"
+title: 'Hope Technik''s Mission-ready Drones'
+permalink: '/media/technews/hope-technik''s-mission-ready-drones'
 category: technews
-image: "/images/technews/hope-technik's-mission-ready-drones-part-1.png"
+image: '/images/technews/hope-technik''s-mission-ready-drones-part-1.png'
+
 ---
+
 
 ![hope technik's mission-ready drones](/images/technews/hope-technik's-mission-ready-drones-part-1.png)
 
