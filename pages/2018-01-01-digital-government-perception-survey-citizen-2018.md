@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2018"
-permalink: "/digital-government-perception-survey-citizen-2018"
-breadcrumb: 2018 Annual Digital Government Perception Survey (Citizen)
+title: 'Annual Digital Government Perception Survey (Citizen) Conducted in 2018'
+permalink: /digital-government-perception-survey-citizen-2018
+breadcrumb: '2018 Annual Digital Government Perception Survey (Citizen)'
+
 ---
+
 
 ### **Background / Objectives**
 
