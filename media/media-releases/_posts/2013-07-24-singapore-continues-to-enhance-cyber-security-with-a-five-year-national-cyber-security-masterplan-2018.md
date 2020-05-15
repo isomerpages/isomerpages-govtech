@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Singapore Continues to Enhance Cyber Security with a Five-Year National Cyber Security Masterplan 2018"
+title: 'Singapore Continues to Enhance Cyber Security with a Five-Year National Cyber Security Masterplan 2018'
 permalink: /media/media-releases/singapore-continues-to-enhance-cyber-security-with-a-five-year-national-cyber-security-masterplan-2018
-date: 2013-07-24
+date: 2013-07-24T00:00:00.000Z
+
 ---
+
 The Government today launched a five-year National Cyber Security Masterplan 2018 to further secure Singapore's cyber environment. Developed through a multi-agency effort led by IDA under the guidance of the National Infocomm Security Committee (NISC), the Masterplan provides an overarching strategic direction to help Government and organisations in strengthening resilience against cyber threats.
 
 Announcing the launch at the Information Security Seminar 2013, Minister for Communications and Information Dr Yaacob Ibrahim said, "Adopting a collaborative approach across the public, private and people sectors, the Masterplan will enhance the security of Singapore's critical infocomm infrastructure and address the security of businesses and individuals. This will create a truly robust infocomm ecosystem and improve our quality of lives."
@@ -22,22 +23,3 @@ Please see attachments for the following:
 * [Annex A: Factsheet on National Cyber Security Masterplan 2018](/files/media/media-releases/2013/07/AnnexApdf.pdf)
 * [Annex B: Factsheet on Cyber Security Awareness Day & New Mobile Application](/files/media/media-releases/2013/07/AnnexBpdf.pdf)
 
----
-
-**ISSUED BY CORPORATE & MARKETING COMMUNICATION DIVISION**
-
-**INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes.  IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore.  For more news and information, visit www.ida.gov.sg.
-
-### **For media clarification**
-Poh Kiat TAN (Ms)
-<br>Manager, Corporate and Marketing Communication 
-<br>email: tan_poh_kiat@ida.gov.sg
-<br>
-<br>Angie LOW (Ms)
-<br>Senior Manager, Corporate and Marketing Communication
-<br>email: angie_low@ida.gov.sg
