@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Learning Workplace"
-permalink: "/media/technews/the-learning-workplace"
+title: 'The Learning Workplace'
+permalink: /media/technews/the-learning-workplace
 category: technews
-image: "/images/technews/the-learning-workplace-part-1.png"
+image: /images/technews/the-learning-workplace-part-1.png
+
 ---
+
 
 ![The Learning Workplace](/images/technews/the-learning-workplace-part-1.png)
 
