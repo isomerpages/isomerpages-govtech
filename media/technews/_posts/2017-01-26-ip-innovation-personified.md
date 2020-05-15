@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "IP Innovation, Personified"
-permalink: "/media/technews/ip-innovation-personified"
+title: 'IP Innovation, Personified'
+permalink: /media/technews/ip-innovation-personified
 category: technews
-image: "/images/technews/ip-innovation-personified-part-1.png"
+image: /images/technews/ip-innovation-personified-part-1.png
+
 ---
+
 
 ![IP innovation, personified](/images/technews/ip-innovation-personified-part-1.png)
 
@@ -100,6 +101,3 @@ Many of the IPOS colleagues have become our friends and we sometimes involve the
 
 And yes, we always buy original goods!
 
----
-
-All photos courtesy of the IPOS IT Department.
