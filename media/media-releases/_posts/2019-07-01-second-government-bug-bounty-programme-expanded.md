@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Second Government Bug Bounty Programme expanded to cover more systems and digital services"
+title: 'Second Government Bug Bounty Programme expanded to cover more systems and digital services'
 permalink: /media/media-releases/Second-Government-Bug-Bounty-Programme-expanded-to-cover-more-systems-and-digital-services
-date: 2019-07-01
+date: 2019-07-01T00:00:00.000Z
+
 ---
+
 
 **Second Government Bug Bounty Programme expanded to cover more systems and digital services**
 
@@ -15,34 +16,3 @@ Similar to the inaugural Government BBP, participating ethical hackers – also 
  
 About 400 local and overseas ‘white hat’ hackers took part in the inaugural Government BBP. 26 vulnerabilities were uncovered and a total bounty payout of close to US$12,000 was awarded. The second Government BBP signals the Government’s continued commitment to work with the cybersecurity community and industry to strengthen and safeguard government ICT systems and digital services.
 
----
-
-**ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE AND THE CYBERSECURITY AGENCY OF SINGAPORE**
-
----
-
-### **About Government Technology Agency**
-The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity.  
-
-GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
-
-For more information, please visit <https://www.tech.gov.sg>.
-
-
-### **About the Cyber Security Agency of Singapore**
-The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised oversight of national cybersecurity functions, and works with sector leads to protect Singapore’s critical services. It also engages with various industries, and stakeholders to heighten cybersecurity awareness as well as to ensure the holistic development of Singapore’s cyber security landscape. The Agency is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information.
-
-For more information, please visit <https://www.csa.gov.sg>.
-
-### **For media enquiries, please contact:**
-<br>Medha LIM (Ms)
-<br>Senior Manager
-<br>Communications & Marketing Group, GovTech
-<br>Tel: +65 6211 1622
-<br>Email: <medha_lim@tech.gov.sg>
-<br>
-<br>CHEN Jingxuan (Ms)
-<br>Senior Manager
-<br>Communications and Engagement Office, CSA
-<br>Tel: +65 6323 5112
-<br>Email: <chen_jingxuan@csa.gov.sg>
