@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "82 Projects, 200 Students, 1st Data Visualisation Video Challenge: Who will best use open government data to improve lives?"
-date: 2017-09-30
-permalink: "/media/media-releases/1st-data-visualisation-video-challenge"
+title: '82 Projects, 200 Students, 1st Data Visualisation Video Challenge: Who will best use open government data to improve lives?'
+date: 2017-09-30T00:00:00.000Z
+permalink: /media/media-releases/1st-data-visualisation-video-challenge
+
 ---
+
 
 Is ownership of public housing a sure win for financial gain? Will chances of returning to crime be reduced with greater social acceptance of ex-offenders? These were some ideas from participating teams at the finals of Government Technology Agency (GovTech)’s inaugural National Data Visualisation Video Challenge held today.
 
@@ -32,35 +33,3 @@ In line with Singapore’s Smart Nation vision, the Challenge encourages greater
 
 Launched in 2011, the country’s open government portal, data.gov.sg, was enhanced in late 2015 and has seen an increase of 40% in unique monthly visitors to about 94,000 in the last year. The number of quality datasets have also increased to 1,200 since inception. These datasets are available to citizens, developers, researchers and students to develop new ideas and make better use of open government data.  
 
----
-
-**ISSUED BY COMMUNICATIONS AND MARKETING GROUP**
-
-**GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex 1: Project Team Write-ups](/files/media/media-releases/2017/09/2 12 Finalists Project Writeups Annex 1.pdf)  
-* [Annex 2: Factsheet for National Data Viz Video Challenge](/files/media/media-releases/2017/09/3 Factsheet  National Data Viz Video Challenge Annex 2.pdf)   
-* [Annex 3: Factsheet for Data.gov.sg](/files/media/media-releases/2017/09/4 Factsheet  Datagovsg Annex 3.pdf) 
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. 
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-Mehul SHAH (Mr)
-<br>Assistant Manager, Communications & Marketing Group
-<br>Government Technology Agency
-<br>DID: (65) 6211 1557
-<br>Email: mehul_shah@tech.gov.sg
-<br>
-<br>Joycelyn CHAN (Ms)
-<br>Assistant Director, Communications & Marketing Group
-<br>Government Technology Agency
-<br>DID: (65) 6211 1151
-<br>Email: joycelyn_chan@tech.gov.sg
