@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Celebrating tech innovation in Singapore"
-permalink: "/media/technews/celebrating-tech-innovation-in-singapore"
+title: 'Celebrating tech innovation in Singapore'
+permalink: /media/technews/celebrating-tech-innovation-in-singapore
 category: technews
-image: "/images/technews/celebrating-tech-innovation-in-singapore-part-1.png"
+image: /images/technews/celebrating-tech-innovation-in-singapore-part-1.png
+
 ---
+
 
 ![celebrating tech innovation in singapore](/images/technews/celebrating-tech-innovation-in-singapore-part-1.png)
 
@@ -69,8 +70,3 @@ As this year’s winners were lauded for their diverse, innovative technological
 
 "So, to continue succeeding as a nation, we, the government and industry, must support and learn from one another.”
 
----
-
- Photo credits:
-
-1. Top photo and photo of CashRun team courtesy of the Infocomm Media Development Authority (IMDA).
