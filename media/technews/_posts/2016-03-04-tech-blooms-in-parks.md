@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Tech blooms in Parks"
-permalink: "/media/technews/tech-blooms-in-parks"
+title: 'Tech blooms in Parks'
+permalink: /media/technews/tech-blooms-in-parks
 category: technews
-image: "/images/technews/tech-blooms-in-parks-part-1.png"
+image: /images/technews/tech-blooms-in-parks-part-1.png
+
 ---
+
 
 ![Tech blooms in Parks](/images/technews/tech-blooms-in-parks-part-1.png)
 
@@ -61,6 +62,3 @@ Going forward, NParks will continue to harness existing technologies such as LiD
 
 “We hope to bring about paradigm shifts in these processes so as to achieve better outcomes to realise our vision of making Singapore a City in a Garden,” said Mr Lim. 
 
----
-
-Main image of Bukit Batok Park from the Public Domain.
