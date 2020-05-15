@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Healthy Robotics"
-permalink: "/media/technews/healthy-robotics"
+title: 'Healthy Robotics'
+permalink: /media/technews/healthy-robotics
 category: technews
-image: "/images/technews/healthy-robotics-part-1.png"
+image: /images/technews/healthy-robotics-part-1.png
+
 ---
+
 
 ![Healthy Robotics](/images/technews/healthy-robotics-part-1.png)
 
