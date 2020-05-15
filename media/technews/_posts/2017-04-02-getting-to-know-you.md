@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Getting to know you"
-permalink: "/media/technews/getting-to-know-you"
+title: 'Getting to know you'
+permalink: /media/technews/getting-to-know-you
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![getting to know you](/images/technews/getting-to-know-you-part-1.jpg)
 
