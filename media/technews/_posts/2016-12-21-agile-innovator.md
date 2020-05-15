@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Agile Innovator"
-permalink: "/media/technews/agile-innovator"
+title: 'Agile Innovator'
+permalink: /media/technews/agile-innovator
 category: technews
-image: "/images/technews/agile-innovator-part-1.png"
+image: /images/technews/agile-innovator-part-1.png
+
 ---
+
 
 ![agile innovator](/images/technews/agile-innovator-part-1.png)
 
