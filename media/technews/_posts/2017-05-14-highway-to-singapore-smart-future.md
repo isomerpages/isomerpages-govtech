@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Highway to Singapore's Smart Future"
-permalink: "/media/technews/highway-to-singapore-smart-future"
+title: 'Highway to Singapore''s Smart Future'
+permalink: /media/technews/highway-to-singapore-smart-future
 category: technews
-image: "/images/technews/highway-to-singapore-smart-future-part-1.png"
+image: /images/technews/highway-to-singapore-smart-future-part-1.png
+
 ---
+
 
 ![highway to singapore's smart future](/images/technews/highway-to-singapore-smart-future-part-1.png)
 
@@ -72,6 +73,3 @@ Its policy of investing ahead of demand to make markets more efficient and open 
 
 However, what sets Singapore apart is its willingness to engage private partners and the global ecosystem of experts as well as its openness to continuously evolve and reinvent itself, as it creates a highway to a shared — and smart — future for its citizens.
 
---- 
-
-This commentary was contributed by Mr Pierre Samson, Vice President APAC, Alcatel-Lucent Enterprise. The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
