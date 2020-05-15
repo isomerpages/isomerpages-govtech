@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "We predict 7 tech trends for 2017"
-permalink: "/media/technews/we-predict-7-tech-trends-for-2017"
+title: 'We predict 7 tech trends for 2017'
+permalink: /media/technews/we-predict-7-tech-trends-for-2017
 category: technews
-image: "/images/technews/we-predict-7-tech-trends-for-2017-part-1.png"
+image: /images/technews/we-predict-7-tech-trends-for-2017-part-1.png
+
 ---
+
 
 ![we predict 7 tech trends for 2017](/images/technews/we-predict-7-tech-trends-for-2017-part-1.png)
 
