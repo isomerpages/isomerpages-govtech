@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Stay Cyber Ready to be Cyber Safe"
-permalink: "/media/technews/stay-cyber-ready-to-be-cyber-safe"
+title: 'Stay Cyber Ready to be Cyber Safe'
+permalink: /media/technews/stay-cyber-ready-to-be-cyber-safe
 category: technews
-image: "/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png"
+image: /images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png
+
 ---
+
 
 ![stay cyber ready to be cyber safe](/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png)
 
