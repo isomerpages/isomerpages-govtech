@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Using artificial intelligence to make real-world connections"
-permalink: "/media/technews/using-artificial-intelligence-to-make-real-world-connections"
+title: 'Using artificial intelligence to make real-world connections'
+permalink: /media/technews/using-artificial-intelligence-to-make-real-world-connections
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![using artificial intelligence to make real-world connections](/images/technews/using-artificial-intelligence-to-make-real-world-connections-part-1.JPG)
 
