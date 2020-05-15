@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Working out your future jobs"
-permalink: "/media/technews/working-out-your-future-jobs"
+title: 'Working out your future jobs'
+permalink: /media/technews/working-out-your-future-jobs
 category: technews
-image: "/images/technews/working-out-your-future-jobs-part-1.png"
+image: /images/technews/working-out-your-future-jobs-part-1.png
+
 ---
+
 
 ![working out your future jobs](/images/technews/working-out-your-future-jobs-part-1.png)
 
