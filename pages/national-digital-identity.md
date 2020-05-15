@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "National Digital Identity"
-permalink: "/scewc2019/ndi"
-breadcrumb: National Digital Identity
+title: 'National Digital Identity'
+permalink: /scewc2019/ndi
+breadcrumb: 'National Digital Identity'
+
 ---
+
 
 ![National Digital Identity](/images/technews/giving-every-citizen-a-unique-digital-identity-part-1.png)
 
