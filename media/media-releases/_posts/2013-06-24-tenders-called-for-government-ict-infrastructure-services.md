@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Tenders Called for Government ICT Infrastructure Services"
+title: 'Tenders Called for Government ICT Infrastructure Services'
 permalink: /media/media-releases/tenders-called-for-government-ict-infrastructure-services
-date: 2013-06-24
+date: 2013-06-24T00:00:00.000Z
+
 ---
+
 > Tenders Called for Government ICT Infrastructure Services
 
 The Singapore Government is calling a series of tenders for the provision of government infrastructure services in order to provide for a smooth transition before the end of the current Standard ICT Operating Environment (SOE) contract. 
@@ -30,23 +31,3 @@ This tender is for the supply of AFM support services to the Government and stat
 
 The remaining tenders will be issued in the months ahead.
 
----
-
-**JOINTLY ISSUED BY MINISTRY OF FINANCE, MINISTRY OF COMMUNICATIONS AND INFORMATION AND INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **About Ministry of Finance**
-The Ministry of Finance (MOF) seeks to create a better Singapore through Finance. This is done by focusing on three strategic outcomes: sound public finances, growth opportunities for all, and high performance government. We aim to collaborate with industry experts to make Singapore a world-class financial and business hub. For more information, please visit our website at www.mof.gov.sg. 
-
-### **About Ministry of Communications and Information**
-The Ministry of Communications and Information (MCI) oversees the development of the infocomm technology, media and design sectors; the national and public libraries; as well as Government’s information and public communication policies. It is MCI’s mission to build a nation of connected people and achieve a better quality of life. This is achieved by developing vibrant infocomm, media and design sectors, cultivating learning communities and fostering an engaged public. For more information on MCI, please visit www.mci.gov.sg. 
-
-### **About Infocomm Development Authority of Singapore**
-The Infocomm Development Authority of Singapore (IDA) is committed to growing Singapore into a dynamic global infocomm hub. IDA uses an integrated approach to developing infocommunications in Singapore. This involves nurturing a competitive telecoms market as well as a conducive business environment with programmes and schemes for both local and international companies. For more news and information, visit www.ida.gov.sg.
-
-### **For media clarification**
-Malini Nathan (Ms)
-<br>Manager, Corporate and Marketing Communications Division
-<br>Infocomm Development Authority of Singapore
-<br>Email: malini_nathan@ida.gov.sg
