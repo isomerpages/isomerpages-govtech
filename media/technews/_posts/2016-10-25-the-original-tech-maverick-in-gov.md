@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The original Tech Maverick in Gov"
-permalink: "/media/technews/the-original-tech-maverick-in-gov"
+title: 'The original Tech Maverick in Gov'
+permalink: /media/technews/the-original-tech-maverick-in-gov
 category: technews
-image: "/images/technews/the-original-tech-maverick-in-gov-part-1.png"
+image: /images/technews/the-original-tech-maverick-in-gov-part-1.png
+
 ---
+
 
 ![The original Tech Maverick in Gov](/images/technews/the-original-tech-maverick-in-gov-part-1.png)
 
@@ -82,8 +83,3 @@ During the NUS commencement ceremony in 2011, he extended some sage advice to th
 
 "In short, my advice to you is if you do what you love, create opportunities for others and boldly make new friends, you will certainly succeed and be happy.” 
 
----
-
-Image credit
-
-1. All photos courtesy of Mr Philip Yeo.
