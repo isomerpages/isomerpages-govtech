@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: GovTech Whistleblowing Line
+title: 'GovTech Whistleblowing Line'
 permalink: /whistleblowing-line/
 breadcrumb: whistleblowing-line
+
 ---
+
 
 GovTech Whistleblowing Line is an independent hotline service that gives one the opportunity to raise, in confidence and without fear of retaliation, occurrences of illegal or unethical conduct by GovTech staff for appropriate investigation and action subject to applicable laws.
 
