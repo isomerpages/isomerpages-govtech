@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Running fast, running slow"
-permalink: "/media/technews/running-fast-running-slow"
+title: 'Running fast, running slow'
+permalink: /media/technews/running-fast-running-slow
 category: technews
-image: "/images/technews/running-fast-running-slow-part-1.png"
+image: /images/technews/running-fast-running-slow-part-1.png
+
 ---
+
 
 ![Running fast, running slow](/images/technews/running-fast-running-slow-part-1.png)
 
@@ -87,7 +88,3 @@ Some of the collaborative projects that have benefited from greater engagement w
 
 Mr Tan said: “Needs vary according to whether it’s an information query or a passport application, for example, and we need to adjust in consultation with stakeholders to provide a delightful experience.”
 
----
-
-Photo credit:
-1. Main image (top photo) of panel members courtesy of SCS.
