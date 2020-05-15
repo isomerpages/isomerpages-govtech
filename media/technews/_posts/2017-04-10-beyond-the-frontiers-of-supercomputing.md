@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Beyond the frontiers of Supercomputing"
-permalink: "/media/technews/beyond-the-frontiers-of-supercomputing"
+title: 'Beyond the frontiers of Supercomputing'
+permalink: /media/technews/beyond-the-frontiers-of-supercomputing
 category: technews
-image: "/images/technews/beyond-the-frontiers-of-supercomputing-part-1.png"
+image: /images/technews/beyond-the-frontiers-of-supercomputing-part-1.png
+
 ---
+
 
 ![Beyond the frontiers of Supercomputing](/images/technews/beyond-the-frontiers-of-supercomputing-part-1.png)
 
