@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "What we learnt from GovTech's interview with Dr Janil Puthucheary"
-permalink: "/media/technews/what-we-learnt-from-govtech-interview-with-dr-janil-puthucheary"
+title: 'What we learnt from GovTech''s interview with Dr Janil Puthucheary'
+permalink: /media/technews/what-we-learnt-from-govtech-interview-with-dr-janil-puthucheary
 category: technews
-image: 
+image: null
+
 ---
+
 
 <div class="bp-youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IbeL5qnxRvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
