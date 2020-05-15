@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Serving citizens better with Big Data"
-permalink: "/media/technews/serving-citizens-better-with-big-data"
+title: 'Serving citizens better with Big Data'
+permalink: /media/technews/serving-citizens-better-with-big-data
 category: technews
-image: "/images/technews/serving-citizens-better-with-big-data-part-1.png"
+image: /images/technews/serving-citizens-better-with-big-data-part-1.png
+
 ---
+
 
 ![serving citizens better with big data](/images/technews/serving-citizens-better-with-big-data-part-1.png)
 
