@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart People Smart Cities"
-permalink: "/media/technews/smart-people-smart-cities"
+title: 'Smart People Smart Cities'
+permalink: /media/technews/smart-people-smart-cities
 category: technews
-image: "/images/technews/smart-people-smart-cities-part-1.png"
+image: /images/technews/smart-people-smart-cities-part-1.png
+
 ---
+
 
 ![Smart People Smart Cities](/images/technews/smart-people-smart-cities-part-1.png)
 
