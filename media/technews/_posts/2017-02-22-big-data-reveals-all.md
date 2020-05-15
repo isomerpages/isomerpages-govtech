@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Big Data reveals all"
-permalink: "/media/technews/big-data-reveals-all"
+title: 'Big Data reveals all'
+permalink: /media/technews/big-data-reveals-all
 category: technews
-image: "/images/technews/big-data-reveals-all-part-1.png"
+image: /images/technews/big-data-reveals-all-part-1.png
+
 ---
+
 
 ![Big Data reveals all](/images/technews/big-data-reveals-all-part-1.png)
 
