@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Reimagination of Education Competition"
-permalink: "/media/technews/the-reimagination-of-education-competition"
+title: 'The Reimagination of Education Competition'
+permalink: /media/technews/the-reimagination-of-education-competition
 category: technews
-image: "/images/technews/the-reimagination-of-education-competition-part-1.png"
+image: /images/technews/the-reimagination-of-education-competition-part-1.png
+
 ---
+
 
 ![the reimagination of education competition](/images/technews/the-reimagination-of-education-competition-part-1.png)
 
