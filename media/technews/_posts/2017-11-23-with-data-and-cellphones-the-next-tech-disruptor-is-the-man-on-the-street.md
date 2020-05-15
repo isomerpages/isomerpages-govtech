@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "With data and cellphones, the next tech disruptor is the man on the street"
-permalink: "/media/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street"
+title: 'With data and cellphones, the next tech disruptor is the man on the street'
+permalink: /media/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![next tech disruptor is the man on the street with data and cellphones](/images/technews/with-data-and-cellphones-the-next-tech-disruptor-is-the-man-on-the-street-part-1.JPG)
 
