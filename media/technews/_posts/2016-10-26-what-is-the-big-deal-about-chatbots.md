@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "What's the big deal about (chat)bots?"
-permalink: "/media/technews/what-is-the-big-deal-about-chatbots"
+title: 'What''s the big deal about (chat)bots?'
+permalink: /media/technews/what-is-the-big-deal-about-chatbots
 category: technews
-image: "/images/technews/what-is-the-big-deal-about-chatbots-part-1.png"
+image: /images/technews/what-is-the-big-deal-about-chatbots-part-1.png
+
 ---
+
 
 ![What's the big deal about (chat)bots?](/images/technews/what-is-the-big-deal-about-chatbots-part-1.png)
 
@@ -100,8 +101,3 @@ We’re still in the early days of chatbots. But there’s already the potential
 
 And I for one could not be more excited.
 
----
-
-This commentary was contributed by Dharmesh Shah, Co-founder and CTO, HubSpot. The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
-
-Teaser image and main image (Top Photo) from Pixabay.
