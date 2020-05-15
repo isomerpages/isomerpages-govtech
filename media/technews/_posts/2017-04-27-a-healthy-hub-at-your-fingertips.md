@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "A healthy hub at your fingertips"
-permalink: "/media/technews/a-healthy-hub-at-your-fingertips"
+title: 'A healthy hub at your fingertips'
+permalink: /media/technews/a-healthy-hub-at-your-fingertips
 category: technews
-image: "/images/technews/8a-healthy-hub-at-your-fingertips-part-1.png"
+image: /images/technews/8a-healthy-hub-at-your-fingertips-part-1.png
+
 ---
+
 
 ![a healthy hub at your fingertips](/images/technews/a-healthy-hub-at-your-fingertips-part-1.png)
 
@@ -53,35 +54,3 @@ And public feedback continues to be the powerful engine that drives the developm
 
 Ms Lee confirmed: “As we continue to build up this citizen-centric portal, we will incorporate feedback received in subsequent releases, so that HealthHub becomes increasingly useful to Singaporeans. With the help of user inputs, HealthHub aims to develop into a 'must-have' digital companion for healthy living for Singaporeans.”
 
----
-
-### **About HealthHub**
-HealthHub is an initiative by the Ministry of Health and the Health Promotion Board, and is a milestone project under MOH’s Health IT Masterplan, which uses technology to better connect citizens with healthcare institutions, and helps empower citizens with information to better manage their health.
-
-It is one of the elements in the drive towards the Smart Nation vision, tapping on data that empowers citizens to make informed decisions that improve their lives.
-
-HealthHub is supported by Integrated Health Information Systems and public healthcare institutions including:
-
-* Agency for Integrated Care
-* Alexandra Health System
-* Eastern Health Alliance
-* Health Sciences Authority
-* Jurong Health Services
-* National Healthcare Group
-* National University Health System
-* Singapore Health Services
-
-Popular features on HealthHub include:
-
-* ‘myHealth’ – offers e-services such as viewing of appointments, checking of lab test results and access to personal health records. Caregivers can also access the record of family members and patients.
-
-* ‘Live Healthy’ – offers articles on healthy living 
-
-* ‘What’s on’ and ‘Directory’ – offers information on the latest events, news and programmes by HPB and other public healthcare institutions. Users can also locate healthcare facilities and services. 
-
-HealthHub is available at [www.healthhub.sg](https://www.healthhub.sg/), and easily accessible with a downloadable mobile app on both iOS and Android devices.
-
----
-
-Image credit:
-1. Photo of HealthHub team courtesy of Health Promotion Board (HPB). All screenshots from HealthHub portal.
