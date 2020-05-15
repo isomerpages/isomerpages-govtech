@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Gov Apps for Everyone"
-permalink: "/media/technews/gov-apps-for-everyone"
+title: 'Gov Apps for Everyone'
+permalink: /media/technews/gov-apps-for-everyone
 category: technews
-image: "/images/technews/gov-apps-for-everyone-part-1.png"
+image: /images/technews/gov-apps-for-everyone-part-1.png
+
 ---
+
 
 ![Gov Apps for Everyone](/images/technews/gov-apps-for-everyone-part-1.png)
 
