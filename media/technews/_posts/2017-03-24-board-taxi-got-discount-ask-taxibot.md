@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Board taxi got discount? Ask TaxiBot!"
-permalink: "/media/technews/board-taxi-got-discount-ask-taxibot"
+title: 'Board taxi got discount? Ask TaxiBot!'
+permalink: /media/technews/board-taxi-got-discount-ask-taxibot
 category: technews
-image: "/images/technews/board-taxi-got-discount-ask-taxibot-part-1.png"
+image: /images/technews/board-taxi-got-discount-ask-taxibot-part-1.png
+
 ---
+
 
 ![board taxi got discount? ask taxibot!](/images/technews/board-taxi-got-discount-ask-taxibot-part-1.png)
 
@@ -88,8 +89,3 @@ We think TaxiBot should be like your best friend or kaki who has all the 'lobang
 
 TaxiBot is likely to be someone young, who's not afraid to joke, laugh and play with you!
 
----
-
-Photo Credit:
-
-1. Main image (top photo) and teaser image montage: [Comfort Hyundai Sonata Taxi](https://commons.wikimedia.org/wiki/File:Comfort_Hyundai_Sonata_taxi.jpg) by Terence Ong licensed under [CC By 3.0](https://creativecommons.org/licenses/by/3.0/deed.en).
