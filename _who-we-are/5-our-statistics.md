@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Statistics
+title: 'Our Statistics'
 permalink: /who-we-are/our-statistics/
-breadcrumb: Our Statistics
-collection_name: who-we-are
+breadcrumb: 'Our Statistics'
+
 ---
+
 ### **Annual Digital Government Perception Survey (Citizen)- Conducted in 2019**
 
 #### **Background / Objectives**
