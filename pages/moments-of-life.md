@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Moments of Life"
-permalink: "/scewc2019/mol"
-breadcrumb: Moments of Life
+title: 'Moments of Life'
+permalink: /scewc2019/mol
+breadcrumb: 'Moments of Life'
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OM3gIgqK4xE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
