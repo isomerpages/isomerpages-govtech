@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The new team sport of Data Science"
-permalink: "/media/technews/the-new-team-sport-of-data-science"
+title: 'The new team sport of Data Science'
+permalink: /media/technews/the-new-team-sport-of-data-science
 category: technews
-image: "/images/technews/the-new-team-sport-of-data-science-part-1.png"
+image: /images/technews/the-new-team-sport-of-data-science-part-1.png
+
 ---
+
 
 ![The new team sport of Data Science](/images/technews/the-new-team-sport-of-data-science-part-1.png)
 
@@ -76,8 +77,3 @@ But the goal is not to implement sexy, new technologies, Ms Tan pointed out, but
 
 Ms Tan ended by sharing a quote from Microsoft CEO Satya Nadella that can possibly apply to sports teams too: “When you change the way you see the world, you change the world you see.”
 
----
-
-Photo credit:
-
-1. Main image (top photo) and some photos in the teaser image courtesy of Microsoft Singapore.
