@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Sizing up the fun at Tech Saturday Upsized"
-permalink: "/media/technews/sizing-up-the-fun-at-tech-saturday-upsized"
+title: 'Sizing up the fun at Tech Saturday Upsized'
+permalink: /media/technews/sizing-up-the-fun-at-tech-saturday-upsized
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![sizing up the fun at tech saturday upsized](/images/technews/sizing-up-the-fun-at-tech-saturday-upsized-part-1.jpg)
 
