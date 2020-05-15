@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "OpenCerts"
-permalink: "/scewc2019/opencerts"
+title: OpenCerts
+permalink: /scewc2019/opencerts
 breadcrumb: OpenCerts
+
 ---
+
 
 ![OpenCerts homepage](/images/OpenCerts homepage.png)
 
