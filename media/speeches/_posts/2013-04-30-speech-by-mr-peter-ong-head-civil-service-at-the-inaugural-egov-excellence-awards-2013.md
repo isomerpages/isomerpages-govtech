@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)"
-permalink: "/media/speeches/speech-by-mr-peter-ong-head-civil-service-at-the-inaugural-egov-excellence-awards-2013"
+title: 'Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)'
+permalink: /media/speeches/speech-by-mr-peter-ong-head-civil-service-at-the-inaugural-egov-excellence-awards-2013
 category: speeches
+
 ---
+
 
 Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA) Ceremony, 30 April 2013, 9.40am, MBC Auditorium.
 
