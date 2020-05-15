@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Tech Kaki Community
+title: 'Tech Kaki Community'
 permalink: /products-and-services/tech-kaki-community/
-breadcrumb: Tech Kaki Community
-collection_name: products-and-services
+breadcrumb: 'Tech Kaki Community'
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/TechKaki-Thumbnail.jpg
+
 ---
+
 
 ![Tech Kaki banner](/images/programmes/products-and-services/TechKaki-Header.jpg)
 
