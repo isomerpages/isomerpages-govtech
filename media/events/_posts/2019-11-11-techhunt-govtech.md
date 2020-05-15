@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "TechHunt @ GovTech (27 November)"
-permalink: "/media/events/techhunt-at-govtech"
+title: 'TechHunt @ GovTech (27 November)'
+permalink: /media/events/techhunt-at-govtech
 category: events
+
 ---
+
 
 
 ## **TechHunt @ GovTech - an exclusive recruitment event** ##
