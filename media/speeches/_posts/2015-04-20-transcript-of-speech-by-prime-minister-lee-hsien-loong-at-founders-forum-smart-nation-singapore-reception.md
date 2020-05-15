@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Transcript of Speech by Prime Minister Lee Hsien Loong at Founders Forum Smart Nation Singapore Reception"
-permalink: "/media/speeches/transcript-of-speech-by-prime-minister-lee-hsien-loong-at-founders-forum-smart-nation-singapore-reception"
+title: 'Transcript of Speech by Prime Minister Lee Hsien Loong at Founders Forum Smart Nation Singapore Reception'
+permalink: /media/speeches/transcript-of-speech-by-prime-minister-lee-hsien-loong-at-founders-forum-smart-nation-singapore-reception
 category: speeches
+
 ---
+
 
 * Ladies and Gentlemen, good evening and welcome to Singapore! At a time where grey clouds are hovering over the world economy, we are lucky. Firstly, there were no grey clouds in the sky this evening. Secondly, the tech industry is one of the bright spots in the world. There is a sense of adventure, there is the confidence that anything is possible. There is the excitement that the next bright idea can change the world. I am sure all of you feel that, and live that, and that is why you are here this evening.
 
