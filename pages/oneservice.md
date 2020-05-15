@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "OneService"
-permalink: "/scewc2019/oneservice"
+title: OneService
+permalink: /scewc2019/oneservice
 breadcrumb: OneService
+
 ---
+
 
 ![OneService submit case page](/images/OneService screenshot.png)
 
