@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Smart Nation Sensor Platform
+title: 'Smart Nation Sensor Platform'
 permalink: /products-and-services/smart-nation-sensor-platform/
-breadcrumb: Smart Nation Sensor Platform
-collection_name: products-and-services
+breadcrumb: 'Smart Nation Sensor Platform'
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 Singapore is building a Smart Nation by harnessing technology to the fullest with the aim of improving the lives of citizens, creating more opportunities, and building stronger communities.
 
