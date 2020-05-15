@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The future beckons through emerging technologies"
-permalink: "/media/technews/the-future-beckons-through-emerging-technologies"
+title: 'The future beckons through emerging technologies'
+permalink: /media/technews/the-future-beckons-through-emerging-technologies
 category: technews
-image: "/images/technews/the-future-beckons-through-emerging-technologies-part-1.png"
+image: /images/technews/the-future-beckons-through-emerging-technologies-part-1.png
+
 ---
+
 
 ![The future beckons through emerging technologies](/images/technews/the-future-beckons-through-emerging-technologies-part-1.png)
 
@@ -100,9 +101,4 @@ When researchers invented the very first transistor, they would have never imagi
 Similarly, digital transformation is not just technology-led. It is also shaped by our imaginations, and more importantly, our ambitions.
 
 The future beckons!
-
----
-
-This commentary was contributed by Mr Ralph Haupter, President of Microsoft Asia and Corporate Vice President, Microsoft Corp.
-The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
 
