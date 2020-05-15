@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Moments of Life lucky draw - Terms & Conditions"
-permalink: "/media/technews/momentsoflifecontest"
+title: 'Moments of Life lucky draw - Terms & Conditions'
+permalink: /media/technews/momentsoflifecontest
 category: technews
-image: 
+image: null
+
 ---
+
 
 1. This lucky draw giveaway will be happening from 14 November 2019 to 30 March 2020 (Ended)
 2. All contest participants must download the Moments of Life app (https://www.tech.gov.sg/products-and-services/moments-of-life/). 
