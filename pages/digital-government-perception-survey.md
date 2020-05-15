@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Digital Government Perception Survey
+title: 'Digital Government Perception Survey'
 permalink: /digital-government-perception-survey/
-breadcrumb: Digital Government Perception Survey
+breadcrumb: 'Digital Government Perception Survey'
+
 ---
+
 
 ### Annual Digital Government Perception Survey (Citizen)
 * [2018](/digital-government-perception-survey-citizen-2018){:target="_blank"} 
