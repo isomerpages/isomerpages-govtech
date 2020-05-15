@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "A Smart Campus to Serve Students and Staff"
-permalink: "/media/technews/a-smart-campus-to-serve-students-and-staff"
+title: 'A Smart Campus to Serve Students and Staff'
+permalink: /media/technews/a-smart-campus-to-serve-students-and-staff
 category: technews
-image: "/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png"
+image: /images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png
+
 ---
+
 
 ![A Smart Campus to Serve Students and Staff](/images/technews/a-smart-campus-to-serve-students-and-staff-part-1.png)
 
@@ -58,8 +59,4 @@ In other Smart Campus initiatives in Singapore, Temasek Polytechnic has also emb
 Announced in 2014, the TP initiative also aims to facilitate the secure collection, analysis and evaluation of rich data to provide insights that lead to the creation of innovative solutions and services for the polytechnic community. 
 
 TP said it plans to build services around infrastructure, teaching and learning on the TP Smart Campus and to facilitate a lively eco-system where students and staff learn and work.
-
----
-
-Photo credit for teaser image and top image: "1 singapore polytechnic panorama 2010" by Chensiyuan (Chen Siyuan) -- own work. Licensed under GFDL via Commons.
 
