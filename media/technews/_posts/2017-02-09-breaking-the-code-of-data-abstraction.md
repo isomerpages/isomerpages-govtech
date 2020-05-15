@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Breaking the code of Data Abstraction"
-permalink: "/media/technews/breaking-the-code-of-data-abstraction"
+title: 'Breaking the code of Data Abstraction'
+permalink: /media/technews/breaking-the-code-of-data-abstraction
 category: technews
-image: "/images/technews/breaking-the-code-of-data-abstraction-part-1.png"
+image: /images/technews/breaking-the-code-of-data-abstraction-part-1.png
+
 ---
+
 
 ![Breaking the code of Data Abstraction](/images/technews/breaking-the-code-of-data-abstraction-part-1.png)
 
@@ -62,8 +63,3 @@ I worked in core computer science, with the real guts of the problem — how do 
 
 Another huge difference is that artificial intelligence has made tremendous strides since the advent of new ways of doing machine learning. Computer science is a great career; if you have the proficiency and interest, your imagination is really the limit!
 
----
-
-Photo Credit:
-
-1. Creative Commons [Barbara Liskov MIT computer scientist](https://commons.wikimedia.org/wiki/File:Barbara_Liskov_MIT_computer_scientist_2010.jpg) by [Kenneth C. Zirkel](https://commons.wikimedia.org/wiki/User:Kzirkel) licensed under [CC By-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). 
