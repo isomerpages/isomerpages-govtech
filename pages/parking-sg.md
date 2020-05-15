@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Parking.sg"
-permalink: "/scewc2019/parkingsg"
+title: Parking.sg
+permalink: /scewc2019/parkingsg
 breadcrumb: Parking.sg
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bxtVwuZr0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
