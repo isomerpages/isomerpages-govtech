@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "IDA Appoints New Government Chief Information Officer / Assistant Chief Executive (Government Chief Information Office)"
+title: 'IDA Appoints New Government Chief Information Officer / Assistant Chief Executive (Government Chief Information Office)'
 permalink: /media/media-releases/ida-appoints-new-government-chief-information-officer
-date: 2014-01-21
+date: 2014-01-21T00:00:00.000Z
+
 ---
+
 > Mr Chan Cheow Hoe to join IDA
 
 The Infocomm Development Authority of Singapore (IDA) will be appointing Mr Chan Cheow Hoe as the Government Chief Information Officer (CIO) /Assistant Chief Executive (Government Chief Information Office or GCIO) with effect from 1 April 2014.  
@@ -19,14 +20,3 @@ The current Assistant Chief Executive (GCIO), Mr James Kang, will be returning t
 Ms Jacqueline Poh, IDA MD said: “IDA expresses our deep appreciation to Mr James Kang for his service and dedication to Singapore.  In his more than five years at the helm of the Government Chief Information Office, he has made considerable contributions to IT development within the Singapore Government, tapping on new technologies like cloud computing and business analytics to enhance our capabilities. 
 “We look forward to welcoming Mr Chan Cheow Hoe into IDA.  His extensive experience in managing technology development in large and complex businesses will be valuable in IDA’s continued efforts to ensure operational resilience, transform the Government sector and uplift digital services in order to better serve our citizens.”
 
----
-
-**ISSUED BY INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Rosources:**
-* [CV of Mr Chan Cheow Hoe](/files/media/media-releases/2014/01/cv of chan cheow hoepdf.pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg.
