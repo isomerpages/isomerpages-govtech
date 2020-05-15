@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Healing power of soft robotics"
-permalink: "/media/technews/healing-power-of-soft-robotics"
+title: 'Healing power of soft robotics'
+permalink: /media/technews/healing-power-of-soft-robotics
 category: technews
-image: "/images/technews/healing-power-of-soft-robotics-part-1.png"
+image: /images/technews/healing-power-of-soft-robotics-part-1.png
+
 ---
+
 
 ![Healing power of soft robotics](/images/technews/healing-power-of-soft-robotics-part-1.png)
 
