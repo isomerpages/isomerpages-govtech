@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "New Tech on the cutting edge"
-permalink: "/media/technews/new-tech-on-the-cutting-edge"
+title: 'New Tech on the cutting edge'
+permalink: /media/technews/new-tech-on-the-cutting-edge
 category: technews
-image: "/images/technews/new-tech-on-the-cutting-edge-part-1.png"
+image: /images/technews/new-tech-on-the-cutting-edge-part-1.png
+
 ---
+
 
 ![new Tech on the cutting edge](/images/technews/new-tech-on-the-cutting-edge-part-1.png)
 
