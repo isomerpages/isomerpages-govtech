@@ -10,7 +10,7 @@ image: "/images/GovTech-Smart-Nation-zerodayteam.png"
 Find out what zero-day vulnerabilities are and how white-hat hackers at GovTech’s Cyber Security Group are hunting them down to keep government systems safe.
 ---
 
-Staying home is essential for keeping us safe during this global COVID-19 pandemic. Yet, now more than ever, our increased dependence on the internet could expose us to a multitude of non-biological threats: computer bugs rather than actual viruses. 
+Staying home is essential for keeping us safe during this global COVID-19 pandemic. Yet, now more than ever, our increased dependence on the internet could expose us to a multitude of *non-biological threats: computer bugs* rather than actual viruses. 
 
 Take for example the recent report on security issues within a popular video conferencing app—security experts found that the software contained weak spots that exposed users’ microphones or cameras to potential attacks by malicious hackers. For those who haven’t bothered with makeup or a haircut, look out!
 
