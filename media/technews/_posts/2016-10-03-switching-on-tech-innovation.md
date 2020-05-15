@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "SWITCHing on Tech Innovation"
-permalink: "/media/technews/switching-on-tech-innovation"
+title: 'SWITCHing on Tech Innovation'
+permalink: /media/technews/switching-on-tech-innovation
 category: technews
-image: "/images/technews/switching-on-tech-innovation-part-1.png"
+image: /images/technews/switching-on-tech-innovation-part-1.png
+
 ---
+
 
 ![SWITCHing on Tech Innovation](/images/technews/switching-on-tech-innovation-part-1.png)
 
