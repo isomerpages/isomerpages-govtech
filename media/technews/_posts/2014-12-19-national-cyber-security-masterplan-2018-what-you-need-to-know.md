@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "National Cyber Security Masterplan 2018: What you need to know"
-permalink: "/media/technews/national-cyber-security-masterplan-2018-what-you-need-to-know"
+title: 'National Cyber Security Masterplan 2018: What you need to know'
+permalink: /media/technews/national-cyber-security-masterplan-2018-what-you-need-to-know
 category: technews
-image: "/images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png"
+image: /images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png
+
 ---
+
 
 ![National Cyber Security Masterplan 2018: What you need to know](/images/technews/national-cyber-security-masterplan-2018-what-you-need-to-know-part-1.png)
 
