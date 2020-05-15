@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart Nation Snippets: News highlights from December 2017"
-permalink: "/media/technews/smart-nation-snippets-news-highlights-from-december-2017"
+title: 'Smart Nation Snippets: News highlights from December 2017'
+permalink: /media/technews/smart-nation-snippets-news-highlights-from-december-2017
 category: technews
-image: "/images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png"
+image: /images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png
+
 ---
+
 
 ![smart nation snippets: news highlights from december 2017](/images/technews/smart-nation-snippets-news-highlights-from-december-2017-part-1.png)
 
