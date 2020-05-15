@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Networked Trade Platform
+title: 'Networked Trade Platform'
 permalink: /products-and-services/Networked-trade-platform/
-breadcrumb: Networked Trade Platform
-collection_name: products-and-services
+breadcrumb: 'Networked Trade Platform'
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test1.jpg
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
