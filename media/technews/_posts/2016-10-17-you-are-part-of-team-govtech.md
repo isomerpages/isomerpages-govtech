@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "You are part of Team GovTech"
-permalink: "/media/technews/you-are-part-of-team-govtech"
+title: 'You are part of Team GovTech'
+permalink: /media/technews/you-are-part-of-team-govtech
 category: technews
-image: "/images/technews/you-are-part-of-team-govtech-part-1.png"
+image: /images/technews/you-are-part-of-team-govtech-part-1.png
+
 ---
+
 
 ![You are part of Team GovTech](/images/technews/you-are-part-of-team-govtech-part-1.png)
 
