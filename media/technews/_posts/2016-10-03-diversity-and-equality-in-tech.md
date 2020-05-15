@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Diversity and Equality in Tech"
-permalink: "/media/technews/diversity-and-equality-in-tech"
+title: 'Diversity and Equality in Tech'
+permalink: /media/technews/diversity-and-equality-in-tech
 category: technews
-image: "/images/technews/diversity-and-equality-in-tech-part-1.png"
+image: /images/technews/diversity-and-equality-in-tech-part-1.png
+
 ---
+
 
 ![Diversity and Equality in Tech](/images/technews/diversity-and-equality-in-tech-part-1.png)
 
