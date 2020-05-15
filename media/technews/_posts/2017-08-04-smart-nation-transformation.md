@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart Nation Transformation!"
-permalink: "/media/technews/smart-nation-transformation"
+title: 'Smart Nation Transformation!'
+permalink: /media/technews/smart-nation-transformation
 category: technews
-image: "/images/technews/smart-nation-transformation-part-1.png"
+image: /images/technews/smart-nation-transformation-part-1.png
+
 ---
+
 
 ![smart nation transformation!](/images/technews/smart-nation-transformation-part-1.png)
 
