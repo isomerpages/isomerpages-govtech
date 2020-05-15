@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "IPOS GO App"
-permalink: "/scewc2019/ipos-go-app"
-breadcrumb: IPOS GO App
+title: 'IPOS GO App'
+permalink: /scewc2019/ipos-go-app
+breadcrumb: 'IPOS GO App'
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/OVKSgiMhSnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
