@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Annual Digital Government Perception Survey (Citizen) Conducted in 2005"
-permalink: "/digital-government-perception-survey-citizen-2005"
-breadcrumb: 2005 Annual Digital Government Perception Survey (Citizen)
+title: 'Annual Digital Government Perception Survey (Citizen) Conducted in 2005'
+permalink: /digital-government-perception-survey-citizen-2005
+breadcrumb: '2005 Annual Digital Government Perception Survey (Citizen)'
+
 ---
+
 
 ### **Background and Methodology**
 The e-Government Customer Perception Survey is an annual exercise that is conducted to assess the public's levels of receptivity toward e-Government initiatives. This is the third e-Government Survey commissioned by the Managing for Excellence Directorate, Ministry of Finance and managed by the Government Technology Agency of Singapore (GovTech).
