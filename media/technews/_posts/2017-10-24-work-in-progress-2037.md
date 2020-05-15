@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Work in progress: 2037"
-permalink: "/media/technews/work-in-progress-2037"
+title: 'Work in progress: 2037'
+permalink: /media/technews/work-in-progress-2037
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![work in progress 2037](/images/technews/work-in-progress-2037-part-1.jpg)
 
@@ -63,7 +64,3 @@ Technological disruption is a golden opportunity for companies to pursue visiona
 
 “The main lesson is this: the world is changing at an exponential rate, and data, computing power and knowledge are all growing exponentially. This creates a lot of growth opportunities,” he said.
 
----
-
-Photo credit:
-1. Main image (top photo) courtesy of Milken Institute.
