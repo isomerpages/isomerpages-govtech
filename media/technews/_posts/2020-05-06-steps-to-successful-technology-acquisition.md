@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Steps to Successful Technology Acquisition"
-permalink: "/media/technews/steps-to-successful-technology-acquisition"
+title: 'Steps to Successful Technology Acquisition'
+permalink: /media/technews/steps-to-successful-technology-acquisition
 category: technews
 image: /images/technews/steps-vincent.jpg
+
 ---
+
 
 ![e payment](/images/technews/steps-vincent.jpg)
 
