@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Students and Graduates
+title: 'Students and Graduates'
 permalink: /careers/students-and-graduates/
-breadcrumb: Students and Graduates
-collection_name: careers
+breadcrumb: 'Students and Graduates'
+
 ---
+
 
 ![GovTech is a top ten IT firm in 2019](/images/careers/GovTech-Top-Ten-IT-Firms-Singapore-Smart-Nation.jpg)
 
