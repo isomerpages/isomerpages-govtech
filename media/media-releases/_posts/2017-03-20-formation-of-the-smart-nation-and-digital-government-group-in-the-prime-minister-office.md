@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Formation of the Smart Nation and Digital Government Group in the Prime Minister's office"
+title: 'Formation of the Smart Nation and Digital Government Group in the Prime Minister''s office'
 permalink: /media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-minister-office
-date: 2017-03-20
+date: 2017-03-20T00:00:00.000Z
+
 ---
+
 Since the Smart Nation initiative was launched in late 2014, progress has been made in applying digital and smart solutions to provide better services for our citizens and businesses. Companies have also responded with innovative products. 
 
 To enable the Government to be more integrated and responsive in our strategy and processes for Smart Nation and Digital Government (SNDG), the following organisational changes will take effect from 1 May 2017:
@@ -29,31 +30,3 @@ The SNDGG will be overseen by a Ministerial Committee chaired by Deputy Prime Mi
 
 Mr Ng Chee Khern, currently Permanent Secretary (PS) (Defence Development) of the Ministry of Defence (MINDEF), will concurrently lead the SNDG Group as the PS (Smart Nation and Digital Government). Mr Ng will also retain his appointment as the Chairman of the GovTech Board.
 
----
-
-**JOINTLY ISSUED BY PRIME MINISTER'S OFFICE, SMART NATION PROGRAMME OFFICE AND GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Ministerial Quotes](/files/media/media-releases/2017/03/Ministerial-Quotes.pdf)
-* [Supplementary Information](/files/media/media-releases/2017/03/Supplementary_Information.pdf)
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-WONG Ruqin (Mr)
-<br>Manager, Smart Nation Programme Office 
-<br>PMO
-<br>DID: (65) 9229 4450
-<br>Email: Wong_Ruqin@snpo.gov.sg 
-<br>
-<br>TAN Boon Leng (Mr)
-<br>Manager, Communications & Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 0375 
-<br>Email: Tan_Boon_Leng@tech.gov.sg
