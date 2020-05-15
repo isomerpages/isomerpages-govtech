@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Student Learning Space
+title: 'Student Learning Space'
 permalink: /products-and-services/student-learning-space/
-breadcrumb: Student Learning Space
-collection_name: products-and-services
+breadcrumb: 'Student Learning Space'
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/F0FTP2FveSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
