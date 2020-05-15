@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Digital Economy
+title: 'Digital Economy'
 permalink: /scewc/digital-economy
-breadcrumb: Digital Economy
+breadcrumb: 'Digital Economy'
+
 ---
+
 
 #### **Digital Economy**
 
