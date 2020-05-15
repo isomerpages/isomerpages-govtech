@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Working with AI"
-permalink: "/media/technews/working-with-ai"
+title: 'Working with AI'
+permalink: /media/technews/working-with-ai
 category: technews
-image: "/images/technews/working-with-ai-part-1.png"
+image: /images/technews/working-with-ai-part-1.png
+
 ---
+
 
 ![Working with AI](/images/technews/working-with-ai-part-1.png)
 
@@ -73,7 +74,3 @@ In fact, AI will itself play a big role in helping students learn, added Mr Koh.
 
 “I think that's a good thing because it teaches kids how to work with machines, appreciate them, learn their flaws and prepare for a future where these machines will be around.” 
 
----
-
-Photo credit:
-1. Image of Garry Kasparov: Creative Commons Chess grandmaster Garry Kasparov in 2003 by Owen Williams, The Kasparov Agency licensed under CC BY-SA 3.0.
