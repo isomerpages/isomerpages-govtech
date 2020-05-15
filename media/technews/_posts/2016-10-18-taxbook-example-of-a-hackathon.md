@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Taxbook Example of a Hackathon"
-permalink: "/media/technews/taxbook-example-of-a-hackathon"
+title: 'Taxbook Example of a Hackathon'
+permalink: /media/technews/taxbook-example-of-a-hackathon
 category: technews
-image: "/images/technews/taxbook-example-of-a-hackathon-part-1.png"
+image: /images/technews/taxbook-example-of-a-hackathon-part-1.png
+
 ---
+
 
 ![Taxbook Example of a Hackathon](/images/technews/taxbook-example-of-a-hackathon-part-1.png)
 
@@ -73,9 +74,3 @@ Ms Ang said: “The Hackathon also showcased the power of co-creation with the c
 
 Find out more about the winning projects at IRAS Hackathon 2016 or enjoy the [highlights video of the event](https://vimeo.com/185411794/0c7eb7c868).  
 
----
-
-Image credit
-
-1. Photos of IRAS Hackathon courtesy of IRAS.
-2. Caption for top photo: Wondertax members (from left) Ms Chen Junqi, Mr Ng Thiam Hock, Ms Winnie Low and Mr Tan Liang Jun, with Commissioner of Inland Revenue & Chief Executive Officer, IRAS, Mr Tan Tee How.
