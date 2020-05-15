@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Leading with the Team"
+title: 'Leading with the Team'
 permalink: /media/technews/the-4-principles-of-modern-agility
 category: technews
+
 ---
+
 
 ![Leading with the Team](/images/technews/leading-with-the-team-part-1.png)
 
