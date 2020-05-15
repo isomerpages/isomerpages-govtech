@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Winning with Robots"
-permalink: "/media/technews/winning-with-robots"
+title: 'Winning with Robots'
+permalink: /media/technews/winning-with-robots
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![winning with robots](/images/technews/winning-with-robots-part-1.jpg)
 
@@ -84,11 +85,4 @@ Our achievements would not have been possible without our friends back home who 
 During the competition, some of them even watched match replays on the internet and sent us information about other teams’ robots so that we could improve our strategy on the ground.
 
 We are grateful for all their efforts and support!
-
----
-
-Photo credit:
-1. Images and screenshots of FIRST Global Challenge Robotics Competition courtesy of [FIRST Global Facebook page](https://www.facebook.com/F1RSTglobal/){:target="_blank"} and [FIRST Global Media YouTube](https://www.youtube.com/channel/UCTSVzV2M_ZH-dY1yAz5fiZw){:target="_blank"} pages respectively.
-
-
 
