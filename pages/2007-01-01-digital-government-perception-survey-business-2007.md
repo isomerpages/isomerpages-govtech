@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Annual Digital Government Perception Survey (Business) Conducted in 2007"
-permalink: "/digital-government-perception-survey-business-2007"
-breadcrumb: 2007 Annual Digital Government Perception Survey (Business)
+title: 'Annual Digital Government Perception Survey (Business) Conducted in 2007'
+permalink: /digital-government-perception-survey-business-2007
+breadcrumb: '2007 Annual Digital Government Perception Survey (Business)'
+
 ---
+
 
 ### **Background**
 
