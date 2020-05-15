@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "More convenience with Parking.sg app when it is available for download on 1 October 2017"
+title: 'More convenience with Parking.sg app when it is available for download on 1 October 2017'
 permalink: /media/media-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017
-date: 2017-09-29
+date: 2017-09-29T00:00:00.000Z
+
 ---
+
 > Parking coupons will still be accepted
 
 From 1 October 2017, motorists will be able to download the Parking.sg app on Apple App Store and Google Play Store. The mobile app is a quick and convenient way to pay for parking at all the 1,100 public car parks that currently use paper coupons . For a start, the mobile app can only be used for cars. It will be extended to motorcycles and heavy vehicles by the end of the year.  
@@ -27,40 +28,3 @@ From 1 October 2017, motorists will be able to download the Parking.sg app on Ap
 
 * For more information on Parking.sg app and the steps on how to use it, please visit <https://parking.sg>.
 
----
-
-**JOINTLY ISSUED BY URBAN REDEVELOPMENT AUTHORITY, HOUSING & DEVELOPMENT BOARD AND GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE.**
-
----
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit <tech.gov.sg> or follow us on <facebook.com/GovTechSG> and [Twitter @GovTechSG](https://twitter.com/GovTechSG).
-
-### **For media clarification**
-Jolene HOON (Ms)
-<br>Executive Manager, Media Relations 
-<br>Urban Redevelopment Authority
-<br>DID: (65) 6329 3251
-<br>Email: <Jolene_Hoon@ura.gov.sg>
-<br>
-<br>Jeanne TAN (Ms)
-<br>Senior Manager, Media Relations
-<br>Housing and Development Board
-<br>DID: (65) 6490 1250
-<br>Email: <Jeanne_PG_Tan@hdb.gov.sg>
-<br>
-<br>Joycelyn CHAN (Ms)
-<br>Assistant Director, Communications & Marketing Group
-<br>Government Technology Agency
-<br>DID: (65) 6211 1151
-<br>Email: <Joycelyn_Chan@tech.gov.sg>
-<br>
-<br>Elizabeth LEE (Ms)
-<br>Assistant Manager, Communications and Marketing Group
-<br>Government Technology Agency
-<br>DID: (65) 6211 1267
-<br>Email: <Elizabeth_Lee@tech.gov.sg>
