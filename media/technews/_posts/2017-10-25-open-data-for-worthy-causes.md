@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Open data for worthy causes"
-permalink: "/media/technews/open-data-for-worthy-causes"
+title: 'Open data for worthy causes'
+permalink: /media/technews/open-data-for-worthy-causes
 category: technews
-image: "/images/technews/open-data-for-worthy-causes-part-1.png"
+image: /images/technews/open-data-for-worthy-causes-part-1.png
+
 ---
+
 
 ![Open data for worthy causes](/images/technews/open-data-for-worthy-causes-part-1.png)
 
