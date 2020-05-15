@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Singapore's station in Space"
-permalink: "/media/technews/singapore-station-in-space"
+title: 'Singapore''s station in Space'
+permalink: /media/technews/singapore-station-in-space
 category: technews
-image: "/images/technews/singapore-station-in-space-part-1.png"
+image: /images/technews/singapore-station-in-space-part-1.png
+
 ---
+
 
 ![singapore's station in space](/images/technews/singapore-station-in-space-part-1.png)
 
