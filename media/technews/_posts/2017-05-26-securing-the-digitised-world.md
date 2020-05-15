@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Securing the digitised world"
-permalink: "/media/technews/securing-the-digitised-world"
+title: 'Securing the digitised world'
+permalink: /media/technews/securing-the-digitised-world
 category: technews
-image: "/images/technews/securing-the-digitised-world.png"
+image: /images/technews/securing-the-digitised-world.png
+
 ---
+
 
 ![securing the digitised world](/images/technews/securing-the-digitised-world.png)
 
