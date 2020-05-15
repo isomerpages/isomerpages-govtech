@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "5 things to know about AR/VR"
-permalink: "/media/technews/5-things-to-know-about-arvr"
+title: '5 things to know about AR/VR'
+permalink: /media/technews/5-things-to-know-about-arvr
 category: technews
-image: "/images/technews/5-things-to-know-about-arvr-part-1.png"
+image: /images/technews/5-things-to-know-about-arvr-part-1.png
+
 ---
+
 
 ![5 things to know about ar/vr](/images/technews/5-things-to-know-about-arvr-part-1.png)
 
