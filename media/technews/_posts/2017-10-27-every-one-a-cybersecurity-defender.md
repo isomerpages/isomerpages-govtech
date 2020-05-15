@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Every one a cybersecurity defender"
-permalink: "/media/technews/every-one-a-cybersecurity-defender"
+title: 'Every one a cybersecurity defender'
+permalink: /media/technews/every-one-a-cybersecurity-defender
 category: technews
-image: "/images/technews/every-one-a-cybersecurity-defender-part-1.png"
+image: /images/technews/every-one-a-cybersecurity-defender-part-1.png
+
 ---
+
 
 ![Every one a cybersecurity defender](/images/technews/every-one-a-cybersecurity-defender-part-1.png)
 
