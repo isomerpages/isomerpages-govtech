@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Working Drones"
-permalink: "/media/technews/working-drones"
+title: 'Working Drones'
+permalink: /media/technews/working-drones
 category: technews
-image: "/images/technews/working-drones-part-1.png"
+image: /images/technews/working-drones-part-1.png
+
 ---
+
 
 ![working drones](/images/technews/working-drones-part-1.png)
 
