@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Taking Deep Tech to the World"
-permalink: "/media/technews/taking-deep-tech-to-the-world"
+title: 'Taking Deep Tech to the World'
+permalink: /media/technews/taking-deep-tech-to-the-world
 category: technews
-image: "/images/technews/taking-deep-tech-to-the-world-part-1.png"
+image: /images/technews/taking-deep-tech-to-the-world-part-1.png
+
 ---
+
 
 ![taking deep tech to the world](/images/technews/taking-deep-tech-to-the-world-part-1.png)
 
@@ -60,6 +61,3 @@ Likening SGInnovate itself to a startup, DPM Tharman urged the budding innovator
 
 “I hope the entrepreneurs who pass through these halls, and indeed SGInnovate itself, will learnt to fail fast, learn fast and pivot fast, and in so doing, achieve your ultimate goal—to solve the world’s most difficult problems and improve the lives of people around the world,” he said.
 
----
-
-Main photo: (From left) Dr Beh Swan Gin, Chairman, Economic Development Board, Ms Yong Ying-I, Permanent Secretary (National Research and Development) and Permanent Secretary (Public Service Division),  Deputy Prime Minister & Coordinating Minister for Economic and Social Policies, Mr Tharman Shanmugaratnam, Mr Steve Leonard, Founding CEO, SGInnovate, Mr Gabriel Lim,  2nd Permanent Secretary ( Ministry of Communications and Information), Chief Executive (Info-comm Media Development Authority of Singapore).
