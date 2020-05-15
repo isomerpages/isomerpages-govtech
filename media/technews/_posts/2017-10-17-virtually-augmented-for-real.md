@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Virtually augmented for real"
-permalink: "/media/technews/virtually-augmented-for-real"
+title: 'Virtually augmented for real'
+permalink: /media/technews/virtually-augmented-for-real
 category: technews
-image: "/images/technews/virtually-augmented-for-real-part-1.png"
+image: /images/technews/virtually-augmented-for-real-part-1.png
+
 ---
+
 
 ![Virtually augmented for real](/images/technews/virtually-augmented-for-real-part-1.png)
 
