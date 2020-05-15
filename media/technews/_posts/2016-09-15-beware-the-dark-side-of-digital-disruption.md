@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Beware the Dark Side of Digital Disruption"
-permalink: "/media/technews/beware-the-dark-side-of-digital-disruption"
+title: 'Beware the Dark Side of Digital Disruption'
+permalink: /media/technews/beware-the-dark-side-of-digital-disruption
 category: technews
-image: "/images/technews/beware-the-dark-side-of-digital-disruption-part-1.png"
+image: /images/technews/beware-the-dark-side-of-digital-disruption-part-1.png
+
 ---
+
 
 ![Beware the Dark Side of Digital Disruption](/images/technews/beware-the-dark-side-of-digital-disruption-part-1.png)
 
