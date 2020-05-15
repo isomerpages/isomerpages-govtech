@@ -1,12 +1,12 @@
 ---
-layout: simple-page
 title: MyInfo
 permalink: /products-and-services/my-info/
 breadcrumb: MyInfo
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/MyInfo_Thumbnail.jpg
+
 ---
+
 
 [MyInfo](https://www.singpass.gov.sg/myinfo/intro){:target="_blank"} is a one-stop data platform that saves time by automatically filling out government e-forms. After creating a profile, clicking the ‘Retrieve MyInfo’ button located on the forms of participating digital services will populate the forms with data from the profile, making government transactions easier than ever. 
 
