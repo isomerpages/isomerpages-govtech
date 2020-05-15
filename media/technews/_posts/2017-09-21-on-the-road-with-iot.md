@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "On the road with IoT"
-permalink: "/media/technews/on-the-road-with-iot"
+title: 'On the road with IoT'
+permalink: /media/technews/on-the-road-with-iot
 category: technews
-image: "/images/technews/on-the-road-with-iot-part-1.png"
+image: /images/technews/on-the-road-with-iot-part-1.png
+
 ---
+
 
 ![on the road with IoT](/images/technews/on-the-road-with-iot-part-1.png)
 
@@ -74,8 +75,3 @@ With the right network infrastructure tools, delegates to the ITS World Congress
 
 Now that is one scenario worth driving well.
 
----
-
-This commentary was contributed by Mr Amit Bathla, Vice President, Marketing, APAC, Alcatel-Lucent Enterprise (ALE). 
-
-The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
