@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: How We Hire
+title: 'How We Hire'
 permalink: /careers/how-we-hire/
-breadcrumb: How We Hire
-collection_name: careers
+breadcrumb: 'How We Hire'
+
 ---
+
 
 ### **Hiring Right**
 
