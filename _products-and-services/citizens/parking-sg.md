@@ -1,12 +1,12 @@
 ---
-layout: simple-page
 title: Parking.sg
 permalink: /products-and-services/parking-sg/
 breadcrumb: Parking.sg
-collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 [Parking.sg](https://www.parking.sg) is a mobile application that allows users to pay for short-term parking charges through their mobile devices at all existing coupon-based public car parks. The app serves as an alternative mode of payment to paper parking coupons.
  
