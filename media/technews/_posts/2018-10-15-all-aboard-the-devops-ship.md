@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "All Aboard the DevOps SHIP"
-permalink: "/media/technews/all-aboard-the-devops-ship"
+title: 'All Aboard the DevOps SHIP'
+permalink: /media/technews/all-aboard-the-devops-ship
 category: technews
-image: "/images/technews/All-Aboard-the-DevOps-SHIP.png"
+image: /images/technews/All-Aboard-the-DevOps-SHIP.png
+
 ---
+
 
 ![All Aboard the DevOps SHIP](/images/technews/All-Aboard-the-DevOps-SHIP.png)
 
