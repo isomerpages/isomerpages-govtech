@@ -27,7 +27,7 @@ Conducting penetration testing on government systems helps to reduce the number 
 
 “By conducting these tests on our own systems, we seek to reduce potential incoming attack vectors,” she added. “Penetration testing is important as we always want to reduce the ‘unknown unknown’ sample space, which is the space that has no defence. It’s better to know if a product is insecure than to get caught flatfooted.”
 
-![Zero Day Vulnerabilities table](/images/technews/GovTech-Smart-Nation-zerodaygraph - Broad Categorisation of Zero-Days - Image.jpg)
+![GovTech-Smart-Nation-ZeroDayGraph](/images/technews/GovTech-Smart-Nation-Zerodaygraph.jpg)
 
 ### **We hunt persistently, so you can rest easy**
 
