@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "More Citizens and Businesses Satisfied with Government Digital Services"
+title: 'More Citizens and Businesses Satisfied with Government Digital Services'
 permalink: /media/media-releases/more-citizens-and-businesses-satisfied-with-government-digital-services
-date: 2019-05-28
+date: 2019-05-28T00:00:00.000Z
+
 ---
+
 
 **More Citizens and Businesses Satisfied with Government Digital Services**<br>
 *Over 80 per cent of contracts in FY2019 available for SMEs to partner Government in building a Smart Nation*
@@ -45,44 +46,3 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Citizens and businesses are
 
 The Government’s progress in implementing DGB and the focus for FY2019 were announced by GovTech at the annual Smart Nation and Digital Government Industry Briefing themed “Engineering Digital Government; Making Lives Better” this morning.  
 
----
-
-**ISSUED BY COMMUNICATIONS AND MARKETING GROUP**<br>
-**GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources**
-* [Factsheet - Annual Digital Government Perception Surveys](/files/media/media-releases/2019/May/Annex A Factsheet - Annual Digital Government Perception Surveys.pdf)
-* [Factsheet - Singapore Government Tech Stack](/files/media/media-releases/2019/May/Annex B Factsheet - SG Tech Stack.pdf)
-* [Factsheet - National Digital Identity](/files/media/media-releases/2019/May/Annex C Factsheet - National Digital Identity.pdf)
-* [Factsheet - Smart Nation Sensor Platform](/files/media/media-releases/2019/May/Annex D Factsheet - Smart Nation Sensor Platform.pdf)
-* [Factsheet - Moments of Life](/files/media/media-releases/2019/May/Annex E Factsheet - Moments of Life.pdf)
-* [Factsheet - Adaptive Digital Workplace Programme](/files/media/media-releases/2019/May/Annex F Factsheet - Adaptive Digital Workplace Programme.pdf)
-
-
-### **About Government Technology Agency**
-The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity.  
-
-GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
-
-For more information, please visit <https://www.tech.gov.sg>. Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
-
-
-### **About Smart Nation**
-Singapore’s Smart Nation initiative is about harnessing the full power of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city. For more information, please visit <https://www.smartnation.sg>.
-
-
-### **For media enquiries, please contact:**
-<br>TAN Boon Leng (Mr)
-<br>Communications & Marketing Group
-<br>Government Technology Agency
-<br>Tel: +65 6211 0375
-<br>Email: <tan_boon_leng@tech.gov.sg>
-<br>
-<br>
-<br>Elizabeth LEE (Ms)
-<br>Communications & Marketing Group 
-<br>Government Technology Agency
-<br>Tel: +65 6211 1267
-<br>Email: <elizabeth_lee@tech.gov.sg>
