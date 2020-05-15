@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "As Agile as GovTech"
-permalink: "/media/technews/as-agile-as-govtech"
+title: 'As Agile as GovTech'
+permalink: /media/technews/as-agile-as-govtech
 category: technews
-image: "/images/technews/as-agile-as-govtech-part-1.png"
+image: /images/technews/as-agile-as-govtech-part-1.png
+
 ---
+
 
 ![as agile as govtech](/images/technews/as-agile-as-govtech-part-1.png)
 
