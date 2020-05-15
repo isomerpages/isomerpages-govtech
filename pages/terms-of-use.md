@@ -1,10 +1,11 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
 recommender: false
+
 ---
+
 ### **General**
 
 1. Thank you for visiting this website (“Website”) which is owned and operated by the Government Technology Agency (“GovTech”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website. 
