@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Getting ahead in the Cloud"
-permalink: "/media/technews/getting-ahead-in-the-cloud"
+title: 'Getting ahead in the Cloud'
+permalink: /media/technews/getting-ahead-in-the-cloud
 category: technews
-image: "/images/technews/getting-ahead-in-the-cloud-part-1.png"
+image: /images/technews/getting-ahead-in-the-cloud-part-1.png
+
 ---
+
 
 ![getting ahead in the cloud](/images/technews/getting-ahead-in-the-cloud-part-1.png)
 
