@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The brain power of neuromorphic computing"
-permalink: "/media/technews/the-brain-power-of-neuromorphic-computing"
+title: 'The brain power of neuromorphic computing'
+permalink: /media/technews/the-brain-power-of-neuromorphic-computing
 category: technews
-image: "/images/technews/the-brain-power-of-neuromorphic-computing-part-1.png"
+image: /images/technews/the-brain-power-of-neuromorphic-computing-part-1.png
+
 ---
+
 
 ![the brain power of neuromorphic computing](/images/technews/the-brain-power-of-neuromorphic-computing-part-1.png)
 
