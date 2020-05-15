@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The power of the community"
-permalink: "/media/technews/the-power-of-the-community"
+title: 'The power of the community'
+permalink: /media/technews/the-power-of-the-community
 category: technews
-image: "/images/technews/the-power-of-the-community-part-1.png"
+image: /images/technews/the-power-of-the-community-part-1.png
+
 ---
+
 
 ![The power of the community](/images/technews/the-power-of-the-community-part-1.png)
 
