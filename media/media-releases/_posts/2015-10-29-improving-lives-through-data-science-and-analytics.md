@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Improving Lives Through Data Science and Analytics"
+title: 'Improving Lives Through Data Science and Analytics'
 permalink: /media/media-releases/improving-lives-through-data-science-and-analytics
-date: 2015-10-29
+date: 2015-10-29T00:00:00.000Z
+
 ---
+
 Faster transportation, a one-stop portal for personal health information or saving lives, these are just some of the new services being developed by the dynamic data science and analytics team at the IDA Hive. 
 
 Located at the newly-opened Sandcrawler, the IDA Hive is home to the Government Digital Services team made up of almost 100 data scientists, designers, engineers, coders and other experts giving government services and applications a tech makeover to better meet the needs of the public. 
@@ -22,28 +23,3 @@ To support the various citizen-centric initiatives, Mr Chan Cheow Hoe, Governmen
 
 In order to enhance engineering and development capabilities in government, IDA launched a new Technology Associates Programme that would provide talented software developers, designers, data scientists and others, opportunities to apply technology to real public policy challenges at IDA Hive. 
 
----
-
-**ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Fact Sheet: HIVE](/files/media/media-releases/2015/10/IDA Hive Factsheetpdf.pdf)
-* [Fact Sheet: MyResponder](/files/media/media-releases/2015/10/MyResponder Factsheetpdf.pdf)
-* [Fact Sheet: Beeline](/files/media/media-releases/2015/10/Beeline Factsheetpdf.pdf)
-* [Fact Sheet: Data.gov](/files/media/media-releases/2015/10/Data gov Factsheetpdf.pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg or follow us on Twitter @GovTechSG.
-
-### **For media clarification**
-Mehul SHAH (Mr)
-<br>Corporate & Marketing Communication
-<br>Tel: (65) 6211 1557
-<br>Email: mehul_shah@ida.gov.sg 
-<br>
-<br>Malini NATHAN (Ms)
-<br>Corporate & Marketing Communication
-<br>Tel: (65) 6211 0660
-<br>Email: malini_nathan@ida.gov.sg
