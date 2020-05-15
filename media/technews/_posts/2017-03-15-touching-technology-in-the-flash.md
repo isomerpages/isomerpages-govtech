@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Touching technology in the flash"
-permalink: "/media/technews/touching-technology-in-the-flash"
+title: 'Touching technology in the flash'
+permalink: /media/technews/touching-technology-in-the-flash
 category: technews
-image: "/images/technews/touching-technology-in-the-flash-part-1.png"
+image: /images/technews/touching-technology-in-the-flash-part-1.png
+
 ---
+
 
 ![Touching technology in the flash](/images/technews/touching-technology-in-the-flash-part-1.png)
 
