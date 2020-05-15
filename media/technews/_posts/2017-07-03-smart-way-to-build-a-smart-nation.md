@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart way to build a Smart Nation"
-permalink: "/media/technews/smart-way-to-build-a-smart-nation"
+title: 'Smart way to build a Smart Nation'
+permalink: /media/technews/smart-way-to-build-a-smart-nation
 category: technews
-image: "/images/technews/smart-way-to-build-a-smart-nation-part-1.png"
+image: /images/technews/smart-way-to-build-a-smart-nation-part-1.png
+
 ---
+
 
 ![smart way to build a smart nation](/images/technews/smart-way-to-build-a-smart-nation-part-1.png)
 
