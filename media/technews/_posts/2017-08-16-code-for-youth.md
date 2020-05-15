@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Code for Youth"
-permalink: "/media/technews/code-for-youth"
+title: 'Code for Youth'
+permalink: /media/technews/code-for-youth
 category: technews
-image: "/images/technews/code-for-youth-part-1.png"
+image: /images/technews/code-for-youth-part-1.png
+
 ---
+
 
 ![Code for Youth](/images/technews/code-for-youth-part-1.png)
 
@@ -74,36 +75,3 @@ The teachers could then customise their lessons to the student. That would reall
 
 Having done this project with Alexa, I think such a solution is possible in the near future!
 
----
-
-TechNews also had a fun chat with Mr Arvind Mathur.
-
-### **Q: Daddy Arvind, how do you encourage your children’s interest in technology?**
-The interest in technology runs in the family. I work in the tech space and my wife is a tech entrepreneur and startup mentor.
-
-Both Vayun and his younger brother are surrounded with technology, and this gives them a lot of stimulus to want to understand it and learn to control it.
-
-Up till last year, I was giving them hands-on help.
-
-However, they have now gotten so deep into computing and programming languages that I cannot help them directly anymore.
-
-When they ask a question, I encourage them to figure it out for themselves by reading books or blogs, watching YouTube videos or taking online courses. 
-
-### **Q: How have events like hackathons helped to spark their interest?** 
-The annual Code::XtremeApps Hackathons have been a major influence on both our kids.
-
-The Hackathon challenges them to create a new solution or app to a real world Smart Nation challenge within three hours.
-
-Although they have not won a prize yet, the rigorous competition brings out the best in them; they work hard to prepare and learn new skills. 
-
-### **Q: What other initiatives would you like to see?**
-This is a tough one. I think there is already a lot happening in Singapore thanks to its progressive leadership and the Smart Nation declaration. 
-
-One opportunity I see is for more public participation.
-
-One way to engage more people is to take the events to them, which is already happening via events like Lab on Wheels. It might also help if such events are advertised more actively in the local town councils.
-
----
-
-Photo credit:
-1. Main image (top photos) courtesy of the Mathur family.
