@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Annual Reports"
-date:   2018-10-01
-permalink: "/media/corporate-publications/annual-reports"
+title: 'Annual Reports'
+date: 2018-10-01T00:00:00.000Z
+permalink: /media/corporate-publications/annual-reports
+
 ---
+
 
 ### **GovTech Annual Reports**
 
