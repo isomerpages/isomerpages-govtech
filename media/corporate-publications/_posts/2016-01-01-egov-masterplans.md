@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "eGov Masterplans"
-date:   2016-01-01
-permalink: "/media/corporate-publications/egov-masterplans"
+title: 'eGov Masterplans'
+date: 2016-01-01T00:00:00.000Z
+permalink: /media/corporate-publications/egov-masterplans
+
 ---
+
 
 ![Image of eGov Masterplans from 1980-2015]({{"/images/media/corporate-publications/2016/01/egov-masterplan-image-a.jpg" | absolute_url}})
 
