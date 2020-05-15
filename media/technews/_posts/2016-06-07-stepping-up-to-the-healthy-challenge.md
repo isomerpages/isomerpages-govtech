@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Stepping Up to the Healthy Challenge"
-permalink: "/media/technews/stepping-up-to-the-healthy-challenge"
+title: 'Stepping Up to the Healthy Challenge'
+permalink: /media/technews/stepping-up-to-the-healthy-challenge
 category: technews
-image: "/images/technews/stepping-up-to-the-healthy-challenge-part-1.png"
+image: /images/technews/stepping-up-to-the-healthy-challenge-part-1.png
+
 ---
+
 
 ![stepping up to the healthy challenge](/images/technews/stepping-up-to-the-healthy-challenge-part-1.png)
 
