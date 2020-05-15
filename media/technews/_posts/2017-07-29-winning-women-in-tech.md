@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Winning Women in Tech"
-permalink: "/media/technews/winning-women-in-tech"
+title: 'Winning Women in Tech'
+permalink: /media/technews/winning-women-in-tech
 category: technews
-image: "/images/technews/winning-women-in-tech-part-1.png"
+image: /images/technews/winning-women-in-tech-part-1.png
+
 ---
+
 
 ![Winning Women in Tech](/images/technews/winning-women-in-tech-part-1.png)
 
@@ -70,7 +71,3 @@ Women entrepreneurs may also face an additional layer of social challenges, incl
 
 “There is no silver bullet solution. We need to work together across the ecosystem — both women and men — to ensure that we make the best use of available talent.” 
 
----
-
-Photo Credit:
-1. Main image (top photo) and prize-giving photo courtesy of Female Founders.
