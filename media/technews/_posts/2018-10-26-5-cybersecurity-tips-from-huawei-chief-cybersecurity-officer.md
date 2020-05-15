@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "5 cybersecurity tips from Huawei's chief cybersecurity officer"
-permalink: "/media/technews/5-cybersecurity-tips-from-huawei-chief-cybersecurity-officer"
+title: '5 cybersecurity tips from Huawei''s chief cybersecurity officer'
+permalink: /media/technews/5-cybersecurity-tips-from-huawei-chief-cybersecurity-officer
 category: technews
-image: "/images/technews/5-tips-to-maintain-cyber-hygiene-part1.png"
+image: /images/technews/5-tips-to-maintain-cyber-hygiene-part1.png
+
 ---
+
 
 ![5 tips to maintain cyber ‘hygiene’](/images/technews/5-tips-to-maintain-cyber-hygiene-part1.png)
 
