@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Driving autonomously in Singapore"
-permalink: "/media/technews/driving-autonomously-in-singapore"
+title: 'Driving autonomously in Singapore'
+permalink: /media/technews/driving-autonomously-in-singapore
 category: technews
-image: "/images/technews/driving-autonomously-in-singapore-part-1.png"
+image: /images/technews/driving-autonomously-in-singapore-part-1.png
+
 ---
+
 
 ![Driving autonomously in Singapore](/images/technews/driving-autonomously-in-singapore-part-1.png)
 
@@ -67,4 +68,3 @@ According to its inventors, SCOT was developed specifically to solve the ‘firs
 
 If SCOT were to hit the roads someday, it may become a viable alternative to walking and cycling, the current de facto solutions to the first- and last-mile problem.
 
----
