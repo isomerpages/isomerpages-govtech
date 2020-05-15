@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Engineering innovation with passion"
-permalink: "/media/technews/engineering-innovation-with-passion"
+title: 'Engineering innovation with passion'
+permalink: /media/technews/engineering-innovation-with-passion
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![engineering innovation with passion](/images/technews/engineering-innovation-with-passion-part-1.jpg)
 
@@ -79,7 +80,3 @@ In Singapore, companies keen to make innovation a part of their DNA — in the v
 
 Such initiatives, combined with a culture that is more tolerant of failure, will hopefully inspire more Singaporean tech entrepreneurs to venture off the beaten track — and help to engineer an innovative Smart Nation.
 
----
-
-Photo credit:
-1. Images of Red Rhino and Spider drone courtesy of HOPE Technik website.
