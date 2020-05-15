@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Delivering Justice for Innovation"
-permalink: "/media/technews/delivering-justice-for-innovation"
+title: 'Delivering Justice for Innovation'
+permalink: /media/technews/delivering-justice-for-innovation
 category: technews
-image: "/images/technews/delivering-justice-for-innovation-part-1.png"
+image: /images/technews/delivering-justice-for-innovation-part-1.png
+
 ---
+
 
 ![Delivering Justice for Innovation](/images/technews/delivering-justice-for-innovation-part-1.png)
 
