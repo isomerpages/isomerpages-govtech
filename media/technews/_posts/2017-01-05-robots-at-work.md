@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Robots at Work"
-permalink: "/media/technews/robots-at-work"
+title: 'Robots at Work'
+permalink: /media/technews/robots-at-work
 category: technews
-image: "/images/technews/robots-at-work-part-1.png"
+image: /images/technews/robots-at-work-part-1.png
+
 ---
+
 
 ![robots at work](/images/technews/robots-at-work-part-1.png)
 
