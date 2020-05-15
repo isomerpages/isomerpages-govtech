@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Be Our Tech Kaki!"
-permalink: "/media/technews/be-our-tech-kaki"
+title: 'Be Our Tech Kaki!'
+permalink: /media/technews/be-our-tech-kaki
 category: technews
-image: "/images/technews/be-our-tech-kaki-part-1.png"
+image: /images/technews/be-our-tech-kaki-part-1.png
+
 ---
+
 
 ![be our tech kaki!](/images/technews/be-our-tech-kaki-part-1.png)
 
