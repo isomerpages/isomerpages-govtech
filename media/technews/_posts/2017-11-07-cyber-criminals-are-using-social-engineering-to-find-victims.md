@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Cyber-criminals are using social engineering to find victims"
-permalink: "/media/technews/cyber-criminals-are-using-social-engineering-to-find-victims"
+title: 'Cyber-criminals are using social engineering to find victims'
+permalink: /media/technews/cyber-criminals-are-using-social-engineering-to-find-victims
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![cyber criminals are using social engineering to find victims](/images/technews/cyber-criminals-are-using-social-engineering-to-find-victims-part-1.jpg)
 
