@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "CXO Breakfast Talk with Mr. Ng Chee Khern"
-permalink: "/media/events/cxo-breakfast-talk-with-mr-ng-chee-khern"
+title: 'CXO Breakfast Talk with Mr. Ng Chee Khern'
+permalink: /media/events/cxo-breakfast-talk-with-mr-ng-chee-khern
 category: events
+
 ---
+
 
 Smart Nation is about leveraging technology to improve the lives of citizens and businesses, and create opportunities for a better future. It will involve significant transformation in our economy, government and also in our society. In support of Smart Nation, Singapore is making a big push for digital transformation in Government, to better harness technology for policy and governance, and to build digital services that meet the needs of citizens and businesses. 
 
