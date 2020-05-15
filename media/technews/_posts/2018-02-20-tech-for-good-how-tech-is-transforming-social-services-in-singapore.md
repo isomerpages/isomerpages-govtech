@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Tech for Good: How tech is transforming social services in Singapore"
-permalink: "/media/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore"
+title: 'Tech for Good: How tech is transforming social services in Singapore'
+permalink: /media/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![tech is transforming social services in singapore](/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-1.jpg)
 
