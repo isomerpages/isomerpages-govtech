@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Security in the realm of Cloud, AI and Voice"
-permalink: "/media/technews/security-in-the-realm-of-cloud-ai-and-voice"
+title: 'Security in the realm of Cloud, AI and Voice'
+permalink: /media/technews/security-in-the-realm-of-cloud-ai-and-voice
 category: technews
-image: "/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png"
+image: /images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png
+
 ---
+
 
 ![Security in the realm of Cloud, AI and Voice](/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png)
 
@@ -71,8 +72,4 @@ Technology is evolving rapidly and changing the way we function in the world.
 Cybersecurity is becoming critical to run it well as hackers are looking for new ways to exploit technology for monetary gains.
 
 So here's my advice to business owners: Cybersecurity is not just a part and parcel of the everyday cost of doing business; it is an essential tool to protect your personal data and intellectual property.
-
----
-
-This commentary was contributed by Mr Maurizio Garavello, Vice President of Sales, Asia-Pacific, Forcepoint. The views expressed are solely the contributor's own, and do not reflect any official position of GovTech.
 
