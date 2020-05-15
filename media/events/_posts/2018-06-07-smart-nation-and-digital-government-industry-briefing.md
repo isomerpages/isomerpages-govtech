@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Smart Nation and Digital Government Industry Briefing"
-permalink: "/media/events/smart-nation-and-digital-government-industry-briefing"
+title: 'Smart Nation and Digital Government Industry Briefing'
+permalink: /media/events/smart-nation-and-digital-government-industry-briefing
 category: events
+
 ---
+
 
 A Digital Government places citizens at the heart of the experience to ensure that everyone benefits from a Smart Nation. From delivering citizen-centric services, to increasing the Government’s technology capabilities, the annual Smart Nation and Digital Government Industry Briefing organised by GovTech will provide information on upcoming public sector ICT business opportunities and key ICT projects by government agencies.
  
