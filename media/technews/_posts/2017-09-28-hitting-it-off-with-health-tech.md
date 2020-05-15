@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "HIT-ting it off with health tech"
-permalink: "/media/technews/hitting-it-off-with-health-tech"
+title: 'HIT-ting it off with health tech'
+permalink: /media/technews/hitting-it-off-with-health-tech
 category: technews
-image: "/images/technews/hitting-it-off-with-health-tech-part-1.png"
+image: /images/technews/hitting-it-off-with-health-tech-part-1.png
+
 ---
+
 
 ![hit-ting it off with health tech](/images/technews/hitting-it-off-with-health-tech-part-1.png)
 
