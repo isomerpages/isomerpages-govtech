@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Of Robot Guides and Self-Driving Cars"
-permalink: "/media/technews/of-robot-guides-and-selfdriving-cars"
+title: 'Of Robot Guides and Self-Driving Cars'
+permalink: /media/technews/of-robot-guides-and-selfdriving-cars
 category: technews
-image: "/images/technews/of-robot-guides-and-selfdriving-cars-part-1.png"
+image: /images/technews/of-robot-guides-and-selfdriving-cars-part-1.png
+
 ---
+
 
 ![Of Robot Guides and Self-Driving Cars](/images/technews/of-robot-guides-and-selfdriving-cars-part-1.png)
 
