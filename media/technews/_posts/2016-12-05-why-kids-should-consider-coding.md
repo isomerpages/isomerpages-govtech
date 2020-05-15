@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Why kids should consider Coding"
-permalink: "/media/technews/why-kids-should-consider-coding"
+title: 'Why kids should consider Coding'
+permalink: /media/technews/why-kids-should-consider-coding
 category: technews
-image: "/images/technews/why-kids-should-consider-coding-part-1.jpg"
+image: /images/technews/why-kids-should-consider-coding-part-1.jpg
+
 ---
+
 
 ![Why kids should consider Coding](/images/technews/why-kids-should-consider-coding-part-1.jpg)
 
@@ -76,9 +77,3 @@ Indeed, the next Mark Zuckerberg could be out there somewhere, including among t
 
 “Increasingly, most aspects of work, life and fun are tied inseparably to programming. If it is their thing, then they will have a chance to literally invent the future.”
 
----
-
-Image credit
-
-1. All photos courtesy of Mr Hardi Ismail (MSO)
-And that, ladies and gentlemen, is why GovTech believes in inspiring children to explore coding.
