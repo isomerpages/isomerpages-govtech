@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Aspirational Analytics"
-permalink: "/media/technews/aspirational-analytics"
+title: 'Aspirational Analytics'
+permalink: /media/technews/aspirational-analytics
 category: technews
-image: "/images/technews/aspirational-analytics-part-1.png"
+image: /images/technews/aspirational-analytics-part-1.png
+
 ---
+
 
 ![Aspirational Analytics](/images/technews/aspirational-analytics-part-1.png)
 
