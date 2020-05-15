@@ -1,13 +1,12 @@
 ---
-layout: simple-page
-title: Government IT Security Incident Response (GITSIR) Team 
+title: 'Government IT Security Incident Response (GITSIR) Team'
 permalink: /products-and-services/gitsir/
-breadcrumb: Government IT Security Incident Response (GITSIR) Team 
-collection_name: products-and-services
+breadcrumb: 'Government IT Security Incident Response (GITSIR) Team'
 tag: government
 thumbnail_image: /images/programmes/products-and-services/GITSIR_Thumbnail.JPG
-      
+
 ---
+
 ![GITSIR_Header](/images/programmes/products-and-services/GITSIR_Header.jpg)
 
 Have you ever wondered about who handles cybersecurity incidents in the Government? Look no further than the Government IT Security Incident Response (GITSIR) team. Established in 1997, GITSIR enables the Government to provide a swift response to cybersecurity incidents. Here’s a quick look at what the team does:
