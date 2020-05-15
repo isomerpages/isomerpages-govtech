@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Government QR Payment
+title: 'Government QR Payment'
 permalink: /products-and-services/government-qr-payment/
-breadcrumb: Government QR Payment
-collection_name: products-and-services
+breadcrumb: 'Government QR Payment'
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 Government QR payment is a new mode of payment for government digital services and bills. Developed by GovTech, Government QR payment allows citizens to simply scan the QR code on their government bills, both physical and electronic. This eliminates the need to manually enter payment details such as bill reference number and the amount payable, each time a citizen transacts with the Government.
 
