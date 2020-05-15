@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Singapore Government Tech Stack"
-permalink: "/scewc2019/sgts"
-breadcrumb: Singapore Government Tech Stack
+title: 'Singapore Government Tech Stack'
+permalink: /scewc2019/sgts
+breadcrumb: 'Singapore Government Tech Stack'
+
 ---
+
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt-r2vCqSh8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
