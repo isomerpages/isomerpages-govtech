@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: Digital Workplace
+title: 'Digital Workplace'
 permalink: /products-and-services/digital-workplace/
-breadcrumb: Digital Workplace
-collection_name: products-and-services
+breadcrumb: 'Digital Workplace'
 tag: government
 thumbnail_image: /images/programmes/products-and-services/test.jpg
+
 ---
+
 
 The Digital Workplace comprises a suite of productivity tools and digital enablers, designed to create a borderless, seamless and collaborative working environment for public officers.
  
