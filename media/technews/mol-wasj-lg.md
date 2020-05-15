@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Moments of Life (Working Adults) 
-permalink: "/media/technews/mol-wasj-lg"
+title: 'Moments of Life (Working Adults)'
+permalink: /media/technews/mol-wasj-lg
 category: technews
-image:
+image: null
+
 ---
+
 
 ![MOL Office](/images/MOL - Office-03 (1).jpg)
 
