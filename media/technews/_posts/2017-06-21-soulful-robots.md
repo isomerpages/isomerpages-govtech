@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Soulful Robots"
-permalink: "/media/technews/soulful-robots"
+title: 'Soulful Robots'
+permalink: /media/technews/soulful-robots
 category: technews
-image: "/images/technews/soulful-robots-part-1.png"
+image: /images/technews/soulful-robots-part-1.png
+
 ---
+
 
 ![Soulful Robots](/images/technews/soulful-robots-part-1.png)
 
