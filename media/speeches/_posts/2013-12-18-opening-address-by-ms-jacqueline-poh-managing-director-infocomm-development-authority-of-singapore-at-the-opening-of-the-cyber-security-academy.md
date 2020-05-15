@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Opening Address by Ms Jacqueline Poh, Managing Director, Infocomm Development Authority of Singapore, at the Opening of the Cyber Security Academy"
-permalink: "/media/speeches/opening-address-by-ms-jacqueline-poh-managing-director-infocomm-development-authority-of-singapore-at-the-opening-of-the-cyber-security-academy"
+title: 'Opening Address by Ms Jacqueline Poh, Managing Director, Infocomm Development Authority of Singapore, at the Opening of the Cyber Security Academy'
+permalink: /media/speeches/opening-address-by-ms-jacqueline-poh-managing-director-infocomm-development-authority-of-singapore-at-the-opening-of-the-cyber-security-academy
 category: speeches
+
 ---
+
 
 Opening Address by Ms Jacqueline Poh, Managing Director, Infocomm Development Authority of Singapore, at the Opening of the Cyber Security Academy, 18 December 2013, 9.50amSingapore Polytechnic
 
