@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Space for innovation"
-permalink: "/media/technews/space-for-innovation"
+title: 'Space for innovation'
+permalink: /media/technews/space-for-innovation
 category: technews
-image: "/images/technews/space-for-innovation-part-1.png"
+image: /images/technews/space-for-innovation-part-1.png
+
 ---
+
 
 ![Space for innovation](/images/technews/space-for-innovation-part-1.png)
 
