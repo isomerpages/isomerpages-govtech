@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "GovTech Partners with Eight Institutes of Higher Learning to Develop Deep Technical Capabilities in Students to Help Build a Smart Nation"
+title: 'GovTech Partners with Eight Institutes of Higher Learning to Develop Deep Technical Capabilities in Students to Help Build a Smart Nation'
 permalink: /media/media-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities
-date: 2017-02-13
+date: 2017-02-13T00:00:00.000Z
+
 ---
+
 The Government Technology Agency of Singapore (GovTech) announced the signing of six individual Memorandums of Understanding (MOU), and two Memorandums of Intent (MOI) with eight Institutes of Higher Learning (IHLs) today. 
 
 These agreements between GovTech and each IHL will share a common goal – to develop the technology ecosystem by enhancing the capabilities and competencies of the students, IHLs, and commercial entities through opportunities offered by the public sector to work on smart technologies. 
@@ -27,33 +28,3 @@ GovTech will continue to tap on its current InnoLeap programme, which provides p
 
 Ms Jacqueline Poh, Chief Executive, GovTech, said, “We believe that an active partnership between public agencies, academia and commercial entities can help us create the best digital services for citizens and smart solutions for our city. This set of agreements will not only give us the opportunity to do that, but also allow us to help develop our next generation of tech talent, which is key to building Singapore into a Smart Nation. ”
 
----
-
-**ISSUED BY GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex A – Factsheet on MOU/MOIs with IHLs](/files/media/media-releases/2017/02/Annex A MOU Factsheet.pdf)
-* [Annex B – Factsheet on InnoLeap](/files/media/media-releases/2017/02/Annex B InnoLeap Factsheet.pdf)
-* [Annex C – Quotes from IHLs](/files/media/media-releases/2017/02/Annex C Quotes From IHLs.pdf)
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-Dexian WANG (Mr)
-<br>Assistant Manager, Communications & Marketing Group 
-<br>GovTech
-<br>DID: (65) 6211 1666
-<br>Email: WANG_Dexian@tech.gov.sg
-<br>
-<br>Kenneth TAN (Mr)
-<br>Manager, Communications & Marketing Group
-<br>GovTech
-<br>DID: (65) 6211 1600 
-<br>Email: Kenneth_TAN@tech.gov.sg
