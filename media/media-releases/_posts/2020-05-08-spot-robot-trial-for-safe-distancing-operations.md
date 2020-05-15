@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "NParks and SNDGG trial SPOT robot for safe distancing operations at Bishan-Ang Mo Kio Park"
+title: 'NParks and SNDGG trial SPOT robot for safe distancing operations at Bishan-Ang Mo Kio Park'
 permalink: /media/media-releases/spot-robot-trial-for-safe-distancing-operations
-date: 2020-05-08
+date: 2020-05-08T00:00:00.000Z
+
 ---
+
 
 **NParks and SNDGG trial SPOT robot for safe distancing operations at Bishan-Ang Mo Kio Park**<br>
 
@@ -25,51 +26,3 @@ Technology has been used to help NParks in safe distancing work. The Safe Distan
 
 8	NParks and MOH reiterate the advice for the public to stay home to minimise the risk of COVID-19 spread. If they wish to exercise (walk, jog and cycle), they should go to a park or park connector that is in their neighbourhood alone, and return to their home thereafter. They are required to wear masks when outside their homes except when doing strenuous exercise, such as brisk walking, jogging, cycling or walking in hilly terrain, for example in Bukit Timah Nature Reserve and Bukit Batok Nature Park.
 
----
-
-**ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE AND THE CYBER SECURITY AGENCY OF SINGAPORE**
-
----
-
-### **About Government Technology Agency**
-The Government Technology Agency of Singapore (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity. 
- 
-GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector. GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
-
-For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg).
-
-### **About Smart Nation and Digital Government Office**
-The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.
-
-For more information, please visit [www.smartnation.gov.sg](https://www.smartnation.gov.sg). 
-
-### **About NParks**
-The National Parks Board (NParks) is responsible for enhancing and managing the urban ecosystems of our City in Nature. We are the lead agency for greenery, biodiversity conservation, and wildlife and animal health, welfare and management. We are also working closely with the community to enhance the quality of our living environment.
-
-NParks manages more than 350 parks, 3,347 hectares of nature reserves, the Singapore Botanic Gardens, Jurong Lake Gardens, Pulau Ubin and the Sisters' Islands Marine Park. Adding to this is the extensive network of Nature Ways, and the over 300 km Park Connector Network that links major parks, nature areas and residential estates island-wide. Every year, we run over 3,500 educational and outreach programmes across our various green spaces.
-
-NParks has developed an urban biodiversity conservation model, which aims to conserve representative ecosystems in land-scarce Singapore. NParks also monitors and coordinates measures to enhance the presence of biodiversity in our urban landscape. 
-
-NParks is working closely with partners in the landscape, horticulture, veterinary and animal sectors to increase productivity, and provide training for all levels of the workforce. Enhancing competencies of the industry will support Singapore’s vision of being a City in Nature.
-
-For more information, visit [www.nparks.gov.sg](https://www.nparks.gov.sg) and [www.facebook.com/nparksbuzz (https://www.facebook.com/nparksbuzz).
-
-
-### **For media enquiries, please contact:**
-<br>TAN Boon Leng (Mr)
-<br>Senior Manager
-<br>Communications & Marketing Group
-<br>Government Technology Agency of Singapore
-<br>Email: <tan_boon_leng@tech.gov.sg>
-<br>
-<br>GOH Yu Chong (Mr)
-<br>Senior Manager
-<br>Adoption and Engagement Directorate
-<br>Smart Nation and Digital Government Office, Prime Minister’s Office
-<br>Email: <goh_yu_chong@pmo.gov.sg>
-<br>
-<br>Ry-Anne Lim (Ms)
-<br>Manager
-<br>Communications and Community Engagement
-<br>National Parks Board
-<br>Email: <ry-anne_lim@nparks.gov.sg>
