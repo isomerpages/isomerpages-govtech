@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Singapore's National Trade Platform wins International Award for best e-Business Digital Initiative"
+title: 'Singapore''s National Trade Platform wins International Award for best e-Business Digital Initiative'
 permalink: /media/media-releases/singapore-national-trade-platform-wins-international-award-for-best-e-business-digital-initiative
-date: 2017-06-14
+date: 2017-06-14T00:00:00.000Z
+
 ---
+
 The National Trade Platform (NTP) project led by Singapore Customs and the Government Technology Agency (GovTech) has emerged the winner in the e-business category of the World Summit on the Information Society (WSIS) Prizes 2017 <sup>[1]</sup>
 
 The WSIS Prizes recognise outstanding digital projects <sup>[2]</sup> worldwide which foster socio-economic development across categories such as e-government, e-environment, e-science and media. The winners of the 18 categories were announced on 13 Jun 2017 at the annual WSIS Forum held in Geneva, Switzerland.
@@ -24,35 +25,3 @@ Please refer to Annex A for a quote from the CEO & Founder, CommGate.
 
 <sup>[3]</sup> TradeNet® was launched in 1989. It is Singapore’s single trade permit clearing house, incorporating Whole-Of-Government (WOG) trade regulatory requirements. Through TradeNet®, importers, exporters and freight forwarders can make B2G transactions such as the declaration of permits. TradeXchange® was launched in 2007. It is a secure and neutral IT platform which enables exchanges of trade and logistics documents and data amongst private sector companies, as well as with the Government.
 
----
-
-**JOINTLY ISSUED BY GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE AND SINGAPORE CUSTOMS**
-
----
-
-### **Related Resources:**
-* [Annex A - Quote from CEO & Founder CommGate](/files/media/media-releases/2017/06/Annex A CEOFounderCommGate.pdf)
-
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **About Singapore Customs**
-Singapore Customs – a department under the Ministry of Finance – is the lead agency for trade facilitation and revenue enforcement. We facilitate Singapore’s external trade through active engagement with businesses, robust regulations and effective enforcement. Besides ensuring a fair, competitive and level playing field for traders, we also safeguard Government revenue. We take firm enforcement action against those who attempt to evade duties and taxes by making fraudulent declarations or bringing in contraband goods. Our vision is to be a leading Customs that advances Singapore’s economy by assuring the integrity of the trading system. For more information, please visit www.customs.gov.sg
-
-### **For media clarification**
-TAN Boon Leng (Mr)
-<br>Manager, Communications and Marketing Group
-<br>Government Technology Agency
-<br>DID: (65) 6211 0375
-<br>Email: TAN_Boon_Leng@tech.gov.sg
-<br>
-<br>TOH Shi Ting (Ms)
-<br>Senior Corporate Communications Officer
-<br>Singapore Customs
-<br>DID: (65) 6355 2165 
-<br>Email: TOH_shi_ting@customs.gov.sg
