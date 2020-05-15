@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart moves for Smart Mobility"
-permalink: "/media/technews/smart-moves-for-smart-mobility"
+title: 'Smart moves for Smart Mobility'
+permalink: /media/technews/smart-moves-for-smart-mobility
 category: technews
-image: "/images/technews/smart-moves-for-smart-mobility-part-1.png"
+image: /images/technews/smart-moves-for-smart-mobility-part-1.png
+
 ---
+
 
 ![smart moves for smart mobility](/images/technews/smart-moves-for-smart-mobility-part-1.png)
 
