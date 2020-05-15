@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Third Government Bug Bounty Programme offers bonus payouts for mobile applications"
+title: 'Third Government Bug Bounty Programme offers bonus payouts for mobile applications'
 permalink: /media/media-releases/third-govt-bug-bounty-programme-offers-bonus-payouts-for-mobile-applications
-date: 2019-11-11
+date: 2019-11-11T00:00:00.000Z
+
 ---
+
 
 **Third Government Bug Bounty Programme offers bonus payouts for mobile applications**<br>
 *Bug bounty hunters will receive US$500 special bonus for validated vulnerabilities in mobile apps*
@@ -22,29 +23,3 @@ To supplement the BBP, which is time bound and limited to a fixed set of systems
 
 These collaborations with the cybersecurity community-at-large have helped the Government discover vulnerabilities that would otherwise be undetected, and strengthen the security posture of our ICT systems and digital services.
 
----
-
-**ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE AND THE CYBER SECURITY AGENCY OF SINGAPORE**
-
----
-
-### **About Government Technology Agency**
-The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity.  
-
-GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector.  GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
-
-For more information, please visit <https://www.tech.gov.sg>. Follow GovTech on Facebook/Twitter/Instagram @GovTechSG.
-
-
-### **For media enquiries, please contact:**
-<br>Medha LIM (Ms)
-<br>Senior Manager
-<br>Communications & Marketing Group
-<br>Government Technology Agency of Singapore
-<br>Email: <medha_lim@tech.gov.sg>
-<br>
-<br>Jacklyn CHEW (Ms)
-<br>Manager
-<br>Communications & Marketing Group
-<br>Government Technology Agency of Singapore
-<br>Email: <jacklyn_chew@tech.gov.sg>
