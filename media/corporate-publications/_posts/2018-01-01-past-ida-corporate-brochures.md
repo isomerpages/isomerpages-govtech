@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Past IDA Corporate Brochures"
-date:   2018-01-01
-permalink: "/media/corporate-publications/past-ida-corporate-brochures"
+title: 'Past IDA Corporate Brochures'
+date: 2018-01-01T00:00:00.000Z
+permalink: /media/corporate-publications/past-ida-corporate-brochures
+
 ---
+
 
 ### **2012 - Corporate Brochure**
 
