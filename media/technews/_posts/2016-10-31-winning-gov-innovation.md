@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Winning Gov Innovation"
-permalink: "/media/technews/winning-gov-innovation"
+title: 'Winning Gov Innovation'
+permalink: /media/technews/winning-gov-innovation
 category: technews
-image: "/images/technews/winning-gov-innovation-part-1.png"
+image: /images/technews/winning-gov-innovation-part-1.png
+
 ---
+
 
 ![Winning Gov Innovation](/images/technews/winning-gov-innovation-part-1.png)
 
@@ -76,13 +77,3 @@ He added that the team gained as much as the companies involved in testing the B
 
 Mr Chan said: “In the process of overcoming the challenges, we also strengthened the bonds within the team.  We are very proud of the product we delivered, and we have benefited much from this learning experience. We hope the BGP will help companies to grow their capabilities to become more productive and competitive.”
 
----
-
-### **About the GovInsider Innovation Awards Judging**
-The Awards were judged by an international panel, comprising:
-
-* Mr Siim Sikkut, Digital Policy Advisor, Estonian Prime Minister’s Office;
-* Ms Karen Delafield, CIO, HM Treasury and Cabinet Office, United Kingdom;
-* Ms Tuty Kusumawati, Head of Jakarta Regional Development Planning Board;
-* Mr Stuart Smith, Chief of Service Innovation and Design, National University of Singapore, Institute of Systems Science;
-* Mr Joshua Chambers, Editor, GovInsider.
