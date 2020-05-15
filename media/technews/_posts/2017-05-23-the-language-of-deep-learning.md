@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Language of Deep Learning"
-permalink: "/media/technews/the-language-of-deep-learning"
+title: 'The Language of Deep Learning'
+permalink: /media/technews/the-language-of-deep-learning
 category: technews
-image: "/images/technews/the-language-of-deep-learning-part-1.png"
+image: /images/technews/the-language-of-deep-learning-part-1.png
+
 ---
+
 
 ![the language of deep learning](/images/technews/the-language-of-deep-learning-part-1.png)
 
