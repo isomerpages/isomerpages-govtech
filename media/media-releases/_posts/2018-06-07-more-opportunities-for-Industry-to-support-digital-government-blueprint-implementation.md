@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "More Opportunities for Industry to Support Digital Government Blueprint Implementation"
+title: 'More Opportunities for Industry to Support Digital Government Blueprint Implementation'
 permalink: /media/more-opportunities-for-Industry-to-support-digital-government-blueprint
-date: 2018-06-07
+date: 2018-06-07T00:00:00.000Z
+
 ---
+
 Riding on the momentum of the Digital Government Blueprint launched this week, the Government is partnering the industry to accelerate the delivery of end-to-end digital services to benefit citizens, businesses and public officers, as part of Singapore’s Smart Nation efforts.
 
 The Government is taking steps to implement the Digital Government Blueprint, and will be investing in a wide range of Information and Communications Technology (ICT) projects in FY18. The Government will partner the industry across technology domains such as communications infrastructure, data analytics, robotics and cyber security to harness the transformative power of technology to improve the lives of citizens, and competitiveness of businesses.
@@ -31,40 +32,3 @@ To help government agencies speed up the development of digital services, GovTec
  
 These announcements were made at GovTech’s annual Smart Nation & Digital Government Industry Briefing, which was attended by about 1,000 attendees from industry, academia and public agencies.
 
----
-
-**ISSUED BY COMMUNICATIONS AND MARKETING GROUP**
-
-**GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **About Smart Nation and Digital Government Office (SNDGO)**
-The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.
-
-### **About Government Technology Agency of Singapore (GovTech)**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Info-communications Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. 
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. 
-As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-Elizabeth LEE (Ms)
-<br>Assistant Manager
-<br>Communications and Marketing Group
-<br>Government Technology Agency
-<br>Tel: +65 6211 1267 
-<br>Email: Elizabeth_Lee@tech.gov.sg
-<br>
-<br> 
-<br>Roy TEO (Mr)
-<br>Senior Manager
-<br>Communications and Marketing Group
-<br>Government Technology Agency
-<br>Tel: +65 6211 0512
-<br>Email: Roy_Teo@tech.gov.sg
-<br>Infocomm Media Development Authority
-<br>Tel: +65 6202 4417
-<br>Email: Priscilla_Gan@imda.gov.sg
