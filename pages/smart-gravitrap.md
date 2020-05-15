@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Smart Gravitrap"
-permalink: "/scewc2019/smart-gravitrap"
+title: 'Smart Gravitrap'
+permalink: /scewc2019/smart-gravitrap
 breadcrumb: Smart-Gravitrap
+
 ---
+
 
 ![Smart Gravitrap](/images/gravitrap.png)
 
