@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "IoT Solutions: The next level"
-permalink: "/media/technews/iot-solutions-the-next-level"
+title: 'IoT Solutions: The next level'
+permalink: /media/technews/iot-solutions-the-next-level
 category: technews
-image: "/images/technews/iot-solutions-the-next-level-part-1.png"
+image: /images/technews/iot-solutions-the-next-level-part-1.png
+
 ---
+
 
 ![IoT solutions: the next level](/images/technews/iot-solutions-the-next-level-part-1.png)
 
