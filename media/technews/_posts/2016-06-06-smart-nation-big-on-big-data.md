@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart Nation Big on Big Data"
-permalink: "/media/technews/smart-nation-big-on-big-data"
+title: 'Smart Nation Big on Big Data'
+permalink: /media/technews/smart-nation-big-on-big-data
 category: technews
-image: "/images/technews/smart-nation-big-on-big-data-part-1.png"
+image: /images/technews/smart-nation-big-on-big-data-part-1.png
+
 ---
+
 
 ![Smart Nation Big on Big Data](/images/technews/smart-nation-big-on-big-data-part-1.png)
 
