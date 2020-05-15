@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Sweet Nectar of success"
-permalink: "/media/technews/sweet-nectar-of-success"
+title: 'Sweet Nectar of success'
+permalink: /media/technews/sweet-nectar-of-success
 category: technews
-image: "/images/technews/sweet-nectar-of-success-part-1.png"
+image: /images/technews/sweet-nectar-of-success-part-1.png
+
 ---
+
 
 ![Sweet Nectar of success](/images/technews/sweet-nectar-of-success-part-1.png)
 
