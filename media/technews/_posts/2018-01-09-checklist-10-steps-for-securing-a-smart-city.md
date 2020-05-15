@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Checklist: 10 steps for securing a smart city"
-permalink: "/media/technews/checklist-10-steps-for-securing-a-smart-city"
+title: 'Checklist: 10 steps for securing a smart city'
+permalink: /media/technews/checklist-10-steps-for-securing-a-smart-city
 category: technews
-image: "/images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png"
+image: /images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png
+
 ---
+
 
 ![checklist: 10 steps for securing a smart city](/images/technews/checklist-10-steps-for-securing-a-smart-city-part-1.png)
 
@@ -52,6 +53,3 @@ A fault-tolerant system allows the smart infrastructures to continue functioning
 ### **10. Ensure continuity of basic services**
 In the unfortunate scenario where all systems fail, cities need to have measures to maintain citizens’ basic access to utilities such as electricity and water, and to emergency response services.  
 
----
-
-This story was contributed by David Siah, Country Manager (Singapore & Indonesia), Trend Micro. The views and opinions expressed here are solely the contributor's own and do not necessarily reflect the official policy or position of GovTech.
