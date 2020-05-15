@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Pulse of the Smart Nation"
-permalink: "/media/technews/pulse-of-the-smart-nation"
+title: 'Pulse of the Smart Nation'
+permalink: /media/technews/pulse-of-the-smart-nation
 category: technews
-image: "/images/technews/pulse-of-the-smart-nation-part-1.png"
+image: /images/technews/pulse-of-the-smart-nation-part-1.png
+
 ---
+
 
 ![Pulse of the Smart Nation](/images/technews/pulse-of-the-smart-nation-part-1.png)
 
