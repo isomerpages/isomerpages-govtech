@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Data in the time of Cholera"
-permalink: "/media/technews/data-in-the-time-of-cholera"
+title: 'Data in the time of Cholera'
+permalink: /media/technews/data-in-the-time-of-cholera
 category: technews
-image: "/images/technews/data-in-the-time-of-cholera-part-1.png"
+image: /images/technews/data-in-the-time-of-cholera-part-1.png
+
 ---
+
 
 ![Data in the time of Cholera](/images/technews/data-in-the-time-of-cholera-part-1.png)
 
@@ -79,7 +80,3 @@ Indeed, with tools such as Vega, one would imagine an outbreak of data visualisa
 
 Just as the pioneering Dr John Snow once did with ink and paper.
 
----
-
-Photo credit:
-1. Image of Dr John Snow: Creative Commons John Snow by Rsabbattini licensed under CC By 4.0.
