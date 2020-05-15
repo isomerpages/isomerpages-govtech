@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Never Fail to Innovate"
-permalink: "/media/technews/never-fail-to-innovate"
+title: 'Never Fail to Innovate'
+permalink: /media/technews/never-fail-to-innovate
 category: technews
-image: "/images/technews/never-fail-to-innovate-part-1.png"
+image: /images/technews/never-fail-to-innovate-part-1.png
+
 ---
+
 
 ![never fail to innovate](/images/technews/never-fail-to-innovate-part-1.png)
 
