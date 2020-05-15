@@ -1,72 +1,21 @@
-#########################
-#        >:(            #
-# DON'T EDIT THIS FILE! #
-#        >:(            #
-#########################
-
-- title: Digital Gov Transformation
-  url: /digital-government-transformation/
-  sub-links:
-  - title: Overview
-    url: /digital-government-transformation/
-  - title: Digital Government Blueprint
-    url: /digital-government-blueprint/
-  - title: Products and Services
-    url: /products-and-services/
-  - title: Digital Standards and Guides
-    url: /digital-standards-and-guides/
-  - title: Get Involved
-    url: /get-involved/
-- title: Who We Are
-  url: /who-we-are/our-role/
-  sub-links:
-  - title: Our Role
-    url: /who-we-are/our-role/
-  - title: Our Journey
-    url: /who-we-are/our-journey/
-  - title: Our Culture and Values
-    url: /who-we-are/our-culture-and-values/
-  - title: Our Digital Government Rankings
-    url: /who-we-are/our-digital-government-rankings/
-  - title: Our Statistics
-    url: /who-we-are/our-statistics/
-  - title: Our Team
-    url: /who-we-are/our-team/
-- title: Careers
-  url: /careers/overview
-  sub-links:
-  - title: How We Hire
-    url: /careers/how-we-hire/
-  - title: How We Work
-    url: /careers/how-we-work/
-  - title: Students and Graduates
-    url: /careers/students-and-graduates/
-  - title: Smart Nation Fellowship Programme
-    url: /careers/smart-nation-fellowship-programme/
-  - title: The GovTech Alumni Network
-    url: /careers/the-govtech-network/
-  - title: Apply Now
-    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
-    external: true
-- title: Media
-  url: /media/
-  sub-links:
-  - title: All
-    url: /media/
-  - title: Corporate Publications
-    url: /media/corporate-publications/
-  - title: Events
-    url: /media/events/
-  - title: Media Releases
-    url: /media/media-releases/
-  - title: Speeches
-    url: /media/speeches/
-  - title: TechNews
-    url: /media/technews/
-  - title: Blogs
-    url: /media/blogs/listing 
-- title: Contact Us
-  url: /contact-us/
-  sub-links:
-  - title: Vulnerability Disclosure Programme
-    url: /report_vulnerability
+logo: /images/logo_govtech_hort.gif
+links:
+    -
+        title: 'Digital Gov Transformation'
+        url: /digital-government-transformation/
+        collection: digital-gov-transformation
+    -
+        title: 'Who We Are'
+        url: /who-we-are/our-role/
+        collection: who-we-are
+    -
+        title: Careers
+        url: /careers/overview
+        collection: careers
+    -
+        title: Media
+        resource_room: true
+    -
+        title: 'Contact Us'
+        url: /contact-us/
+        collection: contact-us
