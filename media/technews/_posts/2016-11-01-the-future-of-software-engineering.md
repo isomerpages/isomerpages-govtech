@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Future of Software Engineering"
-permalink: "/media/technews/the-future-of-software-engineering"
+title: 'The Future of Software Engineering'
+permalink: /media/technews/the-future-of-software-engineering
 category: technews
-image: "/images/technews/the-future-of-software-engineering-part-1.png"
+image: /images/technews/the-future-of-software-engineering-part-1.png
+
 ---
+
 
 ![The Future of Software Engineering](/images/technews/the-future-of-software-engineering-part-1.png)
 
