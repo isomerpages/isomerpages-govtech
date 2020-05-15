@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Smart Nation Starts With Disrupting Ourselves"
-permalink: "/media/technews/smart-nation-starts-with-disrupting-ourselves"
+title: 'Smart Nation Starts With Disrupting Ourselves'
+permalink: /media/technews/smart-nation-starts-with-disrupting-ourselves
 category: technews
-image: "/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png"
+image: /images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png
+
 ---
+
 
 ![smart nation starts With disrupting ourselves](/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png)
 
@@ -73,6 +74,3 @@ Smart Nation is also about inspiring people, communicating a narrative of hope, 
 
 “Move 100 years from now, and the sort of digital technology will be such that I’m sure that whatever it is... life will be so much better in so many different ways. I cannot even imagine how life would be like if [we] just stay as we are now.”
 
----
-
-This article first appeared in [Challenge](https://www.psd.gov.sg/challenge/people/cuppa/smart-nation-starts-with-disrupting-ourselves). Photo courtesy of Challenge. 
