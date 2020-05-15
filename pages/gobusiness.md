@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "GoBusiness Licensing Portal"
-permalink: "/scewc2019/gobusiness"
+title: 'GoBusiness Licensing Portal'
+permalink: /scewc2019/gobusiness
 breadcrumb: GoBusiness
+
 ---
+
 
 ![GoBusiness](/images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg)
 
