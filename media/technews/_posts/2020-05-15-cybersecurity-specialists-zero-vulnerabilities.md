@@ -27,6 +27,8 @@ Conducting penetration testing on government systems helps to reduce the number 
 
 “By conducting these tests on our own systems, we seek to reduce potential incoming attack vectors,” she added. “Penetration testing is important as we always want to reduce the ‘unknown unknown’ sample space, which is the space that has no defence. It’s better to know if a product is insecure than to get caught flatfooted.”
 
+![Zero Day Vulnerabilities table](/images/technews/GovTech-Smart-Nation-zerodaygraph - Broad Categorisation of Zero-Days - Image.jpg)
+
 ### **We hunt persistently, so you can rest easy**
 
 Hui Yi describes the bug hunting process as “one-part elbow grease, two-parts boundary testing and seven-parts pure serendipity.” On why she attributed her efforts to chance, Hui Yi explained that zero-day vulnerabilities are often so well hidden, that even the developers are unaware. Unearthing such stealthy bugs can feel like immense luck is required. “Of course, it also takes persistence and efforts in boundary testing.”
