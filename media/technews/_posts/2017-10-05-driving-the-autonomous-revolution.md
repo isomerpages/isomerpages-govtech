@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Driving the autonomous revolution"
-permalink: "/media/technews/driving-the-autonomous-revolution"
+title: 'Driving the autonomous revolution'
+permalink: /media/technews/driving-the-autonomous-revolution
 category: technews
-image: "/images/technews/driving-the-autonomous-revolution-part-1.png"
+image: /images/technews/driving-the-autonomous-revolution-part-1.png
+
 ---
+
 
 ![Driving the autonomous revolution](/images/technews/driving-the-autonomous-revolution-part-1.png)
 
@@ -75,7 +76,3 @@ Nonetheless, by Mr Leck’s assessment, AV technology is improving faster than e
 
 “In the next decade or so, we will probably deploy AVs for commuter service in some of our towns, and beyond 2030, we want them on the roads island-wide,” he concluded.
 
----
-
-Photo credit:
-1. Image of Uber prototype self-driving car: Creative Commons ['Uber autonomous vehicle prototype spotted in San Francisco'](https://en.wikipedia.org/wiki/History_of_autonomous_cars#/media/File:Self_driving_Uber_prototype_in_San_Francisco.jpg) by [Dllu](https://commons.wikimedia.org/wiki/User:Dllu) licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
