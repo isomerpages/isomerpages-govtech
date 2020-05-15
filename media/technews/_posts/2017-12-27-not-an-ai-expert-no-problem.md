@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Not an AI expert? No problem"
-permalink: "/media/technews/not-an-ai-expert-no-problem"
+title: 'Not an AI expert? No problem'
+permalink: /media/technews/not-an-ai-expert-no-problem
 category: technews
-image: "/images/technews/not-an-ai-expert-no-problem-part-1.png"
+image: /images/technews/not-an-ai-expert-no-problem-part-1.png
+
 ---
+
 
 ![not an AI expert? no problem](/images/technews/not-an-ai-expert-no-problem-part-1.png)
 
