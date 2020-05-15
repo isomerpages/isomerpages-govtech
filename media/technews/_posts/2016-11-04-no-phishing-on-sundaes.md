@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "No Phishing on Sundaes"
-permalink: "/media/technews/no-phishing-on-sundaes"
+title: 'No Phishing on Sundaes'
+permalink: /media/technews/no-phishing-on-sundaes
 category: technews
-image: "/images/technews/no-phishing-on-sundaes-part-1.png"
+image: /images/technews/no-phishing-on-sundaes-part-1.png
+
 ---
+
 
 ![No Phishing on Sundaes](/images/technews/no-phishing-on-sundaes-part-1.png)
 
