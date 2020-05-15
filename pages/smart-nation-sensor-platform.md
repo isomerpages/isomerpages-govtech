@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title:  "Smart Nation Sensor Platform"
-permalink: "/scewc2019/snsp"
-breadcrumb: Smart Nation Sensor Platform 
+title: 'Smart Nation Sensor Platform'
+permalink: /scewc2019/snsp
+breadcrumb: 'Smart Nation Sensor Platform'
+
 ---
+
 
 ![Smart Nation Sensor Platform](/images/SNSP Image.jpg)
 
