@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Government to Partner Industry to Spark Innovation and Build Capabilities in a Smart Nation"
+title: 'Government to Partner Industry to Spark Innovation and Build Capabilities in a Smart Nation'
 permalink: /media/media-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation
-date: 2017-05-24
+date: 2017-05-24T00:00:00.000Z
+
 ---
+
 Following the formation of the Smart Nation and Digital Government Group (SNDGG), the Government will accelerate Smart Nation deployment and digital transformation, and further partner and co-create with the industry to apply digital and smart technologies that improve the lives of citizens.
 
 SNDGG, comprising the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency (GovTech), is leading the development of Smart Nation infrastructure and applications, and driving digital transformation across the public sector. Together, SNDGG will be focusing on national projects that include the National Digital Identity, cashless payments with the Monetary Authority of Singapore (MAS) and the Smart Nation Sensor Platform (SNSP).
@@ -28,31 +29,3 @@ These announcements were made at GovTech’s annual Smart Nation and Digital Gov
 
 Several government agencies were also present at Smart Nation and Digital Government IB to share their ICT procurement roadmap and future ICT plans - Ministry of Education, Ministry of Health and the Maritime and Port Authority of Singapore.
 
----
-
-**ISSUED BY GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **About Government Technology Agency**
-The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group. GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains.
-
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **About Smart Nation and Digital Government Office (SNDGO)**
-The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO) plans and prioritizes key Smart Nation and digital government projects, raises the standards of Government ICT and services, builds long-term capabilities for the public sector, and promotes adoption and participation in digital and smart innovations. It takes a whole-of-nation effort, and we will actively engage the public, the industry and fellow agencies as we build a Smart Nation together.
-
-### **For media clarification**
-Fatin Diana SUMANAN (Ms)
-<br>Executive, Communications and Marketing Group
-<br>Government Technology Agency
-<br>Tel: (65) 6211 1684
-<br>Email: Fatin_Diana_Sumanan@tech.gov.sg
-<br>
-<br>Kenneth TAN (Mr) 
-<br>Manager, Communications and Marketing Group
-<br>Government Technology Agency
-<br>Tel: (65) 6211 1600 
-<br>mail: kenneth_tan@tech.gov.sg
