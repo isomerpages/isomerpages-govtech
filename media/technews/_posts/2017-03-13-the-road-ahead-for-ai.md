@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The road ahead for AI"
-permalink: "/media/technews/the-road-ahead-for-ai"
+title: 'The road ahead for AI'
+permalink: /media/technews/the-road-ahead-for-ai
 category: technews
-image: "/images/technews/the-road-ahead-for-ai-part-1.png"
+image: /images/technews/the-road-ahead-for-ai-part-1.png
+
 ---
+
 
 ![the road ahead for AI](/images/technews/the-road-ahead-for-ai-part-1.png)
 
