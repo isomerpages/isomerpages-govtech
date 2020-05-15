@@ -1,10 +1,11 @@
 ---
-layout: simple-page
 title: Privacy
 permalink: /privacy/
 breadcrumb: Privacy
 recommender: false
+
 ---
+
 
 ### **Government Agency Privacy Statement**
 
