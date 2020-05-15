@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Silver Tech and Golden Seniors"
-permalink: "/media/technews/silver-tech-and-golden-seniors"
+title: 'Silver Tech and Golden Seniors'
+permalink: /media/technews/silver-tech-and-golden-seniors
 category: technews
-image: "/images/technews/silver-tech-and-golden-seniors-part-1.png"
+image: /images/technews/silver-tech-and-golden-seniors-part-1.png
+
 ---
+
 
 ![Silver Tech and Golden Seniors](/images/technews/silver-tech-and-golden-seniors-part-1.png)
 
