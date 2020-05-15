@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Culture and Values
+title: 'Our Culture and Values'
 permalink: /who-we-are/our-culture-and-values/
-breadcrumb: Our Culture and Values
-collection_name: who-we-are
+breadcrumb: 'Our Culture and Values'
+
 ---
+
 
 ### **Our Culture and Values**
 
