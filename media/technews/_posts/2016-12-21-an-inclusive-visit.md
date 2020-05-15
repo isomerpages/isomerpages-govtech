@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "An Inclusive Visit"
-permalink: "/media/technews/an-inclusive-visit"
+title: 'An Inclusive Visit'
+permalink: /media/technews/an-inclusive-visit
 category: technews
-image: "/images/technews/an-inclusive-visit-part-1.png"
+image: /images/technews/an-inclusive-visit-part-1.png
+
 ---
+
 
 ![an inclusive visit](/images/technews/an-inclusive-visit-part-1.png)
 
@@ -51,8 +52,3 @@ There’s a story on the Enabling Village webpage featuring [five tips from Zui 
 
 You can also check out Minister Tan Chuan-Jin’s Facebook video of his visit on his [Facebook page](https://www.facebook.com/TanChuanJin1/videos/vb.182928775083239/1276220315754074/?type=3&theater)!
 
----
-
-Main Photo: (From left) Mr Chan Cheow Hoe, GovTech Deputy Chief Executive; Mr William Tay, GDS Intern; Mr Lim Zui Young, DevOps Engineer at GDS; Minister Tan Chuan-Jin; Mr Parimal Aswani, Director, Technology at GDS.
-
-Main Photo courtesy of Ministry of Social and Family Development (MSF).
