@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Overview
 permalink: /smart-city-expo-2019
 breadcrumb: Overview
+
 ---
+
 
 ![Smart City Expo 2019 GovTech Projects](/images/Smart-City-bannerv2.png)
 
