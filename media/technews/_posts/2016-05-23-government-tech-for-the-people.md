@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Government Tech for the People"
-permalink: "/media/technews/government-tech-for-the-people"
+title: 'Government Tech for the People'
+permalink: /media/technews/government-tech-for-the-people
 category: technews
-image: "/images/technews/government-tech-for-the-people-part-1.png"
+image: /images/technews/government-tech-for-the-people-part-1.png
+
 ---
+
 
 ![Government Tech for the People](/images/technews/government-tech-for-the-people-part-1.png)
 
@@ -96,6 +97,3 @@ Ultimately, the Smart Nation is about the experiences that people live out in th
 
 And GovTech’s mission is to embrace and explore technologies that can further our services to enrich these experiences.
 
----
-
-Jacqueline Poh is the Managing Director of IDA, and will be the Chief Executive Officer of the new Government Technology Agency (GovTech).
