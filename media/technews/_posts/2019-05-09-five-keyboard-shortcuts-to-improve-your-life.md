@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Five keyboard shortcuts to improve your life"
-permalink: "/media/technews/infographics/five-keyboard-shortcuts-to-improve-your life"
+title: 'Five keyboard shortcuts to improve your life'
+permalink: '/media/technews/infographics/five-keyboard-shortcuts-to-improve-your life'
 category: technews
-image: "/images/technews/Keyboard-Shortcuts-GovTech-Banner.png"
+image: /images/technews/Keyboard-Shortcuts-GovTech-Banner.png
+
 ---
+
 
 In today's digital age, most of us probably spend a lot of time on our computer. Hopefully, these keyboard shortcuts shared by GovTechies, will help you handle mundane or repetitive tasks like a pro.
 
