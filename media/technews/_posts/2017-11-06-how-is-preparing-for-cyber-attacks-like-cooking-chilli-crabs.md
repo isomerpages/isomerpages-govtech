@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "How is preparing for cyber-attacks like cooking chilli crabs?"
-permalink: "/media/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs"
+title: 'How is preparing for cyber-attacks like cooking chilli crabs?'
+permalink: /media/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs
 category: technews
-image: "/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png"
+image: /images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png
+
 ---
+
 
 ![How is preparing for cyber-attacks like cooking chilli crabs?](/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png)
 
