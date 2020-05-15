@@ -1,12 +1,12 @@
 ---
-layout: simple-page
-title: MyInfo for Private Sector
+title: 'MyInfo for Private Sector'
 permalink: /products-and-services/myinfo-for-private-sector/
-breadcrumb: MyInfo for Private Sector
-collection_name: products-and-services
+breadcrumb: 'MyInfo for Private Sector'
 tag: business
 thumbnail_image: /images/programmes/products-and-services/MyInfo_Thumbnail.jpg
+
 ---
+
 
 GovTech builds key digital platforms and infrastructure to support Singapore’s Smart Nation initiatives. As one of Singapore’s Smart Nation Strategic National Projects, the National Digital Identity (NDI) ecosystem aims to provide convenience and security for citizens and businesses when they transact online. The NDI is a common and universal trust framework for public and private sectors to build value-added digital services.
  
