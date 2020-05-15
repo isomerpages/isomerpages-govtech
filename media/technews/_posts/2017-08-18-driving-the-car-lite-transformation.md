@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Driving the car-lite transformation"
-permalink: "/media/technews/driving-the-car-lite-transformation"
+title: 'Driving the car-lite transformation'
+permalink: /media/technews/driving-the-car-lite-transformation
 category: technews
-image: "/images/technews/driving-the-car-lite-transformation-part-1.png"
+image: /images/technews/driving-the-car-lite-transformation-part-1.png
+
 ---
+
 
 ![driving the car-lite transformation](/images/technews/driving-the-car-lite-transformation-part-1.png)
 
