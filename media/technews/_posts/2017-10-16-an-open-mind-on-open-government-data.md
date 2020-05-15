@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "An open mind on open government data"
-permalink: "/media/technews/an-open-mind-on-open-government-data"
+title: 'An open mind on open government data'
+permalink: /media/technews/an-open-mind-on-open-government-data
 category: technews
-image: "/images/technews/an-open-mind-on-open-government-data-part-1.png"
+image: /images/technews/an-open-mind-on-open-government-data-part-1.png
+
 ---
+
 
 ![an open mind on open government data](/images/technews/an-open-mind-on-open-government-data-part-1.png)
 
@@ -75,6 +76,3 @@ But we are definitely making progress. GovTech recently organised the National D
 
 The competition saw some 82 teams from tertiary institutions create interesting data visualisations based on open government datasets, which is a hopeful sign that many of us are getting the hang of working with datasets.
 
----
-
-If you are interested in learning more about how Singapore and other countries manage OGD, do download the [‘Open Government Data: Assessing demand around the world’ report](https://eiuperspectives.economist.com/strategy-leadership/open-government-data-assessing-demand-around-world).
