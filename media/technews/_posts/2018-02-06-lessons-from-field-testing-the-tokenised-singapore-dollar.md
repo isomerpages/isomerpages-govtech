@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Lessons from field testing the tokenised Singapore Dollar"
-permalink: "/media/technews/lessons-from-field-testing-the-tokenised-singapore-dollar"
+title: 'Lessons from field testing the tokenised Singapore Dollar'
+permalink: /media/technews/lessons-from-field-testing-the-tokenised-singapore-dollar
 category: technews
-image: "/images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png"
+image: /images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png
+
 ---
+
 
 ![lessons from field testing the tokenised singapore dollar](/images/technews/lessons-from-field-testing-the-tokenised-singapore-dollar-part-1.png)
 
