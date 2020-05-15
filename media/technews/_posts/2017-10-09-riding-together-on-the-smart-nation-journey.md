@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Riding together on the Smart Nation journey"
-permalink: "/media/technews/riding-together-on-the-smart-nation-journey"
+title: 'Riding together on the Smart Nation journey'
+permalink: /media/technews/riding-together-on-the-smart-nation-journey
 category: technews
-image: "/images/technews/riding-together-on-the-smart-nation-journey-part-1.png"
+image: /images/technews/riding-together-on-the-smart-nation-journey-part-1.png
+
 ---
+
 
 ![Riding together on the Smart Nation journey](/images/technews/riding-together-on-the-smart-nation-journey-part-1.png)
 
