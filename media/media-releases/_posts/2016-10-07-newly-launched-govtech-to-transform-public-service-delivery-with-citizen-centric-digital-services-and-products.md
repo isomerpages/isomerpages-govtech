@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Newly-launched GovTech to Transform Public Service Delivery with Citizen-centric Digital Services and Products"
+title: 'Newly-launched GovTech to Transform Public Service Delivery with Citizen-centric Digital Services and Products'
 permalink: /media/media-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products
-date: 2016-10-07
+date: 2016-10-07T00:00:00.000Z
+
 ---
+
 Citizens and businesses can look forward to better and more citizen-centric services with the establishment of the new Government Technology Agency or GovTech. The new statutory board will spearhead the Government’s digital and data strategy. It will partner public agencies, industry and citizens to transform public service delivery through the use of technologies such as data science and analytics, artificial intelligence and machine learning.
 
 ### **Spearheading digital transformation**
@@ -36,39 +37,3 @@ Jacqueline Poh, Chief Executive, GovTech, said: “Technology is playing a disru
 ### **Public exhibition**
 As part of its launch, GovTech will be organising a public exhibition at the foyer of Star Vista over the weekend of 8-9 October, showcasing the array of citizen-centric digital services and products developed with public sector partners. The exhibition is free and opens from 10am to 8pm.
 
----
-
-**ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [GovTech Factsheet](/files/media/media-releases/2016/10/1 GovTech Factsheet.pdf)
-* [MyInfo Factsheet](/files/media/media-releases/2016/10/2 MyInfo Factsheet.pdf)
-* [CorpPass Factsheet](/files/media/media-releases/2016/10/3 CorpPass Factsheet.pdf)
-* [National Trade Platform Factsheet](/files/media/media-releases/2016/10/4 National Trade Platform Factsheet.pdf)
-* [Smart Nation Platform Factsheet](/files/media/media-releases/2016/10/5 Smart Nation Platform Factsheet.pdf)
-* [GovTech Capability Centres Factsheet](/files/media/media-releases/2016/10/6 GovTech Capability Centres Factsheet.pdf)
-* [Pulse of the Economy Factsheet](/files/media/media-releases/2016/10/7 Pulse of the Economy Factsheet.pdf)
-* [Smart Nation Fellowship Programme Factsheet](/files/media/media-releases/2016/10/8 Smart Nation Fellowship Programme Factsheet.pdf)
-* [Data.gov.sg Factsheet](/files/media/media-releases/2016/10/9 Datagovsg Factsheet.pdf)
-* [GovTech Exhibits Factsheet](/files/media/media-releases/2016/10/10 GovTech Exhibits Factsheet.pdf)
-
-### **About Government Technology Agency of Singapore**
-The Government Technology Agency of Singapore (GovTech) is a new statutory board formed in October 2016 after the restructuring of the Infocomm Development Authority.
-
-GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, GovTech also enhances the capabilities of the Singapore Government in these domains.
-For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
-### **For media clarification**
-Teresa TAN (Ms)
-<br>Manager, Communications and Marketing Group 
-<br>Government Technology Agency of Singapore
-<br>Tel: (65) 6211 1745 
-<br>Email: Teresa_Tan@tech.gov.sg
-<br>
-<br>TAN Boon Leng (Mr)
-<br>Manager, Communications and Marketing Group 
-<br>Government Technology Agency of Singapore
-<br>Tel: (65) 6211 0375 
-<br>Email: Tan_Boon_Leng@tech.gov.sg
