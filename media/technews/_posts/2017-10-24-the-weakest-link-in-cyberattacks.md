@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The weakest link in cyberattacks"
-permalink: "/media/technews/the-weakest-link-in-cyberattacks"
+title: 'The weakest link in cyberattacks'
+permalink: /media/technews/the-weakest-link-in-cyberattacks
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![the weakest link in cyberattacks](/images/technews/the-weakest-link-in-cyberattacks-part-1.jpg)
 
