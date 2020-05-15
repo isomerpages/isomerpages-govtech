@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "AI Singapore: How a small island plans to bridge AI research and reality"
-permalink: "/media/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality"
+title: 'AI Singapore: How a small island plans to bridge AI research and reality'
+permalink: /media/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality
 category: technews
-image: "/images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png"
+image: /images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png
+
 ---
+
 
 ![AI Singapore: How a small island plans to bridge AI research and reality](/images/technews/ai-singapore-how-a-small-island-plans-to-bridge-ai-research-and-reality-part-1.png)
 
