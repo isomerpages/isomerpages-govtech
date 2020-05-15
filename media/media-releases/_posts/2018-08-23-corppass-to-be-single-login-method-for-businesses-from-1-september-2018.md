@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "CorpPass to be single login method for businesses from 1 September 2018"
+title: 'CorpPass to be single login method for businesses from 1 September 2018'
 permalink: /media/media-releases/corppass-to-be-single-login-method
-date: 2018-08-23
+date: 2018-08-23T00:00:00.000Z
+
 ---
+
 > More than nine in 10 businesses are using CorpPass 
 
 From 1 September 2018, Singapore Corporate Access (CorpPass) will be the single login method for businesses to transact with more than 140 government digital services, replacing SingPass and EASY <sup>[1]</sup>
@@ -33,30 +34,4 @@ GovTech works with public agencies to develop and deliver secure digital service
 As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains. 
 
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
-
----
-
-<sup>[1]</sup> E-Services Authorisation System (EASY) is an online digital service authorisation system currently used by some agencies including the Inland Revenue Authority of Singapore, JTC Corporation and the Immigration Checkpoints Authority of Singapore.
-
----
-
-**ISSUED BY COMMUNICATIONS AND MARKETING GROUP**
-
-**GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
----
-
-### **For media clarification**
-Lynda LIM (Ms)
-<br>Manager, Communications & Marketing Group
-<br>Government Technology Agency
-<br>Tel: +65 6211 1702 | +65 9686 1479
-<br>Email: lynda_lim@tech.gov.sg
-<br>
-<br>Nicolette OH (Ms)
-<br>Senior Manager, Communications & Marketing Group
-<br>Government Technology Agency
-<br>Tel: +65 6211 1674 | +65 9179 2830
-<br>Email: nicolette_oh@tech.gov.sg  
- 
 
