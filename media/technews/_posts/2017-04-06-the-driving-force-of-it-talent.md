@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The driving force of IT Talent"
-permalink: "/media/technews/the-driving-force-of-it-talent"
+title: 'The driving force of IT Talent'
+permalink: /media/technews/the-driving-force-of-it-talent
 category: technews
-image: "/images/technews/the-driving-force-of-it-talent-part-1.png"
+image: /images/technews/the-driving-force-of-it-talent-part-1.png
+
 ---
+
 
 ![the driving force of IT talent](/images/technews/the-driving-force-of-it-talent-part-1.png)
 
@@ -69,7 +70,3 @@ Mr Saw said that CrimsonLogic, which provides digital government services, has b
 
 “I go to places where nobody wants to go.  That’s where the markets are and where the interest is. Sometimes you can’t wait, you have to create your own luck!”
 
----
-
-Image Credit 
-1. Top Photo courtesy of SCS. From left to right: Mr Howie Lau (President of SCS), Mr Yeo Quan Yang (IT Youth), Dr Lim Woo Lip (Professional of the Year), Deputy Prime Minister Tharman Shanmugaratnam, Mr Bill Chang (IT Leader of the Year), Mr Saw Ken Wye (Hall of Fame), Mr Alex Lau (Entrepreneur of the Year), and Minister for Communications and Information Dr Yaacob Ibrahim.
