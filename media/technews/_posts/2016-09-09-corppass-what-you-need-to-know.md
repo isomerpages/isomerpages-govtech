@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "CorpPass: What you need to know"
-permalink: "/media/technews/corppass-what-you-need-to-know"
+title: 'CorpPass: What you need to know'
+permalink: /media/technews/corppass-what-you-need-to-know
 category: technews
-image: "/images/technews/corppass-what-you-need-to-know-part-1.png"
+image: /images/technews/corppass-what-you-need-to-know-part-1.png
+
 ---
+
 
 ![corppass: what you need to know](/images/technews/corppass-what-you-need-to-know-part-1.png)
 
