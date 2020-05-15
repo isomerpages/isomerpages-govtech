@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Combine and Win! IDA’s Data Discovery Challenge Focuses on Discovery and Mashing of Private and Public Data for New Value"
+title: 'Combine and Win! IDA’s Data Discovery Challenge Focuses on Discovery and Mashing of Private and Public Data for New Value'
 permalink: /media/media-releases/combine-and-win-ida-data-discovery-challenge-focuses-on-discovery-and-mashing-of-private-and-public-data-for-new-value
-date: 2014-12-11
+date: 2014-12-11T00:00:00.000Z
+
 ---
+
 > Competition to raise businesses and consumers' understanding and use of data in a Smart Nation
 
 Singapore is building the world’s first Smart Nation where data and analytics will play a critical role. To support this vision, the Infocomm Development Authority of Singapore (IDA) today announced the start of a new Data Discovery Challenge. 
@@ -22,29 +23,3 @@ Other partners such as data providers like DFRC Pte Ltd, DP Information Network 
 
 Participants such as the data community, both data providers and data scientists are invited to participate in this challenge. 
 
----
-
-**ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE**
-
----
-
-### **Related Resources:**
-* [Annex A: Factsheet on Data Discovery Challenge](/files/media/media-releases/2014/12/Data Discovery Challenge  Annex Apdf.pdf)
-* [Annex B: Factsheet on Data-as-a-Service Pilot](/files/media/media-releases/2014/12/Data Discovery Challenge  Annex Bpdf.pdf)
-* [Annex C: Factsheet on data.gov.sg](/files/media/media-releases/2014/12/Data Discovery Challenge  Annex Cpdf.pdf)
-
-### **About Infocomm Development Authority of Singapore**
-The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg.
-
-### **For media clarification**
-Shanna NG (Ms)
-<br>Manager, Corporate and Marketing Communication
-<br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 3835
-<br>Email: shanna_ng@ida.gov.sg
-<br>
-<br>Eugene NEUBRONNER (Mr)
-<br>Assistant Manager, Corporate and Marketing Communication
-<br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 1182
-<br>Email: eugene_neubronner@ida.gov.sg
