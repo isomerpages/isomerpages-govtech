@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Digital Realm of Engineering Marvels"
-permalink: "/media/technews/digital-realm-of-engineering-marvels"
+title: 'Digital Realm of Engineering Marvels'
+permalink: /media/technews/digital-realm-of-engineering-marvels
 category: technews
-image: "/images/technews/digital-realm-of-engineering-marvels-part-1.png"
+image: /images/technews/digital-realm-of-engineering-marvels-part-1.png
+
 ---
+
 
 ![Digital Realm of Engineering Marvels](/images/technews/digital-realm-of-engineering-marvels-part-1.png)
 
@@ -70,11 +71,4 @@ Using extensive data collected by instrumentation deployed during the constructi
 These helped them assess the tunnelling-related risks for other stations along the Downtown Line, and thus plan construction strategies to mitigate these risks.
 
 So the next time you visit a new well-designed HDB estate, cool off in an energy-efficient office building, or zip along the Downtown Line, spare a thought for the smart technologies that enabled them — as well as the engineers who made all these engineering marvels possible. 
-
----
-
-Photo Credit:
-1. Image of DownTown Line tunnel: Creative Commons DownTown Line tunnel by SgTransport licensed under CC by 2.0.
-
-
 
