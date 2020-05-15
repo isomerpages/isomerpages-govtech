@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "The Heart that keeps myResponder Beating"
-permalink: "/media/technews/the-heart-that-keeps-myresponder-beating"
+title: 'The Heart that keeps myResponder Beating'
+permalink: /media/technews/the-heart-that-keeps-myresponder-beating
 category: technews
-image: "/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png"
+image: /images/technews/the-heart-that-keeps-myresponder-beating-part-1.png
+
 ---
+
 
 ![The Heart that keeps myResponder Beating](/images/technews/the-heart-that-keeps-myresponder-beating-part-1.png)
 
