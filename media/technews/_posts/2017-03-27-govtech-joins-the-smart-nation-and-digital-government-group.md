@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "GovTech joins the Smart Nation and Digital Government Group"
-permalink: "/media/technews/govtech-joins-the-smart-nation-and-digital-government-group"
+title: 'GovTech joins the Smart Nation and Digital Government Group'
+permalink: /media/technews/govtech-joins-the-smart-nation-and-digital-government-group
 category: technews
-image: 
+image: null
+
 ---
+
 
 ![govtech joins the smart nation and digital government group](/images/technews/govtech-joins-the-smart-nation-and-digital-government-group-part-1.jpg)
 
@@ -49,7 +50,3 @@ Finally, Prime Minister Lee Hsien Loong also spoke about the need to [boost Sing
 
 In short, it's going to be an even more exciting ride for GovTech from 1 May, and we’re ready to share our journey with you on our social media channels and of course, here on TechNews too.
 
----
-
-Photo Credit:
-1. Main image (top photo) courtesy of GovTechie Darren Loh.
