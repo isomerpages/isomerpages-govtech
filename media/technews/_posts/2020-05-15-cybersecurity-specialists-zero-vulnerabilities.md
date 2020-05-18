@@ -21,6 +21,7 @@ To avoid zero-day exploits that could lead to serious problems, cybersecurity ex
 “We hack ourselves first, before the bad guys do,” explained Mr Goh Jing Loon, an Associate Cybersecurity Specialist who discovered a zero-day vulnerability in an open-source software that could be exploited to control devices in a smart home.
 
 ### **Into the unknown**
+
 Ethical hacking is a wide field in which white-hat hackers conduct operations such as penetration testing, malware research and reverse engineering within the legal framework. “Prior to every engagement, the scope and rules of engagement are clearly defined and strictly adhered to during the project,” Jing Loon explained. “It is a common practice for companies to engage such services on their own systems too.”
 
 Conducting penetration testing on government systems helps to reduce the number of unknowns. These unknowns, when exploited, can have dire consequences. “Not every zero-day vulnerability is reported or immediately exploited; some of the more critical ones would be stored in cyber arsenals that could be sold to the highest bidder and used against a target,” explained Ms Loke Hui Yi, a Cybersecurity Specialist from CSG’s Exploit Development & Infrastructure team.
@@ -48,7 +49,8 @@ While hacking government systems for a living might sound like the coolest job i
 To protect users from falling prey to phishing attacks and having their personal information compromised, the cybersecurity specialists at GovTech study the latest methods employed by malicious actors and educate users on the tell-tale signs of different forms of social engineering attempts and best practices to safeguard their data.
 
 ### **Hacking for public good**
-The work of GovTech’s cybersecurity specialists also supports Singapore’s journey towards a Smart Nation. Testing critical systems powering Singapore ensures that our Smart Nation initiatives and services, such as SingPass, Moments of Life, GoBusiness and Smart Nation Sensor Platform to name a few, are built upon robust and secure systems and infrastructure. Users can access services with a peace of mind, knowing that their accounts are protected.
+
+The work of GovTech’s cybersecurity specialists also supports Singapore’s journey towards a Smart Nation. Testing critical systems powering Singapore ensures that our Smart Nation initiatives and services, such as [SingPass](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login), [Moments of Life](https://www.tech.gov.sg/products-and-services/moments-of-life/), [GoBusiness](https://www.gobusiness.gov.sg/licences) and Smart Nation Sensor Platform to name a few, are built upon robust and secure systems and infrastructure. Users can access services with a peace of mind, knowing that their accounts are protected.
 
 “We are in a very privileged position – being able to access systems that the general public will not have a chance to interface with. If these government systems contain bugs, they may prove to be very valuable to malicious actors,” Miguel shared, on the team’s motivation to uncover vulnerabilities despite the challenges. “While we work to discover these bugs, we need integrity to do what we do, for the good of Singaporeans.”
 
