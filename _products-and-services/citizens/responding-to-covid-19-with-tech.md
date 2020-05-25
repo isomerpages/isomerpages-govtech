@@ -113,14 +113,6 @@ The app is developed by the GovTech and MOH.
 </div>
 
 
-### **Travel and Health Declaration System**
- 
-Developed by GovTech, the Travel and Health Declaration System is a free-for-use Cloud-based visitor registration system. Visitors scan a QR code using their [SingPass Mobile](https://www.singpassmobile.sg/) app, give consent to share their name and contact information with the building managers, and make the necessary declaration required. This online service will be regularly updated to reflect the latest advisory and guidelines. Using this system allows businesses to verify user identity with data from Government sources to facilitate their tracing work should the need arise.
-
-Businesses and building owners can find out more at [www.go.gov.sg/travelandhealth](https://www.go.gov.sg/travelandhealth).
-
-![covid](/images/thd-covid.jpg)
-
 ### **VigilantGantry**
 
 Developed by GovTech, VigilantGantry is an AI-driven automated temperature screening gantry that augments existing thermal systems to enhance the rate of contactless screening, saving time and manpower.
