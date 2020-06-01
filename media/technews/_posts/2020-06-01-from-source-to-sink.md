@@ -37,7 +37,7 @@ To ensure the flexibility of their model even in such unexpected situations, the
 According to the team, their model is the first in the world to attempt the usage of satisficing in managing water resources. In aiming to satisfice instead of optimise, the impact of uncertainty on the model’s decision making capabilities is softened. 
 
 ![From source to sink: how data science helps Singapore manage its water resources](/images/technews/pub-technews-part2.jpg)
-*The team of data scientists at GovTech’s Data Science Artificial Intelligence Division (DSAID), from left to right: Dr Loke Gar Goei, Chin Chii Yeh and Tan Kai Wei*
+*The team of data scientists at GovTech’s Data Science Artificial Intelligence Division (DSAID), from left to right: Dr Loke Gar Goei, Chin Chii Yeh and Tan Kai Wei.*
 
 ### **Putting the model through the test**
 
@@ -50,4 +50,4 @@ Beyond reducing the time needed to make decisions, the team is quick to highligh
 For a more in-depth look at how the team created their model, check out this three-part Medium blog post written by GovTech’s Mr Tan Kai Wei. 
 
 ![From source to sink: how data science helps Singapore manage its water resources](/images/technews/pub-technews-part3.jpg)
-*The team of PUB Engineers, from left to right: Hariharan s/o Ramasamy (Engineer, Joint Operations Department), Daniel John Tan (Engineer, Joint Operations Department), and Ashley Ng (Senior Planner, Policy and Planning Department)*
+*The team of PUB Engineers, from left to right: Hariharan s/o Ramasamy (Engineer, Joint Operations Department), Daniel John Tan (Engineer, Joint Operations Department), and Ashley Ng (Senior Planner, Policy and Planning Department).*
