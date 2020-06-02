@@ -47,7 +47,7 @@ With this approach, the team was still able to automate a large part of the plan
 
 Beyond reducing the time needed to make decisions, the team is quick to highlight the wider relevance of their unique water management model. “One of the main reasons we wanted to do this is because in a public policy setting, we cannot afford large errors,” shared Dr Loke. “Water is a public good. Because of this, we have to be prudent in the way we go about making decisions.” 
 
-For a more in-depth look at how the team created their model, check out this three-part Medium blog post written by GovTech’s Mr Tan Kai Wei. 
+For a more in-depth look at how the team created their model, check out this [three-part Medium blog post](https://medium.com/dsaid-govtech/using-robust-optimization-and-mixed-integer-programming-to-manage-singapores-water-resources-a0b899afe601) written by GovTech’s Mr Tan Kai Wei. 
 
 ![From source to sink: how data science helps Singapore manage its water resources](/images/technews/pub-technews-part3.jpg)
 *The team of PUB Engineers, from left to right: Hariharan s/o Ramasamy (Engineer, Joint Operations Department), Daniel John Tan (Engineer, Joint Operations Department), and Ashley Ng (Senior Planner, Policy and Planning Department).*
