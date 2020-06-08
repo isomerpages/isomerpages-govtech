@@ -2,7 +2,7 @@
 layout: post
 title:  "30% increase in FY2020 ICT spend to accelerate digitalisation & support businesses"
 permalink: /media/media-releases/thirty-percent-increase-FY2020-ICT-spend-to-accelerate-digitalisation-and-support-businesses 
-date: 2020-05-08
+date: 2020-06-08
 ---
 
 **30% increase in FY2020 ICT spend to accelerate digitalisation & support businesses**<br>
