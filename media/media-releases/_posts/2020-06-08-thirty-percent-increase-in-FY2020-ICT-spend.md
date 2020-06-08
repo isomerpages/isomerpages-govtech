@@ -13,11 +13,11 @@ To boost the economy and support businesses recovering from COVID-19, the Govern
 **Five key focus areas for Govt’s projected FY2020 ICT spending**
 
 The projected Government ICT expenditure will be in five key focus areas: 
-•	development of new tech tools to respond to COVID-19;
-•	development of citizen- and business-centric digital services; 
-•	development of ICT systems on cloud; 
-•	modernisation of government ICT infrastructure; and 
-•	use of data analytics, artificial intelligence (AI) and sensors within the public sector. 
+* development of new tech tools to respond to COVID-19;<br>
+* development of citizen- and business-centric digital services;<br> 
+* development of ICT systems on cloud;<br>
+* modernisation of government ICT infrastructure; and <br> 
+* use of data analytics, artificial intelligence (AI) and sensors within the public sector. 
 
 The projected FY2020 procurement spending will include ICT projects that have been brought forward by agencies because of the COVID-19 outbreak. These projects include the development of tech solutions to respond to COVID-19, and Sport Singapore’s ActiveSG Circle – launched in April 2020 – which aims to elevate the sporting industry in Singapore via technology. Envisaged as the virtual super sport club, the ActiveSG Circle offers a rich repository to inspire and enable citizens to live better and maintain their active lifestyles beyond this COVID-19 period. 
 
