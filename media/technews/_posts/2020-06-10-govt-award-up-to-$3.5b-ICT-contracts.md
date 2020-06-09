@@ -33,7 +33,7 @@ By partnering the industry in these areas, the Government hopes to harness techn
 ●	Enhance public service capabilities in data analytics, artificial intelligence and sensors
 
 
-![From source to sink: how data science helps Singapore manage its water resources](/images/technews/ib-part2.jpg)
+![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part2.jpg)
 *Ms Mah Yu Ling, Director of Procurement at GovTech, shares about new public-private sector partnership models that GovTech will be adopting during the Smart Nation & Digital Government Industry Briefing 2019.*
 
 More dynamism is being injected into procurement procedures to increase the flexibility of such collaborations, said Ms Mah Yu Ling, Director of Procurement at GovTech.
@@ -44,7 +44,7 @@ She identified three new partnership models that the Government is using to impr
 
 Unlike past government ICT contracts that had only one point of entry, dynamic contracts allow suppliers to update prices and offer new products and services to the Government — without waiting for their contracts to expire.
 
-![From source to sink: how data science helps Singapore manage its water resources](/images/technews/ib-part3.jpg)
+![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part3.jpg)
 
 “This gives us the flexibility and agility to react to changes and disruptions in technology, new players in the market, and new situations where there is an increase in demand,” explained Ms Mah.
 
@@ -61,7 +61,7 @@ According to GovTech, these bulk tenders have a total projected value of $1.2 bi
 
 To further accelerate the public sector’s innovation journey, the Government is turning to a new, outcome-based procurement process for calls for solutions.
 
-![From source to sink: how data science helps Singapore manage its water resources](/images/technews/ib-part4.jpg)
+![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part4.jpg)
 
 This new process is a departure from the usual procurement process in that it allows tenderers to propose solutions to achieve an agency’s desired outcomes, rather than just meeting the Government’s specifications.
 Typically, agencies define the solution they require before calling a tender to get suppliers to bid based on the requirements specified.
@@ -87,7 +87,7 @@ Vouch SG founder Joseph Ling added: “The procurement approach via the OIP allo
 To improve its digital services, the Government is also shifting from outsourcing projects to co-developing them with industry partners.
 Before, the Government would issue contracts with specifications of projects spelt out at the start and expect suppliers to develop these solutions independently.
 
-![From source to sink: how data science helps Singapore manage its water resources](/images/technews/ib-part5.jpg)
+![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part5.jpg)
 
 “This may not be optimal as it could result in vendors developing solutions with outdated designs that cannot be changed in an agile manner or reused across government agencies,” Ms Mah explained.
 
