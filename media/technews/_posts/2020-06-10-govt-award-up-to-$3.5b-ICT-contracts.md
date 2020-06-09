@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/ib-part1.jpg"
 ---
 ![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part1.jpg)
-*Projected spending on government ICT projects will increase by more than 30 per cent this financial year to support the country’s digital transformation and help businesses ride through Covid-19. PHOTO: GETTY IMAGES*
+*Projected spending on government ICT projects will increase by more than 30 per cent this financial year to support the country’s digital transformation and help businesses ride through COVID-19. PHOTO: GETTY IMAGES*
 
 
 Boost for small and medium-sized enterprises with more opportunities for collaboration and growth on government technology projects.
