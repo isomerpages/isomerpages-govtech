@@ -26,11 +26,11 @@ The ICT projects offered this year will run the gamut across technology domains 
 
 By partnering the industry in these areas, the Government hopes to harness technology to:
 
-●	Provide more citizen- and business-centric digital services;
-●	Develop new tech tools in response to Covid-19;
-●	Build digital services on cloud systems;
-●	Modernise the national ICT infrastructure; and
-●	Enhance public service capabilities in data analytics, artificial intelligence and sensors
+  - Provide more citizen- and business-centric digital services;
+  - Develop new tech tools in response to Covid-19;
+  - Build digital services on cloud systems;
+  - Modernise the national ICT infrastructure; and
+  - Enhance public service capabilities in data analytics, artificial intelligence and sensors
 
 
 ![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part2.jpg)
