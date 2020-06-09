@@ -20,7 +20,7 @@ This will bring the total value of government ICT contracts for the year to $3.5
 
 Eighty per cent of contracts offered will be open to small and medium-sized enterprises (SMEs), said the Government Technology Agency (GovTech) in a press release on Monday.
 
-The agency is spearheading the implementation of the Digital Government Blueprint, a five-year plan outlining how technology will transform the way the Government serves the public.
+The agency is spearheading the implementation of the [Digital Government Blueprint](https://www.tech.gov.sg/digital-government-blueprint/), a five-year plan outlining how technology will transform the way the Government serves the public.
 
 The ICT projects offered this year will run the gamut across technology domains such as cloud computing, data analytics and communications infrastructure, and will build on the Government’s efforts to co-develop technologies with industry players.
 
@@ -74,7 +74,7 @@ This new procurement model lowers the barriers of entry for SMEs that may have f
 
 “In the past, some companies would not qualify for the tender because they did not have the resources for larger-scale deployment upon award of the pilot or at later stages of the project,” said Ms Mah.
 
-To date, 12 public agencies have adopted this open innovation approach by issuing a total of 21 challenges on virtual crowdsourcing platforms Open Innovation Platform (OIP) and Innoleap.
+To date, 12 public agencies have adopted this open innovation approach by issuing a total of 21 challenges on virtual crowdsourcing platforms [Open Innovation Platform (OIP)](https://www.openinnovation.sg/about) and Innoleap.
 
 These platforms connect and match business challenges with problem solvers, encouraging industry partners to develop innovative solutions to government problem statements.
 
