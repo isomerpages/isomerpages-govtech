@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year"
-permalink: "/media/technews/govt-award-up-to-$3.5b-ict-contracts"
+permalink: "/media/technews/govt-award-up-ict-contracts"
 category: technews
 image: "/images/technews/ib-part1.jpg"
 ---
