@@ -5,6 +5,7 @@ permalink: "/media/technews/govt-award-up-to-$3.5b-ict-contracts"
 category: technews
 image: "/images/technews/ib-part1.jpg"
 ---
+
 ![Govt to award up to $3.5b in ICT contracts, 80% open to SMEs this year](/images/technews/ib-part1.jpg)
 *Projected spending on government ICT projects will increase by more than 30 per cent this financial year to support the country’s digital transformation and help businesses ride through COVID-19. PHOTO: GETTY IMAGES*
 
@@ -106,3 +107,5 @@ She stressed that GovTech welcomes partners of different sizes and areas of expe
 As Singapore strives to become a Smart Nation, such partnerships will be key.
 
 Ms Mah said: “All of these changes, from dynamic contracting to co-developing solutions, will give companies more opportunities as we move forward.”
+
+*This article was originally published on The Straits Times.*
