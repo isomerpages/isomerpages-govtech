@@ -17,7 +17,7 @@ Having been in CMG for several years means I’ve seen many peeps come and go, h
 
 **Roy** - Working on various projects, the little discussions and jokes, and catalysing the creativity in things we do
 
-**Veron** - Bubbly, kind and clever, and good at whatever she does ; will miss the little convos and laughs     
+**Veron** - Bubbly, kind and clever, and good at whatever she does ; will miss the little convos and laughs
 
 **MJ** - First ever RO and replenisher of snacks and alcohol, synonymous with events and some say Michael Jackson
 
