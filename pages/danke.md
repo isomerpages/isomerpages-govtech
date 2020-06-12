@@ -8,6 +8,8 @@ Dear friends,
 
 Having been in CMG for several years means I’ve seen many peeps come and go, had good and blah times, had the opportunity to learn and try different things (not talking about pantry snacks or media lunches!) and most importantly met awesome people. These strange times are unfortunate as we don’t get to see each other - so I thought I’d share a few words or things I’ll remember (even though there is more to say and we’ll still catch up!). 
 
+![Word cloud](/images/mehul-wordcloud.png)
+
 
 Keng Soon - Guidance and the faith over the years, and introducing Keyaki (feel free to invite if empty chair)
    
@@ -15,7 +17,7 @@ Joyce - Chionging the last three months, where we probably worked the most close
 
 Roy - Working on various projects, the little discussions and jokes, and catalysing the creativity in things we do
 
-Veron - A bubbly and clever   
+Veron - Bubbly, kind and clever, and good at whatever she does ; will miss the little convos and laughs      
 
 MJ - First ever RO and replenisher of snacks and alcohol, synonymous with events and some say Michael Jackson
 
