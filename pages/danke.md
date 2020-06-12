@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Overview
+title: Danke!
 permalink: /danke
 --- 
 
