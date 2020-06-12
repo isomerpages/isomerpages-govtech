@@ -51,7 +51,7 @@ Unlike past government ICT contracts that had only one point of entry, dynamic c
 
 It will also give agencies faster access to newer technology and capabilities, and will lead to time savings of about three months each time this feature is used, she said.
 
-Last year, GovTech piloted the use of dynamic contracts for two ICT bulk tenders — in payment services and robotic process automation — amounting to more than $700 million.
+Last year, GovTech piloted the use of dynamic contracts for two ICT bulk tenders — in co-development services and robotic process automation — amounting to more than $700 million.
 
 SMEs made up more than half of the industry partners that secured a share of these dynamic contracts.
 In FY2020, the Government will offer bulk tenders with dynamic contracts for services such as user experience design, agile development, application development, data science and artificial intelligence.
