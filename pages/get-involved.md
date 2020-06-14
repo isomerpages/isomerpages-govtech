@@ -21,7 +21,7 @@ We want to solve problems. In fact, we want to solve problems with you! At GovTe
 
 We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at [https://www.facebook.com/TechKaki](https://www.facebook.com/TechKaki) today!
 
-![Image of Hive]({{site.baseurl}}/images/digital-transformation/govtech-hive.jpg)
+![Image of TechKaki]({{site.baseurl}}/images/programmes/products-and-services/TechKaki-Header.jpg)
 
 ---
 
@@ -31,4 +31,4 @@ At GovTech, we embrace this "outside-in approach". Only when we have taken in th
 
 By joining the community, you get to try out our new tech products and services before they are available. Too many government apps today? That's alright, we will evaluate the landscape of apps as we move towards addressing the various Moments of Life for citizens. As a user, your insights are valuable in creating digital offerings that are useful to citizens.
 
-![Image of Hive]({{site.baseurl}}/images/digital-transformation/govtech-hive.jpg)
+![Image of MOL Personnel]({{site.baseurl}}/images/technews/the-tech-behind-the-moments-of-life-app.jpg)
