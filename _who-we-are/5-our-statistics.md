@@ -29,7 +29,7 @@ The survey was conducted from November to December 2019 for the reporting period
 
 About 1,500 businesses, under 13 different industry sectors (e.g. Commerce, Construction, Financial & Business Services, Manufacturing, Transportation, Storage, Information & Communications etc.) in Singapore were surveyed. Data collection was done through telephone interviews.
 
-![Digital Government Perception Survey 2019 for Business by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Business-GovTech-Smart-Nation-study.png)
+![Digital Government Perception Survey 2019 for Business by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Business-GovTech-Smart-Nation-study-2019v2.png)
 
 
 **Past Years' Digital Government Perception Survey Results**
