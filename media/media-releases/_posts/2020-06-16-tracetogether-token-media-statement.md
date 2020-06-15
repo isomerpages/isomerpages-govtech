@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "30% increase in FY2020 ICT spend to accelerate digitalisation & support businesses"
-permalink: /media/media-releases/thirty-percent-increase-FY2020-ICT-spend-to-accelerate-digitalisation-and-support-businesses 
+title:  "TraceTogether Token: Media Statement"
+permalink: /media/media-releases/2020-06-16-tracetogether-token-media-statement
 date: 2020-06-08
 ---
 
