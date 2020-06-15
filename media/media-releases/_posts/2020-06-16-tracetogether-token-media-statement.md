@@ -2,8 +2,8 @@
 layout: post
 title:  "30% increase in FY2020 ICT spend to accelerate digitalisation & support businesses"
 permalink: /media/media-releases/thirty-percent-increase-FY2020-ICT-spend-to-accelerate-digitalisation-and-support-businesses 
-** date: 2020-06-08**
-**---**
+date: 2020-06-08
+---
 
 The Government Technology Agency (GovTech) has today (16 June) called a limited tender for the design and manufacturing of the TraceTogether Token.
 
