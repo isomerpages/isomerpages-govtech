@@ -2,7 +2,7 @@
 layout: post
 title:  "TraceTogether Token: Media Statement"
 permalink: /media/media-releases/2020-06-16-tracetogether-token-media-statement
-date: 2020-06-08
+date: 2020-06-16
 ---
 
 The Government Technology Agency (GovTech) has today (16 June) called a limited tender for the design and manufacturing of the TraceTogether Token.
