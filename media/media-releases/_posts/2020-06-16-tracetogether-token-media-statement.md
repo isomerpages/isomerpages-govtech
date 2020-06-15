@@ -9,7 +9,7 @@ The Government Technology Agency (GovTech) has today (16 June) called a limited 
 
 We have worked with the Infocomm Media Development Authority, Singapore Economic Development Board and Enterprise Singapore to pre-qualify more than 20 companies to participate in this limited tender. The tender will close on 30 June. 
 
-Tender offers will be evaluated based on the proposed technical quality, security, and price of the token, as well as the manufacturing capability of the vendor company. We plan to announce the award in July.  *
+Tender offers will be evaluated based on the proposed technical quality, security, and price of the token, as well as the manufacturing capability of the vendor company. We plan to announce the award in July.
 
 ---
 
