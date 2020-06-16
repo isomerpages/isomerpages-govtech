@@ -57,7 +57,9 @@ According to GovTech, these services will include those related to job hunting, 
 
 Since its launch in 2018, the app has been downloaded by more than 150,000 users and used to register six in 10 newborns at both government and private hospitals.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mGqPCBTh2-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mGqPCBTh2-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### **Back in business**
 
