@@ -3,12 +3,10 @@ layout: post
 title: "Early tech push eases Covid-19 impact"
 permalink: "/media/technews/early-tech-push-eases-covid-19-impact"
 category: technews
-image: "/images/technews/ib2-part1.jpg"
+image: "/images/technews/ib2-part2.jpg"
 ---
 
-![Early tech push eases Covid-19 impact](/images/technews/ib2-part1.jpg)
-*Republic Polytechnic student Morier Adam, 19, went from attending classroom discussions and interactive seminars to online lessons at home via LEO2.0 — a learning management system for self-directed learning that will soon be further enhanced with cloud-hosted capabilities. PHOTO: REPUBLIC POLYTECHNIC.*
-
+![Early tech push eases Covid-19 impact](/images/technews/ib2-part2.jpg)
 
 Digital services such as Moments of Life and the GoBusiness portal are helping the community adapt to a new way of life. 
 ---
@@ -16,6 +14,9 @@ Digital services such as Moments of Life and the GoBusiness portal are helping t
 When the Government announced the mandatory shift to full home-based learning for schools and institutes of higher learning on April 8, students and teachers had to adapt swiftly to new methods of learning with technology. 
  
 Mr Morier Adam, 19, a second-year biomedical science student at Republic Polytechnic (RP), went from attending classroom discussions and seminars to online lessons at home via Learning Environment Online, or LEO2.0 — a learning management system that brings together the teaching and self-directed learning technologies used by the institute.
+
+![Early tech push eases Covid-19 impact](/images/technews/ib2-part1.jpg)
+*Republic Polytechnic student Morier Adam, 19, went from attending classroom discussions and interactive seminars to online lessons at home via LEO2.0 — a learning management system for self-directed learning that will soon be further enhanced with cloud-hosted capabilities. PHOTO: REPUBLIC POLYTECHNIC.*
 
 The custom-built system will soon be enhanced with cloud-hosted capabilities.
 
