@@ -36,7 +36,7 @@ Such nimble responses to the Covid-19 crisis have underscored the importance of 
 
 At a time when lifestyle habits are drastically altered and economic activity disrupted, technology and innovation have been crucial to help citizens and businesses adjust to new norms.
 
-When Madam Crystal Chew, 29, gave birth to her first child in February, she was worried about the amount of paperwork and travelling she would have to do to register her son’s birth at the hospital and Immigration and Checkpoints Authority building. 
+When Madam Crystal Chew, 29, gave birth to her first child in February, she was worried about the amount of paperwork and travelling she would have to do to register her daughter’s birth at the hospital and Immigration and Checkpoints Authority building. 
 
 Her fears were eased when staff at Thomson Medical Centre told her about [Moments of Life](https://www.life.gov.sg/) (MOL), a one-stop mobile platform that provides a suite of government services to support citizens’ needs at various milestones.  
 
