@@ -59,7 +59,7 @@ According to GovTech, these services will include those related to job hunting, 
 Since its launch in 2018, the app has been downloaded by more than 150,000 users and used to register six in 10 newborns at both government and private hospitals.
 
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mGqPCBTh2-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YaP5eqAIj7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### **Back in business**
@@ -84,7 +84,6 @@ Mr Daniel Chan, deputy director of GoBusiness at GovTech, explained that the por
 
 GoBusiness now caters mostly to F&B businesses but will be expanded to include more industry sectors. GovTech will also enhance the platform to provide more assistance to small and medium-sized enterprises, and launch an e-advisor to recommend appropriate Government grants and support for business needs.
 
-
 ## **More support for key moments in life**
 
 In April, the Government rolled out a “Covid-19  Guide” on the Moments of Life app. It provides support hotlines for psychological first aid, health information and resources, a directory of online e-commerce services with delivery options, as well as a consolidated directory of government support schemes and grants.
@@ -96,4 +95,6 @@ The app was recently updated to include a Family Support Calculator for families
 Later this month, a guide containing useful information about career guidance, job search tips, job opportunities and other available support will be launched on the app to provide more assistance to jobseekers.
 
 The Moments of Life app can be downloaded for free on [iOS](https://apps.apple.com/sg/app/moments-of-life/id1383218758) and [Android](https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG) devices.
+
+
 
