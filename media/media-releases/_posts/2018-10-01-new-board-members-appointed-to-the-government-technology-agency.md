@@ -54,7 +54,7 @@ GovTech works with public agencies to develop and deliver secure digital service
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
 
 ### **For media clarification**
-**Infocomm Development Authority of Singapore (IDA)**
+
 <br>
 <br>Tiffany SANDRADSAGERAN (Ms)
 <br>Manager
