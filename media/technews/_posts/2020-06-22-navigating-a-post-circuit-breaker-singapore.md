@@ -7,7 +7,6 @@ image: "/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png"
 ---
 
 ![Navigating a post-circuit breaker Singapore with data-driven tech](/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png)
-
 <br>Photo credit: Victor He on Unsplash
 
 As Singapore restarts its economy, data-driven tech solutions will play a crucial role in helping the nation safely and successfully get back on its feet.
@@ -29,8 +28,8 @@ That premise soon developed into the fully-automated, contactless [VigilantGantr
 
 By leveraging technology to assume the responsibilities of a human operator, VigilantGantry will help to solve their manpower crunch, said Mr Leonard. At the moment, VigilantGantry has been deployed at some institutes of higher learning and government agencies.
 
-![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)<br>
-Photo credit: GovTech
+![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)
+<br>Photo credit: GovTech
 
 ### **A way around the crowds**
 
@@ -46,7 +45,6 @@ The website shows both near-real time crowd level information for malls that are
 
 ![SpaceOut website](/images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)
 
-
 ## **Upgrading man’s best friend**
 
 Perhaps in the near future when you visit your neighbourhood park for a walk, you may notice dog-like robots patrolling the route, reminding you to observe safe distancing. The Smart Nation Platform Solutions (SNPS) team from GovTech had recently concluded a two-week trial of Boston Dynamics’ four-legged robot SPOT at Bishan-Ang Mo Kio Park in May for safe distancing operations. 
@@ -58,7 +56,6 @@ Since before the COVID-19 pandemic, the team has been building a mobile sensor p
 Besides Changi, Spot® is also being trialled at the Bishan-Ang Mo Kio Park, where it uses deep-learning algorithms developed by the SNPS team to detect if safe distancing is observed among visitors. The team is currently working to make the augmented Spot® fully autonomous.
 
 ![SPOT the Dog](/images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)
-
 
 From convenient gantry systems to robotic watchdogs, the projects showcased at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively addressed by harnessing data and technology.  
 
