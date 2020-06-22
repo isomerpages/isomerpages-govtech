@@ -30,7 +30,7 @@ That premise soon developed into the fully-automated, contactless [VigilantGantr
 By leveraging technology to assume the responsibilities of a human operator, VigilantGantry will help to solve their manpower crunch, said Mr Leonard. At the moment, VigilantGantry has been deployed at some institutes of higher learning and government agencies.
 
 ![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)<br>
-Photo credit: GovTech
+With its video analytics capabilities, VigilantGantry can detect headgear like caps or helmets that could obstruct temperature screening. (Photo credit: GovTech).
 
 ### **A way around the crowds**
 
@@ -44,9 +44,8 @@ The website shows both near-real time crowd level information for malls that are
 
 “Building Space Out was a very exciting and meaningful opportunity for me. The team designed and built the website in less than a week, and we had to develop solutions to bring together different data formats from various partners. We were able to bring our experience in developing geospatial analytics solutions for urban planning in partnership with operators, to develop convenient solutions that can help everyone in Singapore stay safer during Covid-19 period.” Ms Siew said.
 
-![SpaceOut website](/images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)
-
-
+![SpaceOut website](/images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)<br>
+A snapshot of crowd levels of participating malls across Singapore. Users can click on each symbol to check recent trends of crowd levels. (Photo credit: GovTech)
 ## **Upgrading man’s best friend**
 
 Perhaps in the near future when you visit your neighbourhood park for a walk, you may notice dog-like robots patrolling the route, reminding you to observe safe distancing. The Smart Nation Platform Solutions (SNPS) team from GovTech had recently concluded a two-week trial of Boston Dynamics’ four-legged robot SPOT at Bishan-Ang Mo Kio Park in May for safe distancing operations. 
@@ -57,8 +56,8 @@ Since before the COVID-19 pandemic, the team has been building a mobile sensor p
 
 Besides Changi, Spot® is also being trialled at the Bishan-Ang Mo Kio Park, where it uses deep-learning algorithms developed by the SNPS team to detect if safe distancing is observed among visitors. The team is currently working to make the augmented Spot® fully autonomous.
 
-![SPOT the Dog](/images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)
-
+![SPOT the Dog](/images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)<br>
+Spot®, the dog-like robot developed by Boston Dynamics. (Photo credit: Boston Dynamics)
 
 From convenient gantry systems to robotic watchdogs, the projects showcased at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively addressed by harnessing data and technology.  
 
