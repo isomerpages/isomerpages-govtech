@@ -19,7 +19,7 @@ Singapore’s transition into a “Safe Nation”, however, depends upon success
 
 Within a short matter of months, developments like [TraceTogether](https://www.tracetogether.gov.sg) and [SafeEntry](https://www.safeentry.gov.sg/) have shown the potential of data-driven technology in helping us adjust to the changes brought about in our daily lives by COVID-19. To showcase some of these other data-driven solutions, the Government Technology Agency (GovTech) invited developers from three different projects onto a [webinar](https:/www.meetup.com/STACK-X-by-GovTech-Singapore/events/270783287/) 28 May 2020 to discuss how their solutions address the challenges that could arise as Singapore safely reopens.
 
-### *Staying vigilant*
+### **Staying vigilant**
 
 Temperature screening stations have become a regular sight at public spots across Singapore. Though these systems can automatically take body temperatures, dedicated staff must still be deployed to analyse the temperature readings and take action if needed. Many smaller companies and organisations, however, cannot afford to delegate temperature screening due to manpower limitations. In addition, current temperature screening systems have been described as inefficient, even [causing long waiting times](https://www.straitstimes.com/singapore/coronavirus-long-queues-formed-at-suntec-city-and-raffles-place-on-first-day-of) and queues during their initial implementation.     
 
@@ -46,7 +46,8 @@ The website shows both near-real time crowd level information for malls that are
 
 ![SpaceOut website](/images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)<br>
 A snapshot of crowd levels of participating malls across Singapore. Users can click on each symbol to check recent trends of crowd levels. (Photo credit: GovTech)
-## **Upgrading man’s best friend**
+
+### **Upgrading man’s best friend**
 
 Perhaps in the near future when you visit your neighbourhood park for a walk, you may notice dog-like robots patrolling the route, reminding you to observe safe distancing. The Smart Nation Platform Solutions (SNPS) team from GovTech had recently concluded a two-week trial of Boston Dynamics’ four-legged robot SPOT at Bishan-Ang Mo Kio Park in May for safe distancing operations. 
 
