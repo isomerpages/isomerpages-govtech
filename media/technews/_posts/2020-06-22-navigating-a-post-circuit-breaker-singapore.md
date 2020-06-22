@@ -7,7 +7,6 @@ image: "/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png"
 ---
 
 ![Navigating a post-circuit breaker Singapore with data-driven tech](/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png)
-
 <br>Photo credit: Victor He on Unsplash
 
 As Singapore restarts its economy, data-driven tech solutions will play a crucial role in helping the nation safely and successfully get back on its feet.
