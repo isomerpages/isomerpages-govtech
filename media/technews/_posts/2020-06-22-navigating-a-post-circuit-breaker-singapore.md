@@ -18,71 +18,51 @@ Singapore’s transition into a “Safe Nation”, however, depends upon success
 
 Within a short matter of months, developments like TraceTogether and SafeEntry have shown the potential of data-driven technology in helping us adjust to the changes brought about in our daily lives by COVID-19.  To showcase some of these other data-driven solutions, the Government Technology Agency (GovTech) invited developers from three different projects onto a webinar on 28 May 2020 to discuss how their solutions address the challenges that could arise as Singapore safely reopens.
 
-### **Staying vigilant*
+### *Staying vigilant*
 
-Such nimble responses to the Covid-19 crisis have underscored the importance of Singapore’s Smart Nation vision, which focuses on harnessing technology to improve lives and livelihoods and stay ahead as a global city.
+Temperature screening stations have become a regular sight at public spots across Singapore. Though these systems can automatically take body temperatures, dedicated staff must still be deployed to analyse the temperature readings and take action if needed. Many smaller companies and organisations, however, cannot afford to delegate temperature screening due to manpower limitations. In addition, current temperature screening systems have been described as inefficient, even causing long waiting times and queues during their initial implementation.     
 
-At a time when lifestyle habits are drastically altered and economic activity disrupted, technology and innovation have been crucial to help citizens and businesses adjust to new norms.
+“When DORSCON Orange was first announced and temperature screening was implemented, building owners told us that they faced issues with manpower and screening efficiency,” said Mr Delon Leonard, an AI engineer from the video analytics team at the Data Science and Artificial Intelligence Division (DSAID) of GovTech. “To address these issues, we wanted to create a solution that could control entry across each screening station while minimising staff deployments.”
 
-When Madam Crystal Chew, 29, gave birth to her first child in February, she was worried about the amount of paperwork and travelling she would have to do to register her daughter’s birth at the hospital and Immigration and Checkpoints Authority building. 
+That premise soon developed into the fully-automated, contactless VigilantGantry system, which combines a video camera, thermal sensor and a gantry system. Through its video analytics and artificial intelligence (AI) framework, the system checks for two things: First, if a visitor’s face is sufficiently exposed to make an accurate measurement; and second, if the visitor has a fever. Should either of these checks fail, the gantry will restrict access.
 
-Her fears were eased when staff at Thomson Medical Centre told her about [Moments of Life](https://www.life.gov.sg/) (MOL), a one-stop mobile platform that provides a suite of government services to support citizens’ needs at various milestones.  
+By leveraging technology to assume the responsibilities of a human operator, VigilantGantry will help to solve their manpower crunch, said Mr Leonard. At the moment, VigilantGantry has been deployed at some institutes of higher learning and government agencies.
 
-Key features of the mobile application, which was developed for young parents and the elderly include electronic application for birth registration, online access to the child’s immunisation records and access to information on government schemes and benefits. 
 
-Families can also use MOL to register their children in pre-schools in an upcoming pilot trial with NTUC First Campus.
+![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)<br>
+Photo credit: GovTech
 
-Through the app, Madam Chew was able to register her newborn’s birth from the comfort of her home a few days after being discharged from the hospital. “I liked that I did not have to rush to do the registration during my stay in the hospital.”
+### **A way around the crowds**
 
-She added that the app interface made it easy to use. 
+Essential services have operated continuously throughout Covid-19 period in Singapore to meet people’s needs. These include many retail malls, supermarkets, markets, banks, and post offices, among others. Measures to ensure safe distancing included guidelines on having physical separation of 1m between people for all services, and a cap of no more than 1 visitor per 16 square meters of usable space for retail malls. 
 
-With MOL, the amount of time spent on personal application processes can be whittled down significantly.
+While these retail operators implement the measures on ground, information on their crowd levels are not readily available to the general public. Such information can help people make more informed choices on where or when to go to avoid crowds before they head out. Through this, it can also help relieve some pressure popular retail outlets face in crowd management.
 
-At the Committee of Supply (COS) debate this year, Dr Vivian Balakrishnan, Minister-In-Charge of the Smart Nation Initiative, said the app reduces a parent’s waiting time during the birth registration process from an hour to a mere 15 minutes. 
+“We collaborated with operators to bring together their crowd level information of malls, supermarkets, markets, and post offices and made it available to the public through www.SpaceOut.gov.sg. This was designed to be an easy-to-use, map-based website that people can access on any digital device.” said Ms Jazreel Siew, a Systems Analyst at the Digital Planning Lab of the Urban Redevelopment Authority (URA) of Singapore. 
 
-He added that the MOL app, developed by the Government Technology Agency of Singapore (GovTech), will be enhanced later this year to provide more Singaporeans with access to simpler government services. 
+The website shows both near-real time crowd level information for malls that are able to provide it, as well as analytics on recent trends of crowd levels. People can also easily search for less crowded options nearby. 
 
-According to GovTech, these services will include those related to job hunting, tax management and travel information of Singaporeans living here and abroad.
+“Building Space Out was a very exciting and meaningful opportunity for me. The team designed and built the website in less than a week, and we had to develop solutions to bring together different data formats from various partners. We were able to bring our experience in developing geospatial analytics solutions for urban planning in partnership with operators, to develop convenient solutions that can help everyone in Singapore stay safer during Covid-19 period.” Ms Siew said.
 
-Since its launch in 2018, the app has been downloaded by more than 150,000 users and used to register six in 10 newborns at both government and private hospitals.
 
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YaP5eqAIj7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### **Back in business**
-
-Aside from improving the lives of citizens, the Government’s Smart Nation initiative also supports businesses in Singapore.
-
-Last October, the Government launched the [GoBusiness](https://www.gobusiness.gov.sg/licences) portal to help business owners with one of the most challenging aspects of starting operations — applying for licences. 
-
-Developed by the Smart Nation and Digital Government Office, GovTech and the Ministry of Trade and Industry, the portal streamlines regulatory requirements and digitalises transactions between the Government and businesses. It fosters a pro-enterprise environment.
-
-At the COS debate, Dr Balakrishnan cited the “extremely onerous process” that food and beverage (F&B) businesses undergo to apply for the right licences. Such enterprises have as many as 14 different licences to apply for and over 800 form fields to fill out. 
-
-To ease complex application processes, GoBusiness offers a “Guided Journey” feature for F&B businesses that provides a four-step process to help users identify the licences they need and which agency they need to approach to get their business up and running.
- 
-As of January, over 460 F&B establishments were able to secure their licences quickly and easily through the portal. GovTech added that the portal helps businesses to cut their time spent on licence applications by an average of 10 to 14 days.
-
-To support businesses in Singapore's post-circuit breaker reopening, the Government rolled out an additional platform called [Covid GoBusiness](https://covid.gobusiness.gov.sg/).
-
-The platform provides businesses with useful information such as the list of permitted services allowed to resume operations, applications for exemptions, safe management measures and guidelines, and a list of government support schemes that businesses can apply for during this period. 
-
-Mr Daniel Chan, deputy director of GoBusiness at GovTech, explained that the portal plays a crucial role in guiding companies as they navigate business life amid the Covid-19 situation.
-
-GoBusiness now caters mostly to F&B businesses but will be expanded to include more industry sectors. GovTech will also enhance the platform to provide more assistance to small and medium-sized enterprises, and launch an e-advisor to recommend appropriate Government grants and support for business needs.
-
-## **More support for key moments in life**
-
-In April, the Government rolled out a “Covid-19  Guide” on the Moments of Life app. It provides support hotlines for psychological first aid, health information and resources, a directory of online e-commerce services with delivery options, as well as a consolidated directory of government support schemes and grants.
-
-The new feature is part of efforts to serve the needs of citizens during the Covid-19 pandemic, with more features to follow in the coming months.
-
-The app was recently updated to include a Family Support Calculator for families with children aged six and below to learn more about subsidies, parental leave schemes, benefits and grants that they are eligible for.
-
-Later this month, a guide containing useful information about career guidance, job search tips, job opportunities and other available support will be launched on the app to provide more assistance to jobseekers.
-
-The Moments of Life app can be downloaded for free on [iOS](https://apps.apple.com/sg/app/moments-of-life/id1383218758) and [Android](https://play.google.com/store/apps/details?id=sg.gov.app.mol&hl=en_SG) devices.
+![spaceout](images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)
 
 
 
+## **Upgrading man’s best friend**
+
+Perhaps in the near future when you visit your neighbourhood park for a walk, you may notice dog-like robots patrolling the route, reminding you to observe safe distancing. The Smart Nation Platform Solutions (SNPS) team from GovTech had recently concluded a two-week trial of Boston Dynamics’ four-legged robot SPOT at Bishan-Ang Mo Kio Park in May for safe distancing operations. 
+
+Since before the COVID-19 pandemic, the team has been building a mobile sensor platform capable of collecting data and carrying out operations autonomously in different environments. “The whole idea was to have a robot packed full of sensors to bring in data, which is why we picked Spot® as the model for our robot,” said Mr Lim Chinn Hwa, Senior Director of the SNPS group.  The SNPS team augmented Spot® with software capabilities such as remote control, 3D mapping and semi-autonomous operations, which enabled SPOT to be deployed for COVID-19 related operations.
+
+“One of the places where we deployed Spot® was at the Changi Exhibition Centre, where it was trialled for delivering critical medical supplies from the green zone to the red zone,” said Mr Chong Jia Yi, the engineer who heads the SNPS robotics team. The reason for using Spot® in this context, he said, was to keep medical personnel safe. After all, entering the red zone entails a tedious process of dressing up in personal protective equipment (PPE). As Mr Chong recounts, there are times when tired medical personnel could inadvertently expose themselves to virus particles in the air.  
+
+Besides Changi, Spot® is also being trialled at the Bishan-Ang Mo Kio Park, where it uses deep-learning algorithms developed by the SNPS team to detect if safe distancing is observed among visitors. The team is currently working to make the augmented Spot® fully autonomous.
+
+![spotthedog](images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)
+
+From convenient gantry systems to robotic watchdogs, the projects showcased at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively addressed by harnessing data and technology.  
+
+To find out more about ongoing projects at GovTech—including the ones mentioned above—visit their Developer Portal. For readers that are looking to contribute to Singapore’s digital efforts against COVID-19, volunteer and career opportunities are also available. Click on the respective links to find out more.
+
+Missed the webinar? Click here to watch the recording and stay updated on future STACK-X: Meetups here.
