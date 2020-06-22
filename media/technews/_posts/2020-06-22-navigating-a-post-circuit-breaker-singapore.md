@@ -63,4 +63,4 @@ From convenient gantry systems to robotic watchdogs, the projects showcased at t
 
 To find out more about ongoing projects at GovTech—including the ones mentioned above—visit their [Developer Portal](https://www.developer.gov.sg/). For readers that are looking to contribute to Singapore’s digital efforts against COVID-19, [volunteer](https://www.developer.gov.sg/covid-volunteering/) and [career opportunities](https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl) are also available. Click on the respective links to find out more.
 
-Missed the webinar? Click [here](https://www.youtube.com/watch?v=-wtORFpvFCg&feature=youtu.be)to watch the recording and stay updated on future STACK-X: Meetups [here](https://go.gov.sg/meetup).
+Missed the webinar? Click [here](https://www.youtube.com/watch?v=-wtORFpvFCg&feature=youtu.be) to watch the recording and stay updated on future STACK-X: Meetups [here](https://go.gov.sg/meetup).
