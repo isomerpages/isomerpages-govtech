@@ -7,6 +7,7 @@ image: "/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png"
 ---
 
 ![Navigating a post-circuit breaker Singapore with data-driven tech](/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png)
+
 <br>Photo credit: Victor He on Unsplash
 
 As Singapore restarts its economy, data-driven tech solutions will play a crucial role in helping the nation safely and successfully get back on its feet.
@@ -16,11 +17,11 @@ Since the implementation of the circuit breaker measures, Singapore has seen a d
 
 Singapore’s transition into a “Safe Nation”, however, depends upon successfully containing any subsequent waves of COVID-19 in the community. In other words, though the circuit breaker period may be over, it’s no excuse to let our guard down. Practices that support public health such as safe distancing, mask-wearing and even remote work should still be maintained for the time being—and accepted as part and parcel of our new normal.  
 
-Within a short matter of months, developments like [TraceTogether](https://www.tracetogether.gov.sg)and [SafeEntry](https://www.safeentry.gov.sg/) have shown the potential of data-driven technology in helping us adjust to the changes brought about in our daily lives by COVID-19. To showcase some of these other data-driven solutions, the Government Technology Agency (GovTech) invited developers from three different projects onto a [webinar](https:/www.meetup.com/STACK-X-by-GovTech-Singapore/events/270783287/) 28 May 2020 to discuss how their solutions address the challenges that could arise as Singapore safely reopens.
+Within a short matter of months, developments like [TraceTogether](https://www.tracetogether.gov.sg) and [SafeEntry](https://www.safeentry.gov.sg/) have shown the potential of data-driven technology in helping us adjust to the changes brought about in our daily lives by COVID-19. To showcase some of these other data-driven solutions, the Government Technology Agency (GovTech) invited developers from three different projects onto a [webinar](https:/www.meetup.com/STACK-X-by-GovTech-Singapore/events/270783287/) 28 May 2020 to discuss how their solutions address the challenges that could arise as Singapore safely reopens.
 
 ### *Staying vigilant*
 
-Temperature screening stations have become a regular sight at public spots across Singapore. Though these systems can automatically take body temperatures, dedicated staff must still be deployed to analyse the temperature readings and take action if needed. Many smaller companies and organisations, however, cannot afford to delegate temperature screening due to manpower limitations. In addition, current temperature screening systems have been described as inefficient, even [causing long waiting times](https://www.straitstimes.com/singapore/coronavirus-long-queues-formed-at-suntec-city-and-raffles-place-on-first-day-of)and queues during their initial implementation.     
+Temperature screening stations have become a regular sight at public spots across Singapore. Though these systems can automatically take body temperatures, dedicated staff must still be deployed to analyse the temperature readings and take action if needed. Many smaller companies and organisations, however, cannot afford to delegate temperature screening due to manpower limitations. In addition, current temperature screening systems have been described as inefficient, even [causing long waiting times](https://www.straitstimes.com/singapore/coronavirus-long-queues-formed-at-suntec-city-and-raffles-place-on-first-day-of) and queues during their initial implementation.     
 
 “When DORSCON Orange was first announced and temperature screening was implemented, building owners told us that they faced issues with manpower and screening efficiency,” said Mr Delon Leonard, an AI engineer from the video analytics team at the Data Science and Artificial Intelligence Division (DSAID) of GovTech. “To address these issues, we wanted to create a solution that could control entry across each screening station while minimising staff deployments.”
 
@@ -28,8 +29,8 @@ That premise soon developed into the fully-automated, contactless [VigilantGantr
 
 By leveraging technology to assume the responsibilities of a human operator, VigilantGantry will help to solve their manpower crunch, said Mr Leonard. At the moment, VigilantGantry has been deployed at some institutes of higher learning and government agencies.
 
-![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)
-<br>Photo credit: GovTech
+![vigilantegantry](/images/technews/navigating-a-post-circuit-breaker-sg.pic2.png)<br>
+Photo credit: GovTech
 
 ### **A way around the crowds**
 
@@ -45,6 +46,7 @@ The website shows both near-real time crowd level information for malls that are
 
 ![SpaceOut website](/images/technews/navigating-a-post-curcuit-breaker-sg.pic3.png)
 
+
 ## **Upgrading man’s best friend**
 
 Perhaps in the near future when you visit your neighbourhood park for a walk, you may notice dog-like robots patrolling the route, reminding you to observe safe distancing. The Smart Nation Platform Solutions (SNPS) team from GovTech had recently concluded a two-week trial of Boston Dynamics’ four-legged robot SPOT at Bishan-Ang Mo Kio Park in May for safe distancing operations. 
@@ -57,8 +59,9 @@ Besides Changi, Spot® is also being trialled at the Bishan-Ang Mo Kio Park, whe
 
 ![SPOT the Dog](/images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)
 
+
 From convenient gantry systems to robotic watchdogs, the projects showcased at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively addressed by harnessing data and technology.  
 
-To find out more about ongoing projects at GovTech—including the ones mentioned above—visit their [Developer Portal](https://www.developer.gov.sg/). For readers that are looking to contribute to Singapore’s digital efforts against COVID-19, [volunteer](https://www.developer.gov.sg/covid-volunteering/) and [career opportunities](https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl)are also available. Click on the respective links to find out more.
+To find out more about ongoing projects at GovTech—including the ones mentioned above—visit their [Developer Portal](https://www.developer.gov.sg/). For readers that are looking to contribute to Singapore’s digital efforts against COVID-19, [volunteer](https://www.developer.gov.sg/covid-volunteering/) and [career opportunities](https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl) are also available. Click on the respective links to find out more.
 
 Missed the webinar? Click [here](https://www.youtube.com/watch?v=-wtORFpvFCg&feature=youtu.be)to watch the recording and stay updated on future STACK-X: Meetups [here](https://go.gov.sg/meetup).
