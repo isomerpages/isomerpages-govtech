@@ -6,8 +6,9 @@ category: technews
 image: "/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png"
 ---
 
-![Navigating a post-circuit breaker Singapore with data-driven tech](/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png)<br>
-Photo credit: Victor He on Unsplash
+![Navigating a post-circuit breaker Singapore with data-driven tech](/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png)
+
+<br>Photo credit: Victor He on Unsplash
 
 As Singapore restarts its economy, data-driven tech solutions will play a crucial role in helping the nation safely and successfully get back on its feet.
 ---
@@ -57,6 +58,7 @@ Since before the COVID-19 pandemic, the team has been building a mobile sensor p
 Besides Changi, Spot® is also being trialled at the Bishan-Ang Mo Kio Park, where it uses deep-learning algorithms developed by the SNPS team to detect if safe distancing is observed among visitors. The team is currently working to make the augmented Spot® fully autonomous.
 
 ![SPOT the Dog](/images/technews/navigating-a-post-circuit-breaker-sg.pic4.png)
+
 
 From convenient gantry systems to robotic watchdogs, the projects showcased at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively addressed by harnessing data and technology.  
 
