@@ -51,7 +51,7 @@ The latter will see PUB install Singapore’s first smart water meters in 2021. 
 
 ![Doubling down on cloud to deliver better government services](/images/technews/ib3-part3.jpg)
 
-[Singapore Government Tech Stack](https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack), government services, cloud computing To support the increased use of the commercial cloud in developing government IT systems, GovTech will enhance the Singapore Government Tech Stack (SGTS). 
+[Singapore Government Tech Stack](https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack), government services, cloud computing to support the increased use of the commercial cloud in developing government IT systems, GovTech will enhance the Singapore Government Tech Stack (SGTS). 
 
 The centralised platform that enables quick and efficient deployment of digital services to the Government will offer a suite of services and tools that public agencies can use to maintain the consistency and quality of applications. 
 
