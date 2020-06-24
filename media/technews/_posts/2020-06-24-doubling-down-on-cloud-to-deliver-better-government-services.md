@@ -29,7 +29,7 @@ Government agencies can access a global ecosystem of ready-made solutions to add
 ![Doubling down on cloud to deliver better government services](/images/technews/ib3-part2.jpg)
 *As a centralised platform, SGTS will be able to ensure that cybersecurity and data security measures are incorporated into IT systems development.*
 
-Cybersecurity, government services, cloud computing As a centralised platform, SGTS will be able to ensure that cybersecurity and data security measures are incorporated into IT systems development. 
+Cybersecurity, government services, cloud computing as a centralised platform, SGTS will be able to ensure that cybersecurity and data security measures are incorporated into IT systems development. 
 
 The Inland Revenue Interactive Network (IRIN), the main infocomm technology (ICT) system that underpins Singapore’s tax administration and revenue collection service, is an example of how migrating to the commercial cloud can help to improve the agility of government digital services. 
 
