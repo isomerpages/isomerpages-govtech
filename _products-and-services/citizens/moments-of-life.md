@@ -14,7 +14,7 @@ Moments of Life is a Smart Nation initiative that places citizens at the centre 
 
 Key features of the app are developed for families with children aged 6 below and seniors aged 60 above by bundling useful services and information on a single digital platform.
 
-![Moments of Life Product Features](/images/programmes/products-and-services/MOL-Landing-Page_1.png)
+![Moments of Life Product Features](/images/programmes/products-and-services/mol-landing-page-june2020.png)
 
 A COVID-19 Curated Guide was launched in April 2020 to provide users with easy access to important COVID-19 information. The in-app guide offers useful resources such as information on the various COVID-19 assistance schemes announced by the government, health information, various government tools such as finding a PHPC doctor, community initiatives. 
 
