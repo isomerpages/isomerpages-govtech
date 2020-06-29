@@ -7,8 +7,6 @@ collection_name: products-and-services
 tag: citizens
 ---
 
-![hero](/images/Thumbnail.jpg)
-
 When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
 ---
 
@@ -28,7 +26,7 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](https://www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](https://www.go.gov.sg/askjamiebottg)
  
- ![covid](/images/askjamie-covid.png)
+ ![accessibility](isomer-logo - Lisa T.png)
  
 ### **COVID-19 Chat for Biz**
 
