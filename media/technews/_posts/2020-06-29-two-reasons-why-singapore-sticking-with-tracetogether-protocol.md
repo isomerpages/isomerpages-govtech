@@ -3,13 +3,13 @@ layout: post
 title: "Two reasons why Singapore is sticking with TraceTogether’s protocol"
 permalink: "/media/technews/two-reasons-why-singapore-sticking-with-tracetogether-protocol"
 category: technews
-image: "/images/technews/xxxxx"
+image: "/technews/two-reasons-singapore-sticking-with-tt1.png"
 ---
 
 Although alternatives exist, here’s why the BlueTrace-powered TraceTogether is still preferred for digital contact tracing in Singapore.
 ---
 
-![XXXXXs](/images/technews/xxxx)
+![ttmasthead](images/technews/two-reasons-singapore-sticking-with-tt1.png)
 
 On 20 March 2020, the Government Technology Agency (GovTech) of Singapore released [TraceTogether](https://www.tracetogether.gov.sg/) which uses Bluetooth technology to alert users if they have been in contact with COVID-19 patients. The app was built to augment existing contact tracing efforts so that authorities can quickly identify and quarantine close contacts of COVID-19 patients.
 
