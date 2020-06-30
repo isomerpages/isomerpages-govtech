@@ -1,23 +1,23 @@
 ---
 layout: simple-page
-title: "Responding to COVID-19 with Tech"
-permalink: /products-and-services/responding-to-covid-19-with-tech/
+title: "Designing for the 100%: We build for everybody and prioritise accessibility"
+permalink: /products-and-services/building-products-and-services-for-everyone/
 breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
-![hero](/images/Thumbnail.jpg)
-
-The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
+When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
 ---
 
-### **Ask Jamie chatbot**
+### **Isomer**
 
-Developed by GovTech, Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
+Isomer is a static website builder for public officers to easily launch informational sites.
 
-Since 1 February 2020, the chatbot has been enhanced to address queries related to COVID-19, and uses machine learning to improve accuracy of the replies, and data analytics to detect trending topics.
+Isomer's Target Audience:
+
+Isomer’s audience include (a) content creators (public officers in comms and marketing, policy officers and IT department) as well as software vendors who partner government agencies (b) content consumers  (Singaporean citizens from all walks of life who visit Isomer-built websites)
+
  
 In addition to the Gov.sg and Ministry of Health websites, citizens are also able to access the chatbot via Facebook Messenger and Telegram:
 
@@ -26,7 +26,7 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](https://www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](https://www.go.gov.sg/askjamiebottg)
  
- ![covid](/images/askjamie-covid.png)
+ ![accessibility](isomer-logo - Lisa T.png)
  
 ### **COVID-19 Chat for Biz**
 
