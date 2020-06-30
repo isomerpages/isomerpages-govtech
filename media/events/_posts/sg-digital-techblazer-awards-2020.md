@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SG:D Techblazer Awards 2020"
-permalink: "/media/events/sg-digital-techblazer-awards-2020"
+permalink: "/media/events/_posts/sg-digital-techblazer-awards-2020"
 category: events
 ---
 
