@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: “Responding to COVID-19 With Tech”
-permalink: /responding-to-covid-19-with-tech/
+permalink: /products-and-services/responding-to-covid-19-with-tech/
 breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
