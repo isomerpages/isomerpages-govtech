@@ -27,7 +27,7 @@ Offered by the Cyber Security Agency of Singapore (CSA), Government Technology A
 ![Alternative text for screen readers](/images/careers/SNS_Infographic.png) 
 
 #### **How can you apply?**
-Applications are open from September to March each year. If you have a passion for technology and a strong desire to make a difference, you could be a Smart Nation Scholar. [Apply Now!](http://www.smartnationscholarship.gov.sg/){:target="_blank"} 
+Applications are open from September to March each year. If you have a passion for technology and a strong desire to make a difference, you could be a Smart Nation Scholar. Visit [https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship) for more information. 
 
 ### **Internships**
 Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for both current university and polytechnic students. If you have a passion for technology, and are team oriented, experience a tech internship with us today!
