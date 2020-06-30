@@ -24,7 +24,7 @@ Isomer’s audience include (a) content creators (public officers in comms and m
 For example, the Isomer template provides a selection of predefined font sizes and weights that cater to persons with low vision. Content editors can focus on content, knowing the font size issue is well addressed.
  - While the team was not able to set the use of alternate text for images or a minimum color contrast ratio, they overcame these challenges by creating documentation guides for easy referencing of accessibility guidelines.
  
- ![accessibility_isomer](isomer-logo - Lisa T.png)
+ ![accessibility_isomer](/images/isomer-logo - Lisa T.png)
  
  **Singapore Government Design System (SGDS)**
 
@@ -39,7 +39,7 @@ Government Agency Users, Vendors and the Public (to a certain extent, everything
  - Created patterns with base accessibility built in.
  - Provided guidelines to help users.
 
-![accessibility_sgds](logo_sgds - Daren Ng.jpg)
+![accessibility_sgds](/images/logo_sgds - Daren Ng.jpg)
  
 **MyCareersFuture (MCF)**
 MyCareersFuture helps match jobseekers to suitable employers and job opportunities based on their skills.
@@ -49,5 +49,5 @@ MyCareersFuture helps match jobseekers to suitable employers and job opportuniti
  - The primary intention was to support jobseekers in need of help such as mature Professionals, Managers, Executives, Technicians (PMETs) or mid-career switchers but we are really open to all citizens and PRs.
  - We also serve employers who are looking to hire locals for their jobs.
  
- ![accessibility_MCF](Screenshot 2020-06-09 at 1.15.05 PM - Yvonne Chia.png)
+ ![accessibility_MCF](/images/Screenshot 2020-06-09 at 1.15.05 PM - Yvonne Chia.png)
 
