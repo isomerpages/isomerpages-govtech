@@ -1,24 +1,24 @@
 ---
 layout: simple-page
-title: "Designing for the 100%: We build for everybody and prioritise accessibility"
-permalink: /products-and-services/building-products-and-services-for-everyone/
+title: “Responding to COVID-19 With Tech”
+permalink: /products-and-services/responding-to-covid-19-with-tech/
 breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
+thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
-When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
+![hero](/images/Thumbnail.jpg)
+
+The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
 ---
 
-### **Isomer**
+### **Ask Jamie chatbot**
 
-Isomer is a static website builder for public officers to easily launch informational sites.
+Developed by GovTech, Ask Jamie is a virtual assistant designed to answer queries within specific domains on Government agency websites. Launched in 2014, Ask Jamie has been implemented across 70 Government agency websites.
 
-Isomer's Target Audience:
+Since 1 February 2020, the chatbot has been enhanced to address queries related to COVID-19, and uses machine learning to improve accuracy of the replies, and data analytics to detect trending topics.
 
-Isomer’s audience include (a) content creators (public officers in comms and marketing, policy officers and IT department) as well as software vendors who partner government agencies (b) content consumers  (Singaporean citizens from all walks of life who visit Isomer-built websites)
-
- 
 In addition to the Gov.sg and Ministry of Health websites, citizens are also able to access the chatbot via Facebook Messenger and Telegram:
 
  - [Gov.sg](https://www.gov.sg)
@@ -26,14 +26,12 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](https://www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](https://www.go.gov.sg/askjamiebottg)
  
- ![accessibility](isomer-logo - Lisa T.png)
+ ![covid](/images/askjamie-covid.png)
  
 ### **COVID-19 Chat for Biz**
-
 This chatbot addresses questions from businesses related to COVID-19, including information on measures to help businesses in Budget 2020.
  
 Businesses can access the chatbot at [www.go.gov.sg/businessconnect](https://www.go.gov.sg/businessconnect).
-
 The chatbot is developed by GovTech in collaboration with the Ministry of Trade and Industry (MTI).
 
 ### **COVID-19 GoBusiness portal**
@@ -41,7 +39,6 @@ The chatbot is developed by GovTech in collaboration with the Ministry of Trade 
 Together with Ministry of Trade and Industry and Ministry of Manpower, we have launched the Covid GoBusiness portal to support the application, approval and management process for businesses applying for essential worker permits, and to assist officers with enforcement and identification of such workers. More at: Covid.gobusiness.gov.sg.
 
 ### **COVID-19 Situation Report**
-
 The COVID-19 Situation Report dashboard presents the key statistics and figures on the current situation in Singapore. The solution is developed by GovTech in collaboration with the Ministry of Health.
 
 To learn more, visit [https://covidsitrep.moh.gov.sg](https://covidsitrep.moh.gov.sg)
@@ -53,7 +50,6 @@ FluGoWhere is a website to conveniently and easily search through a list of Publ
 Citizens can access the website via [www.FluGoWhere.gov.sg](https://www.FluGoWhere.gov.sg).
 
 The website is developed by GovTech in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
-
 ![MGW](/images/programmes/products-and-services/fgw.png)
 
 ### **Gov.sg WhatsApp**
@@ -63,7 +59,6 @@ The official Gov.sg WhatsApp account provides citizens with timely and trusted u
 Citizens can subscribe to updates by registering at [www.go.gov.sg/Whatsapp](https://www.go.gov.sg/Whatsapp).
 
 ### **MaskGoWhere**
-
 MaskGoWhere is a website that helps Singaporean households find the designated location, day and time to collect their allocation of masks. GovTech engineers have been making progressive updates and improvements to the website based on the latest available information and insights gathered through real-time user feedback function embedded within the website.
 
 Citizens can access the website via [www.MaskGoWhere.gov.sg](https://www.MaskGoWhere.gov.sg).
@@ -79,7 +74,6 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 The Leave of Absence & Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
  
 The solution is developed by GovTech.
-
 ![covid](/images/shn-covid.jpg)
 
 ### **SafeEntry**
@@ -87,7 +81,6 @@ The solution is developed by GovTech.
 Developed by GovTech, SafeEntry is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services.
 
 SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
-
 ![covid-safeentry](/images/programmes/products-and-services/safeentry.png)
 
 ### **Self-help Temperature Scanner**
@@ -105,13 +98,11 @@ Through the exchange of short-distance Bluetooth signals between mobile phones w
 If a user is interviewed by a contact tracer for activity mapping, he can authorise the uploading of his TraceTogether data to Ministry of Health (MOH). MOH will then decipher the data and get the mobile numbers of the user’s close contacts within a period of time. This facilitates the contact tracing process, and enables contact tracers to inform close contacts of confirmed cases more expeditiously.
  
 To learn more about the app, visit [www.TraceTogether.gov.sg](https://www.tracetogether.gov.sg)
-
 The app is developed by the GovTech and MOH.
 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/buj8ZTRtJes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ### **VigilantGantry**
 
@@ -120,5 +111,4 @@ Developed by GovTech, VigilantGantry is an AI-driven automated temperature scree
 An alert will sound once the system has detected an abnormal temperature. This is especially useful for high traffic volume sites and detection of symptomatic cases. VigilantGantry is modular and can be easily integrated with off-the-shelf electronics, existing thermal systems and mobile optical cameras. If required, the solution is also able to interface with facial recognition solutions for contact tracing.
 
 A trial at the National University of Singapore (NUS) showed significant improvements to the temperature screening process, with an average of 2 seconds of waiting time per visitor. This is an improvement from the previous temperature screening process involving the use of hand-held thermometers, which can take up to 1 minute per visitor. 
-
 GovTech plans to open-source VigilantGantry’s source codes for the industry to scale and deploy to different sites across Singapore.

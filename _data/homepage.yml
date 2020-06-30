@@ -25,7 +25,6 @@ hero-banner: /images/hero-banner-covid.jpg
 button:
   - text: Learn More
     url: /products-and-services/responding-to-covid-19-with-tech/?utm_source=hero_banner
-    external: false
     
 # Key Highlights
 key-highlights:
