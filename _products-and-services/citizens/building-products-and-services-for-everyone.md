@@ -9,7 +9,7 @@ tag: citizens
 When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
 ---
 
-###**Here's some GovTech products with strong accessibility points:**
+### **Here's some GovTech products with strong accessibility points:**
 
 ![accessibility SPM](/images/SingPassLogo.JPG)
 **SingPass Mobile**
