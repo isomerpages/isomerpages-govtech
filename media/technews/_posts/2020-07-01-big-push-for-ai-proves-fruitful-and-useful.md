@@ -40,6 +40,11 @@ The software can detect and screen the temperatures of those wearing caps or ite
 
 Another key feature: Its thermal scanner is designed to be modular so that industries from the private sector can easily incorporate the technology and [open-source software](https://github.com/dsaidgovsg/vigilantgantry) into existing infrastructure, such as gated entrances of venues.
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4quAADmKs40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 Developed by the Government Technology Agency (GovTech), VigilantGantry was tested at the National University of Singapore before being piloted at Changi Exhibition Centre. 
 
 The exhibition centre had, on April 25, been repurposed into an integrated community care and recovery facility for recovering or mildly symptomatic Covid-19 patients.
@@ -53,6 +58,11 @@ GovTech also developed SPOTON, a mass temperature screening solution for venues 
 SPOTON can screen the temperatures of up to 10 people at once. It was first tested at NTUC Club’s Downtown East and has been deployed at several buildings, including the Supreme Court and Parliament House.
 
 The Islamic Religious Council of Singapore (Muis), Housing and Development Board and JTC Corporation have also used SPOTON for their operations.
+
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/q7LykdDqdFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 With GovTech’s plans to license SPOTON’s software, companies from the private sector will soon be able to include the proprietary software in their existing thermal scanning solutions.
 
