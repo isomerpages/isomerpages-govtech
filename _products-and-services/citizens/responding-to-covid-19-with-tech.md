@@ -58,7 +58,26 @@ The official Gov.sg WhatsApp account provides citizens with timely and trusted u
 
 Citizens can subscribe to updates by registering at [www.go.gov.sg/Whatsapp](https://www.go.gov.sg/Whatsapp).
 
+### **MaskGoWhere**
+MaskGoWhere is a website that helps Singaporean households find the designated location, day and time to collect their allocation of masks. GovTech engineers have been making progressive updates and improvements to the website based on the latest available information and insights gathered through real-time user feedback function embedded within the website.
+
+Citizens can access the website via [www.MaskGoWhere.gov.sg](https://www.MaskGoWhere.gov.sg).
+
+The website is developed by the Government Technology Agency (GovTech) in collaboration with several Government agencies including the Ministry of Communications and Information (MCI), Ministry of Health (MOH) and People’s Association (PA).
+
+(*The mask collection exercise has concluded as of 29 February 2020.*)
+
+![MGW](/images/programmes/products-and-services/mgw.png)
+ 
+### **Leave of Absence & Stay-Home Notice Tracking Solution**
+
+The Leave of Absence & Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
+ 
+The solution is developed by GovTech.
+![covid](/images/shn-covid.jpg)
+
 ### **SafeEntry**
+
 Developed by GovTech, SafeEntry is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services.
 
 SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
