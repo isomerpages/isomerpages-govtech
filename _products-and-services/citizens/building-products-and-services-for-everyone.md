@@ -49,5 +49,11 @@ MyCareersFuture helps match jobseekers to suitable employers and job opportuniti
  - The primary intention was to support jobseekers in need of help such as mature Professionals, Managers, Executives, Technicians (PMETs) or mid-career switchers but we are really open to all citizens and PRs.
  - We also serve employers who are looking to hire locals for their jobs.
  
+ **What has the team done to make MCF more inclusive?** 
+ 
+ - Linters are used to automatically flag issues that can reliably be detected in that way e.g an image without the alt attribute, or a "button" implemented using <div onclick=... /> which prevents it from being activated using a keyboard.
+ - The team required accessibility as an acceptance criteria of new features e.g, the ability to navigate a list of notifications via a keyboard, triggering them and marking them read.
+ - Holding informal audits to see if important user flows can be accomplished with a keyboard, and fixing critical bugs.
+ 
  ![accessibility MCF](/images/Screenshot 2020-06-09 at 1.15.05 PM - Yvonne Chia.png)
 
