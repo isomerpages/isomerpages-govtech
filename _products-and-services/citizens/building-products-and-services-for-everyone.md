@@ -2,7 +2,6 @@
 layout: simple-page
 title: "Designing for the 100%: We build for everybody and prioritise accessibility"
 permalink: /products-and-services/building-products-and-services-for-everyone/
-breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
 ---
