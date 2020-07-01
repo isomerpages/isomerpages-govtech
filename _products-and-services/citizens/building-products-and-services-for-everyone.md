@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Designing for the 100%: We build for everybody and prioritise accessibility
+title: Designing for the all: We build for everybody and prioritise accessibility
 permalink: /products-and-services/building-products-and-services-for-everyone/
 breadcrumb: Designing for 100%
 collection_name: products-and-services
