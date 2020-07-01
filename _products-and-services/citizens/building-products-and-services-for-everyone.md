@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Designing for the all: We build for everybody and prioritise accessibility
+title: We build for everybody and prioritise accessibility
 permalink: /products-and-services/building-products-and-services-for-everyone/
 breadcrumb: Designing for 100%
 collection_name: products-and-services
@@ -8,10 +8,11 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/test.jpg  
 ---
 
+
 When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
 ---
 
-### **Here's some GovTech products with strong accessibility features:**
+### **Here's some GovTech products with strong accessibility features**
 
 ![accessibility SPM](/images/SingPassLogo.JPG)
 
