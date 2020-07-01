@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: We build for everybody and prioritise accessibility
+title: We build for everyone
 permalink: /products-and-services/building-products-and-services-for-everyone/
 breadcrumb: Designing for 100%
 collection_name: products-and-services
@@ -25,7 +25,9 @@ SingPass Mobile is a mobile app that is designed to make transacting with govern
  - Using QR Login, users can scan a QR code and verify their identity with biometrics or a 6-digit pin code. This helps users with dexterity issues transact with ease and reduces the need to remember long passwords.
  - Shortcuts to commonly used services within the app ensures no mistyping of URLs when visiting different government digital services
  - The team also enabled high contrast for improved legibility and readability when using the app
- - [SafeEntry](www.safeentry.gov.sg) features in the app was developed with accessibility in mind, and tested extensively with VoiceOver and Voice Control for the visually and physically handicapped respectively.
+ - SafeEntry(www.safeentry.gov.sg) features in the app was developed with accessibility in mind, and tested extensively with VoiceOver and Voice Control for the visually and physically handicapped respectively.
+
+![accessibility Isomer](/images/isomer-logo - Lisa T.png)
 
 **Isomer**
 
@@ -44,6 +46,8 @@ For example, the Isomer template provides a selection of predefined font sizes a
 
  - While the team was not able to set the use of alternate text for images or a minimum color contrast ratio, they overcame these challenges by creating documentation guides for easy referencing of accessibility guidelines.
 
+![accessibility SGDS](/images/logo_sgds - Daren Ng.jpg)
+
  **Singapore Government Design System (SGDS)**
 
 The Singapore Government Design System (SGDS) was developed to unite teams in creating fast, accessible and mobile friendly digital services with a common set of UI components that comply to the Digital Service Standards.
@@ -57,7 +61,9 @@ Government Agency Users, Vendors and the Public (to a certain extent, everything
  - Baseline accessibility checks along with the team’s own a11y tool.
  - Created patterns with base accessibility built in.
  - Provided guidelines to help users.
- 
+
+![accessibility MCF](/images/Screenshot 2020-06-09 at 1.15.05 PM - Yvonne Chia.png)
+
 **MyCareersFuture (MCF)**
 
 MyCareersFuture helps match jobseekers to suitable employers and job opportunities based on their skills.
