@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Nation and Digital Government Industry Briefing 2020 -  Re-Engineering the Government Operating System"
-permalink: "/media/technews/Re-Engineering the Government Operating System"
+permalink: "/media/technews/re-engineering-the-government-operating-system"
 category: technews
 image: ""
 ---
