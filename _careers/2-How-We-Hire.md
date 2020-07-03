@@ -79,4 +79,4 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 3) Thereafter, you can expect to start your adventure as a GovTechie.
 
 
-If you’re ready to start the process, click [here](https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl). Good luck!
+If you’re ready to start the process, click [here](https://go.gov.sg/govtechjobs). Good luck!
