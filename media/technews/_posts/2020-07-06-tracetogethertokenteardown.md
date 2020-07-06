@@ -22,9 +22,7 @@ There are only four types of data contained in the token: the Bluetooth signal, 
 “The reason why we wanted such a simple device was to assure everybody that it is not a tracking device,” said Mr Chan. “The device is so small that it stores only about 25 days of data.” 
 .
 
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://youtu.be/Wg5qjUDQHgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wg5qjUDQHgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### **“Tear down” the token!**
