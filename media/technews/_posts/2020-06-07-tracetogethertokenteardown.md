@@ -8,10 +8,10 @@ image: "/images/technews/tracetogethertokenteardown1.jpg"
 
 ![Improving TraceTogether through community engagement](/images/technews/tracetogethertokenteardown1.jpg)
 
-At a recent GovTech engagement session, several expert from Singapore’s tech community came forward to “tear down” the TraceTogether token and give feedback for improvement. 
+At a recent GovTech engagement session, several experts from Singapore’s tech community came forward to “tear down” the TraceTogether token and give feedback for improvement. 
 ---
 
-On 28 June 2020, the Government began the distribution of the TraceTogether Token, catering first to the vulnerable seniors in the community. Nearly 10,000 tokens were given out to these seniors who are not digitally connected, and are physically frail, living alone or have poor family support. The TraceTogether Token supplements the TraceTogether mobile app – by extending contact tracing to groups in the community who do not have smart phones and those whose phones do not work well with the TraceTogether app.  
+On 28 June 2020, the [Government began the distribution of the TraceTogether Token](https://www.sgpc.gov.sg/sgpcmedia/media_releases/sndgo/press_release/P-20200628-2/attachment/Media%20Release%20-%20Seniors%20to%20receive%20first%20batch%20of%20TraceTogether%20Tokens%2028062020.pdf), catering first to the vulnerable seniors in the community. Nearly 10,000 tokens were given out to these seniors who are not digitally connected, and are physically frail, living alone or have poor family support. The TraceTogether Token supplements the TraceTogether mobile app – by extending contact tracing to groups in the community [who do not have smart phones and those whose phones do not work well with the TraceTogether app.](https://www.tech.gov.sg/media/technews/two-reasons-why-singapore-sticking-with-tracetogether-protocol)  
 
 ### **The tale of the token**
 
@@ -26,17 +26,18 @@ There are only four types of data contained in the token: the Bluetooth signal, 
   <iframe width="560" height="315" src="https://youtu.be/Wg5qjUDQHgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ### **“Tear down” the token!**
 
-When plans for the TraceTogether Token were first announced, there were public concerns over privacy, with some worried that it could be used as a location tracking device. To allay public fears, as well as to improve future iterations of the token, the Government Technology Agency (GovTech) organised a “tear down” event on 19 Jun with four experts and open-source advocates—giving them a first look at the TraceTogether Token.  
+When plans for the TraceTogether Token were first announced, there were public concerns over privacy, with some worried that it could be used as a location tracking device. To allay public fears, as well as to improve future iterations of the token, the Government Technology Agency (GovTech) organised a [“tear down” event](https://www.facebook.com/Vivian.Balakrishnan.Sg/posts/10156902734466207?__xts__%5B0%5D=68.ARDZuC1cYDuUuW2xB6i5nlD4uievD9cO9tjnvyjenNKzCCFzEALdcjkLEOY-1VharDTcIGhBtZIkDd8gfaheJod7cZCXMkmCwdWuspyUmt4Bq1ovUggfTvNFanXjiQ16nby5wRME9dlTrxV-jcnjH07rUOigYJl11oqEcKtVBxTzUCziTR81_U9oXzGi7QoCs2xMW4675Iz4LVOJP7TI0VtMT-RTKT6sLxb1RIeAanRCcI50UPdpJQXdIyFcqHpYZEJkWjmuWVzSGStRzLYP8DRGun_jrxkriS_t4UcCK8CjX-buYFKAQFcbpztmIz86xTMOyW3lP33wo_7GMtwf53UkKhSPLfDIy4UxH_9zpci7IMh966INRN17JwkFjZfNZkBpLu3KqL8nHnBVCodU4TL_Tdjhc2EPxwD81XGVAeG7PBq3rj1eFPYTPx0RNwg4UPHqntcMNBp9pf0FhX8hczoaURVY4cd5B1YRJ2s6&__tn__=H-R) on 19 Jun with four experts and open-source advocates—giving them a first look at the TraceTogether Token.  
 
-These experts included: hardware hacker Dr Andrew ‘bunnie’ Huang; firmware developer Mr Sean ‘xobs’ Cross; Mr Roland Turner, Chief Privacy Officer of relationship analytics provider TrustSphere; and Mr Harish Pillay, Chief Technology Architect at open-source software provider Red Hat. They were joined by the Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan and Minister-in-Charge of GovTech, Dr Janil Puthucheary.
+These experts included: hardware hacker Dr Andrew ‘bunnie’ Huang; firmware developer Mr Sean ‘xobs’ Cross; Mr Roland Turner, Chief Privacy Officer of relationship analytics provider [TrustSphere](https://www.trustsphere.com/); and Mr Harish Pillay, Chief Technology Architect at open-source software provider [Red Hat](https://www.redhat.com/en). They were joined by the Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan and Minister-in-Charge of GovTech, Dr Janil Puthucheary.
 
 After an hour of probing the Token and its components, the four tech experts were unanimous in their observations that the Token would only perform what it was set out to do.
 
 According to Dr Huang, GovTech’s TraceTogether Token is remarkably similar to a privacy-preserving contact tracing token he had previously designed with Mr Cross. “There were no surprises,” said Dr Huang. “If our inference [about its chip] is correct, we can safely say the Token cannot do anything other than Bluetooth-related activities. It cannot do GPS, Wi-Fi or cellular. It can’t sense your orientation or record your conversations.” Mr Turner agreed with Dr Huang’s observation. “The Token contains only the components required to do the job,” he added. 
 
-Perhaps the most compelling piece of evidence that the Token does not compromise privacy lies in the battery. “If the Token is to last several months on such a tiny battery, there is simply not enough power available to operate beyond the advertised Bluetooth functions,” commented Dr Huang in a blog post. “The battery would only last a few hours if it were receiving GPS or communicating via Wi-Fi,” stated Mr Cross on his website. “There are also no additional sensors such as an accelerometer, pressure sensor, or microphone.”
+Perhaps the most compelling piece of evidence that the Token does not compromise privacy lies in the battery. “If the Token is to last several months on such a tiny battery, there is simply not enough power available to operate beyond the advertised Bluetooth functions,” [commented Dr Huang in a blog post](https://www.bunniestudios.com/blog/?p=5820). “The battery would only last a few hours if it were receiving GPS or communicating via Wi-Fi,” [stated Mr Cross on his website](https://xobs.io/trace-together-token-teardown/). “There are also no additional sensors such as an accelerometer, pressure sensor, or microphone.”
 
 ## **Learning from the community**
 
