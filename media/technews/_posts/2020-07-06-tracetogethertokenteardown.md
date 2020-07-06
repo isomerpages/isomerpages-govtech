@@ -39,7 +39,7 @@ According to Dr Huang, GovTech’s TraceTogether Token is remarkably similar to 
 
 Perhaps the most compelling piece of evidence that the Token does not compromise privacy lies in the battery. “If the Token is to last several months on such a tiny battery, there is simply not enough power available to operate beyond the advertised Bluetooth functions,” [commented Dr Huang in a blog post](https://www.bunniestudios.com/blog/?p=5820). “The battery would only last a few hours if it were receiving GPS or communicating via Wi-Fi,” [stated Mr Cross on his website](https://xobs.io/trace-together-token-teardown/). “There are also no additional sensors such as an accelerometer, pressure sensor, or microphone.”
 
-## **Learning from the community**
+## **Learning from the community** ##
 
 To further strengthen community engagement and co-creation, Mr Chan shared that the GovTech team will be holding a hackathon to further improve the Token. “It’s about learning from the community,” he explained. “If you suggest better ways, we’ll adopt it and we will keep revising and improving our algorithms and firmware.” 
 
