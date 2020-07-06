@@ -35,7 +35,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![Alternative text for screen readers](/images/careers/Internship_Infographic.png)   
 
 #### **How can you apply?**
-We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://govtech.taleo.net/careersection/govtech_internship/jobsearch.ftl)
+We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://go.gov.sg/govtechjobs)
 
 ### **Technology Associate Programme**
 An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
@@ -43,7 +43,7 @@ An exclusive leadership-trainee programme, TAP is designed to sharpen and develo
 ![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
 
 #### **How can you apply?**
-Applications are open from September to January. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! [Apply Now!](https://govtech.taleo.net/careersection/govtech_external/jobdetail.ftl?job=01UW6&tz=GMT%2B08%3A00)
+Applications are open from September to January. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! [Apply Now!](https://go.gov.sg/govtechjobs)
 
 
 To receive updates about our Young Talent programmes, join our [community](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
