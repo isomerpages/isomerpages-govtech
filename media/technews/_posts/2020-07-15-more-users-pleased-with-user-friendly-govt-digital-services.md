@@ -9,11 +9,14 @@ image: "/images/technews/more_users_satisfied_digital_serivces1.jpg"
  
 ---
 
+Satisfaction survey scores among Singaporeans and businesses increased by eight percentage points in 2019 from a year earlier, the highest since 2012.
+
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/C3VHomNg3lQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 *GovTech's chief executive Kok Ping Soon shares how the Government is making a bigger push this year to improve its digital services for citizens and businesses. VIDEO: GOVTECH*
+
 
 More Singaporeans are using government digital services and giving them the thumbs-up, just two years after the implementation of the Digital Government Blueprint. 
 The five-year plan, launched in June 2018, outlines how the Government will better leverage data and harness new technologies to improve lives.
@@ -91,4 +94,4 @@ He noted that the Government’s ongoing digital transformation is key to a bett
 
 “We want to hem in these new possibilities to create a more digitally empowered nation and redefine the future of government operations and services in Singapore. By humanising the front end, engaging the community and modernising the back end, we will re-engineer the Government’s operating system to create better services for citizens and businesses.”
 
-*This article is the last of a five-part series by GovTech on the re-engineering of the Government's operating system to provide faster and better public services.*
+*This article is the last of a five-part series by GovTech on the re-engineering of the Government's operating system to provide faster and better public services.*( https://www.tech.gov.sg/media/events/ib2020)
