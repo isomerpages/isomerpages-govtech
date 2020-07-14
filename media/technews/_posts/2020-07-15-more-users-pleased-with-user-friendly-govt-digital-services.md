@@ -94,4 +94,4 @@ He noted that the Government’s ongoing digital transformation is key to a bett
 
 “We want to hem in these new possibilities to create a more digitally empowered nation and redefine the future of government operations and services in Singapore. By humanising the front end, engaging the community and modernising the back end, we will re-engineer the Government’s operating system to create better services for citizens and businesses.”
 
-*This article is the last of a five-part series by GovTech on the re-engineering of the Government's operating system to provide faster and better public services.*( https://www.tech.gov.sg/media/events/ib2020)
+*[This article is the last of a five-part series by GovTech on the re-engineering of the Government's operating system to provide faster and better public services.]( https://www.tech.gov.sg/media/events/ib2020)
