@@ -6,11 +6,10 @@ category: technews
 image: "/images/technews/more_users_satisfied_digital_serivces1.jpg"
 ---
 
- 
----
 
 **Satisfaction survey scores among Singaporeans and businesses increased by eight percentage points in 2019 from a year earlier, the highest since 2012.**
 
+---
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/C3VHomNg3lQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
