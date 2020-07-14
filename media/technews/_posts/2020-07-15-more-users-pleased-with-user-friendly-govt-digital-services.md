@@ -36,7 +36,7 @@ GovTech will be refreshing several apps that Singaporeans have come to rely on, 
 In the second half of the year, GovTech will offer more application programming interfaces (API) for integration. These include digital signing, [biometrics-as-a-service](https://www.straitstimes.com/tech/fingerprint-facial-id-for-singpass-authentication), remote authorisation and  MyInfo Business.
 
 APIs allow digital applications to communicate with one another and enable seamless data sharing among organisations.
-Over 100 businesses have integrated with the National Digital Identity (ndi) platform via GovTech’s [ndi APIs](https://www.ndi-api.gov.sg/since 2018). The platform is designed to provide more convenience and security for citizens transacting online.
+Over 100 businesses have integrated with the National Digital Identity (ndi) platform via GovTech’s [ndi APIs](https://www.ndi-api.gov.sg/) since 2018. The platform is designed to provide more convenience and security for citizens transacting online.
 
 According to GovTech, close to 450,000 transactions are made on the platform each month. The agency added that businesses in sectors like banking, insurance, power supply and online retail have reported higher customer acquisition rates and quicker transactions, with an 80 per cent reduction in transaction time.
 
