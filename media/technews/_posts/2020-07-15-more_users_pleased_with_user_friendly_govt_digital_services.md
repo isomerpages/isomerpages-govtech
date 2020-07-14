@@ -33,12 +33,6 @@ A minimum viable product refers to an early version of a product that is created
 
 It will also refresh several apps that Singaporeans have come to rely on, including SingPass Mobile, which is used by more than 1.5 million people, to make them even more useful. 
 
-
-![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces1.jpg)
-
-*GovTech will be refreshing several apps that Singaporeans have come to rely on, including SingPass Mobile which is used by more than 1.5 million people. PHOTO: GOVTECH*
-
-
 In the second half of the year, GovTech will offer more application programming interfaces (API) for integration. These include digital signing, [biometrics-as-a-service](https://www.straitstimes.com/tech/fingerprint-facial-id-for-singpass-authentication), remote authorisation and  MyInfo Business.
 
 APIs allow digital applications to communicate with one another and enable seamless data sharing among organisations.
