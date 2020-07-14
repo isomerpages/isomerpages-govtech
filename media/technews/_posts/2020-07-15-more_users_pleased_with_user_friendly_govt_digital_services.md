@@ -21,7 +21,6 @@ Satisfaction survey scores among Singaporeans and businesses increased by eight 
 More Singaporeans are using government digital services and giving them the thumbs-up, just two years after the implementation of the Digital Government Blueprint. 
 The five-year plan, launched in June 2018, outlines how the Government will better leverage data and harness new technologies to improve lives.
 
-
 In his keynote speech to wrap up GovTech’s five-week series, titled [Re-engineering the Government’s Operating System](https://www.straitstimes.com/reengineering-the-operating-system-of-the-government) released online today, Mr Kok Ping Soon, chief executive of the Government Technology Agency (GovTech), said that citizens’ and businesses’ satisfaction with government digital services had increased by eight percentage points in 2019 to reach 86 per cent and 77 per cent respectively. 
 
 This according to the Annual Digital Government Perception Survey, which was conducted by the Smart Nation and Digital Government Office and GovTech from November to December last year.
@@ -77,22 +76,21 @@ To nurture a vibrant tech ecosystem, the Government is improving the engineering
 
 “We are stepping up our recruitment efforts to fill over 400 active vacancies for software engineers, cybersecurity specialists, data scientists, business analysts and infrastructure specialists,” said Mr Kok, adding that more than 600 talents were engaged through tech hunts held in June.
 
-</br>
+
 ![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_services2.jpg)
 
 *Citizens can become Smart Nation Ambassadors to collect feedback on government agencies’ digital services and teach others basic digital skills. This photo was taken last year before safe distancing measures kicked in. PHOTO: SMART NATION AND DIGITAL GOVERNMENT OFFICE*
 
-</br>
 
 Citizens can also become [Smart Nation Ambassadors](https://www.smartnation.gov.sg/resources/scope/smart-nation-ambassador---faq) to help collect feedback on government agencies’ digital services and teach others, especially senior citizens, basic digital skills, such as how to connect to Wi-Fi hotspots and personalise accessibility tools on their mobile devices.
 
 “You can also join us as [Tech Kakis](https://www.tech.gov.sg/products-and-services/tech-kaki-community/) to improve our products to make them better for users. We value your contributions in any form as we build a Smart Nation together,” said Mr Kok 
 
-</br>
+
 ![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_services3.jpg)
-</br>
+
 *A Tech Kaki Live session where citizens get first dibs on new tech products or services before they go live. This photo was taken last year before safe distancing measures kicked in. PHOTO: GOVTECH*
-</br>
+
 
 He noted that the Government’s ongoing digital transformation is key to a better future for all. 
 “Many say that we are in the ‘new normal’, but I would like to think that we are in the ‘new possible’, where today’s circumstances have created new digitalisation possibilities in the way we live, work and transact,” he said. 
