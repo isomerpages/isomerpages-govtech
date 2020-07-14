@@ -109,6 +109,7 @@ Citizens can also become Smart Nation Ambassadors to help collect feedback on go
 
 “You can also join us as Tech Kakis to improve our products to make them better for users. We value your contributions in any form as we build a Smart Nation together,” said Mr Kok 
 
+</br>
 ![More users pleased with user-friendly govt digital services](images/technews/more_users_satisfied_digital_services3.jpg)
 
 *A Tech Kaki Live session where citizens get first dibs on new tech products or services before they go live. This photo was taken last year before safe distancing measures kicked in. PHOTO: GOVTECH*
