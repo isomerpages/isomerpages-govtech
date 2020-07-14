@@ -37,8 +37,10 @@ It will also refresh several apps that Singaporeans have come to rely on, includ
 
 
 ![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces1.jpg)
+
 *GovTech will be refreshing several apps that Singaporeans have come to rely on, including SingPass Mobile which is used by more than 1.5 million people. PHOTO: GOVTECH*
 
+</br>
 In the second half of the year, GovTech will offer more application programming interfaces (API) for integration. These include digital signing, biometrics-as-a-service, remote authorisation and  MyInfo Business.
 
 APIs allow digital applications to communicate with one another and enable seamless data sharing among organisations.
@@ -97,8 +99,19 @@ To nurture a vibrant tech ecosystem, the Government is improving the engineering
 
 “We are stepping up our recruitment efforts to fill over 400 active vacancies for software engineers, cybersecurity specialists, data scientists, business analysts and infrastructure specialists,” said Mr Kok, adding that more than 600 talents were engaged through tech hunts held in June.
 
-![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces3.jpg)
+</br>
+![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces2.jpg)
+
 *Citizens can become Smart Nation Ambassadors to collect feedback on government agencies’ digital services and teach others basic digital skills. This photo was taken last year before safe distancing measures kicked in. PHOTO: SMART NATION AND DIGITAL GOVERNMENT OFFICE*
+
+</br>
+Citizens can also become Smart Nation Ambassadors to help collect feedback on government agencies’ digital services and teach others, especially senior citizens, basic digital skills, such as how to connect to Wi-Fi hotspots and personalise accessibility tools on their mobile devices.
+
+“You can also join us as Tech Kakis to improve our products to make them better for users. We value your contributions in any form as we build a Smart Nation together,” said Mr Kok 
+
+![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces3.jpg)
+
+*A Tech Kaki Live session where citizens get first dibs on new tech products or services before they go live. This photo was taken last year before safe distancing measures kicked in. PHOTO: GOVTECH*
 
 He noted that the Government’s ongoing digital transformation is key to a better future for all. 
 “Many say that we are in the ‘new normal’, but I would like to think that we are in the ‘new possible’, where today’s circumstances have created new digitalisation possibilities in the way we live, work and transact,” he said. 
