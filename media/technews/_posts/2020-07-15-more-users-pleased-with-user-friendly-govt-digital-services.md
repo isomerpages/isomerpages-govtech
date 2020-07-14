@@ -6,9 +6,6 @@ category: technews
 image: "/images/technews/more_users_satisfied_digital_serivces1.jpg"
 ---
 
-![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces1.jpg)
-
-Satisfaction survey scores among Singaporeans and businesses increased by eight percentage points in 2019 from a year earlier, the highest since 2012.
  
 ---
 
@@ -32,6 +29,9 @@ About 1,500 businesses from 13 industry sectors, including manufacturing, transp
 A minimum viable product refers to an early version of a product that is created to test the product’s feasibility in an actual market scenario. The Government will spend [$3.5 billion this financial year](https://www.straitstimes.com/tech/govt-to-award-up-to-35b-in-ict-contracts-80-open-to-smes-this-year) to remake its operating systems and fund tech innovations to improve people’s lives. More than $118 million from this budget will be pumped into [information and communications](https://www.straitstimes.com/singapore/doubling-down-on-cloud-to-deliver-better-government-servicestechnology) projects to develop better citizen- and business-facing digital applications.
 
 It will also refresh several apps that Singaporeans have come to rely on, including SingPass Mobile, which is used by more than 1.5 million people, to make them even more useful. 
+
+![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_serivces1.jpg)
+GovTech will be refreshing several apps that Singaporeans have come to rely on, including SingPass Mobile which is used by more than 1.5 million people. PHOTO: GOVTECH
 
 In the second half of the year, GovTech will offer more application programming interfaces (API) for integration. These include digital signing, [biometrics-as-a-service](https://www.straitstimes.com/tech/fingerprint-facial-id-for-singpass-authentication), remote authorisation and  MyInfo Business.
 
