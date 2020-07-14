@@ -18,7 +18,6 @@ Satisfaction survey scores among Singaporeans and businesses increased by eight 
 
 *GovTech's chief executive Kok Ping Soon shares how the Government is making a bigger push this year to improve its digital services for citizens and businesses. VIDEO: GOVTECH*
 
-</br>
 More Singaporeans are using government digital services and giving them the thumbs-up, just two years after the implementation of the Digital Government Blueprint. 
 The five-year plan, launched in June 2018, outlines how the Government will better leverage data and harness new technologies to improve lives.
 
@@ -40,7 +39,7 @@ It will also refresh several apps that Singaporeans have come to rely on, includ
 
 *GovTech will be refreshing several apps that Singaporeans have come to rely on, including SingPass Mobile which is used by more than 1.5 million people. PHOTO: GOVTECH*
 
-</br>
+
 In the second half of the year, GovTech will offer more application programming interfaces (API) for integration. These include digital signing, [biometrics-as-a-service](https://www.straitstimes.com/tech/fingerprint-facial-id-for-singpass-authentication), remote authorisation and  MyInfo Business.
 
 APIs allow digital applications to communicate with one another and enable seamless data sharing among organisations.
