@@ -111,8 +111,8 @@ Citizens can also become Smart Nation Ambassadors to help collect feedback on go
 
 </br>
 ![More users pleased with user-friendly govt digital services](images/technews/more_users_satisfied_digital_services3.jpg)
-
 *A Tech Kaki Live session where citizens get first dibs on new tech products or services before they go live. This photo was taken last year before safe distancing measures kicked in. PHOTO: GOVTECH*
+</br>
 
 He noted that the Government’s ongoing digital transformation is key to a better future for all. 
 “Many say that we are in the ‘new normal’, but I would like to think that we are in the ‘new possible’, where today’s circumstances have created new digitalisation possibilities in the way we live, work and transact,” he said. 
