@@ -14,7 +14,6 @@ Satisfaction survey scores among Singaporeans and businesses increased by eight 
 
 *GovTech's chief executive Kok Ping Soon shares how the Government is making a bigger push this year to improve its digital services for citizens and businesses. VIDEO: GOVTECH*
 
-
 More Singaporeans are using government digital services and giving them the thumbs-up, just two years after the implementation of the Digital Government Blueprint. 
 The five-year plan, launched in June 2018, outlines how the Government will better leverage data and harness new technologies to improve lives.
 
@@ -74,7 +73,6 @@ To nurture a vibrant tech ecosystem, the Government is improving the engineering
 ![More users pleased with user-friendly govt digital services](/images/technews/more_users_satisfied_digital_services2.jpg)
 
 *Citizens can become Smart Nation Ambassadors to collect feedback on government agencies’ digital services and teach others basic digital skills. This photo was taken last year before safe distancing measures kicked in. PHOTO: SMART NATION AND DIGITAL GOVERNMENT OFFICE*
-
 
 Citizens can also become [Smart Nation Ambassadors](https://www.smartnation.gov.sg/resources/scope/smart-nation-ambassador---faq) to help collect feedback on government agencies’ digital services and teach others, especially senior citizens, basic digital skills, such as how to connect to Wi-Fi hotspots and personalise accessibility tools on their mobile devices.
 
