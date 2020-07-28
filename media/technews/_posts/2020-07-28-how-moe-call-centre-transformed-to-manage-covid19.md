@@ -21,7 +21,7 @@ So it’s no surprise that the MOE Call Centre (MOE CC) had to handle a surge in
 **Early April:** When full Home Based Learning (HBL) was announced, there was another surge of calls from parents asking about the scope of HBL, alternative childcare arrangements, definition of ‘essential services’ etc.
 
 
-### **MOE Call Centre adjusted to manage the sudden volume and accelerated our ability to WFH **
+### **MOE Call Centre adjusted to manage the sudden volume and accelerated our ability to WFH**
 
 On one hand, we wanted to enable our staff to be able to answer calls and serve our public customers from home, as this would mean reducing the risk of Covid-19 exposure for ourselves and our families. 
 
@@ -40,14 +40,14 @@ Our team could only carry out most of the system configuration work and testing 
 Our team worked round the clock, including weekends and public holidays, with daily conference calls (due to the COVID-19 situation) to meticulously resolve and track project progress which included end-to-end testing, validating results and fixing issues expeditiously and effectively through close collaboration. 
  
 
-### **Some useful learning points: **
+### **Some useful learning points:**
 
 ![MOE Call Centre Staff hard at work](/images/technews/moe-call-centre2.JPG)
 *Call Centre staff working from home without missing a beat. PHOTO: GOVTECH*
 
-**Always bring in the experts early –** the network team was brought in to join us in our daily teleconference with our vendors. This enabled more direct communication amongst the technical experts (both from MOE and vendors) which facilitated faster resolution of issues.
+**Always bring in the experts early** -  the network team was brought in to join us in our daily teleconference with our vendors. This enabled more direct communication amongst the technical experts (both from MOE and vendors) which facilitated faster resolution of issues.
  
-**Communicate with empathy -** Seeking to understand one another’s priorities, identify the conflicting ones and discuss, de-conflict and agree on the most viable option. Being able to discuss, and at times argue openly, objectively and focusing on the end goal would move the collaborative projects along quicker, and more productively. 
+**Communicate with empathy**  - Seeking to understand one another’s priorities, identify the conflicting ones and discuss, de-conflict and agree on the most viable option. Being able to discuss, and at times argue openly, objectively and focusing on the end goal would move the collaborative projects along quicker, and more productively. 
  
 **Purpose and teamwork** – having workdays that stretched till 2 am was definitely taxing on us, but two objectives kept us going.
  
