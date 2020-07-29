@@ -3,13 +3,13 @@ layout: post
 title: "How the MOE Call Centre transformed to manage COVID-19 head on"
 permalink: "/media/technews/How the MOE Call Centre transformed to manage COVID"
 category: technews
-image: "images/technews/moe-call-centre1.JPG"
+image: "images/technews/moe-call-centre2.JPG"
 ---
 
 As you already know, Singaporean parents are very involved in their children’s development. 
 ---
 
-![MOE Call Centre Transformation](/images/technews/moe-call-centre1.JPG)
+![MOE Call Centre Transformation](/images/technews/moe-call-centre2.JPG)
 *MOE call centre staff working from home due to the outbreak of Covid19. PHOTO: GovTech*
 
 So it’s no surprise that the MOE Call Centre (MOE CC) had to handle a surge in calls from parents and other stakeholders since the start of the COVID-19 pandemic. Just to give you an idea, here’s a rough summary of the nature of calls handled by MOE CC over the past few months:
@@ -42,7 +42,7 @@ Our team worked round the clock, including weekends and public holidays, with da
 
 ### **Some useful learning points:**
 
-![MOE Call Centre Staff hard at work](/images/technews/moe-call-centre2.JPG)
+![MOE Call Centre Staff hard at work](/images/technews/moe-call-centre3.JPG)
 *Call Centre staff working from home without missing a beat. PHOTO: GOVTECH*
 
 **Always bring in the experts early** -  The network team was brought in to join us in our daily teleconference with our vendors. This enabled more direct communication amongst the technical experts (both from MOE and vendors) which facilitated faster resolution of issues.
