@@ -3,13 +3,13 @@ layout: post
 title: "How the MOE Call Centre transformed to manage COVID-19 head on"
 permalink: "/media/technews/How the MOE Call Centre transformed to manage COVID"
 category: technews
-image: "images/technews/moe-call-centre1.JPG"
+image: "images/technews/moe-call-centre2.JPG"
 ---
 
 As you already know, Singaporean parents are very involved in their children’s development. 
 ---
 
-![MOE Call Centre Transformation](/images/technews/moe-call-centre1.JPG)
+![MOE Call Centre Transformation](/images/technews/moe-call-centre2.JPG)
 *MOE call centre staff working from home due to the outbreak of Covid19. PHOTO: GovTech*
 
 So it’s no surprise that the MOE Call Centre (MOE CC) had to handle a surge in calls from parents and other stakeholders since the start of the COVID-19 pandemic. Just to give you an idea, here’s a rough summary of the nature of calls handled by MOE CC over the past few months:
@@ -42,14 +42,14 @@ Our team worked round the clock, including weekends and public holidays, with da
 
 ### **Some useful learning points:**
 
-![MOE Call Centre Staff hard at work](/images/technews/moe-call-centre2.JPG)
+![MOE Call Centre Staff hard at work](/images/technews/moe-call-centre3.JPG)
 *Call Centre staff working from home without missing a beat. PHOTO: GOVTECH*
 
-**Always bring in the experts early** -  the network team was brought in to join us in our daily teleconference with our vendors. This enabled more direct communication amongst the technical experts (both from MOE and vendors) which facilitated faster resolution of issues.
+**Always bring in the experts early** -  The network team was brought in to join us in our daily teleconference with our vendors. This enabled more direct communication amongst the technical experts (both from MOE and vendors) which facilitated faster resolution of issues.
  
 **Communicate with empathy**  - Seeking to understand one another’s priorities, identify the conflicting ones and discuss, de-conflict and agree on the most viable option. Being able to discuss, and at times argue openly, objectively and focusing on the end goal would move the collaborative projects along quicker, and more productively. 
  
-**Purpose and teamwork** – having workdays that stretched till 2 am was definitely taxing on us, but two objectives kept us going.
+**Purpose and teamwork** – Having workdays that stretched till 2 am was definitely taxing on us, but two objectives kept us going.
  
 The first was that for every passing day that the solution was not in place, our frontline colleagues would have to commute into MOE to attend to calls from the public.  Now, more than ever, they needed to cater to the needs of their children who were undergoing home based learning and other family members during this challenging COVID-19 period. 
 The second was that, in times of crisis, maintaining communication with the public was paramount; and delivering reliable and consistent service was of utmost concern to assure the public. These were always at the top of our minds. 
