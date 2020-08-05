@@ -22,7 +22,7 @@ No NDP is complete without the parade. This year, the showcase this year will be
  - Red Lion's Landing Zones
  - SAF’s Mobile Column featuring everyone’s favourite military and civil defence vehicles 
 
-The NDP2020 Interactive Map (live from 7 August 2020) will be updated with the position of these elements so that you won’t miss the tanks as they rumble by your home or the fighter jets as they soar in formation above your HDB block. This is also the first time the elite Red Lions are parachuting into the heartlands, so check out if your neighbourhood is one of the landing sites.
+The NDP2020 Interactive Map (live from 7 August 2020) will be updated with the position of these elements so that you won’t miss the tanks as they rumble by your home or the fighter jets as they [soar in formation above your HDB block](https://www.youtube.com/watch?time_continue=8&v=oLIDds6RP6g&feature=emb_logo). This is also the first time the elite Red Lions are [parachuting into the heartlands](https://www.youtube.com/watch?v=mVO6Cl4eeQg&feature=emb_logo), so check out if your neighbourhood is one of the landing sites.
 
 That aside, there are also quite a few fringe activities unique to this year’s celebrations. Use the map to see what’s near you. Some of these include: 
 
@@ -40,19 +40,19 @@ You can also post your birthday wish for Singapore on the map on 9th August 2020
 
 ### **Highlight 2: Get your discounts**
 
-Every Singaporean loves a good bargain, and this year’s NDP discount booklet - featuring over 100 discounts - is going fully digital so there’s no more misplacing those coupons!
+Every Singaporean loves a good bargain, and this year’s [NDP discount booklet - featuring over 100 discounts - is going fully digital](https://discounts.life.gov.sg) so there’s no more misplacing those coupons!
 
 ![NDP 2020](/images/technews/ndp-part3.png)
 
 Choose discounts from a wide variety of categories such as food & beverages, grocery shopping, and local attractions like the Singapore Zoo and Sentosa. 
 
-(For those of you who have our Moments of Life app, you can also access the discount list there)
+(For those of you who have our [Moments of Life app](www.life.gov.sg), you can also access the discount list there)
 
 ### **Highlight 3: Connect with fellow Singaporeans through your stories**
 
 2020 has been a year of unprecedented challenges posed by the Covid-19 pandemic. A major component of this year’s NDP will capture the voices of Singaporeans coming together to overcome this hurdle. 
 
-Share your reflections on the impact these few months have had and express your thanks to the frontline and essential workers who are keeping Singapore ticking during these extraordinary times. These stories and messages of gratitude can be shared on Facebook or Instagram by using the #OurHeartForSG hashtag and tagging the NDPeeps accounts, or through the Our Heart For SG website. 
+Share your reflections on the impact these few months have had and express your thanks to the frontline and essential workers who are keeping Singapore ticking during these extraordinary times. These stories and messages of gratitude can be shared on Facebook or Instagram by using the #OurHeartForSG hashtag and tagging the NDPeeps accounts, or through the [Our Heart For SG website](https://www.ndp.gov.sg/ourheartforsg/overview). 
 
 ![NDP 2020](/images/technews/ndp-part4.png)
 
@@ -60,7 +60,7 @@ Share your reflections on the impact these few months have had and express your 
 
 Your contribution doesn’t have to be in the form of words or photos. Break out your singing voice and record your rendition of any NDP song or even an original composition. Your entry just might be shared on the NDPeeps YouTube, Facebook, and Instagram pages. 
 
-If singing is not your thing, there’s also the Fly Our Flag video that will be played on August 9. To take part, follow the steps in this TikTok video to record your birthday wishes to Singapore.  
+If singing is not your thing, there’s also the Fly Our Flag video that will be played on August 9. To take part, follow the steps in this [TikTok video](https://www.tiktok.com/@ndpeeps/video/6852242594542456065) to record your birthday wishes to Singapore.  
 
 ### **Painting the HDB towns red (and white)**
 
