@@ -56,7 +56,7 @@ Share your reflections on the impact these few months have had and express your 
 
 ![NDP 2020](/images/technews/ndp-part4.png)
 
-Highlight 4: Get featured on the parade’s social media!
+### **Highlight 4: Get featured on the parade’s social media!**
 
 Your contribution doesn’t have to be in the form of words or photos. Break out your singing voice and record your rendition of any NDP song or even an original composition. Your entry just might be shared on the NDPeeps YouTube, Facebook, and Instagram pages. 
 
