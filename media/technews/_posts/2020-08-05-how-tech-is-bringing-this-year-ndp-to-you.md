@@ -26,11 +26,11 @@ The NDP2020 Interactive Map (live from 7 August 2020) will be updated with the p
 
 That aside, there are also quite a few fringe activities unique to this year’s celebrations. Use the map to see what’s near you. Some of these include: 
 
-*Heritage and Culture light up*. 10 national monuments and arts and cultural institutions will be illuminated in red and white. Great for pictures! 
+**Heritage and Culture light up**. 10 national monuments and arts and cultural institutions will be illuminated in red and white. Great for pictures! 
 
-*Museum and Heritage Institution Open House Weekends*. Great opportunity to take stock of how far we’ve come – and inspiration for ideas on how to move forward. 
+**Museum and Heritage Institution Open House Weekends**. Great opportunity to take stock of how far we’ve come – and inspiration for ideas on how to move forward. 
 
-*The Flag of Unity*. A massive display of over 10,000 Singapore flags. This one’s at Siloso beach, so technically, you won’t need our map for it. 😂
+**The Flag of Unity. A massive display of over 10,000 Singapore flags**. This one’s at Siloso beach, so technically, you won’t need our map for it. 😂
 
 ![NDP 2020](/images/technews/ndp-part1.png)
 
