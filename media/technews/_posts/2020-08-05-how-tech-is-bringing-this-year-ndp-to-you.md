@@ -32,17 +32,17 @@ That aside, there are also quite a few fringe activities unique to this year’s
 
 *The Flag of Unity*. A massive display of over 10,000 Singapore flags. This one’s at Siloso beach, so technically, you won’t need our map for it. 😂
 
-![NDP 2020](/images/technews/ndp-part2.png)
+![NDP 2020](/images/technews/ndp-part1.png)
 
 You can also post your birthday wish for Singapore on the map on 9th August 2020 (all the way till 10pm) and be part of the collective celebrations all over the country. 
 
-![NDP 2020](/images/technews/ndp-part3.png)
+![NDP 2020](/images/technews/ndp-part2.png)
 
 ### **Highlight 2: Get your discounts**
 
 Every Singaporean loves a good bargain, and this year’s NDP discount booklet - featuring over 100 discounts - is going fully digital so there’s no more misplacing those coupons!
 
-![NDP 2020](/images/technews/ndp-part4.png)
+![NDP 2020](/images/technews/ndp-part3.png)
 
 Choose discounts from a wide variety of categories such as food & beverages, grocery shopping, and local attractions like the Singapore Zoo and Sentosa. 
 
@@ -54,7 +54,7 @@ Choose discounts from a wide variety of categories such as food & beverages, gro
 
 Share your reflections on the impact these few months have had and express your thanks to the frontline and essential workers who are keeping Singapore ticking during these extraordinary times. These stories and messages of gratitude can be shared on Facebook or Instagram by using the #OurHeartForSG hashtag and tagging the NDPeeps accounts, or through the Our Heart For SG website. 
 
-![NDP 2020](/images/technews/ndp-part5.png)
+![NDP 2020](/images/technews/ndp-part4.png)
 
 Highlight 4: Get featured on the parade’s social media!
 
