@@ -34,7 +34,7 @@ That aside, there are also quite a few fringe activities unique to this year’s
 
 ![NDP 2020](/images/technews/ndp-part5.png)
 
-You can also post your birthday wish for Singapore on the map on 9th August 2020 (all the way till 10pm) and be part of the collective celebrations all over the country. 
+You can also post your birthday wish for Singapore on the map (all the way till 10pm on 9 August 2020) and be part of the collective celebrations all over the country.
 
 ![NDP 2020](/images/technews/ndp-part2.png)
 
