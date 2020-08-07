@@ -3,7 +3,7 @@ layout: post
 title: "How tech is bringing this year’s NDP to you "
 permalink: "/media/technews/how-tech-is-bringing-this-year-ndp-to-you"
 category: technews
-image: "images/technews/ndp-part1.png"
+image: "images/technews/ndp-part5.png"
 ---
 
 You won’t be needing one of those coveted National Day Parade tickets to experience Singapore’s birthday celebrations this year. 
