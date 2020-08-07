@@ -3,7 +3,7 @@ layout: post
 title: "How tech is bringing this year’s NDP to you "
 permalink: "/media/technews/how-tech-is-bringing-this-year-ndp-to-you"
 category: technews
-image: "images/technews/ndp-part1.png"
+image: "images/technews/ndp-part5.png"
 ---
 
 You won’t be needing one of those coveted National Day Parade tickets to experience Singapore’s birthday celebrations this year. 
@@ -22,7 +22,7 @@ No NDP is complete without the parade. This year, the showcase this year will be
  - Red Lion's Landing Zones
  - SAF’s Mobile Column featuring everyone’s favourite military and civil defence vehicles 
 
-The NDP2020 Interactive Map (live from 7 August 2020) will be updated with the position of these elements so that you won’t miss the tanks as they rumble by your home or the fighter jets as they [soar in formation above your HDB block](https://www.youtube.com/watch?time_continue=8&v=oLIDds6RP6g&feature=emb_logo). This is also the first time the elite Red Lions are [parachuting into the heartlands](https://www.youtube.com/watch?v=mVO6Cl4eeQg&feature=emb_logo), so check out if your neighbourhood is one of the landing sites.
+The [NDP2020 Interactive Map](https://ndp2020.life.gov.sg) will be updated with the position of these elements so that you won't miss the tanks as they rumble by your home or the fireworks display if you live near one of these [10 locations](https://www.straitstimes.com/singapore/aug-9-fireworks-to-take-place-at-10-locations-islandwide). The elite Red Lions will also be [parachuting into the heartlands](https://www.youtube.com/watch?v=mVO6Cl4eeQg&feature=emb_logo), so check out if your neighbourhood is one of the landing sites.
 
 That aside, there are also quite a few fringe activities unique to this year’s celebrations. Use the map to see what’s near you. Some of these include: 
 
@@ -32,7 +32,7 @@ That aside, there are also quite a few fringe activities unique to this year’s
 
 **The Flag of Unity. A massive display of over 10,000 Singapore flags**. This one’s at Siloso beach, so technically, you won’t need our map for it. 😂
 
-![NDP 2020](/images/technews/ndp-part1.png)
+![NDP 2020](/images/technews/ndp-part5.png)
 
 You can also post your birthday wish for Singapore on the map on 9th August 2020 (all the way till 10pm) and be part of the collective celebrations all over the country. 
 
