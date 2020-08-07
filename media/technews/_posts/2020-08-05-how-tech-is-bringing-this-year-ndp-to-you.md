@@ -32,7 +32,7 @@ That aside, there are also quite a few fringe activities unique to this year’s
 
 **The Flag of Unity. A massive display of over 10,000 Singapore flags**. This one’s at Siloso beach, so technically, you won’t need our map for it. 😂
 
-![NDP 2020](/images/technews/ndp-part1.png)
+![NDP 2020](/images/technews/ndp-part5.png)
 
 You can also post your birthday wish for Singapore on the map on 9th August 2020 (all the way till 10pm) and be part of the collective celebrations all over the country. 
 
