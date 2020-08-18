@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: "LifeSG (formerly Momments of Life)"
+title: "LifeSG"
 permalink: /products-and-services/lifesg/
 breadcrumb: LifeSG
 collection_name: products-and-services
