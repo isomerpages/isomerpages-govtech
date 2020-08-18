@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: "Moments of Life"
-permalink: /products-and-services/moments-of-life/
-breadcrumb: Moments of Life
+title: "LifeSG (formerly Momments of Life)"
+permalink: /products-and-services/lifesg/
+breadcrumb: LifeSG
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/technews/lifesg-banner.png  
