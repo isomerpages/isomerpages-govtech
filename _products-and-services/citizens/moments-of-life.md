@@ -10,16 +10,16 @@ thumbnail_image: /images/technews/lifesg-banner.png
 
 ![Moments of Life is now LifeSG](/images/technews/lifesg-banner.png)
 
-The LifeSG app is a Smart Nation initiative that helps citizens access government services and information in one convenient place. We make government services more easy-to-use by personalising experiences, anticipating citizens’ needs and providing meaningful solutions on a single platform. With a simplified experience, citizens can save time and focus on the things that matter. 
+LifeSG (formerly Moments of Life)is one of the Strategic National Projects under Singapore’s Smart Nation initiative. Aimed at providing a suite of services to support citizens’ needs at key junctures by integrating and bundling services across government agencies, MOL was first made available as a mobile application in June 2018 to support families with young children below six years old. 
 
-### **Is the LifeSG app new?**
+Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. These include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). To date, the app has had more than 165,000 downloads. 
 
-Formerly known as Moments of Life, the app was launched in June 2018 to support families with young children and seniors. Currently, 7 in 10 Singaporean births have been registered with the app. 
+The app offers users more ready access to digital government services through the consolidation of personalised content. The app will include a new user interface with improved navigation, topical guides and the following features.
+
+ - Explore Services – Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively. The full list of services available on LifeSG can be found in Annex C.
+
+ - Personalised Dashboard – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator. 
  
-With the rebranding to LifeSG, we plan to expand and serve citizens beyond key moments in their lives. Users will see new interface with improved navigation, topical guides and the following features:
- 
- - Explore Services - a feature for citizens to access more than 40 government services and information easily. These services are grouped into simple and clear topics, such as family and parenting, work and employment, healthcare, and more. 
+Upcoming plans will include an improved dashboard to provide citizens with an overview of key personal information such as their CPF, housing, and education details. The app will also include upcoming medical and school appointments, and reminders that prompt users to complete important applications such as birth registration, baby bonus and primary school registration. 
 
- - Personal Dashboard – a dashboard with recommended content, notifications and action items for users to manage their applications and deadlines. 
-
-Over time, we hope to include more features and relevant digital services for citizens.Visit www.life.gov.sg for more information. 
+Visit www.life.gov.sg for more information. 
