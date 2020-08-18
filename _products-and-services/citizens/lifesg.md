@@ -16,7 +16,7 @@ Since then, the app has progressively added new features to serve citizens in ot
 
 LifeSG offers users more ready access to digital government services through the consolidation of personalised content. The app will include a new user interface with improved navigation, topical guides and the following features.
 
- - Explore Services – Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively. The full list of services available on LifeSG can be found in Annex C.
+ - Explore Services – Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively. 
 
  - Personalised Dashboard – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator. 
  
