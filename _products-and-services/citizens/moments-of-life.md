@@ -5,26 +5,21 @@ permalink: /products-and-services/moments-of-life/
 breadcrumb: Moments of Life
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg  
+thumbnail_image: /images/technews/lifesg-banner.png  
 ---
 
-![Moments of Life Unique selling proposition](/images/programmes/products-and-services/MOL-Landing-Page_Main.png)
+![Moments of Life is now LifeSG](/images/technews/lifesg-banner.png)
 
-Moments of Life is a mobile app that supports citizens' needs at key junctures by simplifying and bundling a suite of services and information into one single platform.
+The LifeSG app is a Smart Nation initiative that helps citizens access government services and information in one convenient place. We make government services more easy-to-use by personalising experiences, anticipating citizens’ needs and providing meaningful solutions on a single platform. With a simplified experience, citizens can save time and focus on the things that matter. 
 
-![Moments of Life Product Features](/images/programmes/products-and-services/mol-landing-page-june2020.png)
+### **Is the LifeSG app new?**
 
-Key features of the app are developed for: 
- - families with children aged 6 and below;
- - job seekers;
- - seniors aged 60 and above;
+Formerly known as Moments of Life, the app was launched in June 2018 to support families with young children and seniors. Currently, 7 in 10 Singaporean births have been registered with the app. 
+ 
+With the rebranding to LifeSG, we plan to expand and serve citizens beyond key moments in their lives. Users will see new interface with improved navigation, topical guides and the following features:
+ 
+ - Explore Services - a feature for citizens to access more than 40 government services and information easily. These services are grouped into simple and clear topics, such as family and parenting, work and employment, healthcare, and more. 
 
-A COVID-19 Curated Guide was launched in April 2020 to provide users with easy access to important COVID-19 information. The in-app guide offers useful resources such as information on the various COVID-19 assistance schemes announced by the government, health information, various government tools such as finding a PHPC doctor, community initiatives. 
+ - Personal Dashboard – a dashboard with recommended content, notifications and action items for users to manage their applications and deadlines. 
 
-The app is the first step towards delivering integrated services and information that citizens need, when they need it, through a single platform. It was developed based on insights gathered through citizen engagement sessions to identify and better understand users’ challenges and needs. 
-
-If you are viewing this on your mobile phone, download the app from the App Store or Google Play Store by clicking [here](https://momentsoflifeapp.page.link/ZH7o). 
-
-If you are viewing this on your desktop browser, scan this QR code to download.
-
-![Moments of Life Product Features](/images/programmes/products-and-services/mol-qrcode.png)
+Over time, we hope to include more features and relevant digital services for citizens.Visit www.life.gov.sg for more information. 
