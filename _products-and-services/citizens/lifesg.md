@@ -28,4 +28,4 @@ LifeSG offers users more ready access to digital government services through the
 
 Upcoming plans will include an improved dashboard to provide citizens with an overview of key personal information such as their CPF, housing, and education details. The app will also include upcoming medical and school appointments, and reminders that prompt users to complete important applications such as birth registration, baby bonus and primary school registration. 
 
-Visit www.life.gov.sg for more information. 
+Visit [www.life.gov.sg](https://www.life.gov.sg/) for more information. 
