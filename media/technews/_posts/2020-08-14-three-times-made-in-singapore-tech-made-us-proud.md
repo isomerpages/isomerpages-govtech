@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SG Tech Represent! Three Times made-in-Singapore tech made us proud!"
-permalink: "/media/technews/SG Tech Represent! Three Times made-in-Singapore tech made us proud!"
+permalink: "/media/technews/SG Tech Represent! Three Times made-in-Singapore tech made us proud"
 category: technews
 image: "images/technews/three-innovations-sg-1.jpg"
 ---
