@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TraceTogether Token Limited Tender Award: Media Statement"
-permalink: /media/media-releases/2020-06-16-tracetogether-token-media-statement-2
+permalink: /media/media-releases/2020-08-21-tracetogether-token-media-statement-2
 date: 2020-08-21
 ---
 
