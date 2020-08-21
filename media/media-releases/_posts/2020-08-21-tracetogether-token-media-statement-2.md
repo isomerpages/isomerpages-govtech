@@ -2,7 +2,7 @@
 layout: post
 title:  "TraceTogether Token Limited Tender Award: Media Statement"
 permalink: /media/media-releases/2020-06-16-tracetogether-token-media-statement-2
-date: 2020-06-16
+date: 2020-08-21
 ---
 
 ### **Design and Production of TraceTogether Token**
@@ -32,5 +32,3 @@ For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg). F
 <br>Communications & Marketing Group
 <br>Government Technology Agency of Singapore
 <br>Email: <tan_boon_leng@tech.gov.sg>
-
-2020-06-16-tracetogether-token-media-statement.md
