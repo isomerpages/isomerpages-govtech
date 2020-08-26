@@ -60,12 +60,6 @@ GovTech works with public agencies to develop and deliver secure digital service
 For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG and Twitter @GovTechSG.
 
 ### **For media clarification**
-Teresa TAN (Ms)
-<br>Manager, Communications and Marketing Group 
-<br>Government Technology Agency of Singapore
-<br>Tel: (65) 6211 1745 
-<br>Email: Teresa_Tan@tech.gov.sg
-<br>
 <br>TAN Boon Leng (Mr)
 <br>Manager, Communications and Marketing Group 
 <br>Government Technology Agency of Singapore
