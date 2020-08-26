@@ -6,7 +6,7 @@ category: technews
 image: "images/technews/getting-started-in-tech1.jpg"
 ---
 
-These days, tech is the new banking and finance.
+These days, people really want to get into the thriving tech sector. 
 
 Students are dreaming about being software engineers. Mid-career switchers are attending bootcamps in an attempt to get up to speed. For those of us who don’t have the luxury of time and background in the topic, it can be daunting to get started.  
 
