@@ -17,11 +17,9 @@ image: "/images/technews/se-development-story.png"
 ## "Which is the best app to scan the QR code?"
 
 ---
-
 These were some of the questions we received when we first started working on SafeEntry. 
 When the Multi-Ministry Taskforce announced on 23 April that SafeEntry should be deployed by businesses for essential services, the team received an influx of requests from businesses. 
 What started as a webform to replace paper contact tracing forms became a national system overnight. The pressure was greater than ever, when on 2 May, it was announced that all businesses and services that are in operation needed to come on board SafeEntry within the next 10 days! 
-
 
 ## We only had our experiences
 
@@ -31,9 +29,9 @@ THDS provided the web application which allowed individuals to check-in and chec
 
 
 
-<iframe width="560" height="315" src="https://youtu.be/Xk994lH-8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-SafeEntry developers talked about the challenges they faced, as well as what they thought on the memes that SafeEntry spawned!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xk994lH-8Dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+SafeEntry developers talked about the challenges they faced, as well as what they thought on the memes that SafeEntry spawned!
 
 ## Putting our users first 
 
@@ -51,15 +49,12 @@ There were also non-product related questions that we had to tackle, mainly invo
 2) Why it’s important to use SafeEntry?
 3) Is it a necessity to use SafeEntry?
 
-
 This challenge was made harder by the fact Singapore is made up of a diverse population and business ecosystem with different levels of digital literacy. Not everyone had smartphones, data plans, or could on-board digital solutions with ease. 
 Eventually to bridge this gap, we included a complimentary low-tech and yet, elegant solution – the scanning of barcodes on NRICs and IDs to bridge this gap. In total, that made  3 ways of checking in. 
 
 1) Scanning QR code with SingPass Mobile to determine your location
 2) Scan QR code and fill in personal details
 3) Use your NRIC or any official ID with barcode
-
-
 
 ## We adapt to our users’ changing needs 
 
@@ -71,7 +66,6 @@ We also noticed that some users preferred not to queue and scan QR codes, so the
 In preparation for Phase Two (Safe Transition), the team introduced a group check in function, after observing families with young children and elderly struggling to check in when they are out. <insert group check in link> 
 
 Thankfully, with the new features and everyone’s efforts to check in and out, [contact tracers can now use SafeEntry logs of locations](https://www.straitstimes.com/singapore/digital-tools-help-speed-up-contact-tracing-efforts-to-ring-fence-cases) that patients have been to, as reference in their contact tracing efforts. 
-
 
 ## What’s next, then? 
 
