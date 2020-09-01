@@ -49,16 +49,20 @@ SafeEntry is a national system which would potentially be used by up to 220,000 
 
 There were also non-product related questions that we had to tackle, mainly involving education and awareness. 
 
-1) How to use SafeEntry? 
-2) Why it’s important to use SafeEntry?
-3) Is it a necessity to use SafeEntry?
+- How to use SafeEntry? 
+
+- Why it’s important to use SafeEntry?
+
+- Is it a necessity to use SafeEntry?
 
 This challenge was made harder by the fact Singapore is made up of a diverse population and business ecosystem with different levels of digital literacy. Not everyone had smartphones, data plans, or could on-board digital solutions with ease. 
 
 Eventually to bridge this gap, we included a complimentary low-tech and yet, elegant solution – the scanning of barcodes on NRICs and IDs to bridge this gap. In total, that made  3 ways of checking in. 
 
 1) Scanning QR code with SingPass Mobile to determine your location
+
 2) Scan QR code and fill in personal details
+
 3) Use your NRIC or any official ID with barcode
 
 ## We adapt to our users’ changing needs 
@@ -83,13 +87,13 @@ But things are not done and dusted for us yet! While the team is encouraged by t
 
 Here are just some of the improvements that we are currently working on;
 
-1) Making it easier for individuals to find a venue
+-  Making it easier for individuals to find a venue
 
-2) Reducing the number of taps to check-in/out
+- Reducing the number of taps to check-in/out
 
-3) We are also working with other agencies to help individuals become more familiar with scanning QR codes and on how to use SafeEntry. 
+- We are also working with other agencies to help individuals become more familiar with scanning QR codes and on how to use SafeEntry
 
-4) Potential feature to display your risk exposure
+- Potential feature to display your risk exposure
 
 We expect to be rolling this out gradually over the next few months, so do keep an eye out for it! 
 
