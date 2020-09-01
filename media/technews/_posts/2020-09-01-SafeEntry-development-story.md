@@ -83,12 +83,13 @@ But things are not done and dusted for us yet! While the team is encouraged by t
 
 Here are just some of the improvements that we are currently working on;
 
-Making it easier for individuals to find a venue
+1) Making it easier for individuals to find a venue
 
-Reducing the number of taps to check-in/out
+2) Reducing the number of taps to check-in/out
 
-We are also working with other agencies to help individuals become more familiar with scanning QR codes and on how to use SafeEntry. 
-Potential feature to display your risk exposure
+3) We are also working with other agencies to help individuals become more familiar with scanning QR codes and on how to use SafeEntry. 
+
+4) Potential feature to display your risk exposure
 
 We expect to be rolling this out gradually over the next few months, so do keep an eye out for it! 
 
