@@ -9,7 +9,9 @@ image: "images/technews/lifesg-technews-part1.png"
 Last month, we launched [LifeSG](https://www.life.gov.sg/) – an upgraded, rebranded and enhanced version of the app formerly known as Moments of Life. At GovTech, we’re big believers of journaling, so instead of just sharing with you all the new features (they are plenty!), we thought we would also write about the process and the lessons we learned along the way.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLEpmxnWUCorl4wNgf4nMTK2A50_iRAnMZ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLEpmxnWUCorl4wNgf4nMTK2A50_iRAnMZ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### **LifeSG was first conceived for newborns**
 
