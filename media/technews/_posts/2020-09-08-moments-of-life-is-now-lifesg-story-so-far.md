@@ -62,7 +62,7 @@ For example, a working adult will receive information about employment support t
 
 You get the idea. 
 
-### **One app, over 40 services**
+### **2. One app, over 40 services**
 
 ![LifeSG personalisation](/images/technews/lifesg-technews-part4.png)
 *40+ services in one app! Trust us, this wasn’t easy to pull off.*
@@ -96,18 +96,4 @@ Because if there’s one thing we’ve learnt, it’s that user feedback is impo
 
 Sincerely, 
 The LifeSG development Team
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
