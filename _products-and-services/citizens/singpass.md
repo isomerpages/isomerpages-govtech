@@ -24,12 +24,13 @@ This Two-Factor authentication (2FA) method provides an additional layer of secu
 ![SingPass Mobile App](/images/SingPass Mobile app.png)
 
 Since its launch in 2018, we have been progressively adding more useful features to the SingPass Mobile app. This include one-tap access to commonly-used government digital services and a customisable profile where users always have their important information on hand.
+
 Beyond digital access, SingPass Mobile lets users prove their identity and provide personal information when transacting over the counters. Since December 2019, patients at Punggol Polyclinic and visitors to Republic Plaza are able to use their SingPass Mobile to register, in place of manual form filling.
 To support contact tracing efforts during the Covid-19 pandemic, SingPass Mobile was enhanced to enable users to perform faster SafeEntry check-ins. Users can choose to scan the SafeEntry QR code with the in-app scanner or search for their location on the app.
 
 As of August 2020, close to 1.9 million SingPass users are actively using SingPass Mobile. For even more convenient sign-ups, Face Verification has also been enabled in the app’s onboarding process. Users can now set up their SingPass Mobile app by simply using a face scan. This feature is particularly useful for users based overseas as they no longer need to wait for a physical PIN mailer or use their SMS-OTP before setting up SingPass Mobile.
 
-For more information, please visit go.gov.sg/spm.
+For more information, please visit [here](go.gov.sg/spm).
 
 ### **Accessible for everyone**
 
