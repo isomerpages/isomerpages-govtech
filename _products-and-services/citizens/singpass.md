@@ -17,6 +17,7 @@ Users can log in to digital services conveniently by:
 1. Using their fingerprint, face or an easy-to-remember password through their [SingPass Mobile app](go.gov.sg/spm); or 
 
 2. Entering their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS.
+
 This Two-Factor authentication (2FA) method provides an additional layer of security to better protect users’ personal data.
 
 ### **Seamless access to more services**
