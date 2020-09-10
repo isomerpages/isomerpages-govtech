@@ -39,10 +39,10 @@ Not only is SingPass designed with inclusiveness and accessibility from the star
 
 GovTech also works closely with the Infocomm Media Development Authority on educating users who may need more assistance on the use of SingPass Mobile. Download the multilingual guide on setting up and using SingPass Mobile here:
 
-English – go.gov.sg/spm-tipsheet-en
-中文 – go.gov.sg/spm-tipsheet-ch
-Melayu – go.gov.sg/spm-tipsheet-m
-தமிழ் – go.gov.sg/spm-tipsheet-t
+[English](go.gov.sg/spm-tipsheet-en)
+[中文](go.gov.sg/spm-tipsheet-ch)
+[Melayu](go.gov.sg/spm-tipsheet-m)
+[தமிழ்](go.gov.sg/spm-tipsheet-t)
 
 ### **Ever-improving Security Measures**
 
@@ -50,10 +50,3 @@ Along with 2FA, users should also play their part to protect their account and p
 - Do not share login information: Keep your SingPass ID, password and 2FA details confidential.
 - Do not re-use passwords: Certain websites that you access may not be secure. Log-in information may be stolen from these sites and used to hack your SingPass account.
 - Be aware of phishing sites: Some sites may look like government websites to trick you into disclosing your personal details. Always check that the URL is correct (www.singpass.gov.sg) with a ‘lock’ icon in the address bar.
-
-
-For more information:
-<br>
-Visit [www.singpassmobile.sg](https://singpassmobile.sg?utm_source=GovTech&utm_medium=website&utm_campaign=SPM2019)
-
-[SingPass Mobile - English Brouchure](/files/products-and-services/SingPass-Mobile-English-eBrochure.pdf){:target="_blank"}
