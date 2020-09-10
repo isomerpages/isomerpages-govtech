@@ -14,7 +14,7 @@ thumbnail_image: /images/programmes/products-and-services/SingPass-Thumbnail.jpg
 ### **Fast and convenient logins**
 
 Users can log in to digital services conveniently by:
-1. Using their fingerprint, face or an easy-to-remember password through their [SingPass Mobile app](go.gov.sg/spm){:target="_blank"}; or 
+1. Using their fingerprint, face or an easy-to-remember password through their [SingPass Mobile app](https://go.gov.sg/spm){:target="_blank"}; or 
 
 2. Entering their SingPass ID and password, followed by a One-Time Password (OTP) sent via SMS.
 
@@ -31,7 +31,7 @@ To support contact tracing efforts during the Covid-19 pandemic, SingPass Mobile
 
 As of August 2020, close to 1.9 million SingPass users are actively using SingPass Mobile. For even more convenient sign-ups, Face Verification has also been enabled in the app’s onboarding process. Users can now set up their SingPass Mobile app by simply using a face scan. This feature is particularly useful for users based overseas as they no longer need to wait for a physical PIN mailer or use their SMS-OTP before setting up SingPass Mobile.
 
-For more information, please visit [go.gov.sg/spm](go.gov.sg/spm){:target="_blank"}.
+For more information, please visit [go.gov.sg/spm](https://www.go.gov.sg/spm){:target="_blank"}.
 
 ### **Accessible for everyone**
 
@@ -41,10 +41,10 @@ Not only is SingPass designed with inclusiveness and accessibility from the star
 
 GovTech also works closely with the Infocomm Media Development Authority on educating users who may need more assistance on the use of SingPass Mobile. Download the multilingual guide on setting up and using SingPass Mobile here:
 
-- [English](go.gov.sg/spm-tipsheet-en){:target="_blank"}
-- [中文](go.gov.sg/spm-tipsheet-ch){:target="_blank"}
-- [Melayu](go.gov.sg/spm-tipsheet-m){:target="_blank"}
-- [தமிழ்](go.gov.sg/spm-tipsheet-t){:target="_blank"}
+- [English](https://www.go.gov.sg/spm-tipsheet-en){:target="_blank"}
+- [中文](https://www.go.gov.sg/spm-tipsheet-ch){:target="_blank"}
+- [Melayu](https://www.go.gov.sg/spm-tipsheet-m){:target="_blank"}
+- [தமிழ்](https://www.go.gov.sg/spm-tipsheet-t){:target="_blank"}
 
 ### **Ever-improving Security Measures**
 
