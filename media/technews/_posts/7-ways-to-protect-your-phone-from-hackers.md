@@ -6,15 +6,13 @@ category: technews
 image: "images/technews/7-ways-to-jaga-smartphone2.jpg"
 ---
 
-Many of us won’t think twice when it comes to downloading the latest security patches and software for our computers. 
-After all, having hackers attacking our computers is a horrifying thought.  
-
+We don’t think twice when it comes to downloading the latest security patches and software for our computers. After all, we know too well the danger that hackers pose. 
 ---
 
 ![What have you done to secure your smartphone?](/images/technews/7-ways-to-jaga-smartphone2.jpg)
 *What have you done to secure your smartphone? PHOTO: UNSPLASH.COM*
 
-But what have you done recently to secure your smartphone? This a device that contains info that is equally, if not more sensitive than the contents of our personal computers. For some of us, our entire lives live on our smartphones. 
+But what have you done recently to secure your smartphone or tablet? This a device that contains info that is equally, if not more sensitive than the contents of our personal computers. For some of us, our entire lives live on our smartphones. 
 
 As the usage of mobile devices continue to rise, hackers are now turning their attention to attacking smartphones and tablets with malicious software and malware. 
 
@@ -68,7 +66,9 @@ Because traffic on public WiFi connections can be easily intercepted, attackers 
 The solution here?  Use a trusted Public Wifi network (such as Wireless@SG) or create a hotspot via your smartphone. 
 
 ### **7. Do not click links from unknown emails **
-Sending an email with a malicious link is one of the oldest tricks in the hacker’s book. They’ll get you to click in by using attention grabbing email subjects, or even impersonate people you might know. 
+
+Sending an email with a malicious link is one of the oldest tricks in the hacker’s book. They’ll get you to click in by using attention grabbing email subjects, or even impersonate people you might know.
+
 With this click, malware can find their way into your device. So do not open that email if you think the source of the message is dodgy! 
 
 ### **Just like in real life,  cyber hygiene is important.**
