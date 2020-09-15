@@ -61,6 +61,7 @@ Otherwise just carry a good old power bank around.
 ### **6. Avoid public/untrusted WiFi connections**
 
 Tempted to join that password free public WiFi? Stop right there. This might be bait for someone trying to hack you.  
+
 Because traffic on public WiFi connections can be easily intercepted, attackers can modify data sent and install malware on your device.
 
 The solution here?  Use a trusted Public Wifi network (such as Wireless@SG) or create a hotspot via your smartphone. 
