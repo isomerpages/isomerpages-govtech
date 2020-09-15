@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven ways to protect your smartphone from hackers"
-permalink: "/media/technews/Seven ways to protect your smartphone from hackers"
+permalink: "/media/technews/Seven-ways-to-protect-your-smartphone-from-hackers"
 category: technews
 image: "images/technews/7-ways-to-jaga-smartphone2.jpg"
 ---
@@ -65,7 +65,7 @@ Because traffic on public WiFi connections can be easily intercepted, attackers 
 
 The solution here?  Use a trusted Public Wifi network (such as Wireless@SG) or create a hotspot via your smartphone. 
 
-### **7. Do not click links from unknown emails **
+### **7. Do not click links from unknown emails**
 
 Sending an email with a malicious link is one of the oldest tricks in the hacker’s book. They’ll get you to click in by using attention grabbing email subjects, or even impersonate people you might know.
 
