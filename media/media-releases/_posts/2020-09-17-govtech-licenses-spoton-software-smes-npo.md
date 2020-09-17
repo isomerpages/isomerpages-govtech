@@ -23,7 +23,7 @@ The Distributors will set their own selling prices but must comply with GovTechâ
 
 GovTech is currently working on a second version of the SPOTON software that will include more advanced features such as pose recognition, heart rate and oxygen saturation measurements. This version is expected to be ready in Q1 2021.
 
-[Annex B](files/Annex-b.pdf)
+[Annex B- Quotes by Distributors](files/Annex-b.pdf)
 
 ---
 
