@@ -2,7 +2,7 @@
 layout: post
 title:  "GovTech licenses “SPOTON” software to SMEs & NPO to produce smart thermal scanners"
 permalink: /media/media-releases/govtech-licenses-spoton-software-smes-npo
-date: 2020-08-21
+date: 2020-09-17
 ---
 
 As more venues reopen over the next few months, the public must remain vigilant and safeguard itself from COVID-19. Temperature monitoring for signs of fever is one of the key means to identify potential COVID-19 cases. For venues with high footfall such as shopping malls, offices and places of worship, the temperature screening process has to be seamless and fast to minimise congestion.
