@@ -9,7 +9,7 @@ As more venues reopen over the next few months, the public must remain vigilant 
 
 To meet public demand for an affordable, accurate and effective automated temperature screening solution, the Government Technology Agency (GovTech) has licensed the software for the “SPOTON” smart thermal scanner it developed to four Singapore-based Distributors. The Distributors are: three small- and medium-sized enterprises (SMEs) – ADERA Global, Scanmed Technology (Singapore) Pte Ltd and SmartScan Machine Pte Ltd – and a non-profit organisation, Extra•Ordinary People Limited. 
 
-SPOTON is a smart thermal scanner for mass temperature screening, first developed by GovTech’s Smart Nation Platform Solutions (SNPS) team in February 2020. By integrating SPOTON’s deep learning-based software with low-cost off-the-shelf hardware – an RGB-Depth camera, long-wave infrared camera and printed circuit board – GovTech has developed an affordable, robust and accurate temperature screening solution that can screen up to 10 people at any one time with an accuracy of ±0.3-0.5°C in both indoor and outdoor environments. When an individual’s temperature exceeds a pre-defined threshold of 37.5°C, SPOTON will trigger an alarm and send an e-mail alert to the venue operator. Another feature of the SPOTON software is that it can detect and indicate when an individual is not wearing a face mask. SPOTON’s accuracy range in temperature sensing was verified in calibration tests conducted with the National Metrology Centre (NMC). For more product details, please refer to [Annex A](files/Annex-A-SPOTON-product-factsheet.pdf).
+SPOTON is a smart thermal scanner for mass temperature screening, first developed by GovTech’s Smart Nation Platform Solutions (SNPS) team in February 2020. By integrating SPOTON’s deep learning-based software with low-cost off-the-shelf hardware – an RGB-Depth camera, long-wave infrared camera and printed circuit board – GovTech has developed an affordable, robust and accurate temperature screening solution that can screen up to 10 people at any one time with an accuracy of ±0.3-0.5°C in both indoor and outdoor environments. When an individual’s temperature exceeds a pre-defined threshold of 37.5°C, SPOTON will trigger an alarm and send an e-mail alert to the venue operator. Another feature of the SPOTON software is that it can detect and indicate when an individual is not wearing a face mask. SPOTON’s accuracy range in temperature sensing was verified in calibration tests conducted with the National Metrology Centre (NMC). For more product details, please refer to [Annex A](/files/Annex-A-SPOTON-product-factsheet.pdf).
 
 GovTech first trialled SPOTON at NTUC Club’s Eat Box Event in February 2020 attended by 32,000 people over two weekends. Since April, GovTech has worked with government agencies to deploy 50 units of SPOTON at various locations including the Supreme Court, Ministry of Education headquarters, Our Tampines Hub, Changi Exhibition Centre community isolation facility, HDB branch offices and mosques. 
 
@@ -23,7 +23,7 @@ The Distributors will set their own selling prices but must comply with GovTech�
 
 GovTech is currently working on a second version of the SPOTON software that will include more advanced features such as pose recognition, heart rate and oxygen saturation measurements. This version is expected to be ready in Q1 2021.
 
-[Annex B- Quotes by Distributors](files/Annex-b.pdf)
+[Annex B- Quotes by Distributors](/files/Annex-b.pdf)
 
 ---
 
