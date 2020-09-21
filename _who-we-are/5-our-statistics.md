@@ -5,10 +5,10 @@ permalink: /who-we-are/our-statistics/
 breadcrumb: Our Statistics
 collection_name: who-we-are
 ---
-### **Annual Digital Government Perception Survey (Citizen)- Conducted in 2019**
+### **Annual Survey on Satisfaction with Government Digital Services (Citizens) - Conducted in 2019**
 
 #### **Background / Objectives**
-The Digital Government Customer Perception Survey (Citizens) is conducted annually by the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency of Singapore (GovTech) to assess citizen’s satisfaction of key digital government services and to identify areas for further improvement.
+The Survey on Satisfaction with Government Digital Services (Citizens) is conducted annually by the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency of Singapore (GovTech) to assess citizen’s satisfaction of key digital government services and to identify areas for further improvement.
 
 The survey was conducted from November to December 2019 for the reporting period of CY2019.
 
@@ -17,11 +17,11 @@ The survey was conducted from November to December 2019 for the reporting period
 About 1,500 respondents, comprising representatives of the total demographic population above the age of 19, were surveyed. Data collection was done via face-to-face interviews.
 
 ![Digital Government Perception Survey 2019 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Citizen-GovTech-Smart-Nation-study.png)
-### **Annual Digital Government Perception Survey (Business) Conducted in 2019**
+### **Annual Survey on Satisfaction with Government Digital Services (Businesses) Conducted in 2019**
 
 **Background / Objectives**
 
-The Digital Government Perception Survey (Businesses) is conducted annually by the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency of Singapore (GovTech) to assess the business community's satisfaction of key digital government services initiatives and to identify areas for further improvement.
+The Survey on Satisfaction with Government Digital Services (Businesses) is conducted annually by the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency of Singapore (GovTech) to assess the business community's satisfaction of key digital government services initiatives and to identify areas for further improvement.
 
 The survey was conducted from November to December 2019 for the reporting period of CY2019.
 
@@ -32,6 +32,6 @@ About 1,500 businesses, under 13 different industry sectors (e.g. Commerce, Cons
 ![Digital Government Perception Survey 2019 for Business by GovTech](/images/our-statistics/Digital-Government-Perception-2019-Business-GovTech-Smart-Nation-study-2019v2.png)
 
 
-**Past Years' Digital Government Perception Survey Results**
+**Past Years' Results for Surveys on Satisfaction with Government Digital Services for Citizens and Businesses**
 
 Please refer to the following [link](/digital-government-perception-survey/){:target="_blank"} for past years' results.
