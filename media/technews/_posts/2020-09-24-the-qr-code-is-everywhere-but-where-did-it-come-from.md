@@ -10,7 +10,7 @@ image: "/images/technews/how-qr-came-about3.png"
 
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/MLLIfSFjky4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MLLIfSFjky4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Short on time? Check out this 90 second video for the QR Code origin story!
 
 
@@ -41,7 +41,7 @@ QR Codes are anchored by squares in the corner. Now you know what they are for!
 
 Another issue that Hara mulled over was whether the new barcode could still be read if it was obscured by smudges or otherwise damaged. 
 
-Again, he gleaned inspiration from his surroundings, this time while playing [Go](https://en.wikipedia.org/wiki/Go_(game]) (the japanese board game, not Pokemon Go) during lunch. Although players were supposed to place their pieces on the intersections of the grid board, he noticed that you could still figure out where a piece is supposed to be even if its placement is slightly off. This gave him confidence that barcode scanners could similarly understand square barcodes that were imperfect. 
+Again, he gleaned inspiration from his surroundings, this time while playing Go (the japanese board game, not Pokemon Go) during lunch. Although players were supposed to place their pieces on the intersections of the grid board, he noticed that you could still figure out where a piece is supposed to be even if its placement is slightly off. This gave him confidence that barcode scanners could similarly understand square barcodes that were imperfect. 
 
 Indeed, QR codes today are known for their robustness and can be scanned even when part of it is missing or covered. Brands sometimes make use of this feature by placing their logo in a QR code to drum up some brand recognition without compromising functionality. 
 
