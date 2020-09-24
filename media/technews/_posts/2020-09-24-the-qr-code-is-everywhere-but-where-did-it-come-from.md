@@ -51,8 +51,6 @@ In 1994, Hara was finally ready to roll out his brainchild. As Hara worked for a
 
 Japan’s car companies quickly adopted them after the successful showcase, a strong vote of confidence in this new invention. 
 
-Check out this video if you’re interested in knowing more about the QR code’s history.
-
 
 ## From obscurity to ubiquity 
 
