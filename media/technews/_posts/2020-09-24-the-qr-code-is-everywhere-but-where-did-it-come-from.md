@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The QR Code is everywhere, but where did it come from?"
-permalink: "/media/technews/20200924-the-qr-code-is-everywhere-but-where-did-it-come-from"
+permalink: "/media/technews/2020-09-24-the-qr-code-is-everywhere-but-where-did-it-come-from"
 category: technews
 image: "/images/technews/how-qr-came-about3.png"
 ---
