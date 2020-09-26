@@ -10,7 +10,7 @@ image: "/images/technews/how-qr-came-about3.png"
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MLLIfSFjky4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cswo_6kj0Ug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Short on time? Check out this 90 second video for the QR Code origin story!
 
 
