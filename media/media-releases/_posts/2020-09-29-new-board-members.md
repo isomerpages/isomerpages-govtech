@@ -7,7 +7,7 @@ date: 2020-09-29
 
 ### **New board members appointed to the Government Technology Agency**
 
-Singapore, 29 September 2020 – The Smart Nation and Digital Government Group (SNDGG) announced today changes to the Board of the Government Technology Agency (GovTech). These changes will come into, effect from 1 October 2020. 
+Singapore, 29 September 2020 – The Smart Nation and Digital Government Group (SNDGG) announced today changes to the Board of the Government Technology Agency (GovTech). These changes will come into effect from 1 October 2020. 
 
 The board changes are as follows.
 
