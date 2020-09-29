@@ -43,7 +43,7 @@ The management of SNDGG would like to extend its appreciation to Mr Peter Ho, Pr
 ### **For media clarification, please contact:**
 
 <br>Elizabeth Lee (Ms)
-<br>Manager,Communications & Marketing Group
+<br>Manager, Communications & Marketing Group
 <br>Government Technology Agency of Singapore
 <br>Tel: 69775008
 <br>Email: <elizabeth_lee@tech.gov.sg>
