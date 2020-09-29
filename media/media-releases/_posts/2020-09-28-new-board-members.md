@@ -52,4 +52,4 @@ Singapore, 29 September 2020 – The Smart Nation and Digital Government Group (
 <br>Assistant Manager, Adoption and Engagement Directorate
 <br>Smart Nation and Digital Government Office, Prime Minister’s Office
 <br>Tel: 96745524
-<br>Email: <elizabeth_lee@tech.gov.sg>
+<br>Email: <cristiano_peswani@pmo.gov.sg>
