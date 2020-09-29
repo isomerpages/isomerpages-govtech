@@ -7,9 +7,9 @@ date: 2020-09-29
 
 ### **NEW BOARD MEMBERS APPOINTED TO THE GOVERNMENT TECHNOLOGY AGENCY**
 
-1. Singapore, 29 September 2020 – The Smart Nation and Digital Government Group (SNDGG) announced today changes to the Board of the Government Technology Agency (GovTech). These changes will come into, effect from 1 October 2020. 
+Singapore, 29 September 2020 – The Smart Nation and Digital Government Group (SNDGG) announced today changes to the Board of the Government Technology Agency (GovTech). These changes will come into, effect from 1 October 2020. 
 
-2.	The board changes are as follows.
+The board changes are as follows.
 
 **Appointment of New Board Members**
 - Prof Ho Teck Hua, Senior Deputy President and Provost, NUS 
@@ -37,7 +37,7 @@ date: 2020-09-29
 - Dr Bruno Lanvin, Executive Director, Global Indices, INSEAD
 - Mr Bruce Liang, Chief Executive Officer, Integrated Health Information Systems Pte Ltd
 
-3.	The management of SNDGG would like to extend its appreciation to Mr Peter Ho, Prof Annie Koh, Dr Bruno Lanvin and Mr Bruce Liang for their invaluable contributions to GovTech during their terms of appointment. 
+The management of SNDGG would like to extend its appreciation to Mr Peter Ho, Prof Annie Koh, Dr Bruno Lanvin and Mr Bruce Liang for their invaluable contributions to GovTech during their terms of appointment. 
 
 
 ### **For media clarification, please contact:**
