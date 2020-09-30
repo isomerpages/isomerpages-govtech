@@ -8,7 +8,7 @@ board-of-directors:
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/kok-ping-soon.png
-   - name: Mr Bojan BLECIC
+  - name: Mr Bojan BLECIC
     title: Senior Vice President / Head of Experience Design
     organisation: OCBC Bank
     image-url: /images/our-team/bojan-blecic.jpg   
@@ -28,7 +28,7 @@ board-of-directors:
     title: Senior Deputy President and Provost
     organisation: National University of Singapore (NUS)
     image-url: /images/our-team/Ho_Teck_Hua.jpg  
-   - name: Mr Alexander KLEINBERG
+  - name: Mr Alexander KLEINBERG
     title: Chief Executive Officer
     organisation: EDDE Pte Ltd
     image-url: /images/our-team/alexander-kleinberg.jpg
@@ -36,7 +36,7 @@ board-of-directors:
     title: Deputy Secretary (Policy)
     organisation: Ministry of Education
     image-url: /images/our-team/melissa-khoo.jpg   
-   - name: Mr David KOH
+  - name: Mr David KOH
     title: Chief Executive
     organisation: Cyber Security Agency, Prime Minister’s Office
     image-url: /images/our-team/david-koh.jpg  
