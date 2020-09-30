@@ -41,7 +41,7 @@
     - subtitle: 2009
       description:
         - line: "<b>Unique Entity Number (UEN):</b> A single identification number for corporate entities operating in Singapore."
-- title: 2010-Present
+- title: 2010-2015
   years:
     - subtitle: 2010
       description:
@@ -61,5 +61,21 @@
         - line: "Announcement of the Smart Nation Platform, a technical architecture built by GovTech. This will bring together a nationwide sensor network and data analytics capabilities for better situational awareness."
     - subtitle: 2015
       description:
-        - line: "GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response."
-        
+        - line: "GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response." 
+- title: 2016-Present
+  years: 
+    - subtitle: 2016
+      description:
+        - line: "GovTech was officially launched as the agency tasked with realising Smart Nation possibilities."
+    - subtitle: 2017
+      description:
+        - line: "GovTech worked with the Singapore Judiciary to launch a five-year technology blueprint which charts the course for “Courts of the Future”. The Singapore Government announced that GovTech, the Smart Nation Programme Office and relevant departments from the Ministry of Finance and Ministry of Communications and Information will come together to form the Smart Nation and Digital Government Group (SNDGG). The Whole-of-Government effort to separate the Internet from internal public sector systems was completed one month ahead of schedule. Supported by GovTech, this was part of an ongoing move to strengthen the Government’s cybersecurity posture and better protect government and citizen data. The use of MyInfo was extended to banks, allowing citizens to tap on their MyInfo digital profile to auto-fill selected bank application forms. The Ministry of Education and GovTech piloted the Singapore Student Learning Space, a digital learning platform to enhance learning and collaboration for students from primary schools to junior colleges. The MyInfo Developers and Partners Portal was launched, allowing businesses and developers to tap on MyInfo application programming interfaces to create innovative digital services that can better serve the public. The Parking.sg app was launched. The app is developed by the Urban Redevelopment Authority, Housing & Development Board and GovTech to provide a quick and convenient way for motorists to pay for short-term parking at coupon-based car parks. GovTech worked with SkillsFuture Singapore to launch MySkillsFuture portal, a one-stop resource site to help students and adults plan for their training and career needs."       
+     - subtitle: 2018
+      description:
+        - line: "The Ministry Family Digitalisation Plan was launched to support agencies in their digitalisation efforts. NParks and GovTech jointly developed the Trees.SG online map which shows the locations of 500,000 trees across Singapore and their biodata. The MyCareersFuture search portal was launched by GovTech and Workforce Singapore to match jobseekers to relevant jobs based on their skills. Launched the Digital Government Blueprint that sets out a vision of a Singapore Government that is digital to the core and serves with heart. The Singapore Geospatial Masterplan – jointly developed by the Singapore Land Authority (SLA) and GovTech – was launched. Launched Networked Trade Platform -  a national trade information management platform which combines all customs and trade related services. GovTech held its first-ever developer conference  - STACK. The conference was a platform for tech enthusiasts to learn about, share knowledge on, and try out the latest digital products from the Singapore Government. The SingPass Mobile app was launched to enable citizens to transact securely and conveniently with public and private sector digital services. GovTech worked with Ngee Ann Polytechnic, SkillsFuture Singapore and the Ministry of Education to develop OpenCerts – a platform to issue, certify, verify and validate academic and skills credentials. The National Digital Identity (NDI) API Portal was launched to integrate both MyInfo and NDI Identity & Access APIs. Singapore was named Smart City of 2018 at the Smart City Expo World Congress in Barcelona. This is the first award that Singapore has won since embarking on our digital transformation journey."        
+     - subtitle: 2019
+      description:
+        - line: "GovTech and the Ministry of Education launched Parents Gateway. A one-stop mobile app that allows schools to update parents on programmes and activities, as well as for parents to complete administrative matters via the app. GovTech and the United Kingdom’s Government Digital Service  signed a Memorandum of Understanding to strengthen collaboration in the design and delivery of digital government public services. GovTech completed the commissioning of the Government on Commercial Cloud (GCC) system for agencies to procure commercial cloud services from Cloud Service Providers. Launched IPOS GO -  the world’s first mobile application for trademark registration. The app is developed by GovTech and the Intellectual Property Office of Singapore. GovTech developed and launched DigiMC, a platform that allows SingHealth institutions to replace paper MCs with digital ones. The Ministry of Trade & Industry, Smart Nation and Digital Government Office and GovTech launched the GoBusiness Licensing portal."
+     - subtitle: 2020
+      description:
+        - line: "To support the nationwide contact tracing efforts, GovTech worked with the Ministry of Health to develop the TraceTogether programme. It comprises the TraceTogether App and TraceTogether Token. Launched SafeEntry, a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. Moments of Life is enhanced and rebranded as LifeSG. The app provides users with access to more than 40 services that will be personalised for citizens, and with an improved user experience."       
