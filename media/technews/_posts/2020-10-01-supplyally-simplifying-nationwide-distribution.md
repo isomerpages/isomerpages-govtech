@@ -3,7 +3,7 @@ layout: post
 title: "SupplyAlly - Simplifying Nationwide Distribution"
 permalink: "/media/technews/supplyally-simplifying-nationwide-distribution"
 category: technews
-image:"images/technews/supplyally5.png"
+image: "/images/technews/supplyally5.png"
 ---
 
 ## SupplyAlly, or Sally for short, is a mobile app that facilitates the process of logistics distribution, especially in times of need during COVID-19 and the post-COVID era. 
