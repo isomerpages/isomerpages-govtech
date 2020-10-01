@@ -53,5 +53,5 @@ From our journey and the feedback we’ve received, we’ve identified some new 
 - Displaying distribution statistics within the app
 - Multi-Language support
 
-To learn more about supplyally, click [here!](https://www.supplyally.gov.sg/!)
+To learn more about supplyally, click [here!](https://www.supplyally.gov.sg/)
 
