@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "A conversation with Betrand Lee, GovTech's Smart Nation Fellow"
-permalink: "/media/technews/a-conversation-with-betrand-lee"
+title: "A conversation with Bertrand Lee, GovTech's Smart Nation Fellow"
+permalink: "/media/technews/a-conversation-with-bertrand-lee"
 category: technews
 image: "images/technews/VICA1.jpg"
 ---
 
-An expert in natural language processing, Bertrand Lee shares his journey to becoming a Smart Nation Fellow at GovTech and how chatbots can change the way government services are delivered.
+An expert in Natural Language Processing, Bertrand Lee shares his journey to becoming a Smart Nation Fellow at GovTech and how chatbots can change the way government services are delivered.
 ---
 
 ![Betrand Lee, GovTech Smart Nation Fellow](/images/technews/VICA1.jpg)
