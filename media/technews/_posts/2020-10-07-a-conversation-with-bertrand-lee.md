@@ -9,8 +9,8 @@ image: "images/technews/VICA1.jpg"
 An expert in Natural Language Processing, Bertrand Lee shares his journey to becoming a Smart Nation Fellow at GovTech and how chatbots can change the way government services are delivered.
 ---
 
-![Betrand Lee, GovTech Smart Nation Fellow](/images/technews/VICA1.jpg)
-*Betrand Lee, Smart Nation Fellow PHOTO: GOVTECH*
+![Bertrand Lee, GovTech Smart Nation Fellow](/images/technews/VICA1.jpg)
+*Bertrand Lee, Smart Nation Fellow PHOTO: GOVTECH*
 
 When Mr Bertrand Lee returned to Singapore from Hong Kong, he joined a company that developed chatbots, which are computer programs that simulate human conversations and act as virtual assistants. While the value of these chatbots became quickly apparent to Lee, he also realised that the chatbots had the potential to be so much more.
 
