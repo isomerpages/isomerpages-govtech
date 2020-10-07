@@ -23,7 +23,7 @@ This motivation to harness technology to make a difference is what ultimately dr
 
 ### **Getting into talks with GovTech.**
 
-Before Lee moved to Hong Kong, he spent 13 years in the United States working for technology giant Microsoft and a series of startups. One of his first forays into the field of natural language processing (NLP)—a field of artificial intelligence (AI) that studies the interactions between computers and humans using human languages—was to build a conversational AI assistant in cars that could make calls or give directions based on voice commands.
+Before Lee moved to Hong Kong, he spent 13 years in the United States working for technology giant Microsoft and a series of startups. One of his first forays into the field of Natural Language Processing (NLP)—a field of artificial intelligence (AI) that studies the interactions between computers and humans using human languages—was to build a conversational AI assistant in cars that could make calls or give directions based on voice commands.
 
 Lee’s expertise in conversational AI and chatbots would later come into play when he was searching for a consulting role in Singapore. He was introduced to the Smart Nation Fellowship Programme at GovTech, where he met the team developing the government chatbot platform.
 
