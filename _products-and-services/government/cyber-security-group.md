@@ -29,6 +29,3 @@ To hear more from the cybersecurity specialists at CSG, head over to [CSG's Medi
 - [How the government chief information security officer keeps cyberspace secure](https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure){:target="_blank"}
 
 - [GovTech cybersecurity specialists zero in on zero-day vulnerabilities](https://www.tech.gov.sg/media/technews/cybersecurity-on-zero-day-vulnerabilities){:target="_blank"}
-
-
-cyber-security-group.md
