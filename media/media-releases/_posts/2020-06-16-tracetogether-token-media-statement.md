@@ -32,5 +32,3 @@ For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg). F
 <br>Communications & Marketing Group
 <br>Government Technology Agency of Singapore
 <br>Email: <tan_boon_leng@tech.gov.sg>
-
-2020-06-16-tracetogether-token-media-statement.md

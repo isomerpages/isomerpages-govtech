@@ -23,6 +23,8 @@ recommender: false
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. Please contact 1800 211 0777 or [qsm@tech.gov.sg](mailto:qsm@tech.gov.sg) if you: 
+7. We use the Facebook pixel on this site. The Facebook pixel allows user behaviour to be tracked after they have been redirected to this site by clicking on a Facebook ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes. The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook in accordance with its data usage policy.
+
+8. Please contact 1800 211 0777 or [qsm@tech.gov.sg](mailto:qsm@tech.gov.sg) if you: 
 : (a) have any enquires or feedback on our data protection policies and procedures,
 : (b) need more information on or access to data which you have provided to us in the past.

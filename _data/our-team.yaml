@@ -8,22 +8,26 @@ board-of-directors:
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/kok-ping-soon.png
-  - name: Mr David KOH
-    title: Chief Executive
-    organisation: Cyber Security Agency, Prime Minister’s Office
-    image-url: /images/our-team/david-koh.jpg
+  - name: Mr Bojan BLECIC
+    title: Senior Vice President / Head of Experience Design
+    organisation: OCBC Bank
+    image-url: /images/our-team/bojan-blecic.jpg   
   - name: Ms Lesly GOH
     title: Senior Technology Advisor
     organisation: World Bank
     image-url: /images/our-team/lesly-goh.jpg
-  - name: Mr Peter HO
-    title: Chief Executive Officer
-    organisation: HOPE Technik Pte Ltd
-    image-url: /images/our-team/peter-ho.jpg
+  - name: Mr Derrick GOH
+    title: Managing Director and Head of Group Audit
+    organisation: DBS Bank
+    image-url: /images/our-team/Derrick_Goh.jpg    
   - name: Ms Mariam JAAFAR
     title: Partner and Managing Director (Singapore)
     organisation: The Boston Consulting Group
     image-url: /images/our-team/mariam-jaafar.jpg
+  - name: Prof HO Teck Hua
+    title: Senior Deputy President and Provost
+    organisation: National University of Singapore (NUS)
+    image-url: /images/our-team/Ho_Teck_Hua.jpg  
   - name: Mr Alexander KLEINBERG
     title: Chief Executive Officer
     organisation: EDDE Pte Ltd
@@ -31,27 +35,19 @@ board-of-directors:
   - name: Ms Melissa KHOO
     title: Deputy Secretary (Policy)
     organisation: Ministry of Education
-    image-url: /images/our-team/melissa-khoo.jpg
-  - name: Prof Annie KOH
-    title: Vice President
-    organisation: Office of Business Development, Professor of Finance (Practice) Singapore Management University
-    image-url: /images/our-team/annie-koh.png
-  - name: Dr Bruno LANVIN
-    title: Executive Director
-    organisation: Global Indices INSEAD
-    image-url: /images/our-team/bruno-lanvin.jpg
-  - name: Mr Bruce LIANG
-    title: Chief Executive Officer
-    organisation: Integrated Health Information Systems Pte Ltd
-    image-url: /images/our-team/bruce-liang.jpg
-  - name: Mr Matt QUINLAN
-    title: Director
-    organisation: Ontrack Advisory
-    image-url: /images/our-team/matt-quinlan.jpg
-  - name: Mr Bojan BLECIC
-    title: Senior Vice President / Head of Experience Design
-    organisation: OCBC Bank
-    image-url: /images/our-team/bojan-blecic.jpg
+    image-url: /images/our-team/melissa-khoo.jpg   
+  - name: Mr David KOH
+    title: Chief Executive
+    organisation: Cyber Security Agency, Prime Minister’s Office
+    image-url: /images/our-team/david-koh.jpg  
+  - name: Ms Jenny LEE
+    title: Managing Partner
+    organisation: GGV Capital
+    image-url: /images/our-team/Jenny_Lee.JPG
+  - name: Mr LEW Chuen Hong
+    title: Chief Executive
+    organisation: Infocomm Media Development Authority
+    image-url: /images/our-team/lew-chuen-hong.jpg
   - name: Mr Muthukrishnan RAMASWAMI
     title: Partner
     organisation: PeepalTree Pte Ltd
@@ -60,7 +56,11 @@ board-of-directors:
     title: Chief Executive
     organisation: Defence Science and Technology Agency
     image-url: /images/our-team/tan-peng-yam.jpg
-
+  - name: Mr Matt QUINLAN
+    title: Director
+    organisation: Ontrack Advisory
+    image-url: /images/our-team/matt-quinlan.jpg
+    
 # Senior Leadership
 senior-leadership:
   - name: Mr KOK Ping Soon

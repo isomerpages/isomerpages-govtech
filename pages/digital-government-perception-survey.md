@@ -1,15 +1,14 @@
 ---
 layout: simple-page
-title: Digital Government Perception Survey
+title: Surveys on Satisfaction with Government Digital Services for Citizens and Businesses
 permalink: /digital-government-perception-survey/
 breadcrumb: Digital Government Perception Survey
 ---
 
-### Annual Digital Government Perception Survey (Citizen)
+### Surveys on Satisfaction with Government Digital Services (Citizens)
 * [2018](/digital-government-perception-survey-citizen-2018){:target="_blank"} 
 * [2017](/digital-government-perception-survey-citizen-2017){:target="_blank"} 
 
-### Annual Digital Government Perception Survey (Business)
-
+### Surveys on Satisfaction with Government Digital Services (Businesses)
 * [2018](/digital-government-perception-survey-business-2018){:target="_blank"}
 * [2017](/digital-government-perception-survey-business-2017){:target="_blank"}
