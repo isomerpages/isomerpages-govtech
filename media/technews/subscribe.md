@@ -12,8 +12,12 @@ image:
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	
 </style>
 <div id="mc_embed_signup">
+<form action="https://tech.us16.list-manage.com/subscribe/post" method="POST">
+    <input type="hidden" name="u" value="9326ff42459737140a6baa881">
+    <input type="hidden" name="id" value="a7bc4d341a">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=fbcfbbf90e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe To TechNews</h2>
@@ -21,20 +25,20 @@ image:
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="text" name="MERGE1" id="MERGE1" size="25" value="">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	<input type="text" name="MERGE2" id="MERGE2" size="25" value="">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<input type="text" name="MERGE2" id="MERGE2" size="25" value="">
 </div>
 <div class="mc-field-group size1of2">
 	<label for="mce-PHONE">Mobile Number </label>
-	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
+	<input type="text" name="MERGE4" id="MERGE4" size="25" value="">
 </div>
 <div class="mc-field-group size1of2">
 	<label for="mce-DOB-month">Date of Birth  <span class="asterisk">*</span>
