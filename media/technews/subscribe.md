@@ -24,7 +24,7 @@ image:
 <br>
 More than 10,000 tech enthusiasts and professionals are now receiving bi-weekly tech insights, tips and stories from GovTech.<br>
 <br>
-Subscribe to get curated insights into the world of tech for your quick and easy reading.</div>
+Subscribe to get curated insights into the world of tech for your quick and easy reading.\
 
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
