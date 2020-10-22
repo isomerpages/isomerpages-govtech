@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subscribe To TechNews
-permalink: "/media/technews/subscribe"
+permalink: "/media/technews/confirmation"
 category: technews
 image:
 ---
