@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subscribe To TechNews
+title: Thank You!
 permalink: "/media/technews/confirmation"
 category: technews
 image:
