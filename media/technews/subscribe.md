@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subscribe To TechNews
+title: Subscribe To TechNews!
 permalink: "/media/technews/subscribe"
 category: technews
 image:
