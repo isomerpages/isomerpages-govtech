@@ -13,6 +13,8 @@ A new version of the DSS has been released in end July.  The new version is avai
 - [Digital Service Standards](/files/digital-transformation/DSS for Public 2020.pdf) (PDF Version, 14.8MB)
 
 
+
+
 ![Image of Digital Service Standards]({{site.baseurl}}/images/digital-transformation/GovTech_DSS_Summary_Infographic_Ver3.1_ip03_021018.png)
 
 [Digital Service Standards Infographic](/files/digital-transformation/GovTech_DSS_Summary_Infographic_2Oct2018.pdf)	
