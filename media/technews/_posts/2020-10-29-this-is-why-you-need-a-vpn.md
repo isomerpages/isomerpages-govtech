@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/benefit-of-vpn1.jpg"
 ---
 
-## Here’s why we think VPN(Virtual Private Network) is an "essential services"
+## Here’s why we think VPN(Virtual Private Network) is an "essential service"
 
 
 Even as Singapore progressively reopens its economy, many of us continue to work from home today. Such arrangements are essential to cut down unnecessary travel and interaction to keep Covid-19 at bay. 
