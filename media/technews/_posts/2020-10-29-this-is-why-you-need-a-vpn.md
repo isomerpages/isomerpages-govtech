@@ -35,6 +35,7 @@ For that reason, many organisations, especially those dealing with sensitive inf
 
 
 ![Spend 10 seconds on this diagram, learn how a VPN works!](/images/technews/benefit-of-vpn2.jpg)
+
 Spend 10 seconds on this diagram and you will know how a VPN works! PHOTO: UNSPLASH.com
 
 Given the time constraints, speed was a major consideration – what are the essential steps for using this app, and what is the most basic way of verifying identities? These were key concerns for the team as we worked round the clock to meet the deadline.
