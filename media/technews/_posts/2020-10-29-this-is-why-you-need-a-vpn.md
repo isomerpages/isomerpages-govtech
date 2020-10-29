@@ -60,7 +60,7 @@ Many VPNs tout their excellent security measures, but reputable providers publis
 - Speed
 The extra steps taken in filtering traffic through the VPN server will slow down your internet connection, so make sure to choose a service that can still deliver a speedy online experience. Security doesn’t have to come at the expense of productivity. 
 
-###**Another VPN use: securing public wifi**
+### **Another VPN use: securing public wifi**
 
 VPN also comes in handy when you are connecting to a public wifi network. Few of us can resist connecting to free public wifi – say while hanging out at a cafe – especially when overseas (unimaginable now, but the day will eventually come). Unfortunately, your internet traffic – along with your passwords, account numbers, and other private information – are particularly vulnerable on public wifi as hackers can casually connect to these networks, steal your data and use them for a wide range of cybercrimes – including phishing, malware attacks, and yes, the classic ‘withdraw large amounts of money from your bank accounts’.
  
