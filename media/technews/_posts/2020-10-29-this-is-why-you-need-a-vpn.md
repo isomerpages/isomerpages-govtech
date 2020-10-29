@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/benefit-of-vpn1.jpg"
 ---
 
-## Here’s why we think VPN(Virtual Private Network) is classified under ‘essential services
+## Here’s why we think VPN(Virtual Private Network) is an "essential services"
 
 
 Even as Singapore progressively reopens its economy, many of us continue to work from home today. Such arrangements are essential to cut down unnecessary travel and interaction to keep Covid-19 at bay. 
@@ -18,7 +18,7 @@ But even as you stay physically safe in your home office, you may be unwittingly
 
 While working from home has compelled businesses to accelerate their digital transformations, bad actors have also seen this as a “great opportunity” to target home networks that typically aren’t as secure as corporate ones. 
 
-According to this commentary by a cyber security specialist, more than 2,000 malicious domain names containing pandemic-related words like “Covid” were registered in the first three months of 2020. In March, a phishing scam sent emails purportedly from Prime Minister Lee Hsien Loong to lure unsuspecting individuals to respond. 
+According to this [commentary](https://www.todayonline.com/commentary/guard-against-common-cyber-attacks-while-working-home) by a cyber security specialist, more than 2,000 malicious domain names containing pandemic-related words like “Covid” were registered in the first three months of 2020. In March, a [phishing scam](https://www.facebook.com/leehsienloong/photos/a.344710778924968/3154441464618538/?type=3) sent emails purportedly from Prime Minister Lee Hsien Loong to lure unsuspecting individuals to respond. 
 
 And while accessing company information through the internet, your communication – which travels to and from your computer – could be intercepted somewhere along the round trip by hackers who want to see what you’re up to. 
 
@@ -74,4 +74,4 @@ Analogy time! If you want to be healthy, it’s silly to slog for hours at the g
 
 So yes, let’s continue to stay safe by working from home, but also ensure that we’re working safely while at home.  
 
-PS: If you’re hungry for more tips on enhancing your digital security, check out our article on seven ways to protect your smartphone from hackers. 
+PS: If you’re hungry for more tips on enhancing your digital security, check out our [article on seven ways to protect your smartphone from hackers.](https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers) 
