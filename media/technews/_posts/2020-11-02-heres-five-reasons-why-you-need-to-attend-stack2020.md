@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here's 5 reasons on why you need to attend STACK 2020 "
-permalink: "/media/technews/heres-five-reasons-why-you-need-to-attend-stack2020.md"
+permalink: "/media/technews/heres-five-reasons-why-you-need-to-attend-stack2020"
 category: technews
 image: "/images/technews/benefit-of-vpn1.jpg"
 ---
