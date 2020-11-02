@@ -3,7 +3,7 @@ layout: post
 title: "Here's 5 reasons on why you need to attend STACK 2020 "
 permalink: "/media/technews/heres-five-reasons-why-you-need-to-attend-stack2020"
 category: technews
-image: "/images/technews/benefit-of-vpn1.jpg"
+image: "/images/technews/why-attend-stack1.png"
 ---
 
 GovTech’s flagship developers conference—STACK 2020—returns for its second run, evolving into a fully virtual conference, with just as much energy, interaction, and opportunities for collaboration. Don’t miss this chance to learn from the best. Here are 5 reasons to get Ready, get STACK, and LEVEL UP!
