@@ -38,8 +38,6 @@ For that reason, many organisations, especially those dealing with sensitive inf
 
 Spend 10 seconds on this diagram and you will know how a VPN works! PHOTO: UNSPLASH.com
 
-Given the time constraints, speed was a major consideration – what are the essential steps for using this app, and what is the most basic way of verifying identities? These were key concerns for the team as we worked round the clock to meet the deadline.
-
 
 ### **Wait, so the VPN knows what I’m up to?**
 
@@ -47,8 +45,6 @@ In a word, yes. This is why it’s imperative that you use a trustworthy one and
 
 
 ### **OK, so what should I look out for?**
-
-In a word, yes. This is why it’s imperative that you use a trustworthy one and not sign up for some fly-by-night service just because it’s free. 
 Just like almost any product, online reviews for “the best VPN service” are readily available. When it comes to “which VPN?” there are several factors to consider:
 
 - Data privacy
