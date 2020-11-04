@@ -30,7 +30,9 @@ Today’s SingPass has evolved to provide seamless and convenient access to over
 - Annex C – [Quotes by Digital Signing Application Providers](/files/media/media-releases/2019/May/Annex C- QUOTES BY DIGITAL SIGNING APPLICATION PROVIDERS.pdf){:target="_blank"}
 
 ---
+
 **ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
+
 ---
 ### **About Government Technology Agency**
 The Government Technology Agency of Singapore (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity. 
