@@ -17,9 +17,9 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Responding to COVID-19 with Tech
+hero-title: Stack 2020
 hero-subtitle:
-hero-banner: /images/hero-banner-covid.jpg
+hero-banner: Stack 2020 Social Media Banner_LI.jpg
 
 #Call to Action Button
 button:
