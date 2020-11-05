@@ -19,7 +19,7 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: Stack 2020
 hero-subtitle:
-hero-banner: Stack 2020 Social Media Banner_LI.jpg
+hero-banner: /images/Stack2020_New.jpg
 
 #Call to Action Button
 button:
