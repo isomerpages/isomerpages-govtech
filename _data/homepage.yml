@@ -17,14 +17,14 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Responding to COVID-19 with Tech
+hero-title: 
 hero-subtitle:
-hero-banner: /images/hero-banner-covid.jpg
+hero-banner: /images/Stack2020_New2.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /products-and-services/responding-to-covid-19-with-tech/?utm_source=hero_banner
+    url: /media/events/stack-2020
     
 # Key Highlights
 key-highlights:
@@ -37,7 +37,7 @@ key-highlights:
     url: /digital-government-blueprint/?utm_source=hero_banner
   - title: SUBSCRIBE TO TECHNEWS
     description: Get the latest news and highlights from GovTech
-    url: https://form.gov.sg/#!/5bd0317ee5c241000f7589bd?utm_source=hero_banner
+    url: https://go.gov.sg/subscribe-now 
     external: true
   - title: JOIN US
     description: Unleash your passion and potential with us
