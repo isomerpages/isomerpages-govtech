@@ -17,14 +17,14 @@ google-analytics: UA-82296306-1
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Stack 2020
+hero-title: 
 hero-subtitle:
 hero-banner: /images/Stack2020_New.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /products-and-services/responding-to-covid-19-with-tech/?utm_source=hero_banner
+    url: /media/events/stack-2020
     
 # Key Highlights
 key-highlights:
