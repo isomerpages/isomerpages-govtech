@@ -21,7 +21,7 @@ Organisations keen to use “Sign with SingPass” for their digital services ca
 
 “COVID-19 has accelerated the pace of digitalisation. As more services are digitalised, the need for a high security documentation signing service increases. “Sign with SingPass”, a new value-added service under the National Digital Identity, addresses this need. Businesses can use “Sign with SingPass” to unlock services for their consumers who are SingPass users with greater confidence. Through “Sign with SingPass”, businesses will save cost and manpower by removing the manual processes of verifying physical paperwork,” said Mr Kok Ping Soon, Chief Executive, GovTech. 
 
-Today’s SingPass has evolved to provide seamless and convenient access to over 2,000 digital services offered by some 250 government agencies and private organisations. There are now over 2.1 million users of the SingPass Mobile app since its launch.
+Today’s SingPass has evolved to provide seamless and convenient access to over 1,000 digital services offered by some 250 government agencies and private organisations. There are now over 2.1 million users of the SingPass Mobile app since its launch.
 
 
 **Enclosed Annexes**
