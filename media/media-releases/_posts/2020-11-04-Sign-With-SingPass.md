@@ -26,7 +26,7 @@ Today’s SingPass has evolved to provide seamless and convenient access to over
 
 **Enclosed Annexes**
 - Annex A – Video link on how to Sign with SingPass [(go.gov.sg/sign-media-kit)](https://www.go.gov.sg/sign-media-kit){:target="_blank"} 
-- Annex B – [SingPass Factsheet](/files/media/media-releases/2019/May/Annex B- Factsheet on SingPass (national digital identity) - updated Nov 2020.pdf){:target="_blank"} 
+- Annex B – [SingPass Factsheet](/files/media/media-releases/files/media/media-releases/2019/May/Annex B- Factsheet on SingPass (national digital identity) - updated Nov 2020-rt.pdf){:target="_blank"} 
 - Annex C – [Quotes by Digital Signing Application Providers](/files/media/media-releases/2019/May/Annex C- QUOTES BY DIGITAL SIGNING APPLICATION PROVIDERS.pdf){:target="_blank"}
 
 ---
