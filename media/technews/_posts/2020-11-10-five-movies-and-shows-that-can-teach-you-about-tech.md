@@ -18,7 +18,7 @@ Well, if starting an online coding course is a bridge too far, check out the fol
 
 
 ### **SILICON VALLEY**!
-*What you can learn: Life in the tech start-up ecosystem** 
+*What you can learn: Life in the tech start-up ecosystem*
 
 Set in the titular homebase of all things tech, this comedy series revolves around a bunch of programmers who are brilliant at coding but not so great at getting a company up and running. 
 
@@ -31,7 +31,7 @@ As the real life image of tech went from universal force for good to potential p
 
 
 ### **The Great Hack**
-*What you can learn: Data and social media’s impact on democracy** 
+*What you can learn: Data and social media’s impact on democracy*
 
 It has now been widely reported that social media can be exploited to influence elections, but the relentless news cycle can make it difficult to remember the details. The Great Hack takes an unsparing look at how political consulting firm [Cambridge Analytica](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html) harvested data from tens of millions of Facebook users without their consent and then used that information in the course of their work for various political campaigns. The ensuing public outcry when the scandal came to light compelled Facebook founder and CEO Mark Zuckerberg to testify before Congress and magnified calls for greater regulation of social media. 
 
@@ -49,7 +49,7 @@ Together with The Great Hack, this docu-drama hybrid forms a one-two punch in wa
 
 
 ### **West World**
-*What you can learn: Ethical questions in tech**
+*What you can learn: Ethical questions in tech*
 
 West World starts as a series about a theme park filled with life-like robots that, when playing their roles as inhabitants of America’s old west, are indistinguishable from humans. Real people visit West World to experience fantasy lives as cowboys, as well as engage in all sorts of consequence-free debauchery and twisted violence against the robots. Once dead, the robots are fixed and reset, good as new. 
 
@@ -65,7 +65,7 @@ Of course, there’s also the visceral pleasure of watching Singapore depicted a
 
 
 ### **Black Mirror**
-*What you can learn: Implications of tech in the near future**
+*What you can learn: Implications of tech in the near future*
 
 If robots that make minced meat out of the [Turing Test](https://en.wikipedia.org/wiki/Turing_test) seems too far off, then check out Black Mirror instead. This series that originated in Britain grounds itself by taking inspiration from tech that already exists and pushes the premise off-kilter. 
 
@@ -75,7 +75,7 @@ If all these sound unbearably bleak, know that Black Mirror also contains one of
 
 
 ### **Mr Robot**
-*What you can learn: Cyber security and the world of hackers**
+*What you can learn: Cyber security and the world of hackers*
 
 You know this series isn’t playing around with keeping things real when the lead character drops terms like “Tor networking”, “onion routing protocol”, and “exit nodes” in the very first episode even before the title card makes its debut appearance. 
 
