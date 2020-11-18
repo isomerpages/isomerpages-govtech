@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech Talk to sound like a tech veteran"
+title: "Tech Talk to sound like a Tech Vet"
 permalink: "/media/technews/tech-talk-to-sound-like-a-tech-veteran"
 category: technews
 image: "images/technews/tech-talk1.jpg"
