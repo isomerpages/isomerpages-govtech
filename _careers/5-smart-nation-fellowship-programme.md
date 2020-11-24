@@ -17,7 +17,7 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://s
 
 ## **Hear from our Fellows**
 
-![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
+![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
 * [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
 * [Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong)<br>
