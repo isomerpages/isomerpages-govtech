@@ -17,6 +17,7 @@ Mr Chan joins IDA from CT Corporation, one of the largest conglomerates in Indon
 The current Assistant Chief Executive (GCIO), Mr James Kang, will be returning to the private sector.  Since joining IDA in 2008, Mr Kang has played a key role in the development of the Singapore e-Government Masterplan 2011-2015 (eGov2015) which aims to facilitate greater co-creation between the Government, people and private sectors to create value for Singapore. The revamped eCitizen portal, OneInbox, Government Cloud and the opening up of government data through data.gov.sg are some of the initiatives launched under the Masterplan. During his tenure, Mr Kang initiated the building of new core skills within the GCIO such as Agile development, user experience design and business analytics, thus boosting government capabilities and efficiency. All these initiatives have contributed to continued international recognition of Singapore as a leading e-Government in the world.  
 
 Ms Jacqueline Poh, IDA MD said: “IDA expresses our deep appreciation to Mr James Kang for his service and dedication to Singapore.  In his more than five years at the helm of the Government Chief Information Office, he has made considerable contributions to IT development within the Singapore Government, tapping on new technologies like cloud computing and business analytics to enhance our capabilities. 
+
 “We look forward to welcoming Mr Chan Cheow Hoe into IDA.  His extensive experience in managing technology development in large and complex businesses will be valuable in IDA’s continued efforts to ensure operational resilience, transform the Government sector and uplift digital services in order to better serve our citizens.”
 
 ---
@@ -25,8 +26,6 @@ Ms Jacqueline Poh, IDA MD said: “IDA expresses our deep appreciation to Mr Jam
 
 ---
 
-### **Related Rosources:**
-* [CV of Mr Chan Cheow Hoe](/files/media/media-releases/2014/01/cv of chan cheow hoepdf.pdf)
 
 ### **About Infocomm Development Authority of Singapore**
 The mission of the Infocomm Development Authority of Singapore (IDA) is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit www.ida.gov.sg.
