@@ -17,13 +17,14 @@ All these resonate with you? We’d love to hear from you. [Apply Now](https://s
 
 ## **Hear from our Fellows**
 
-![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group.jpg)
+![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
 * [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
 * [Chang Sau Sheong, Managing Director, Singapore Power](#chang-sau-sheong)<br>
 * [Goh Siew Hong, Senior System Manager, GovTech](#goh-siew-hong)<br>
 * [U-Zyn Chua, Principal Consultant, Zynesis](#uzyn-chua)<br>
 * [Arun Kishore, Product Analyst, YouTube](#arun-kishore)<br>
+* [Gregor Hohpe, Enterprise Strategist, Amazon Web Services](#gregor-hohpe)<br>
 
 
 ### **Paul Piong**
@@ -86,3 +87,13 @@ Product Analyst, YouTube
 Key Contributions and Projects
 
 Arun spent three months in Singapore, and worked with GovTech’s data scientists on enhancements to Singapore’s open data portal, [Data.gov.sg](https://data.gov.sg). Arun worked on building an exploration tool that allowed users to mash data from different datasets to create new insights. Arun also worked on Beeline <https://www.beeline.sg>, an open smart mobility platform developed by GovTech to empower commuters to crowd-start and activate more direct, private express bus routes to suit their travel needs. Arun helped the Beeline team to build data pipelines to track the success of their acquisition strategy and ways to retain and engage commuters.
+
+### **Gregor Hohpe**
+<a id="gregor-hohpe"></a>
+Enterprise Strategist, Amazon Web Services
+
+*“Working with GovTech under the Smart Nation Fellowship presented a unique opportunity for applying technology to positively affect citizens' lives. GovTech equips public sector agencies with tools and platforms for faster innovation and more secure operations, allowing me to amplify my contributions across the whole of government. It also allowed me to get a flavour of Singapore's ‘secret sauce’ of running the public sector in such an efficient and effective way.”*
+
+Key Contributions and Projects
+
+Gregor’s contributions ranged from helping shape the IT strategy to coding all the way down in the IT ‘engine room’. During his nine-month stint, he established architectural practice and discipline to help channel the development teams' energy and detect potential overlaps or gaps in GovTech’s products. Shaping a cohesive Engineering Productivity team helped operationalise GovTech's cloud ambitions and the ‘Tech Stack’ platform strategy. Being able to articulate strategy and implementation across organisational layers created greater transparency and effective prioritization. To stay grounded, he also paired up with engineers; one example was to debug web worker concurrency issues to speed up the end-to-end encryption and decryption of data.
