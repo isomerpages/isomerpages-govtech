@@ -3,14 +3,14 @@ layout: post
 title: "Drones that keep Singapore going"
 permalink: "/media/technews/drones-that-keep-singapore-going"
 category: technews
-image: "images/technews/tech-talk1.jpg"
+image: "images/technews/drones-that-keep-singapore-going.jpg"
 ---
-Not all heroes wear capes, wear skintight outfits, and appear in films directed by Zack Synder. 
+Not all heroes wear capes, skintight outfits or appear in films directed by Zack Synder. 
 
 In Singapore, some heroes are comparatively small, silent creatures that operate behind the scenes to keep Singapore running. 
 ---
 
-![Tech terms used in meetings](/images/technews/tech-talk1.jpg)*Learn some tech terms and appear woke in your stand up meetings! PHOTO: UNSPLASH.COM*
+![A Drone that operates on TV WS](/images/technews/drones-that-keep-singapore-going.jpg)*The next time you are out, look up, you might see one of these hard workers going about their daily duties! PHOTO: GovTech*
 
 We’re talking of course, about drones. Since their inception, various agencies in Singapore have been trying to use them to make tasks easier, safer and more efficient. 
 
