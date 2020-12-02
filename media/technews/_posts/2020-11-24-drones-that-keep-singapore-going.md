@@ -22,8 +22,7 @@ With Singapore facing a [record number of dengue cases](https://www.channelnewsa
 
 One example? Private residential estates. 
 
-To solve this, [NEA has been using drones](https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue) to check for mosquito breeding. The drones can fly over houses, and look out for potential breeding sites,
-such the roof gutters in private estates. 
+To solve this, [NEA has been using drones](https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue) to check for mosquito breeding. The drones can fly over houses, and look out for potential breeding sites such as the roof gutters in private estates. 
 
 
 ### **Making building inspections SUAVE**
