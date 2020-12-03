@@ -12,7 +12,7 @@ Prolonged loneliness and boredom can give rise to cabin fever, a psychological c
 
 ---
 
-![Image of a people on lockdown](images/technews/cabin-fever.jpg)*It's challenging to stay home, read on for some ways to stave off cabin fever. PHOTO: UNSPLASH.COM*
+![People on lockdown](/images/technews/cabin-fever.jpg)*Bored at home? Read on and discover some novel ways to stave off cabin fever! PHOTO: UNSPLASH.COM*
 
 While no substitute for the actual treatment, technology has since risen up to attempt to tackle the problem of cabin fever. More and more we see people, trapped and isolated due to lockdowns or working from home, reaching out into the web for answers. 
 
@@ -44,7 +44,7 @@ The whole experience is whimsical and oddly satisfying.
 
 
 
-### **Spend your nights (or days) art the museum **
+### Spend your nights (or days) art the museum 
 [Google arts and culture app](https://artsandculture.google.com/partner?hl=en) will satisfy the curious mind and quench your thirst for knowledge. The app itself is not new, but with Covid lockdowns all over the world it has gained a renewed surge in content and functionality. Browse the collections of Musée d'Orsay, zoom into Rembrandt’s artwork, or even take a “walk” in famous sites all from your desktop or phone.
 
 The app is better optimised on mobile devices, offering to take users down a rabbit hole of cultural and artistic enrichment. Currently I am browsing through the NASA museum, seeing and learning about the vastness of space reminds me to seek perspective. In the timeless and ageless cosmos, human problems are truly temporary, even this pandemic must disappear someday, and in the meantime, it is important to keep one’s mind active and engaged!
