@@ -4,7 +4,7 @@ title: "New Two-Factor Authentication features provide more convenience and acce
 permalink: /media/media-releases/2020-12-16-SingPass-2fa
 date: 2020-12-16
 ---
-##**New Two-Factor Authentication features provide more convenience and accessibility for all SingPass users**
+### **New Two-Factor Authentication features provide more convenience and accessibility for all SingPass users**
 
 From 16 December 2020, SingPass users will have two new Two-Factor Authentication (2FA) options¹ when transacting with government digital services. The introduction of SingPass Face Verification and Multi-User SMS 2FA will provide more convenience and accessibility to government digital services securely. This is in line with Government’s efforts to build a digitally inclusive society by enabling digital access to government digital services for people from all walks of life.
 
