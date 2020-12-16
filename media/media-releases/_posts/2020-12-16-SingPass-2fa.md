@@ -25,7 +25,6 @@ SingPass Face Verification and Multi-User SMS 2FA are launched ahead of the deco
 ¹ *There are currently three 2FA options for SingPass users - SingPass Mobile, SMS-OTP, OneKey token (to be decommissioned by 31 March 2021).
 ² *These locations currently include IRAS Taxpayer and Business Service Centre, Our Tampines Hub’s Public Service Centre and CPFB’s Bishan Service Centre, and more locations will be rolled out progressively. 
 
-
 ---
 
 **ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
