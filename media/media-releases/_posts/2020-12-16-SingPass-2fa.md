@@ -23,7 +23,7 @@ The Multi-User SMS 2FA is an extension of the existing SMS-OTP 2FA method. Users
 SingPass Face Verification and Multi-User SMS 2FA are launched ahead of the decommissioning of OneKey token in end-March 2021 – which was announced earlier on 31 March 2020. Together with SingPass Mobile and SMS-OTP, there are now four other 2FA options for the current OneKey token users.  We are actively facilitating the remaining 120,000 OneKey token users to transit to these alternative 2FA methods, through direct mail, digital clinics and digital ambassadors. 
 
 ¹ *There are currently three 2FA options for SingPass users - SingPass Mobile, SMS-OTP, OneKey token (to be decommissioned by 31 March 2021).
-² *These locations currently include IRAS Taxpayer and Business Service Centre, Our Tampines Hub’s Public Service xtCentre and CPFB’s Bishan Service Centre, and more locations will be rolled out progressively. 
+² *These locations currently include IRAS Taxpayer and Business Service Centre, Our Tampines Hub’s Public Service Centre and CPFB’s Bishan Service Centre, and more locations will be rolled out progressively. 
 
 
 ---
@@ -32,7 +32,7 @@ SingPass Face Verification and Multi-User SMS 2FA are launched ahead of the deco
 
 ---
 ### **About Government Technology Agency**
-The Government Technology Agency of Singapore (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity. 
+The Government Technology Agency of Singapore (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public or digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity. 
 
 GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector. GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
 
