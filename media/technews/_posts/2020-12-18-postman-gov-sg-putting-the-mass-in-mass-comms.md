@@ -6,22 +6,17 @@ category: technews
 image: "images/technews/images/technews/postman.PNG"
 ---
 
-In January 2020, a new virus spread at unprecedented speed across multiple countries. Little was known about this novel threat – it would be named Covid-19 only in the next month – and amid the uncertainty, misinformation about the pandemic travelled as rapidly as the coronavirus itself. To combat the flood of fake news, the government had to pivot and find ways to communicate accurate, verified information to Singaporeans across the globe directly.
+In January 2020, a new virus spread at unprecedented speed across multiple countries. Little was known about this novel threat – it would be named COVID-19 only in the next month – and amid the uncertainty, misinformation about the pandemic travelled as rapidly as the coronavirus itself. To combat the flood of fake news, the government had to pivot and find ways to communicate accurate, verified information to Singaporeans across the globe directly.
 
 ![Gov.sg WhatsApp sign up page](/images/technews/postman.PNG) Gov.sg WhatsApp sign up page. If you haven't, sign up for all the latest on COVID-19 and other news. PHOTO: GovTech
 
 
-Postman.gov.sg is a product built by GovTech’s Open Government Products (OGP) together with the team at the Ministry of Communication and Information (MCI) under the leadership of Minister Iswaran to address the unmet needs of updating citizens with bite-size information rapidly and at scale. Using Postman.gov.sg, the Gov.sg WhatsApp channel was able to send a million messages within 22 minutes. This was a feat that was first of its kind, leading the wave to revamp how governments across the world could provide accurate public health information to control the pandemic. And the most amazing part? It was built in just three days, said Jean Tan, the tech lead for Postman.gov.sg's engineering team at OGP who shared her experience in developing Postman.gov.sg at the Stack 2020 Developers Conference. 
+[Postman.gov.sg](https://postman.gov.sg/) is a product built by GovTech’s Open Government Products (OGP) together with the team at the Ministry of Communication and Information (MCI) under the leadership of Minister Iswaran to address the unmet needs of updating citizens with bite-size information rapidly and at scale. Using Postman.gov.sg, the Gov.sg WhatsApp channel was able to send a million messages within 22 minutes. This was a feat that was first of its kind, leading the wave to revamp how governments across the world could provide accurate public health information to control the pandemic. And the most amazing part? It was built in just three days, said Jean Tan, the tech lead for Postman.gov.sg's engineering team at OGP who shared her experience in developing Postman.gov.sg at the Stack 2020 Developers Conference. 
 
 Well, know what they say – modern problems require modern solutions.
 
 
 ### **The need for speed**!
-
-
-
-
-### **Get a change of view**
 Towards the end of January, Jean’s team met with MCI to tackle the problem at hand. MCI leadership emphasised the need to communicate on a timely and frequent basis. Both teams came together and recognised that the existing WhatsApp channel that was used for peacetime communication was not meant for scale from a technical perspective and quickly pivoted to finding a new solution. 
 
 As with any emergency operational processes, they started with manual processes for the updating of subscription requests while waiting for tech enhancement for the existing systems. One gap that was identified by the teams within 24 hours of operation was the fact that manual processing of subscription requests was not scalable. There was a pressing demand for official Covid-19 updates given the uncertainty, however, the team could not keep up with the influx of requests – which they had to manually process. The second gap identified was the sending speed of the existing solution – which was built for peacetime operations and scoped for a smaller subscriber base. As a result of Covid-19, the subscriber base jumped from around 7,000 to more than 50,000 overnight. The problem with lower sending speed was that it would take 14 hours to send out half a million messages, so the first and 500,000th recipient would get their messages more than half a day apart. It was not ideal for a citizen to receive an update from the government hours after someone else had received it. 
