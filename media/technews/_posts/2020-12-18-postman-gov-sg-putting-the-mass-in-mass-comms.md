@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman.gov.sg-putting the "mass" in mass communications"
+title: "Postman.gov.sg-putting the 'mass' in mass communications"
 permalink: "/media/technews/postman-gov-sg-putting-the-mass-in-mass-comms"
 category: technews
 image: "images/technews/images/technews/postman.PNG"
