@@ -3,16 +3,17 @@ layout: post
 title: "GovTech Spotlight: Alyssa Marie Loo - Intern, Product Manager. Receipient of The President's Scholarship"
 permalink: "/media/technews/govtech-spotlight-alyssa-marie-loo"
 category: technews
-image: "images/technews/Alyssa.jpg"
+image: "/images/technews/Alyssa.jpg"
 ---
 
 You might have heard of this year’s President’s Scholarship recipient,  Alyssa-Marie-Loo-Li-Ann and how she hopes to one day create a [Singlish-speaking chatbot](https://www.todayonline.com/first-presidents-scholar-pursue-linguistics-university-wants-create-chatbot-recognises-singlish) that will help make government chatbots accessible to a wider pool of audience. 
 
 Perhaps less widely known is that she has also been doing an internship at GovTech as a product manager since Sept 14, 2020. With her school term starting in January (she’s heading to Brown University), we caught up with her to reflect on her time at GovTech; and provide her perspectives on some misconceptions about working in tech. 
+
 ---
 
-![Alyssa Marie Loo, GovTech Intern](/images/technews/VICA1.jpg)
-*Alyssa worked on VICA while interning at GovTech PHOTO: GOVTECH*
+![Alyssa Marie Loo, GovTech Intern](/images/technews/Alyssa.jpg)
+*Alyssa worked on VICA while interning at GovTech. PHOTO: GOVTECH*
 
 ### **What are you working on in your internship?**
 
@@ -58,7 +59,7 @@ A clear use case for AI in our immediate future is hence to help mediate that in
 
 These save time and mental energy for citizens and for government staff alike. 
 
-###**What are your thoughts on AI Ethics/Regulation/Governance?**
+**What are your thoughts on AI Ethics/Regulation/Governance?**
 
 The more developed AI is and the more deeply it is integrated with government services, there is definitely the issue of accountability for the AI models. 
 
@@ -70,10 +71,10 @@ I think it's great that the Singapore government is a public sector thought lead
 
 These were primarily targeted towards the private sector. Now as many AI applications are beginning to take shape in our public sector, I hope our governance frameworks will be applied internally as well. It's an immensely exciting time in the development of our citizen services and it must be navigated responsibly.
 
-###** We see you intend to study linguistics in uni; that might seem like an unconventional choice for someone joining a tech company. Can you elaborate?**
+**We see you intend to study linguistics in uni; that might seem like an unconventional choice for someone joining a tech company. Can you elaborate?**
 
 I think linguistics is also relevant to tech, particularly for the chatbot team I am working in. In my research on how to use computational linguistics to support Singaporean English, I bring a new perspective to the team, looking at use cases for language support from a linguistics angle rather than a computational one. I wanted to join GovTech because I wanted to try something outside my comfort zone and experience what a tech company environment is like. I had friends who had previously interned at GovTech before, and they were all fans of the work culture, calling it a public agency 'startup'.
 
-###**Interested in interning at GovTech?**
+**Interested in interning at GovTech?**
 Apply with us for a meaningful internship at [https://go.gov.sg/internship](https://go.gov.sg/internship ) 
 
