@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/Alyssa.jpg"
 ---
 
-You might have heard of this year’s President’s Scholarship recipient,  Alyssa-Marie-Loo-Li-Ann and how she hopes to one day create a [Singlish-speaking chatbot](https://www.todayonline.com/first-presidents-scholar-pursue-linguistics-university-wants-create-chatbot-recognises-singlish) that will help make government chatbots accessible to a wider pool of audience. 
+You might have heard of this year’s President’s Scholarship recipient,  Alyssa Marie Loo Li Ann, and how she hopes to one day create a [Singlish-speaking chatbot](https://www.todayonline.com/first-presidents-scholar-pursue-linguistics-university-wants-create-chatbot-recognises-singlish) that will help make government chatbots accessible to a wider pool of audience. 
 
 Perhaps less widely known is that she has also been doing an internship at GovTech as a product manager since Sept 14, 2020. With her school term starting in January (she’s heading to Brown University), we caught up with her to reflect on her time at GovTech; and provide her perspectives on some misconceptions about working in tech. 
 
