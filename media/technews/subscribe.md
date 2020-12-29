@@ -33,8 +33,9 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
         padding: 0 22px;
         color: #ffffff;
         border: 0 none;
+	margin: 0 auto;
         border-radius: 4px;
-        font-size: 18px
+        font-size: 24px
         font-weight: bold;
         text-align: center;
         height: 32px;
