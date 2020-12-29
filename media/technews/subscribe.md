@@ -22,8 +22,8 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 	clear:left; 
 	font:20px Lato,sans-serif;
 	margin-bottom: 24px;
-	margin: 20px auto;
-	padding: 10px 0;
+	margin: auto;
+	padding: 20px;
 	display: inline-block;
 }
 label {
