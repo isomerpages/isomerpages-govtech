@@ -25,6 +25,14 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 	margin: auto;
 	padding: 20px;
 	display: inline-block;
+	height: 40px;
+        width: 50%;
+}
+#mc_embed_signup .indicates-required {
+        margin-bottom: 16px;
+}
+#mc_embed_signup .mc-field-group {
+        margin-bottom: 16px;
 }
 label {
         font-weight: bold;
@@ -38,8 +46,14 @@ select {
         height: 40px;
         width: 50%;
 }
+option {
+        font:20px Lato,sans-serif;
+	height: 40px;
+        width: 50%;
+}
 #mc_embed_signup .button {
         background-color: #B41E8E;
+	font:20px Lato,sans-serif;
         color: #ffffff;
 	width: 50%;
 }
