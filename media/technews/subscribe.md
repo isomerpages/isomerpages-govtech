@@ -19,6 +19,8 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 <style type="text/css">
     #mc_embed_signup{background:transparent; clear:left; font:18px Lato,sans-serif; }
     .indicates-required,
+    .clear,
+    .datefield,
     .mc-field-group{
         margin-bottom: 24px;
     }
@@ -29,6 +31,7 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
     #mc_embed_signup .button {
         background-color: #B41E8E;
         padding: 8px 12px;
+        color: #ffffff;
     }
 </style>
 <div id="mc_embed_signup">
