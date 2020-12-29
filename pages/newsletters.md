@@ -6,6 +6,8 @@ permalink: /newsletters/
 breadcrumb: Newsletters
 recommender: false
 
+---
+
 - infopic:
         title: TechNews
         description: Go behind the scenes of GovTech innovations and keep up with important tech trends
@@ -20,4 +22,5 @@ recommender: false
         url: <http://eepurl.com/cUwIsD>
         image: /images/technews/technews-logo.png
         alt: TechNews logo
+        
 ---
