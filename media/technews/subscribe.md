@@ -18,13 +18,11 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #a7a9ac; 
+	background: #DCDCDC; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
-	margin: auto;
 	padding: 16px;
-	display: inline-block;
 }
 #mc_embed_signup .indicates-required {
         margin-bottom: 16px;
