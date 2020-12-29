@@ -39,15 +39,7 @@ option {
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
-        padding: 24px;
         color: #ffffff;
-        border: none;
-	margin: auto;
-        border-radius: 4px;
-        font-size: 20px;
-        text-align: center;
-        height: 32px;
-        line-height: 32px;
     }
 </style>
 <div id="mc_embed_signup">
