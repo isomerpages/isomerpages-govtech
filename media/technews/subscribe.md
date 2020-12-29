@@ -21,9 +21,9 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 	background:a7a9ac; 
 	clear:left; 
 	font:20px Lato,sans-serif;
-	margin-bottom: 24px;
+	margin-bottom: 16px;
 	margin: auto;
-	padding: 20px;
+	padding: 16px;
 	display: inline-block;
 }
 #mc_embed_signup .indicates-required {
@@ -31,10 +31,12 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 }
 #mc_embed_signup .mc-field-group {
         margin-bottom: 16px;
+	margin-right: 16px;
 }
 label {
         font-weight: bold;
 	margin-bottom: 16px;
+	margin-right: 16px;
 }
 input {
         height: 40px;
@@ -60,19 +62,23 @@ option {
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
+	<br>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
+	<br>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
+	<br>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group size1of2">
 	<label for="mce-PHONE">Mobile Number </label>
+	<br>
 	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
 </div>
 <div class="mc-field-group size1of2">
@@ -88,8 +94,9 @@ option {
 	<label for="mce-TECH">Are you in a tech-based job / field of study?  <span class="asterisk">*</span>
 </label>
 	<select name="TECH" class="required" id="mce-TECH">
-	<option value=""></option>
-	<option value="Yes">Yes</option>
+<br>
+<option value=""></option>
+<option value="Yes">Yes</option>
 <option value="No">No</option>
 
 	</select>
@@ -98,8 +105,9 @@ option {
 	<label for="mce-INDUSTRY">Which industry do you primarily work in?  <span class="asterisk">*</span>
 </label>
 	<select name="INDUSTRY" class="required" id="mce-INDUSTRY">
-	<option value=""></option>
-	<option value="Manufacturing - Energy &amp; Chemicals">Manufacturing - Energy &amp; Chemicals</option>
+<br>
+<option value=""></option>
+<option value="Manufacturing - Energy &amp; Chemicals">Manufacturing - Energy &amp; Chemicals</option>
 <option value="Manufacturing - Precision Engineering">Manufacturing - Precision Engineering</option>
 <option value="Manufacturing - Marine &amp; Offshore">Manufacturing - Marine &amp; Offshore</option>
 <option value="Manufacturing - Aerospace">Manufacturing - Aerospace</option>
