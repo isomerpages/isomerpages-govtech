@@ -17,6 +17,10 @@ recommender: false
     .mc-field-group{
         margin-bottom: 20px;
     }
+    label {
+        font-weight: bold;
+        margin-right: 20px;
+    }
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=a7bc4d341a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
