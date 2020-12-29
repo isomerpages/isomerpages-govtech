@@ -17,18 +17,25 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{background:transparent; clear:left; font:18px Lato,sans-serif; }
+#mc_embed_signup{background:transparent; clear:left; font:18px Lato,sans-serif; }
     .indicates-required,
     .clear,
     .datefield,
     .mc-field-group{
         margin-bottom: 24px;
+	padding: 10px 0;
     }
-    label {
+   label {
         font-weight: bold;
         margin-right: 24px;
     }
-    #mc_embed_signup .button {
+	input {
+    width: 200px;
+	}
+	option {
+    width: 200px;
+	}
+#mc_embed_signup .button {
         background-color: #B41E8E;
         padding: 0 22px;
         color: #ffffff;
