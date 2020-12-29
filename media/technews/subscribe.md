@@ -33,7 +33,7 @@ input {
         height: 40px;
         width: 50%;
 }
-option {
+select {
         height: 40px;
         width: 50%;
 }
