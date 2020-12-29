@@ -26,6 +26,10 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
         font-weight: bold;
         margin-right: 24px;
     }
+    #mc_embed_signup .button {
+        background-color: #B41E8E;
+        padding: 8px 12px;
+    }
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=a7bc4d341a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
