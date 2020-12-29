@@ -11,9 +11,6 @@ recommender: false
 
 More than 10,000 tech enthusiasts and professionals are now receiving bi-weekly tech insights, tips and stories from GovTech. Subscribe to get curated insights into the world of tech for your quick and easy reading.
 
-By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/). 
-
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -143,3 +140,5 @@ option {
 </div>
 
 <!--End mc_embed_signup-->
+
+By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/). 
