@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Subscribe To TechNews!
+title: Newsletter
 permalink: "/media/technews/subscribe"
 category: technews
-image:
+recommender: false
 ---
+
+
+### Subscribe for bi-weekly insights into the latest tech stories and updates
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
