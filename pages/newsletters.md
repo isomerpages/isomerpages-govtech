@@ -6,12 +6,7 @@ breadcrumb: Newsletters
 recommender: false
 ---
 
-
-# TechNews
-technews:
-  - name: TechNews
-    title: Get the latest tech stories and updates
-    link: http://eepurl.com/cUwIsD
-   - name: TechNews Insider
-    title: For tech professionals, get the inside tech scoop
-    link: http://eepurl.com/hg3QxT
+(/images/technews/technews-logo.png "TechNews Logo")
+## TechNews
+Get the latest tech stories and updates
+[Sign up here](http://eepurl.com/cUwIsD)
