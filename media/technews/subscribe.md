@@ -7,7 +7,14 @@ recommender: false
 ---
 
 
-### Subscribe for bi-weekly insights into the latest tech stories and updates
+#### Join the TechNews community! 
+
+More than 10,000 tech enthusiasts and professionals are now receiving bi-weekly tech insights, tips and stories from GovTech.
+
+Subscribe to get curated insights into the world of tech for your quick and easy reading.
+
+By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/). 
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -15,11 +22,11 @@ recommender: false
     #mc_embed_signup{background:transparent; clear:left; font:16px Lato,sans-serif; }
     .indicates-required,
     .mc-field-group{
-        margin-bottom: 20px;
+        margin-bottom: 24px;
     }
     label {
         font-weight: bold;
-        margin-right: 20px;
+        margin-right: 24px;
     }
 </style>
 <div id="mc_embed_signup">
