@@ -17,7 +17,7 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-#mc_embed_signup{background:transparent; clear:left; font:18px Lato,sans-serif; }
+#mc_embed_signup{background:transparent; clear:left; font:20px Lato,sans-serif; }
     .indicates-required,
     .clear,
     .datefield,
@@ -42,8 +42,7 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
         border: 0 none;
 	margin: 0 auto;
         border-radius: 4px;
-        font-size: 24px
-        font-weight: bold;
+        font-size: 20px;
         text-align: center;
         height: 32px;
         line-height: 32px;
