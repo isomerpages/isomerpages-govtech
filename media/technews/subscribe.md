@@ -25,8 +25,6 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
 	margin: auto;
 	padding: 20px;
 	display: inline-block;
-	height: 40px;
-        width: 50%;
 }
 #mc_embed_signup .indicates-required {
         margin-bottom: 16px;
