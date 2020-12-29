@@ -6,7 +6,7 @@ breadcrumb: Newsletters
 recommender: false
 ---
 
-(/images/technews/technews-logo.png "TechNews Logo")
+![TechNews logo](/images/technews/technews-logo.png)
 ## TechNews
 Get the latest tech stories and updates
 [Sign up here](http://eepurl.com/cUwIsD)
