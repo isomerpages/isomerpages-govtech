@@ -1,5 +1,8 @@
 ---
-title: FAQ
+layout: simple-page
+title: GovTech Newsletters
 permalink: /newsletters/
+breadcrumb: Newsletters
+recommender: false
 ---
-Hello, Isomer! This is my very first edit!
+Test Text
