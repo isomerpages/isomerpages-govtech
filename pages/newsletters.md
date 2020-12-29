@@ -1,4 +1,5 @@
 ---
+layout: resources-alt
 title: GovTech Newsletters
 description: Stay up to date with the latest tech stories and updates from GovTech
 permalink: /newsletters/
