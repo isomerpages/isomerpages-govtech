@@ -29,18 +29,20 @@ By submitting this form, you accept the [Terms & Conditions](https://www.tech.go
         font-weight: bold;
         margin-right: 24px;
     }
-	input {
-    width: 200px;
-	}
-	option {
-    width: 200px;
-	}
+input {
+        height: 40px;
+        width: 50%;
+}
+option {
+        height: 40px;
+        width: 50%;
+}
 #mc_embed_signup .button {
         background-color: #B41E8E;
-        padding: 0 22px;
+        padding: 24px;
         color: #ffffff;
-        border: 0 none;
-	margin: 0 auto;
+        border: none;
+	margin: auto;
         border-radius: 4px;
         font-size: 20px;
         text-align: center;
