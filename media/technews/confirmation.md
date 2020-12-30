@@ -6,4 +6,4 @@ category: technews
 image:
 ---
 
-Thank you! Your subscription to TechNews e-newsletter has been confirmed.
+![TechNews newsletter confirmation](/images/technews/thank-you.png)
