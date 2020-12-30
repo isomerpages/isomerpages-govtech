@@ -36,8 +36,8 @@ key-highlights:
     description: To create a Government that is “Digital to the Core, and Serves with Heart"
     url: /digital-government-blueprint/?utm_source=hero_banner
   - title: SUBSCRIBE TO TECHNEWS
-    description: Get the latest news and highlights from GovTech
-    url: https://go.gov.sg/subscribe-now 
+    description: Get the latest tech stories and updates from GovTech
+    url: /media/technews/subscribe
     external: true
   - title: JOIN US
     description: Unleash your passion and potential with us
