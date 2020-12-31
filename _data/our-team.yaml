@@ -99,10 +99,6 @@ senior-leadership:
     title: Senior Director
     organisation: Smart Nation Platform Solutions
     image-url: /images/our-team/lim-chinn-hwa.jpg
-  - name: Ms Jacqueline LIM
-    title: Senior Director
-    organisation: Government Infrastructure Group
-    image-url: /images/our-team/jacqueline-lim.png
   - name: Mr D. N. PRASAD
     title: Senior Director
     organisation: Strategy, People and Organisation
@@ -123,6 +119,10 @@ senior-leadership:
     title: Director
     organisation: Sensors & IoT
     image-url: /images/our-team/quek-yang-boon2.jpg
+  - name: Mr TAY Richard
+    title: Director
+    organisation: Government Infrastructure Group
+    image-url: /images/our-team/RichardTay.png
   - name: Ms Hefen WONG
     title: Director
     organisation: Technology Management Office & Development and Organisation Transformation
@@ -147,6 +147,10 @@ senior-leadership:
     title: Director
     organisation: Strategy and Plans
     image-url: /images/our-team/jennifer-tan.jpg
+  - name: Mr SING Khang Leng
+    title: Cluster Director
+    organisation: Ministry of Manpower Cluster
+    image-url: /images/our-team/SINGKHIANGLENG.jpg
 
 # Organisational Structure
 organisational-structure:
