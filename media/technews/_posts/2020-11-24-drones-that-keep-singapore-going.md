@@ -49,7 +49,7 @@ If it all works out, this drone can help inspections on the island to be done re
 
 
 ### **Keeping us safe, from the skies**
-We might not have those police helicopters as they do in the United States, but the Singapore Police Force and the Home Team Science and Technology Agency are developing drones that give operators a clear picture of the ground situation instead. 
+We might not have those police helicopters as they do in the United States, but the Singapore Police Force and HTX (Home Team Science and Technology Agency) are developing drones that give operators a clear picture of the ground situation instead. 
 
 These drones have a range of a few hundred metres, and are equipped with cameras with high powered zoom lenses – they are kinda like a hawk patrolling its grounds. In addition, they are also capable of missions up to 30 minutes, reducing the need for manpower. 
 
