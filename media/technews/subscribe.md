@@ -7,9 +7,9 @@ recommender: false
 ---
 
 
-#### Join the TechNews community! 
+#### Welcome to the TechNews community! 
 
-More than 10,000 tech enthusiasts and professionals are now receiving bi-weekly tech insights, tips and stories from GovTech. Subscribe to get curated insights into the world of tech for your quick and easy reading.
+Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for the latest GovTech updates, tech stories and behind-the-scenes features.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
