@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/homepage-banner-technews2.png
+hero-banner: /images/Stack2020_New2.jpg
 
 #Call to Action Button
 button:
-  - text: Subscribe
-    url: /media/technews/subscribe
+  - text: Learn More
+    url: /media/events/stack-2020
     
 # Key Highlights
 key-highlights:
