@@ -44,7 +44,7 @@ The TraceTogether app does not increase the risk of a data breach on your phone.
 
 ### **Myth #6 - All information in the TraceTogether app is uploaded onto a server that faces a perpetual threat of being hacked into.**
 
-Apart from your mobile number, at the point of registration, all data collected through the TraceTogether app is stored locally in your phone in an encrypted form. It is not uploaded to any central server. The data will never be accessed, unless you have been confirmed as a COVID-19 patient. The MOH contact tracing team will then ask you for explicit approval to access the data in your app, and it is transferred to private storage that is not exposed to the Internet.
+Apart from your mobile number, at the point of registration, all data collected through the TraceTogether app is stored locally in your phone in an encrypted form. It is not uploaded to any central server. The data will never be accessed when you have been confirmed as a COVID-19 patient. The MOH contact tracing team will then ask you for explicit approval to access the data in your app, and it is transferred to private storage that is not exposed to the Internet.
 
 ### **Myth #7 - Other TraceTogether users can see my phone number.**
 
