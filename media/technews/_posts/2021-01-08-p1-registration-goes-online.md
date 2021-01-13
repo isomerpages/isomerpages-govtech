@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "P1 Registration Day 2021 - A modern Singapore 'Tradition' goes online"
+title: "P1 Registration Post COVID-19 - A modern Singapore 'Tradition' goes online"
 permalink: "/media/technews/p1-registration-goes-online"
 category: technews
 image: "images/technews/classroom1.jpg"
 ---
-It's the first week of school for 2021, the day of reckoning for 7 year-olds who start Primary 1. But even before their first-day-of-school jitters , parents had their own jitters when it came to tackling P1 Registration.
+It's the first week of school for 2021, the day of reckoning for 7 year-olds who start Primary 1. But even before their first-day-of-school jitters , parents had their own jitters when it came to tackling P1 Registration during 2020's P1 Registration excercise.
 
 Ah, P1 registration day – a rite of passage of all new parents. You take leave, wake up early, then head to the school that your kid will hopefully be enrolled in. 
 
@@ -16,19 +16,18 @@ It’s an anxious day of queues, hot weather and fiddling about with paperwork. 
 ![ClassRoom](/images/technews/classroom1.jpg) Even before the first day of school jitters, parents have to go through P1 registration jitters first! PHOTO: UNSPLASH.com
 
 
-Of course, with COVID-19 happening this year, tradition had to give way to tech. Reason being, many anxious parents in queues don't exactly qualify as safe distancing. 
+Of course, with COVID-19, tradition had to give way to tech. Reason being, many anxious parents in queues don't exactly qualify as safe distancing. 
 
-In the interest of public health and safety, MOE moved the P1 Registration exclusively online. 
+In the interest of public health and safety, MOE moved the 2020 P1 Registration exclusively online. 
 
 The intention was to give parents online means for all the registration phases; especially in the midst of COVID-19 where registration at school or MOE HQ was disallowed.   
 
-While phase 1A and 2A already typically take place online, this year Phases 2A1, 2A2 and 2B, saw parents logging in via their SingPass, and registering their P1 kids using the FormSG platform. 
+While phase 1A and 2A already typically take place online, 2020's Phases 2A1, 2A2 and 2B, saw parents logging in via their SingPass, and registering their P1 kids using the FormSG platform. 
 
 ### **Developed with an agile mindset**!
 For years, MOE had been looking at taking the P1 registration process online. COVID-19 served as the catalyst in 2020. 
 
-
-Well before Circuit Breaker, when COVID-19 loomed in the background in March, the development team was preparing to expedite this, to make it for this year’s P1 registration exercise. 
+Well before Circuit Breaker, when COVID-19 loomed in the background in March, the development team was preparing to expedite this, to make it for make it in time for 2020 year’s P1 registration exercise. 
 
 Instead of waiting for the full product to be built, they instead launched it in beta, whilst continuously making small improvements to the platform. 
 
@@ -39,7 +38,7 @@ In the words of Senior Project Manager Tan Yeo Kwang, agile was one of the core 
  
 
 ### **A Safer and Faster way to register online**
-With its inaugural launch, FormSG received 20,000 applications in this year’s P1 registrations.
+With its inaugural launch, FormSG received 20,000 applications during the 2020 P1 Registration execercise.
 
 One parent, Ms Julie Lim, who registered her child online using FormSG for Elias Primary School, was surprised by how fast it took. 
 
