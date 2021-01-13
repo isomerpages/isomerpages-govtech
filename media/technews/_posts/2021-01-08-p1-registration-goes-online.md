@@ -5,7 +5,7 @@ permalink: "/media/technews/p1-registration-goes-online"
 category: technews
 image: "images/technews/classroom1.jpg"
 ---
-It's the first week of school for 2021, the day of reckoning for 7 year-olds who start Primary 1. But even before their first-day-of-school jitters , parents had their own jitters when it came to tackling P1 Registration during 2020's P1 Registration excercise.
+It's the first week of school for 2021, the day of reckoning for 7 year-olds who start Primary 1. But even before their first-day-of-school jitters , parents had their own jitters when it came to tackling the 2020 P1 Registration excercise.
 
 Ah, P1 registration day – a rite of passage of all new parents. You take leave, wake up early, then head to the school that your kid will hopefully be enrolled in. 
 
