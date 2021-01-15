@@ -6,7 +6,7 @@ category: technews
 image: "images/technews/smartcityamsterdam1.jpg"
 ---
 
-As you might know, Singapore scores pretty well amongst the world’s smart cities – Otherwise, why else would they shoot WestWorld here?  
+As you might know, Singapore scores pretty well amongst the world’s smart cities – Otherwise, why else would they shoot [WestWorld](https://www.channelnewsasia.com/news/lifestyle/westworld-season-3-singapore-11706008) here?  
 
 That said, we’re not the only one out there. Cities around the world are all racing to compete as ideal places to live, work and play, improving the lives of their citizens. 
 
@@ -28,8 +28,9 @@ Fun fact: Apart from being amongst [the world’s top 10 smart cities](https://w
 They say great minds think alike – let’s see what our Dutch friends are up to!
 
 
-### **The Mijnbuur app!**!
-![The Mijnbuur](/images/technews/smartcityamsterdam2.png)*Read on to find out how its similar to our very own One Service App! PHOTO: https://www.mijnbuur.nl/*
+### **The Mijnbuur app**
+![The Mijnbuur](/images/technews/smartcityamsterdam2.png) 
+*Read on to find out how The Mijnbuur app aims to foster a sense of social responsibility. PHOTO: https://www.mijnbuur.nl/*
 
 The Mijnbuur app is probably the most wholesome thing you’ll hear about. It connects you with your neighbours, the local police, or your neighbourhood director if you’re in need of help (be it a robbery, or if some day-to-day maintenance issues). In the Netherlands, apartment owners are expected to work together to maintain and keep their apartment complexes clean. 
 
