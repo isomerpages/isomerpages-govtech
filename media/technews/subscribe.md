@@ -57,41 +57,19 @@ option {
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
-	<br>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
-	<br>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-	<br>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-PHONE">Mobile Number </label>
-	<br>
-	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-DOB-month">Date of Birth  <span class="asterisk">*</span>
-</label>
-	<div class="datefield">
-		<span class="subfield dayfield"><input class="datepart required" type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="DOB[day]" id="mce-DOB-day"></span> / 
-        <span class="subfield monthfield"><input class="datepart required" type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="DOB[month]" id="mce-DOB-month"></span> / 
-		<span class="subfield yearfield"><input class="datepart required" type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="DOB[year]" id="mce-DOB-year"></span>
-        <span class="small-meta nowrap">( dd / mm / yyyy )</span>
-	</div>
-</div><div class="mc-field-group">
 	<label for="mce-TECH">Are you in a tech-based job / field of study?  <span class="asterisk">*</span>
 </label>
 	<select name="TECH" class="required" id="mce-TECH">
-<br>
-<option value=""></option>
-<option value="Yes">Yes</option>
+	<option value=""></option>
+	<option value="Yes">Yes</option>
 <option value="No">No</option>
 
 	</select>
@@ -100,9 +78,8 @@ option {
 	<label for="mce-INDUSTRY">Which industry do you primarily work in?  <span class="asterisk">*</span>
 </label>
 	<select name="INDUSTRY" class="required" id="mce-INDUSTRY">
-<br>
-<option value=""></option>
-<option value="Manufacturing - Energy &amp; Chemicals">Manufacturing - Energy &amp; Chemicals</option>
+	<option value=""></option>
+	<option value="Manufacturing - Energy &amp; Chemicals">Manufacturing - Energy &amp; Chemicals</option>
 <option value="Manufacturing - Precision Engineering">Manufacturing - Precision Engineering</option>
 <option value="Manufacturing - Marine &amp; Offshore">Manufacturing - Marine &amp; Offshore</option>
 <option value="Manufacturing - Aerospace">Manufacturing - Aerospace</option>
@@ -129,6 +106,18 @@ option {
 
 	</select>
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-DOB-month">Date of Birth </label>
+	<div class="datefield">
+		<span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="DOB[day]" id="mce-DOB-day"></span> / 
+        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="DOB[month]" id="mce-DOB-month"></span> / 
+		<span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="DOB[year]" id="mce-DOB-year"></span>
+        <span class="small-meta nowrap">( dd / mm / yyyy )</span>
+	</div>
+</div><div class="mc-field-group size1of2">
+	<label for="mce-PHONE">Mobile Number </label>
+	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -138,7 +127,6 @@ option {
     </div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
 
-By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/). 
+By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).
