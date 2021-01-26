@@ -8,7 +8,7 @@ tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
-### **Government Commercial Cloud (GCC)**
+#### **Government Commercial Cloud (GCC)**
 
 The Government Commercial Cloud Service brings the modern innovations and capabilities of commercial cloud computing platforms to less sensitive Government systems. These leading ICT capabilities are augmented by robust cybersecurity measures and systems to protect the data that resides on commercial cloud platforms.
 
@@ -16,11 +16,11 @@ Multinational conglomerates like Amazon, Google and Microsoft are leading the cl
 
 Government agencies can tap on commercial cloud software to incorporate advanced functionalities into their digital services instead of trying to reinvent the wheel. Application testing and deployment can be automated and done in real-time, speeding up the delivery of high-quality Government digital services to citizens and businesses.
 
-### **GCC Foundation Training**
+#### **GCC Foundation Training**
 
 GovTech is offering a GCC Foundation Training. Upon completion trainees will have reliably demonstrated the ability to select and use the appropriate GCC Services (GCCS) to host systems on GCC.
 
-### **Learning Objectives**
+#### **Learning Objectives**
 
 •           Purpose of each GCCS
 
@@ -32,11 +32,11 @@ GovTech is offering a GCC Foundation Training. Upon completion trainees will hav
 
 •           Onboarding, Setup and Operating Systems  
 
-### **Training Approach**
+#### **Training Approach**
 
 •           eLearning on Udemy
 
-### **Assessment**
+#### **Assessment**
 
 ·         Online certification test
 
@@ -48,7 +48,7 @@ GovTech is offering a GCC Foundation Training. Upon completion trainees will hav
 
 ·         Open-book using course materials
 
-### **Pre-requisites**
+#### **Pre-requisites**
 
 ·         Requires a Udemy account
 
