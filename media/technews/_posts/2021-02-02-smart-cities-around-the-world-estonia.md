@@ -59,6 +59,7 @@ How is this done? According to Bercman: “...narrow artificial intelligence alg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYP-ndJhsCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Now that’s really smart.
 
 
