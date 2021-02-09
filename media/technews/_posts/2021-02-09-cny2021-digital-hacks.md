@@ -28,7 +28,7 @@ Here’s what you might want to do ahead of CNY:
 
 - Standardise the platforms you’ll use: Zoom, Teams or Google Hangouts.
 - Consider the setup of your live stream. 
-- Can you camera capture the full table?
+- Can your camera capture the full table?
 - What kind of lighting does your space have?  
 - Can your audio visual equipment stand the sticky mess that Lo Hei typically results in? 
 
@@ -42,7 +42,7 @@ Just tap on the phrase of your choice, and it’ll be belted out of your phone w
 
 ### e-Ang Pows for hygiene purposes
 
-Compared to the early 2010s where digital payments were clunky and fiddling to use, these days, many people will have their mobile number linked with PayNow, making transfers easy. 
+Compared to the early 2010s where digital payments were clunky and fiddly to use, these days, many people will have their mobile number linked with PayNow, making transfers easy. 
 
 Now, let’s look at the pros and cons from digital Ang Pows: 
 
