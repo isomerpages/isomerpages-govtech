@@ -33,7 +33,7 @@ Here’s what you might want to do ahead of CNY:
 - Can your audio visual equipment stand the sticky mess that Lo Hei typically results in? 
 
 
-### Giving Lo Hei a digital spin helping voice
+### Giving Lo Hei a digital spin
 
 Speaking of Lo Hei, you’ve probably heard the [news by now about the curbs](https://www.straitstimes.com/life/food/masks-and-gloves-on-and-no-shouting-please-quieter-lohei-to-welcome-year-of-the-ox) on shouting auspicious phrases. But the annual tossing of yusheng doesn’t have to be a silent affair thanks to some nifty apps. 
 
