@@ -40,7 +40,7 @@ Speaking of Lo Hei, you’ve probably heard the [news by now about the curbs](ht
 Just tap on the phrase of your choice, and it’ll be belted out of your phone with gusto. There’s even a [version with dialect readings](http://djbeng.com/lohei.html), while others are [helpfully organised by ingredients](https://lovolume-lohei.sg) instead. For instance, tap on the sweet sauce and the app will read out the appropriate auspicious phrase for that condiment (a definite lifesaver because, let’s face it, most of us can’t remember which phrase goes with which ingredient). 
 
 
-### e-Ang Pows for hygienic purposes
+### e-Ang Pows for hygiene purposes
 
 Compared to the early 2010s where digital payments were clunky and fiddling to use, these days, many people will have their mobile number linked with PayNow, making transfers easy. 
 
