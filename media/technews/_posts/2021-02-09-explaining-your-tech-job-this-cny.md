@@ -10,7 +10,7 @@ Chinese New Year is just around the corner and we know what this means for many 
 ---
 
 ![My job? I'm in tech lor](/images/technews/cnytechjobs.jpg)
-*我做电脑 (I work with computers).  PHOTO: GovTech.COM*
+*我做电脑 (I work with computers).  PHOTO: GovTech*
 
 Even with this year’s Covid restrictions on house visits and mingling, you’ll be on the receiving end of “what work are you doing now” quite a few times. And if you’re a techie, you probably have struggled with how to describe your job, before settling for a lame "我做电脑"(I do computer stuff).
 
