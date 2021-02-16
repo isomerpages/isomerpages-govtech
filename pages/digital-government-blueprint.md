@@ -43,5 +43,6 @@ Here is how the DGB will benefit you:
 
 
 Read up the DGB here:
+- [Digital Government Blueprint (Updated December 2020)](/files/media/corporate-publications/dgb-public-document_30dec20.pdf)
 - [Digital Government Blueprint (Summary)](/files/digital-transformation/dgb_summary_june2018.pdf)
 - [Digital Government Blueprint](/files/digital-transformation/dgb_booklet_june2018.pdf)
