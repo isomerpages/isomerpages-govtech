@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hpw one GovTech employee worked in 2 places in 2020"
+title: "How one GovTech employee worked in two places in 2020"
 permalink: "/media/technews/how-one-govtech-employee-worked-in-two-places-in-2020"
 category: technews
 image: "/images/technews/stephanie_yeo.jpg"
