@@ -14,7 +14,7 @@ We spoke to our very own Stephanie Yeo, a senior delivery manager at GovTech who
 ---
 
 ![Stephanie Yeo](/images/technews/stephanie_yeo.jpg)
-*A picture taken on Stephanie's last day of secondement. PHOTO: GOVTECH*
+*A picture taken on Stephanie's last day at VMware Pivotal Labs. PHOTO: GOVTECH*
 
 ### **Stephanie, what made you want to try the DTAP programme out?**
 
