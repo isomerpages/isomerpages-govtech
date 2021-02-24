@@ -118,6 +118,12 @@ option {
 	<label for="mce-PHONE">Mobile Number </label>
 	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
 </div>
+<div class="mc-field-group input-group">
+    <strong>Are you interested in co-creation opportunities? </strong>
+    <ul><li><input type="radio" value="1" name="group[59]" id="mce-group[59]-59-0"><label for="mce-group[59]-59-0">Yes</label></li>
+<li><input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1"><label for="mce-group[59]-59-1">No</label></li>
+</ul>
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
