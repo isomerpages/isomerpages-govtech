@@ -119,6 +119,14 @@ senior-leadership:
     title: Director
     organisation: Sensors & IoT
     image-url: /images/our-team/quek-yang-boon2.jpg
+  - name: Ms Jennifer TAN
+    title: Director
+    organisation: Strategy and Plans
+    image-url: /images/our-team/jennifer-tan.jpg
+  - name: Mr Jordan TAN
+    title: Director
+    organisation: Digital Workplace
+    image-url: /images/our-team/jordan-tan.jpg
   - name: Mr TAY Richard
     title: Director
     organisation: Government Infrastructure Group
@@ -127,6 +135,10 @@ senior-leadership:
     title: Director
     organisation: Technology Management Office & Development and Organisation Transformation
     image-url: /images/our-team/hefen-wong-govtech-senior-leader.jpg
+  - name: Mr SING Khang Leng
+    title: Cluster Director
+    organisation: Ministry of Manpower Cluster
+    image-url: /images/our-team/SINGKHIANGLENG.jpg
   - name: Ms Evangeline CHUA
     title: Chief People Officer
     organisation: People and Organisation Group
@@ -143,18 +155,6 @@ senior-leadership:
     title: Chief Communications Officer
     organisation: Communications and Marketing Group
     image-url: /images/our-team/lim-keng-soon.jpg
-  - name: Ms Jennifer TAN
-    title: Director
-    organisation: Strategy and Plans
-    image-url: /images/our-team/jennifer-tan.jpg
-  - name: Mr SING Khang Leng
-    title: Cluster Director
-    organisation: Ministry of Manpower Cluster
-    image-url: /images/our-team/SINGKHIANGLENG.jpg
-  - name: Mr Jordan TAN
-    title: Director
-    organisation: Digital Workplace
-    image-url: /images/our-team/jordan-tan.jpg
 
 # Organisational Structure
 organisational-structure:
