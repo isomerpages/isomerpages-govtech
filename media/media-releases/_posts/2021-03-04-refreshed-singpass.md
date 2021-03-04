@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Refreshed Singpass reflects improved services and drives digital innovations with private sector" 
-permalink: /media/media-releases/2021-03-04-refreshed-singpass-reflects-improved-services-and-drives-digital-innovations-with-private-sector
+permalink: /media/media-releases/2021-03-04-refreshed-singpass
 date: 2021-03-04
 ---
 ### **Refreshed Singpass reflects improved services and drives digital innovations with private sector**
