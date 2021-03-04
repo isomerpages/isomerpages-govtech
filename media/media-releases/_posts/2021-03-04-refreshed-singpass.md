@@ -51,7 +51,7 @@ Kwok Quek Sin, Senior Director for National Digital Identity at GovTech, said, �
 ---
 
 **Related Resources**
-- Annex A – [SingPass Factsheet](/files/media/media-releases/2019/May/Factsheet on Singpass (national digital identity) - updated Mar 2021.pdf){:target="_blank"}
+- Annex A – [Singpass Factsheet](/files/media/media-releases/2019/May/Factsheet on Singpass (national digital identity) - updated Mar 2021.pdf){:target="_blank"}
 
 ---
 
