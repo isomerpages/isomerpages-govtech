@@ -29,7 +29,7 @@ In the realm of cybersecurity, the flag is a digital one that can be as simple a
 STACK the Flags 2020 was a Jeopardy style CTF, so named because of the similar format to the long-running TV game show. Challenges are categorised based its relevance to various cybersecurity domain and there is a varying level of difficulty among the challenges. This is to create a rich CTF experience and offer a different flavour for participants of different skills and experience. (For more on CTF cybersecurity competitions, read this introductory piece by one of our GovTech colleagues.)
 
 
-### **All walks of life
+### All walks of life
 
 Indeed, Stack the Flags 2020 drew both international and local participants ranging from cybersecurity professionals to students still learning about the field. 
  
