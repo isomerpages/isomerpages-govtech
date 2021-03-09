@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Over 1,400 registered for GovTech’s first-ever “capture-the-flag” cybersecurity competition"
-
 permalink: "/media/technews/capture-the-flag-competition"
 category: technews
 image: "/images/technews/ctf1.jpg.jpg"
