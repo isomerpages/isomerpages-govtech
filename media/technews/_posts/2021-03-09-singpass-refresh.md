@@ -4,9 +4,8 @@ title: "Refreshed Singpass brings with it 5 awesome features  "
 permalink: "/media/technews/singpass-refresh"
 category: technews
 image: "images/technews/singpass-rebrand.png"
-
- 
 ---
+
 In the era of COVID-19 and digital services, the Singpass app has been a loyal friend. The days of multiple long-passwords and missing tokens are fortunately but a distant memory. 
  
 If you feel that way, you’re not alone. 
