@@ -10,7 +10,7 @@ GovTech’s organised it’s first-ever “capture-the-flag” (CTF) cybersecuri
 ---
 
 ![CTF comp](/images/technews/ctf1.jpg.jpg)
-*STACK the flags 2020 was a huge succes with more than 1,400 participants. PHOTO: UNSPLASH*
+*STACK the flags 2020 was a huge success with more than 1,400 participants. PHOTO: UNSPLASH*
 
  Over 1,400 participants (437 teams) registered, making Stack the Flags 2020 one of the largest CTF competition in Singapore till date.
  
