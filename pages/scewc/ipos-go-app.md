@@ -3,6 +3,7 @@ layout: simple-page
 title:  "IPOS GO App"
 permalink: "/scewc2019/ipos-go-app"
 breadcrumb: IPOS GO App
+published: false
 ---
 
 <div class="bp-youtube">
