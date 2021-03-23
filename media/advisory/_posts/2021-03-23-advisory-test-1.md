@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Advisory Test 1"
-permalink: "/media/advisory/advisory-test-1"
-category: advisory
-image: 
+permalink: /media/advisory/2021-03-23-advisory-test-1
+date: 2021-03-23
 ---
 
 ### Test Page
