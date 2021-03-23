@@ -64,7 +64,9 @@
   - title: TechNews
     url: /media/technews/
   - title: Blogs
-    url: /media/blogs/listing 
+    url: /media/blogs/listing
+  - title: Advisory
+    url: /media/advisory/
 - title: Contact Us
   url: /contact-us/
   sub-links:
