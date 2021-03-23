@@ -49,6 +49,7 @@
     url: https://go.gov.sg/govtechjobs
     external: true
 - title: Media
+  resource_room: true
   url: /media/
   sub-links:
   - title: All
