@@ -9,9 +9,12 @@ date: 2021-03-25
 
 The Government Technology Agency (GovTech) has received reports of scam letters sent to suppliers via fax. These scam letters, seeking advertising support for a publication, used GovTech’s logo without authorisation and borne the forged signatures of the Smart Nation and Digital Government Group’s Permanent Secretary, Mr Ng Chee Khern, and GovTech’s Chief Executive, Mr Kok Ping Soon. These letters were not sent out by GovTech. Please see pictures of the scam letter below.
 
-![Page 1 of 2 of scam letter](/images/2021-03-25-Scam-Letter-Page-1.jpg) Page 1 of 2 of scam letter
 
-![Page 2 of 2 of scam letter](/images/2021-03-25-Scam-Letter-Page-2.png) Page 2 of 2 of scam letter
+![Page 1 of 2 of scam letter](/images/2021-03-25-Scam-Letter-Page-1.jpg)*Page 1 of 2 of scam letter*
+
+
+![Page 2 of 2 of scam letter](/images/2021-03-25-Scam-Letter-Page-2.png)*Page 2 of 2 of scam letter*
+
 
 GovTech does not send letters or emails to endorse the work of suppliers and/or solicit support for suppliers. A police report has been made. Members of the public and organisations are advised to exercise caution to avoid falling prey to scams.
 
