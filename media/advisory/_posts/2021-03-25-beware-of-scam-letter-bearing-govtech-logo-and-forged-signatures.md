@@ -16,9 +16,9 @@ The Government Technology Agency (GovTech) has received reports of scam letters 
 GovTech does not send letters or emails to endorse the work of suppliers and/or solicit support for suppliers. A police report has been made. Members of the public and organisations are advised to exercise caution to avoid falling prey to scams.
 
 Individuals who received this scam letter or other suspicious letter or email claiming to be from GovTech should:
-  a)	Not reply to the email or have any subsequent correspondence with the sender;
-  b)	Contact GovTech at info@tech.gov.sg to verify its authenticity; and
-  c)	Consider making a police report.
+<br> a)	Not reply to the email or have any subsequent correspondence with the sender;
+<br> b)	Contact GovTech at info@tech.gov.sg to verify its authenticity; and
+<br> c)	Consider making a police report.
 
 ---
 
