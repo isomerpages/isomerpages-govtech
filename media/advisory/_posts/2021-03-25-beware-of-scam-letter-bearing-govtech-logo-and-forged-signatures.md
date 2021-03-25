@@ -20,13 +20,11 @@ GovTech does not send letters or emails to endorse the work of suppliers and/or 
 
 Individuals who received this scam letter or other suspicious letter or email claiming to be from GovTech should:
 <br>   a)	Not reply to the email or have any subsequent correspondence with the sender;
-<br>   b)	Contact GovTech at info@tech.gov.sg to verify its authenticity; and
+<br>   b)	Contact GovTech at [info@tech.gov.sg](mailto:info@tech.gov.sg) to verify its authenticity; and
 <br>   c)	Consider making a police report.
 
 ---
-
 **ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE**
-
 ---
 
 **About Government Technology Agency**
