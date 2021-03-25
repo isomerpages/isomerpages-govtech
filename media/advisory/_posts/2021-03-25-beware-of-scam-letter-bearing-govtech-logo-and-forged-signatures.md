@@ -24,7 +24,9 @@ Individuals who received this scam letter or other suspicious letter or email cl
 <br>   c)	Consider making a police report.
 
 ---
+
 **ISSUED BY THE GOVERNMENT TECHNOLOGY AGENCY**
+
 ---
 
 **About Government Technology Agency**
