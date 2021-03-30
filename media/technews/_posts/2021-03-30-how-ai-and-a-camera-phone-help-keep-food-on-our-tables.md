@@ -22,7 +22,7 @@ Ensuring an adequate supply of rotifers is a huge challenge for fish farms as fi
 
 To prevent such a catastrophe, hatchery technicians – including Singapore Food Agency (SFA) staff – have to manually examine samples from the rotifer supply. Using a microscope, they assess the rotifers’ swimming activity, look out for contaminants such as ciliates, and implement mitigating action to improve the health of the rotifers if needed. As you can see from the images below, examining the rotifers even with the help of a microscope is no simple task and it takes one well-trained staff about 40 minutes daily to vet the samples.
 
-![Rotifers under a microscope](/images/technews/rotifer-microscope.gif) Rotifers under a microscope
+![Rotifers under a microscope](/images/technews/rotifer-microscope.gif)*Rotifers under a microscope*
 
 Given the laborious nature of the work, automation was explored but no off-the-shelf products were found. Hence, GovTech and SFA teamed up to develop a solution and turned to Artificial Intelligence (AI) to save the technicians precious time as well as from eye strain.
 
@@ -30,7 +30,7 @@ Given the laborious nature of the work, automation was explored but no off-the-s
 
 To create a machine that could automatically examine samples, the team first had to capture images of the samples with a good balance of quality and cost effectiveness. SFA considered four different methods – a laboratory microscope; a basic student microscope; a table magnifier; and a camera phone. Based on user feedback, the camera phone was picked as it was a cheap solution that was easy to use and produced photo resolutions that were sufficient for this project.
 
-![Image capturing devices review](/images/technews/image-capturing-device.png) Image capturing devices review
+![Image capturing devices review](/images/technews/image-capturing-device.png)*Image capturing devices review*
 
 ### **Creating intelligence**
 
@@ -38,15 +38,15 @@ AI works by training a machine through examples. For instance, you start trainin
 
 Similarly, images captured of the rotifer sample have to be carefully annotated so the machine learns what healthy rotifers look like.
 
-![Breakdown of the 6 rotifer classes](/images/technews/breakdown-of-rotifer-classes.png) Breakdown of the 6 rotifer classes
+![Breakdown of the 6 rotifer classes](/images/technews/breakdown-of-rotifer-classes.png)*Breakdown of the 6 rotifer classes*
 
 So an image like this:
 
-![Different classes of rotifers in a water sample](/images/technews/different-classes-of-rotifers-in-water-sample.png) Different classes of rotifers in a water sample
+![Different classes of rotifers in a water sample](/images/technews/different-classes-of-rotifers-in-water-sample.png)*Different classes of rotifers in a water sample*
 
 Has to be painstakingly labelled by SFA officers who have the necessary knowledge, producing something like this:
 
-![Rotifer classes labelled on the water sample](/images/technews/rotifer-classes-labelled-on-water-sample.png) Rotifer classes labelled on the water sample
+![Rotifer classes labelled on the water sample](/images/technews/rotifer-classes-labelled-on-water-sample.png)*Rotifer classes labelled on the water sample*
 
 The team also cropped the photos so that distracting shadows in the background were eliminated. As this was a time-consuming process, it explored and succeeded in automating the cropping. 
 
@@ -60,7 +60,7 @@ Based on this result, the model was rolled out to the hatchery technicians for b
 
 The AI model was approved by SFA and the team went on to make a mobile app, allowing users to upload images that will be automatically assessed instantly.
 
-![Application for rotifers counting results](/images/technews/rotifer-counting-application.png) Application for rotifers counting results
+![Application for rotifers counting results](/images/technews/rotifer-counting-application.png)*Application for rotifers counting results*
 
 Instead of 40 minutes of tedious “eye-power”, all it takes now is just a minute of photo uploading to evaluate the rotifer samples. A single hatchery technician is needed to prepare the samples, photograph them, and pass the images to the machine. Besides drastically improving productivity, the SFA officers and farmers also have more time to focus on higher-value tasks. 
 
