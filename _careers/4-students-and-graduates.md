@@ -43,7 +43,6 @@ An exclusive leadership-trainee programme, TAP is designed to sharpen and develo
 ![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
 
 #### **How can you apply?**
-Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Technology-Associate-Programme--TAP-_JR-10000000881)
+Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Register your interest [here](go.gov.sg/govtechtalentcommunity) and get notified when applications are open!
 
-
-To receive updates about our Young Talent programmes, join our [community](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
+To receive updates about our Young Talent programmes, join our [community](http://go.gov.sg/govtechtalentcommunity).
