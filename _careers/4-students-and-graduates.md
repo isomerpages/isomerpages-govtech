@@ -43,6 +43,6 @@ An exclusive leadership-trainee programme, TAP is designed to sharpen and develo
 ![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
 
 #### **How can you apply?**
-Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Register your interest [here](go.gov.sg/govtechtalentcommunity) and get notified when applications are open!
+Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Register your interest [here](https://go.gov.sg/govtechtalentcommunity) and get notified when applications are open!
 
-To receive updates about our Young Talent programmes, join our [community](http://go.gov.sg/govtechtalentcommunity).
+To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).
