@@ -29,25 +29,25 @@ The chatbots on the Energy Market Authority website (Ask Emma), MCI gov.sg web a
 VICA - Virtual Intelligent Chat Assistant will bring about the following benefits:
 
 For Citizens
-•	Greater convenience and accessibility to the government, 24/7;
-•	Quick and direct answers to queries;
-•	Ability to get help without the need to know which agencies to go to; and
-•	Better user experience through conversational digital interactions
+* Greater convenience and accessibility to the government, 24/7;
+* Quick and direct answers to queries;
+* Ability to get help without the need to know which agencies to go to; and
+* Better user experience through conversational digital interactions
 
 For Agencies 
-•	Provides central platform that supports common features, hence more sustainable.
-•	Platform is future proof and able to swap tech components when needed
-•	Lower effort and cost to manage, maintain and update
+* Provides central platform that supports common features, hence more sustainable.
+* Platform is future proof and able to swap tech components when needed
+* Lower effort and cost to manage, maintain and update
 
 ### **What are some of the new developments?**
 
 We are constantly looking into areas where technology can complement our lives and VICA will be progressively enhanced with new features.
 
 Some of the new developments are listed below:
-•	Unified chat front end for common branding across all government ministries and agencies
-•	Singpass Integration
-•	Live Chat Escalation
-•	Support for multiple chat channels like Whatsapp and Telegram
+* Unified chat front end for common branding across all government ministries and agencies
+* Singpass Integration
+* Live Chat Escalation
+* Support for multiple chat channels like Whatsapp and Telegram
 
 ### **What are the future plans?**
 
