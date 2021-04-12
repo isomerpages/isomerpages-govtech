@@ -46,4 +46,4 @@ Ask Jamie’s citizen outreach channels have been extended with the use of AI an
 
 Automation of call centres to address general queries can relieve resources for and reduce costs of call centre operations. Call agents can be relieved from tending to routine queries to focus on more complex questions. A pilot project on automated call answering service has been started with MSF’s Baby Bonus Hotline. There are also plans to roll out ‘Ask Jamie Bot’ on Facebook Messenger in early 2019.
 
-With Ask Jamie moving to multi-channel, we hope to offer citizens seamless communication, anytime and anywhere in the near future.
+In the next phase, [VICA chatbots](https://www.tech.gov.sg/products-and-services/vica) will eventually replace all 90+ existing “Ask Jamie” government agency chatbots.
