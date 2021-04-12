@@ -20,7 +20,7 @@ VICA supports modern Natural Language Processing (NLP) engines and leverages on 
 
 One of VICA’s goals is to make our chatbots engine-agnostic, which means that the chatbots can leverage the latest NLP technology to achieve better performance and accuracy.
 
-The chatbots on the Energy Market Authority website (Ask Emma), MCI gov.sg web and Covid-19 Whatsapp channel are all powered by VICA today. In the next phase, VICA chatbots will eventually replace all 90+ existing “Ask Jamie” government agency chatbots. 
+The chatbots on the Energy Market Authority website (Ask Emma), MCI gov.sg web and Covid-19 Whatsapp channel are all powered by VICA today. In the next phase, VICA chatbots will eventually replace all [90+ existing “Ask Jamie” government agency chatbots](https://www.tech.gov.sg/products-and-services/ask-jamie). 
 
 ### **Benefits**
 
