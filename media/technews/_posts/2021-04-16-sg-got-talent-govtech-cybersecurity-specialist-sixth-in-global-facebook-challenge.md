@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SG got talent – GovTech’s cybersecurity specialist is 6th in global Facebook challenge"
-permalink: "/media/technews/sg-got-talent-govtech-cybersecurity-specialist-sixth-in-global-facebook-challenge.md"
+permalink: "/media/technews/sg-got-talent-govtech-cybersecurity-specialist-sixth-in-global-facebook-challenge"
 category: technews
 image: "/images/technews/Eugenelim.jpg"
 ---
