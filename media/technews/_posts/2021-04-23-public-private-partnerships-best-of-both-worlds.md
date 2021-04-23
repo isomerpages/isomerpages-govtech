@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/barrylim.JPG"
 ---
 
-Picture this: In the near future, borders are finally open for leisure travel again. Upon arrival in the country where you’ve booked a beach holiday, the immigration officer pulls the records of your Covid-19 swab test that you did in Singapore a day ago….
+Picture this: In the near future, borders are finally open for leisure travel again. Upon arrival in the country where you’ve booked a beach holiday, the immigration officer pulls the records of your Covid-19 swab test that you did in Singapore a day ago. 
 
 ---
 
