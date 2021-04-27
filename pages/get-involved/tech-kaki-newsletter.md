@@ -52,6 +52,13 @@ input[type='radio'] {
   margin-right: 14px;
   margin-left: 4px;
 }
+input[type='checkbox'] {
+  height: 14px;
+  width: 14px;
+  vertical-align: middle;
+  margin-right: 14px;
+  margin-left: 4px;
+}
 #mc_embed_signup .button {
         background-color: #F47920;
 	font:20px Lato,sans-serif;
