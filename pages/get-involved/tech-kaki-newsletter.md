@@ -7,8 +7,6 @@ breadcrumb: Tech Kaki Newsletter
 
 ![Image of TechKaki](/images/tech-kaki-logo-small.jpg)
 
-![Image of TechKaki]({{site.baseurl}}/images/programmes/products-and-services/TechKaki-Header.jpg)
-
 #### **Welcome to the Tech Kaki community!**
 
 Co-create with us! Join our Tech Kaki mailing list to get updates on surveys, focus group discussions and other events, where you can help GovTech teams build better products and services for the public.
