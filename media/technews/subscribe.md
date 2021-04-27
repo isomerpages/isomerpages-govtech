@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Newsletter
+title: TechNews Newsletter
 permalink: "/media/technews/subscribe"
 category: technews
+breadcrumb: TechNews Newsletter
 recommender: false
 ---
 
-
-#### Welcome to the TechNews community! 
+#### **Welcome to the TechNews community!**
 
 Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for the latest GovTech updates, tech stories and behind-the-scenes features.
 
@@ -15,11 +15,12 @@ Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for t
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #DCDCDC; 
+	background: #ffffff; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
 	padding: 16px;
+	display: inline-block;
 }
 #mc_embed_signup .indicates-required {
         margin-bottom: 16px;
@@ -27,6 +28,11 @@ Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for t
 #mc_embed_signup .mc-field-group {
         margin-bottom: 16px;
 	margin-right: 16px;
+	width: inherit;
+}
+ul, li{
+    list-style:none;
+    list-style-type:none;
 }
 label {
         font-weight: bold;
@@ -43,38 +49,67 @@ option {
         font:20px Lato,sans-serif;
 	height: 40px;
 }
+input[type='radio'] {
+  height: 14px;
+  width: 14px;
+  vertical-align: middle;
+  margin-right: 14px;
+  margin-left: 4px;
+}
 #mc_embed_signup .button {
         background-color: #B41E8E;
 	font:20px Lato,sans-serif;
         color: #ffffff;
 }
+#mc_embed_signup form {
+    padding: 0;
+}	
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<div class="indicates-required">
+	<span class="asterisk">*</span> indicates required
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+	<label for="mce-EMAIL"
+	       >Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	<input 
+	       type="email" 
+	       value="" 
+	       name="EMAIL" 
+	       class="required email" 
+	       id="mce-EMAIL"
+	/>
 </div>
 <div class="mc-field-group">
-	<label for="mce-TECH">Are you in a tech-based job / field of study?  <span class="asterisk">*</span>
+	<label for="mce-FNAME"
+	       >First Name  <span class="asterisk">*</span>
+</label>
+	<input 
+	       type="text" 
+	       value="" 
+	       name="FNAME" 
+	       class="required" 
+	       id="mce-FNAME"
+	/>
+</div>
+<div class="mc-field-group">
+	<label for="mce-TECH"
+	       >Are you in a tech-based job / field of study?  
+	       <span class="asterisk">*</span>
 </label>
 	<select name="TECH" class="required" id="mce-TECH">
 	<option value=""></option>
 	<option value="Yes">Yes</option>
-<option value="No">No</option>
-	</select>
+	<option value="No">No</option>
+</select>
 </div>
 <div class="mc-field-group">
-	<label for="mce-INDUSTRY">Which industry do you primarily work in?  <span class="asterisk">*</span>
+	<label for="mce-INDUSTRY"
+	       >Which industry do you primarily work in?  <span class="asterisk">*</span>
 </label>
 	<select name="INDUSTRY" class="required" id="mce-INDUSTRY">
 	<option value=""></option>
@@ -105,8 +140,15 @@ option {
 	</select>
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
-	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
+	<label for="mce-BIRTHYEAR"
+	       >Which year were you born in? </label>
+	<input 
+	       type="number" 
+	       name="BIRTHYEAR" 
+	       class="" 
+	       value="" 
+	       id="mce-BIRTHYEAR"
+	/>
 </div>
 <div class="mc-field-group input-group">
     <strong>Are you interested in co-creation opportunities? </strong>
