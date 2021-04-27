@@ -61,6 +61,9 @@ input[type='radio'] {
 	font:20px Lato,sans-serif;
         color: #ffffff;
 }
+#mc_embed_signup form {
+    padding: 0;
+}	
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
