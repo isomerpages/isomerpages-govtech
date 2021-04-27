@@ -92,7 +92,8 @@ input[type='checkbox'] {
 	<input type="number" name="BIRTHYEAR" class="required" value="" id="mce-BIRTHYEAR">
 </div>
 <div class="mc-field-group input-group">
-    <strong>Gender </strong>
+    <strong>Gender  <span class="asterisk">*</span>
+</strong>
     <ul><li><input type="radio" value="Female" name="GENDER" id="mce-GENDER-0"><label for="mce-GENDER-0">Female</label></li>
 <li><input type="radio" value="Male" name="GENDER" id="mce-GENDER-1"><label for="mce-GENDER-1">Male</label></li>
 </ul>
