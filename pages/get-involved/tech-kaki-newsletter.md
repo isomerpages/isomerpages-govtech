@@ -86,16 +86,16 @@ input[type='checkbox'] {
 </label>
 	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHYEAR">Which year were you born in?  <span class="asterisk">*</span>
+</label>
+	<input type="number" name="BIRTHYEAR" class="required" value="" id="mce-BIRTHYEAR">
+</div>
 <div class="mc-field-group input-group">
     <strong>Gender </strong>
     <ul><li><input type="radio" value="Female" name="GENDER" id="mce-GENDER-0"><label for="mce-GENDER-0">Female</label></li>
 <li><input type="radio" value="Male" name="GENDER" id="mce-GENDER-1"><label for="mce-GENDER-1">Male</label></li>
 </ul>
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-BIRTHYEAR">Which year were you born in?  <span class="asterisk">*</span>
-</label>
-	<input type="number" name="BIRTHYEAR" class="required" value="" id="mce-BIRTHYEAR">
 </div>
 <div class="mc-field-group input-group">
     <strong>Tech topics I am keen to hear about: </strong>
