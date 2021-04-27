@@ -3,6 +3,7 @@ layout: post
 title: TechNews Newsletter
 permalink: "/media/technews/subscribe"
 category: technews
+breadcrumb: TechNews Newsletter
 recommender: false
 ---
 
