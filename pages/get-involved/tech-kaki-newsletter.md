@@ -25,6 +25,7 @@ Co-create with us! Join our Tech Kaki mailing list to get updates on surveys, fo
 #mc_embed_signup .mc-field-group {
         margin-bottom: 16px;
 	margin-right: 16px;
+	width: inherit;
 }
 ul, li{
     list-style:none;
