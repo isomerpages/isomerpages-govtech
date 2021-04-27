@@ -44,12 +44,12 @@ option {
 	height: 40px;
 }
 input[type='radio'] { 
-     	transform: scale(2); 
+     	transform: scale(1.5); 
 }
 input[type='radio'] {
-  height: 15px;
-  width: 15px;
-  vertical-align: middle;
+  height: 12px;
+  width: 12px;
+  vertical-align: bottom;
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
