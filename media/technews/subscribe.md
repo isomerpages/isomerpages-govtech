@@ -20,6 +20,7 @@ Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for t
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
 	padding: 16px;
+	display: inline-block;
 }
 #mc_embed_signup .indicates-required {
         margin-bottom: 16px;
