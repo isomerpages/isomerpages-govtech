@@ -50,9 +50,10 @@ input[type='radio'] {
      	transform: scale(1.5); 
 }
 input[type='radio'] {
-  height: 12px;
-  width: 12px;
+  height: 10px;
+  width: 10px;
   vertical-align: bottom;
+  margin-right: 10px;
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
