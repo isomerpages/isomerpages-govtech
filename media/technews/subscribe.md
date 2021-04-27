@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter
+title: TechNews Newsletter
 permalink: "/media/technews/subscribe"
 category: technews
 recommender: false
