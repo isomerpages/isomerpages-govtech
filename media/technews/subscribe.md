@@ -56,21 +56,6 @@ input[type='radio'] {
 	font:20px Lato,sans-serif;
         color: #ffffff;
 }
-input[input type="radio"] {
-   display: none;
-}
-input[input type="radio"] + div {
-   height: 20px;
-   width: 20px;
-   display: inline-block;
-   cursor: pointer;
-   vertical-align: middle;
-   border: 1px solid #000000;
-   border-radius: 100%;
-} 
-input[input type="radio"] + div:hover {
-    	border-color: #000000;
-}
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
