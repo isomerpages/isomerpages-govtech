@@ -28,8 +28,9 @@ Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for t
         margin-bottom: 16px;
 	margin-right: 16px;
 }
-ul {
- list-style: none;
+ul, li{
+    list-style:none;
+    list-style-type:none;
 }
 label {
         font-weight: bold;
