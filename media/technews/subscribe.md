@@ -52,6 +52,7 @@ input[type='radio'] {
   width: 14px;
   vertical-align: middle;
   margin-right: 14px;
+  margin-left: 4px;
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
