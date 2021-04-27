@@ -48,10 +48,10 @@ option {
 	font:20px Lato,sans-serif;
         color: #ffffff;
 }
-input[type="radio"] {
+input[input type="radio"] {
    display: none;
 }
-input[type="radio"] + div {
+input[input type="radio"] + div {
    height: 20px;
    width: 20px;
    display: inline-block;
@@ -60,11 +60,8 @@ input[type="radio"] + div {
    border: 1px solid #000000;
    border-radius: 100%;
 } 
-input[type="radio"] + div:hover {
+input[input type="radio"] + div:hover {
     	border-color: #000000;
-}
-input[type="radio"]:checked + div {
-    	background:gray;
 }
 </style>
 <div id="mc_embed_signup">
