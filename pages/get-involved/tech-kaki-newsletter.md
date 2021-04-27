@@ -5,7 +5,7 @@ permalink: "/get-involved/tech-kaki-newsletter"
 breadcrumb: Tech Kaki Newsletter
 ---
 
-![Image of TechKaki]({{site.baseurl}}/images/programmes/products-and-services/TechKaki-Header.jpg)
+![Image of TechKaki](/images/programmes/products-and-services/TechKaki-Header.jpg)
 
 #### **Welcome to the Tech Kaki community!**
 
