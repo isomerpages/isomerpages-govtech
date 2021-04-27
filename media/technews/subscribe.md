@@ -6,8 +6,7 @@ category: technews
 recommender: false
 ---
 
-
-#### Welcome to the TechNews community! 
+#### **Welcome to the TechNews community!**
 
 Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for the latest GovTech updates, tech stories and behind-the-scenes features.
 
