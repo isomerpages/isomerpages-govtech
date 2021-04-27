@@ -48,8 +48,8 @@ option {
 	height: 40px;
 }
 input[type='radio'] {
-  height: 12px;
-  width: 12px;
+  height: 14px;
+  width: 14px;
   vertical-align: middle;
   margin-right: 14px;
 }
