@@ -71,7 +71,6 @@ option {
 	<option value=""></option>
 	<option value="Yes">Yes</option>
 <option value="No">No</option>
-
 	</select>
 </div>
 <div class="mc-field-group">
@@ -103,20 +102,11 @@ option {
 <option value="Government">Government</option>
 <option value="Other Industry">Other Industry</option>
 <option value="Not Applicable">Not Applicable</option>
-
 	</select>
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-DOB-month">Date of Birth </label>
-	<div class="datefield">
-		<span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="DOB[day]" id="mce-DOB-day"></span> / 
-        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="DOB[month]" id="mce-DOB-month"></span> / 
-		<span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="DOB[year]" id="mce-DOB-year"></span>
-        <span class="small-meta nowrap">( dd / mm / yyyy )</span>
-	</div>
-</div><div class="mc-field-group size1of2">
-	<label for="mce-PHONE">Mobile Number </label>
-	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
+	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
+	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
 </div>
 <div class="mc-field-group input-group">
     <strong>Are you interested in co-creation opportunities? </strong>
