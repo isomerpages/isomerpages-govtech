@@ -12,7 +12,7 @@ Co-create with us! Join our Tech Kaki mailing list to get updates on surveys, fo
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #f2f2f2; 
+	background: #ffffff; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
