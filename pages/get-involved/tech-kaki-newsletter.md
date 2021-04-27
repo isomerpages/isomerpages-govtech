@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: post
 title: Tech Kaki Newsletter
 permalink: "/get-involved/tech-kaki-newsletter"
 breadcrumb: Tech Kaki Newsletter
