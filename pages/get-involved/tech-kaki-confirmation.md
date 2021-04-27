@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: post
 title: Tech Kaki Confirmation
 permalink: "/get-involved/tech-kaki-confirmation"
 breadcrumb: Tech Kaki Confirmation
