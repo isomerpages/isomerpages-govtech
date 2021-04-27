@@ -66,28 +66,47 @@ input[type='radio'] {
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<div class="indicates-required">
+	<span class="asterisk">*</span> indicates required
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+	<label for="mce-EMAIL"
+	       >Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	<input 
+	       type="email" 
+	       value="" 
+	       name="EMAIL" 
+	       class="required email" 
+	       id="mce-EMAIL"
+	/>
 </div>
 <div class="mc-field-group">
-	<label for="mce-TECH">Are you in a tech-based job / field of study?  <span class="asterisk">*</span>
+	<label for="mce-FNAME"
+	       >First Name  <span class="asterisk">*</span>
+</label>
+	<input 
+	       type="text" 
+	       value="" 
+	       name="FNAME" 
+	       class="required" 
+	       id="mce-FNAME"
+	/>
+</div>
+<div class="mc-field-group">
+	<label for="mce-TECH"
+	       >Are you in a tech-based job / field of study?  
+	       ><span class="asterisk">*</span>
 </label>
 	<select name="TECH" class="required" id="mce-TECH">
 	<option value=""></option>
 	<option value="Yes">Yes</option>
-<option value="No">No</option>
-	</select>
+	<option value="No">No</option>
+</select>
 </div>
 <div class="mc-field-group">
-	<label for="mce-INDUSTRY">Which industry do you primarily work in?  <span class="asterisk">*</span>
+	<label for="mce-INDUSTRY"
+	       >Which industry do you primarily work in?  <span class="asterisk">*</span>
 </label>
 	<select name="INDUSTRY" class="required" id="mce-INDUSTRY">
 	<option value=""></option>
@@ -118,8 +137,15 @@ input[type='radio'] {
 	</select>
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
-	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
+	<label for="mce-BIRTHYEAR"
+	       >Which year were you born in? </label>
+	<input 
+	       type="number" 
+	       name="BIRTHYEAR" 
+	       class="" 
+	       value="" 
+	       id="mce-BIRTHYEAR"
+	/>
 </div>
 <div class="mc-field-group input-group">
     <strong>Are you interested in co-creation opportunities? </strong>
