@@ -71,7 +71,6 @@ option {
 	<option value=""></option>
 	<option value="Yes">Yes</option>
 <option value="No">No</option>
-
 	</select>
 </div>
 <div class="mc-field-group">
@@ -103,25 +102,27 @@ option {
 <option value="Government">Government</option>
 <option value="Other Industry">Other Industry</option>
 <option value="Not Applicable">Not Applicable</option>
-
 	</select>
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-DOB-month">Date of Birth </label>
-	<div class="datefield">
-		<span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="DOB[day]" id="mce-DOB-day"></span> / 
-        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="DOB[month]" id="mce-DOB-month"></span> / 
-		<span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="DOB[year]" id="mce-DOB-year"></span>
-        <span class="small-meta nowrap">( dd / mm / yyyy )</span>
-	</div>
-</div><div class="mc-field-group size1of2">
-	<label for="mce-PHONE">Mobile Number </label>
-	<input type="text" name="PHONE" class="" value="" id="mce-PHONE">
+	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
+	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
 </div>
 <div class="mc-field-group input-group">
     <strong>Are you interested in co-creation opportunities? </strong>
     <ul><li><input type="radio" value="1" name="group[59]" id="mce-group[59]-59-0"><label for="mce-group[59]-59-0">Yes</label></li>
 <li><input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1"><label for="mce-group[59]-59-1">No</label></li>
+</ul>
+</div>
+<div class="mc-field-group input-group">
+    <strong>Tech topics I am keen to hear about: </strong>
+    <ul><li><input type="checkbox" value="4" name="group[71][4]" id="mce-group[71]-71-0"><label for="mce-group[71]-71-0">Diversity and Inclusion in Tech</label></li>
+<li><input type="checkbox" value="8" name="group[71][8]" id="mce-group[71]-71-1"><label for="mce-group[71]-71-1">User Experience and Interface (UX/UI)</label></li>
+<li><input type="checkbox" value="16" name="group[71][16]" id="mce-group[71]-71-2"><label for="mce-group[71]-71-2">Smart Nation</label></li>
+<li><input type="checkbox" value="32" name="group[71][32]" id="mce-group[71]-71-3"><label for="mce-group[71]-71-3">Data Science and Analytics</label></li>
+<li><input type="checkbox" value="64" name="group[71][64]" id="mce-group[71]-71-4"><label for="mce-group[71]-71-4">Cybersecurity</label></li>
+<li><input type="checkbox" value="128" name="group[71][128]" id="mce-group[71]-71-5"><label for="mce-group[71]-71-5">Chatbots and Virtual Assistants</label></li>
+<li><input type="checkbox" value="256" name="group[71][256]" id="mce-group[71]-71-6"><label for="mce-group[71]-71-6">Tech for Business Owners</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
