@@ -27,6 +27,7 @@ Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for t
 #mc_embed_signup .mc-field-group {
         margin-bottom: 16px;
 	margin-right: 16px;
+	width: inherit;
 }
 ul, li{
     list-style:none;
