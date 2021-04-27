@@ -96,7 +96,7 @@ input[type='radio'] {
 <div class="mc-field-group">
 	<label for="mce-TECH"
 	       >Are you in a tech-based job / field of study?  
-	       ><span class="asterisk">*</span>
+	       <span class="asterisk">*</span>
 </label>
 	<select name="TECH" class="required" id="mce-TECH">
 	<option value=""></option>
