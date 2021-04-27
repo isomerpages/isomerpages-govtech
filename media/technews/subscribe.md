@@ -114,17 +114,6 @@ option {
 <li><input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1"><label for="mce-group[59]-59-1">No</label></li>
 </ul>
 </div>
-<div class="mc-field-group input-group">
-    <strong>Tech topics I am keen to hear about: </strong>
-    <ul><li><input type="checkbox" value="4" name="group[71][4]" id="mce-group[71]-71-0"><label for="mce-group[71]-71-0">Diversity and Inclusion in Tech</label></li>
-<li><input type="checkbox" value="8" name="group[71][8]" id="mce-group[71]-71-1"><label for="mce-group[71]-71-1">User Experience and Interface (UX/UI)</label></li>
-<li><input type="checkbox" value="16" name="group[71][16]" id="mce-group[71]-71-2"><label for="mce-group[71]-71-2">Smart Nation</label></li>
-<li><input type="checkbox" value="32" name="group[71][32]" id="mce-group[71]-71-3"><label for="mce-group[71]-71-3">Data Science and Analytics</label></li>
-<li><input type="checkbox" value="64" name="group[71][64]" id="mce-group[71]-71-4"><label for="mce-group[71]-71-4">Cybersecurity</label></li>
-<li><input type="checkbox" value="128" name="group[71][128]" id="mce-group[71]-71-5"><label for="mce-group[71]-71-5">Chatbots and Virtual Assistants</label></li>
-<li><input type="checkbox" value="256" name="group[71][256]" id="mce-group[71]-71-6"><label for="mce-group[71]-71-6">Tech for Business Owners</label></li>
-</ul>
-</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
