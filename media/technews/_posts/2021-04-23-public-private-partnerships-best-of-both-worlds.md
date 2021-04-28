@@ -22,11 +22,13 @@ Indeed, the public and private sectors are often discussed as separate and even 
 
 ### **Confirm Plus Chop**
 
-We use documents in our everyday lives as a seal of authenticity – be it a legal contract, an O-Level certificate, or doctor’s MC. As such, documents are useful only when
+We use documents in our everyday lives as a seal of authenticity – be it a legal contract, an O-Level certificate, or doctor’s MC. As such, documents are useful only when;
 
-They can be verified and therefore trusted (your employer can ring up the National University of Singapore (NUS) to check if you really graduated from there)
-They are officially recognised by a large number of people (which is why a NUS degree is worth much more than a degree you issue to yourself, for example)
-A revocation in place, if ever applicable, is made known explicitly (if a degree is no longer valid due to unethical actions that transpired) 
+- They can be verified and therefore trusted (your employer can ring up the National University of Singapore (NUS) to check if you really graduated from there)
+
+- They are officially recognised by a large number of people (which is why a NUS degree is worth much more than a degree you issue to yourself, for example)
+
+- A revocation in place, if ever applicable, is made known explicitly (if a degree is no longer valid due to unethical actions that transpired) 
 
 Enter [OpenAttestation (OA)](https://www.openattestation.com) – an open-source framework made by GovTech that can endorse and verify documents using the blockchain, the same technology that powers cryptocurrency. Documents issued through this framework are tamper-proof and are already used for educational and vocational certificates (through the [OpenCerts](https://www.opencerts.io) product) and maritime trade documents (through the [TradeTrust](https://www.tradetrust.io) product), says Barry Lim, a Delivery Manager with GovTech.
 
