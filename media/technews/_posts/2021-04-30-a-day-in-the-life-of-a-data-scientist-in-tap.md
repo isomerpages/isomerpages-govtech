@@ -57,5 +57,4 @@ Tech is one of the hottest sectors right now and the industry is hungry for tale
  
 
 
-*The [Technology Associate Programme (TAP)](http://go.gov.sg/govtech-tap) is a two-year leadership-trainee programme, designed to sharpen and develop your technical knowledge and professional skills, giving you a strong head start in your tech career. Final-year students or fresh graduates with a passion for building #TechforPublicGood and up for a good challenge, are welcome to apply! Applications are open from 1 May 2021 to 31 July 2021.
-*
+*The [Technology Associate Programme (TAP)](http://go.gov.sg/govtech-tap) is a two-year leadership-trainee programme, designed to sharpen and develop your technical knowledge and professional skills, giving you a strong head start in your tech career. Final-year students or fresh graduates with a passion for building #TechforPublicGood and up for a good challenge, are welcome to apply! Applications are open from 1 May 2021 to 31 July 2021.*
