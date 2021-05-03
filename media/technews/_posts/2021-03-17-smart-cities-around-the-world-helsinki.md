@@ -8,7 +8,7 @@ image: "/images/technews/helsinki1.jpg"
 
 If the only time you’ve heard of Helsinki was during an episode of [Money Heist](https://money-heist.fandom.com/wiki/Helsinki), you’d very much be forgiven. The capital of Finland is far, far, far away from Singapore – 9,248 km to be exact. 
 
-That said, according to the [Smart City Index 2020](https://www.imd.org/smart-city-observatory/smart-city-index/) published by Switzerland-based business school [IMD])https://www.imd.org/), Helsinki has plenty in common with Singapore. The two cities have consistently ranked amongst the top 5 smartest cities in the world. 
+That said, according to the [Smart City Index 2020](https://www.imd.org/smart-city-observatory/smart-city-index/) published by Switzerland-based business school [IMD](https://www.imd.org/), Helsinki has plenty in common with Singapore. The two cities have consistently ranked amongst the top 5 smartest cities in the world. 
 
 And while the city has quite a lot of projects going on, we’ve decided to focus on ‘smart mobility’ as a theme for this particular article.
 
