@@ -21,6 +21,8 @@ We want to solve problems. In fact, we want to solve problems with you! At GovTe
 
 We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at [https://www.facebook.com/TechKaki](https://www.facebook.com/TechKaki) today!
 
+Subscribe to the [Tech Kaki newsletter](https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_source=govtech&utm_medium=website&utm_campaign=getinvolved) for the latest updates too!
+
 ![Image of TechKaki]({{site.baseurl}}/images/programmes/products-and-services/TechKaki-Header.jpg)
 
 ---
