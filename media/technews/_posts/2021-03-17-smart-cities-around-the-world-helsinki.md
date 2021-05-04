@@ -15,7 +15,7 @@ And while the city has quite a lot of projects going on, we’ve decided to focu
 
 Helsinki has aimed to become a world leader in smart mobility  – it has set a goal of making it unnecessary for any citizen to own a private car by 2025! 
 
-Like what you're reading? Subscribe [here](https://www.tech.gov.sg/media/technews/subscribe?utm_source=outbrain&utm_medium=native&utm_campaign=smartcities1) to get the latest TechNews stories in your inbox.
+*Like what you're reading? Subscribe [here](https://www.tech.gov.sg/media/technews/subscribe?utm_source=outbrain&utm_medium=native&utm_campaign=smartcities1) to get the latest TechNews stories in your inbox.*
 
 
 ![Helsinki](/images/technews/helsinki1.jpg) Find out how Finns use technology when it comes to improving their transportation. PHOTO: UNSPLASH
