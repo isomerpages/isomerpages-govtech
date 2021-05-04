@@ -10,29 +10,9 @@ recommender: false
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-#mc_embed_signup {
-	background:#fff; 
-	clear:left; 
-	font:14px Helvetica,Arial,sans-serif;
-}
-#mc_embed_signup label {
-    text-align: center;
-}
-#mc_embed_signup input.email {
-    width: 100%;
-}
-#mc_embed_signup input.button {
-    margin: auto;
-}
-#mc_embed_signup form {
-    width: 58%;
-    margin: auto;
-}
-#mc_embed_signup .button {
-        background-color: #B41E8E;
-	font:16px Lato,sans-serif;
-        color: #ffffff;
-}	
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
