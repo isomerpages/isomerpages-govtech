@@ -76,13 +76,11 @@ In addition, mounted cameras have analytic capabilities to count and analyse cro
 
 So there you have it – great minds (and great cities) do think alike! 
 
-*Like what you read? Subscribe to TechNews newsletter for the latest stories in your inbox!*
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #ffffff; 
+	background: #f2f2f2; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
@@ -132,6 +130,9 @@ input[type='radio'] {
     padding: 0;
 }	
 </style>
+
+### **Like what you read? Subscribe to TechNews newsletter for the latest stories in your inbox!**
+
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
@@ -213,8 +214,9 @@ input[type='radio'] {
     <div style="position: absolute; left: -5000px; font:20px Lato,sans-serif;" aria-hidden="true"><input type="text" name="b_9326ff42459737140a6baa881_8b7e185878" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
+    
+*By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).*
+
 </form>
 </div>
 <!--End mc_embed_signup-->
-
-*By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).*
