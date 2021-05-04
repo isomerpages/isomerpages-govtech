@@ -21,9 +21,6 @@ recommender: false
 	padding: 16px;
 	display: inline-block;
 }
-#mc_embed_signup .indicates-required {
-        margin-bottom: 16px;
-}
 #mc_embed_signup .mc-field-group {
         margin-bottom: 16px;
 	margin-right: 16px;
@@ -41,20 +38,6 @@ label {
 input {
         height: 40px;
 }
-select {
-        height: 40px;
-}
-option {
-        font:14px Lato,sans-serif;
-	height: 40px;
-}
-input[type='radio'] {
-  height: 14px;
-  width: 14px;
-  vertical-align: middle;
-  margin-right: 14px;
-  margin-left: 4px;
-}
 #mc_embed_signup .button {
         background-color: #B41E8E;
 	font:14px Lato,sans-serif;
@@ -67,7 +50,7 @@ input[type='radio'] {
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
+	<label for="mce-EMAIL">Subscribe</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9326ff42459737140a6baa881_8b7e185878" tabindex="-1" value=""></div>
@@ -75,7 +58,5 @@ input[type='radio'] {
     </div>
 </form>
 </div>
-
-<!--End mc_embed_signup-->
 
 By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).
