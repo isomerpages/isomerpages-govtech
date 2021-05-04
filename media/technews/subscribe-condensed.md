@@ -12,7 +12,7 @@ recommender: false
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:18px Helvetica,Arial,sans-serif; width:100%;}
 #mc_embed_signup .mc-field-group {
-    padding: 10px 0;
+    padding: 20px 0;
 }
 </style>
 <div id="mc_embed_signup">
