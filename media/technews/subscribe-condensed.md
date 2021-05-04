@@ -16,7 +16,7 @@ recommender: false
 #mc_embed_signup {
 	background: #ffffff; 
 	clear: left; 
-	font: 20px Lato,sans-serif;
+	font: 14px Lato,sans-serif;
 	margin-bottom: 16px;
 	padding: 16px;
 	display: inline-block;
@@ -45,7 +45,7 @@ select {
         height: 40px;
 }
 option {
-        font:20px Lato,sans-serif;
+        font:14px Lato,sans-serif;
 	height: 40px;
 }
 input[type='radio'] {
@@ -57,7 +57,7 @@ input[type='radio'] {
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
-	font:20px Lato,sans-serif;
+	font:14px Lato,sans-serif;
         color: #ffffff;
 }
 #mc_embed_signup form {
