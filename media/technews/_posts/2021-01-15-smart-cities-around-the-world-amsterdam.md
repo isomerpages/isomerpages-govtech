@@ -76,6 +76,8 @@ In addition, mounted cameras have analytic capabilities to count and analyse cro
 
 So there you have it – great minds (and great cities) do think alike! 
 
+### **Like what you read? Subscribe to TechNews newsletter for the latest stories in your inbox!**
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -130,9 +132,6 @@ input[type='radio'] {
     padding: 0;
 }	
 </style>
-
-### **Like what you read? Subscribe to TechNews newsletter for the latest stories in your inbox!**
-
 <div id="mc_embed_signup">
 <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
