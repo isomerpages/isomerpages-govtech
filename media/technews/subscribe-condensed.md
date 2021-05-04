@@ -11,37 +11,27 @@ recommender: false
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #ffffff; 
-	clear: left; 
-	font: 16px Lato,sans-serif;
-	margin-bottom: 16px;
-	padding: 16px;
-	display: inline-block;
+	background:#fff; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif;
 }
-#mc_embed_signup .mc-field-group {
-        margin-bottom: 16px;
-	margin-right: 16px;
-	width: inherit;
+#mc_embed_signup label {
+    text-align: center;
 }
-ul, li{
-    list-style:none;
-    list-style-type:none;
+#mc_embed_signup input.email {
+    width: 100%;
 }
-label {
-        font-weight: bold;
-	margin-bottom: 16px;
-	margin-right: 16px;
+#mc_embed_signup input.button {
+    margin: auto;
 }
-input {
-        height: 40px;
+#mc_embed_signup form {
+    width: 58%;
+    margin: auto;
 }
 #mc_embed_signup .button {
         background-color: #B41E8E;
 	font:16px Lato,sans-serif;
         color: #ffffff;
-}
-#mc_embed_signup form {
-    padding: 0;
 }	
 </style>
 <div id="mc_embed_signup">
