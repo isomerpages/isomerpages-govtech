@@ -12,7 +12,7 @@ With Mothers’ Day around the corner, we spoke to three GovTechies who are moms
 ---
 
 ![GovTechies who are also mums!](/images/technews/MothersDay01.jpg)
-*Our GovTechies Pradeep, Ruth and Lydia share how they juggle their families and career in this Mother's Day Special! PHOTO: GOVTECH*
+*Our GovTechies Pradeep, Ruth and Lydia share how they juggle their families and career in this Mothers' Day Special! PHOTO: GOVTECH*
 
 ### **First off, tell us more about what you do at GovTech?**
 
