@@ -62,7 +62,7 @@ On weekends, my husband and I encourage our kids to play hard. With two boys, we
 **Ruth:** Yup, it’s important to manage your own expectations of your kids – kids will be kids so do expect a lot of hiccups and detours along the way and just go with their flow at times. Also, if you feel burned out from motherly duties, it’s not wrong at all to switch to the reverse gear and take a break (even when you’re inclined to push on further). Your kids and work can afford to wait while you catch a breath and get your sanity back on track. 
 
 
-### **Yes, kids have a way of derailing the best-laid plans, in a good way! Any funny incidents like the BBC Dad that you can share? **
+### Yes, kids have a way of derailing the best-laid plans, in a good way! Any funny incidents like the BBC Dad that you can share?
 
 **Ruth:** My younger son was having a high fever one night so I stayed up for the night to take care of him. The next morning, I felt extremely tired from staying up all night but I had to power through and get myself ready for a conference call in the morning. In the midst of the call, my younger son opened the door, walked into the room and brightly announced (while I was unmuted), “Mummy thank you so much for taking care of me last night. I feel better already. Love you.” I felt a little embarrassed that my colleagues heard his little love declaration, but I was honestly very touched by his words.
 
@@ -85,13 +85,11 @@ I’m probably biased, but I feel that boys are also especially sweet and affect
 **Ruth:** My joy is seeing my kids trying their best to learn, hearing them say “I love you mummy”, being the first person they run to when they’re down, also being their first person they run to when they’re excited about something, knowing that I am my kids’ universe, and knowing that they are my universe.
 
 
-*Kudos to all mothers who wear many hats in their daily lives and for keeping a strong front before your families and your colleagues. This feat wouldn’t be possible without their allies - fathers, grandparents, leaders, managers, co-workers etc. - so a big shout-out to you too! 
+*Kudos to all mothers who wear many hats in their daily lives and for keeping a strong front before your families and your colleagues. This feat wouldn’t be possible without their allies - fathers, grandparents, leaders, managers, co-workers etc. - so a big shout-out to you too!* 
 
-*At GovTech, we support our female colleagues where we can. This year, we have established a Women in (Gov)Tech Employee Resource Group (ERG) that would introduce more ground-up programmes and initiatives to support the attraction, development and retention of female talent within and outside of GovTech. Learn more about the establishment of our first ERG as part of our commitment to the SG Women in Tech Corporate Pledge here.
+*At GovTech, we support our female colleagues where we can. This year, we have established a Women in (Gov)Tech Employee Resource Group (ERG) that would introduce more ground-up programmes and initiatives to support the attraction, development and retention of female talent within and outside of GovTech. Learn more about the establishment of our first ERG as part of our commitment to the SG Women in Tech Corporate Pledge [here.](https://www.sgtech.org.sg/Web/Initiatives/SGWiT-Corporate-Pledge/SGTECH/Web/Initiatives/SG-Women-in-Tech-Company-Pledge/SG-Women-in-Tech-Corporate-Pledge.aspx?hkey=14a6e687-fa58-4207-b4c7-b7267d77b7d8)*
  
  
 
 
 
-
-*The [Technology Associate Programme (TAP)](http://go.gov.sg/govtech-tap) is a two-year leadership-trainee programme, designed to sharpen and develop your technical knowledge and professional skills, giving you a strong head start in your tech career. Final-year students or fresh graduates with a passion for building #TechforPublicGood and up for a good challenge, are welcome to apply! Applications are open from 1 May 2021 to 31 July 2021.*
