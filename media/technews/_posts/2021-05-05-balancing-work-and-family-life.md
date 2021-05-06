@@ -23,7 +23,7 @@ I am a Digital Service Manager , and that entails leading a team of project mana
 
 I am quite excited when we get to work with our product teams to design and launch a product and receive feedback from the users. It’s really an end to end process.  
 
-**Ruth:** As an Engagement Manager, I engage with government agencies to help their stakeholders discover how Video Analytics can enhance their agencies’ operational capabilities and efficiencies .It’s extremely meaningful to use video analytics to level up on their operational capabilities. I also find it very inspiring to work with very brilliant-minded individuals in the team and feel proud that the cutting edge technology they build can benefit agencies and citizens.
+**Ruth:** As an Engagement Manager, I engage with government agencies to help their stakeholders discover how Video Analytics can enhance their agencies’ operational capabilities and efficiencies .It’s extremely meaningful to use video analytics to level up on their operational capabilities. I also find it very inspiring to work with very brilliant-minded individuals in the team and feel proud that the cutting edge technology they build can benefit agencies and citizens!
 
 One of my most recent projects is also in collaboration with the Singapore Food Agency, where we used AI technology and image analytics to automate the laborious counting of rotifers (fish food) so that fish farms become more productive. 
 
