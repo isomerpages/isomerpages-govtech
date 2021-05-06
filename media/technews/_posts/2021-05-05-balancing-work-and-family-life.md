@@ -17,7 +17,7 @@ With Mothers’ Day around the corner, we spoke to three GovTechies who are moms
 ### **First off, tell us more about what you do at GovTech?**
 
 **Pradeep:** 
-I am a Digital Service Manager , and that entails leading a team of project managers and business analysts to deliver ICT solutions for agency’s business requirements.  I was in- charge of Corporate & Common Applications and Cloud Adoption programme at Ministry of Manpower and my team managed systems like messaging platforms, data exchange gateway, corporate systems and also tracking & supporting other MOM teams in cloud migration. 
+I am a Digital Service Manager, and that entails leading a team of project managers and business analysts to deliver ICT solutions for agency’s business requirements.  I was in- charge of Corporate & Common Applications and Cloud Adoption programme at Ministry of Manpower and my team managed systems like messaging platforms, data exchange gateway, corporate systems and also tracking & supporting other MOM teams in cloud migration. 
 
 **Lydia:** I market and communicate the benefits of GovTech’s products through media, social media, and other platforms that are most suitable for our target audiences. I’m currently working on SafeEntry’s range of products such as SafeEntry QR and the TraceTogether Token, as well as the National Digital Identity suite of services like the Singpass app and MyInfo. 
 
@@ -42,7 +42,7 @@ Earlier this year, I also went on No Pay Leave for a year to help my younger dau
 
 ### **So, how would you describe yourselves as mothers?**
 
-**Ruth:** Sometimes I feel like I’m  an OBS (Outward Bound Singapore) instructor with my kids.I’m very hands-on in giving guidance to their daily routines (habits, manners etc). I also care a lot about helping them to discover their own strengths and leadership potential. I tend to be more adventurous so I usually plan outdoor activities on weekends to destinations less trodden in the hope of building their own resilience and teamwork between siblings.
+**Ruth:** Sometimes I feel like I’m  an OBS (Outward Bound Singapore) instructor with my kids. I’m very hands-on in giving guidance to their daily routines (habits, manners etc). I also care a lot about helping them to discover their own strengths and leadership potential. I tend to be more adventurous so I usually plan outdoor activities on weekends to destinations less trodden in the hope of building their own resilience and teamwork between siblings.
 
 **Pradeep:** I try to spend as much time with my daughters as I can. I love to hear them chat about their day.  My husband and I jointly coach them, be it their studies, assignments, playtime or any other advice they need from us. 
 
@@ -57,7 +57,7 @@ On weekends, my husband and I encourage our kids to play hard. With two boys, we
 
 ### **What are your top tips for moms to achieve balance between work and kids?**
 
-**Lydia:** There is no perfect such thing as a perfect mom. Parenting has this steep learning curve that you will never get ahead of simply because every child is different. It’s important to manage your expectations. Surround yourself with people/ parents who are like-minded and don’t make you feel bad. It’s important to have people who encourage you and lend a helping hand when you can’t do it yourself. That sanity check helps to keep me going. 
+**Lydia:** There is no such thing as a perfect mom. Parenting has this steep learning curve that you will never get ahead of simply because every child is different. It’s important to manage your expectations. Surround yourself with people/ parents who are like-minded and don’t make you feel bad. It’s important to have people who encourage you and lend a helping hand when you can’t do it yourself. That sanity check helps to keep me going. 
 
 **Ruth:** Yup, it’s important to manage your own expectations of your kids – kids will be kids so do expect a lot of hiccups and detours along the way and just go with their flow at times. Also, if you feel burned out from motherly duties, it’s not wrong at all to switch to the reverse gear and take a break (even when you’re inclined to push on further). Your kids and work can afford to wait while you catch a breath and get your sanity back on track. 
 
