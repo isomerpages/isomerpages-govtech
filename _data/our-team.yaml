@@ -8,58 +8,58 @@ board-of-directors:
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/kok-ping-soon.png
-  - name: Mr Bojan BLECIC
+   - name: Mr Bojan BLECIC
     title: Senior Vice President / Head of Experience Design
     organisation: OCBC Bank
-    image-url: /images/our-team/bojan-blecic.jpg   
-  - name: Ms Lesly GOH
-    title: Senior Technology Advisor
-    organisation: World Bank
-    image-url: /images/our-team/lesly-goh.jpg
-  - name: Mr Derrick GOH
+    image-url: /images/our-team/bojan-blecic.jpg        
+   - name: Mr Derrick GOH
     title: Managing Director and Head of Group Audit
     organisation: DBS Bank
-    image-url: /images/our-team/Derrick_Goh.jpg    
-  - name: Ms Mariam JAAFAR
-    title: Partner and Managing Director (Singapore)
-    organisation: The Boston Consulting Group
-    image-url: /images/our-team/mariam-jaafar.jpg
+    image-url: /images/our-team/Derrick_Goh.jpg     
+   - name: Ms Lesly GOH
+    title: Senior Technology Advisor
+    organisation: World Bank
+    image-url: /images/our-team/lesly-goh.jpg   
   - name: Prof HO Teck Hua
     title: Senior Deputy President and Provost
     organisation: National University of Singapore (NUS)
-    image-url: /images/our-team/Ho_Teck_Hua.jpg  
-  - name: Mr Alexander KLEINBERG
-    title: Chief Executive Officer
-    organisation: EDDE Pte Ltd
-    image-url: /images/our-team/alexander-kleinberg.jpg
+    image-url: /images/our-team/Ho_Teck_Hua.jpg      
+  - name: Ms Mariam JAAFAR
+    title: Partner and Managing Director (Singapore)
+    organisation: The Boston Consulting Group
+    image-url: /images/our-team/mariam-jaafar.jpg    
   - name: Ms Melissa KHOO
     title: Deputy Secretary (Policy)
     organisation: Ministry of Education
-    image-url: /images/our-team/melissa-khoo.jpg   
+    image-url: /images/our-team/melissa-khoo.jpg       
+  - name: Mr Alexander KLEINBERG
+    title: Chief Executive Officer
+    organisation: EDDE Pte Ltd
+    image-url: /images/our-team/alexander-kleinberg.jpg    
   - name: Mr David KOH
     title: Chief Executive
     organisation: Cyber Security Agency, Prime Minister’s Office
-    image-url: /images/our-team/david-koh.jpg  
+    image-url: /images/our-team/david-koh.jpg       
   - name: Ms Jenny LEE
     title: Managing Partner
     organisation: GGV Capital
-    image-url: /images/our-team/Jenny_Lee.JPG
+    image-url: /images/our-team/Jenny_Lee.JPG  
   - name: Mr LEW Chuen Hong
     title: Chief Executive
     organisation: Infocomm Media Development Authority
-    image-url: /images/our-team/lew-chuen-hong.jpg
-  - name: Mr Muthukrishnan RAMASWAMI
-    title: Partner
-    organisation: PeepalTree Pte Ltd
-    image-url: /images/our-team/muthukrishnan-ramaswami.jpg
-  - name: Mr Mervyn Tan
-    title: Chief Executive
-    organisation: Defence Science and Technology Agency
-    image-url: /images/our-team/mervyn-tan.jpg
+    image-url: /images/our-team/lew-chuen-hong.jpg  
   - name: Mr Matt QUINLAN
     title: Director
     organisation: Ontrack Advisory
     image-url: /images/our-team/matt-quinlan.jpg
+  - name: Mr Muthukrishnan RAMASWAMI
+    title: Partner
+    organisation: PeepalTree Pte Ltd
+    image-url: /images/our-team/muthukrishnan-ramaswami.jpg
+  - name: Mr Mervyn TAN
+    title: Chief Executive
+    organisation: Defence Science and Technology Agency
+    image-url: /images/our-team/mervyn-tan.jpg
     
 # Senior Leadership
 senior-leadership:
