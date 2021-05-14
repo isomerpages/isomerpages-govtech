@@ -8,7 +8,7 @@ image: "/images/technews/locking-in-covid19-digitalisation-gains.1.png"
 
 We’ve all seen the meme by now: an innocuous-enough multiple choice question about who led your organisation’s digital transformation. Your choices are: Chief Executive Officer (CEO), Chief Information Officer (CIO), and – the punchline – Covid-19, of course! 
 
-![CIO or COVID-19 drove digitalisation?](/images/technews/locking-in-covid19-digitalisation-gains.1.png) *Have you seen this meme? What is your selection?*
+![CIO or COVID-19 drove digitalisation?](/images/technews/locking-in-covid19-digitalisation-gains.1.png) *It's funny because it is true!*
 
 
 It’s funny because it’s true. But while the pandemic has triggered five years’ worth of digital adoption in a matter of eight weeks (according to a McKinsey study), organisations must now be proactive in ensuring these changes are long-lasting, said GovTech Chief Executive Kok Ping Soon, who kicked off the 25 March 2021 edition of the Stack X Webinar series, titled “CIO Edition: Perspectives from the Public and Private Sector”. 
@@ -28,7 +28,7 @@ Today, 95 percent of government transactions can be completed digitally from end
 
 To support the private sector’s digital transformation, the government has also opened its digital platforms to private companies. Hence, businesses can use MyInfo to offer one-click registration and perform seamless, reliable verification of customer details. Firms can also tap on [Sign with SingPass](https://www.channelnewsasia.com/news/singapore/singpass-digital-signature-e-document-govtech-property-caveat-13469756) to allow their customers to sign digital documents.
 
-### **Get on the cloud **
+### Get on the cloud
 
 Next, digitalisation efforts should leverage cloud and commercial solutions that are already available. Such a strategy enabled the government to quickly roll out Covid-19 digital solutions – the Gov.sg WhatsApp Channel, TraceTogether, SafeEntry, GoWhere websites – by utilising existing services from tech companies like Google and Amazon. 
 
@@ -36,7 +36,7 @@ The government is also going further by moving 70 per cent of its ICT systems to
 
 “Cloud has become the foundation that enables organisations to transform, differentiate and gain a competitive advantage.  Adopt a cloud-first strategy in your digital transformation, or risk being left behind,” Ping Soon said.  
 
-### **Keep digital at the core **
+### Keep digital at the core
 
 Finally, the pandemic has reshaped organisations’ views of their IT capabilities. “CIOs and engineering teams are now uniquely positioned to influence not just how business is done, but what should be done.  Don’t lose this window of opportunity,” he said. 
 
