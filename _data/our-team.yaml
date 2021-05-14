@@ -8,15 +8,15 @@ board-of-directors:
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/kok-ping-soon.png
-   - name: Mr Bojan BLECIC
+  - name: Mr Bojan BLECIC
     title: Senior Vice President / Head of Experience Design
     organisation: OCBC Bank
     image-url: /images/our-team/bojan-blecic.jpg        
-   - name: Mr Derrick GOH
+  - name: Mr Derrick GOH
     title: Managing Director and Head of Group Audit
     organisation: DBS Bank
     image-url: /images/our-team/Derrick_Goh.jpg     
-   - name: Ms Lesly GOH
+  - name: Ms Lesly GOH
     title: Senior Technology Advisor
     organisation: World Bank
     image-url: /images/our-team/lesly-goh.jpg   
@@ -60,8 +60,7 @@ board-of-directors:
     title: Chief Executive
     organisation: Defence Science and Technology Agency
     image-url: /images/our-team/mervyn-tan.jpg
-    
-    
+      
 # Senior Leadership
 senior-leadership:
   - name: Mr KOK Ping Soon
