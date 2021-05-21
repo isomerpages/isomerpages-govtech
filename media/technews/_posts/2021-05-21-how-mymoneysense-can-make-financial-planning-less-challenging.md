@@ -26,7 +26,7 @@ That said, four years ago, the wheels had already been in motion to help galvani
 
 
 ### Enter MyMoneySense, a digital financial planning solution 
-MyMoneySense is a free, government financial planning service that helps Singaporeans better understand their finances, so they can make conscious choices to improve their financial well-being across different life stages. 
+[MyMoneySense](https://www.mymoneysense.gov.sg/?&utm_medium=email&utm_source=publicagenciesEDM&utm_campaign=MyMoneySenseCampaign2021) is a free, government financial planning service that helps Singaporeans better understand their finances, so they can make conscious choices to improve their financial well-being across different life stages. 
 
 By providing neutral, personalised and actionable guidance, MyMoneySense helps lower the barriers of entry for financial planning and helps Singaporeans get started.
 
