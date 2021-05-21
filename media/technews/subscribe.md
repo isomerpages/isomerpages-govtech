@@ -86,7 +86,7 @@ input[type='radio'] {
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME"
-	       >First Name  <span class="asterisk">*</span>
+	       >Name  <span class="asterisk">*</span>
 </label>
 	<input 
 	       type="text" 
