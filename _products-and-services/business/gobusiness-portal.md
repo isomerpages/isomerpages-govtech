@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: GoBusiness Licensing Portal
+title: GoBusiness Portal
 permalink: /products-and-services/gobusiness/
 breadcrumb: GoBusiness
 collection_name: products-and-services
