@@ -17,7 +17,7 @@ Here’s what you can do with GoBusiness:
 
 
 #### **Find Government e-Services**
-Find what you need fast and easily. Over 300 Government e-services are at your fingertips with our [e-Service Navigator](https://www.gobusiness.gov.sg/e-services/, a directory to help make your search quick and simple.
+Find what you need fast and easily. Over 300 Government e-services are at your fingertips with our [e-Service Navigator](https://www.gobusiness.gov.sg/e-services/), a directory to help make your search quick and simple.
 
 
 #### **Apply for licences**
