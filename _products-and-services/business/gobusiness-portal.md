@@ -5,25 +5,43 @@ permalink: /products-and-services/gobusiness/
 breadcrumb: GoBusiness
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg
+thumbnail_image: /images/programmes/products-and-services/gbtitleimage.png
 ---
 
-![Smart Nation GoBusiness Licensing Portal](/images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-1.jpg)
+![Smart Nation GoBusiness](/images/programmes/products-and-services/gbtitleimage.png)
 
-The [GoBusiness Licensing portal](https://www.gobusiness.gov.sg/licences) is a pro-enterprise digitalisation effort to enable a simpler, faster and better process for businesses to apply for licenses, permits and certificates from the government. The initiative aims to help business owners save time and reduce compliance cost so that they can focus on their core business.
-
-#### **Benefits**
-A key feature of the portal is the Guided Journey, which is a step-by-step guide that helps a business navigate the licensing landscape to determine the licences required, and the order to apply for them. The Guided Journey feature is currently available for licence application in the food service sector, making it much easier for business owners to set up F&B establishments.
-
-![Smart Nation GoBusiness Licensing Portal](/images/programmes/products-and-services/Smart-Nation-Gobiz-Portal-2.jpg)
+[GoBusiness](https://www.gobusiness.gov.sg/) is an online platform to connect business owners to various Government e-services and resources. This includes registering a business, applying for licences and grants, and more. Jointly developed by the Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
  
-Also, business owners would previously have to fill up to 845 data fields across 14 forms administered by different government agencies. With the new portal, they will now only need to fill in one application form with no more than 90 data fields.
  
-The GoBusiness Licensing portal was officially launched on 31 Oct 2019 and was jointly developed by the Ministry of Trade & Industry (MTI), Smart Nation and Digital Government Office (SNDGO) and GovTech. It is the result of a deep dive into the regulatory requirements for the food services sector, which reviewed how to streamline regulations, and simplify and automate processes from the businesses’ perspective.
+Here’s what you can do with GoBusiness:
 
-#### **What's Next?**
-The retail sector has been identified as the next sector to be covered by the GoBusiness portal. There are also plans to streamline other types of transactions between businesses and the government, such as grant applications, so that businesses can experience seamless and convenient service from the government throughout the business life cycle. The Guided Journey feature will also be extended to these other sectors or types of business transactions with the government.
 
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/4OkvnEokNHc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
-</div>
+#### **Find Government e-Services**
+Find what you need fast and easily. Over 300 Government e-services are at your fingertips with our [e-Service Navigator](https://www.gobusiness.gov.sg/e-services/), a directory to help make your search quick and simple.
+
+
+#### **Apply for licences**
+Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only. 
+
+[Find Out More](https://www.gobusiness.gov.sg/licences/)
+
+
+#### **Get support during COVID-19**
+Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
+ 
+[Find Out More](https://https://www.gobusiness.gov.sg/covid/)
+
+#### **Get Government Assistance**
+Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
+
+[Find Out More](https://www.gobusiness.gov.sg/gov-assist/)
+
+
+#### **Get GeBIZ alerts**
+Stay competitive and subscribe for daily email notifications on government procurement opportunities posted on Government Electronic Business (GeBIZ). [Subscribe Here](https://www.gobusiness.gov.sg/gebiz-alerts/)
+
+To provide even better support for businesses, more services will be progressively added to the GoBusiness platform. Stay tuned!
+
+
+
+
