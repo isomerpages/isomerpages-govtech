@@ -65,4 +65,4 @@ These cross-border uses of digital IDs will be key in the future, enabling trade
 Indeed, as the world looks to online processes in a post-pandemic recovery, digital IDs will play a crucial role by being an enabler of business and trade, as well as a return to normalcy.
 
 
-*This article was contributed by Alfred Siew. Alfred Siew is the editor of Techgoondu.com, a technology news website based in Singapore that was founded in 2008.
+*This article was contributed by Alfred Siew. Alfred Siew is the editor of Techgoondu.com, a technology news website based in Singapore that was founded in 2008.*
