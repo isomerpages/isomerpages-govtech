@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The importance of a digital ID in delivery digital services"
+title: "The importance of a digital ID in delivering digital services"
 permalink: "/media/technews/the-importance-of-a-digital-id-in-delivering-digital-services"
 category: technews
 image: "/images/technews/images/technews/digitalid.jpg"
