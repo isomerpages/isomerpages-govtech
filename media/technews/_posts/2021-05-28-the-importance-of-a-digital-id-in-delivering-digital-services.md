@@ -9,7 +9,8 @@ image: "/images/technews/images/technews/digitalid.jpg"
 A trusted ID is the starting point for any digital transaction in the new normal.
 ---
 
-![Digital services in the time of COVID-19](/images/technews/images/technews/digitalid.jpg)
+![Digital services in the time of COVID-19](/images/technews/digitalid.jpg)
+
 *With COVID-19, digital services are more important that ever. PHOTO: UNSPLASH.COM*
 
 
