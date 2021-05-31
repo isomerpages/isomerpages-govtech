@@ -32,7 +32,7 @@ We engage with the larger cybersecurity ecosystem and forge industry partnership
 
 We also work with the members of the public through Vulnerability Disclosure Programmes and Government Bug Bounty Programme to encourage responsible reporting of suspected vulnerabilities and weaknesses in the government systems. 
 
-Follow our Medium blog, where we share tips and tricks on cybersecurity: [https://medium.com/csg-govtech](https://medium.com/csg-govtech)
+Follow our Medium blog, where we share tips and tricks on cybersecurity: [https://medium.com/csg-govtech](https://medium.com/csg-govtech){:target="_blank"}
 
 Here are some of the roles we are hiring for:
 * Chief Information Security Officer
@@ -40,6 +40,6 @@ Here are some of the roles we are hiring for:
 * Cybersecurity Policy Developer
 * Red Team Engineer
 
-Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be).
+Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be){:target="_blank"}.
 
-![Cybersecurity Quotes](/images/capcentre-csg-quotes.jpg)
+![Cybersecurity Quotes](/images/capcentre-csg-quotes.png)
