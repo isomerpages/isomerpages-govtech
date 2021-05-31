@@ -29,7 +29,7 @@ As the cybersecurity lead for the Government sector, this centre develops a comp
 
 Find out more [here](/capability-centre-csg){:target="_blank"}.
 
-**Data Science & Artificial Intelligence**
+**Data Science and Artificial Intelligence**
 
 This centre uses data science and artificial intelligence (AI) to extract data-driven insights and build smart platforms that help improve the delivery of citizen-centric services and ultimately support government policy outcomes. This centre also leads the charge in helping public agencies transform by empowering public officers to level up their data skills and working with agencies to support their data strategies and data infrastructure.  
 
@@ -41,7 +41,7 @@ This centre develops a centralised Info-Communications Technology (ICT) infrastr
 
 Find out more here.
 
-**Sensors & IoT**
+**Sensors and Internet of Things**
 
 This centre works on the design and implementation of a Whole-of-Government Internet of Things (IoT) infrastructure that is built on the larger Smart Nation Platform. This infrastructure will enable connectivity by smart objects, including static and mobile ones such as wearables, sensors, mobile devices, and facilitate high speed transmission of data from the sensors. The centre will also build up the government’s capabilities in new, emerging technologies and collaborate with commercial organisations, research institutes and public agencies to experiment with and pilot new technologies to address their problems.
 
