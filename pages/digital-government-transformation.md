@@ -27,7 +27,7 @@ Find out more here.
 
 As the cybersecurity lead for the Government sector, this centre develops a comprehensive suite of cybersecurity capabilities to support its missions. These range from blue-teaming capabilities that detect and respond against cyber threats to red-teaming capabilities that uncover cyber vulnerabilities in Government ICT and Smart systems. Beyond developing cyber-defence capabilities, this centre also works with various agencies to implement secure architectures and provide cybersecurity governance and technical guidance that help build a safer, more secure Smart Nation.
 
-Find out more here.
+Find out more [here](/capability-centre-csg){:target="_blank"}.
 
 **Data Science & Artificial Intelligence**
 
