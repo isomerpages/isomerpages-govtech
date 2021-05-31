@@ -21,7 +21,7 @@ Our five capability centres were established to strengthen Public Sector enginee
 
 This centre adopts an “outside-in” approach to deliver citizen-centric government digital services that support public sector digital transformation. Our in-house team utilises its deep technical expertise in design and software development methodologies - such as Agile, user experience design, quality engineering, DevOps and platform as a service - to deliver scalable, resilient, and reusable digital services which are supported by the Singapore Government Technology Stack.
 
-Find out more here.
+Find out more [here](/capability-centre-gds){:target="_blank"}.
 
 **Cybersecurity**
 
@@ -33,17 +33,17 @@ Find out more [here](/capability-centre-csg){:target="_blank"}.
 
 This centre uses data science and artificial intelligence (AI) to extract data-driven insights and build smart platforms that help improve the delivery of citizen-centric services and ultimately support government policy outcomes. This centre also leads the charge in helping public agencies transform by empowering public officers to level up their data skills and working with agencies to support their data strategies and data infrastructure.  
 
-Find out more here.
+Find out more [here](/capability-centre-dsaid){:target="_blank"}.
 
 **Government ICT Infrastructure**
 
 This centre develops a centralised Info-Communications Technology (ICT) infrastructure, consisting of data centres, applications, devices, networks and other infra that is scaled across government agencies. The centre specialises in creating agile, secure, resilient and cost-effective infrastructure that is optimised for government operations and improves the user experience for public officers. Beyond this foundational ICT architecture, the centre also provides guidelines and support to government agencies.
 
-Find out more here.
+Find out more [here](/capability-centre-gig){:target="_blank"}.
 
 **Sensors and Internet of Things**
 
 This centre works on the design and implementation of a Whole-of-Government Internet of Things (IoT) infrastructure that is built on the larger Smart Nation Platform. This infrastructure will enable connectivity by smart objects, including static and mobile ones such as wearables, sensors, mobile devices, and facilitate high speed transmission of data from the sensors. The centre will also build up the government’s capabilities in new, emerging technologies and collaborate with commercial organisations, research institutes and public agencies to experiment with and pilot new technologies to address their problems.
 
-Find out more here.
+Find out more [here](/capability-centre-siot){:target="_blank"}.
 
