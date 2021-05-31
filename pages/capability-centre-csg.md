@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title:  "Capability Centre - Cybersecurity"
+title:  "Cybersecurity"
 permalink: "/capability-centre-csg"
-breadcrumb: Capability Centre - Cybersecurity
+breadcrumb: Cybersecurity
 ---
 
 ![Cybersecurity](/images/capcentre-csg-banner.jpg)
