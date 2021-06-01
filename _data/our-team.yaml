@@ -91,10 +91,6 @@ senior-leadership:
     title: Senior Director
     organisation: National Digital Identity
     image-url: /images/our-team/kwok-quek-sin.png
-  - name: Mr LEONG Der Yao
-    title: Senior Director
-    organisation: Data Science and Artificial Intelligence
-    image-url: /images/our-team/leong-der-yao.jpg
   - name: Mr LIM Chinn Hwa
     title: Senior Director
     organisation: Smart Nation Platform Solutions
@@ -103,6 +99,10 @@ senior-leadership:
     title: Senior Director
     organisation: Strategy, People and Organisation
     image-url: /images/D-N-Prasad-GovTech-Smart-Nation.jpg
+  - name: Mr Jason SEE
+    title: Senior Director
+    organisation: Data Science and Artificial Intelligence
+    image-url: /images/our-team/jason-see.jpg
   - name: Mr TAN Bee Teck
     title: Senior Director
     organisation: Education Cluster and Application Portfolio Remake
