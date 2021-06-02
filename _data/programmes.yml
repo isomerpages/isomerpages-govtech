@@ -10,8 +10,8 @@
   img: images/programmes/products-and-services/ParkingSG.png
   bg-color: bg-parkingsg
 
-- title: SingPass
+- title: Singpass
   category: CITIZEN
-  desc: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
-  img: images/programmes/products-and-services/SingPass.png
+  desc: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
+  img: images/programmes/products-and-services/singpass-homepage.png
   bg-color: bg-singpass
