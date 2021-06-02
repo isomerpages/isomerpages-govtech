@@ -28,7 +28,7 @@ Find out more about GDS:
 * [https://hive.tech.gov.sg](https://hive.tech.gov.sg){:target="_blank"}
 * [https://blog.gds-gov.tech](https://blog.gds-gov.tech){:target="_blank"}
 
-Here are some of the roles they are hiring for:
+Here are some of the roles we are hiring for:
 * Software Engineer
 * DevOps Engineer
 * Quality Engineer
