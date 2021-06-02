@@ -17,7 +17,7 @@ GDS upholds excellence by:
 * **Building inclusive products, inclusive teams**: We build for everybody and prioritise accessibility. Inclusive products start with inclusive teams, so we believe in creating a supportive environment where every individual can flourish.
 * **Going far, together**:  We are ambitious: not just wanting to build great products, but to make a lasting impact on how the government builds products. We have built trust and relationships with agencies to improve digital capabilities across the government.
  
-We strive to solve big problems by asking big questions. This has enabled us to deliver *#TechforPublicGood* in an Agile, Bold and Collaborative manner; our contributions include:
+We strive to solve big problems by asking big questions. This has enabled us to deliver #TechforPublicGood in an Agile, Bold and Collaborative manner; our contributions include:
 
 * Helping Singapore curb the spread of COVID-19 with the development of [TraceTogether](https://www.tracetogether.gov.sg){:target="_blank"}, [MaskGoWhere](https://www.maskgowhere.gov.sg){:target="_blank"} and [FluGoWhere](https://www.flugowhere.gov.sg){:target="_blank"}.
 * Making it easier for entrepreneurs to start businesses with a one-stop portal [GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}.
