@@ -27,4 +27,4 @@ The 2 key roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be){:target="_blank"}.
 
-![Government ICT Infrastructure Quotes](/images/capcentre-gig-quotes.png)
+![Government ICT Infrastructure Quotes](/images/capcentre-gig-quotes2.png)
