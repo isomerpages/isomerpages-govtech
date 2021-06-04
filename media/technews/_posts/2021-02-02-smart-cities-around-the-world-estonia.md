@@ -74,7 +74,7 @@ The fund is the most valuable research and development fund in Estonia, and sign
 
 Stay tuned for the next Smart City, Helsinki!
 
-*Like what you read? Subscribe [here](https://www.tech.gov.sg/media/technews/subscribe?utm_source=outbrain&utm_medium=native&utm_campaign=smartcities2) to get the latest TechNews stories in your inbox.*
+*Like what you read? Subscribe [here](https://www.tech.gov.sg/media/technews/subscribe?utm_source=TripleLift&utm_medium=native&utm_campaign=smartcities2) to get the latest TechNews stories in your inbox.*
 
 
 
