@@ -17,9 +17,6 @@ Of course, if being featured in the futuristic Marvels’ Avengers: Age Of Ultro
 But enough talk, let’s see what neat projects they have going on there!
 
 
-*Like what you're reading? Subscribe [here](https://www.tech.gov.sg/media/technews/subscribe?utm_source=outbrain&utm_medium=native&utm_campaign=smartcities1) to get the latest TechNews stories in your inbox.*
-
-
 ![Seoul](/images/technews/seoul1.jpg) Find out how koreans are using techonology to improve their transport systems! PHOTO: Photo by <a href="https://unsplash.com/@icidius?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ciaran O'Brien</a> on <a href="https://unsplash.com/s/photos/seoul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
