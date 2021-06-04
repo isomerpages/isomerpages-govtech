@@ -14,8 +14,6 @@ We win by keeping our hiring bar high. By hiring the best people, we can scale u
 
 Because hiring well is important at GovTech, we want you to understand the nuts and bolts of our hiring process, so that you are prepared in your career journey. We don’t make the mistake of missing out hiring that great person.
 
-Questions? Email us at <careers@tech.gov.sg>
-
 ### **Our Hiring Process**
 
 **Apply**
