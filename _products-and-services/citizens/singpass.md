@@ -29,7 +29,7 @@ Users can log in to digital services easily and securely through various ways:
 
 These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face Verification – provide an additional layer of security to better protect users’ personal data.
 
-![Singpass Digital IC](/images/programmes/products-and-services/singpass-digital-ic-3.png)
+![Singpass Digital IC](/images/programmes/products-and-services/singpass-digital-ic-4.png)
 
 When transacting over selected counters, users can prove their identity using their Digital IC easily accessible in their Singpass app profile. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics. Other than scenarios where the physical NRIC or other identification cards are specifically required by law, agencies should accept the use of the Digital IC by the end of 2021.
 
