@@ -24,8 +24,8 @@ Users can log in to digital services easily and securely through various ways:
 1. Using the Singpass app with their fingerprint, face or an easy-to-remember 6-digit passcode, without the need to enter passwords.
 
 2. Entering their Singpass ID and password, followed by
-a. keying in a One-Time Password (OTP) sent via SMS, or
-b. a face scan enabled by Singpass Face Verification.
+<br> a. keying in a One-Time Password (OTP) sent via SMS, or
+<br> b. a face scan enabled by Singpass Face Verification.
 
 These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face Verification – provide an additional layer of security to better protect users’ personal data.
 
