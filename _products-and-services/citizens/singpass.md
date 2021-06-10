@@ -37,15 +37,15 @@ When transacting over selected counters, users can prove their identity using th
 
 Since its launch in 2018, we have been progressively adding more useful features to the Singpass app for simpler everyday transactions. Current features include:
 
-1. One-tap access to commonly-used government digital services like CPF, HDB, IRAS and NS Portal.
+1. **One-tap access** to commonly-used government digital services like CPF, HDB, IRAS and NS Portal.
 
-2. Customisable profile where users always have their important information such as CPF balance and HDB details on hand.
+2. **Customisable profile** where users always have their important information such as CPF balance and HDB details on hand.
 
-3. Digital signing of documents by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements.
+3. **Digital signing of documents** by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements.
 
-4. Proving identity and providing information in person by scanning a QR code. Currently, patients at SingHealth polyclinics and visitors to Republic Plaza can use their Singpass app for registration, in place of manual form filling.
+4. **Proving identity and providing information in person** by scanning a QR code. Currently, patients at SingHealth polyclinics and visitors to Republic Plaza can use their Singpass app for registration, in place of manual form filling.
 
-5. Timely notifications from government agencies in the Singpass app inbox. For instance, users who are due for NRIC re-registration and passport renewal will receive notifications in their app inbox.
+5. **Timely notifications from government agencies** in the Singpass app inbox. For instance, users who are due for NRIC re-registration and passport renewal will receive notifications in their app inbox.
 
 ![Singpass Digital Signing](/images/programmes/products-and-services/singpass-digital-signing.jpg)
 
