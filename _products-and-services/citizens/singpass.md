@@ -24,9 +24,8 @@ Users can log in to digital services easily and securely through various ways:
 1. Using the Singpass app with their fingerprint, face or an easy-to-remember 6-digit passcode, without the need to enter passwords.
 
 2. Entering their Singpass ID and password, followed by
-
-   a. keying in a One-Time Password (OTP) sent via SMS, or
-   b. a face scan enabled by Singpass Face Verification.
+a. keying in a One-Time Password (OTP) sent via SMS, or
+b. a face scan enabled by Singpass Face Verification.
 
 These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face Verification – provide an additional layer of security to better protect users’ personal data.
 
@@ -65,10 +64,10 @@ Besides actively improving Singpass services based on public feedback gathered t
 Singpass has stringent security measures to safeguard users’ personal data while ensuring Singpass services remain accessible to users. It is crucial for users to play an active role in protecting their account and personal information. Here are some tips to follow:
 
 * Do not share your login information: 
-Keep your Singpass ID, password and 2FA details confidential.
+<br> Keep your Singpass ID, password and 2FA details confidential.
 
 * Do not reuse passwords: 
-Certain websites that you access may not be secure. Login information may be stolen from these sites and can be used to hack your Singpass account.
+<br> Certain websites that you access may not be secure. Login information may be stolen from these sites and can be used to hack your Singpass account.
 
 * Watch out for phishing sites: 
-These are sites that may look like government websites to trick you into disclosing your personal details. Always check that the URL is correct (www.singpass.gov.sg) with a ‘lock’ icon in the address bar.
+<br> These are sites that may look like government websites to trick you into disclosing your personal details. Always check that the URL is correct (www.singpass.gov.sg) with a ‘lock’ icon in the address bar.
