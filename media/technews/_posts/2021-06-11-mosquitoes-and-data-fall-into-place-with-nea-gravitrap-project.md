@@ -3,8 +3,10 @@ layout: post
 title: "Mosquitoes and data fall into place with NEA’s Gravitrap project"
 permalink: "/media/technews/mosquitoes-and-data-fall-into-place-with-nea-gravitrap-project"
 category: technews
-image: "/images/technews/goh-wei-jie-nea1.jpg
+image: "/images/technews/goh-wei-jie-nea1.jpg"
 ---
+
+
 On the surface, mosquitoes and big data might seem like two totally unrelated topics.
 
 One of them is primitive, with origins dating back to at least the Jurassic period. The other is a marvel of the 21st century; made possible only by recent advancements in human technology. Ancient vs cutting edge, nature vs nurture. Almost impossible to reconcile. 
