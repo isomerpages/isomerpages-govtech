@@ -35,7 +35,7 @@ When transacting over selected counters, users can prove their identity using th
 
 ### **Singpass app: Seamless access to more services**
 
-Since its launch in 2018, we have been progressively adding more useful features to the Singpass app for [simpler everyday transactions](https:/www.youtube.com/watch?v=zacNBxADPH4){:target="_blank"}. Current features include:
+Since its launch in 2018, we have been progressively adding more useful features to the Singpass app for [simpler everyday transactions](https://www.youtube.com/watch?v=zacNBxADPH4){:target="_blank"}. Current features include:
 
 * **One-tap access** to commonly-used government digital services like CPF, HDB, IRAS and NS Portal.
 
