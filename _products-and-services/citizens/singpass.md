@@ -5,7 +5,7 @@ permalink: /products-and-services/singpass/
 breadcrumb: Singpass
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new.jpg
+thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new-2.jpg
       
 ---
 
