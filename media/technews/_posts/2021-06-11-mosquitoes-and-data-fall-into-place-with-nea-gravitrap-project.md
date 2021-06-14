@@ -17,7 +17,7 @@ With that in mind, we approached Goh Jie Wei,  Data Analyst from NEA to shed mor
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GClNSuLLdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKbBaumLrIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Short on time? Catch this video to get the quick brief on how data is being used to fight dengue!
 
 ## What and how does a Gravitrap work?
