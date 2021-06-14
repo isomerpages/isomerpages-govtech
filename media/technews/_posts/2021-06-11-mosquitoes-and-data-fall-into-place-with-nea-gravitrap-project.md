@@ -11,7 +11,7 @@ On the surface, mosquitoes and big data might seem like two totally unrelated to
 
 One of them is primitive, with origins dating back to at least the Jurassic period. The other is a marvel of the 21st century; made possible only by recent advancements in human technology. Ancient vs cutting edge, nature vs nurture. Almost impossible to reconcile. 
 
-But that’s exactly what NEA’s Gravitrap project is doing – using data about mosquitoes to take the fight to dengue – an epidemic in its own right – this year.  
+But that’s exactly what NEA’s Gravitrap project is doing – using data on mosquitoes to fight dengue  
 
 With that in mind, we approached Goh Jie Wei,  Data Analyst from NEA to shed more light on the project. Here’s what he had to say.
 
