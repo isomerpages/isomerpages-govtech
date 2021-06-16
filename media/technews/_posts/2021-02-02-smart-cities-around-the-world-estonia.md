@@ -75,7 +75,7 @@ The fund is the most valuable research and development fund in Estonia, and sign
 Stay tuned for the next Smart City, Helsinki!
 
 
-### **Like what you read? Subscribe for the latest stories in your inbox!**
+### **Like what you read? Subscribe for the latest stories in your inbox.**
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
