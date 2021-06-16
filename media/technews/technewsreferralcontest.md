@@ -8,12 +8,12 @@ image:
 
 ## GovTech TechNews Referral Contest - Terms and Conditions
 
-1.	The eligibility period for the TechNews E-Newsletter Referral Contest (the “**Contest**”) runs from 22 June 2021, 0000hrs, to 6 July 2021, 2359hrs (the “**Contest Period**”).
+1.	The eligibility period for the TechNews E-Newsletter Referral Contest (the “**Contest**”) runs from 17 June 2021, 0000hrs, to 29 June 2021, 2359hrs (the “**Contest Period**”).
 2.	The Contest is open to existing TechNews E-Newsletter subscribers who have been invited by the Government Technology Agency (“**GovTech**”) to participate in the Contest via a unique referral link sent to their email address.
 3.	The Contest is not open to employees of GovTech and their close relatives, and anyone otherwise connected with the organisation or judging of the Contest.
 4.	There is no entry fee or purchase necessary to enter this Contest.
 5.	In order to qualify for the draw (the “**Draw**”), the subscriber must successfully refer 5 individuals to subscribe to the TechNews E-Newsletter using the unique referral link provided by GovTech to the subscriber’s email address.
-6.	The Draw will take place on 7 July 2021 at this live [link](https://go.gov.sg/technewscontestlivedraw-1){:target="_blank"} accessible to the public. 50 winners will be chosen via a randomised selection among subscribers that fulfil the above criteria. The winners will each receive $20 worth of digital GrabFood e-vouchers.
+6.	The Draw will take place on 30 June 2021 at this live [link](https://go.gov.sg/technewscontestlivedraw-1){:target="_blank"} accessible to the public. 50 winners will be chosen via a randomised selection among subscribers that fulfil the above criteria. The winners will each receive $20 worth of digital GrabFood e-vouchers.
 7.	The winners will be notified by email within 14 days from the date of the Draw. If the winner fails to complete a form provided via a link in the email notification within 14 days of receipt of the email, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
 8.	GovTech will notify the winners on how the prizes are to be collected.
 9.	The expiry date of the Grab e-vouchers will be stated on the vouchers sent to the winner. The Grab e-vouchers are to be used by that date and no extensions will be granted.
