@@ -81,7 +81,7 @@ An open data policy is also what Singapore believes in as well, and we’ve got 
 If anything, the projects in Helsinki remind us that there are still many opportunities that are just waiting to be explored in the exciting world of tech. Whether you live in freezing north, or the sunny tropics, the possibilities for innovation are endless.
 
 
-### **Like what you read? Subscribe for the latest stories in your inbox!**
+### **Like what you read? Subscribe for the latest stories in your inbox.**
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
