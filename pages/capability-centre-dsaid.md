@@ -36,4 +36,4 @@ Here are some of the roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be){:target="_blank"}.
 
-![Data Science and Artificial Intelligence Quotes](/images/capcentre-dsaid-quotes.png)
+![Data Science and Artificial Intelligence Quotes](/images/capcentre-dsaid-quotes2.png)
