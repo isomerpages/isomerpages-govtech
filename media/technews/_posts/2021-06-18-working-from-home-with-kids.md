@@ -5,19 +5,18 @@ permalink: "/media/technews/working-from-home-with-kids"
 category: technews
 image: "/images/technews/fathersday-01.png"
 ---
-Once upon a time, dads were not expected to be as involved in their children’s upbringing as moms. Today, however, fathers are much more hands on and taking on more domestic duties. The work from home arrangement in the last year or so has also given working dads more time to spend with their kids.
+Once upon a time, dads were not expected to be as involved in their children’s upbringing as moms. Today, however, fathers are much more hands on and taking on more domestic duties. The work from home arrangement in the last year or so have also given working dads more time to spend with their kids.
 
 This Fathers’ Day, let’s hear from three dads – Loh Shi Wei, Eden Seah and Mehul Shah – on how they juggle their public service careers with their role as fathers. 
 
 ---
 
 ![GovTech Dads!!](/images/technews/fathersday-01.png)
-*Our GovTechies Eden, Shi Wei and Mehul Lydia share how make Wfh work in this fathers' Day Special! PHOTO: GOVTECH*
+*Our GovTechies Eden, Shi Wei and Mehul share how make WFH work in this Fathers' Day Special! PHOTO: GOVTECH*
 
 ### **First off, tell us more about what you do at GovTech?**
 
-**Shi Wei:** 
-Both Eden and I belong to the Services Group, which means we are GovTechies that are deployed to other government agencies to help build up their ICT systems and capabilities. I’m the Agency Chief Information Security Officer (ACISO) at the Singapore Land Authority (SLA). I oversee the information security management of the agency and am also responsible for the planning, development and implementation of information security strategies and policies in line with regulatory requirements and whole-of-government direction.
+**Shi Wei:** Both Eden and I belong to the Services Group, which means we are GovTechies that are deployed to other government agencies to help build up their ICT systems and capabilities. I’m the Agency Chief Information Security Officer (ACISO) at the Singapore Land Authority (SLA). I oversee the information security management of the agency and am also responsible for the planning, development and implementation of information security strategies and policies in line with regulatory requirements and whole-of-government direction.
 
 **Eden:**  
 I sit at the Ministry of Education (MOE) as an Application Infrastructure Engineer and handle ICT and cybersecurity governance. Mostly I will review MOE’s IT systems and environment and provide advice on protecting systems and data against cyber and internal threats.
@@ -26,7 +25,7 @@ I sit at the Ministry of Education (MOE) as an Application Infrastructure Engine
 I am a Manager in Government Digital Services division – the team that creates many digital services and products for our citizens and businesses in Singapore. I help the team with product marketing and engagement for TraceTogether. I also support internal communications efforts within the division. Since earlier in the year I’ve been picking up UX (User-Experience) design as well, on the HealthCerts project.
 
 
-### **How would you describe yourself as a father? **
+### How would you describe yourself as a father? 
 
 **Eden:** I’ve only become a father last year; my daughter is now 8 months old. Since becoming a father, I feel a deep yearning to see my daughter every day and watch her grow.  
 
@@ -80,7 +79,7 @@ It must be hard for my daughter to be away from her parents during the day when 
 
 **Shi Wei:** Not sure if these are top tips, but they work for me. One, always make time for the little things such as having meals together with the kids (without the distractions of the phone / tablets) and everyday interactions such as sending them to and picking them up from school. Two, know what’s truly urgent and important. Work can be urgent and important, but your kids' growing up milestones are just equally important. Once you miss those milestones, you will never have them back again
 
-### **Finally, what are the joys that being a father brings to you? **
+### Finally, what are the joys that being a father brings to you?
 
 **Mehul:** Watching him grow, discover and learn new activities or skills. The fact that you would feel instantaneously refreshed to see him even after a seemingly tiring day.
 
@@ -88,6 +87,4 @@ It must be hard for my daughter to be away from her parents during the day when 
 
 **Shi Wei:** Seeing my kids grow up healthily and happy. The smiles on their faces can really make me forget about any stress or troubles that I am facing.
 
-*Kudos to all fathers who wear many hats in their daily lives and for keeping a strong front before your families and colleagues. A good support system is important, and we hope that you have found time for yourself and enjoy the special moment you currently share with your children. 
-
-Happy Father’s day!
+*Kudos to all fathers who wear many hats in their daily lives and for keeping a strong front before your families and colleagues. A good support system is important, and we hope that you have found time for yourself and enjoy the special moment you currently share with your children. Happy Father’s day!*
