@@ -13,7 +13,7 @@ The Government will spend up to an estimated S$3.8 billion on info-communication
 
 **Transforming government digital services for the future**
 
-2	An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 250 projects to transform, integrate and streamline digital services across different sectors to create a more digitally empowered nation. Some of the projects include:
+2  	An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 250 projects to transform, integrate and streamline digital services across different sectors to create a more digitally empowered nation. Some of the projects include:
 
 * The Accounting and Corporate Regulatory Authority’s new **national business registry and regulatory system** that will leverage data and digital technology to deliver seamless and anticipatory service to businesses and improve regulatory compliance;
 * GovTech’s **LifeSG Eligibility Checker**, which helps users to conveniently check if they are eligible for any Government assistance or schemes without having to navigate through multiple government websites and information; and
@@ -21,37 +21,37 @@ The Government will spend up to an estimated S$3.8 billion on info-communication
 
 **Re-engineering Digital Government infrastructure**  
 
-3	Of the S$2.7 billion expected to be spent on digital application services, 44 per cent will be developed on the cloud in FY21. Some of the projects include:  
+3  	Of the S$2.7 billion expected to be spent on digital application services, 44 per cent will be developed on the cloud in FY21. Some of the projects include:  
 
 * The State Courts’ **Community Justice and Tribunals System (CJTS)** - an electronic online case filing and management system which enables court users to submit their claims and documents, make payments, select their court date, view documents submitted by the other party, and monitor their case developments entirely online; 
 * **SmartGym** – a collaboration between Sport Singapore and GovTech to capture workout data on the ActiveSG app and website for citizens; and
 * The **SG Cares Digital Kampong**, which aims to connect donors, volunteers and non-profit organisations by providing a more convenient giving experience.   Led by the Ministry of Culture, Community & Youth and the National Volunteer & Philanthropy Centre, the SG Cares Digital Kampong project will have three key developments – the development of the SG Cares Digital Kampong Platform (centralised repository and API capabilities); the enhancement of the SG Cares app (“go-to” mobile app for giving); and the enhancements of Giving.sg (to provide comprehensive features connecting givers and receivers in the giving eco-system). 
 
-4	Developing these applications on the cloud increases agility and innovation, resulting in faster delivery of new public services for citizens and businesses. In addition, leveraging on cloud infrastructure increases resiliency and scalability, leading to better performance during periods of high demand. To date, the government has close to 600 systems on cloud and is on track to have 70 per cent of eligible systems on the cloud by FY2023. 
+4	  Developing these applications on the cloud increases agility and innovation, resulting in faster delivery of new public services for citizens and businesses. In addition, leveraging on cloud infrastructure increases resiliency and scalability, leading to better performance during periods of high demand. To date, the government has close to 600 systems on cloud and is on track to have 70 per cent of eligible systems on the cloud by FY2023. 
 
-5	To further support modern application development, over S$100 million will be invested into the Singapore Government Technology Stack (SG Tech Stack) in the next two years. SG Tech Stack will streamline and simplify the software development process, helping government agencies to accelerate their modernisation and digitalisation plans. A key product of SG Tech Stack is SHIP-HATS, the government’s continuous integration and continuous deployment (CI/CD) platform to deliver secure, high quality, cost-efficient digital services to citizens and businesses. To date, 120 systems across 30 agencies are using SHIP-HATS.
+5	  To further support modern application development, over S$100 million will be invested into the Singapore Government Technology Stack (SG Tech Stack) in the next two years. SG Tech Stack will streamline and simplify the software development process, helping government agencies to accelerate their modernisation and digitalisation plans. A key product of SG Tech Stack is SHIP-HATS, the government’s continuous integration and continuous deployment (CI/CD) platform to deliver secure, high quality, cost-efficient digital services to citizens and businesses. To date, 120 systems across 30 agencies are using SHIP-HATS.
 
 **Number of Artificial Intelligence projects to increase**
 
-6	Over S$500 million (13 per cent out of S$3.8 billion) will be spent to accelerate the adoption and deployment of Artificial Intelligence (AI) for the public sector. AI can help the Government to deliver better services, make better decisions based on data-driven insights, and optimise operations to increase productivity. To support government agencies in deploying AI, GovTech has built various central platforms to support common use cases in the area of video analytics, natural language processing, fraud analytics and personalisation to help agencies reduce the cost of onboarding AI solutions. The central platforms also enable agencies to access common features and enjoy lower cost of management, maintenance and updating of systems.
+6	  Over S$500 million (13 per cent out of S$3.8 billion) will be spent to accelerate the adoption and deployment of Artificial Intelligence (AI) for the public sector. AI can help the Government to deliver better services, make better decisions based on data-driven insights, and optimise operations to increase productivity. To support government agencies in deploying AI, GovTech has built various central platforms to support common use cases in the area of video analytics, natural language processing, fraud analytics and personalisation to help agencies reduce the cost of onboarding AI solutions. The central platforms also enable agencies to access common features and enjoy lower cost of management, maintenance and updating of systems.
 
-7	One high-impact AI project is the Ministry of Education’s (MOE) development of a customised AI-Automated Marking System (AI-AMS) as a longer-term solution to provide all upper primary and secondary students with quick, personalised and actionable feedback for their English Language writing. The AI-AMS will be delivered through the Singapore Student Learning Space (SLS) platform. Analytics from the system will help students monitor their own learning and enable teachers to track and diagnose students’ learning progress, and design timely and targeted interventions. 
+7	  One high-impact AI project is the Ministry of Education’s (MOE) development of a customised AI-Automated Marking System (AI-AMS) as a longer-term solution to provide all upper primary and secondary students with quick, personalised and actionable feedback for their English Language writing. The AI-AMS will be delivered through the Singapore Student Learning Space (SLS) platform. Analytics from the system will help students monitor their own learning and enable teachers to track and diagnose students’ learning progress, and design timely and targeted interventions. 
 
 **More projects for SMEs to participate in Govt ICT procurement**
 
-8	The increase in ICT procurement spending will create more opportunities for SMEs, with more than 80 per cent of ICT contracts to be made available through streamlined procurement methods. These procurement methods will improve SMEs’ access to Government ICT procurement opportunities. For instance, the government has incorporated dynamic contracting in bulk tenders to allow new suppliers and requirements to be introduced throughout a contract period. Barriers of entry for SMEs are also lowered as government agencies put out more cloud-based services and smaller system projects that allow suppliers with a lower financial grading to bid.
+8	  The increase in ICT procurement spending will create more opportunities for SMEs, with more than 80 per cent of ICT contracts to be made available through streamlined procurement methods. These procurement methods will improve SMEs’ access to Government ICT procurement opportunities. For instance, the government has incorporated dynamic contracting in bulk tenders to allow new suppliers and requirements to be introduced throughout a contract period. Barriers of entry for SMEs are also lowered as government agencies put out more cloud-based services and smaller system projects that allow suppliers with a lower financial grading to bid.
 
-9	One of the SMEs to benefit is Simple Solution Systems, an IT solutions provider which won the agile application development and user experience design bulk tender for the whole of government. Mr Anurax Lian, Managing Director, Simple Solution Systems, said: “Being an SME, we face very stiff competition in attracting top tech talent. The bulk tender has levelled the playing field for SMEs, helping us to attract, nurture and retain local IT talent, and provide them with a platform for career growth and exposure in the public sector.” 
+9	  One of the SMEs to benefit is Simple Solution Systems, an IT solutions provider which won the agile application development and user experience design bulk tender for the whole of government. Mr Anurax Lian, Managing Director, Simple Solution Systems, said: “Being an SME, we face very stiff competition in attracting top tech talent. The bulk tender has levelled the playing field for SMEs, helping us to attract, nurture and retain local IT talent, and provide them with a platform for career growth and exposure in the public sector.” 
 
 **Citizens/Businesses are satisfied with government digital services**
 
-10	Citizens satisfaction with government digital services remained high.  85 per cent of respondents in the G2C (Government to Citizens) survey indicated that they were very or extremely satisfied (at least 5 out of a 6-point scale) in 2020. In fact, the percentage of citizen respondents who indicated that they were extremely satisfied went up by 6-percentage point, from 19 per cent in 2019 to 25 per cent in 2020. Citizens also expressed satisfaction with the slew of digital services introduced to combat COVID-19. 97 per cent of the citizen respondents indicated that the COVID-19 digital solutions were delivered in a timely manner, and 98 per cent agreed that the digital solutions have played a key role in the fight against COVID-19.
+10  	Citizens satisfaction with government digital services remained high.  85 per cent of respondents in the G2C (Government to Citizens) survey indicated that they were very or extremely satisfied (at least 5 out of a 6-point scale) in 2020. In fact, the percentage of citizen respondents who indicated that they were extremely satisfied went up by 6-percentage point, from 19 per cent in 2019 to 25 per cent in 2020. Citizens also expressed satisfaction with the slew of digital services introduced to combat COVID-19. 97 per cent of the citizen respondents indicated that the COVID-19 digital solutions were delivered in a timely manner, and 98 per cent agreed that the digital solutions have played a key role in the fight against COVID-19.
 
-11	Business satisfaction with government digital services also remained high.  76 per cent of respondents in the G2B (Government to Business) survey indicated that they were very or extremely satisfied (at least 5 out of a 6-point scale) in 2020. 94 per cent of business respondents indicated that the digital solutions by the Government have provided timely and accurate information to help businesses cope with COVID-19. 
+11	  Business satisfaction with government digital services also remained high.  76 per cent of respondents in the G2B (Government to Business) survey indicated that they were very or extremely satisfied (at least 5 out of a 6-point scale) in 2020. 94 per cent of business respondents indicated that the digital solutions by the Government have provided timely and accurate information to help businesses cope with COVID-19. 
 
-12	Mr Kok Ping Soon, Chief Executive, GovTech, said: “We are heartened by the results of the G2C and G2B annual survey on Government Digital Services, which are an affirmation of the Government’s commitment to invest heavily in ICT and digital transformation. Providing more opportunities for SMEs to take on government projects is also important, as SMEs have always been the lifeblood of Singapore, and form a key pillar of our Smart Nation efforts. GovTech will continue to innovate to provide seamless and easy-to-use services and improve the resilience and security of our digital platforms for citizens, businesses and public officers.” 
+12  	Mr Kok Ping Soon, Chief Executive, GovTech, said: “We are heartened by the results of the G2C and G2B annual survey on Government Digital Services, which are an affirmation of the Government’s commitment to invest heavily in ICT and digital transformation. Providing more opportunities for SMEs to take on government projects is also important, as SMEs have always been the lifeblood of Singapore, and form a key pillar of our Smart Nation efforts. GovTech will continue to innovate to provide seamless and easy-to-use services and improve the resilience and security of our digital platforms for citizens, businesses and public officers.” 
 
-13	Due to the ongoing pandemic, GovTech will roll out an online content series comprising long-form articles and videos, as well as a LinkedIn Live chat to be held on 30 June 2021, to share details on the Government’s key digitalisation focuses and areas of projected spending.  
+13	  Due to the ongoing pandemic, GovTech will roll out an online content series comprising long-form articles and videos, as well as a LinkedIn Live chat to be held on 30 June 2021, to share details on the Government’s key digitalisation focuses and areas of projected spending.  
 
 ---
 
@@ -62,13 +62,13 @@ GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE
 
 **For media enquiries, please contact:**
 
-<br>Adrian CHAN (Mr)  
+<br>Adrian CHAN (Mr)
 <br>Communications & Marketing Group 
 <br>Government Technology Agency 
 <br>Tel: 9100 4477
 <br>Email: <Adrian_CHAN@tech.gov.sg>
 
-<br>Elizabeth LEE (Ms) 
+<br>Elizabeth LEE (Ms)
 <br>Communications & Marketing Group 
 <br>Government Technology Agency 
 <br>Tel: 8200 5010
