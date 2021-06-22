@@ -13,7 +13,7 @@ The Government will spend up to an estimated S$3.8 billion on info-communication
 
 **Transforming government digital services for the future**
 
-An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 250 projects to transform, integrate and streamline digital services across different sectors to create a more digitally empowered nation. Some of the projects include:
+2. An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 250 projects to transform, integrate and streamline digital services across different sectors to create a more digitally empowered nation. Some of the projects include:
 
 * The Accounting and Corporate Regulatory Authority’s new **national business registry and regulatory system** that will leverage data and digital technology to deliver seamless and anticipatory service to businesses and improve regulatory compliance;
 * GovTech’s **LifeSG app** that will provide users with a personalised dashboard comprising key information, upcoming appointments with government agencies, and consolidated information on benefits and support. The LifeSG Eligibility Checker, which helps users find eligible Government assistance or schemes without having to navigate through multiple government websites and information, will continue to be updated. More improvements will also be made to the app personalisation engine to better recommend relevant services and content to users;  
@@ -21,7 +21,7 @@ An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 2
 
 **Re-engineering Digital Government infrastructure**  
 
-Of the S$2.7 billion expected to be spent on digital application services, 44 per cent will be developed on the cloud in FY21. Some of the projects include:  
+3. Of the S$2.7 billion expected to be spent on digital application services, 44 per cent will be developed on the cloud in FY21. Some of the projects include:  
 
 * The State Courts’ **Community Justice and Tribunals System (CJTS)** - an electronic online case filing and management system which enables court users to submit their claims and documents, make payments, select their court date, view documents submitted by the other party, and monitor their case developments entirely online; 
 * **SmartGym** – a collaboration between Sport Singapore and GovTech to capture workout data on the ActiveSG app and website for citizens; and
