@@ -16,8 +16,8 @@ The Government will spend up to an estimated S$3.8 billion on info-communication
 An estimated S$2.7 billion (70 per cent out of S$3.8 billion) will be spent on 250 projects to transform, integrate and streamline digital services across different sectors to create a more digitally empowered nation. Some of the projects include:
 
 * The Accounting and Corporate Regulatory Authority’s new **national business registry and regulatory system** that will leverage data and digital technology to deliver seamless and anticipatory service to businesses and improve regulatory compliance;
-* GovTech’s **LifeSG Eligibility Checker**, which helps users to conveniently check if they are eligible for any Government assistance or schemes without having to navigate through multiple government websites and information; and
-* The **GoBusiness online platform**, which has helped more than 150 Food and Beverage establishments to register for their business licences, with time savings of between 10 and 14 days in turn-around time.
+* GovTech’s **LifeSG app** that will provide users with a personalised dashboard comprising key information, upcoming appointments with government agencies, and consolidated information on benefits and support. The LifeSG Eligibility Checker, which helps users find eligible Government assistance or schemes without having to navigate through multiple government websites and information, will continue to be updated. More improvements will also be made to the app personalisation engine to better recommend relevant services and content to users;  
+* The **GoBusiness platform**, which has helped more than 150 Food and Beverage establishments to register for their business licences, with time savings of between 10 and 14 days in turn-around time. Developed by the Ministry of Trade and Industry and the Smart Nation and Digital Government Group, the platform will be expanded to be a go-to place for business-to-government interactions in Singapore and provide personalised assistance and recommendations for new and existing business.
 
 **Re-engineering Digital Government infrastructure**  
 
