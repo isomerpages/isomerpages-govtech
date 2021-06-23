@@ -7,7 +7,7 @@ category: speeches
 
 Speech by Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information & Ministry of Health at The Digital Academy Virtual Launch Symposium
 
-SINGAPORE, 21 JUNE 2021
+Singapore, 21 June 2021
 
 1. Good morning everyone. It’s a pleasure to be with you today for the official launch of The Digital Academy.
 
