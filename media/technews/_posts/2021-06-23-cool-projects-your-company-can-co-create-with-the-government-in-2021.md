@@ -17,7 +17,7 @@ Excited yet? There will be a LinkedIn Live chat held on 30 June 2021 to share de
 
 In the meantime, check out these areas where contracts are available.
 
-### **Transforming digital services**
+## **Transforming digital services**
 
 About 70 per cent of the $3.8 billion – or $2.7 billion – will be spent across 250 projects to transform, integrate and streamline more digital services across different sectors to create a more digitally empowered nation.
 
