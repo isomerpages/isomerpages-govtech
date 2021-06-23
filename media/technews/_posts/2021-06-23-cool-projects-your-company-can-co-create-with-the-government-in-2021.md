@@ -25,33 +25,33 @@ About 70 per cent of the $3.8 billion – or $2.7 billion – will be spent acro
 
 * The Accounting and Corporate Regulatory Authority’s new **Business Registry and Regulatory System (BR2S)** will be an online filing and information retrieval system that simplifies administrative work for businesses.
 
-* GovTech’s LifeSG app, which provide users with a personalised dashboard comprising key information, upcoming appointments with government agencies, and consolidated information on benefits and support. The LifeSG Eligibility Checker, which helps users find eligible Government assistance or schemes without having to navigate through multiple government websites and information, will continue to be updated, and the GoBusiness platform, which has helped more than 150 Food and Beverage establishments to register for their business licences, with time savings of between 10 and 14 days in turn-around time. Developed by the Ministry of Trade and Industry and the Smart Nation and Digital Government Group, the platform will be expanded to be a go-to place for business-to-government interactions in Singapore and provide personalised assistance and recommendations for new and existing business.
+* GovTech’s LifeSG app, which provide users with a personalised dashboard comprising key information, upcoming appointments with government agencies, and consolidated information on benefits and support. The LifeSG Eligibility Checker, which helps users find eligible Government assistance or schemes without having to navigate through multiple government websites and information, will continue to be updated, and the **GoBusiness platform**, which has helped more than 150 Food and Beverage establishments to register for their business licences, with time savings of between 10 and 14 days in turn-around time. Developed by the Ministry of Trade and Industry and the Smart Nation and Digital Government Group, the platform will be expanded to be a go-to place for business-to-government interactions in Singapore and provide personalised assistance and recommendations for new and existing business.
 
-### **Cloud tech to re-engineer digital infrastructure**
+## **Cloud tech to re-engineer digital infrastructure**
 
 About $1.2 billion – 44 per cent of the $2.7 billion for transforming digital services – will go towards cloud adoption projects as the government is on track to have 70 per cent of eligible systems on the cloud by FY2023.
 
-**Key projects**
+### **Key projects**
 
-* The State Courts will streamline its processes through the Community Justice and Tribunals System (CJTS) – an electronic online case filing and management system that enables court users to submit their claims and documents, make payments, select their court date, view documents submitted by the other party, and monitor their case developments entirely online. The CJTS also offers Alternative Dispute Resolution options such as e-Negotiation and e-Mediation that facilitate early resolution of disputes between parties
+* The State Courts will streamline its processes through the **Community Justice and Tribunals System (CJTS)** – an electronic online case filing and management system that enables court users to submit their claims and documents, make payments, select their court date, view documents submitted by the other party, and monitor their case developments entirely online. The CJTS also offers Alternative Dispute Resolution options such as e-Negotiation and e-Mediation that facilitate early resolution of disputes between parties
 
-* Sport Singapore and GovTech will collaborate to launch SmartGym, which will capture and consolidate workout data on ActiveSG apps and websites for citizens. 
+* Sport Singapore and GovTech will collaborate to launch **SmartGym**, which will capture and consolidate workout data on ActiveSG apps and websites for citizens. 
 
-* The charity landscape is getting a digital makeover to make giving more convenient and enable non-profit organisations to expand their digital outreach. A SG Cares Digital Kampong platform will be built to serve as a centralised repository of API capabilities, the SG Cares app will be enhanced so it can become the go-to app for giving, and the Giving.sg site will be improved to provide comprehensive features connecting givers and receivers. 
+* The charity landscape is getting a digital makeover to make giving more convenient and enable non-profit organisations to expand their digital outreach. A **SG Cares Digital Kampong** platform will be built to serve as a centralised repository of API capabilities, the **SG Cares** app will be enhanced so it can become the go-to app for giving, and the **Giving.sg** site will be improved to provide comprehensive features connecting givers and receivers. 
 
-* Common platforms such as the Singapore Government Technology Stack (SG Tech Stack) will be used more to streamline and simplify the software development process, helping government agencies to accelerate their modernisation and digitalisation plans. The government will invest over $100 million in SG Tech Stack in the next two years. A key product of SG Tech Stack is SHIP-HATS, the government’s continuous integration and continuous deployment (CI/CD) platform to deliver secure, high quality, cost-efficient digital services to citizens and businesses. To date, 120 systems across 30 agencies are using SHIP-HATS.
+* Common platforms such as the **Singapore Government Technology Stack (SG Tech Stack)** will be used more to streamline and simplify the software development process, helping government agencies to accelerate their modernisation and digitalisation plans. The government will invest over $100 million in SG Tech Stack in the next two years. A key product of SG Tech Stack is SHIP-HATS, the government’s continuous integration and continuous deployment (CI/CD) platform to deliver secure, high quality, cost-efficient digital services to citizens and businesses. To date, 120 systems across 30 agencies are using SHIP-HATS.
 
-### **Artificial intelligence**
+## **Artificial intelligence**
 
 Over $500 million (13 per cent of the $3.8 billion) will be spent on accelerating the deployment of artificial intelligence (AI) for the public sector. Video analytics, natural language processing, fraud analytics and personalised services are some areas which will see investment.
 
-**Key projects**
+### **Key projects**
 
-* The Ministry of Education is using AI to boost efficiency in the teaching process. The AI-Automated Marking System, an AI-enabled learning tool, will integrate with existing Internet-accessible systems such as the Student Learning Space. It will track students’ learning progress and personalise learning pathways for students to access MOE designed/curated learning resources, enabling them to take greater ownership towards self-directed learning. The integrated system will also provide learning analytics so students can monitor their own learning and teachers can keep track of their students’ progress. 
+* The Ministry of Education is using AI to boost efficiency in the teaching process. The **AI-Automated Marking System**, an AI-enabled learning tool, will integrate with existing Internet-accessible systems such as the Student Learning Space. It will track students’ learning progress and personalise learning pathways for students to access MOE designed/curated learning resources, enabling them to take greater ownership towards self-directed learning. The integrated system will also provide learning analytics so students can monitor their own learning and teachers can keep track of their students’ progress. 
 
-* The ministry will also procure a Language Checker, in the form of a browser plugin or a standalone application, to meet students’ learning needs.
+* The ministry will also procure a **Language Checker**, in the form of a browser plugin or a standalone application, to meet students’ learning needs.
 
-### **How to find out more**
+## **How to find out more**
 
 The increase in ICT procurement spending will create more opportunities for SMEs to support Singapore’s digitalisation.
 
