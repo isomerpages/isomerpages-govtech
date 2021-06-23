@@ -21,7 +21,7 @@ In the meantime, check out these areas where contracts are available.
 
 About 70 per cent of the $3.8 billion – or $2.7 billion – will be spent across 250 projects to transform, integrate and streamline more digital services across different sectors to create a more digitally empowered nation.
 
-**Key projects**
+### **Key projects**
 
 * The Accounting and Corporate Regulatory Authority’s new **Business Registry and Regulatory System (BR2S)** will be an online filing and information retrieval system that simplifies administrative work for businesses.
 
