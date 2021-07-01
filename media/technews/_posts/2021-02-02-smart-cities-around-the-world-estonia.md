@@ -72,9 +72,6 @@ Additionally, the initiative will fund a challenge that seeks to award 10 propos
 The fund is the most valuable research and development fund in Estonia, and signifies the commitment Estonians have made towards the smart city dream. As such, we can be sure to expect further exciting smart city developments from Estonia.
 
 
-Stay tuned for the next Smart City, Helsinki!
-
-
 ### **Like what you read? Subscribe for the latest stories in your inbox.**
 
 <!-- Begin Mailchimp Signup Form -->
