@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-[![Amsterdam](/images/technews/Amsterdam_correct.png.png)]
+[![Amsterdam](/images/technews/Amsterdam_correct.png)]
 
 The Smart City is Amsterdam! 
 
