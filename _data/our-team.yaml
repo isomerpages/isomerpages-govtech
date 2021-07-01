@@ -71,6 +71,10 @@ senior-leadership:
     title: Deputy Chief Executive / Government Chief Digital Technology Officer
     organisation: Products
     image-url: /images/our-team/chan-cheow-hoe.jpg
+  - name: Mr Henry CHANG
+    title: Deputy Chief Executive
+    organisation: Services, Governance and Cybersecurity
+    image-url: /images/our-team/Henry_Chang.jpg
   - name: Ms LIM Bee Kwan
     title: Assistant Chief Executive
     organisation: Governance and Cybersecurity
@@ -87,10 +91,6 @@ senior-leadership:
     title: Senior Director
     organisation: Cyber Security Group
     image-url: /images/our-team/chai-chin-loon.jpg
-  - name: Mr KWOK Quek Sin
-    title: Senior Director
-    organisation: National Digital Identity
-    image-url: /images/our-team/kwok-quek-sin.png
   - name: Mr LIM Chinn Hwa
     title: Senior Director
     organisation: Smart Nation Platform Solutions
@@ -98,7 +98,7 @@ senior-leadership:
   - name: Mr D. N. PRASAD
     title: Senior Director
     organisation: Strategy, People and Organisation
-    image-url: /images/D-N-Prasad-GovTech-Smart-Nation.jpg
+    image-url: /images/our-team/D-N-Prasad5.jpg
   - name: Mr Jason SEE
     title: Senior Director
     organisation: Data Science and Artificial Intelligence
@@ -109,7 +109,7 @@ senior-leadership:
     image-url: /images/our-team/Bee-Teck-GovTech-Smart-Nation-Senior-Leader.jpg    
   - name: Mr Dominic CHAN
     title: Director
-    organisation: Moments of Life
+    organisation: National Digital Identity, Moments of Life
     image-url: /images/our-team/dominic-chan.jpg
   - name: Mr Kevin NG
     title: Director
