@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GovTech TechNews Referral Contest - Terms and Conditions"
-permalink: "/media/technews/technewsreferralcontest"
+permalink: "/media/technews/technewsreferralcontest1"
 category: technews
 image: 
 ---
