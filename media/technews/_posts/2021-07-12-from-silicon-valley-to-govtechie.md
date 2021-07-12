@@ -10,7 +10,8 @@ Tech is usually thought of as gizmos, gadgets, machines, and computers. But real
 ---
 
 ![San Francisco](/images/technews/wangzhen.jpg)
-*Find out why Smart Nation Fellow Wang Zhen decided to join GovTech after leaving San Francisco PHOTO: *Photo by <a href="https://unsplash.com/@madhur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Madhur Chadha</a> on <a href="https://unsplash.com/s/photos/silicon-valley?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*Find out why Smart Nation Fellow Wang Zhen decided to join GovTech after leaving San Francisco*
+PHOTO: *Photo by <a href="https://unsplash.com/@madhur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Madhur Chadha</a> on <a href="https://unsplash.com/s/photos/silicon-valley?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
   
   
 GovTech recognises the vast pool of tech talent in the private sector, which is why the [Smart Nation Fellowship Programme](https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/) was introduced in 2016, seeking to attract established data scientists, engineers, software developers, technologists, designers and applied researchers to take three to six months - or on a part-time basis - to collaborate with us to co-create digital or engineering solutions that will make an impact on people’s lives.
