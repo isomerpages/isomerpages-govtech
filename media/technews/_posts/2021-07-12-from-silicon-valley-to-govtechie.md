@@ -20,7 +20,7 @@ One such Smart Nation Fellow, polyglot software engineer Wang Zhen, joined the p
 
 Six months later, Wang Zhen decided that GovTech was more than a stint to him and accepted the position of Distinguished Engineer to continue his career in the public sector. We caught up with him to find out more about what he’s up to in GovTech and why he decided to extend his commitment to the organisation.
 
-### **How did you end up joining the Smart Nation Fellowship? Was there any hesitation in moving from the private sector to the public sector?**
+### How did you end up joining the Smart Nation Fellowship? Was there any hesitation in moving from the private sector to the public sector?
 
 My wife had to relocate to Singapore last year so naturally I started looking for opportunities here. And then on an ex-Googler mailing list, I came across a call for help on several GovTech projects. I reached out and learned about the Smart Nation Fellowship Programme. 
 
@@ -34,11 +34,11 @@ I’m currently designing systems around GovTech’s API strategy to facilitate 
 I’m also advising on new digital products’ architectures and talent acquisition programmes.
 
 
-### **What is the biggest difference between working in the private sector and public sector?**
+### What is the biggest difference between working in the private sector and public sector?
 
 Return-on-investment and results are easily quantifiable in the private sector; it’s a more nuanced topic in the public sector because the government is not a revenue-driven entity. We need to use other measures like time-to-market, satisfaction level surveys, and user engagement to gauge performance.
 
-### **How does working in Singapore compare with other countries that you've worked in?**
+### How does working in Singapore compare with other countries that you've worked in?
 
 The Silicon Valley tech scene is all about “moving fast and breaking things” and failure is pretty destigmatised. My sense so far is that Singapore’s workplace culture seems more risk-averse, which is of course not a bad thing per se. 
 
@@ -53,7 +53,7 @@ That said, I believe we’re on the cusp of a cultural shift as Singapore streng
 
 GovTech’s openness to public cloud services and quick adoption of cloud-native technologies has been a pleasant eye-opener. Kudos to the organisation’s leadership for recognising the value of cloud and embracing the paradigm shift. The Open Government Products (OGP) team, in particular, has been a driving force behind public cloud adoption. The speed of adoption is perhaps also owed to most engineers’ love of shiny new tech that automates DevOps drudgery, ha!
 
-### **What's your favourite tech that you’ve come across in Singapore so far?**
+### What's your favourite tech that you’ve come across in Singapore so far?
 
 It has to be SingPass – for being an identity system that is becoming a “super app” for countless digital services.
 
