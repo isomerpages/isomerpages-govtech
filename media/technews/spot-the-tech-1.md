@@ -10,7 +10,7 @@ image:
 
 **Did you spot the tech?**
 
-Smart glasses date back nearly a decade. But fast forward to today, they have still not quite taken off in the mass consumer market due to reasons like a high price tag.
+**Smart glasses** date back nearly a decade. But fast forward to today, they have still not quite taken off in the mass consumer market due to reasons like a high price tag.
 
 Does that sound the death knell for smart glasses technology? Far from it. Our team at GovTech may have found the right fit for them.
 
