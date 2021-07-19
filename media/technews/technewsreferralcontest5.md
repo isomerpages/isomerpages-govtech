@@ -12,10 +12,10 @@ image:
 2. The Contest is only open to existing TechNews E-Newsletter subscribers who have been invited by the Government Technology Agency (“GovTech”) to participate in the Contest via a unique referral link sent to their email address.
 3. The Contest is not open to employees of GovTech and their close relatives, and anyone otherwise connected with the organisation or judging of the Contest.
 4. There is no entry fee or purchase necessary to enter this Contest.
-5. In order to qualify for the Contest, the subscriber must successfully refer 2 individuals to subscribe to the TechNews E-Newsletter using the unique referral link provided by GovTech to the subscriber’s email address.
-6. The Contest will close on 3 August 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive $10 worth of GrabFood e-vouchers (the “Prize”).
+5. In order to qualify for the Contest, the subscriber must successfully refer 1 individual to subscribe to the TechNews E-Newsletter using the unique referral link provided by GovTech to the subscriber’s email address.
+6. The Contest will close on 3 August 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive $5 worth of Grab e-vouchers (the “Prize”).
 7. The winners will be notified by email within 14 days from the last day of the Contest. The winner must complete an acknowledgement form provided via a link in the email notification within 14 days of receipt of the email. Failure to complete the acknowledgement form shall result in forfeiture of the Prize.
-8. GovTech will send acknowledged winners the GrabFood e-voucher via email.
+8. GovTech will send acknowledged winners the Grab e-voucher via email.
 9. The expiry date of the Grab e-vouchers will be stated on the vouchers sent to the winner. The Grab e-vouchers are to be used by that date and no extensions will be granted.
 10. GovTech reserves the right, at its sole discretion, to change, amend or add on to these Terms and Conditions, or terminate, vary or suspend this Contest, or substitute this Contest for another, at any time without prior notice.
 11. The prizes are as stated, and no cash or other alternatives will be offered. The prizes are not transferable. Prizes are subject to availability and we reserve the right to substitute any prize with another of equivalent value without giving notice.
