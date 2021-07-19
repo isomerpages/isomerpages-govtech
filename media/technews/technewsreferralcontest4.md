@@ -13,7 +13,7 @@ image:
 3. The Contest is not open to employees of GovTech and their close relatives, and anyone otherwise connected with the organisation or judging of the Contest.
 4. There is no entry fee or purchase necessary to enter this Contest.
 5. In order to qualify for the Contest, the subscriber must successfully refer 2 individuals to subscribe to the TechNews E-Newsletter using the unique referral link provided by GovTech to the subscriber’s email address.
-6. The Contest will close on 27 July 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive $10 worth of GrabFood e-vouchers (the “Prize”).
+6. The Contest will close on 27 July 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive a $10 GrabFood e-voucher (the “Prize”). Prize is limited to 1 e-voucher per subscriber.
 7. The winners will be notified by email within 14 days from the last day of the Contest. The winner must complete an acknowledgement form provided via a link in the email notification within 14 days of receipt of the email. Failure to complete the acknowledgement form shall result in forfeiture of the Prize.
 8. GovTech will send acknowledged winners the Grab e-voucher via email.
 9. The expiry date of the Grab e-vouchers will be stated on the vouchers sent to the winner. The Grab e-vouchers are to be used by that date and no extensions will be granted.
