@@ -6,7 +6,7 @@ category: technews
 image: 
 ---
 
-## GovTech TechNews Referral Contest - Terms and Conditions
+## [CLOSED] GovTech TechNews Referral Contest - Terms and Conditions
 
 1. The eligibility period for the TechNews E-Newsletter Referral Contest (the “Contest”) runs from 15 July 2021, 0000hrs, to 20 July 2021, 2359hrs (the “Contest Period”).
 2. The Contest is only open to existing TechNews E-Newsletter subscribers who have been invited by the Government Technology Agency (“GovTech”) to participate in the Contest via a unique referral link sent to their email address.

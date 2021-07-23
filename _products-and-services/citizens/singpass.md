@@ -13,7 +13,7 @@ thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new
 
 [Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 1,400 government and private sector services online and in person. Users can log in to digital services, prove their identity over counters, digitally sign documents and do more with the improved Singpass. 
 
-Singpass is managed by the Government Technology Agency (GovTech) and is one of six strategic national projects that drive Singapore’s Smart Nation vision.
+Singpass is managed by the Government Technology Agency (GovTech) and is one of eight strategic national projects that drive Singapore’s Smart Nation vision.
 
 ### **Fast and convenient ways to prove who you are**
 
