@@ -10,8 +10,10 @@ image: "/images/technews/importance-of-being-agile.jpg"
 
 ---
 
-![Sticky Notes, because Agile.](/images/technews/importance-of-being-agile.jpg
-*The importance of post-its! *
+![San Francisco](/images/technews/importance-of-being-agile.jpg)
+*The importance of post-it notes in agile!*
+PHOTO: *Photo by Patrick Perkins, Unsplash*
+
 
 Today’s business software solutions are expected to support an ever-evolving range of operational imperatives and user features such as AI-powered interfaces, big data analytics, digital identity authentication, secure payment processing and transaction signing. The traditional model of software development (commonly referred to as the Waterfall method) requires segmenting the project into a linear sequence of distinct phases beginning with the detailed documentation of functional and technical specifications before moving sequentially through the coding, integration, testing and deployment phases. Given its dependency on having well-defined specifications, the Waterfall method can work well for projects which primarily use commercial off-the-shelf products and where the underlying business requirements are stable and not susceptible to frequent changes. 
 
