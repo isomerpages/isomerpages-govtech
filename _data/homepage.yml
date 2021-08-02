@@ -58,7 +58,7 @@ infopic:
     subtitle: CITIZEN
     description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
     button: Learn More
-    url: /products-and-services/lifesg/?utm_source=media_homepage
+    url: /products-and-services/lifesg/?utm_source=products_homepage
     image: images/programmes/products-and-services/LifeSG_Web Carousel.png
     alt: LifeSG
 infopic:
@@ -66,7 +66,7 @@ infopic:
     subtitle: CITIZEN
     description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
     button: Learn More
-    url: /products-and-services/singpass/?utm_source=media_homepage
+    url: /products-and-services/singpass/?utm_source=products_homepage
     image: images/programmes/products-and-services/singpass-homepage2.png
     alt: Singpass
 
