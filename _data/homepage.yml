@@ -59,7 +59,7 @@ programmes-more-button-url: /products-and-services/?utm_source=programmes_homepa
       description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
       button: Learn More
       url: /products-and-services/lifesg/?utm_source=products_homepage
-      image: images/programmes/products-and-services/LifeSG_Web Carousel.png
+      image: /images/programmes/products-and-services/LifeSG_Web Carousel.png
       alt: LifeSG
   - infopic:
       title: Singpass
@@ -67,8 +67,22 @@ programmes-more-button-url: /products-and-services/?utm_source=programmes_homepa
       description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
       button: Learn More
       url: /products-and-services/singpass/?utm_source=products_homepage
-      image: images/programmes/products-and-services/singpass-homepage2.png
+      image: /images/programmes/products-and-services/singpass-homepage2.png
       alt: Singpass
+
+# Infopic Section
+infopic-title: LifeSG
+infopic-description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
+infopic-button: Learn More
+infopic-url: /products-and-services/lifesg/?utm_source=products_homepage
+infopic-image: /images/programmes/products-and-services/LifeSG_Web Carousel.png
+
+
+infopic-title: Singpass
+infopic-description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
+infopic-button: Learn More
+infopic-url: /products-and-services/singpass/?utm_source=products_homepage
+infopic-image: /images/programmes/products-and-services/singpass-homepage2.png
 
 # Resources Section
 resources-title: Media
