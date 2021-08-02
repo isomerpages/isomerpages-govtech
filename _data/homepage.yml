@@ -52,6 +52,25 @@ programmes-description: Using technology to make an impact, inspire change. We h
 programmes-more-button: More Products and Services
 programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
+# Products Section
+
+    - infopic:
+        title: LifeSG
+        subtitle: CITIZEN
+        description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
+        button: Learn More
+        url: /products-and-services/lifesg/
+        image: images/programmes/products-and-services/LifeSG_Web Carousel.png
+        alt: LifeSG
+    - infopic:
+        title: Singpass
+        subtitle: CITIZEN
+        description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
+        button: Learn More
+        url: /products-and-services/singpass/
+        image: images/programmes/products-and-services/singpass-homepage2.png
+        alt: Singpass
+
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
