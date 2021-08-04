@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here are 5 jobs that didn't exist 10 years ago."
-permalink: "/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago.md"
+permalink: "/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago"
 category: technews
 image: "/images/technews/tvws-part1.JPG"
 
