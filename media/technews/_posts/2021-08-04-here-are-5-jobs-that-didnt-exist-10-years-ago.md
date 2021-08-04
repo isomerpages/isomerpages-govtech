@@ -20,7 +20,7 @@ Let’s have a look at some of them.
 ---
 
 ![Drone Pilot as a job?](/images/technews/tvws-part1.JPG)
-When I was growing up, there was no jobs such as drone pilots! Photo:Unsplash
+When I was growing up, there were no jobs such as drone pilots! Photo:Unsplash
 
 
 
@@ -30,34 +30,32 @@ Okay, we’re kinda cheating with the first one.
 
 If you wanna be pedantic about it, the air force was already hiring for UAV pilots in 2011.  
 
-However, we’d argue that drone operators – particularly those who'd use drones for non-military purposes were definitely not mainstream. 
+However, we’d argue that drone operators – particularly those who'd use drones for non-military purposes - were definitely not mainstream. 
  
 
 By now, you might have seen this meme – in just 10 years, both the cameraman and the helicopter pilot (assuming they only fly for filming purposes) were both made redundant.
 
 ![Helicopter Camera man Meme](/images/technews/dronememe.jpg)
 
-Photo:twitter
+Photo: Twitter
 
 
-While you might have gotten used to the birds-eye view that drones provide, it’s easy to forget that they’re only a recent invention. It was only in 2014 that use drones were legalised in the United States for filming purposes. Singapore passed it’s very own Unmanned Aircraft Bill back in 2015.
+While you might have gotten used to the bird's eye view that drones provide, it’s easy to forget that they’re only a recent invention. It was only in 2014 that drones were legalised in the United States for filming purposes. Singapore passed its very own Unmanned Aircraft Bill back in 2015.
 
-Today in Singapore, drones are used from anything ranging from aerial photography to  police surveillance, island maintenance and building inspections. Delivery-folk are generally still safe from drones, but trials are ongoing. 
+Today in Singapore, drones are used from anything ranging from aerial photography to  police surveillance, island maintenance and building inspections. Delivery folks are generally still safe from drones, but trials are ongoing. 
 
 Fun fact: The first iteration of DJI’s now ubiquitous and wildly popular Phantom drone appeared in 2013. 
-
-Okay, we’re kinda cheating with the first one. 
 
 ## **DevOps Engineer**
 
 ‘DevSecOps’ might sound like an intimidating phrase, but if you break it down, it actually means Development, Security and Operations engineer. Less scary now, ain’t it? 
 Put simply, the folk in DevOps (and DevSecOps) are tech generalists who do everything from software development, operations, and cybersecurity. Which if you think about it, is an extremely wide range of roles. 
 
-While DevOps seems like the natural thing to do, it wasn’t always this way. Not too long ago, the tech world practiced ‘waterfall philosophy’ also applied in the manufacturing and construction industries. The term ‘waterfall’ was used because the workflow was like this:
+While DevOps seems like the natural thing to do, it wasn’t always this way. Not too long ago, the tech world practiced a ‘waterfall philosophy’, which  also applied in the manufacturing and construction industries. The term ‘waterfall’ was used because the workflow was like this:
 Conception -> Initiation -> Analysis -> Design -> Construction -> Testing -> Deployment and maintenance
 
-This is often known as a linear workflow model – which flows downtowards, step by step. Hence the name ‘Waterfall’. 
-However, as people would soon realise, just because something works well in other industries, doesn’t mean it would work well in others. 
+This is often known as a linear workflow model – which flows downwards, step by step. Hence the name ‘Waterfall’. 
+However, as people would soon realise, just because something works well in some industries, doesn’t mean it would work well in others. 
 
 The waterfall approach simply wasn’t flexible enough for the fast-moving tech industry, where everything needed to be fluid. As a result, Agile philosophy was created, and DevOps Engineers were the people who could make this happen. 
 
@@ -71,7 +69,7 @@ Front end vs back end.
 
 You can think of front end development as the client side of the two, heavily involved with presentations. Indeed, front end web development involves converting data to a graphical interface, through the use of languages HTML, CSS, and JavaScript and/or other apps.
 
-Back end developers, on the other hand, deal with the behind the scenes – every back end of a website involves a server, an application, and a database. 
+Back end developers, on the other hand, deal with the behind-the-scenes, every back end of a website involves a server, an application, and a database. 
 
 Of course, at some point over the last 10 years, the demands of the job started to increase, and the two camps started converging their skill sets to get what you call a ‘full stack developer.’
 
@@ -84,17 +82,18 @@ Do you remember website design from 10 years ago?
 Here, let me jog your memory.
 
 
-![Helicopter Camera man Meme](/images/technews/uxmeme.jpg)
+![uxMeme](/images/technews/uxmeme.jpg)
 
-Photo:twitter
+Photo: GovTech
  
  
 See how terrible it looks? In the past websites were created with little or no UI/UX principles in mind. 
 All that changed when smartphones hit the scene in the 2010s. You could argue that the need for mobile websites and apps gave rise to the need for intuitive, easy-to-use interfaces. 
 
-If you go back even further, the UI/UX term was first stamped out in 1993 by the cognitive psychologist and designer Don Norman when he worked at Apple.
+If you go back even further, the UI/UX term was first coined in 1993 by the cognitive psychologist and designer Don Norman when he worked at Apple.
 
-These days, UI and UX is an entire discipline on its own, and an integral part of any tech company. In a space where everyone is battling to be top dog, ease of use and convenience, UI/UX plays a huge role in producing a finished product that allows customers to interact with businesses easily.
+These days, UI and UX is an entire discipline on its own, and an integral part of any tech company. In the highly competetive tech sector, ease of use and convenience, UI/UX plays a huge role in producing a finished product that allows customers to interact with businesses easily.
+
 With that said, UI and UX roles are often confused, though there are slight differences. 
 
 ●	User interface (UI) refers to how a website, app or any digital media looks.
@@ -112,16 +111,16 @@ Look, cloud computing might sound like a great idea today, but when it first cam
 Think about it: companies spending millions and billions of dollars on their own data centres, only to find out there’s a cheaper and more convenient solution out there? 
 That’s the perfect case of the sunk cost fallacy. 
 
-Either way, we know how history plays out – in the 2010s, cloud computing eventually overcame the naysayers. Cloud computing professionals are now amongst the hottest talents in Singapore, and just about everyone is hiring them.
+Either way, we know how history played out – in the 2010s, cloud computing eventually overcame the naysayers. Cloud computing professionals are now amongst the hottest talents in Singapore, and just about everyone is hiring them.
 
 Today, Cloud Infrastructure Engineers lead, architect and develop cloud and infrastructure solutions that have integration to various on-premise or SaaS (Software as a service) solutions. 
 
 ## **We don’t know what we don’t know** 
 
-Before you laugh at the skeptics that didn’t quite see the paradigm shifts in job roles, it’s important to realise that we one day might be in their shoes.
+Before you laugh at the sceptics that didn’t quite see the paradigm shifts in job roles, it’s important to realise that we one day might be in their shoes.
 In the same way they couldn’t predict the jobs of today in the 2010s... we can’t help but wonder what will be the hot jobs of the 2030s – given how technology continues to develop at an exponential rate. 
 
-The best thing we can do? Keep our skills updated, stay abreast of the latest developments, and do a career check up often. 
+The best thing we can do? Keep our skills updated, stay abreast of the latest developments, and do a career check-up often. 
 
 Here’s to hoping content writers are still needed in the 2030s.
 
