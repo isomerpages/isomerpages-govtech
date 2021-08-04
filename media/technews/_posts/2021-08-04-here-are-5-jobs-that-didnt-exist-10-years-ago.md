@@ -40,7 +40,7 @@ By now, you might have seen this meme – in just 10 years, both the cameraman a
 Photo:twitter
 
 
-While you might have gotten used to the birds-eye view that drones provide, it’s easy to forget that they’re only a recent invention. It was only in 2014 that use drones were legalised in the United States for filming purposes. Singapore passed it’s very own Unmanned Aircraft Bill back in 2015.
+While you might have gotten used to the birds-eye view that drones provide, it’s easy to forget that they’re only a recent invention. It was only in 2014 that use drones were legalised in the United States for filming purposes. Singapore passed its very own Unmanned Aircraft Bill back in 2015.
 
 Today in Singapore, drones are used from anything ranging from aerial photography to  police surveillance, island maintenance and building inspections. Delivery-folk are generally still safe from drones, but trials are ongoing. 
 
