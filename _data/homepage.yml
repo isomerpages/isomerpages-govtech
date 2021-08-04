@@ -54,13 +54,6 @@ programmes-more-button-url: /products-and-services/?utm_source=programmes_homepa
 
 # Infopic Sections
 info-sections:
-  - section-title: LifeSG
-    section-subtitle: Simpler services. Better lives.
-    section-description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
-    section-more-button: Learn More
-    section-more-button-url: /products-and-services/lifesg/?utm_source=products_homepage
-    section-image-path: /images/programmes/products-and-services/LifeSG_Web Carousel.png
-    section-image-alt: LifeSG
   - section-title: Singpass
     section-subtitle: Your improved digital ID
     section-description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
@@ -68,6 +61,13 @@ info-sections:
     section-more-button-url: /products-and-services/singpass/?utm_source=products_homepage
     section-image-path: /images/programmes/products-and-services/singpass-homepage2.png
     section-image-alt: Singpass
+  - section-title: LifeSG
+    section-subtitle: Simpler services. Better lives.
+    section-description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
+    section-more-button: Learn More
+    section-more-button-url: /products-and-services/lifesg/?utm_source=products_homepage
+    section-image-path: /images/programmes/products-and-services/LifeSG_Web Carousel.png
+    section-image-alt: LifeSG
 
 # Resources Section
 resources-title: Media
