@@ -4,6 +4,7 @@ title: "Here are 5 jobs that didn't exist 10 years ago."
 permalink: "/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago.md"
 category: technews
 image: "/images/technews/tvws-part1.JPG"
+
 ---
 
 NGL (Not gonna lie, try to keep up), the early 2010s were quite a crazy time to be alive. 
