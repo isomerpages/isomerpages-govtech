@@ -13,5 +13,5 @@ As Singapore embarks on creating a more caring and inclusive society, the use of
 
 The app also provides caregivers with information and resources on dementia and caregiving. There are also tips on how one can communicate with persons with dementia!
 
-*Developed by the Agency for Integrated Care (AIC), Nanyang Polytechnic and the Integrated Health Information Systems*
+*Developed by the Agency for Integrated Care (AIC), Nanyang Polytechnic and the [Integrated Health Information Systems](https://www.ihis.com.sg).*
 
