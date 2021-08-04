@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Here are 10 jobs that didn't exist 10 years ago."
-permalink: "/media/technews/here-are-10-jobs-that-didnt-exist-10-years-ago.md"
+title: "Here are 5 jobs that didn't exist 10 years ago."
+permalink: "/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago.md"
 category: technews
 image: "/images/technews/tvws-part1.JPG"
 ---
@@ -126,6 +126,7 @@ Here’s to hoping content writers are still needed in the 2030s.
 
 
 If you’re a techie reading this, and are interested to apply for any of the roles mentioned above, please do! Here are the links:
+
 [UX Designer](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Senior-UX-Designer--Development--Centre_JR-10000000080-1)
 
 [Full Stack Developer](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Full-Stack-Developer--SNPS-_JR-10000000153)
