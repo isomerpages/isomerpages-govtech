@@ -15,7 +15,8 @@ How did this cyberspace make its way to our shores and change our lives forever?
 
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/gt7WQinA_E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt7WQinA_E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Short on time? Catch this video to find out how the internet lanscaped changed in Singapore.
 
 ## 1987 – Connection to Bitnet, internet’s precursor
