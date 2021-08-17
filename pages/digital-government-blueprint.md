@@ -33,7 +33,7 @@ The DGB has been updated to accurately reflect the current plans and to push for
   - We have met the target for number of officers trained in data analytics and data science and will review a new KPI.
   - All 20 Ministries have submitted plans to use Artificial Intelligence.  
 
-![Image of Digital Government Blueprint]({{site.baseurl}}/images/digital-transformation/DGB_visual_illustration_FINAL-1.jpg)
+![Image of Digital Government Blueprint]({{site.baseurl}}/images/digital-transformation/Digital_Government_Aug21.jpeg)
 
 Here is how the DGB will benefit you: 
 - Electronic payment and digital signature options for 100% of Government services
