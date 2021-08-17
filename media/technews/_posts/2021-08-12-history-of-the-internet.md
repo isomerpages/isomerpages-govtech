@@ -21,7 +21,7 @@ How did this cyberspace make its way to our shores and change our lives forever?
 
 </div>
 
-Short on time? Catch this video to find out how the internet lanscaped changed in Singapore.
+Short on time? Catch this video to find out how the internet landscape changed in Singapore.
 
 ## 1987 – Connection to Bitnet, internet’s precursor
 
