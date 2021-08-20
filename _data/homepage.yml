@@ -45,12 +45,13 @@ key-highlights:
     external: true
 
 # Products Section
-programmes-title: Products and Services
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/?utm_source=products_homepage
-
+infobar:
+  - title: Products and Services
+    subtitle: Co-creating for better value
+    description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
+    button: Products and Services
+    url: /products-and-services/?utm_source=products_homepage
+    
 # Infopic Sections
 info-sections:
   - section-title: Singpass
@@ -74,10 +75,6 @@ info-sections:
     section-more-button-url: /products-and-services/gobusiness/?utm_source=products_homepage
     section-image-path: /images/GoBiz_homepage_1080.png
     section-image-alt: GoBusiness
-
-# Products Section
-programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/?utm_source=products_homepage
 
 # Resources Section
 resources-title: Media
