@@ -75,7 +75,7 @@ info-sections:
 
 # Products Section
 programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+programmes-more-button-url: /products-and-services/?utm_source=products_homepage
 
 # Resources Section
 resources-title: Media
