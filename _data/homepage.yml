@@ -43,15 +43,7 @@ key-highlights:
     description: Unleash your passion and potential with us
     url:  https://go.gov.sg/govtechjobs
     external: true
-
-# Products Section
-infobar:
-  - title: Products and Services
-    subtitle: Co-creating for better value
-    description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
-    button: Products and Services
-    url: /products-and-services/?utm_source=products_homepage
-    
+   
 # Infopic Sections
 info-sections:
   - section-title: Singpass
@@ -75,6 +67,13 @@ info-sections:
     section-more-button-url: /products-and-services/gobusiness/?utm_source=products_homepage
     section-image-path: /images/GoBiz_homepage_2560.png
     section-image-alt: GoBusiness
+
+# Products Section
+infobar-title: Products and Services
+infobar-subtitle: Co-creating for better value
+infobar-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
+infobar-more-button: Products and Services
+infobar-more-button-url: /products-and-services/?utm_source=products_homepage
 
 # Resources Section
 resources-title: Media
