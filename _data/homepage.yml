@@ -35,6 +35,7 @@ key-highlights:
   - title: DIGITAL GOVERNMENT BLUEPRINT
     description: A Government that is “Digital to the Core, and Serves with Heart"
     url: /digital-government-blueprint/?utm_source=hero_banner
+    external: true    
   - title: SUBSCRIBE TO TECHNEWS
     description: Get the latest tech stories and updates from GovTech
     url: /media/technews/subscribe
