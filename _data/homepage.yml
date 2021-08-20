@@ -44,8 +44,7 @@ key-highlights:
     url:  https://go.gov.sg/govtechjobs
     external: true
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
+# Products Section
 programmes-title: Products and Services
 programmes-subtitle: Co-creating for better value
 programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
@@ -74,7 +73,7 @@ info-sections:
     section-image-path: /images/GoBiz_homepage_1080.png
     section-image-alt: GoBusiness
 
-# Programmes Section
+# Products Section
 programmes-more-button: More Products and Services
 programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
