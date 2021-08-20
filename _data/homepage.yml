@@ -43,7 +43,14 @@ key-highlights:
     description: Unleash your passion and potential with us
     url:  https://go.gov.sg/govtechjobs
     external: true
-   
+
+# Programmes Section
+info-title: Products and Services
+info-subtitle: Co-creating for better value
+info-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+info-more-button: Products and Services
+info-more-button-url: /products-and-services/?utm_source=products_homepage
+
 # Infopic Sections
 info-sections:
   - section-title: Singpass
