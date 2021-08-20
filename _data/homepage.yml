@@ -68,12 +68,12 @@ info-sections:
     section-image-path: /images/GoBiz_homepage_2560.png
     section-image-alt: GoBusiness
 
-# Products Section
-infobar-title: Products and Services
-infobar-subtitle: Co-creating for better value
-infobar-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
-infobar-more-button: Products and Services
-infobar-more-button-url: /products-and-services/?utm_source=products_homepage
+# Programmes Section
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/?utm_source=products_homepage
 
 # Resources Section
 resources-title: Media
