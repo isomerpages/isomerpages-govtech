@@ -59,21 +59,21 @@ info-sections:
     section-description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
     section-more-button: Learn More
     section-more-button-url: /products-and-services/singpass/?utm_source=products_homepage
-    section-image-path: /images/Singpass_homepage_1080.jpg
+    section-image-path: /images/Singpass_homepage_2560.jpg
     section-image-alt: Singpass
   - section-title: LifeSG
     section-subtitle: Simpler services. Better lives.
     section-description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
     section-more-button: Learn More
     section-more-button-url: /products-and-services/lifesg/?utm_source=products_homepage
-    section-image-path: /images/LifeSG_homepage_1080.jpg
+    section-image-path: /images/LifeSG_homepage_2560.jpg
     section-image-alt: LifeSG
   - section-title: GoBusiness
     section-subtitle: Your business partner from the get-go 
     section-description: GoBusiness provides government resources and e-services all in one place to help businesses in Singapore in their journey.
     section-more-button: Learn More
     section-more-button-url: /products-and-services/gobusiness/?utm_source=products_homepage
-    section-image-path: /images/GoBiz_homepage_1080.png
+    section-image-path: /images/GoBiz_homepage_2560.png
     section-image-alt: GoBusiness
 
 # Resources Section
