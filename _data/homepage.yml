@@ -16,6 +16,58 @@ google-analytics: UA-82296306-1
 # AskJamie
 ask-jamie: non-empty string
 
+sections:
+  - hero:
+      title:
+      subtitle:
+      background: /images/homepage-banner-technews4.png
+      button: Subscribe Here
+      url: /media/technews/subscribe
+      key_highlights:
+        - title: Products and Services
+          description: Programmes for citizens, businesses and government agencies
+          url: /products-and-services/?utm_source=hero_banner
+        - title: Digital Government Blueprint
+          description: A Government that is “Digital to the Core, and Serves with Heart"
+          url: /digital-government-blueprint/?utm_source=hero_banner
+        - title: TechNews
+          description: Get the latest tech stories and updates from GovTech
+          url: /media/technews/subscribe
+        - title: Careers
+          description: Unleash your passion and potential with us
+          url: https://go.gov.sg/govtechjobs
+  - infobar:
+      title: Products and Services
+      description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
+      button: Products and Services
+      url: /products-and-services/?utm_source=products_homepage
+  - infopic:
+      title: Singpass
+      description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
+      image: /images/Singpass_homepage_2560.jpg
+      button: Learn More
+      url: /products-and-services/singpass/?utm_source=products_homepage
+      alt: Singpass
+  - infopic:
+      title: LifeSG
+      description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
+      button: Learn More
+      url: /products-and-services/lifesg/?utm_source=products_homepage
+      image: /images/LifeSG_homepage_2560.jpg
+      alt: LifeSG
+  - infopic:
+      title: GoBusiness
+      description:  GoBusiness provides government resources and e-services all in one place to help businesses along their journey.
+      button: Find Out More
+      url: /products-and-services/gobusiness/?utm_source=products_homepage
+      image: /images/GoBiz_homepage_2560.png
+      alt: GoBusiness
+  - resources:
+      title: MEDIA
+      subtitle:  Be in the know
+      button: More Media
+      url: /media/?utm_source=media_homepage
+
 # Hero Banner
 hero-title: 
 hero-subtitle:
