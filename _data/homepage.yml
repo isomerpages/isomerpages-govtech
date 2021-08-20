@@ -37,34 +37,38 @@ sections:
           description: Unleash your passion and potential with us
           url: https://go.gov.sg/govtechjobs
   - infobar:
-      title: Products and Services
+      title: Co-creating for better value
+      subtitle: Products and Services
       description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
       button: Products and Services
       url: /products-and-services/?utm_source=products_homepage
   - infopic:
-      title: Singpass
+      title: Your improved digital ID
+      subtitle: Singpass
       description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
       image: /images/Singpass_homepage_2560.jpg
       button: Learn More
       url: /products-and-services/singpass/?utm_source=products_homepage
       alt: Singpass
   - infopic:
-      title: LifeSG
+      title: Simpler services, better lives
+      subtitle: LifeSG
       description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
       button: Learn More
       url: /products-and-services/lifesg/?utm_source=products_homepage
       image: /images/LifeSG_homepage_2560.jpg
       alt: LifeSG
   - infopic:
-      title: GoBusiness
+      title: Your business partner from the get-go 
+      subtitle: GoBusiness
       description:  GoBusiness provides government resources and e-services all in one place to help businesses along their journey.
       button: Find Out More
       url: /products-and-services/gobusiness/?utm_source=products_homepage
       image: /images/GoBiz_homepage_2560.png
       alt: GoBusiness
   - resources:
-      title: MEDIA
-      subtitle:  Be in the know
+      title: Be in the know
+      subtitle: Media
       button: More Media
       url: /media/?utm_source=media_homepage
 
