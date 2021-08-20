@@ -79,7 +79,7 @@ hero-banner: /images/homepage-banner-technews4.png
 
 #Call to Action Button
 button:
-  - text: Subscribe Now
+  - text: Subscribe Here
     url: /media/technews/subscribe
     
 # Key Highlights
