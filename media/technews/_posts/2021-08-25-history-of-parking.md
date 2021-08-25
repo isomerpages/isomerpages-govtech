@@ -3,7 +3,7 @@ layout: post
 title: "From tearing tabs to tapping apps – a history of parking in Singapore"
 permalink: "/media/technews/history-of-parking"
 category: technews
-image: "/images/technews/images/technews/history-of-internet1.jpg"
+image: "/images/technews/history-of-internet1.jpg"
 ---
 
 
@@ -20,7 +20,7 @@ Still, at least paying for parking nowadays is pretty convenient, done either au
   
 </div>
 
-Short on time? Catch this video to find out the parking game situation changed in Singapore.
+Short on time? Catch this video to see how parking in Singapore evolved over the years. 
 
 ## Pre-1980s – Parking attendants galore
 
@@ -28,7 +28,7 @@ Information about parking systems before the 1980s is sketchy, probably because 
 
 What we do know is that many carparks had parking attendants manning them, noting the times of arrivals and departures of vehicles entering, and collecting the requisite parking fees. Motorists would no doubt be fumbling with notes and coins to pay for their parking while exiting the carpark. 
 
-Parking attendants were still prevalent until at least 1982, when the [A)uditor-General’s Office](https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&pn=31) recommended that productivity could be boosted and savings made by reducing the number of parking attendants. How could this be done? By expanding the coupon parking system of course, something we’ll discuss next. 
+Parking attendants were still prevalent until at least 1982, when the [Auditor-General’s Office](https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&pn=31) recommended that productivity could be boosted and savings made by reducing the number of parking attendants. How could this be done? By expanding the coupon parking system of course, something we’ll discuss next. 
  
 
 ## 1980s – Rise of the coupon 
