@@ -165,18 +165,20 @@ organisational-structure:
     teams:
       - name: Communications and Marketing Group (CMG)
         link:
+      - name: People and Organisation Division (POD)
+        link:
       - name: Development & Organisation Transformation (DOT)
         link:
-      - name: Finance, Investment and Procurement Group (FIPG)
-        link:
-      - name: Group IT Division (GITD)
-        link:       
-      - name: Legal
-        link:  
-      - name: People and Organisation Group (POG)
-        link:  
       - name: Strategy and Plans Division (SPD)
+        link:       
+      - name: Digital Academy (DA)
+        link:  
+      - name: Finance, Investment and Procurement Group (FIPG)
+        link:  
+      - name: Group IT Division (GITD)
         link:
+      - name: Legal
+        link:        
   - title: Cybersecurity Group
     teams:
       - name: Advanced Cybersecurity Capabilities
