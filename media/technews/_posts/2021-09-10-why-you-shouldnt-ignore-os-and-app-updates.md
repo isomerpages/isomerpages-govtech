@@ -20,8 +20,6 @@ App updates, a bane or a boon?
 Photo by <a href="https://unsplash.com/@vmxhu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Szabo Viktor</a> on <a href="https://unsplash.com/s/photos/updates?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-
-
 ## **You get the best and latest**
 
 Developers of apps don’t release new versions just to pester you (even if it feels that way). These new versions usually contain fresh looks, enhanced functions, and better performance. 
@@ -73,7 +71,6 @@ Although the message really did come from GovTech, kudos to you for having the r
 ## **Final tip – just auto update**
 
 Still too busy to keep tapping for updates whenever the pesky red icons appear? Well, just turn on the auto update function available in the [Apple](https://www.businessinsider.com/how-to-turn-on-automatic-updates-on-iphone) and [Google](https://support.google.com/googleplay/answer/113412?hl=en) app environments. Problem solved. 
-
 
 
 *Enjoyed this article? Check out this article to out about [new jobs that didn't exist a decade ago](https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago) or this article where we show how [AI Chatbots](https://www.tech.gov.sg/media/technews/developing-the-one-service-chatbot) can improve your neighbourhood! *
