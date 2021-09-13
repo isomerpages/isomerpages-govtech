@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why you should'nt ignore OS & app updates"
+title: "Why you should not ignore OS & app updates"
 permalink: "/media/technews/why-you-shouldnt-ignore-os-and-app-updates"
 category: technews
 image: "images/technews/appupdate1.jpg"
