@@ -9,7 +9,9 @@ recommender: false
 
 #### **Welcome to the TechNews community!**
 
-Join over 10,000 tech enthusiasts and subscribe to our biweekly newsletter for the latest GovTech updates, tech stories and behind-the-scenes features.
+Join over 12,000 tech enthusiasts and subscribe to GovTech's newsletter for the latest updates, tech stories and behind-the-scenes features.
+
+*[View past newsletters.](https://us16.campaign-archive.com/home/?u=9326ff42459737140a6baa881&id=8b7e185878){:target="_blank"}
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
