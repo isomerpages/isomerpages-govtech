@@ -109,7 +109,7 @@ senior-leadership:
     image-url: /images/our-team/Bee-Teck-GovTech-Smart-Nation-Senior-Leader.jpg    
   - name: Mr Dominic CHAN
     title: Director
-    organisation: National Digital Identity, Moments of Life
+    organisation: National Digital Identity
     image-url: /images/our-team/dominic-chan.jpg
   - name: Mr Kevin NG
     title: Director
@@ -123,10 +123,14 @@ senior-leadership:
     title: Director
     organisation: Digital Workplace
     image-url: /images/our-team/jordan-tan.jpg
-  - name: Mr TAY Richard
+  - name: Mr Richard TAY
     title: Director
     organisation: Government Infrastructure Group
     image-url: /images/our-team/RichardTay.png
+  - name: Mr Gabriyel WONG
+    title: Director
+    organisation: Moments of Life
+    image-url: /images/our-team/Gabriyel_Wong_1.jpg
   - name: Mr SING Khang Leng
     title: Cluster Director
     organisation: Ministry of Manpower Cluster
