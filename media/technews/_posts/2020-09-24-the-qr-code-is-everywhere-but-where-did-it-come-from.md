@@ -36,46 +36,7 @@ Finally, he landed on the solution of embedding three small squares (with a spec
 ![QR codes are anchored by the squares in the corner.Now you know what they are for](/images/technews/how-qr-came-about3.png) 
 QR Codes are anchored by squares in the corner. Now you know what they are for!
 
-
-## Dealing with imperfections 
-
-Another issue that Hara mulled over was whether the new barcode could still be read if it was obscured by smudges or otherwise damaged. 
-
-Again, he gleaned inspiration from his surroundings, this time while playing Go (the japanese board game, not Pokemon Go) during lunch. Although players were supposed to place their pieces on the intersections of the grid board, he noticed that you could still figure out where a piece is supposed to be even if its placement is slightly off. This gave him confidence that barcode scanners could similarly understand square barcodes that were imperfect. 
-
-Indeed, QR codes today are known for their robustness and can be scanned even when part of it is missing or covered. Brands sometimes make use of this feature by placing their logo in a QR code to drum up some brand recognition without compromising functionality. 
-
-## Wowing the crowd 
-
-In 1994, Hara was finally ready to roll out his brainchild. As Hara worked for a subsidiary of a car components manufacturer, he demonstrated its use at an automobile trade meeting, winning over representatives from several firms. 
-
-Japan’s car companies quickly adopted them after the successful showcase, a strong vote of confidence in this new invention. 
-
-
-## From obscurity to ubiquity 
-
-The QR code might have just remained a workhorse for product cataloguing if it had not been for another invention: mobile devices with cameras. As people soon became inseparable from their smartphones, everyone always had a QR code scanner at their fingertips wherever they went. 
-
-That said, its rise to mainstream adoption [wasn’t easy](https://www.wired.com/story/the-curious-comeback-of-the-dreaded-qr-code/). As recent as the 2010s, you needed to download a variety of apps to scan various codes. Very frustrating and not exactly what we’d call good user experience.
-
-But as it turns out, QR codes were just ahead of their time. It took awhile for smartphones to catch up, but these days, you no longer need a separate app to scan QR codes. For instance, iPhones with iOS 11 (launched in 2017) or later can read QR codes using just the standard camera app. 
-
-Nowadays, QR codes are used in a myriad of purposes such as:
-
-- Advertising (connecting consumers to a brand’s website or discounts)
-- E-payments (particularly deep penetration in China, thanks to WeChat)
-- Joining WiFi networks without having to enter passwords
-- Providing more information about exhibits at museums. 
-- A few companies have even added QR codes to [gravestones](https://www.bizjournals.com/seattle/blog/2011/04/seattle-company-quiring-monuments-adds.html) to let people know more about the deceased! 
-
-And of course, the QR code enables SafeEntry in Singapore right now. The system is vital in ensuring that contact tracers can do their jobs even as Singapore progressively reopens and people-to-people interactions inevitably increase. 
-
-So when you’re out and about, whip out your smartphone and do your part. 
-
-Oh, and don’t forget to check-out. ;) 
-
-
-### **Like what you read? Subscribe for the latest stories in your inbox.**
+### **Like what you're reading? Join our newsletter to get the latest stories and tech insights.**
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -218,3 +179,39 @@ input[type='radio'] {
 
 *By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).*
 
+## Dealing with imperfections 
+
+Another issue that Hara mulled over was whether the new barcode could still be read if it was obscured by smudges or otherwise damaged. 
+
+Again, he gleaned inspiration from his surroundings, this time while playing Go (the japanese board game, not Pokemon Go) during lunch. Although players were supposed to place their pieces on the intersections of the grid board, he noticed that you could still figure out where a piece is supposed to be even if its placement is slightly off. This gave him confidence that barcode scanners could similarly understand square barcodes that were imperfect. 
+
+Indeed, QR codes today are known for their robustness and can be scanned even when part of it is missing or covered. Brands sometimes make use of this feature by placing their logo in a QR code to drum up some brand recognition without compromising functionality. 
+
+## Wowing the crowd 
+
+In 1994, Hara was finally ready to roll out his brainchild. As Hara worked for a subsidiary of a car components manufacturer, he demonstrated its use at an automobile trade meeting, winning over representatives from several firms. 
+
+Japan’s car companies quickly adopted them after the successful showcase, a strong vote of confidence in this new invention. 
+
+
+## From obscurity to ubiquity 
+
+The QR code might have just remained a workhorse for product cataloguing if it had not been for another invention: mobile devices with cameras. As people soon became inseparable from their smartphones, everyone always had a QR code scanner at their fingertips wherever they went. 
+
+That said, its rise to mainstream adoption [wasn’t easy](https://www.wired.com/story/the-curious-comeback-of-the-dreaded-qr-code/). As recent as the 2010s, you needed to download a variety of apps to scan various codes. Very frustrating and not exactly what we’d call good user experience.
+
+But as it turns out, QR codes were just ahead of their time. It took awhile for smartphones to catch up, but these days, you no longer need a separate app to scan QR codes. For instance, iPhones with iOS 11 (launched in 2017) or later can read QR codes using just the standard camera app. 
+
+Nowadays, QR codes are used in a myriad of purposes such as:
+
+- Advertising (connecting consumers to a brand’s website or discounts)
+- E-payments (particularly deep penetration in China, thanks to WeChat)
+- Joining WiFi networks without having to enter passwords
+- Providing more information about exhibits at museums. 
+- A few companies have even added QR codes to [gravestones](https://www.bizjournals.com/seattle/blog/2011/04/seattle-company-quiring-monuments-adds.html) to let people know more about the deceased! 
+
+And of course, the QR code enables SafeEntry in Singapore right now. The system is vital in ensuring that contact tracers can do their jobs even as Singapore progressively reopens and people-to-people interactions inevitably increase. 
+
+So when you’re out and about, whip out your smartphone and do your part. 
+
+Oh, and don’t forget to check-out. ;) 
