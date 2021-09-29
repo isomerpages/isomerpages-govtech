@@ -70,6 +70,3 @@
     url: /media/advisory/
 - title: Contact Us
   url: /contact-us/
-  sub-links:
-  - title: Vulnerability Disclosure Programme
-    url: /report_vulnerability
