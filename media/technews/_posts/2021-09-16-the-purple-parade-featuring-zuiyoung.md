@@ -20,7 +20,7 @@ An internship with the then-Infocomm Development Authority (IDA) landed him a fu
 *Zui Young is logging it!
 Photo by GovTech*
 
-Today, Zui Young works at GovTech as a DevOps Engineer and takes great pride in his work. For him, the job is a way to use technology to positively impact the lives of fellow citizens. Zui Young builds digital government services that improves our lifestyles. 
+Today, Zui Young works at GovTech as a Senior DevOps Engineer and takes great pride in his work. For him, the job is a way to use technology to positively impact the lives of fellow citizens. Zui Young builds digital government services that improves our lifestyles. 
 
 Some of the work Zui Young is proudest of are the projects he and his team worked on during these two years living with Covid-19. They dabbled with the idea of Bluetooth contact tracing which became the TraceTogether app, and worked on the rapid design, implementation and support of SafeEntry for contact tracing. His team also created SupplyAlly, which helped to accelerate the distribution of essential goods such as masks and TraceTogether tokens nationwide.  
 
