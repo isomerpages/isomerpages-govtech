@@ -29,7 +29,7 @@ Apply for the licences and permits you need from multiple government agencies, w
 #### **Get support during COVID-19**
 Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
  
-[Find Out More](https://https://www.gobusiness.gov.sg/covid/)
+[Find Out More](https://www.gobusiness.gov.sg/covid/)
 
 #### **Get Government Assistance**
 Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
