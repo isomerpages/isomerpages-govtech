@@ -19,7 +19,7 @@ Mr Abhishek Tandon, who is from GovTech’s Services division and is currently s
 
 *Abhishek Tandon led the team which developed Safe Distance @ Parks. Photo:GovTech*
  
-## Qns: Let’s start with an overview of Safe Distance @ Parks. What problem was it meant to tackle and how did it do so? 
+# Qns: Let’s start with an overview of Safe Distance @ Parks. What problem was it meant to tackle and how did it do so? 
 
 As you observed, the pandemic led to a spike in visitors to our parks and with the Covid-19 situation still ongoing, NParks is still seeing heightened public interest in Singapore’s green spaces. 
 
@@ -40,7 +40,7 @@ We used these prepared examples to train a case details recogniser which can ide
 At this stage, we are able to automatically identify the nature of the complaint, extract the relevant details, fill up the feedback template, and prompt the user to add missing information. 
 
 
-## Qns: The Safe Distance @ parks website was developed in 3.5 days, and the automated update was developed in two weeks. Prior to the automated counting enabled by computer vision, how were crowd sizes determined and updated on the site? What did the team change or improve on? 
+# Qns: The Safe Distance @ parks website was developed in 3.5 days, and the automated update was developed in two weeks. Prior to the automated counting enabled by computer vision, how were crowd sizes determined and updated on the site? What did the team change or improve on? 
 
 As GovTechies, we are ABC (Agile, Bold, and Collaborative). With support from GovTech and NParks management, we got the portal up and running in 3.5 days. Initially, the crowd sizes were determined by observations from NParks officers on the ground. Basically, that meant NParks officers were manually counting and assessing! 
 
@@ -54,7 +54,7 @@ But we knew from the start that this manpower-intensive way of doing things migh
 This process was developed within 2 weeks to reduce the reliance on staff input. This was achieved by deploying CCTV cameras with live streaming capability extensively in our parks to reduce the physical deployment of staff, employing central video analytics systems and integrating with Electronic Parking Systems. Given that the COVID-19 situation is still ongoing, this has helped to free up staff time to perform essential greenery and park maintenance tasks. 
 
 
-## Qns: What were the main challenges involved in this project? 
+# Qns: What were the main challenges involved in this project? 
 
 One of the challenges was establishing the networks of cameras for the automated updating. 
 
@@ -76,7 +76,7 @@ All teams worked together to gather feedback from operational staff on everythin
 In all, NParks was able to reduce manpower deployed for safe distancing measures in parks by two thirds. This allowed Singaporeans to continue to seek respite at our parks safely, reaping the benefits of greenery and nature for their health and wellbeing this period.
 
 
-## Qns: How essential were cloud services to this project? 
+# Qns: How essential were cloud services to this project? 
 
 A major part of Safe Distance @ Parks is hosted on the cloud. The various teams’ familiarity with cloud systems gave us a significant head start in rapidly deploying our CCTV analytics prototype. 
 
@@ -84,7 +84,7 @@ The flexibility of the cloud platforms also enabled us to scale up and down diff
 
 To sum up, the end-to-end architecture is scalable, resilient, and secure.
 
-## Qns: What other tech projects can we look forward to from NParks? 
+# Qns: What other tech projects can we look forward to from NParks? 
 
 We’re always looking to collaborate with partners from both the public and private sector, as well as institutes of higher learning. The “Spot the Robot dog” example earlier is one. We’re also working with Garuda Robotics for drone analytics and Ngee Ann Polytechnic on park surveillance robots, which are autonomous machines that can detect the flouting of safe distancing measures. 
 
