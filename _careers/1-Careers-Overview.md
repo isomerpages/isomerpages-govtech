@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
+description: Agile. Bold. Collaborative. Join us, and help build the next impactful solution for citizens and businesses.
 permalink: /careers/overview/
 breadcrumb: Overview
 collection_name: careers
