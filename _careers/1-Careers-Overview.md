@@ -7,14 +7,14 @@ breadcrumb: Overview
 collection_name: careers
 ---
 
-<!doctype html>
-<html lang="en">
 <meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-10-06T00:00:00Z">
 <meta property="article:modified_time" content="2021-10-06T00:00:00Z">
-</head>
-<body>
-</body>
-</html>
+
+
+<meta name="og:type" content="article">
+<meta name="article:published_time" content="2021-10-06T00:00:00Z">
+<meta name="article:modified_time" content="2021-10-06T00:00:00Z">
 
 ### **Overview**
 
