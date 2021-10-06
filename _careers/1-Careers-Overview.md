@@ -2,13 +2,19 @@
 layout: leftnav-page-content
 title: Careers
 description: Agile. Bold. Collaborative. Join us, and help build the next impactful solution for citizens and businesses.
-type: article
-article:published_time: 2021-10-06
-article:modified_time: 2021-10-06
 permalink: /careers/overview/
 breadcrumb: Overview
 collection_name: careers
 ---
+
+<!doctype html>
+<html lang="en">
+<meta property="og:type" content="article">
+<meta property="article:modified_time" content="2021-10-06T00:00:00Z">
+</head>
+<body>
+</body>
+</html>
 
 ### **Overview**
 
