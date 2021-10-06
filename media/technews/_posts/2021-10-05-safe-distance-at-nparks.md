@@ -25,17 +25,14 @@ As you observed, the pandemic led to a spike in visitors to our parks and with t
 
 As a result, NParks’ staff who patrol gardens, parks, nature reserves and park connectors as part of their daily work, have also been working to enforce safe distancing measures in our green spaces. This manpower-intensive effort has involved staff and volunteers from other public agencies to patrol more than 500 green spaces. 
  
-So NParks wanted to leverage technology to support its safe distancing operations, developing the Safe Distance @ Parks app (Diagram 1) to allow members of the public to look for a park near them and check visitor levels before leaving their homes. The app receives near real-time updates on crowd sizes (Diagram 2).
+So NParks wanted to leverage technology to support its safe distancing operations, developing the Safe Distance @ Parks app (Diagram 1) to allow members of the public to look for a park near them and check visitor levels before leaving their homes. The app receives near real-time updates on crowd sizes.
 
 ![Safe Distance @ Nparks](/images/technews/nparksimage1.png)
 *Diagram 1 Photo:GovTech* 
 
-![Safe Distance @ Nparks](/images/technews/nparksimage2.png) 
-*Diagram 2 Photo:GovTech*
 
 
-
-We used these prepared examples to train a case details recogniser which can identify the different types of key information with 85 percent accuracy. 
+We used these prepared examples to train a case-details recogniser which can identify the different types of key information with 85 percent accuracy. 
 
 At this stage, we are able to automatically identify the nature of the complaint, extract the relevant details, fill up the feedback template, and prompt the user to add missing information. 
 
