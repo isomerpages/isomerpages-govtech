@@ -106,7 +106,11 @@ senior-leadership:
   - name: Mr TAN Bee Teck
     title: Senior Director
     organisation: Education Cluster and Application Portfolio Remake
-    image-url: /images/our-team/Bee-Teck-GovTech-Smart-Nation-Senior-Leader.jpg    
+    image-url: /images/our-team/Bee-Teck-GovTech-Smart-Nation-Senior-Leader.jpg
+  - name: Mr Richard TAY
+    title: Senior Director
+    organisation: Government Infrastructure Group
+    image-url: /images/our-team/RichardTay.png
   - name: Mr Dominic CHAN
     title: Director
     organisation: National Digital Identity
@@ -123,10 +127,6 @@ senior-leadership:
     title: Director
     organisation: Digital Workplace
     image-url: /images/our-team/jordan-tan.jpg
-  - name: Mr Richard TAY
-    title: Senior Director
-    organisation: Government Infrastructure Group
-    image-url: /images/our-team/RichardTay.png
   - name: Mr Gabriyel WONG
     title: Director
     organisation: Moments of Life
