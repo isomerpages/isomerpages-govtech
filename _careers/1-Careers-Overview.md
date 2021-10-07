@@ -8,10 +8,6 @@ date: "2021-10-07"
 collection_name: careers
 ---
 
-<meta property="og:type" content="article">
-<meta property="article:published_time" content="2021-10-06T00:00:00Z">
-<meta property="article:modified_time" content="2021-10-06T00:00:00Z">
-
 ### **Overview**
 
 We use technology to improve the lives of everyday Singaporeans – tackling real-world problems of transport, housing, security, healthcare, and the environment. We are working hard every day to design and build solutions that will make a difference to the citizens and businesses. It thrills us to know that our work can impact lives. 
