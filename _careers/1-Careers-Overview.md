@@ -5,6 +5,7 @@ description: Agile. Bold. Collaborative. Join us, and help build the next impact
 permalink: /careers/overview/
 breadcrumb: Overview
 date: "2021-10-07"
+type: article
 collection_name: careers
 ---
 
