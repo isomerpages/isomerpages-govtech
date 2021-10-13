@@ -24,7 +24,7 @@ hero-banner: /images/homepage-banner-technews4.png
 #Call to Action Button
 button:
   - text: Subscribe Here
-    url: /media/technews/subscribe
+    url: /media/technews/subscribe/?utm_source=hero_banner
     
 # Key Highlights
 key-highlights:
@@ -38,7 +38,7 @@ key-highlights:
     external: true    
   - title: SUBSCRIBE TO TECHNEWS
     description: Get the latest tech stories and updates from GovTech
-    url: /media/technews/subscribe
+    url: /media/technews/subscribe/?utm_source=hero_banner
     external: true
   - title: JOIN US
     description: Unleash your passion and potential with us
@@ -57,21 +57,21 @@ info-sections:
   - section-title: Singpass
     section-subtitle: Your improved digital identity
     section-description: Singpass is Singapore residents' trusted digital identity for convenient and secure access to thousands of government and private sector services, online and in person.
-    section-more-button: Learn More
+    section-more-button: Learn More About Singpass
     section-more-button-url: /products-and-services/singpass/?utm_source=products_homepage
     section-image-path: /images/Singpass_homepage_2560.jpg
     section-image-alt: Singpass
   - section-title: LifeSG
     section-subtitle: Simpler services. Better lives.
     section-description: LifeSG offers a simplified experience across government services so citizens can save time and focus on the things that matter.
-    section-more-button: Learn More
+    section-more-button: Learn More About LifeSG
     section-more-button-url: /products-and-services/lifesg/?utm_source=products_homepage
     section-image-path: /images/LifeSG_homepage_2560.jpg
     section-image-alt: LifeSG
   - section-title: GoBusiness
     section-subtitle: Your business partner from the get-go 
     section-description: GoBusiness provides government resources and e-services all in one place to help businesses in Singapore in their journey.
-    section-more-button: Learn More
+    section-more-button: Learn More About GoBusiness
     section-more-button-url: /products-and-services/gobusiness/?utm_source=products_homepage
     section-image-path: /images/GoBiz_homepage_2560.png
     section-image-alt: GoBusiness
@@ -79,5 +79,5 @@ info-sections:
 # Resources Section
 resources-title: Media
 resources-subtitle: Be in the know
-resources-more-button: View More
+resources-more-button: Read More Stories
 resources-more-button-url: /media/?utm_source=media_homepage
