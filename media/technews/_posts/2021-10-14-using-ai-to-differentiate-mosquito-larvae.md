@@ -62,7 +62,7 @@ When we first started the project, only lab-reared sample videos were available.
 However, when the lab-sample trained model was tested on the field-collected samples, the F1 score dropped to about 89 per cent. Clearly, the different appearance of field-collected larvae was giving the model difficulties. For example, the appearance of lab (left) and field (right) *Ae. aegypti* looked very different.
 
 ![Ae. aegypti lab appearance](/images/technews/ai-mosquito-larvae-7.png)*Ae. aegypti lab appearance*
-![Ae. aegypti field appearance](/images/technews/ai-mosquito-larvae-8.png)*Ae. aegypti field appearanc*
+![Ae. aegypti field appearance](/images/technews/ai-mosquito-larvae-8.png)*Ae. aegypti field appearance*
 
 We had known of this problem and tried to adjust for it by adding random colour differences to our lab-collected images. However, this solution was clearly not enough to mitigate the problem. 
 
