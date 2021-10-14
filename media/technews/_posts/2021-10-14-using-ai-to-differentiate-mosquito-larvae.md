@@ -3,7 +3,7 @@ layout: post
 title: "Using AI to differentiate different types of mosquito larvae"
 permalink: "/media/technews/using-ai-to-differentiate-mosquito-larvae"
 category: technews
-image: "images/technews/history-of-bluetooth.jpg"
+image: "images/technews/Using AI for Mosquito Larvae Differentiation.png"
 ---
 
 Did you know there are more than 180 species of mosquitoes in Singapore? That’s more than the United States, which has [176 mosquito species](https://www.mosquito.org/page/funfacts).
