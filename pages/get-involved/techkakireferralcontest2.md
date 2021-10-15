@@ -4,7 +4,7 @@ title:  "GovTech Tech Kaki Referral Contest - Terms and Conditions"
 permalink: "/get-involved/techkakireferralcontest2"
 ---
 
-## [CLOSED] GovTech Tech Kaki Referral Contest - Terms and Conditions
+## GovTech Tech Kaki Referral Contest - Terms and Conditions
 
 1.	The eligibility period for the Tech Kaki Referral Contest (the “**Contest**”) runs from 21 October 2021, 0000hrs, to 26 October 2021, 2359hrs (the “**Contest Period**”).
 2.	The Contest is only open to existing Tech Kaki community members who have been invited by the Government Technology Agency (“**GovTech**”) to participate in the Contest via a unique referral link sent to their email address.
