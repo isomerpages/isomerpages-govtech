@@ -59,7 +59,7 @@ When we first started the project, only lab-reared sample videos were available.
 
 However, when the lab-sample trained model was tested on the field-collected samples, the F1 score dropped to about 89 per cent. Clearly, the different appearance of field-collected larvae was giving the model difficulties. For example, the appearance of lab (left) and field (right) *Ae. aegypti* looked very different.
 
-![Colour and pattern differences in lab-reared and field-collected samples](/images/technews/ai_larva_Fig6.png)*Colour and pattern differences in lab-reared and field-collected samples. (Source: National Environment Agency)*
+![Colour and pattern differences in lab-reared and field-collected samples](/images/technews/ai_larva_Fig6.png)*Colour and pattern differences in lab-reared (left) and field-collected (right) samples. (Source: National Environment Agency)*
 
 We had known of this problem and tried to adjust for it by adding random colour differences to our lab-collected images. However, this solution was clearly not enough to mitigate the problem. 
 
