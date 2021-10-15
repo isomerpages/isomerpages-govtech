@@ -18,12 +18,11 @@ To aid NEA in its fight against mosquitoes, GovTech teamed up with the agency to
 
 Currently, trained analysts examine taxonomical characteristics of mosquito larvae through a microscope. A mosquito larva observed through a microscope would look like this:
 
-![Anatomy of mosquito larvae](/images/technews/ai-mosquito-larvae-1.png)*Anatomy of mosquito larvae. (Source: [OECD Publication](https://www.oecd-ilibrary.org/environment/safety-assessment-of-transgenic-organisms-in-the-environment-volume-8_9789264302235-en))*
+![Anatomy of mosquito larvae](/images/technews/ai_larva_Fig1.png)*Anatomy of mosquito larvae. (Source: [OECD Publication](https://www.oecd-ilibrary.org/environment/safety-assessment-of-transgenic-organisms-in-the-environment-volume-8_9789264302235-en))*
 
 A mosquito larva typically has an ovoid head, thorax, and abdomen of nine segments. Analysts look for subtle differences to identify different species. For example, the *Ae. aegypti* (left) has pitchfork scales while the *Ae. albopictus* (right) has thorn-like scales.
 
-![Ae. aegypti pitchfork scales](/images/technews/ai-mosquito-larvae-2.png)
-![Ae. albopictus thorn-like scales](/images/technews/ai-mosquito-larvae-3.png)*Source: Florida Medical Entomology Laboratory* 
+![Mosquito larva pitchfork vs thorn-like scales](/images/technews/ai_larva_Fig2.png)*Source: Florida Medical Entomology Laboratory* 
 
 As you can see, analysing mosquito larvae remains a challenging task due to the high resemblance of various species, especially those within the same groups. The distinctions among different species are difficult to identify even for human experts with the naked eye, as subtle distinctions can only be observed through microscopic scrutiny. Methods of larvae image analysis mostly rely on manual work, which can be labour intensive and prone to human error.
 
@@ -42,15 +41,15 @@ NEA used a consumer-grade mobile phone to capture about 6,800 high quality video
 
 About 92 per cent of the videos came from lab-reared samples. As they are grown in a controlled environment, the larvae had fewer variations within a species in terms of size, colour, body texture, and movement patterns. The field-collected samples, which were harder to obtain, had more diverse features, as seen below. 
 
-![Lab-reared larvae vs. Field-collected larvae](/images/technews/ai-mosquito-larvae-4.png)*Comparison of lab-reared and field-collected larvae. (Source: National Environment Agency)*
+![Lab-reared larvae vs. Field-collected larvae](/images/technews/ai_larva_Fig3.png)*Comparison of lab-reared and field-collected larvae. (Source: National Environment Agency)*
 
 Next, we took still images from the videos at fixed intervals and then used an automated process to detect the area of interest where the larva is, crop the images to a consistent size, and rotate the images so that the head was on top. 
 
-![Object detection to Affine transformation](/images/technews/ai-mosquito-larvae-5.png)*Pre-processing steps. (Source: GovTech and National Environment Agency)*
+![Pre-processing steps](/images/technews/ai_larva_Fig4.png)*Pre-processing steps. (Source: GovTech and National Environment Agency)*
 
 These steps produced a sequence of images that can be analysed for differences in the motion of different species. 
 
-![Motion analysis of different mosquito species](/images/technews/ai-mosquito-larvae-6.png)*Examples of pre-processed inputs. (Source: National Environment Agency)*
+![Examples of pre-processed inputs](/images/technews/ai_larva_Fig5.png)*Examples of pre-processed inputs. (Source: National Environment Agency)*
 
 These images are then split into the two sets, the training and test set. The training set is fed into the AI model – a neural network called CNN-LTSM that is good at handling sequences of video frames. The model learns from the training set to recognise different movement patterns in the video frames. After it has been trained, the model is then shown the previously-unseen test set and is tasked to predict which species the video frames come from. 
 
@@ -60,8 +59,7 @@ When we first started the project, only lab-reared sample videos were available.
 
 However, when the lab-sample trained model was tested on the field-collected samples, the F1 score dropped to about 89 per cent. Clearly, the different appearance of field-collected larvae was giving the model difficulties. For example, the appearance of lab (left) and field (right) *Ae. aegypti* looked very different.
 
-![Ae. aegypti lab appearance](/images/technews/ai-mosquito-larvae-7.png)
-![Ae. aegypti field appearance](/images/technews/ai-mosquito-larvae-8.png)*Colour and pattern differences in lab-reared and field-collected samples. (Source: National Environment Agency)*
+![Colour and pattern differences in lab-reared and field-collected samples](/images/technews/ai_larva_Fig6.png)*Colour and pattern differences in lab-reared and field-collected samples. (Source: National Environment Agency)*
 
 We had known of this problem and tried to adjust for it by adding random colour differences to our lab-collected images. However, this solution was clearly not enough to mitigate the problem. 
 
