@@ -18,7 +18,7 @@ To aid NEA in its fight against mosquitoes, GovTech teamed up with the agency to
 
 Currently, trained analysts examine taxonomical characteristics of mosquito larvae through a microscope. A mosquito larva observed through a microscope would look like this:
 
-![Anatomy of mosquito larvae](/images/technews/ai-mosquito-larvae-1.png)*Anatomy of mosquito larvae*
+![Anatomy of mosquito larvae](/images/technews/ai-mosquito-larvae-1.png)*Anatomy of mosquito larvae (Source: [OECD Publication](https://www.oecd-ilibrary.org/environment/safety-assessment-of-transgenic-organisms-in-the-environment-volume-8_9789264302235-en))*
 
 A mosquito larva typically has an ovoid head, thorax, and abdomen of nine segments. Analysts look for subtle differences to identify different species. For example, the *Ae. aegypti* (left) has pitchfork scales while the *Ae. albopictus* (right) has thorn-like scales.
 
