@@ -5,7 +5,7 @@ permalink: /cyber-security-group
 breadcrumb: Cyber Security Group (CSG) 
 ---
 
-**The Cyber Security Group (CSG)** is the cybersecurity lead for the Government sector with a mandate to protect the Singapore government’s ICT&SS (Smart Systems) and to build a trusted digital government for Singapore. To achieve these goals, CSG adopts a three-pronged approach: 1) develop cybersecurity capabilities; 2) collaborate with Whole-of-Government (WOG) agencies; and 3) forge industry partnerships.
+**The Cyber Security Group (CSG)** is the cybersecurity lead for the Government sector with a mandate to protect the Singapore government’s ICT&SS (Information and Communications Technology & Smart Systems) and build a trusted digital government for Singapore. To achieve these goals, CSG adopts a three-pronged approach: 1) develop cybersecurity capabilities, 2) collaborate with Whole-of-Government (WOG) agencies, and 3) forge industry partnerships.
 
 **#1: CSG offers a full spectrum of Cybersecurity Capabilities to Secure WOG ICT Systems**
 
@@ -17,9 +17,7 @@ To maintain a strong security posture across WOG, CSG works closely with various
 
 **#3: CSG forges partnerships with industry partners to augment government capabilities**
 
-CSG also engages with the larger cybersecurity ecosystem to augment government capabilities. This includes collaborating with external partners to train cybersecurity specialists as well as conducting research and development for cyber projects.
-
-CSG also works with members of the public through the Vulnerability Disclosure Programme and the Government Bug Bounty Programme to encourage responsible reporting of suspected vulnerabilities and weaknesses in government systems.
+CSG actively collaborates with external partners to train cybersecurity specialists, and conducts research and development for cyber projects. We also partner with the community through various programmes such as the Vulnerability Disclosure Programme, Government Bug Bounty Programme and Vulnerability Rewards Programme to encourage responsible reporting of suspected vulnerabilities and weaknesses in the government systems. And as a Common Vulnerabilities and Exposures (CVE) Numbering Authority, CSG ensures a robust and efficient vulnerability disclosure process for GovTech reported vulnerabilities to be assigned with a CVE promptly so that affected Government agencies and product companies can be alerted earlier to release fixes quickly.
 
 Follow CSG’s Medium Blog – [CSG@GovTech](https://medium.com/csg-govtech) for a weekly dose of technical articles, tips and tricks shared by the cybersecurity specialists at CSG.
 
