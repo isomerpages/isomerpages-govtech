@@ -12,6 +12,8 @@ We spoke with two interns – Merlin Ng, majoring in Business Management at the 
 
 ---
 
+![YTPO Interns](/images/technews/YTPO_Interns_Oct21.jpg)*YTPO Interns*
+
 ## **Hi Merlin and Kerlyn! Can you share why you applied for an internship at GovTech?**
 
 **Merlin:** I was first introduced to GovTech by my friend’s sister who shared her past positive experience working at the Employer Branding Team. This motivated me to find out more about the opportunities GovTech offers to business students like me.
@@ -52,11 +54,11 @@ I also like how, despite being an intern, I was treated and tasked like a regula
 
 ## **Share with us what was the one memorable thing that happened/you did during your internship?**
 
-Merlin: One of my most memorable experiences was being allowed to serve on the organising committee for the annual [GeekOut](https://www.tech.gov.sg/careers/students-and-graduates/) boot-camp. I was able to shadow my colleagues and learn about the process of organising an online event.
+Merlin: One of my most memorable experiences was being allowed to serve on the organising committee for the annual [GeekOut](https://www.tech.gov.sg/careers/students-and-graduates/){:target="_blank"} boot-camp. I was able to shadow my colleagues and learn about the process of organising an online event.
 
 What was even more incredible for me was the opportunity to attend various workshops and learn about the various roles/functions each team performs, which most of us would not have had the opportunity to know. It was remarkable to see how different teams contribute to the country’s digital transformation and improve the lives of our citizens.
 
-Kerlyn: The most memorable thing that happened during my internship was sitting in an interview with GovTech’s senior leaders for the final round of assessment for our [Technology Associate Programme](https://www.tech.gov.sg/careers/students-and-graduates/). I got to listen to them share their ways of assessing candidates and it was very insightful.
+Kerlyn: The most memorable thing that happened during my internship was sitting in an interview with GovTech’s senior leaders for the final round of assessment for our [Technology Associate Programme](https://www.tech.gov.sg/careers/students-and-graduates/){:target="_blank"}. I got to listen to them share their ways of assessing candidates and it was very insightful.
 
 ## **Lastly, what is one advice you’d give to someone interested to apply for an internship at GovTech?**
 
@@ -66,6 +68,6 @@ Also, keep your resume as concise as possible!
 
 **Kerlyn:** Adding on to Merlin, keep an open mind and maximise the opportunity to learn as much as possible! 
 
-**Looking for your next internship? We invite you to apply with us at [https://go.gov.sg/internship](https://go.gov.sg/internship).**
+**Looking for your next internship? We invite you to apply with us at [https://go.gov.sg/internship](https://go.gov.sg/internship){:target="_blank"}.**
 
 
