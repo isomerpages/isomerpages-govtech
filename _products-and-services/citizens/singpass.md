@@ -31,9 +31,9 @@ These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face
 
 ![Singpass Digital IC](/images/programmes/products-and-services/sp_img_fast_convenient_ways2.png)
 
-When transacting over government counters, users can prove their identity using their Digital IC* easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics.
+When transacting over government counters, users can prove their identity using their Digital IC^ easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics.
 
- * *Other than scenarios where physical identification cards are specifically required by law*
+^ *Other than scenarios where physical identification cards are specifically required by law*
 
 ### **Singpass app: Seamless access to more services**
 
