@@ -11,7 +11,7 @@ thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new
 
 ![Singpass Logo](/images/programmes/products-and-services/singpass-logo-new.png)
 
-[Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 1,400 government and private sector services online and in person. Users can log in to digital services, prove their identity over counters, digitally sign documents and do more with the improved Singpass. 
+[Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 1,700 government and private sector services online and in person. Users can log in to digital services, prove their identity over counters, digitally sign documents and do more with the improved Singpass. 
 
 Singpass is managed by the Government Technology Agency (GovTech) and is one of eight strategic national projects that drive Singapore’s Smart Nation vision.
 
@@ -29,17 +29,19 @@ Users can log in to digital services easily and securely through various ways:
 
 These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face Verification – provide an additional layer of security to better protect users’ personal data.
 
-![Singpass Digital IC](/images/programmes/products-and-services/singpass-digital-ic-4.png)
+![Singpass Digital IC](/images/programmes/products-and-services/sp_img_fast_convenient_ways2.png)
 
-When transacting over selected counters, users can prove their identity using their Digital IC easily accessible in their Singpass app profile. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics. Other than scenarios where the physical NRIC or other identification cards are specifically required by law, agencies should accept the use of the Digital IC by the end of 2021.
+When transacting over government counters, users can prove their identity using their Digital IC^ easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics.
+
+^*Other than scenarios where physical identification cards are specifically required by law*
 
 ### **Singpass app: Seamless access to more services**
 
 Since its launch in 2018, we have been progressively adding more useful features to the Singpass app for [simpler everyday transactions](https://www.youtube.com/watch?v=zacNBxADPH4){:target="_blank"}. Current features include:
 
-* **One-tap access** to commonly-used government digital services like CPF, HDB, IRAS and NS Portal.
+* **One-tap access** to commonly-used government digital services like CPF, HDB, IRAS and NS Portal. Last used services are also displayed for easy access.
 
-* **Customisable profile** where users always have their important information such as CPF balance and HDB details on hand.
+* **Profile section** where users always have their important information such as CPF balance and HDB details on hand.
 
 * **Digital signing of documents** by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements.
 
@@ -47,9 +49,9 @@ Since its launch in 2018, we have been progressively adding more useful features
 
 * **Timely notifications from government agencies** in the Singpass app inbox. For instance, users who are due for NRIC re-registration and passport renewal will receive notifications in their app inbox.
 
-![Singpass Digital Signing](/images/programmes/products-and-services/singpass-digital-signing.jpg)
+![Sign with Singpass](/images/programmes/products-and-services/sp_img_seamless_access.jpg)
 
-Of the 4 million residents on Singpass, more than 2.5 million users are on the Singpass app. For even more convenient sign-ups, the Face Verification service has been enabled in the app’s onboarding process. Users can set up their Singpass app with a face scan. This feature is handy for Singaporeans based overseas as they no longer need to wait for a physical PIN mailer or use their SMS-OTP to set up the Singpass app.
+Of the 4.2 million residents on Singpass, more than 3.1 million users are on the Singpass app. For even more convenient sign-ups, the Face Verification service has been enabled in the app’s onboarding process. Users can set up their Singpass app with a face scan. This feature is handy for Singaporeans based overseas as they no longer need to wait for a physical PIN mailer or use their SMS-OTP to set up the Singpass app.
 
 ### **Accessible for everyone**
 

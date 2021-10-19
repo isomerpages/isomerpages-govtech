@@ -10,7 +10,7 @@ Singapore is embarking on a journey to build a Smart Nation, with the aim of har
 
 Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors & IoT.
 
-Part-time consultancy can be arranged if you are unable to commit to a period of three to six months. If you are unable to commit to a project, you can also join us as a Technical Mentor, and provide technical guidance to our project teams. To learn more about you may join our pool of technical mentors, email us AreYouIT@tech.gov.sg
+Part-time consultancy can be arranged if you are unable to commit to a period of three to six months. If you are unable to commit to a project, you can also join us as a Technical Mentor, and provide technical guidance to our project teams. 
 
 All these resonate with you? We’d love to hear from you. [Apply Now](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710)
 
