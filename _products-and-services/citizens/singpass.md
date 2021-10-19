@@ -29,7 +29,7 @@ Users can log in to digital services easily and securely through various ways:
 
 These Two-Factor Authentication (2FA) methods – Singpass app, SMS-OTP and Face Verification – provide an additional layer of security to better protect users’ personal data.
 
-![Singpass Digital IC](/images/programmes/products-and-services/sp_img_fast_convenient_ways.png)
+![Singpass Digital IC](/images/programmes/products-and-services/sp_img_fast_convenient_ways2.png)
 
 When transacting over government counters, users can prove their identity using their Digital IC* easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks located in libraries and polyclinics.
 
