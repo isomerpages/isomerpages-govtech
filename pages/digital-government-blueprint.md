@@ -39,7 +39,7 @@ Here is how the DGB will benefit you:
 - Electronic payment and digital signature options for 100% of Government services
 - Intuitive, accessible and easy-to-use digital services
 - Greater confidence in your data as digital services infrastructure continues to be fortified
-- More digital services like Moments of Life and Business Grants Portal built around your needs.
+- More digital services like LifeSG and GoBusiness built around your needs.
 
 
 Read up the DGB here:
