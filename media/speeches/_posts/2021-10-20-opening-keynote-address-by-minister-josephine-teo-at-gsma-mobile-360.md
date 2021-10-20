@@ -10,6 +10,7 @@ Distinguished Guests
 Ladies and Gentlemen
 
 **Introduction**
+
 1. Good morning.
 
 2. I am pleased to join you in this year's GSMA’s Mobile 360 Asia Pacific conference.
@@ -42,6 +43,7 @@ c. This programme will spur research in cutting-edge future communications and c
 d. Just as importantly, we aim to translate such research into innovative products and services for our industry, as well as our small and medium enterprises.
 
 **Driving Digital Innovation**
+
 11. Let me now turn to digital innovation. Singapore’s close partnership with GSMA and the global telecom industry will be a critical key to unlock the potential of new communications technologies. To deepen our innovation and collaboration with the industry, Singapore has also transformed ourselves into a living lab for 5G innovation.
 
 12. Our approach aims to be inclusive towards all businesses.
@@ -66,6 +68,7 @@ c. They will allow our agencies to gather and process large amounts of data in r
 d. What we learn here could potentially be applied to use cases in other public service domains to benefit people and businesses, and realise Singapore’s vision to be a Smart Nation.
 
 **Building Digital Trust**
+
 16. With new digital business models, products, and services, there are also new challenges, including cyber threats and online harms.
 a. In July this year, GSMA published a very informative report detailing how the dissemination of online misinformation has impacted societies in our region, sometimes leading to violence against vulnerable individuals and communities.
 b. The failure to build and sustain trust in the digital domain can hurt all of us. We must also move from awareness to action.
@@ -91,6 +94,7 @@ b. These Agreements outline a clear and harmonised set of international rules th
 a. One such example is IMDA’s TradeTrust. This is a digital utility that connects governments and businesses to a neutral and public blockchain to facilitate the trusted exchange of electronic trade documents.
 
 **Conclusion**
+
 23. In closing, Singapore welcomes the industry and regional partners to work with us to fully unleash the value of digital in our region. As we reposition and reinvent ourselves to emerge stronger from the pandemic, we have an opportunity now, at this pivotal moment, to create a strong and trusted foundation for our collective digital future.
 
 24. I wish you a fulfilling and meaningful conference ahead.
