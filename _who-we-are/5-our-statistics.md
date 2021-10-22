@@ -1,8 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Our Statistics
+description: Results of the Annual Survey on Satisfaction with Government Digital Services, conducted with citizens and businesses.
 permalink: /who-we-are/our-statistics/
 breadcrumb: Our Statistics
+date: 2021-11-01
+type: article
 collection_name: who-we-are
 ---
 ### **Annual Survey on Satisfaction with Government Digital Services (Citizens) - For 2020**
