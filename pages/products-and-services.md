@@ -8,6 +8,6 @@ date: 2021-11-01
 type: article
 ---
 
-<h1><div class="has-text-centered has-text-weight-bold">Co-creating for Better Value</div></h1>
+<h1><div class="has-text-centered has-text-weight-bold">Products and Services</div></h1>
 
 <center>Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.</center>
