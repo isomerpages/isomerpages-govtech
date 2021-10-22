@@ -1,8 +1,11 @@
 ---
 layout: simple-page
 title:  "Sensors and Internet of Things"
+description: Engineer smart living and enable smart connectivity.
 permalink: "/capability-centre-siot"
 breadcrumb: Sensors and Internet of Things
+date: 2021-11-01
+type: article
 ---
 
 ![Sensors and Internet of Things](/images/capcentre-siot-banner.jpg)
