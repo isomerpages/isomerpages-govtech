@@ -1,8 +1,11 @@
 ---
 layout: leftnav-page-content
 title: How We Hire
+description: Seeking talented individuals to build the Government Tech Stack and develop solutions for the public good.
 permalink: /careers/how-we-hire/
 breadcrumb: How We Hire
+date: 2021-11-01
+type: article
 collection_name: careers
 ---
 
