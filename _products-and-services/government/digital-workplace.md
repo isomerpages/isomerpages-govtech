@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: Digital Workplace
+description: Digital Workplace comprises a suite of productivity tools and apps that facilitate a collaborative working environment for public officers.
 permalink: /products-and-services/digital-workplace/
 breadcrumb: Digital Workplace
 collection_name: products-and-services
 tag: government
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
