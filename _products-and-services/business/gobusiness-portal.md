@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: GoBusiness
+description: GoBusiness is an online platform that connects business owners to government e-services and resources, including personalised recommendations.
 permalink: /products-and-services/gobusiness/
 breadcrumb: GoBusiness
 collection_name: products-and-services
 tag: business
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/gbtitleimage.png
 ---
 
