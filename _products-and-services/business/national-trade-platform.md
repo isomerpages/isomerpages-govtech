@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: Networked Trade Platform
+description: Networked Trade Platform (NTP) is a one-stop trade and logistics ecosystem which connects traders and enables end-to-end digital trade.
 permalink: /products-and-services/Networked-trade-platform/
 breadcrumb: Networked Trade Platform
 collection_name: products-and-services
 tag: business
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test1.jpg
 ---
 
