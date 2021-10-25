@@ -1,10 +1,13 @@
 ---
 layout: simple-page
-title: Government Commercial Cloud 
+title: Government Commercial Cloud
+description: Government Commercial Cloud (GCC) brings commercial cloud computing platforms to the government, with robust cybersecurity measures in place.
 permalink: /products-and-services/government-commercial-cloud/
 breadcrumb: Government Commercial Cloud
 collection_name: products-and-services
 tag: business
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
