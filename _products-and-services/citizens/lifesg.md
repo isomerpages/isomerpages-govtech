@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: "LifeSG"
+description: LifeSG integrates and bundles government services across different agencies, to supports citizens’ needs at key life milestones.
 permalink: /products-and-services/lifesg/
 breadcrumb: LifeSG
 collection_name: products-and-services
 tag: citizens
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/lifesg-header.jpg  
 ---
 
