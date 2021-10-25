@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: "'Ask Jamie' Virtual Assistant"
+description: A virtual assistant that helps citizens and businesses navigate government websites and answer user queries.
 permalink: /products-and-services/ask-jamie/
 breadcrumb: Ask Jamie
 collection_name: products-and-services
 tag: citizens
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/AskJamie_Thumbnail.jpg
 ---
 
