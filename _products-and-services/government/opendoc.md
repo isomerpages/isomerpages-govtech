@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: OpenDoc
+description: OpenDoc is an online document viewer that provides templates for websites, hosting and sharing of publicly accessible documents.
 permalink: /products-and-services/opendoc/
 breadcrumb: Open Doc
 collection_name: products-and-services
 tag: government
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
