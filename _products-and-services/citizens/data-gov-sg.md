@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: Data.gov.sg
+description: The government’s one-stop portal for publicly available datasets, including dashboards and API features.
 permalink: /products-and-services/data-gov-sg/
 breadcrumb: Data.gov.sg
 collection_name: products-and-services
 tag: citizens
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
