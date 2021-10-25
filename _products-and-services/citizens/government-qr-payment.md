@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: Government QR Payment
+description: Government QR payment allows citizens to scan QR codes on government bills, both physical and electronic.
 permalink: /products-and-services/government-qr-payment/
 breadcrumb: Government QR Payment
 collection_name: products-and-services
 tag: citizens
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
