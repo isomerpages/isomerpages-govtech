@@ -26,18 +26,18 @@ Find what you need fast and easily. Over 300 Government e-services are at your f
 #### **Apply for licences**
 Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only. 
 
-[Find Out More](https://www.gobusiness.gov.sg/licences/)
+[Find Out More About Licences](https://www.gobusiness.gov.sg/licences/)
 
 
 #### **Get support during COVID-19**
 Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
  
-[Find Out More](https://www.gobusiness.gov.sg/covid/)
+[Find Out More About COVID Support Schemes](https://www.gobusiness.gov.sg/covid/)
 
 #### **Get Government Assistance**
 Tap on a wide range of Government assistance schemes to support your business. From loans and tax incentives to grants and toolkits, identify what you need with an e-Adviser.
 
-[Find Out More](https://www.gobusiness.gov.sg/gov-assist/)
+[Find Out More About Gov Assist](https://www.gobusiness.gov.sg/gov-assist/)
 
 
 #### **Get GeBIZ alerts**
