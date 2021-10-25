@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: GoBusiness Portal
+title: GoBusiness
 permalink: /products-and-services/gobusiness/
 breadcrumb: GoBusiness
 collection_name: products-and-services
