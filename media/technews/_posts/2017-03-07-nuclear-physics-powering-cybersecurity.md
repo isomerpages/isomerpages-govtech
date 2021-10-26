@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nuclear physics powering Cybersecurity?"
-permalink: "/media/technews/nuclear-physics-powering-cybersecurity.md"
+permalink: "/media/technews/nuclear-physics-powering-cybersecurity"
 category: technews
 image: "/images/technews/nuclear-physics-powering-cybersecurity.md-part-1.png"
 ---
