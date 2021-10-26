@@ -1,11 +1,8 @@
 ---
 layout: simple-page
 title: Get Involved
-description: Inviting citizens, businesses and government agencies to co-create with us and make an impact with tech.
 permalink: /get-involved/
 breadcrumb: Get Involved
-date: 2021-11-01
-type: article
 ---
 
 ### Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.

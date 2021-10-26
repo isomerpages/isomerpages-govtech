@@ -1,13 +1,10 @@
 ---
 layout: simple-page
 title: Parking.sg
-description: Parking.sg is a mobile app that allows users to digitally pay for short-term parking charges.
 permalink: /products-and-services/parking-sg/
 breadcrumb: Parking.sg
 collection_name: products-and-services
 tag: citizens
-date: 2021-11-01
-type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 

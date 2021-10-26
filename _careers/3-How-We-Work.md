@@ -1,11 +1,8 @@
 ---
 layout: leftnav-page-content
 title: How We Work
-description: We prioritise innovation, create growth opportunities and strive to create an inspiring work environment.
 permalink: /careers/how-we-work/
 breadcrumb: How We Work
-date: 2021-11-01
-type: article
 collection_name: careers
 ---
 

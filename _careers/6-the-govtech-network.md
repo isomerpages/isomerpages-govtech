@@ -1,11 +1,8 @@
 ---
 layout: leftnav-page-content
-title: GovTech Alumni Network
-description: An alumni community for GovTechies to network with and mentor former and current employees. 
+title: The GovTech Alumni Network
 permalink: /careers/the-govtech-network/
-breadcrumb: GovTech Alumni Network
-date: 2021-11-01
-type: article
+breadcrumb: The GovTech Alumni Network
 collection_name: careers
 ---
 
