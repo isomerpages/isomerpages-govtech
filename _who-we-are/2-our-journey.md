@@ -1,11 +1,8 @@
 ---
 layout: our-journey
 title: Our Journey
-description: Key milestones achieved in our journey towards digitally transforming government digital services.
 permalink: /who-we-are/our-journey/
 breadcrumb: Our Journey
-date: 2021-11-01
-type: article
 collection_name: who-we-are
 ---
 

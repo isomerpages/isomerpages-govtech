@@ -1,11 +1,8 @@
 ---
 layout: simple-page
 title:  "Data Science and Artificial Intelligence"
-description: Leverage big data and AI to create new tech marvels.
 permalink: "/capability-centre-dsaid"
 breadcrumb: Data Science and Artificial Intelligence
-date: 2021-11-01
-type: article
 ---
 
 ![Data Science and Artificial Intelligence](/images/capcentre-dsaid-banner.jpg)

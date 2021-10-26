@@ -1,11 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Our Role
-description: We harness the best infocomm and engineering technologies to develop new Smart Nation capabilities.
 permalink: /who-we-are/our-role/
 breadcrumb: Our Role
-date: 2021-11-01
-type: article
 collection_name: who-we-are
 ---
 
