@@ -6,8 +6,6 @@ permalink: /products-and-services/vica/
 breadcrumb: VICA – Virtual Intelligent Chat Assistant
 collection_name: products-and-services
 tag: citizens
-date: 2021-11-01
-type: article
 thumbnail_image: /images/programmes/products-and-services/vica-logo-2.png
 ---
 
