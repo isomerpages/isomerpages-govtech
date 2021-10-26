@@ -1,8 +1,11 @@
 ---
 layout: simple-page
 title:  "Application Design, Development & Deployment"
+description: Develop applications that shape the way we live, work and play.
 permalink: "/capability-centre-gds"
 breadcrumb: Application Design, Development & Deployment
+date: 2021-11-01
+type: article
 ---
 
 ![Application Design, Development & Deployment](/images/capcentre-gds-banner.jpg)

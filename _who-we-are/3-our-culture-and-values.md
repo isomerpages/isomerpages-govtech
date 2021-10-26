@@ -1,8 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Our Culture and Values
+description: Our Agile, Bold, and Collaborative values unite us and help deliver impactful outcomes.
 permalink: /who-we-are/our-culture-and-values/
 breadcrumb: Our Culture and Values
+date: 2021-11-01
+type: article
 collection_name: who-we-are
 ---
 

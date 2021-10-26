@@ -1,10 +1,13 @@
 ---
 layout: simple-page
 title: Singpass
+description: Singpass is every Singapore resident’s trusted digital identity for secure and convenient transactions.
 permalink: /products-and-services/singpass/
 breadcrumb: Singpass
 collection_name: products-and-services
 tag: citizens
+date: 2021-11-01
+type: article
 thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new-2.jpg
       
 ---

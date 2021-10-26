@@ -1,9 +1,12 @@
 ---
 layout: post
 title: TechNews Newsletter
+description: GovTech’s email newsletter for the latest updates, tech tips and behind-the-scenes stories.
 permalink: "/media/technews/subscribe"
 category: technews
 breadcrumb: TechNews Newsletter
+date: 2021-11-01
+type: article
 recommender: false
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Smart Nation Fellowship Programme
+description: Inviting established tech practitioners to co-create digital solutions with us and share your technical expertise.
 permalink: /careers/smart-nation-fellowship-programme/
 breadcrumb: Smart Nation Fellowship Programme
+date: 2021-11-01
+type: article
 collection_name: careers
 ---
 

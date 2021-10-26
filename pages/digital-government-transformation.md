@@ -1,8 +1,11 @@
 ---
 layout: simple-page
 title: Digital Government Transformation
+description: Discover how our five capability centres leverage emerging technologies for digital government transformation.
 permalink: /digital-government-transformation/
 breadcrumb: Digital Government Transformation
+date: 2021-11-01
+type: article
 ---
 
 ### From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.

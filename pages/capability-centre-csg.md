@@ -1,8 +1,11 @@
 ---
 layout: simple-page
 title:  "Cybersecurity"
+description: Defend our cyberspace and protect our digital way of life.
 permalink: "/capability-centre-csg"
 breadcrumb: Cybersecurity
+date: 2021-11-01
+type: article
 ---
 
 ![Cybersecurity](/images/capcentre-csg-banner.jpg)
