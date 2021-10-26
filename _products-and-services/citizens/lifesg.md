@@ -6,8 +6,6 @@ permalink: /products-and-services/lifesg/
 breadcrumb: LifeSG
 collection_name: products-and-services
 tag: citizens
-date: 2021-11-01
-type: article
 thumbnail_image: /images/programmes/products-and-services/lifesg-header.jpg  
 ---
 
