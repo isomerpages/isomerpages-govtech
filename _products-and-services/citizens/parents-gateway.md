@@ -6,8 +6,6 @@ permalink: /products-and-services/parents-gateway/
 breadcrumb: Parents Gateway
 collection_name: products-and-services
 tag: citizens
-date: 2021-11-01
-type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
