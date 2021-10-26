@@ -6,8 +6,6 @@ permalink: /products-and-services/formsg/
 breadcrumb: FormSG
 collection_name: products-and-services
 tag: government
-date: 2021-11-01
-type: article
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
