@@ -51,7 +51,7 @@ Currently, the Digital IC is also accepted by service providers such as SingHeal
 Annex A - Screenshots of the Singpass app’s New Interface
 
 **A Digital IC in your pocket, for all Singapore Residents**
-*Familiar and easily recognisable coloured cards
+<br>*Familiar and easily recognisable coloured cards
 
 Singapore Citizen
 ![Singapore Citizen](/images/media-release/Annex A - Singapore Citizen.png)
@@ -65,12 +65,12 @@ Long Term Pass Holder<sup>[3]</sup>
 Note: Singpass displays the user’s latest photograph provided to the Government on the Digital IC, providing a higher accuracy when comparing likeness in person.
 
 **Singpass app, with a new look**
-*The same features you love, just easier and better
+<br>*The same features you love, just easier and better
 
 ![Singpass app, with a new look](/images/media-release/Annex A - Singpass app, with a new look.jpg)
 
 **Your privacy is protected**
-*Access more details on your Digital IC by tapping on the card and verifying your identity
+<br>*Access more details on your Digital IC by tapping on the card and verifying your identity
 
 ![Your privacy is protected](/images/media-release/Annex A - Your privacy is protected.jpg)
 
