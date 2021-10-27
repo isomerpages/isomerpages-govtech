@@ -54,13 +54,13 @@ Annex A - Screenshots of the Singpass app’s New Interface
 <br>*Familiar and easily recognisable coloured cards*
 
 Singapore Citizen
-![Singapore Citizen](/images/media-release/annex_a_-_singapore_citizen.png)
+![Singapore Citizen](/images/media-release/Annex A - Singapore Citizen.png)
 
 Permanent Resident
-![Permanent Resident](/images/media-release/annex_a_-_permanent_resident.png)
+![Permanent Resident](/images/media-release/Annex A - Permanent Resident.png)
 
 Long Term Pass Holder<sup>[3]</sup>
-![Long Term Pass Holder](/images/media-release/annex_a_-_long_term_pass_holder.png)
+![Long Term Pass Holder](/images/media-release/Annex A - Long Term Pass Holder.png)
 
 Note: Singpass displays the user’s latest photograph provided to the Government on the Digital IC, providing a higher accuracy when comparing likeness in person.
 
