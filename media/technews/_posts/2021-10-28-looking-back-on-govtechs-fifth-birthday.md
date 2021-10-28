@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Looking on on GovTech's 5th Birthday"
+title: "Looking back on GovTech's 5th Birthday"
 permalink: "/media/technews/looking-back-on-govtechs-fifth-birthday"
 category: technews
 image: "/images/technews/govtech-fifth-birthday.jpg"
