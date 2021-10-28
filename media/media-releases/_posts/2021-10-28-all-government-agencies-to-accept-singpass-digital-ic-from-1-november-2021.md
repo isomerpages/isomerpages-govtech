@@ -72,6 +72,6 @@ Note: Singpass displays the user’s latest photograph provided to the Governmen
 <br><sup>[3]</sup> Only work pass holders have the fields “Employer” and “Sector”
 
 **Related Resources**
-- [Media Factsheet on Singpass (National Digital Identity)](/files/media/media-releases/Media Factsheet on Singpass (National Digital Identity).pdf){:target="_blank"}
+- [Media Factsheet on Singpass (National Digital Identity)](/files/media/media-releases/Media Factsheet on Singpass (National Digital Identity)_28 October 2021.pdf){:target="_blank"}
 
 ---
