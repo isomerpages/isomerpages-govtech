@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "All Government Agencies to Accept Singpass Digital IC from 1 November 2021" 
-permalink: /media/media-releases/2021-10-27-all-government-agencies-to-accept-singpass-digital-ic-from-1-november-2021
-date: 2021-10-27
+permalink: /media/media-releases/2021-10-28-all-government-agencies-to-accept-singpass-digital-ic-from-1-november-2021
+date: 2021-10-28
 ---
 
 ### **ALL GOVERNMENT AGENCIES TO ACCEPT SINGPASS DIGITAL IC FROM 1 NOVEMBER 2021**
@@ -53,14 +53,9 @@ Annex A - Screenshots of the Singpass app’s New Interface
 **A Digital IC in your pocket, for all Singapore Residents**
 <br>*Familiar and easily recognisable coloured cards*
 
-Singapore Citizen
-![Singapore Citizen](/images/media-release/Annex A - Singapore Citizen.png)
-
-Permanent Resident
-![Permanent Resident](/images/media-release/Annex A - Permanent Resident.png)
-
-Long Term Pass Holder<sup>[3]</sup>
-![Long Term Pass Holder](/images/media-release/Annex A - Long Term Pass Holder.png)
+| Singapore Citizen | Permanent Resident | Long Term Pass Holder<sup>[3]</sup> |
+|-------------------|--------------------|-----------------------|
+| ![Singapore Citizen](/images/media-release/Annex A - Singapore Citizen.png)           | ![Permanent Resident](/images/media-release/Annex A - Permanent Resident.png)            | ![Long Term Pass Holder](/images/media-release/Annex A - Long Term Pass Holder.png)               |
 
 Note: Singpass displays the user’s latest photograph provided to the Government on the Digital IC, providing a higher accuracy when comparing likeness in person.
 
@@ -74,9 +69,9 @@ Note: Singpass displays the user’s latest photograph provided to the Governmen
 
 ![Your privacy is protected](/images/media-release/Annex A - Your privacy is protected.jpg)
 
----
-
 <br><sup>[3]</sup> Only work pass holders have the fields “Employer” and “Sector”
 
----
+**Related Resources**
+- [Media Factsheet on Singpass (National Digital Identity)](/files/media/media-releases/Media Factsheet on Singpass (National Digital Identity).pdf){:target="_blank"}
 
+---
