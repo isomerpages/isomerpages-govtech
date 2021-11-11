@@ -22,6 +22,9 @@ All government agencies now accept the Digital IC as a proof of identity for in-
 
 There are instances where your physical IC is specifically required by law, such as for registering a marriage (which probably won’t matter to your parents anyway…) and hotel check-ins. The authorities are reviewing the legislation to formalise the use of [Digital ICs for these exceptions.](https://www.ifaq.gov.sg/singpass/apps/Fcd_faqmain.aspx#FAQ_1112653)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pW86GfRgeQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Besides the Digital IC, Singpass is packed with other features! Watch this video to find out more!*
 
 ## **Safe and secure**
 
@@ -59,5 +62,8 @@ The digitalisation of this document that is a core part of life here is a small 
 Wait, before you go – please remind your parents that just like how they will not allow others to photocopy their ICs without a good reason, they should not let others take pictures of their Digital IC or send screenshots of it to friends or strangers! Yes, there are security measures in place, but we should still play our part to keep our digital identity safe.
 
 GovTech currently partners the SG Digital Office (SDO) through the Seniors Go Digital programme to support users who may need help picking up digital tools. If your parents or friends need help, they may visit any SG Digital Community Hub for a 1-on-1 consultation with a Digital Ambassador or contact us at support@singpass.gov.sg.
+
+
+*Enjoyed this article? Well guess what, we have ALOT more articles just like this. Head here for more stories! Also, if you always wondered why BlueTooth is called Bluetooth, follow this link!*
 
 
