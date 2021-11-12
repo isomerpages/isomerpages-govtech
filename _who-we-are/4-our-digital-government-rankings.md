@@ -105,4 +105,3 @@ The yearly study ranks 148 economies and examines their preparedness to leverage
     <td>Not Available</td>
   </tr>
 </table>
-
