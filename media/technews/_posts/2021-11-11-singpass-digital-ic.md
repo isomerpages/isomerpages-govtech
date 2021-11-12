@@ -4,9 +4,10 @@ title: "Singpass Digital IC. Why your parents’ days of “forgot to bring IC�
 permalink: "/media/technews/singpass-digital-ic"
 category: technews
 image: "images/technews/digitalIC1.jpg
-
 ---
-Hands up if your parents are the type who usually leave their physical identity card, commonly known as IC, at home because they're afraid they’ll lose it. And hands up if they’ve ever forgotten to bring along their IC for whatever official business they must settle, even after making a hundred mental notes the day before
+
+Hands up if your parents are the type who usually leave their physical identity card, commonly known as IC, at home because they're afraid they’ll lose it. And hands up if they’ve ever forgotten to bring along their IC for whatever official business they must settle, even after making a hundred mental notes the day before.
+
 ---
 
 ![Digital IC](/images/technews/digitalIC1.jpg)*How your digital IC appears on the Singpass app.*
