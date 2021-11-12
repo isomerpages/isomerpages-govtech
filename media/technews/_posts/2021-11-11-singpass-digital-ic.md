@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Singpass Digital IC. Why your parents’ days of forgetting ICs are over"
+title: "Singpass Digital IC. Why your parents days of forgetting ICs are over"
 permalink: "/media/technews/singpass-digital-ic"
 category: technews
-image: "images/technews/digitalIC1.jpg
+image: images/technews/digitalIC1.jpg
 ---
 
 Hands up if your parents are the type who usually leave their physical identity card, commonly known as IC, at home because they're afraid they’ll lose it. And hands up if they’ve ever forgotten to bring along their IC for whatever official business they must settle, even after making a hundred mental notes the day before.
