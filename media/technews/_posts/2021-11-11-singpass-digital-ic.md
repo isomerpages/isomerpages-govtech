@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Singpass Digital IC. Why your parents’ days of “forgot to bring IC” are over"
+title: "Singpass Digital IC. Why your parents days of forgetting ICs are over"
 permalink: "/media/technews/singpass-digital-ic"
 category: technews
-image: "images/technews/digitalIC1.jpg
-
+image: images/technews/digitalIC1.jpg
 ---
-Hands up if your parents are the type who usually leave their physical identity card, commonly known as IC, at home because they're afraid they’ll lose it. And hands up if they’ve ever forgotten to bring along their IC for whatever official business they must settle, even after making a hundred mental notes the day before
+
+Hands up if your parents are the type who usually leave their physical identity card, commonly known as IC, at home because they're afraid they’ll lose it. And hands up if they’ve ever forgotten to bring along their IC for whatever official business they must settle, even after making a hundred mental notes the day before.
+
 ---
 
 ![Digital IC](/images/technews/digitalIC1.jpg)*How your digital IC appears on the Singpass app.*
@@ -62,8 +63,4 @@ The digitalisation of this document that is a core part of life here is a small 
 Wait, before you go – please remind your parents that just like how they will not allow others to photocopy their ICs without a good reason, they should not let others take pictures of their Digital IC or send screenshots of it to friends or strangers! Yes, there are security measures in place, but we should still play our part to keep our digital identity safe.
 
 GovTech currently partners the SG Digital Office (SDO) through the Seniors Go Digital programme to support users who may need help picking up digital tools. If your parents or friends need help, they may visit any SG Digital Community Hub for a 1-on-1 consultation with a Digital Ambassador or contact us at support@singpass.gov.sg.
-
-
-*Enjoyed this article? Well guess what, we have ALOT more articles just like this. Head here for more stories! Also, if you always wondered why BlueTooth is called Bluetooth, follow this link!*
-
 
