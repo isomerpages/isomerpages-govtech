@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Singpass Digital IC. Why your parents’ days of “forgot to bring IC” are over"
+title: "Singpass Digital IC. Why your parents’ days of forgetting ICs are over"
 permalink: "/media/technews/singpass-digital-ic"
 category: technews
 image: "images/technews/digitalIC1.jpg
