@@ -64,7 +64,3 @@ Wait, before you go – please remind your parents that just like how they will 
 
 GovTech currently partners the SG Digital Office (SDO) through the Seniors Go Digital programme to support users who may need help picking up digital tools. If your parents or friends need help, they may visit any SG Digital Community Hub for a 1-on-1 consultation with a Digital Ambassador or contact us at support@singpass.gov.sg.
 
-
-*Enjoyed this article? Well guess what, we have ALOT more articles just like this. Head here for more stories! Also, if you always wondered why BlueTooth is called Bluetooth, follow this link!*
-
-
