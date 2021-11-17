@@ -13,7 +13,7 @@ collection_name: careers
 
 Used to work at GovTech? We want to re-connect with you!
 
-Join the [GOVTECH ReCONNECT community](https://www.go.gov.sg/govtechalumni) to stay in touch with current and former GovTechies, and continue to support the advancement of *#SmartNationSG and *#TechforPublicGood ambitions!
+Join the [GOVTECH ReCONNECT community](https://www.go.gov.sg/govtechalumni){:target="_blank"} to stay in touch with current and former GovTechies, and continue to support the advancement of *#SmartNationSG and *#TechforPublicGood ambitions!
 
 ![GOVTECH ReCONNECT](/images/careers/Alumni_GovTech_Reconnect.png)
 
