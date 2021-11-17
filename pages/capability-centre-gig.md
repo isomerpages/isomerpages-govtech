@@ -1,11 +1,8 @@
 ---
 layout: simple-page
 title:  "Government ICT Infrastructure"
-description: Architect cloud infrastructures to power Singapore's digital transformation.
 permalink: "/capability-centre-gig"
 breadcrumb: Government ICT Infrastructure
-date: 2021-11-01
-type: article
 ---
 
 ![Government ICT Infrastructure](/images/capcentre-gig-banner.jpg)

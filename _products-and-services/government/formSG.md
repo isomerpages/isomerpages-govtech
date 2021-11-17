@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: FormSG
-description: FormSG is a form builder tool that enables public officers to create digital government forms in minutes.
 permalink: /products-and-services/formsg/
 breadcrumb: FormSG
 collection_name: products-and-services

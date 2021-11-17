@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: VICA – Virtual Intelligent Chat Assistant
-description: Virtual Intelligent Chat Assistant (VICA) is a chatbot that improves virtual and phone interactions between users and government agencies.
 permalink: /products-and-services/vica/
 breadcrumb: VICA – Virtual Intelligent Chat Assistant
 collection_name: products-and-services

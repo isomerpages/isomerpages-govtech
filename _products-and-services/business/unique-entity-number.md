@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: Unique Entity Number
-description: Unique Entity Number (UEN) is the standard identification number for entities to interact with different government agencies. 
 permalink: /products-and-services/unique-entity-number/
 breadcrumb: Unique Entity Number
 collection_name: products-and-services

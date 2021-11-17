@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: Tech Kaki Community
-description: Tech Kaki is a citizen participation community for citizens to evaluate, share feedback and co-create new tech products. 
 permalink: /products-and-services/tech-kaki-community/
 breadcrumb: Tech Kaki Community
 collection_name: products-and-services

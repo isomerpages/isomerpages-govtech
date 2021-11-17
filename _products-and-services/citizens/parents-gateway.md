@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: Parents Gateway
-description: Parents Gateway is a one-stop mobile app for convenient two-way communication between schools and parents.
 permalink: /products-and-services/parents-gateway/
 breadcrumb: Parents Gateway
 collection_name: products-and-services

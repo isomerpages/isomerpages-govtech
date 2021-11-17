@@ -6,7 +6,6 @@ permalink: /careers/the-govtech-network/
 breadcrumb: Our Alumni Network
 date: 2021-11-01
 type: article
-collection_name: careers
 ---
 
 ### **GovTech ReCONNECT**

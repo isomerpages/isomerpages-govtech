@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: Developer Portal
-description: Developer Portal is a one-stop resource for developers and tech professionals to discover the latest government tech solutions.
 permalink: /products-and-services/developer-portal/
 breadcrumb: Developer Portal
 collection_name: products-and-services

@@ -1,11 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Students and Graduates
-description: Explore bootcamps, internships, scholarships and programmes to chart your career with GovTech.
 permalink: /careers/students-and-graduates/
 breadcrumb: Students and Graduates
-date: 2021-11-01
-type: article
 collection_name: careers
 ---
 

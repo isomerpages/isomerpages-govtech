@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: OpenDoc
-description: OpenDoc is an online document viewer that provides templates for websites, hosting and sharing of publicly accessible documents.
 permalink: /products-and-services/opendoc/
 breadcrumb: Open Doc
 collection_name: products-and-services
