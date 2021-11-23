@@ -27,7 +27,7 @@ Offered by GovTech, as well as Cyber Security Agency of Singapore and Infocomm M
 * Opportunity to rotate among technology tracks
 
 **What to expect during the scholarship selection process with GovTech?** 
-To assess candidates holistically, shortlisted candidates can expect to undergo our scholarship selection stages which include a group assessment, an individual technical test, and interviews with HR, Tech Leads and our senior leaders.
+<br> To assess candidates holistically, shortlisted candidates can expect to undergo our scholarship selection stages which include a group assessment, an individual technical test, and interviews with HR, Tech Leads and our senior leaders.
 
 **Hear from our scholars!**
 * [Winston Liu, B.A. in Computer Science, University of Oxford](https://www.instagram.com/p/CJ-uORZhYQ4/?utm_source=ig_web_copy_link){:target="_blank"}
@@ -37,7 +37,7 @@ To assess candidates holistically, shortlisted candidates can expect to undergo 
 * [Fang Ting Wei, B.Eng in Industrial & Systems Engineering and B.B.A in Accountancy, National University of Singapore](https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_web_copy_link){:target="_blank"}
 
 **How can you apply?**
-Applications are open from September until April for each cycle. If you have a passion for technology and a strong desire to play a part in our Smart Nation agenda, learn more about the scholarship at [https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship){:target="_blank"}. 
+<br> Applications are open from September until April for each cycle. If you have a passion for technology and a strong desire to play a part in our Smart Nation agenda, learn more about the scholarship at [https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship){:target="_blank"}. 
 
 ### **GeekOut**
 Showcase your innovation and imagination by participating in GeekOut, a five-day technology bootcamp. We are challenging you to experience different technologies, and build practical tech solutions. 
@@ -45,7 +45,7 @@ Showcase your innovation and imagination by participating in GeekOut, a five-day
 ![Alternative text for screen readers](/images/careers/GeekOut_Infographic_small.png) 
 
 **How can you apply?**
-GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. [Register Now!](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
+<br> GeekOut is organised twice yearly. You may indicate your interest at the link provided so that we can notify you when application is open. [Register Now!](https://form.gov.sg/forms/govtech/5bb6d8c0df1bd8000f5040d3){:target="_blank"}
 
 ### **Internships**
 Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for both current university and polytechnic students. If you have a passion for technology, and are team oriented, experience a tech internship with us today!
@@ -53,7 +53,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![Alternative text for screen readers](/images/careers/Internship_Infographic.png)   
 
 **How can you apply?**
-We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://go.gov.sg/govtechjobs)
+<br> We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://go.gov.sg/govtechjobs)
 
 ### **Technology Associate Programme**
 An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
@@ -61,6 +61,7 @@ An exclusive leadership-trainee programme, TAP is designed to sharpen and develo
 ![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
 
 **How can you apply?**
-Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! [Apply Now](https://go.gov.sg/govtech-tap)!
+<br> Applications are open from 1 May to 31 July 2021. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! [Apply Now](https://go.gov.sg/govtech-tap)!
 
 To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).
+
