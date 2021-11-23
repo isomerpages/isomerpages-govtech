@@ -10,7 +10,7 @@ Hands up if your parents are the type who usually leave their physical identity 
 
 ---
 
-![Digital IC](/images/technews/digitalIC1.jpg)*How your digital IC appears on the Singpass app.*
+![Digital IC](/images/technews/digitalIC1.jpg)*How your Digital IC appears on the Singpass app.*
 
 Well, their days of “forgot to bring IC” are over, thanks to the Singpass Digital IC! All Singpass users can now see their Digital IC displayed prominently on the app’s homepage, and yes, it resembles the physical IC so you can’t miss it. 
 
@@ -23,7 +23,7 @@ All government agencies now accept the Digital IC as a proof of identity for in-
 
 There are instances where your physical IC is specifically required by law, such as for registering a marriage (which probably won’t matter to your parents anyway…) and hotel check-ins. The authorities are reviewing the legislation to formalise the use of [Digital ICs for these exceptions.](https://www.ifaq.gov.sg/singpass/apps/Fcd_faqmain.aspx#FAQ_1112653)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pW86GfRgeQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUZf1ZcB0NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Besides the Digital IC, Singpass is packed with other features! Watch this video to find out more!*
 
