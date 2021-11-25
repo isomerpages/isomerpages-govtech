@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "GovTech Tech Kaki Referral Contest - Terms and Conditions"
-permalink: "/get-involved/techkakireferralcontest2"
+permalink: "/get-involved/techkakireferralcontest3"
 ---
 
-## [CLOSED] GovTech Tech Kaki Referral Contest - Terms and Conditions
+## GovTech Tech Kaki Referral Contest - Terms and Conditions
 
-1.	The eligibility period for the Tech Kaki Referral Contest (the “**Contest**”) runs from 21 October 2021, 0000hrs, to 26 October 2021, 2359hrs (the “**Contest Period**”).
+1.	The eligibility period for the Tech Kaki Referral Contest (the “**Contest**”) runs from 2 December 2021, 0000hrs, to 7 December 2021, 2359hrs (the “**Contest Period**”).
 2.	The Contest is only open to existing Tech Kaki community members who have been invited by the Government Technology Agency (“**GovTech**”) to participate in the Contest via a unique referral link sent to their email address.
 3.	The Contest is not open to employees of GovTech and their close relatives, and anyone otherwise connected with the organisation or judging of the Contest.
 4.	There is no entry fee or purchase necessary to enter this Contest.
 5.	In order to qualify for the Contest, the subscriber must successfully refer 2 individuals to subscribe to the Tech Kaki mailing list using the unique referral link provided by GovTech to the subscriber’s email address.
-6.	The Contest will close on 26 October 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive a $10 Grab food e-voucher (the “Prize”). Prize is limited to 1 e-voucher per subscriber.
+6.	The Contest will close on 7 December 2021, 2359hrs. The winners who successfully meet the Contest criteria will each receive a $10 Grab food e-voucher (the “Prize”). Prize is limited to 1 e-voucher per subscriber.
 7.	The winners will be notified by email within 14 days from the last day of the Contest. The winner must complete an acknowledgement form provided via a link in the email notification within 14 days of receipt of the email. Failure to complete the acknowledgement form shall result in forfeiture of the Prize.
 8.	GovTech will send acknowledged winners the Grab e-voucher via email.
 9.	The expiry date of the Grab e-vouchers will be stated on the vouchers sent to the winner. The Grab e-vouchers are to be used by that date and no extensions will be granted.
