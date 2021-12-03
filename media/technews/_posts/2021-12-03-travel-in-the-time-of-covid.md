@@ -20,9 +20,9 @@ Traveling soon? Tech can help smoothen out the bumps in the road! Photo Credit:U
 
 ## **Vaccine certification and authentication digitalised**
 
-Many of you are no doubt familiar with the Google Pay app that enables cashless payments, but did you know that your vaccination certificate can also be stored there? This feature is all the more important since a lot of travel now depends on whether one is vaccinated and clear of Covid before travel. Proof of vaccination and pre-departure results need to be tamper-proof, convenient to present, and easily authenticated. 
+Many of you are no doubt familiar with the Google Pay app that enables cashless payments, but did you know that your [vaccination certificate](https://www.traveldailymedia.com/singaporeans-can-access-vaccination-certificates-in-google-pay-app/) can also be stored there? This feature is all the more important since a lot of travel now depends on whether one is vaccinated and clear of Covid before travel. Proof of vaccination and pre-departure results need to be tamper-proof, convenient to present, and easily authenticated. 
 
-The tech powering the digital vaccination certificates is HealthCerts, a digital open standard for test results and vaccination certification. The system ensures tamper-proof e-documents can be shared with travel authorities. The open eco-system means private companies and public entities can easily opt in.
+The tech powering the digital vaccination certificates is [HealthCerts](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/healthcerts), a digital open standard for test results and vaccination certification. The system ensures tamper-proof e-documents can be shared with travel authorities. The open eco-system means private companies and public entities can easily opt in.
 
 HealthCert providers give issuance service to clinics and labs. So far, there are 14 providers that are connected to over 700 institutions which have presence in around 30 places such as Canada, France, Hong Kong, and Indonesia. 
  
@@ -32,13 +32,13 @@ HealthCert providers give issuance service to clinics and labs. So far, there ar
 
 The pandemic has made us think twice about what we touch, so the boarding process has been revamped to minimise contact with surfaces and others. 
 
-For starters, online and mobile check-in is increasingly replacing the need to queue at counters. The Singapore Airlines (SIA) app can even generate a digital boarding pass that enables passengers to proceed through the airport. 
+For starters, online and mobile check-in is increasingly replacing the need to queue at counters. The Singapore Airlines (SIA) app can even generate a [digital boarding pass](http://www.bbc.com/storyworks/future/imagining-the-future-of-air-travel/contactless-travel-in-the-new-normal) that enables passengers to proceed through the airport. 
 
 Passengers can also use the app to declare the number of baggage and auto print their baggage tags at the airport. 
 
 Even if there is a need to use check-in kiosks, there are now 160 newly installed ones with proximity touch screens that can track finger movements using infrared sensors. Users can thus use the kiosks through gestures instead of touching the screen. 
 
-As for immigration clearance, facial and iris recognition is replacing fingerprint scanning as the primary biometric identifier at Changi Airport. Be sure to check if your facial and iris biometric information has been enrolled with the ​​Immigration and Checkpoints Authority!
+As for immigration clearance, facial and iris recognition is replacing fingerprint scanning as the primary biometric identifier at Changi Airport. Be sure to check if your [facial and iris biometric information](https://www.straitstimes.com/singapore/transport/covid-19-eye-and-face-scans-part-of-touch-free-travel-at-changi-airport) has been enrolled with the Immigration and Checkpoints Authority!
 
 ## Mobile app for in-flight entertainment and reading
 
@@ -54,7 +54,7 @@ And though inflight magazines have been removed, passengers have access to an ev
 
 ## One-stop map for travel regulations 
 
-If your choice of destination is heavily dependent on the travel regulations in place for that country, check out this map by the International Air Transport Association. You can click on any country and the latest list of travel regulations or restrictions will be displayed. The map is also colour coded in terms of the restrictiveness of the rules in place for each country.  
+If your choice of destination is heavily dependent on the travel regulations in place for that country, check out this map by the International Air Transport Association. You can click on any country and the latest list of travel regulations or restrictions will be displayed. The [map is also colour coded](https://www.iatatravelcentre.com/world.php) in terms of the restrictiveness of the rules in place for each country.  
 
 Not quite spinning a globe and heading off to the place where your finger lands on, but close enough in our time of pandemic. 
 
