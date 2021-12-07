@@ -176,5 +176,4 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 
 |  | **Pillar** | **Overview** |
 | -------- | -------- | -------- |
-| Icon Image 1     | [Tech for public good](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Empowering Vulnerable Communities through Tech (GALE, eCanvas, GatherSG)
-Combatting COVID-19 with Tech (GoWhere Suite, Video Analytics System)|
+| Icon Image 1     | [Tech for public good](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Empowering Vulnerable Communities through Tech (GALE, eCanvas, GatherSG), Combatting COVID-19 with Tech (GoWhere Suite, Video Analytics System) |
