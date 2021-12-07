@@ -177,3 +177,13 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 |  | **Pillar** | **Overview** |
 | -------- | -------- | -------- |
 | Icon Image 1     | [Tech for public good](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Empowering Vulnerable Communities through Tech (GALE, eCanvas, GatherSG), Combatting COVID-19 with Tech (GoWhere Suite, Video Analytics System) |
+| Icon Image 2     | [Citizen engagement and co-creation](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Catalysing Public-Private Innovation & Cocreation Through an Open and Accessible Government (Open Source Tech, STACK, Tech Kaki) |
+| Icon Image 3     | [Diversity and inclusion](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Designing Inclusive Digital Services for Everyone (DSS, SG Design System) |
+| Icon Image 4     | [Digital identity](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Streamlining citizen services through digital identity (Singpass, SGFinDex, Myinfo), Safer, more convenient business transactions through integration with digital identity (Corppass, Myinfo biz) |
+| Icon Image 5     | [WOG platforms and tools](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Spearheading Public Service Innovation and Cocreation through an API Marketplace (APEX), Streamlining the Building of a Digital Government Through a Shared Tech Stack (SGTS, GCC2.0, DWP), Efficient Management of WOG Pre Booking Services through Tech (BookingSG) |
+| Icon Image 6     | [User and business journey](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Simpler & Personalised Government Services Throughout Our Citizens' Life Journeys (LifeSG), Creating a Vibrant Business Hub through Centralised Information and Services (gobusiness) |
+| Icon Image 7     | [Data driven government and AI](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Serving Citizens Better through Data Driven Decision Making (WOGAA, SNPS, website and email personalisation) |
+| Icon Image 8     | [Cybersecurity](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good)     | Cybersecurity |
+
+
+For more information, refer to these [resources](https://www.tech.gov.sg/media/awards/) and our [awards](https://www.tech.gov.sg/media/awards/).
