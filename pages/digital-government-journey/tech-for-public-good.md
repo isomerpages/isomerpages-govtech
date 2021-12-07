@@ -2,7 +2,7 @@
 layout: simple-page
 title: Tech For Public Good
 description: To cultivate a Digital Government that is “Digital to the Core, and Serves with Heart,” GovTech has developed technologies that are focused on public good.
-permalink: /tech-for-public-good/
+permalink: /digital-government-journey/tech-for-public-good/
 breadcrumb: Tech For Public Good
 ---
 
