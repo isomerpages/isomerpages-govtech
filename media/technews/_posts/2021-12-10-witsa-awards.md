@@ -10,15 +10,9 @@ GovTech has always prided itself for making a difference in everyone’s lives t
 
 ---
 
-Still, the potential hassle of travelling in the time of Covid and safety concerns may be holding some back from dusting off their passports. 
-
-If this describes the dilemma you are facing about whether to organise a year-end trip, read on. Knowing how tech is making travel more seamless and safer may well help you arrive at a decision!
-
 ![Traveling soon?!](/images/technews/witsa1.jpg)
 Making the podium at the WITSA awards! Photo by <a href="https://unsplash.com/@romainchllet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Romain Chollet</a> on <a href="https://unsplash.com/s/photos/podium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-
-
 ## What are the WITSA awards? 
 
 The Global ICT Excellence Awards is an event held annually over the last two decades ever since the 2000 World Congress on IT in Taipei. 
