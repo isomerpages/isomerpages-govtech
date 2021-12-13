@@ -75,7 +75,7 @@ Finally, the awards also serve as a benchmark against which we measure our tech 
 
 Check out the [full list](https://witsa.org/witsa-announces-2021-global-ict-excellence-award-winners/) of winners here, which include other agencies from Singapore besides GovTech! 
 
-*Enjoyed this article? Check out this article to out about [how tech is making travcel in the time of covid less painful](https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid) or this article where we show how [bridging the digital divide starts with each of us!](https://www.tech.gov.sg/media/technews/bridging-the-digital-divide)*
+*Enjoyed this article? Check out this article to out about [how tech is making travel in the time of covid less painful](https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid) or this article where we show how [bridging the digital divide starts with each of us!](https://www.tech.gov.sg/media/technews/bridging-the-digital-divide)*
 
 
 
