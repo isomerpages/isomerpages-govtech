@@ -177,7 +177,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -185,7 +185,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -193,7 +193,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -203,7 +203,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -211,7 +211,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -219,7 +219,7 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.
 </div>
@@ -228,14 +228,14 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.</div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good)"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
 		<div class="header"><b>Tech for public good</b></div><br>
 		<div class="para">Tech for public good.</div>
 <br>
