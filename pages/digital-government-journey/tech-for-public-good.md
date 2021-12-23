@@ -16,4 +16,4 @@ By driving a whole of government (WOG) digital transformation strategy and engag
 
 Topics:
 1.	Empowering Vulnerable Communities through Tech 
-2.	[Combatting COVID-19 with Tech](
+2.	[Combatting COVID-19 with Tech](https://www.tech.gov.sg/digital-government-journey/tech-for-public-good/combatting-covid19-with-tech)
