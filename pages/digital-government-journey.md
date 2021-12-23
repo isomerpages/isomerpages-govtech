@@ -178,24 +178,24 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 <div class="row">
 <div class="col"> 
 <a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+		<div class="header"><b>Tech for Public Good</b></div><br>
+		<div class="para">To cultivate a Digital Government that is "Digital to the Core, and Serves with Heart," GovTech has developed technologies that are focused on public good.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+<a href="/digital-government-journey/citizen-engagement-and-cocreation"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Citizen Engagement and Co-creation</b></div><br>
+		<div class="para">At GovTech, we believe that public engagement and participation in developing digital solutions can help us identify citizen needs more accurately and refine government products and services..
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+<a href="/digital-government-journey/diversity-and-inclusion"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Diversity and Inclusion</b></div><br>
+		<div class="para">GovTech is committed to diversity and inclusion in all areas of our work with external and internal stakeholders. Explore our diversity and inclusion programmes and tech here.
 </div>
 <br></div></div>
 
@@ -203,41 +203,41 @@ Sign up for GovTech's [TechNews e-newsletter](https://www.tech.gov.sg/media/tech
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+<a href="/digital-government-journey/digital-identity"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Digital Identity</b></div><br>
+		<div class="para">Singapore's National Digital identity (NDI) initiative provides our citizens and businesses with more convenient and secure online transactions with both the government and private sector.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+<a href="/digital-government-journey/wog-platforms-and-tools"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>WOG Platforms and Tools</b></div><br>
+		<div class="para">GovTech drives Singapore's public sector digital transformation through five capability centres that are aligned to our Digital Government Blueprint and Smart Nation Agenda.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.
+<a href="/digital-government-journey/user-and-business-journeys"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>User and Business Journeys</b></div><br>
+		<div class="para">GovTech is committed to providing citizens and businesses a simplified user journey and single touchpoint to government services through LifeSG and GoBusiness.
 </div>
 <br></div></div>
 
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.</div>
+<a href="/digital-government-journey/data-driven-government-and-ai"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Data Driven Government and AI</b></div><br>
+		<div class="para">GovTech's Data Science and AI Division facilitates whole of government adoption of data science and AI to deliver citizen-centric government services.</div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
-		<div class="header"><b>Tech for public good</b></div><br>
-		<div class="para">Tech for public good.</div>
+<a href="/digital-government-journey/cybersecurity"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Cybersecurity</b></div><br>
+		<div class="para">GovTech drives the Singapore Government's cbersecurity practices through a comprehensive whole of government strategy that range from blue to red teaming capabilities.</div>
 <br>
 
 </div>
