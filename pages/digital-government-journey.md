@@ -27,21 +27,21 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/01-Tech for Public Good.png"></a><br>
 		<div class="header"><b>Tech for Public Good</b></div><br>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/citizen-engagement-and-cocreation"><img src="/images/digital-transformation/02-Citizen Engagement.png"></a><br>
 		<div class="header"><b>Citizen Engagement and Co-creation</b></div><br>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/user-and-business-journeys"><img src="/images/digital-transformation/03-User Business Journey.png"></a><br>
 		<div class="header"><b>User and Business Journey</b></div><br>
 </div>
 <br></div></div>
@@ -50,21 +50,21 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/ai-and-data-driven-government"><img src="/images/digital-transformation/04-Data Driven Gov AI.png"></a><br>
 		<div class="header"><b>AI and Data Driven Government</b></div><br>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/digital-identity"><img src="/images/digital-transformation/05-Digital Identity.png"></a><br>
 		<div class="header"><b>Digital Identity</b></div><br>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/wog-platforms-and-tools"><img src="/images/digital-transformation/06-WOG Platforms Tools.png"></a><br>
 		<div class="header"><b>WOG Platforms and Tools</b></div><br>
 </div>
 <br></div></div>
@@ -72,13 +72,13 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/cybersecurity"><img src="/images/digital-transformation/07-Cybersecurity.png"></a><br>
 		<div class="header"><b>Cybersecurity</b></div><br>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/digital-government-journey/diversity-and-inclusion"><img src="/images/digital-transformation/08-Diversity Inclusion.png"></a><br>
 		<div class="header"><b>Diversity and Inclusion</b></div><br>
 <br>
 
