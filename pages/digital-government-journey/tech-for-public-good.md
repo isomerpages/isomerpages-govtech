@@ -6,7 +6,7 @@ permalink: /digital-government-journey/tech-for-public-good
 breadcrumb: Tech For Public Good
 ---
 
-![Tech for Public Good](/images/digital-transformation/Tech for public good overview page header banner.png)
+![Tech for Public Good](/images/digital-transformation/Tech-for-public-good-header-banner.png)
 
 ---
 
