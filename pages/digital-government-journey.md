@@ -10,7 +10,7 @@ breadcrumb: Singapore’s Digital Government Journey
 
 ---
 
-Singapore’s digital government journey began in the 1980s with the National Computerisation Programme. Today, we envision a Smart Nation that leverages technology to improve the lives of citizens and business owners. This is achieved through GovTech’s role in spearheading the Government’s internal engineering and digital capabilities through synergy across the whole of government, as well as public-private and international collaborations. Currently, 95% of all transactions with the government are digital from end-to-end.
+*Singapore’s digital government journey began in the 1980s with the National Computerisation Programme. Today, we envision a Smart Nation that leverages technology to improve the lives of citizens and business owners. This is achieved through GovTech’s role in spearheading the Government’s internal engineering and digital capabilities through synergy across the whole of government, as well as public-private and international collaborations. Currently, 95% of all transactions with the government are digital from end-to-end.
 
 ---
 
