@@ -2,7 +2,7 @@
 layout: simple-page
 title: Singapore Digital Government Journey
 description: Singapore’s digital government journey began in the 1980s with the National Computerisation Programme. We have since started on building a Smart Nation for everyone.
-permalink: /singapore-digital-government-journey/
+permalink: /digital-government-journey/
 breadcrumb: Singapore Digital Government Journey
 ---
 
