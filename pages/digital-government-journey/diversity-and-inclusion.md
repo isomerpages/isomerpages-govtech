@@ -2,7 +2,7 @@
 layout: simple-page
 title: Diversity and Inclusion
 description: GovTech is committed to diversity and inclusion in all areas of our work with external and internal stakeholders. Explore our programmes here!
-permalink: /digital-government-journey/diversity-and-inclusion
+permalink: /singapore-digital-government-journey/diversity-and-inclusion
 breadcrumb: Diversity and Inclusion
 ---
 
