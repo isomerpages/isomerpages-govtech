@@ -17,7 +17,7 @@ breadcrumb: Singapore Digital Government Journey
 Singapore's Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop and deliver digital services that are built for our citizens’ and businesses’ immediate needs. 
 
 Our work can be broadly classified into three main areas – (i) Products, (ii) Services, and (iii) Cyber and Governance. This is aligned with the Digital Government Blueprint (DGB) which was launched in 2015 - a statement of the Government’s ambition to better leverage data, harness new technologies and drive broader efforts to build a digital economy and society, in support of the Smart Nation vision which was launched by Prime Minister Lee Hsien Loong. 
-In 2019, five Capability Centres (CapCens) were established in the following fields to support the development of Infocomm technology and Smart Systems (ICT & SS) – (i) Application Design, Development and Deployment, (ii) Cybersecurity, (iii) Data Science & Artificial Intelligence, (iv) Government ICT Infrastructure, and (v) Sensors & Internet of Things. These five areas are integral to our Digital Government Blueprint and Smart Nation agenda. Through our CapCens, specialist teams of technical experts within the Government who are both familiar with the government’s digitalisation plans and accessible across the WOG  . GovTech also oversees the development of a shared government technology stack, key government ICT infrastructure, ICT procurement, data protection, and cybersecurity in the public sector to spearhead digital transformation.
+In 2019, five Capability Centres (CapCens) were established in the following fields to support the development of Infocomm technology and Smart Systems (ICT & SS) – (i) Application Design, Development and Deployment, (ii) Cybersecurity, (iii) Data Science & Artificial Intelligence, (iv) Government ICT Infrastructure, and (v) Sensors & Internet of Things. These five areas are integral to our Digital Government Blueprint and Smart Nation agenda. Through our CapCens, specialist teams of technical experts within the Government who are both familiar with the government’s digitalisation plans and accessible across the WOG are developed. GovTech also oversees the development of a shared government technology stack, key government ICT infrastructure, ICT procurement, data protection, and cybersecurity in the public sector to spearhead digital transformation.
 
 On the international front, GovTech launched the Digital Government Exchange (DGX) in 2016 to encourage thought leadership and knowledge exchange with digital governments globally. GovTech’s engagement with the international community is also fortified by our collaboration with international organisations such as the United Nations and World Bank. In Singapore, GovTech has organised [STACK conferences](https://www.developer.tech.gov.sg/communities/events/overview){:target="_blank"} and [meet ups](https://www.developer.tech.gov.sg/communities/stack-x-meetups/overview.html){:target="_blank"} to encourage co-creation and learning among the public and private sectors. 
 
@@ -25,7 +25,9 @@ Finally, to drive the vision of a Smart Nation, five Strategic National Projects
 
 View the full timeline of our digital milestones [here](https://www.tech.gov.sg/who-we-are/our-journey/){:target="_blank"}.
 
-## Our Digital Government Pillars
+## Digital Government Efforts
+
+Our digital government efforts can be classified into these few areas:
 <br>
 
 <br>
