@@ -2,7 +2,7 @@
 layout: simple-page
 title: Whole of Government (WOG) Platforms and Tools
 description: GovTech drives Singapore’s public sector digital transformation through the Digital Government Blueprint and a shared tech stack. 
-permalink: /digital-government-journey/wog-platforms-and-tools
+permalink: /singapore-digital-government-journey/wog-platforms-and-tools
 breadcrumb: Whole of Government (WOG) Platforms and Tools
 ---
 
