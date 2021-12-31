@@ -2,7 +2,7 @@
 layout: simple-page
 title: User and Business Journeys
 description: Through LifeSG and GoBusiness, GovTech is committed to provide citizens and businesses a simplified user journey and a single touchpoint to government services.
-permalink: /digital-government-journey/user-and-business-journeys
+permalink: /singapore-digital-government-journey/user-and-business-journeys
 breadcrumb: User and Business Journeys
 ---
 
