@@ -20,3 +20,71 @@ On the international front, GovTech launched the Digital Government Exchange (DG
 Finally, to drive the vision of a Smart Nation, five Strategic National Projects were launched in 2017, these covered GoBusiness, CODEX, e-Payments, LifeSG, National Digital Identity, the Punggol Smart Town, Smart Nation Sensor Platform and Smart Urban Mobility. These projects lay the foundation for a Smart Nation by serving as a foundation for the adoption of digital and smart technologies throughout the economy and society. More details on each project can be found [here](https://www.smartnation.gov.sg/initiatives/strategic-national-projects){:target="_blank"}.
 
 View the full timeline of our digital milestones [here](https://www.tech.gov.sg/who-we-are/our-journey/){:target="_blank"}.
+
+## Our Digital Government Pillars
+<br>
+
+<br>
+<div class="row">
+<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Tech for Public Good</b></div><br>
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Citizen Engagement and Co-creation</b></div><br>
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>User and Business Journey</b></div><br>
+</div>
+<br></div></div>
+
+
+<br>
+<div class="row">
+<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>AI and Data Driven Government</b></div><br>
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Digital Identity</b></div><br>
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>WOG Platforms and Tools</b></div><br>
+</div>
+<br></div></div>
+
+<br>
+<div class="row">
+<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Cybersecurity</b></div><br>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/digital-government-journey/tech-for-public-good"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>Diversity and Inclusion</b></div><br>
+<br>
+
+</div>
+<div class="col">
+</div>
+<br></div>
+
+
