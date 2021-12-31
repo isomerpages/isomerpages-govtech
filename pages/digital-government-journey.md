@@ -92,11 +92,17 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 ### Smart City Index  2021
 The Smart City Index (SCI) ranks 118 cities based on citizens’ perceptions of how technology can improve their lives, as well as on economic and social data taken from the United Nations Human Development Index (HDI). It is conducted annually by the Singapore University of Technology and Design’s Lee Kuan Yew Centre for Innovative Cities (SUTD-LKYCIC) in collaboration with Switzerland’s Institute for Management Development (IMD).
 
+![Fig 1: Singapore’s 2021 Smart City Index Ranking](/images/digital-transformation/Fig-1-Smart-City-Index.png)*Fig 1: Singapore’s 2021 Smart City Index Ranking*
+
 ### International Achievements 2020
 The United Nations e-Government Survey  measures the effectiveness of all 193 member states on the effectiveness of their digital government efforts in providing citizen and business services and in policy engagement.  
 
+![Fig 2: Singapore’s 2020 United Nations e-Government Ranking](/images/digital-transformation/Fig-2-UN-e-gov-survey-ranking.png)*Fig 2: Singapore’s 2020 United Nations e-Government Ranking*
+
 ### National Achievements 2020
 The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
+
+![Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020](/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png)*Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020*
 
 ## Future Plans
 
@@ -104,8 +110,7 @@ The DGB is a testament of Singapore’s ambition to leverage data and new techno
 
 Based on the DGB, GovTech plans to achieve the following goals by 2023:
 
-
-
+![Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)](/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png)*Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)*
 
 <br><sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
 
@@ -121,14 +126,14 @@ Contact us at [info@tech.gov.sg](mailto:info@tech.gov.sg){:target="_blank"} if y
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/media/technews/subscribe"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/media/technews/subscribe"><img src="/images/digital-transformation/TechNews-newsletter.png"></a><br>
 		<div class="header"><b>TechNews Newsletter</b></div><br>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/media/corporate-publications"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+<a href="/media/corporate-publications"><img src="/images/digital-transformation/GovTech-publications.png"></a><br>
 		<div class="header"><b>GovTech's Publications</b></div><br>
 <br>
 
