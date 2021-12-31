@@ -137,7 +137,5 @@ Contact us at [info@tech.gov.sg](mailto:info@tech.gov.sg){:target="_blank"} if y
 </div>
 <br></div>
 
-
-
-
+Sign up for TechNews [here](https://www.tech.gov.sg/media/technews/subscribe){:target="_blank"} to receive updates about our digital government efforts. To view GovTech’s publications, you can refer to this [link](https://www.tech.gov.sg/media/corporate-publications/){:target="_blank"}.
 
