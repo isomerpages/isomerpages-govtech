@@ -2,7 +2,7 @@
 layout: simple-page
 title: Citizen Engagement and Co-creation
 description: At GovTech, we believe that public engagement and participation helps us to identify citizen needs more accurately and refine government digital solutions.
-permalink: /digital-government-journey/citizen-engagement-and-cocreation
+permalink: /singapore-digital-government-journey/citizen-engagement-and-cocreation
 breadcrumb: Citizen Engagement and Co-creation
 ---
 

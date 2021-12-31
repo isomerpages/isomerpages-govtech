@@ -2,7 +2,7 @@
 layout: simple-page
 title: Artificial Intelligence (AI) and Data Driven Government
 description: GovTech’s Data Science and AI Division facilitates whole of government adoption of data science and AI to deliver citizen-centric government services. 
-permalink: /digital-government-journey/ai-and-data-driven-government
+permalink: /singapore-digital-government-journey/ai-and-data-driven-government
 breadcrumb: Artificial Intelligence (AI) and Data Driven Government
 ---
 

@@ -2,7 +2,7 @@
 layout: simple-page
 title: Digital Identity
 description: Singapore’s National Digital Identity initiative brings greater convenience and safety to citizens and businesses when transacting with the government and the private sector.
-permalink: /digital-government-journey/digital-identity
+permalink: /singapore-digital-government-journey/digital-identity
 breadcrumb: Digital Identity
 ---
 

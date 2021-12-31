@@ -2,7 +2,7 @@
 layout: simple-page
 title: Cybersecurity
 description: GovTech’s Cyber Security Group (CSG) drives the Singapore Government’s cybersecurity practices through a comprehensive strategy.
-permalink: /digital-government-journey/cybersecurity
+permalink: /singapore-digital-government-journey/cybersecurity
 breadcrumb: Cybersecurity
 ---
 
