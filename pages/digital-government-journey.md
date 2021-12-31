@@ -87,4 +87,57 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 </div>
 <br></div>
 
+## International and National Achievements
+
+### Smart City Index  2021
+The Smart City Index (SCI) ranks 118 cities based on citizens’ perceptions of how technology can improve their lives, as well as on economic and social data taken from the United Nations Human Development Index (HDI). It is conducted annually by the Singapore University of Technology and Design’s Lee Kuan Yew Centre for Innovative Cities (SUTD-LKYCIC) in collaboration with Switzerland’s Institute for Management Development (IMD).
+
+### International Achievements 2020
+The United Nations e-Government Survey  measures the effectiveness of all 193 member states on the effectiveness of their digital government efforts in providing citizen and business services and in policy engagement.  
+
+### National Achievements 2020
+The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
+
+## Future Plans
+
+The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. More information on the DGB can be found [here](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"}.
+
+Based on the DGB, GovTech plans to achieve the following goals by 2023:
+
+
+
+
+<br><sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
+
+<br><sup>[2]</sup> Government systems qualify if data classification requirements allow them to be moved to cloud.
+
+## Contact information for international collaboration opportunities
+
+Contact us at [info@tech.gov.sg](mailto:info@tech.gov.sg){:target="_blank"} if you would like to collaborate on various digital government projects.
+
+## Resources
+<br>
+
+<br>
+<div class="row">
+<div class="col"> 
+<a href="/media/technews/subscribe"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>TechNews Newsletter</b></div><br>
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/media/corporate-publications"><img src="/images/digital-transformation/icon-image-1.jpeg"></a><br>
+		<div class="header"><b>GovTech's Publications</b></div><br>
+<br>
+
+</div>
+<div class="col">
+</div>
+<br></div>
+
+
+
+
 
