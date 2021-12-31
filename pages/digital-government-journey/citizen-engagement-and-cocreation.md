@@ -6,7 +6,7 @@ permalink: /digital-government-journey/citizen-engagement-and-cocreation
 breadcrumb: Citizen Engagement and Co-creation
 ---
 
-![Tech for Public Good](/images/digital-transformation/Citizen-engagement-and-cocreation-header-banner.png)
+![Citizen Engagement and Co-creation](/images/digital-transformation/Citizen-engagement-and-cocreation-header-banner.png)
 
 ---
 
