@@ -12,7 +12,7 @@ breadcrumb: Digital Identity
 
 Singapore’s National Digital Identity initiative (NDI) provides our citizens and businesses with more convenient and secure online transactions with both the government and private sector organisations. Underpinned by Singpass – Singapore’s trusted digital identity – the NDI brings together the Singpass app, Myinfo and Myinfo business to provide greater transactional security and ease of use.
 
-Today, citizens can conveniently and easily access over 460 government and private sector services through Singpass – from accessing Central Provident Fund (CPF) savings, to renewing insurance policies and digitally signing documents. 
+Today, citizens can conveniently and easily access government and private sector services through Singpass – from accessing Central Provident Fund (CPF) savings, to renewing insurance policies and digitally signing documents. 
 
 Singapore’s NDI has also expanded to include services such as Myinfo business and Corppass, acting as an international business gateway that allows global business transactions and the flow of cross border data and transactions in an open and trusted environment. 
 
