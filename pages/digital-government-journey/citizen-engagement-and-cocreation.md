@@ -14,6 +14,6 @@ Engaging citizens to co-create solutions can help governments identify delivery 
 
 This is exemplified by the enhancement of the LifeSG app in 2020 based on citizen feedback to include personalised services such as those for job hunting, tax management and CPF matters, as well as to include benefits for citizens in the form of SkillFuture credits, SingaporeRediscover Vouchers and MINDEF Celebratory Gifts for NSmen. An improved user navigation and a citizen profile was also added to enhance the user experience. Previously, the app was centred on services for parents and seniors. 
 
-**Topics:**
+**Topics**
 
 - [Catalysing Public-Private Innovation & Co-creation Through an Open and Accessible Government](https://www.tech.gov.sg/singapore-digital-government-journey/citizen-engagement-and-cocreation/catalysing-public-private-innovation-and-co-creation-through-an-open-and-accessible-government){:target="_blank"}
