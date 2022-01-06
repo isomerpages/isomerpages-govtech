@@ -16,4 +16,4 @@ This is exemplified by the enhancement of the LifeSG app in 2020 based on citize
 
 **Topics:**
 
-[Catalysing Public-Private Innovation & Co-creation Through an Open and Accessible Government](https://www.tech.gov.sg/singapore-digital-government-journey/citizen-engagement-and-cocreation/catalysing-public-private-innovation-and-co-creation-through-an-open-and-accessible-government){:target="_blank"}.
+[Catalysing Public-Private Innovation & Co-creation Through an Open and Accessible Government](https://www.tech.gov.sg/singapore-digital-government-journey/citizen-engagement-and-cocreation/catalysing-public-private-innovation-and-co-creation-through-an-open-and-accessible-government){:target="_blank"}
