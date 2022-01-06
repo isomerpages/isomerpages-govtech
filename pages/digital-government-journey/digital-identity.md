@@ -22,3 +22,5 @@ Today, Singpass has a user base of more than 4.2 million users and provides conv
 
 ![Fig 1: National adoption and transaction figures for Singpass](/images/digital-transformation/singpass-infographic.png)*Fig 1: National adoption and transaction figures for Singpass*
 
+**Topics**
+- [Streamlining Citizen Services through Digital Identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/streamlining-citizen-services-through-digital-identity){:target="_blank"}
