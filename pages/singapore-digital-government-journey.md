@@ -37,7 +37,7 @@ Our digital government efforts can be classified into these few areas:
   <a href="/singapore-digital-government-journey/tech-for-public-good">
     <img
       src="/images/digital-transformation/01-Tech for Public Good.png" 
-      alt="Tech for Public Good" style="width:100%">
+      alt="Tech for Public Good" style="width: 100%"
     /></a>
     <figcaption><b>Tech for Public Good</b></figcaption>
 	</figure>
