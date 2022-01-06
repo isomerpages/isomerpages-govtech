@@ -130,9 +130,9 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
   <figcaption>Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)</figcaption>
 </figure>
 
-<br><sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
+<sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
 
-<br><sup>[2]</sup> Government systems qualify if data classification requirements allow them to be moved to cloud.
+<sup>[2]</sup> Government systems qualify if data classification requirements allow them to be moved to cloud.
 
 ## Contact information for international collaboration opportunities
 
