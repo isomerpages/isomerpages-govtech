@@ -34,96 +34,87 @@ Our digital government efforts can be classified into these few areas:
     <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
       <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
     <figcaption><b>Tech for Public Good</b></figcaption>
-</div>
-
-  <div class="col" style="text-align: center">
-    <figure style="text-align: center">
-      <a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation" target="_blank">
-        <img src="/images/digital-transformation/02-Citizen Engagement.png" alt="Citizen Engagement and Co-creation" /></a>
-      <figcaption><b>Citizen Engagement and Co-creation</b></figcaption>
-    </figure>
   </div>
 
   <div class="col" style="text-align: center">
-    <figure style="text-align: center">
-      <a href="/singapore-digital-government-journey/user-and-business-journeys" target="_blank">
-        <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
-      <figcaption><b>User and Business Journeys</b></figcaption>
-    </figure>
+    <a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation" target="_blank">
+      <img src="/images/digital-transformation/02-Citizen Engagement.png" alt="Citizen Engagement and Co-creation" /></a>
+    <figcaption><b>Citizen Engagement and Co-creation</b></figcaption>
   </div>
 	
   <div class="col" style="text-align: center">
-    <figure style="text-align: center">
-      <a href="/singapore-digital-government-journey/ai-and-data-driven-government" target="_blank">
-        <img src="/images/digital-transformation/04-Data Driven Gov AI.png" alt="AI and Data Driven Government" /></a>
-      <figcaption><b>AI and Data Driven Government</b></figcaption>
-    </figure>
+    <a href="/singapore-digital-government-journey/user-and-business-journeys" target="_blank">
+      <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
+    <figcaption><b>User and Business Journeys</b></figcaption>
+  </div>
+	
+  <div class="col" style="text-align: center">
+     <a href="/singapore-digital-government-journey/ai-and-data-driven-government" target="_blank">
+      <img src="/images/digital-transformation/04-Data Driven Gov AI.png" alt="AI and Data Driven Government" /></a>
+    <figcaption><b>AI and Data Driven Government</b></figcaption>
   </div>
 </div>
 
-
-
-
 <div class="row">
-<div class="col"> 
-<a href="/singapore-digital-government-journey/ai-and-data-driven-government"><img src="/images/digital-transformation/04-Data Driven Gov AI.png"></a><br>
-		<div class="header"><b>AI and Data Driven Government</b></div><br>
-		<div class="para"> 
-</div>
-<br>
+  <div class="col" style="text-align: center">
+    <a href="/singapore-digital-government-journey/digital-identity" target="_blank">
+      <img src="/images/digital-transformation/05-Digital Identity.png" alt="Digital Identity" /></a>
+    <figcaption><b>Digital Identity</b></figcaption>
+  </div>
 
-</div>
-	<div class="col"> 
-<a href="/singapore-digital-government-journey/digital-identity"><img src="/images/digital-transformation/05-Digital Identity.png"></a><br>
-		<div class="header"><b>Digital Identity</b></div><br>
-		<div class="para"> 
-</div>
-<br>
+  <div class="col" style="text-align: center">
+    <a href="/singapore-digital-government-journey/wog-platforms-and-tools" target="_blank">
+      <img src="/images/digital-transformation/06-WOG Platforms Tools.png" alt="WOG Platforms and Tools" /></a>
+    <figcaption><b>WOG Platforms and Tools</b></figcaption>
+  </div>
 
-</div>
-	<div class="col"> 
-<a href="/singapore-digital-government-journey/wog-platforms-and-tools"><img src="/images/digital-transformation/06-WOG Platforms Tools.png"></a><br>
-		<div class="header"><b>WOG Platforms and Tools</b></div><br>
-		<div class="para"> 
-</div>
-<br></div></div>
+  <div class="col" style="text-align: center">
+    <a href="/singapore-digital-government-journey/cybersecurity" target="_blank">
+      <img src="/images/digital-transformation/07-Cybersecurity.png" alt="Cybersecurity" /></a>
+    <figcaption><b>Cybersecurity</b></figcaption>
+  </div>
 
-<br>
-<div class="row">
-<div class="col"> 
-<a href="/singapore-digital-government-journey/cybersecurity"><img src="/images/digital-transformation/07-Cybersecurity.png"></a><br>
-		<div class="header"><b>Cybersecurity</b></div><br>
-		<div class="para"> </div>
-<br>
-
+  <div class="col" style="text-align: center">
+    <a href="/singapore-digital-government-journey/diversity-and-inclusion" target="_blank">
+      <img src="/images/digital-transformation/08-Diversity Inclusion.png" alt="Diversity and Inclusion" /></a>
+    <figcaption><b>Diversity and Inclusion</b></figcaption>
+  </div>
 </div>
-	<div class="col"> 
-<a href="/singapore-digital-government-journey/diversity-and-inclusion"><img src="/images/digital-transformation/08-Diversity Inclusion.png"></a><br>
-	<div class="header"><b>Diversity and Inclusion</b></div><br>
-	<div class="para"> </div>
-<br>
-
-</div>
-<div class="col">
-</div>
-<br></div>
 
 ## International and National Achievements
 
 ### Smart City Index  2021
 The Smart City Index (SCI) ranks 118 cities based on citizens’ perceptions of how technology can improve their lives, as well as on economic and social data taken from the United Nations Human Development Index (HDI). It is conducted annually by the Singapore University of Technology and Design’s Lee Kuan Yew Centre for Innovative Cities (SUTD-LKYCIC) in collaboration with Switzerland’s Institute for Management Development (IMD).
 
-![Fig 1: Singapore’s 2021 Smart City Index Ranking](/images/digital-transformation/Fig-1-Smart-City-Index.png)*Fig 1: Singapore’s 2021 Smart City Index Ranking*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-1-Smart-City-Index.png" 
+    alt="Fig 1: Singapore’s 2021 Smart City Index Ranking"
+  />
+  <figcaption>Fig 1: Singapore’s 2021 Smart City Index Ranking</figcaption>
+</figure>
 
 ### International Achievements 2020
 The United Nations e-Government Survey  measures the effectiveness of all 193 member states on the effectiveness of their digital government efforts in providing citizen and business services and in policy engagement.  
 
-![Fig 2: Singapore’s 2020 United Nations e-Government Ranking](/images/digital-transformation/Fig-2-UN-e-gov-survey-ranking.png)*Fig 2: Singapore’s 2020 United Nations e-Government Ranking*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-2-UN-e-gov-survey-ranking.png" 
+    alt="Fig 2: Singapore’s 2020 United Nations e-Government Ranking"
+  />
+  <figcaption>Fig 2: Singapore’s 2020 United Nations e-Government Ranking</figcaption>
+</figure>
 
 ### National Achievements 2020
 The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
 
-![Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020](/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png)*Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png" 
+    alt="Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020"
+  />
+  <figcaption>Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020</figcaption>
+</figure>
 
 ## Future Plans
 
@@ -131,7 +122,13 @@ The DGB is a testament of Singapore’s ambition to leverage data and new techno
 
 Based on the DGB, GovTech plans to achieve the following goals by 2023:
 
-![Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)](/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png)*Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png" 
+    alt="Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)"
+  />
+  <figcaption>Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)</figcaption>
+</figure>
 
 <br><sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
 
@@ -142,27 +139,22 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
 Contact us at [info@tech.gov.sg](mailto:info@tech.gov.sg){:target="_blank"} if you would like to collaborate on various digital government projects.
 
 ## Resources
-<br>
 
-<br>
 <div class="row">
-<div class="col"> 
-<a href="/media/technews/subscribe"><img src="/images/digital-transformation/TechNews-newsletter.png"></a><br>
-		<div class="header"><b>TechNews Newsletter</b></div><br>
-		<div class="para"> </div>
-<br>
+  <div class="col" style="text-align: center">
+    <a href="/media/technews/subscribe" target="_blank">
+      <img src="/images/digital-transformation/TechNews-newsletter.png" alt="TechNews Newsletter" /></a>
+    <figcaption><b>TechNews Newsletter</b></figcaption>
+  </div>
 
+  <div class="col" style="text-align: center">
+    <a href="/media/corporate-publications" target="_blank">
+      <img src="/images/digital-transformation/GovTech-publications.png" alt="GovTech's Publications" /></a>
+    <figcaption><b>GovTech's Publications</b></figcaption>
+  </div>
+  <div class="col"></div>
+  <div class="col"></div>
 </div>
-	<div class="col"> 
-<a href="/media/corporate-publications"><img src="/images/digital-transformation/GovTech-publications.png"></a><br>
-	<div class="header"><b>GovTech's Publications</b></div><br>
-	<div class="para"> </div>
-<br>
-
-</div>
-<div class="col">
-</div>
-<br></div>
 
 Sign up for TechNews [here](https://www.tech.gov.sg/media/technews/subscribe){:target="_blank"} to receive updates about our digital government efforts. To view GovTech’s publications, you can refer to this [link](https://www.tech.gov.sg/media/corporate-publications/){:target="_blank"}.
 
