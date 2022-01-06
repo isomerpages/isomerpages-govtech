@@ -28,16 +28,14 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 ## Digital Government Efforts
 
 Our digital government efforts can be classified into these few areas:
-<br>
 
-<br>
 <div class="row">
   <div class="col">
-    <figure style="text-align: center">
+
       <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
         <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
-      <figcaption><b>Tech for Public Good</b></figcaption>
-    </figure>
+      <figcaption style="text-align: center"><b>Tech for Public Good</b></figcaption>
+
   </div>
 
   <div class="col">
