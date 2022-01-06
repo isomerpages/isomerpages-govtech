@@ -15,3 +15,6 @@ We are committed to diversity and inclusion in all areas of our work with extern
 In 2021, the Women in (Gov)Tech Employee Resource Group (ERG) was established to develop ground-up programmes and initiatives to support the attraction, development, and retention of female talent within and outside of GovTech. This is in alignment with GovTech’s commitment to the SG Women in Tech Corporate Pledge.
 
 We believe that tech should be for everyone.
+
+**Topics**
+- [Designing Inclusive Digital Services for Everyone](https://www.tech.gov.sg/singapore-digital-government-journey/diversity-and-inclusion/designing-inclusive-digital-services-for-everyone){:target="_blank"}
