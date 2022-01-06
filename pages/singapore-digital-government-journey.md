@@ -32,38 +32,42 @@ Our digital government efforts can be classified into these few areas:
 
 <br>
 <div class="row">
-<div class="col">
-<figure style="text-align: center">
-  <a href="/singapore-digital-government-journey/tech-for-public-good">
-    <img
-      src="/images/digital-transformation/01-Tech for Public Good.png" 
-      alt="Tech for Public Good" style="width: 100%"
-    /></a>
-    <figcaption><b>Tech for Public Good</b></figcaption>
-	</figure>
+  <div class="col">
+    <figure style="text-align: center">
+      <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
+        <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
+      <figcaption><b>Tech for Public Good</b></figcaption>
+    </figure>
+  </div>
 
-<div class="para"> 
-</div>
-<br>
+  <div class="col">
+    <figure style="text-align: center">
+      <a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation" target="_blank">
+        <img src="/images/digital-transformation/02-Citizen Engagement.png" alt="Citizen Engagement and Co-creation" /></a>
+      <figcaption><b>Citizen Engagement and Co-creation</b></figcaption>
+    </figure>
+  </div>
 
+  <div class="col">
+    <figure style="text-align: center">
+      <a href="/singapore-digital-government-journey/user-and-business-journeys" target="_blank">
+        <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
+      <figcaption><b>User and Business Journeys</b></figcaption>
+    </figure>
+  </div>
+	
+  <div class="col">
+    <figure style="text-align: center">
+      <a href="/singapore-digital-government-journey/ai-and-data-driven-government" target="_blank">
+        <img src="/images/digital-transformation/04-Data Driven Gov AI.png" alt="AI and Data Driven Government" /></a>
+      <figcaption><b>AI and Data Driven Government</b></figcaption>
+    </figure>
+  </div>
 </div>
-	<div class="col"> 
-<a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation"><img src="/images/digital-transformation/02-Citizen Engagement.png"></a><br>
-		<div class="header"><b>Citizen Engagement and Co-creation</b></div><br>
-		<div class="para"> 
-</div>
-<br>
 
-</div>
-	<div class="col"> 
-<a href="/singapore-digital-government-journey/user-and-business-journeys"><img src="/images/digital-transformation/03-User Business Journey.png"></a><br>
-		<div class="header"><b>User and Business Journeys</b></div><br>
-		<div class="para"> 
-</div>
-<br></div></div>
 
 
-<br>
+
 <div class="row">
 <div class="col"> 
 <a href="/singapore-digital-government-journey/ai-and-data-driven-government"><img src="/images/digital-transformation/04-Data Driven Gov AI.png"></a><br>
