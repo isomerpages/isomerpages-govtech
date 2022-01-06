@@ -23,7 +23,6 @@ The DSS helps government agencies implement digital services that meet the Digit
 The SGDS ensures that all government services are united by a common UI language and user experience that is compliant to the DSS where applicable. It is made up of UI components, patterns and templates that are oriented towards citizen and business needs. By following curated design guidelines to maximise user experiences, government agencies that utilise the SGDS can transform their websites and deliver high-quality digital services easily. It also allows government agencies to standardize online service interfaces and implement ready templates, patterns and UI components that have already passed accessibility checks for time savings. This allows agencies to focus on other areas of concerns such as the architecture and security of government digital services.
 
 Find out more about our inclusive digital services here:
-
 *	[Digital Service Standard](https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html){:target="_blank"}
 *	[Singapore Government Design System](https://www.developer.tech.gov.sg/technologies/design/singapore-government-design-system.html){:target="_blank"}
 
