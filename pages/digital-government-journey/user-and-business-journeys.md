@@ -13,3 +13,6 @@ breadcrumb: User and Business Journeys
 GovTech is committed to provide citizens and businesses with a simplified user journey and a single touchpoint to government services. To ensure that users can locate specific government offerings easily, platforms that consolidate government services from multiple agencies, such as the LifeSG app for citizens and GoBusiness website for businesses, were rolled out for quick and convenient access. More services will be progressively added to these digital services.
 
 To encourage user engagement and ensure that services are easily discovered, a data-driven approach was used to ensure that the service recommendations are customised for different user profiles on both platforms.
+
+**Topics**
+- [Creating a Vibrant Business Hub through Centralised Information and Services](https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/creating-a-vibrant-business-hub-through-centralised-information-and-services){:target="_blank"}.
