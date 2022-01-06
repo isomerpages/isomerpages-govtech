@@ -30,15 +30,13 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 Our digital government efforts can be classified into these few areas:
 
 <div class="row">
-  <div class="col">
+  <div class="col" style="text-align: center">
+    <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
+      <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
+    <figcaption><b>Tech for Public Good</b></figcaption>
+</div>
 
-      <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
-        <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
-      <figcaption style="text-align: center"><b>Tech for Public Good</b></figcaption>
-
-  </div>
-
-  <div class="col">
+  <div class="col" style="text-align: center">
     <figure style="text-align: center">
       <a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation" target="_blank">
         <img src="/images/digital-transformation/02-Citizen Engagement.png" alt="Citizen Engagement and Co-creation" /></a>
@@ -46,7 +44,7 @@ Our digital government efforts can be classified into these few areas:
     </figure>
   </div>
 
-  <div class="col">
+  <div class="col" style="text-align: center">
     <figure style="text-align: center">
       <a href="/singapore-digital-government-journey/user-and-business-journeys" target="_blank">
         <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
@@ -54,7 +52,7 @@ Our digital government efforts can be classified into these few areas:
     </figure>
   </div>
 	
-  <div class="col">
+  <div class="col" style="text-align: center">
     <figure style="text-align: center">
       <a href="/singapore-digital-government-journey/ai-and-data-driven-government" target="_blank">
         <img src="/images/digital-transformation/04-Data Driven Gov AI.png" alt="AI and Data Driven Government" /></a>
