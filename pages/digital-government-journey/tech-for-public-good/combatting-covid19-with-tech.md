@@ -6,6 +6,10 @@ permalink: /singapore-digital-government-journey/tech-for-public-good/combatting
 breadcrumb: Combatting COVID-19 with Tech
 ---
 
+![Combatting COVID-19 with Tech](/images/digital-transformation/Combatting_covid19_with_tech_header_banner.png)
+
+---
+
 In an increasingly digitalised world with an influx of information online, it is vital for governments to provide a reliable and accurate source of news and updates, particularly during a global crisis. The COVID-19 pandemic has uncovered new and pressing demands for digital government services to provide timely assistance and solutions to cope with the outbreak.
 
 To develop and scale digital solutions quickly, GovTech leveraged its robust digital infrastructure and strong engineering capabilities to meet citizen and business needs. National portals and initiatives were successfully implemented as a result. 
