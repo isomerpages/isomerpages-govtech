@@ -69,6 +69,8 @@ Like Jia Cheng, the GeekInsider event was the highlight for me as well, as I had
 
 Ultimately, I hope to improve Singaporeans’ lives, to equip us with more advanced and secure digital technologies and keep the public sector safe and efficient.
 
+---
+
 *Smart Nation Scholarship was jointly launched in 2018 by the Cyber Security Agency, Infocomm Media Development Authority and GovTech.*
 
 *The application period for this year’s Smart Nation Scholarship is open until 30 April 2022. We welcome applications from pre-tertiary students, as well as undergraduates who have completed at least one semester in university but have yet to start their final year of study.*
