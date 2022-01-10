@@ -75,5 +75,5 @@ Ultimately, I hope to improve Singaporeans’ lives, to equip us with more advan
 
 *The application period for this year’s Smart Nation Scholarship is open until 30 April 2022. We welcome applications from pre-tertiary students, as well as undergraduates who have completed at least one semester in university but have yet to start their final year of study.*
 
-*Find out more about Smart Nation Scholarship at: [www.go.gov.sg/smartnationscholar](www.go.gov.sg/smartnationscholar){:target="_blank"}*
+*Find out more about Smart Nation Scholarship at: [https://www.go.gov.sg/smartnationscholar](https://www.go.gov.sg/smartnationscholar){:target="_blank"}*
 
