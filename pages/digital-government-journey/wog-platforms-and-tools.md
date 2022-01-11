@@ -15,4 +15,4 @@ GovTech is the lead government agency driving Singapore's public sector digital 
 The Singapore Government Tech Stack is an example of this as it provides all government agencies with a common suite of tools and services on a shared infrastructure to allow for faster application development and quality maintenance within the government. 
 
 **Topics**
-- Efficient Management of WOG Pre-Booking Services through Tech (https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools/efficient-management-of-wog-pre-booking-services-through-tech){:target="_blank"} 
+- [Efficient Management of WOG Pre-Booking Services through Tech](https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools/efficient-management-of-wog-pre-booking-services-through-tech){:target="_blank"} 
