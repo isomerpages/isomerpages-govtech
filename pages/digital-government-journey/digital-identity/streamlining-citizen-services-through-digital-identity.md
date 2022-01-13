@@ -26,7 +26,13 @@ Accessibility features like a dark mode and screen reader compatibility help the
 
 Singpass is continually enhanced and updated through regular user testing and public feedback. GovTech also collaborates with the Infocomm Media Development Authority’s (IMDA) SG Digital Office to educate users who may need more assistance using Singpass.
 
-![Fig 1: Adoption and utilisation levels for Singpass](/images/digital-transformation/Streamlining_Fig_1.png)*Fig 1: Adoption and utilisation levels for Singpass*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Streamlining_Fig_1.png" 
+    alt="Fig 1: Singpass' Adoption and Utilisation Levels"
+  />
+  <figcaption>Fig 1: Singpass' Adoption and Utilisation Levels</figcaption>
+</figure>
 
 ## Myinfo
 
@@ -34,7 +40,13 @@ Myinfo is a personal data platform that allows citizens and permanent residents 
 
 Currently, over 700 digital services from the government and private sector are integrated with Myinfo. Businesses have also reported an 80% adoption by eligible customers, with an 80% reduction in transaction time due to instant verification and reduction of manual work. A 20% increase in transaction completion due to better UX and a 15% increase in approvals due to better data quality were also reported.   
 
-![Fig 2: Adoption levels and benefits of Myinfo](/images/digital-transformation/Streamlining_Fig_2.png)*Fig 2: Adoption levels and benefits of Myinfo*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Streamlining_Fig_2.png" 
+    alt="Fig 2: Myinfo's Adoption Levels and Benefits"
+  />
+  <figcaption>Fig 2: Myinfo's Adoption Levels and Benefits</figcaption>
+</figure>
 
 ## Singapore Financial Data Exchange (SGFinDex)
 
@@ -44,7 +56,13 @@ Through SGFinDex, individuals can better manage their finances and retrieve pers
 
 Since its public release on 7 December 2020, SGFinDex has boasted over 150,000 unique sign ups, with 290,000 bank accounts linked to it and 620,000 data retrievals made.
 
-![Fig 3: Adoption and utilisation levels for SGFinDex](/images/digital-transformation/Streamlining_Fig_3.png)*Fig 3: Adoption and utilisation levels for SGFinDex*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Streamlining_Fig_3.png" 
+    alt="Fig 3: SGFinDex's Adoption and Utilisation Levels"
+  />
+  <figcaption>Fig 3: SGFinDex's Adoption and Utilisation Levels</figcaption>
+</figure>
 
 Find out more about our citizen digital identity services here:
 *	[Singpass](https://www.developer.tech.gov.sg/technologies/digital-identity/singpass.html){:target="_blank"}
