@@ -30,6 +30,7 @@ As part of our efforts to support businesses in Singapore, more services will be
   <figcaption>Fig 1: Gobusiness' Adoption and Utilisation Levels</figcaption>
 </figure>
 
+
 Find out more about our centralised business hub here:
 *	[GoBusiness](https://www.developer.tech.gov.sg/technologies/platform/gobusiness.html){:target="_blank"}
 
