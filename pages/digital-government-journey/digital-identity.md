@@ -30,4 +30,4 @@ Today, Singpass has a user base of more than 4.2 million users and provides conv
 
 **Topics**
 - [Streamlining Citizen Services through Digital Identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/streamlining-citizen-services-through-digital-identity){:target="_blank"}
-- [Safer, more convenient business transactions with a corporate digital identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/safer-more-convenient-business-transactions-with-a-corporate-digital-identity){:target="_blank"}
+- [Safer, More Convenient Business Transactions with a Corporate Digital Identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/safer-more-convenient-business-transactions-with-a-corporate-digital-identity){:target="_blank"}
