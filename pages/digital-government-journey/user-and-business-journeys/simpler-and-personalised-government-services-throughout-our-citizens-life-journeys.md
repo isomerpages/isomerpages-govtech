@@ -16,11 +16,13 @@ Our goal is to deliver a seamless digital experience when accessing government s
 
 ## LifeSG
 
+
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rBZVBNzhIqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
 
 Through the app, users can apply for government assistance schemes, benefits, events and more. For intuitive use and a personalised experience, government services are grouped according to major life milestones and relevant events. These include birth registration and applying for the baby bonus (family and parenting), buying an HDB flat (housing and property), signing up for skills upgrading (career and employment), and finding out how to manage healthcare costs in Singapore.
 
