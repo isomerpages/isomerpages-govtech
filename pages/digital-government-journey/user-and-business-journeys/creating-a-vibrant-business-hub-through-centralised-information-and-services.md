@@ -22,6 +22,14 @@ Designed to be a one-stop portal for business owners, GoBusiness receives a mont
 
 As part of our efforts to support businesses in Singapore, more services will be progressively added to the GoBusiness platform. Come 2022, a new personalised dashboard recommending relevant e-services will be launched to improve discoverability of these e-services and provide more comprehensive user journeys that cater to different business profiles.
 
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig 1 Gobusiness' adoption and utilisation levels.png" 
+    alt="Fig 1: Gobusiness' Adoption and Utilisation Levels.png"
+  />
+  <figcaption>Fig 1: Gobusiness' Adoption and Utilisation Levels</figcaption>
+</figure>
+
 Find out more about our centralised business hub here:
 *	[GoBusiness](https://www.developer.tech.gov.sg/technologies/platform/gobusiness.html){:target="_blank"}
 
