@@ -47,7 +47,6 @@ Currently, over 99% of Singaporeans are currently using TraceTogether as a commu
   <figcaption>Fig 1: TraceTogether's International and National Adoption Levels and Benefits</figcaption>
 </figure>
 
-
 Find out more about our COVID-19 tech here:
 * [GoWhere Suite](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/gowhere-suite){:target="_blank"}
 *	[Video Analytics System](https://www.developer.tech.gov.sg/technologies/analytics/vas.html){:target="_blank"} 
