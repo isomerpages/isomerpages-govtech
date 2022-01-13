@@ -1,12 +1,12 @@
 ---
 layout: simple-page
-title: Safer, more convenient business transactions with a corporate digital identity
+title: Safer, More Convenient Business Transactions with a Corporate Digital Identity
 description: Singapore’s Corporate Digital Identity platforms facilitate secure and seamless G2B, B2B and B2C transactions, while accelerating digital transformation of our business hub.
 permalink: /singapore-digital-government-journey/digital-identity/safer-more-convenient-business-transactions-with-a-corporate-digital-identity
-breadcrumb: Safer, more convenient business transactions with a corporate digital identity
+breadcrumb: Safer, More Convenient Business Transactions with a Corporate Digital Identity
 ---
 
-![Safer, more convenient business transactions with a corporate digital identity](/images/digital-transformation/Safer_more_convenient_business_transactions_with_CDI_Banner.png)
+![Safer, More Convenient Business Transactions with a Corporate Digital Identity](/images/digital-transformation/Safer_more_convenient_business_transactions_with_CDI_Banner.png)
 
 ---
 
