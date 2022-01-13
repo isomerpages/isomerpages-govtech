@@ -16,3 +16,4 @@ The Singapore Government Tech Stack is an example of this as it provides all gov
 
 **Topics**
 - [Efficient Management of WOG Pre-Booking Services through Tech](https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools/efficient-management-of-wog-pre-booking-services-through-tech){:target="_blank"} 
+- [Streamlining the Building of a Digital Government Through a Shared Tech Stack](https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools/streamlining-the-building-of-a-digital-government-through-a-shared-tech-stack){:target="_blank"} 
