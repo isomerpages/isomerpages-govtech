@@ -39,6 +39,15 @@ The Singapore Government has also donated TraceTogetherâ€™s open-sourced code â€
 
 Currently, over 99% of Singaporeans are currently using TraceTogether as a community effort to reduce the spread of COVID-19. Through digital contact tracing, the timeline to issue a quarantine order has been lessened from four days to under two days.  
 
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig 1 TraceTogether's international and national adoption levels and benefits.png" 
+    alt="Fig 1: TraceTogether's International and National Adoption Levels and Benefits.png"
+  />
+  <figcaption>Fig 1: TraceTogether's International and National Adoption Levels and Benefits</figcaption>
+</figure>
+
+
 Find out more about our COVID-19 tech here:
 * [GoWhere Suite](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/gowhere-suite){:target="_blank"}
 *	[Video Analytics System](https://www.developer.tech.gov.sg/technologies/analytics/vas.html){:target="_blank"} 
