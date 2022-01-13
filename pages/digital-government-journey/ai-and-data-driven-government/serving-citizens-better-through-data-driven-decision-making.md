@@ -2,7 +2,7 @@
 layout: simple-page
 title: Serving Citizens Better through Data-Driven Decision Making
 description: GovTech’s Smart Nation Sensor Platform, Whole-of-Government Application Analytics and Personalise tech enable us to serve our citizens and businesses with data-driven solutions.
-permalink: /singapore-digital-government-journey/ai-and-data-driven-government/serving-citizens-better-through-data-driven-decision-makingr
+permalink: /singapore-digital-government-journey/ai-and-data-driven-government/serving-citizens-better-through-data-driven-decision-making
 breadcrumb: Serving Citizens Better through Data-Driven Decision Making
 ---
 
