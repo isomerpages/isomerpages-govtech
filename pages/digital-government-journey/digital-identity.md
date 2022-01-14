@@ -20,7 +20,14 @@ On top of providing citizens with seamless and secure online experiences, we env
 
 Today, Singpass has a user base of more than 4.2 million users and provides convenient and secure access to over 1,700 services by more than 460 government and private sector organisations. Singpass facilitates about 300 million personal and corporate transactions every year and serves approximately 97% of Singapore Citizens and Permanent Residents aged 15 and above, making it one of the most pervasively adopted national digital identity systems in the world.
 
-![Fig 1: National adoption and transaction figures for Singpass](/images/digital-transformation/singpass-infographic.png)*Fig 1: National adoption and transaction figures for Singpass*
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/singpass-infographic.png" 
+    alt="Fig 1: Singpass' National Adoption and Transaction Figures"
+  />
+  <figcaption>Fig 1: Singpass' National Adoption and Transaction Figures</figcaption>
+</figure>
 
 **Topics**
 - [Streamlining Citizen Services through Digital Identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/streamlining-citizen-services-through-digital-identity){:target="_blank"}
+- [Safer, More Convenient Business Transactions with a Corporate Digital Identity](https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity/safer-more-convenient-business-transactions-with-a-corporate-digital-identity){:target="_blank"}
