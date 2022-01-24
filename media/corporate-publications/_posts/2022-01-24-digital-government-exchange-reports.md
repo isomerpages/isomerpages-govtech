@@ -25,4 +25,4 @@ The platform also features technical Working Groups (WGs) where countries and ci
 
 Given the COVID-19 pandemic, a special edition of the Digital Government Exchange Safe Travel Working Group was convened in 2021. Digital governments and smart cities discussed safe travel solutions such as the generation of digital health certificates, cross-border verification, and open-sourced technical specifications or frameworks. These insights have been published on the United Nations Department of Economic and Social Affairs Public Institutions [blog](https://publicadministration.un.org/fr/Home/Blog){:target="_blank"}.
 
-Feel free to contact us at [tmo@tech.gov.sg]{:target="_blank"} for more information.
+Feel free to contact us at (tmo@tech.gov.sg){:target="_blank"} for more information.
