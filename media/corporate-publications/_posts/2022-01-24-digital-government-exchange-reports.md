@@ -39,6 +39,6 @@ Given the COVID-19 pandemic, a special edition of the Digital Government Exchang
 
 Our working groups have produced in depth reports studying various digital government topics across the years as shown below.
 
-- ["Digital Identiy in responnse to Covid-19" by the DGX Digital Identity Working Group in 2021](/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf){:target="_blank"}
+- ["Digital Identity in response to Covid-19" by the DGX Digital Identity Working Group in 2021](/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf){:target="_blank"}
 
 Feel free to contact us at <tmo@tech.gov.sg> for more information.
