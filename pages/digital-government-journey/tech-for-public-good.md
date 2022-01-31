@@ -18,3 +18,4 @@ By driving a whole of government (WOG) digital transformation strategy and engag
 
 **Topics**
 - [Combatting COVID-19 with Tech](https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/combatting-covid19-with-tech){:target="_blank"}
+- [Empowering Vulnerable Communities through Tech](https://www.tech.gov.sg/singapore-digital-government-journey/empowering-vulnerable-communities-through-tech){:target="_blank"}
