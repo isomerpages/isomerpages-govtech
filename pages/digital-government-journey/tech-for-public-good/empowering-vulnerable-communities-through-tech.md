@@ -6,7 +6,7 @@ permalink: /singapore-digital-government-journey/tech-for-public-good/empowering
 breadcrumb: Empowering Vulnerable Communities through Tech 
 ---
 
-![Combatting COVID-19 with Tech](images/digital-transformation/Empowering vulnerable communities through tech.jpg)
+![empowering vulnerable communities through tech](images/digital-transformation/Empowering vulnerable communities through tech.jpg)
 
 ---
 Technology can empower and improve the quality of life for those in vulnerable communities. Some benefits of assistive technologies include improved accessibility and independence for persons with disabilities (PWDs) and seniors. To generate greater social impact from digital tools and applications, digital governments should take the lead in accelerating their development.
