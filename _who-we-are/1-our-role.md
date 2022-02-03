@@ -44,4 +44,3 @@ Today, technology is no longer an enabler but a disruptor of business models. It
 
 Citizens would not be passive consumers of technology. They will participate and co-create with the Government, determining the services they wish to have. As increasingly active stakeholders, they will shape the country.
 
-![People at GovTech Hive](/images/our-role/our-role-people.png)
