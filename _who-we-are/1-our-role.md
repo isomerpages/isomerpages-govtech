@@ -58,7 +58,6 @@ Today, technology is no longer an enabler but a disruptor of business models. It
 * At home, smart monitoring systems help the elderly live more independent lives. Dialect-speaking apps speak the language of many seniors in Singapore, reaching out in a familiar, friendly voice.
 * An SME owner can benefit from automated licensing from ACRA. Smart forms incrementally ask him for the right information. A National Trade Platform helps him with the import and financing of products.
 * For a young family, a digitised school transport system helps make travel more efficient. Student learning spaces enable children to learn online, at their pace. Automated transport pods make it easier to get around at smart HDB precincts.
-
 * Services in future will be event-driven. They anticipate users’ needs and deliver what’s needed, even before they have to ask for it. They will enhance the convenience of everyday processes, making for a seamless experience with the Government.
 
 Citizens would not be passive consumers of technology. They will participate and co-create with the Government, determining the services they wish to have. As increasingly active stakeholders, they will shape the country.
