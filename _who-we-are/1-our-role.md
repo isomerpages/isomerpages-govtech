@@ -31,18 +31,18 @@ GovTech plays a vital role in materialising Singapore’s Smart Nation vision. W
 * Services
 * Cybersecurity & Governance
 
-1. Products
+**Products**
 
 * We have over 700 in-house developers who develop products for citizens, businesses and the whole of government (WOG) and spearhead [Strategic National Projects](https://www.smartnation.gov.sg/initiatives/strategic-national-projects){:target="_blank"}.
 * We also have capability centres in Digital Services, Sensors & IoT, Data Science & AI, Cybersecurity, and ICT Infrastructure.
 * GovTech’s Products team also manages the WOG digital infrastructure. This covers the migration to commercial cloud, management of data centres and the deployment of digital devices across the government.
 
-2. Services
+**Services**
 
 * The Services group is the biggest of the three, making up more than half of GovTech’s manpower.
 * The Services group plays a key role in managing technology across over 60% of Singapore’s government agencies.
 
-3. Cybersecurity & Governance
+**Cybersecurity & Governance**
 
 * GovTech is the sector lead for cybersecurity in the Singapore government. This means that the Chief Information Security Officer of the Singapore government is housed by GovTech.
 * To ensure the safety and security of government digital structures, our Governance group sets WOG ICT policies and guidelines.
