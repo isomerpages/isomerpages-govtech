@@ -24,13 +24,32 @@ Today’s government digital services are held to the highest standards by users
 
 This is a timely development, as the digital age is now under way. Digital technologies are acting as agents for change in everything from business to government, disrupting established industries and giving rise to new companies that dominate their fields.
 
-### **Building Smart Nation Capabilities and Expertise**
+### **Building a Smart Nation & Digital Government**
 
-At GovTech, we believe infocomm technologies are powerful catalysts for change. This speed of change will accelerate through innovations such as robotics, artificial intelligence, Internet of Things and Big Data in the years ahead.
+GovTech plays a vital role in materialising Singapore’s Smart Nation vision. With over 3,000 employees, we aspire to attract the best tech talent to contribute to Singapore’s digital government services. Our work can be broadly classified into three areas:
+* Products
+* Services
+* Cybersecurity & Governance
 
-They are also crucial to Singapore’s ambition to be a Smart Nation. In creating the country’s platform and apps, GovTech plays a vital role in making the Smart Nation vision a reality. We will develop new capabilities that are needed. We aim to attract the best engineering talent to these shores.
+1. Products
 
-Ultimately, we seek to improve the lives of citizens and promote innovative collaborations among enterprises. We want stronger communities and a more responsive public service. What we have is a clear focus – to create and deliver a citizen-centric user experience that makes things easier. 
+* We have over 700 in-house developers who develop products for citizens, businesses and the whole of government (WOG) and spearhead [Strategic National Projects](https://www.smartnation.gov.sg/initiatives/strategic-national-projects){:target="_blank"}.
+* We also have capability centres in Digital Services, Sensors & IoT, Data Science & AI, Cybersecurity, and ICT Infrastructure.
+* GovTech’s Products team also manages the WOG digital infrastructure. This covers the migration to commercial cloud, management of data centres and the deployment of digital devices across the government.
+
+2. Services
+
+* The Services group is the biggest of the three, making up more than half of GovTech’s manpower.
+* The Services group plays a key role in managing technology across over 60% of Singapore’s government agencies.
+
+3. Cybersecurity & Governance
+
+* GovTech is the sector lead for cybersecurity in the Singapore government. This means that the Chief Information Security Officer of the Singapore government is housed by GovTech.
+* To ensure the safety and security of government digital structures, our Governance group sets WOG ICT policies and guidelines.
+
+We believe infocomm technologies are powerful catalysts for change. This speed of change will accelerate through innovations such as Robotics, Artificial Intelligence, Internet of Things and Big Data in the years ahead.
+
+Ultimately, we seek to improve the lives of citizens and promote innovative collaborations among enterprises. We want stronger communities and a more responsive public service. What we have is a clear focus – to create and deliver a citizen-centric user experience that makes things easier.
 
 ### **Co-creating a Technology-Enabled Future**
 
@@ -44,3 +63,4 @@ Today, technology is no longer an enabler but a disruptor of business models. It
 
 Citizens would not be passive consumers of technology. They will participate and co-create with the Government, determining the services they wish to have. As increasingly active stakeholders, they will shape the country.
 
+![GovTech](/images/our-role/brand-video-cover2.png)
