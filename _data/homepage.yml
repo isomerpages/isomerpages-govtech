@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/homepage-banner-technews4.png
+hero-banner: /images/homepage-banner-telegram-feb22.png
 
 #Call to Action Button
 button:
   - text: Subscribe Here
-    url: /media/technews/subscribe/?utm_source=hero_banner
+    url: https://go.gov.sg/tg-websitecampaign-01
     
 # Key Highlights
 key-highlights:
