@@ -31,5 +31,5 @@ GovTech strives to improve the LifeSG app by progressively adding new features b
 The app has also demonstrated its vast one-stop functionalities by being the platform for the nation-wide offering of the SingaporeRediscovers tourism vouchers, an initiative aimed at revitalising Singapore’s economy in late 2020. Since the release of the vouchers on the app, more than 140,000 users have used it to view their vouchers.
 
 Find out more about the LifeSG app and how it helps users access government services easily here:
-*	[LifeSG](https://www.tech.gov.sg/products-and-services/lifesg/){:target="_blank"}
+*	[LifeSG](https://www.developer.tech.gov.sg/products/categories/platform/lifesg/overview.html){:target="_blank"}
 
