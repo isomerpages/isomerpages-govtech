@@ -47,7 +47,7 @@ To cultivate a data-driven community within the Government, the Agency Champions
 Through personalisation of government digital services, more effective targeting and engagement strategies can be developed to achieve policy-based outcomes. This facilitates stronger government-citizen relationships and builds trust in the government.
 
 Find out more about our data-driven government solutions here:
-*	[WOGAA](https://www.developer.tech.gov.sg/technologies/analytics/wogaa.html){:target="_blank"}
-*	[SNSP](https://www.tech.gov.sg/products-and-services/smart-nation-sensor-platform/){:target="_blank"}
-*	[Personalise](https://www.developer.tech.gov.sg/technologies/analytics/personalise.html){:target="_blank"}
+*	[WOGAA](https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html){:target="_blank"}
+*	[SNSP](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/){:target="_blank"}
+*	[Personalise](https://www.developer.tech.gov.sg/products/categories/analytics/personalise/overview.html){:target="_blank"}
 
