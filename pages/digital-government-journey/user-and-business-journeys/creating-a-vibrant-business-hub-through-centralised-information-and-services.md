@@ -31,5 +31,5 @@ As part of our efforts to support businesses in Singapore, more services will be
 </figure>
 
 Find out more about our centralised business hub here:
-*	[GoBusiness](https://www.developer.tech.gov.sg/technologies/platform/gobusiness.html){:target="_blank"}
+*	[GoBusiness](https://www.developer.tech.gov.sg/products/categories/platform/gobusiness/overview.html){:target="_blank"}
 
