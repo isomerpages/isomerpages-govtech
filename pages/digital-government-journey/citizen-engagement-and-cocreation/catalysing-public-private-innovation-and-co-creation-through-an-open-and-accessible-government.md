@@ -30,5 +30,5 @@ Tech Kaki is a user insights community set up by GovTech to encourage citizen en
 
 Find out more about our public-private innovation and co-creation opportunities here:
 *	[Open-source Tech](https://www.developer.tech.gov.sg/technologies/open-source/){:target="_blank"}
-*	[STACK Community](https://www.developer.tech.gov.sg/communities/events/overview){:target="_blank"}
+*	[STACK Community](https://www.developer.tech.gov.sg/communities/events/overview.html){:target="_blank"}
 *	[Tech Kaki](https://www.tech.gov.sg/products-and-services/tech-kaki-community/){:target="_blank"}
