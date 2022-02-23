@@ -48,8 +48,8 @@ Currently, over 99% of Singaporeans are currently using TraceTogether as a commu
 </figure>
 
 Find out more about our COVID-19 tech here:
-* [GoWhere Suite](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/gowhere-suite){:target="_blank"}
-*	[Video Analytics System](https://www.developer.tech.gov.sg/technologies/analytics/vas.html){:target="_blank"} 
-*	[SafeEntry](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/safeentry.html){:target="_blank"}
-*	[TraceTogether](https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/tracetogether.html){:target="_blank"}
+* [GoWhere Suite](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html){:target="_blank"}
+*	[Video Analytics System](https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html){:target="_blank"} 
+*	[SafeEntry](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/safeentry/overview.html){:target="_blank"}
+*	[TraceTogether](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html){:target="_blank"}
 
