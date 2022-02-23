@@ -24,5 +24,5 @@ The SGDS ensures that all government services are united by a common UI language
 
 Find out more about our inclusive digital services here:
 *	[Digital Service Standard](https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html){:target="_blank"}
-*	[Singapore Government Design System](https://www.developer.tech.gov.sg/technologies/design/singapore-government-design-system.html){:target="_blank"}
+*	[Singapore Government Design System](https://www.developer.tech.gov.sg/products/categories/design/singapore-government-design-system/overview.html){:target="_blank"}
 
