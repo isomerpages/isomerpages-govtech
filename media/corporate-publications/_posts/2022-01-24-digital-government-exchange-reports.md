@@ -10,7 +10,7 @@ permalink: "/media/corporate-publications/digital-government-exchange-reports"
     src="/images/media/corporate-publications/2016/01/dgx_2019_group_picture.png" width="80%" height="80%"
     alt="The annual DGX in Singapore where digital governments hold closed-door discussions on the most relevant issues around the world."
   />
-  <figcaption>The annual DGX in Singapore where digital governments hold closed-door discussions on the most relevant issues around the world.</figcaption>
+  <figcaption>The annual DGX in Singapore where digital governments hold closed-door discussions on the most relevant issues around the world. (Taken in 2019, prior to COVID-19)</figcaption>
 </figure>
 
 ### DGX Working Groups
