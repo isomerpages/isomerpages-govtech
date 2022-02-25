@@ -39,6 +39,6 @@ Myinfo business has powered over 190 digital services, facilitated an average of
 </figure>
 
 Find out more about our digital identity services for businesses here:
-*	[Corppass](https://www.developer.tech.gov.sg/technologies/digital-identity/corppass.html){:target="_blank"}
-*	[Myinfo business](https://www.developer.tech.gov.sg/technologies/digital-identity/myinfo-business.html){:target="_blank"}
+*	[Corppass](https://www.developer.tech.gov.sg/products/categories/digital-identity/corppass/overview.html){:target="_blank"}
+*	[Myinfo business](https://www.developer.tech.gov.sg/products/categories/digital-identity/myinfo-business/overview.html){:target="_blank"}
 

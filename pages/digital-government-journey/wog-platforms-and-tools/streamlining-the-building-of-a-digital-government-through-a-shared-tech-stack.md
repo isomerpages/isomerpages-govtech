@@ -44,6 +44,6 @@ Currently, APEX services over 100 million API calls monthly and supports approxi
 
 Find out more about our government technology stack here:
 * [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html){:target="_blank"}
-* [Government on Commercial Cloud](https://www.developer.tech.gov.sg/technologies/infrastructure-and-hosting/government-on-commercial-cloud.html){:target="_blank"}
-* [APEX](https://www.developer.tech.gov.sg/technologies/data-and-apis/apex.html){:target="_blank"}
+* [Government on Commercial Cloud](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html){:target="_blank"}
+* [APEX](https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex/overview.html){:target="_blank"}
 

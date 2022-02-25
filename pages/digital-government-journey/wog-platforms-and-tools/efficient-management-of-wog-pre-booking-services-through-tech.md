@@ -23,5 +23,5 @@ BookingSG enables government agencies to offer pre-booking services to citizens,
 BookingSG is well fitted for both its administrators and end users as it can be leveraged as a Calendaring, Availability, Rostering and Booking (CARB) management tool by agencies or as part of a user journey by citizens. It can also be used as an engine to serve highly complicated use cases by integrating BookingSG’s API to access its CARB logic. 
 
 Find out more about our WOG pre booking services here:
-* [BookingSG](https://www.developer.tech.gov.sg/technologies/data-and-apis/bookingsg.html){:target="_blank"}
+* [BookingSG](https://www.developer.tech.gov.sg/products/categories/data-and-apis/bookingsg/overview.html){:target="_blank"}
 

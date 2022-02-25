@@ -65,7 +65,7 @@ Since its public release on 7 December 2020, SGFinDex has boasted over 150,000 u
 </figure>
 
 Find out more about our citizen digital identity services here:
-*	[Singpass](https://www.developer.tech.gov.sg/technologies/digital-identity/singpass.html){:target="_blank"}
-*	[Myinfo](https://www.developer.tech.gov.sg/technologies/digital-identity/myinfo.html){:target="_blank"}
-*	[SGFindex](https://www.developer.tech.gov.sg/technologies/digital-identity/sgfindex.html){:target="_blank"}
+*	[Singpass](https://www.developer.tech.gov.sg/products/categories/digital-identity/singpass/overview.html){:target="_blank"}
+*	[Myinfo](https://www.developer.tech.gov.sg/products/categories/digital-identity/myinfo/overview.html){:target="_blank"}
+*	[SGFindex](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"}
 
