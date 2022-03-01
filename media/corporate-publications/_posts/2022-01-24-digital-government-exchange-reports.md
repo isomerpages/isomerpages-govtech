@@ -34,6 +34,6 @@ Our working groups have produced in depth reports studying various digital gover
 **DGX WGs 2021**
 - [Cloud governance by the DGX Cloud Working Group](/files/media/corporate-publications/FY2021/DGX Cloud Working Group Report 2021 - Baseline Policies.pdf){:target="_blank"}
 - ["Digital Identity in response to COVID-19" by the DGX Digital Identity Working Group](/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf){:target="_blank"}
-- [Dgitial Maturity Minimum Viable Product (MVP) framework by the DGX Digital Identity Working Group](/files/media/corporate-publications/FY2021/DGX Digital Maturity Working Group Report 2021 - Digital Maturity MVP.pdf){:target="_blank"}
+- [Digitial Maturity Minimum Viable Product (MVP) framework by the DGX Digital Identity Working Group](/files/media/corporate-publications/FY2021/DGX Digital Maturity Working Group Report 2021 - Digital Maturity MVP.pdf){:target="_blank"}
 
 Feel free to contact us at <tmo@tech.gov.sg> for more information.
