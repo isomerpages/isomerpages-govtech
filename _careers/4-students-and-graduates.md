@@ -53,7 +53,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![Alternative text for screen readers](/images/careers/Internship_Infographic.png)   
 
 **How can you apply?**
-<br> We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2022-Internship_JR-10000007096){:target="_blank"}
+<br> We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. Application will close on 31 March 2022. [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2022-Internship_JR-10000007096){:target="_blank"}
 
 ### **Technology Associate Programme**
 An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
