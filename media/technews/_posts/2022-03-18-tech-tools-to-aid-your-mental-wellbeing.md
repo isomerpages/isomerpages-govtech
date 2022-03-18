@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How ‘Tech tools to aid your mental well being"
+title: "Tech tools to aid your mental well-being"
 permalink: "/media/technews/tech-tools-to-aid-your-mental-wellbeing"
 category: technews
 image: "images/technews/mentalwellbeing.jpg"
