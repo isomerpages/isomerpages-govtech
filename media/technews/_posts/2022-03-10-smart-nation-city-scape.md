@@ -68,4 +68,4 @@ Location and Opening hours:
 ●	Located at 45 Maxwell Road, The URA Centre, Singapore 069118. 
 ●	Mondays to Saturdays, 9am to 5pm.
 More details click [here!](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Key-Highlights-details/SmartNation-Cityscape-details)
-https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Key-Highlights-details/SmartNation-Cityscape-details
+
