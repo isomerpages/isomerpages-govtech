@@ -7,7 +7,7 @@ image: "images/technews/CityScape.jpeg"
 ---
 How long has it been since you last travelled? The only right answer is that it’s been too long.  
 
-Well, for everyone who’s sick of visiting the same few brunch places over and over again, here’s something different to try! We’ve taken URA’s already popular [Singapore City Gallery](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery) at the URA Centre and augmented it with new features to showcase what Smart Nation is all about. Welcome to the [Smart Nation CityScape!](www.smartnation.gov.sg/community/showcases/cityscape)
+Well, for everyone who’s sick of visiting the same few brunch places over and over again, here’s something different to try! We’ve taken URA’s already popular [Singapore City Gallery](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery) at the URA Centre and augmented it with new features to showcase what Smart Nation is all about. Welcome to the [Smart Nation CityScape!](https://www.smartnation.gov.sg/community/showcases/cityscape)
 
 
 ---
@@ -67,4 +67,5 @@ Location and Opening hours:
 
 ●	Located at 45 Maxwell Road, The URA Centre, Singapore 069118. 
 ●	Mondays to Saturdays, 9am to 5pm.
-More details click [here!](www.smartnation.gov.sg/community/showcases/cityscape)
+More details click [here!](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Key-Highlights-details/SmartNation-Cityscape-details)
+https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Key-Highlights-details/SmartNation-Cityscape-details
