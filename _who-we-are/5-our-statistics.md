@@ -4,6 +4,7 @@ title: Our Statistics
 permalink: /who-we-are/our-statistics/
 breadcrumb: Our Statistics
 collection_name: who-we-are
+image: "images/our-statistics/Digital-Government-Perception-2021-Citizens.png"
 ---
 ### **Annual Survey on Satisfaction with Government Digital Services (Citizens) - For 2021**
 
