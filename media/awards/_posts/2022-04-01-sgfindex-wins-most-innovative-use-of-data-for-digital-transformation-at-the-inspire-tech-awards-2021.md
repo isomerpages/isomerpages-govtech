@@ -17,7 +17,7 @@ The [Singapore Financial Data Exchange (SGFinDex)]( https://www.developer.tech.g
 
 *“SGFinDex exemplifies the close collaboration between public and private sectors through the use of digital technology to enhance the financial well-being of Singaporeans. Through SGFinDex, individuals can have greater clarity of their financial health and plan their finances holistically.”*
 
-**Damien Pang, Executive Director, Monetary Authority of Singapore**
+<i><b>Damien Pang, Executive Director, Monetary Authority of Singapore</b></i>
 
 [SGFinDex](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"} is a joint initiative by the [Monetary Authority of Singapore (MAS)]( https://www.mas.gov.sg/development/fintech/sgfindex) {:target="_blank"} and the Smart Nation and Digital Government Group (SNDGG) in collaboration with [The Association of Banks in Singapore]( https://abs.org.sg/consumer-banking/sgfindex){:target="_blank"} and seven participating banks. It is the world's first public digital infrastructure to utilise a National Digital Identity (Singpass) and a centrally managed online consent system to enable individuals to access their financial data held across different government agencies and financial institutions. Find out more about SGFinDex [here]( https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html) {:target="_blank"}.
 
@@ -25,7 +25,7 @@ The [Singapore Financial Data Exchange (SGFinDex)]( https://www.developer.tech.g
 
 We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!”</i>
 
-**Kendrick Lee, Director, Trusted Data Division, National Digital Identity**
+<i><b>**Kendrick Lee, Director, Trusted Data Division, National Digital Identity</b></i>
 
 We welcome international collaborators to work with us on similar projects by writing to us at <info@tech.gov.sg>.
 
