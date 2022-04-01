@@ -25,7 +25,7 @@ The [Singapore Financial Data Exchange (SGFinDex)]( https://www.developer.tech.g
 
 We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!”</i>
 
-<i><b>**Kendrick Lee, Director, Trusted Data Division, National Digital Identity</b></i>
+<i><b>Kendrick Lee, Director, Trusted Data Division, National Digital Identity</b></i>
 
 We welcome international collaborators to work with us on similar projects by writing to us at <info@tech.gov.sg>.
 
