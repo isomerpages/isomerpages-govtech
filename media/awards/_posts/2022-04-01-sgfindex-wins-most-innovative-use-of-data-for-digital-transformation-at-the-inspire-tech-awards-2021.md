@@ -8,7 +8,7 @@ permalink: "/media/awards/2022-04-01-sgfindex-wins-most-innovative-use-of-data-f
 <figure style="text-align: center">
   <img
     src="/images/media/awards/sgfindex-wins-inspire-tech-awards.jpg" width="80%" height="80%"
-    alt="The annual DGX in Singapore where digital governments hold closed-door discussions on the most relevant issues around the world."
+    alt="Kendrick Lee, Director, Trusted Data Division, National Digital Identity, GovTech receiving the award for SGFinDex at the INSPIRE Tech Awards 2021 ceremony"
   />
   <figcaption>Kendrick Lee, Director, Trusted Data Division, National Digital Identity, GovTech receiving the award for SGFinDex at the INSPIRE Tech Awards 2021 ceremony</figcaption>
 </figure>
