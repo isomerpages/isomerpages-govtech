@@ -23,7 +23,7 @@ The [Singapore Financial Data Exchange (SGFinDex)]( https://www.developer.tech.g
 
 *”SGFinDex has helped equip Singaporeans with a more robust digital solution for their financial needs, with over 150,000 unique user sign-ups, 290,000 bank accounts linked, and 620,000 data retrievals made in the last year.
 
-We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!”*
+We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!” *
 
 **Kendrick Lee, Director, Trusted Data Division, National Digital Identity**
 
