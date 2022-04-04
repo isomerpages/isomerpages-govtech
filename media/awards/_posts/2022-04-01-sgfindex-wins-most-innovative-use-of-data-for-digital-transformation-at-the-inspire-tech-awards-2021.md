@@ -13,7 +13,7 @@ permalink: "/media/awards/2022-04-01-sgfindex-wins-most-innovative-use-of-data-f
   <figcaption>Kendrick Lee, Director, Trusted Data Division, National Digital Identity, GovTech receiving the award for SGFinDex at the INSPIRE Tech Awards 2021 ceremony</figcaption>
 </figure>
 
-The [Singapore Financial Data Exchange (SGFinDex)](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"} has won the Most Innovative Use of Data for Digital Transformation award at the INSPIRE Tech Awards 2021. By winning this award, Singapore illustrates the importance, possibilities and impact of public-private sector collaborations, consent-based data-driven innovations and trusted online systems.
+The [Singapore Financial Data Exchange (SGFinDex)](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"} has won the Most Innovative Use of Data for Digital Transformation award at the [INSPIRE Tech Awards 2021](https://cioacademyasia.org/inspire-tech-awards-2021/){:target="_blank"}. By winning this award, Singapore illustrates the importance, possibilities and impact of public-private sector collaborations, consent-based data-driven innovations and trusted online systems.
 
 *“SGFinDex exemplifies the close collaboration between public and private sectors through the use of digital technology to enhance the financial well-being of Singaporeans. Through SGFinDex, individuals can have greater clarity of their financial health and plan their finances holistically.”*
 
