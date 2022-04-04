@@ -21,9 +21,9 @@ The [Singapore Financial Data Exchange (SGFinDex)](https://www.developer.tech.go
 
 [SGFinDex](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"} is a joint initiative by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/development/fintech/sgfindex){:target="_blank"} and the Smart Nation and Digital Government Group (SNDGG) in collaboration with [The Association of Banks in Singapore](https://abs.org.sg/consumer-banking/sgfindex){:target="_blank"} and seven participating banks. It is the world's first public digital infrastructure to utilise a National Digital Identity (Singpass) and a centrally managed online consent system to enable individuals to access their financial data held across different government agencies and financial institutions. Find out more about SGFinDex [here](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"}.
 
-<i>”SGFinDex has helped equip Singaporeans with a more robust digital solution for their financial needs, with over 150,000 unique user sign-ups, 290,000 bank accounts linked, and 620,000 data retrievals made in the last year.
+<i>”SGFinDex has helped equip Singaporeans with a more robust digital solution for their financial needs, with over 150,000 unique user sign-ups, 290,000 bank accounts linked, and 620,000 data retrievals made in the last year.</i>
 
-We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!”</i>
+<i>We are delighted to receive this recognition. We will continue to partner with our industry partners to drive and improve consent-based data-driven innovations, and build trusted online ecosystems for better lives in Smart Nation Singapore!”</i>
 
 <i><b>Kendrick Lee, Director, Trusted Data Division, National Digital Identity</b></i>
 
