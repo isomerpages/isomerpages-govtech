@@ -11,8 +11,6 @@ recommender: false
 
 Join over 14,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips and behind-the-scenes stories.
 
-[View past newsletters.](https://us16.campaign-archive.com/home/?u=9326ff42459737140a6baa881&id=8b7e185878){:target="_blank"}
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
