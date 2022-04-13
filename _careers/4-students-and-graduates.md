@@ -49,7 +49,7 @@ Showcase your innovation and imagination by participating in GeekOut, a five-day
 
 This is a great opportunity to gain insights into various tech domains through workshops, forge connections with like-minded peers and GovTech’s leaders, and experience what it means to be Agile, Bold and Collaborative!
 
-Register at [go.gov.sg/geekout2022](go.gov.sg/geekout2022){:target="_blank"} and be a part of this exciting and enriching experience! Applications close on 29 April.
+Register at [go.gov.sg/geekout2022](https://form.gov.sg/#!/623413ee6484a40014a415ea){:target="_blank"} and be a part of this exciting and enriching experience! Applications close on 29 April.
 
 ### **Internships**
 Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for both current university and polytechnic students. If you have a passion for technology, and are team oriented, experience a tech internship with us today!
