@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/homepage-banner-1-employer-may22.jpg
+hero-banner: /images/homepage-banner-5-telegram-feb22.png
 
 #Call to Action Button
 button:
-  - text: Our Culture and Values
-    url: https://www.tech.gov.sg/who-we-are/our-culture-and-values/
+  - text: Subscribe Here
+    url: https://go.gov.sg/tg-websitecampaign-01
     
 # Key Highlights
 key-highlights:
