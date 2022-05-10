@@ -62,9 +62,11 @@ While [3D printed food](https://all3dp.com/2/3d-printed-food-3d-printing-food/) 
 
 ## I’m intrigued, how do I get started? 
 
-Three regional libraries have 3D printing machines that the public can use. Housed in the MakeIT spaces on the premises of those libraries, the printers are part of dedicated spaces with equipment for people to try out digital and traditional fabrication. 
+Three regional libraries (Jurong, Tampines and Woodlands) have 3D printing machines that the public can freely use. Housed within MakeIT on the premises of those libraries, these machines are part of dedicated public makerspaces with equipment for people to try out various forms of digital and traditional fabrication, including 3D printing, robotics, and other forms of tech-based tinkering.
 
-Only people who have attended one of the [3D Starter Sessions](https://www.eventbrite.com/c/makeit-library-makerspace-old-ccbwcbxm--qlNsjO8ELfpS/) will be allowed to reserve and use the 3D printers at MakeIT. The three-hour lesson will teach you how to search for 3D designs and how to safely use the 3D printers at MakeIt. 
+Only people who have attended one of the [3D Starter Sessions](https://www.eventbrite.sg/cc/makeit-at-libraries-programmes-104559) will be allowed to reserve and use the 3D printers in MakeIT at Libraries. The three-hour introductory lesson will teach newcomers on the fundamentals of 3D printing, including on how to create and edit 3D digital models, as well as safely turn them into actual items using the 3D printers in MakeIT.
+
+ 
 
 If you would like even more training, there are a number of SkillsFuture-approved courses such as a two-day course run by [Temasek Polytechnic.](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/basic-computer-aided-design-cad-3d-modelling-and-3d-printing.html) 
 
