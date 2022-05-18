@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Buyer Alert: Things to look out for in cryptocurrency "
+title: "Buyer Alert: Things to look out for in cryptocurrency"
 permalink: "/media/technews/things-to-look-out-for-in-cryptocurrency"
 category: technews
-image: "images/technews/crypto-pitfalls.jpg
+image: "images/technews/crypto-pitfalls.jpg"
 ---
 
 With the current talk of the town being the current crypto crash, it is imperative that investors understand what they are buying into when entering the market
