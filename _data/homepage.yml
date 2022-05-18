@@ -19,7 +19,7 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/SNB-Test-Banner1.PNG
+hero-banner: /images/SNB-Test-Banner2.PNG
 
 #Call to Action Button
 button:
