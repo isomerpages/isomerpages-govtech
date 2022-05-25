@@ -179,10 +179,7 @@ If any term of these Terms of Use is held by a court or tribunal of competent ju
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
-
 These Terms of Use are dated 25 May 2022.
-
- 
 
 **SCHEDULE**
 
@@ -197,5 +194,6 @@ b.	The Service may require you to use CrowdTaskSG. The use of CrowdTaskSG is sub
 **3.	Third party software/services**
 
 a.	[CrowdTaskSG Terms of Use](https://www.crowdtask.gov.sg/statement/termsofuse){:target="_blank"}
+
 
 
