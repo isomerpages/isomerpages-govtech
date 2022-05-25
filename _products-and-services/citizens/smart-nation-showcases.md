@@ -66,7 +66,7 @@ More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_bl
 
 For collaboration opportunities or enquiries, contact: info@tech.gov.sg
 
-*Smart Nation Builder [Terms of Use](https://www.tech.gov.sg/smart-nation-builder/snb-terms-of-use/){:target="_blank"} and [Privacy Statement](https://www.tech.gov.sg/smart-nation-builder/snb-privacy-statement/){:target="_blank"}.*
+*Smart Nation Builder [Terms of Use](/smart-nation-builder/snb-terms-of-use/){:target="_blank"} and [Privacy Statement](/smart-nation-builder/snb-privacy-statement/){:target="_blank"}.*
 
 
 
