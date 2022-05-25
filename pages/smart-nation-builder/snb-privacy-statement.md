@@ -20,7 +20,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 2.3.	The Service may utilise cookies to facilitate authentication and/or login to the Service. If such cookies are rejected, you might not be able to use the Service.
 
-3.	   Please see the Annex for any additional terms or information.
+3. Please see the Annex for any additional terms or information.
 
 **Use of data-**
 
@@ -48,7 +48,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 5.4.	For your convenience, we may also display to you data you had previously supplied us or other Public Sector Entities.  This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
-3A.	Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
+5A.	Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
 
 6.	You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
