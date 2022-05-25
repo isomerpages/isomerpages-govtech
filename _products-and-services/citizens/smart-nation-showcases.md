@@ -27,7 +27,7 @@ That’s not all. At the Smart Nation Builder, you can be the first to test prot
 
 **When & Where:** Various locations in Singapore. Check out where we’re heading to next at [go.gov.sg/snbuilder](https://go.gov.sg/snbuilder){:target="_blank"}!
 
-*Entry is free of charge.
+*Entry is free of charge.*
 
 
 ### **Smart Nation CityScape**
@@ -42,7 +42,7 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
 
 Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
 
-*Entry is free of charge.
+*Entry is free of charge.*
 
 
 ### **Smart Nation PlayScape**
@@ -59,14 +59,14 @@ When: Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.
 
 More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
 
-*Entry is free of charge for Singaporeans/Singapore PRs. 
+*Entry is free of charge for Singaporeans/Singapore PRs.* 
 
 
 #### Visit our showcases!
 
 For collaboration opportunities or enquiries, contact: info@tech.gov.sg
 
-*Smart Nation Builder [Terms of Use](/smart-nation-builder/snb-terms-of-use/){:target="_blank"} and [Privacy Statement](/smart-nation-builder/snb-privacy-statement/){:target="_blank"}.
+*Smart Nation Builder [Terms of Use](https://www.tech.gov.sg/smart-nation-builder/snb-terms-of-use/){:target="_blank"} and [Privacy Statement](https://www.tech.gov.sg/smart-nation-builder/snb-privacy-statement/){:target="_blank"}.*
 
 
 
