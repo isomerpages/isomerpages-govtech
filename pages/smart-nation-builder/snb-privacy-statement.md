@@ -10,9 +10,9 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 **General**
 
- 1. This is a Government agency digital service.
+1. This is a Government agency digital service.
 
- 2. Please note that:
+2. Please note that:
 
  2.1.	We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
@@ -20,13 +20,13 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 2.3.	The Service may utilise cookies to facilitate authentication and/or login to the Service. If such cookies are rejected, you might not be able to use the Service.
 
-3.  Please see the Annex for any additional terms or information.
+3. Please see the Annex for any additional terms or information.
 
 **Use of data**
 
-4.	 We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
+4.	We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
-5. 	If you provide us with personal data:
+5. If you provide us with personal data:
 
 5.1.	We may use, disclose and process the data for any one or more of the following purposes:
 
@@ -50,13 +50,13 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 5A.	Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
 
-6. 	You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
+6. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
 **Protection of data**
 
-7.	 To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+7.	To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
-8.	 The Service may contain links to external sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+8.	The Service may contain links to external sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
 **Contact information**
 
@@ -68,7 +68,7 @@ Please contact qsm@tech.gov.sg/Enquiries@smartnation.gov.sg if you:
 
 **Definitions**
 
-9. 	In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
+9. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 
 This version of the Privacy Statement is dated 25 May 2022.
