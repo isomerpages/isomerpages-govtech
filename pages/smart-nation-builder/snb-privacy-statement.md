@@ -10,9 +10,9 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 **General**
 
-1. This is a Government agency digital service.
+1.This is a Government agency digital service.
 
-2. Please note that:
+2.Please note that:
 
 2.1.	We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
@@ -20,7 +20,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 2.3.	The Service may utilise cookies to facilitate authentication and/or login to the Service. If such cookies are rejected, you might not be able to use the Service.
 
-3. Please see the Annex for any additional terms or information.
+3.Please see the Annex for any additional terms or information.
 
 **Use of data**
 
