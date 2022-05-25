@@ -81,13 +81,14 @@ This version of the Privacy Statement is dated 25 May 2022.
 
 **2.	Types of data requested/collected**
 
-a.	Name/Alias
-b.	Gender
-c.	Age
-d.	Marital Status
-e.	No. of Children
-f.	Employment Status
-g.	Phone Number (Optional)
-h.	Email address (Optional)
+*a.	Name/Alias
+*b.	Gender
+*c.	Age
+*d.	Marital Status
+*e.	No. of Children
+*f.	Employment Status
+*g.	Phone Number (Optional)
+*h.	Email address (Optional)
 
 Your name is required to improve the visitor experience for you. You may choose to use a nickname or alias. The demographics data above is needed to help us understand the demographics behind the feedback shared. Your phone number and email address are optional data to be provided to GovTech, and will only be used for communications - to inform you when it is your turn to enter, or to send a softcopy of your photo to you, if given.
+
