@@ -14,6 +14,11 @@ BBM, as the first instant messenger for mobile phones, was at then deemed superi
 
 And instant messaging itself has seen various shifts in how we communicate: from plain texts to winks, voice messages to stickers. We take a look at how instant messaging has evolved across the years.
 
+---
+
+![Instant Messaging](/images/technews/history-of-instant-messaging.jpg)
+*History of instant messaging. Photo by Unsplash.*
+
 ## Before messaging came voice calls
 
 Remember the time when phones were just for voice calls? The first mobile phone call was made in [1973](https://www.theatlantic.com/technology/archive/2013/04/the-first-mobile-phone-call-was-made-40-years-ago-today/274611/){:target="_blank"}, heralding a new wave of communication. Such a momentous occasion was unfortunately not marked by momentous words, with the conversation reportedly being mostly pleasantries and checking whether the sound quality was good. 
