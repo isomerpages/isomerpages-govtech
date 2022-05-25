@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Smart Nation Builder - Terms of Use
-permalink: /smart-nation-builder/terms-of-use/
+permalink: /smart-nation-builder/snb-terms-of-use/
 breadcrumb: Smart Nation Builder - Terms of Use
 recommender: false
 ---
