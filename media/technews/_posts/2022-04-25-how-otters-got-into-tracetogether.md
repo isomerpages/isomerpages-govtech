@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How otters got into tracetogether"
+title: "How oTTers got into TraceTogether"
 permalink: "/media/technews/how-otters-got-into-tracetogether"
 category: technews
 image: "images/technews/otterwa1"
