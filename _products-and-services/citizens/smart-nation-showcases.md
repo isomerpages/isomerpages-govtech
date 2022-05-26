@@ -37,8 +37,8 @@ That’s not all. At the Smart Nation Builder, you can be the first to test prot
 Learn all about what makes Singapore a Smart Nation, with this exhibition that has been integrated within the Singapore City Gallery. Interact with a series of exhibits and displays to discover the various ways digital technology powers our city and daily lives, improving the way we live, work and play!
 
 **Where:** 45 Maxwell Road, The URA Centre, Singapore 069118
-**When:** Mondays to Saturdays - 9am to 5pm
-Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
+<br>**When:** Mondays to Saturdays - 9am to 5pm
+<br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
 
 *Entry is free of charge.*
 
@@ -52,8 +52,8 @@ Jointly developed by the Smart Nation and Digital Government Group and [Science 
 Through gamified interactives, complex technological concepts are broken down and brought to life. People of all ages can experience and see the benefits that digitalisation has to offer. The exhibition consists of eight zones with interactives for guests to explore and experience these technologies in a fun and engaging way.
 
 **Where:** Science Centre Singapore, 15 Science Centre Road (Singapore 609081).
-**When:** Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours){:target="_blank"} to view opening hours.
-More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
+<br>**When:** Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours){:target="_blank"} to view opening hours.
+<br>More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
 
 *Entry is free of charge for Singaporeans/Singapore PRs.* 
 
