@@ -6,7 +6,7 @@ category: technews
 image: "images/technews/crypto-pitfalls.jpg"
 ---
 
-With the current talk of the town being the current crypto crash, it is imperative that investors understand what they are buying into when entering the market
+With the current talk of the town being the current crypto crash, it is imperative that investors understand what they are buying into when entering the market.
 
 ---
 
