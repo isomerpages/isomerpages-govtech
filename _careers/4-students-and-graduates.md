@@ -10,6 +10,16 @@ collection_name: careers
 
 From technology bootcamp, internships and scholarships to job openings, we are here to inspire you to join us in the building of the world’s first Smart Nation.  For aspiring tech leaders, chart your career with our Technology Associate Programme or affectionately known to our people as TAP, an exclusive leadership trainee programme to fast-track your career in GovTech.
 
+
+### **Technology Associate Programme**
+An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
+
+![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
+
+**How can you apply?**
+<br> Applications will be open from 1 June to 31 August 2022. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Apply now at:[go.gov.sg/tap-apply2023](https://go.gov.sg/tap-apply2023){:target="_blank"}
+
+
 ### **The Smart Nation Scholarship**
 The Smart Nation Scholarship develops and nurtures talent who have a passion for technology, and the ambition to propel our nation towards its goal of digital transformation.
 
@@ -39,6 +49,7 @@ Offered by GovTech, as well as Cyber Security Agency of Singapore and Infocomm M
 **How can you apply?**
 <br> Applications are open from September until April for each cycle. If you have a passion for technology and a strong desire to play a part in our Smart Nation agenda, learn more about the scholarship at [https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship){:target="_blank"}. 
 
+
 ### **GeekOut**
 Showcase your innovation and imagination by participating in GeekOut, a five-day technology bootcamp. We are challenging you to experience different technologies, and build practical tech solutions. 
 
@@ -51,6 +62,7 @@ This is a great opportunity to gain insights into various tech domains through w
 
 Register at [go.gov.sg/geekout2022](https://form.gov.sg/#!/623413ee6484a40014a415ea){:target="_blank"} and be a part of this exciting and enriching experience! Applications close on 29 April.
 
+
 ### **Internships**
 Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for both current university and polytechnic students. If you have a passion for technology, and are team oriented, experience a tech internship with us today!
 
@@ -59,12 +71,5 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 **How can you apply?**
 <br> We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. Application will close on 31 March 2022. [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2022-Internship_JR-10000007096){:target="_blank"}
 
-### **Technology Associate Programme**
-An exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development. 
 
-![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
-
-**How can you apply?**
-<br> Applications will be open from 1 June to 31 August 2022. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! You may indicate your interest at the link provided so that we can notify you when application is open. [Register Now](https://go.gov.sg/govtechtalentcommunity)!
-
-To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).
+*To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).*
