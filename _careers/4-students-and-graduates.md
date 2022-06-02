@@ -17,7 +17,7 @@ An exclusive leadership-trainee programme, TAP is designed to sharpen and develo
 ![Alternative text for screen readers](/images/careers/TAP_Infographic.png)   
 
 **How can you apply?**
-<br> Applications will be open from 1 June to 31 August 2022. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Apply now at:[go.gov.sg/tap-apply2023](https://go.gov.sg/tap-apply2023){:target="_blank"}
+<br> Applications will be open from 1 June to 31 August 2022. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Apply now at: [go.gov.sg/tap-apply2023](https://go.gov.sg/tap-apply2023){:target="_blank"}
 
 
 ### **The Smart Nation Scholarship**
