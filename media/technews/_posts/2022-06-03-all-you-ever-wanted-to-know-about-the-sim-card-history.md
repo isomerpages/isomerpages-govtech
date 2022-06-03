@@ -26,7 +26,7 @@ A decade later, the [first commercial mobile phone](https://www.tigermobiles.com
 
 ## **Evolution of SIM card – smaller yet mightier**
 
-As its name suggests, a Subscriber Identity Module is used to identify and authenticate you, the subscriber. Introduced in 1991 by the European Telecommunications Standards Institute, it stored subscriber information – including the associated phone number – in a circuit embedded in a plastic card. Just as importantly, it is what enables your device to connect to a mobile network, through which you can make calls, send text messages, and go online. 
+As its name suggests, a Subscriber Identity Module is used to identify and authenticate you, the subscriber. It was developed in 1991 by German Smart Card Maker Giesecke+Devrient for Finnish Network provider, Radiolinja, and was based on the specifications previously set by the European Telecommunications Standards Institute (ETSI). It stored subscriber information – including the associated phone number – in a circuit embedded in a plastic card. Just as importantly, it is what enables your device to connect to a mobile network, through which you can make calls, send text messages, and go online. 
 
 This first iteration of the SIM card was as large as a credit card, which wasn’t too out of the world for its time as mobile phones were way bigger back then. The SIM card was where you stored the names and contact numbers of your family and friends, as well as SMS messages (remember those?). 
 
