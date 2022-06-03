@@ -9,9 +9,9 @@ Hands up if you’ve ever heard of the SIM card. Yes, we see that all of you are
 
 ---
 
-![Powered by the cloud](/images/technews/cloud-government.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G5wANyk3Fv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Photo by <a href="https://unsplash.com/@kowalikus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krzysztof Kowalik</a> on <a href="https://unsplash.com/s/photos/servers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+---
 
 Now, hands up if you know what SIM stands for. Chances are, there aren’t many hands left up. Even though SIM cards have been by our side since the time we owned our first mobile phones, there is precious little we know about them (including the tidbit that SIM stands for Subscriber Identity Module). 
 
