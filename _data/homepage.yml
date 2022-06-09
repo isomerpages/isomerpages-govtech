@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/homepage-banner-2-employer-may22.jpg
+hero-banner: /images/homepage-banner-SNB-june22.png
 
 #Call to Action Button
 button:
-  - text: Our Culture and Values
-    url: https://www.tech.gov.sg/who-we-are/our-culture-and-values/
+  - text: Find Out More
+    url: https://www.smartnation.gov.sg/community/showcases/builder
     
 # Key Highlights
 key-highlights:
