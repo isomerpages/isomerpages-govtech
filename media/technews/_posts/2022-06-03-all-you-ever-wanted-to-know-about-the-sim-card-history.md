@@ -8,8 +8,6 @@ image: "/images/technews/cloud-government.jpg"
 Hands up if you’ve ever heard of the SIM card. Yes, we see that all of you are reaching for the sky.
 
 ---
-
-<div class="bp-youtube">
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G5wANyk3Fv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
