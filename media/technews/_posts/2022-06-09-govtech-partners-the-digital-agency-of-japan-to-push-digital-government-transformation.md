@@ -8,7 +8,7 @@ image: "/images/technews/MOC-signing-between-GovTech-and-JDA.jpg"
 
 Exciting times ahead for GovTech as we look forward to more collaboration and joint activities with the Digital Agency of Japan.
 
-On 26 May 2022, Dr Janil Puthcheary, Minister-in-charge of GovTech, signed a Memorandum of Cooperation (MOC) on Digital Government Transformation, with Japan’s Minister for Digital, Karen Makishima in Tokyo.
+On 26 May 2022, Dr Janil Puthucheary, Minister-in-charge of GovTech, signed a Memorandum of Cooperation (MOC) on Digital Government Transformation, with Japan’s Minister for Digital, Karen Makishima in Tokyo.
 
 The Digital Agency of Japan is a newly established entity just launched in Sep 2021. Its mandate is to upgrade the Japanese public sector’s online services and infrastructure.
 
