@@ -47,10 +47,10 @@ We can’t wait to see the fruits of this new wave of collaboration, especially 
 ---
 
 References:
-1.  [https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/ad6470b1-ef56-4381-9098-7069e16cf5f4/6144b7af/20220526_news_minister_original_01.pdf]
-2.	[https://www.digital.go.jp/news/ad6470b1-ef56-4381-9098-7069e16cf5f4/]
-3.	[https://www.straitstimes.com/asia/east-asia/singapore-japan-key-partners-to-protect-regional-peace-pm-lee-and-pm-kishida]
-4.	[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/05/20220522PM-japan]
-5.	[https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716]
+1.  [https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/ad6470b1-ef56-4381-9098-7069e16cf5f4/6144b7af/20220526_news_minister_original_01.pdf](https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/ad6470b1-ef56-4381-9098-7069e16cf5f4/6144b7af/20220526_news_minister_original_01.pdf){:target="_blank"}
+2.	[https://www.digital.go.jp/news/ad6470b1-ef56-4381-9098-7069e16cf5f4/](https://www.digital.go.jp/news/ad6470b1-ef56-4381-9098-7069e16cf5f4/){:target="_blank"}
+3.	[https://www.straitstimes.com/asia/east-asia/singapore-japan-key-partners-to-protect-regional-peace-pm-lee-and-pm-kishida](https://www.straitstimes.com/asia/east-asia/singapore-japan-key-partners-to-protect-regional-peace-pm-lee-and-pm-kishida){:target="_blank"}
+4.	[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/05/20220522PM-japan](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/05/20220522PM-japan){:target="_blank"}
+5.	[https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716](https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716){:target="_blank"}
 
 
