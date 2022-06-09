@@ -90,7 +90,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:30pm</span></td>
-    <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
+    <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories<br>Venturing Beyond the Elephant's Foot<br></td>
     <td>Qualifying as a Government Vendor</td>
     <td>MyInfo – Transforming Digital Journey</td>
     <td rowspan="2">Nectar PaaS</td>
