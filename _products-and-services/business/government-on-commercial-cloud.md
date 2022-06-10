@@ -1,16 +1,16 @@
 ---
 layout: simple-page
-title: Government Commercial Cloud 
-permalink: /products-and-services/government-commercial-cloud/
-breadcrumb: Government Commercial Cloud
+title: Government on Commercial Cloud 
+permalink: /products-and-services/government-on-commercial-cloud/
+breadcrumb: Government on Commercial Cloud
 collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test.jpg
 ---
 
-#### **Government Commercial Cloud (GCC)**
+#### **Government on Commercial Cloud (GCC)**
 
-The Government Commercial Cloud Service brings the modern innovations and capabilities of commercial cloud computing platforms to less sensitive Government systems. These leading ICT capabilities are augmented by robust cybersecurity measures and systems to protect the data that resides on commercial cloud platforms.
+The Government on Commercial Cloud Service brings the modern innovations and capabilities of commercial cloud computing platforms to less sensitive Government systems. These leading ICT capabilities are augmented by robust cybersecurity measures and systems to protect the data that resides on commercial cloud platforms.
 
 Multinational conglomerates like Amazon, Google and Microsoft are leading the cloud computing revolution, providing organisations with Commercial Cloud options that are scalable and customisable. Rather than being mired in the cost and hassle of racking, stacking and maintaining computing hardware on-site, developer teams can instead focus on what they do best—build and deliver digital applications that create value for stakeholders within and beyond their organisation.
 
