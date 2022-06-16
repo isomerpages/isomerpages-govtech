@@ -1,0 +1,10 @@
+contact_us: https://www.tech.gov.sg/contact-us/
+show_reach: false
+privacy_policy: https://www.tech.gov.sg/privacy/
+copyright_agency: Government Technology Agency
+terms_of_use: https://www.tech.gov.sg/terms-of-use/
+feedback: 
+links:
+    - title: Report Vulnerability
+      url: /report_vulnerability
+
