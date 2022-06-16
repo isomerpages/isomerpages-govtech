@@ -81,80 +81,36 @@ Our digital government efforts can be classified into these few areas:
   </div>
 </div>
 
-## International and National Achievements
+## Singapore's Digital Government Story
 
-### Smart City Index  2021
-The Smart City Index (SCI) ranks 118 cities based on citizens’ perceptions of how technology can improve their lives, as well as on economic and social data taken from the United Nations Human Development Index (HDI). It is conducted annually by the Singapore University of Technology and Design’s Lee Kuan Yew Centre for Innovative Cities (SUTD-LKYCIC) in collaboration with Switzerland’s Institute for Management Development (IMD).
+Here are four videos featuring Government Chief Digital Technology Officer. Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey.
 
-<figure style="text-align: center">
-  <img
-    src="/images/digital-transformation/Fig-1-Smart-City-Index.png" 
-    alt="Fig 1: Singapore’s 2021 Smart City Index Ranking"
-  />
-  <figcaption>Fig 1: Singapore’s 2021 Smart City Index Ranking</figcaption>
-</figure>
+Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series.
 
-### International Achievements 2020
-The United Nations e-Government Survey  measures the effectiveness of all 193 member states on the effectiveness of their digital government efforts in providing citizen and business services and in policy engagement.  
+[Singapore’s Digital Government Story EP 1: In The Beginning](https://youtu.be/uqVs87aj9W8){:target="\_blank"}
 
-<figure style="text-align: center">
-  <img
-    src="/images/digital-transformation/Fig-2-UN-e-gov-survey-ranking.png" 
-    alt="Fig 2: Singapore’s 2020 United Nations e-Government Ranking"
-  />
-  <figcaption>Fig 2: Singapore’s 2020 United Nations e-Government Ranking</figcaption>
-</figure>
+This episode covers the beginning of Singapore’s Digital Government journey over the decades, starting from the need For Digital Government, the creation of GovTech and the Smart Nation Digital Government Office (SNDGO) as part of the Prime Minister’s Office, and how GovTech works with SNDGO to coordinate Smart Nation and digitalisation projects across ministries.
 
-### National Achievements 2020
-The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
+[Singapore’s Digital Government Story EP2: Smart Nation & GovTech](https://youtu.be/y4g5hs8EsDc){:target="\_blank"}
 
-<figure style="text-align: center">
-  <img
-    src="/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png" 
-    alt="Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020"
-  />
-  <figcaption>Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020</figcaption>
-</figure>
+In episode two, Government Chief Digital Technology Officer Chan Cheow Hoe shares more on key areas important to Digital Government and the Smart Nation vision, including: 
 
-## Future Plans
+- Singapore’s Strategic National Projects
+- Data Architecture and Data Policy
+- Cloud Capabilities and Cloud Policy
+- Recruiting engineering talent and building capabilities within GovTech
 
-The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. More information on the DGB can be found [here](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"}.
+[Singapore’s Digital Government Story EP3: Strategic National Projects](https://youtu.be/CE3xsNyR_BU){:target="\_blank"}
 
-Based on the DGB, GovTech plans to achieve the following goals by 2023:
+Episode 3 dives into the origins and evolution of the Singapore Government Technology Stack (SGTS), and also takes a tour of other Strategic National Projects like Smart Nation Sensor Platform (SNSP), LifeSG and GoBusiness. Government Chief Digital Technology Officer Chan Cheow Hoe also explains how Digital Government addresses the everydays needs of people and businesses.
+ 
 
-<figure style="text-align: center">
-  <img
-    src="/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png" 
-    alt="Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)"
-  />
-  <figcaption>Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)</figcaption>
-</figure>
+[Singapore’s Digital Government Story EP4: Connecting With The World](https://youtu.be/1PD0_WLbFeM){:target="\_blank"}
 
-<sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
-
-<sup>[2]</sup> Government systems qualify if data classification requirements allow them to be moved to cloud.
+In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Government Chief Digital Technology Officer Chan Cheow Hoe also shares more about how GovTech reaches out to developers through the STACK-X meetups, and to the general public too.
 
 ## Contact information for international collaboration opportunities
 
 Contact us at <info@tech.gov.sg> if you would like to collaborate on various digital government projects.
 
-## Resources
-
-<div class="row">
-  <div class="col" style="text-align: center">
-    <a href="/media/technews/subscribe" target="_blank">
-      <img src="/images/digital-transformation/TechNews-newsletter.png" alt="TechNews Newsletter" /></a>
-    <figcaption><b>TechNews Newsletter</b></figcaption>
-  </div>
-
-  <div class="col" style="text-align: center">
-    <a href="/media/corporate-publications" target="_blank">
-      <img src="/images/digital-transformation/GovTech-publications.png" alt="GovTech's Publications" /></a>
-    <figcaption><b>GovTech's Publications</b></figcaption>
-  </div>
-  <div class="col"></div>
-  <div class="col"></div>
-</div>
-
-Sign up for TechNews [here](https://www.tech.gov.sg/media/technews/subscribe){:target="_blank"} to receive updates about our digital government efforts. To view GovTech’s publications, you can refer to this [link](https://www.tech.gov.sg/media/corporate-publications/){:target="_blank"}.
 
