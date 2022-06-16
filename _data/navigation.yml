@@ -74,3 +74,13 @@
     url: /media/awards/    
 - title: Contact Us
   url: /contact-us/
+  sub-links:
+  - title: Contact Info
+    url: /contact-us/
+  - title: Privacy Statement
+    url: /privacy/
+  - title: Terms of Use
+    url: /terms-of-use/    
+  - title: Report Vulnerability
+    url: /report_vulnerability/
+    
