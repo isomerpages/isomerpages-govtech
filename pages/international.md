@@ -32,7 +32,9 @@ Singapore’s Digital Government journey has garnered international acclaim and 
 
 **SCAPA 2021**
 
-[Placeholder for SCAPA 2021 info]
+Organised by the International Data Cooperation (IDC), IDC SCAPA recognises top Smart City projects and initiatives in Asia Pacific. GovTech Sensors & IoT and Government Digital Services teams took home awards for the Asynchronous Data Exchange (ADEX), eCanvas and Smart Gardens at Gardens by the Bay projects. 
+
+MOE and GovTech also took home an award for the Classroom of the Future (CotF) project, a multi-disciplinary effort leveraging design thinking and other methodologies to re-design the teaching and learning experience for students and teachers; while MOH and GovTech were recognised for the Vaccinated Differentiated Safe Management Measures (VDS) initiative under the COVID-19 National Vaccination Programme, which helps to ease validation checks for businesses, individuals and travellers entering Singapore.
 
 **Smart City Index 2021**
 
