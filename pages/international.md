@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: initiatives
 title: International
 permalink: /international/
 breadcrumb: International
