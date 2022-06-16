@@ -1,7 +1,6 @@
 ---
 layout: simple-page
 title: International
-description: Singapore's digital government efforts spans across events, papers, awards and collaborations. Visit this page for more information!
 permalink: /international/
 breadcrumb: International
 ---
