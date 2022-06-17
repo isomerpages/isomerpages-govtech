@@ -47,8 +47,9 @@
     url: /careers/smart-nation-fellowship-programme/
   - title: Our Alumni Network
     url: /careers/the-govtech-network/
-  - title: Opportunities
-    url: /opportunities/
+  - title: Apply Now
+    url: https://go.gov.sg/govtechjobs
+    external: true
 - title: Media
   resource_room: true
   url: /media/
