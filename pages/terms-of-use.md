@@ -67,4 +67,4 @@ regardless of whether GovTech has been advised of the possibility of such damage
 
 ### **GovTech Digital Updates**
 
-18. The Terms & Conditions when subscribing to GovTech digital updates can be found [here.](/files/GovTech-Subscription-Terms-Conditions.pdf){:target="_blank"}
+18. The Terms & Conditions when subscribing to GovTech digital updates can be found [here.](/files/GovTech-Subscription-Terms-Conditions-2021.pdf){:target="_blank"}
