@@ -71,16 +71,11 @@
   - title: Advisory
     url: /media/advisory/
   - title: Awards
-    url: /media/awards/    
-- title: Contact
-  url: /contact-us/
-  sub-links:
-  - title: Contact Info
-    url: /contact-us/
-  - title: Privacy Statement
-    url: /privacy/
-  - title: Terms of Use
-    url: /terms-of-use/    
-  - title: Report Vulnerability
-    url: /report_vulnerability/
+    url: /media/awards/
+- title: Terms of Use
+  url: /terms-of-use/
+- title: Privacy
+  url: /privacy/
+- title: Report Vulnerability
+  url: /report_vulnerability/
     
