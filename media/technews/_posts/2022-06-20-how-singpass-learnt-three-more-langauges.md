@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Singpass Learnt 3 more langauges"
+title: "How Singpass learnt 3 more langauges"
 permalink: "/media/technews/how-singpass-learnt-three-langauges"
 category: technews
 image: "/images/technews/singpasstranslation.jpeg"
