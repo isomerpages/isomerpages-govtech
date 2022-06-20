@@ -5,17 +5,17 @@ permalink: /terms-of-use/
 breadcrumb: Terms of Use
 recommender: false
 ---
-### **General**
+**General**
 
 1. Thank you for visiting this website (“Website”) which is owned and operated by the Government Technology Agency (“GovTech”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website. 
 
 2. GovTech reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes. 
 
-### **Proprietary Rights**
+**Proprietary Rights**
 
 3. This Website and the materials made available on or through this Website ("Contents"), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by GovTech.
 
-### **Restrictions on use of Contents**
+**Restrictions on use of Contents**
 
 4. You may access and use this Website and the Contents in the manner permitted in these Terms of Use only. 
 
