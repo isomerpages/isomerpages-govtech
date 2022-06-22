@@ -19,7 +19,7 @@ More information on the videos on the GovTech Digital Government Journey page [h
 
 The Digital Government Exchange (DGX) is at the forefront of our international engagement efforts to promote the best-practice development of digital technologies.
 
-DGX is an annual global gathering of Government Chief Information Officers (CIOs) and public sector leaders from digital governments and smart cities across the globe. These include Australia, , Canada, China, Denmark, Estonia, Finland, France, Israel, Japan, New Zealand, Sweden, the Netherlands, United Kingdom (UK) and the U.S. 
+DGX is an annual global gathering of Government Chief Information Officers (CIOs) and public sector leaders from digital governments and smart cities across the globe. These include Australia, , Canada, China, Denmark, Estonia, Finland, France, Israel, Japan, New Zealand, Sweden, the Netherlands, the United Kingdom (UK) and the United States of America (USA). 
 
 Organised by the Smart Nation and Digital Government Group since 2016, DGX is a one-of-its-kind international platform that has developed a community of like-minded leaders who can engage in information exchange, sharing of experiences, and mutual learning, while exploring future collaboration opportunities. 
 
@@ -29,12 +29,12 @@ Find out more about DGX reports [here](/media/corporate-publications/digital-gov
 
 ## Partnerships
 
-Our multi-prong international partnerships approaches include, inter alia, the following:
+Our multi-pronged international partnerships approaches include, inter alia, the following:
 
 - **Bilateral:** Hosting foreign delegations keen to learn from our experiences.
-- **Multilateral:**  Engagement of international organizations and governments, and participation in global forums for international cooperation on digital government (United Nations, World Bank, the European Union).
-- **Non-Profit Organisations and Civil Societies:** Sharing Singapore’s digital transformation journey of the public sector at platforms such as World Economic Forum.
-- **Knowledge sharing via the Singapore Government Development Portal:** The portal is a repository of detailed information of the products, solutions and guidelines we have developed over the years to support Digital Government transformation.
+- **Multilateral:**  Engagement of international organisations and governments, and participation in global forums for international cooperation on Digital Government by the United Nations, the World Bank and the European Union.
+- **Non-Profit Organisations and Civil Societies:** Sharing Singapore’s digital transformation journey of the public sector at platforms such as the World Economic Forum.
+- **Knowledge sharing via the Singapore Government Developer Portal:** The portal is a repository of detailed information of the products, solutions and guidelines we have developed over the years to support Digital Government transformation.
 
 Singapore actively participates in platforms by giving keynote talks and conducting workshops. We believe such engagements will serve a much larger community of countries looking to learn about Singapore’ journey.
 
@@ -56,7 +56,7 @@ Singapore’s Digital Government journey has garnered international acclaim and 
 
 ### 2022
 
-- **SCAPA 2021:** GovTech, MOE and MOH were among the winning ministries and public agencies  in the 2022 IDC Smart City Asia Pacific Awards (IDC SCAPA). Organised by the International Data Cooperation (IDC), IDC SCAPA recognises top Smart City projects and initiatives in Asia Pacific.
+- **SCAPA 2022:** GovTech, MOE and MOH were among the winning ministries and public agencies  in the 2022 IDC Smart City Asia Pacific Awards (IDC SCAPA). Organised by the International Data Cooperation (IDC), IDC SCAPA recognises top Smart City projects and initiatives in Asia Pacific.
 
 ### 2021
 
