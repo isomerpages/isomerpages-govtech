@@ -26,7 +26,7 @@ Finally, to drive the vision of a Smart Nation, five Strategic National Projects
 
 View the full timeline of our digital milestones [here](https://www.tech.gov.sg/who-we-are/our-journey/){:target="_blank"}.
 
-## Singapore's Digital Government Story
+## Our Digital Government Story
 
 Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey. 
 
