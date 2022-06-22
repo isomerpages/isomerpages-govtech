@@ -26,6 +26,33 @@ Finally, to drive the vision of a Smart Nation, five Strategic National Projects
 
 View the full timeline of our digital milestones [here](https://www.tech.gov.sg/who-we-are/our-journey/){:target="_blank"}.
 
+## Singapore's Digital Government Story
+
+Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey. 
+
+Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series.
+
+[Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/uqVs87aj9W8){:target="\_blank"}
+
+This episode covers the beginning of Singapore’s Digital Government journey over the decades, starting from the need for a Digital Government, the creation of GovTech and the Smart Nation Digital Government Office (SNDGO) as part of the Prime Minister’s Office, and how GovTech works with SNDGO to coordinate Singapore's Smart Nation and digitalisation projects across ministries.
+
+[Singapore’s Digital Government Story EP2: Smart Nation & GovTech](https://youtu.be/y4g5hs8EsDc){:target="\_blank"}
+
+In episode two, Cheow Hoe, shares more on key areas important to our Digital Government efforts and Smart Nation vision, including:
+
+- Singapore’s Strategic National Projects
+- Data Architecture and Data Policy
+- Cloud Capabilities and Cloud Policy
+- Recruiting engineering talent and building capabilities within GovTech
+
+[Singapore’s Digital Government Story EP3: Strategic National Projects](https://youtu.be/CE3xsNyR_BU){:target="\_blank"}
+
+Episode 3 dives into the origins and evolution of the Singapore Government Technology Stack (SGTS), and takes a tour of other Strategic National Projects such as the Smart Nation Sensor Platform (SNSP), LifeSG and GoBusiness. Cheow Hoe also explains how our Digital Government addresses the everyday needs of people and businesses.
+
+[Singapore’s Digital Government Story EP4: Connecting with the World](https://youtu.be/1PD0_WLbFeM){:target="\_blank"}
+
+In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Cheow Hoe also shares more about how GovTech reaches out to the tech communities in the public, private and people sectors through STACK-X Meetups.
+
 ## Digital Government Efforts
 
 Our digital government efforts can be classified into these few areas:
@@ -81,33 +108,6 @@ Our digital government efforts can be classified into these few areas:
     <figcaption><b>Diversity and Inclusion</b></figcaption>
   </div>
 </div>
-
-## Singapore's Digital Government Story
-
-Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey.
-
-Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series.
-
-[Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/uqVs87aj9W8){:target="\_blank"}
-
-This episode covers the beginning of Singapore’s Digital Government journey over the decades, starting from the need for a Digital Government, the creation of GovTech and the Smart Nation Digital Government Office (SNDGO) as part of the Prime Minister’s Office, and how GovTech works with SNDGO to coordinate Singapore's Smart Nation and digitalisation projects across ministries.
-
-[Singapore’s Digital Government Story EP2: Smart Nation & GovTech](https://youtu.be/y4g5hs8EsDc){:target="\_blank"}
-
-In episode two, Cheow Hoe, shares more on key areas important to our Digital Government efforts and Smart Nation vision, including: 
-
-- Singapore’s Strategic National Projects
-- Data Architecture and Data Policy
-- Cloud Capabilities and Cloud Policy
-- Recruiting engineering talent and building capabilities within GovTech
-
-[Singapore’s Digital Government Story EP3: Strategic National Projects](https://youtu.be/CE3xsNyR_BU){:target="\_blank"}
-
-Episode 3 dives into the origins and evolution of the Singapore Government Technology Stack (SGTS), and also takes a tour of other Strategic National Projects such as the Smart Nation Sensor Platform (SNSP), LifeSG and GoBusiness. Cheow Hoe also explains how our Digital Government addresses the everydays needs of people and businesses.
-
-[Singapore’s Digital Government Story EP4: Connecting with the World](https://youtu.be/1PD0_WLbFeM){:target="\_blank"}
-
-In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Cheow Hoe also shares more about how GovTech reaches out to the tech communities in the public, private and people sectors through STACK-X Meetups.
 
 ## Contact information for international collaboration opportunities
 
