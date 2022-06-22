@@ -13,7 +13,7 @@ We are keen to explore international collaboration opportunities on Digital Gove
 
 For an overview of Singapore’s Digital Government journey, watch a special video collaboration between GovTech and the United Nations Department of Economic and Social Affairs (DESA). The four videos feature Government Chief Digital Technology Officer, Chan Cheow, sharing key learning points from Singapore’s Digital Government transformation.
 
-More information on the videos on the GovTech Digital Government Journey page [here](/singapore-digital-government-journey#singapore-s-digital-government-story).
+More information on the videos on the GovTech Digital Government Journey page [here](/singapore-digital-government-journey?id=singapore-s-digital-government-story){:target="_blank"}.
 
 ## Digital Government Exchange
 
