@@ -47,7 +47,7 @@
     url: /careers/students-and-graduates/
   - title: Smart Nation Fellowship Programme
     url: /careers/smart-nation-fellowship-programme/
-  - title: The GovTech Alumni Network
+  - title: Our Alumni Network
     url: /careers/the-govtech-network/
   - title: Apply Now
     url: https://go.gov.sg/govtechjobs
@@ -74,14 +74,9 @@
     url: /media/advisory/
   - title: Awards
     url: /media/awards/
-- title: Contact
-  url: /contact-us/
-  sub-links:
-  - title: Contact Info
-    url: /contact-us/
-  - title: Privacy Statement
-    url: /privacy/
-  - title: Terms of Use
-    url: /terms-of-use/    
-  - title: Report Vulnerability
-    url: /report_vulnerability/
+- title: Terms of Use
+  url: /terms-of-use/
+- title: Privacy
+  url: /privacy/
+- title: Report Vulnerability
+  url: /report_vulnerability/
