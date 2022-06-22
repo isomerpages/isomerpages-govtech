@@ -38,7 +38,7 @@ This episode covers the beginning of Singapore’s Digital Government journey ov
 
 [Singapore’s Digital Government Story EP2: Smart Nation & GovTech](https://youtu.be/y4g5hs8EsDc){:target="\_blank"}
 
-In episode two, Cheow Hoe, shares more on key areas important to our Digital Government efforts and Smart Nation vision, including:
+In episode two, Cheow Hoe shares more on key areas important to our Digital Government efforts and Smart Nation vision, including:
 
 - Singapore’s Strategic National Projects
 - Data Architecture and Data Policy
@@ -51,7 +51,7 @@ Episode 3 dives into the origins and evolution of the Singapore Government Techn
 
 [Singapore’s Digital Government Story EP4: Connecting with the World](https://youtu.be/1PD0_WLbFeM){:target="\_blank"}
 
-In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Cheow Hoe also shares more about how GovTech reaches out to the tech communities in the public, private and people sectors through STACK-X Meetups.
+In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Cheow Hoe also shares more about how GovTech reaches out to tech communities in the public, private and people sectors.
 
 ## Digital Government Efforts
 
