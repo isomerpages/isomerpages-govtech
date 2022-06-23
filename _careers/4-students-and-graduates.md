@@ -51,16 +51,13 @@ Offered by GovTech, as well as Cyber Security Agency of Singapore and Infocomm M
 
 
 ### **GeekOut**
-Showcase your innovation and imagination by participating in GeekOut, a five-day technology bootcamp. We are challenging you to experience different technologies, and build practical tech solutions. 
-
-![Alternative text for screen readers](/images/careers/GeekOut_Infographic_small.png) 
-
-**Applications for GeekOut are now open!**
-<br> This fun-filled boot camp will take place from 13–17 June 2022. During this five-day event, you’ll work in teams with guidance from GovTech mentors to tackle a hackathon challenge.
+This fun-filled annual boot camp takes place in June. You will be working in teams with GovTech mentors to solve a hackathon challenge over the course of five days.
 
 This is a great opportunity to gain insights into various tech domains through workshops, forge connections with like-minded peers and GovTech’s leaders, and experience what it means to be Agile, Bold and Collaborative!
 
-Register at [go.gov.sg/geekout2022](https://form.gov.sg/#!/623413ee6484a40014a415ea){:target="_blank"} and be a part of this exciting and enriching experience! Applications close on 29 April.
+![Alternative text for screen readers](/images/careers/GeekOut_Infographic_small.png) 
+
+GeekOut applications for 2022 have closed. If you are interested in being a part of GeekOut 2023, please keep in touch with us at [go.gov.sg/govtechtalentcommunity](https://go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified of the application period for the next GeekOut.
 
 
 ### **Internships**
@@ -69,7 +66,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![Alternative text for screen readers](/images/careers/Internship_Infographic.png)   
 
 **How can you apply?**
-<br> We welcome university and polytechnic students to apply for our internships. Check out a wide range of internship opportunities across many exciting domains. Application will close on 31 March 2022. [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2022-Internship_JR-10000007096){:target="_blank"}
+<br> We welcome university and polytechnic students to apply for our internships all year round. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://go.gov.sg/govtechinternship){:target="_blank"}
 
 
 *To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).*

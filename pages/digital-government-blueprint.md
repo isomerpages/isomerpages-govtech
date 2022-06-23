@@ -41,6 +41,23 @@ Here is how the DGB will benefit you:
 - Greater confidence in your data as digital services infrastructure continues to be fortified
 - More digital services like LifeSG and GoBusiness built around your needs.
 
+## Future Plans
 
-Read up the DGB here:
+The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. More information on the DGB can be found [here](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"}.
+
+Based on the DGB, GovTech plans to achieve the following goals by 2023:
+
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png" 
+    alt="Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)"
+  />
+  <figcaption>Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)</figcaption>
+</figure>
+
+<sup>[1]</sup> Excludes services or individuals where the KPI cannot be met for valid reasons. These reasons can include legislative reasons, or that certain segments of our population (e.g. the elderly or persons with disabilities) are unable to have access to or use digital tools. 
+
+<sup>[2]</sup> Government systems qualify if data classification requirements allow them to be moved to cloud.
+
+**Read about the DGB here:**
 - [Digital Government Blueprint (Updated December 2020)](/files/media/corporate-publications/dgb-public-document_30dec20.pdf)
