@@ -66,7 +66,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![Alternative text for screen readers](/images/careers/Internship_Infographic.png)   
 
 **How can you apply?**
-<br> We welcome university and polytechnic students to apply for our internships all year round. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2022-Internship_JR-10000007096){:target="_blank"}
+<br> We welcome university and polytechnic students to apply for our internships all year round. Check out a wide range of internship opportunities across many exciting domains. [Apply Now!](https://go.gov.sg/govtechinternship){:target="_blank"}
 
 
 *To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity).*
