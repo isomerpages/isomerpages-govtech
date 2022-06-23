@@ -30,7 +30,7 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 
 Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey. 
 
-Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series.
+Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series, which was produced through a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
 
 [Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/uqVs87aj9W8){:target="\_blank"}
 
