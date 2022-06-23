@@ -43,7 +43,7 @@ Here is how the DGB will benefit you:
 
 ## Future Plans
 
-The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. More information on the DGB can be found [here](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"}.
+The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. 
 
 Based on the DGB, GovTech plans to achieve the following goals by 2023:
 
