@@ -57,7 +57,7 @@ This is a great opportunity to gain insights into various tech domains through w
 
 ![Alternative text for screen readers](/images/careers/GeekOut_Infographic_small.png) 
 
-GeekOut applications for 2022 have closed. If you are interested in being a part of GeekOut 2023, please keep in touch with us at go.gov.sg/govtechtalentcommunity to be notified of the application period for the next GeekOut.
+GeekOut applications for 2022 have closed. If you are interested in being a part of GeekOut 2023, please keep in touch with us at [go.gov.sg/govtechtalentcommunity](https://go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified of the application period for the next GeekOut.
 
 
 ### **Internships**
