@@ -36,7 +36,7 @@ Our multi-pronged international partnerships approaches include, inter alia, the
 - **Non-Profit Organisations and Civil Societies:** Sharing Singapore’s digital transformation journey of the public sector at platforms such as the World Economic Forum.
 - **Knowledge sharing via the Singapore Government Developer Portal:** The portal is a repository of detailed information of the products, solutions and guidelines we have developed over the years to support Digital Government transformation.
 
-Singapore actively participates in platforms by giving keynote talks and conducting workshops. We believe such engagements will serve a much larger community of countries looking to learn about Singapore’ journey.
+Singapore actively participates in platforms by giving keynote talks and conducting workshops. We believe such engagements will serve a much larger community of countries looking to learn about Singapore’s journey.
 
 Through these engagements, we want to help, and learn from one another.
 
