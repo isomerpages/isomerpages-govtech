@@ -122,7 +122,7 @@ The Survey on Satisfaction with Government Digital Services for citizens and bus
 
 ## Contact information for international collaboration opportunities
 
-Visit our [International Partnerships](/international-partnerships):target="_blank"} page for more information on our international collaborations.
+Visit our [International Partnerships](/international-partnerships){:target="_blank"} page for more information on our international collaborations.
 
 Contact us at <info@tech.gov.sg> if you would like to collaborate on various digital government projects.
 
