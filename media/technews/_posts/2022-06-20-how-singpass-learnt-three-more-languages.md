@@ -31,6 +31,9 @@ The initial translations were then sent for a round of vetting with an external 
 
 Finally, Citizen Translators – native speakers/writers who have volunteered with the National Translation Committee (NTC) under the Ministry of Communication and Information (MCI) to review translated materials and help raise the translation standards of public communications in Singapore – provided feedback to further refine the translations. Their comments were reviewed by the same team of internal translators, and some changes were implemented in subsequent app releases as part of ongoing efforts to improve app usability.
 
+![Multi language on the home screen](/images/technews/singpasslanguages2.jpeg)
+Same Singpass App, different languages!
+
 ## Fresh eyes of the Citizen Translators
 
 The input from the Citizen Translators was invaluable as they had the benefit of distance from the project and could look at it with fresh eyes, said the team. 
