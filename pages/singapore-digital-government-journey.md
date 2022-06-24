@@ -109,6 +109,17 @@ Our digital government efforts can be classified into these few areas:
   </div>
 </div>
 
+### National Achievements 2020
+The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
+
+<figure style="text-align: center">
+  <img
+    src="/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png" 
+    alt="Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020"
+  />
+  <figcaption>Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020</figcaption>
+</figure>
+
 ## Contact information for international collaboration opportunities
 
 Contact us at <info@tech.gov.sg> if you would like to collaborate on various digital government projects.
