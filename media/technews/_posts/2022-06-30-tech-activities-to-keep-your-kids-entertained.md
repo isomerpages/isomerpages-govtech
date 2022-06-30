@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech activities to keep your kids entertained."
+title: "Tech activities to keep your kids entertained"
 permalink: "/media/technews/tech-activities-to-keep-your-kids-entertained"
 category: technews
 image: "images/technews/LFS_Thumbnail (1).jpg"
@@ -19,7 +19,7 @@ Well, we’re here to help with a list of fun tech activities that will keep the
 
 Coding skills are all the rage now in the job market, but it’s not just all work and no play. There are quite a few learning centres offering coding lessons for children of different age groups. But better still, there are also tons of free learning material online. 
 
-Case in point, check out our very own [GovTech YouTube channel](https://www.youtube.com/c/GovTechSG), which has instructional videos aimed at teaching children how to code.  
+Case in point, check out our very own [GovTech YouTube channel](https://www.youtube.com/c/GovTechSG){:target="_blank"}, which has instructional videos aimed at teaching children how to code.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MfkeAoVo4Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,7 +32,7 @@ Sorry Maverick, drones are truly the future. And you and your little ones can ex
 
 At the Drone-Rover area, a specially designed arena mixing indoor and outdoor elements will challenge your children’s piloting skills in maneuvering their over several obstacles. 
  
-This could be the moment to spark their interest in joining a competition such as the [Drone Odyssey Challenge](https://www.stemacademy.sg/drone-odyssey-challenge) in August, where participants work together in teams to programme their Unmanned Aerial Vehicles (UAVs) to perform various tasks under given scenarios.
+This could be the moment to spark their interest in joining a competition such as the [Drone Odyssey Challenge](https://www.stemacademy.sg/drone-odyssey-challenge){:target="_blank"} in August, where participants work together in teams to programme their Unmanned Aerial Vehicles (UAVs) to perform various tasks under given scenarios.
 
 ## Learn about 3D printing
 
@@ -46,13 +46,13 @@ The National Library, for instance, organises periodic 3D printing workshops but
 
 Robots are cool. It’s why Transformers toys have fascinated children across generations. 
 
-The [Smart Nation Playscape](https://www.smartnation.gov.sg/community/showcases/playscape) at the Science Centre features robots galore, including robots that you can programme to dance and Rubik’s cube solving robotic arms.
+The [Smart Nation Playscape](https://www.smartnation.gov.sg/community/showcases/playscape){:target="_blank"} at the Science Centre features robots galore, including robots that you can programme to dance and Rubik’s cube solving robotic arms.
 
 The playscape also goes beyond just robots. Get a complete tech immersion with exhibits on sensors, geospatial tech, biometrics, blockchain, AI, user experience, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). 
 
 ## Check out how the Smart Nation is built
 
-Speaking of Smart Nation, head on down to the URA Centre to explore the [Smart Nation Cityscape.](https://www.smartnation.gov.sg/community/showcases/cityscape) 
+Speaking of Smart Nation, head on down to the URA Centre to explore the [Smart Nation Cityscape](https://www.smartnation.gov.sg/community/showcases/cityscape){:target="_blank"}. 
 
 After being wowed by the model buildings forming a miniature rendering of Singapore’s landscape, they’ll learn about how technology is increasingly powering our daily city lives, including supporting the planning of towns and amenities and being embedded in our infrastructure. 
 
@@ -62,7 +62,7 @@ Talk about fun on wheels. Head down to the Sports Hub on the final weekend of th
 
 You’ll also get to test prototype and give feedback about upcoming digital government services. 
 
-If you already have plans for this weekend and want to catch the Smart Nation Builder at its next location, this [site](https://www.smartnation.gov.sg/community/showcases/builder) has regular updates on where the truck is headed next. 
+If you already have plans for this weekend and want to catch the Smart Nation Builder at its next location, this [site](https://www.smartnation.gov.sg/community/showcases/builder){:target="_blank"} has regular updates on where the truck is headed next. 
 
 ## Today’s play sets up long-term interest
 
