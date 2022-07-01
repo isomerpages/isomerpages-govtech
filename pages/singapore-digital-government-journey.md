@@ -32,26 +32,21 @@ Here are four videos featuring our Government Chief Digital Technology Officer, 
 
 Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series, which was produced through a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
 
-[Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/uqVs87aj9W8){:target="\_blank"}
+[Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/1qJ8aQdDQvw){:target="\_blank"}
 
-This episode covers the beginning of Singapore’s Digital Government journey over the decades, starting from the need for a Digital Government, the creation of GovTech and the Smart Nation Digital Government Office (SNDGO) as part of the Prime Minister’s Office, and how GovTech works with SNDGO to coordinate Singapore's Smart Nation and digitalisation projects across ministries.
+This first episode dives into the origins Of GovTech, the start of the Digital Government journey, the impetus for internal capability building in GovTech and the 'outside in' approach of solving problems for the customer.
 
-[Singapore’s Digital Government Story EP2: Smart Nation & GovTech](https://youtu.be/y4g5hs8EsDc){:target="\_blank"}
+[Singapore’s Digital Government Story EP2: Building Capabilities With Engineering Talent](https://youtu.be/TEmIuECWBHM){:target="\_blank"}
 
-In episode two, Cheow Hoe shares more on key areas important to our Digital Government efforts and Smart Nation vision, including:
+This episode highlights how GovTech has evolved over the years, with the establishment of five Capability Centres to strengthen Public Sector engineering expertise and build the government’s capabilities in emerging technologies. Cheow Hoe also spoke about the experience of recruiting engineering talent and building capabilities within GovTech – including developing the pipeline of talent.
 
-- Singapore’s Strategic National Projects
-- Data Architecture and Data Policy
-- Cloud Capabilities and Cloud Policy
-- Recruiting engineering talent and building capabilities within GovTech
+[Singapore’s Digital Government Story EP3: The Singapore Government Technology Stack (SGTS]](https://youtu.be/Wfc-Vg5KC8w){:target="\_blank"}
 
-[Singapore’s Digital Government Story EP3: Strategic National Projects](https://youtu.be/CE3xsNyR_BU){:target="\_blank"}
+Episode 3 shares the origins and evolution of the Singapore Government Technology Stack (SGTS), a Strategic National Project that offers government agencies a better, smarter and faster way for building applications.
 
-Episode 3 dives into the origins and evolution of the Singapore Government Technology Stack (SGTS), and takes a tour of other Strategic National Projects such as the Smart Nation Sensor Platform (SNSP), LifeSG and GoBusiness. Cheow Hoe also explains how our Digital Government addresses the everyday needs of people and businesses.
+[Singapore’s Digital Government Story EP4: Engaging the World](https://youtu.be/wzko3Bef8Fk){:target="\_blank"}
 
-[Singapore’s Digital Government Story EP4: Connecting with the World](https://youtu.be/1PD0_WLbFeM){:target="\_blank"}
-
-In this concluding episode, the spotlight is on how GovTech engages with the global community through forums like the Digital Government Exchange and by working with international agencies like the World Bank. Cheow Hoe also shares more about how GovTech reaches out to tech communities in the public, private and people sectors.
+Episode 4 spotlights how GovTech engages with the global community through forums like the [Digital Government Exchange (DGX)](/international-partnerships#digital-government-exchange){:target="_blank"}, sharing with countries like the UK, and working with international agencies like the UN and the World Bank. Cheow Hoe also shares more about how GovTech reaches out to tech communities through the [Singapore Government Developer Portal](https://www.developer.gov.sg){:target="_blank"} and the and the STACK Developers Conference.
 
 ## Digital Government Efforts
 
