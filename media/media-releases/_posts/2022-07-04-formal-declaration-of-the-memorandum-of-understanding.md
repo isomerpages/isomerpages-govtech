@@ -40,7 +40,7 @@ Bolstered by our close and harmonious partnership, GDS participates in two multi
 With a view to enabling each other to become better at what they do, GDS and GovTech will continue to collaborate and cooperate, sharing the knowledge and expertise from both sides to deliver better results for both countries.
 
 **References:**
-* (https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer){:target="_blank"}
-* (https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"}
+* [https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer]{:target="_blank"}
+* [https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services]{:target="_blank"}
 
 
