@@ -11,6 +11,12 @@ The United Kingdom and Singapore are pleased to announce the signing of a new Me
 
 The signing of the MoU took place on 4 July 2022 at 10 Whitechapel High Street, London. Representing the agencies to sign the MoU were Mr. Kok Ping Soon, Chief Executive of GovTech Singapore and Mr. Tom Read, Chief Executive Officer and Director General of Government Digital Service (GDS) UK.
 
+---
+
+![MoU signing between GovTech and UK Government Digital Service](/images/media/SG-UK-MoU-Jul2022.jpeg)
+*MoU signing between GovTech and UK Government Digital Service*
+
+
 **Providing digital government services**
 
 Both the UK and Singapore are widely recognised as digital leaders and take an active role in shaping international standards and discussions in the digital government space.
