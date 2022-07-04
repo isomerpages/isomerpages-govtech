@@ -48,7 +48,7 @@ With a view to enabling each other to become better at what they do, GDS and Gov
 ---
 
 **References:**
-* [UK-Singapore Digital Economy Agreement (UKSDEA)](https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer){:target="_blank"}
+* [UK-Singapore Digital Economy Agreement: final agreement explainer](https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer){:target="_blank"}
 * [UK-Singapore Digital Economy Agreement (UKSDEA)](https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements/UKSDEA){:target="_blank"}
 * [First UK-Singapore MoU in Digital Government Services](https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"}
 * [GovTech Singapore and the UK’s GDS sign MoU to deepen collaboration and exchange in the development of Digital Government Services](https://www.tech.gov.sg/media/media-releases/govtech-singapore-uk-gds-sign-mou-deepen-collaboration-and-exchange-development-digital-government-services){:target="_blank"}
