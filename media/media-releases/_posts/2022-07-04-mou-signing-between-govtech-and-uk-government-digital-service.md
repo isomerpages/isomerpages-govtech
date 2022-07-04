@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Formal Declaration of the Memorandum of Understanding " 
-permalink: /media/media-releases/2022-07-04-formal-declaration-of-the-memorandum-of-understanding
+title: "MoU signing between GovTech and UK Government Digital Service to strengthen collaboration in the design and delivery of digital government public services" 
+permalink: /media/media-releases/2022-07-04-mou-signing-between-govtech-and-uk-government-digital-service
 date: 2022-07-04
 ---
 
-### **Formal Declaration of the Memorandum of Understanding**
+### **MoU signing between GovTech and UK Government Digital Service to strengthen collaboration in the design and delivery of digital government public services**
 
 The United Kingdom and Singapore are pleased to announce the signing of a new Memorandum of Understanding (MoU) that continues to build on the existing relationship between the UK and Singapore on the areas of digital government. The MoU will remain in effect for 3 years and supports the long-standing partnership between the two agencies and helps to strengthen collaboration in the design and delivery of digital government public services.
 
