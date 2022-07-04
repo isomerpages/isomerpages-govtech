@@ -5,7 +5,7 @@ permalink: /media/media-releases/2022-07-04-formal-declaration-of-the-memorandum
 date: 2022-07-04
 ---
 
-### **Formal Declaration of the Memorandum of Understanding **
+### **Formal Declaration of the Memorandum of Understanding**
 
 The United Kingdom and Singapore are pleased to announce the signing of a new Memorandum of Understanding (MoU) that continues to build on the existing relationship between the UK and Singapore on the areas of digital government. The MoU will remain in effect for 3 years and supports the long-standing partnership between the two agencies and helps to strengthen collaboration in the design and delivery of digital government public services.
 
