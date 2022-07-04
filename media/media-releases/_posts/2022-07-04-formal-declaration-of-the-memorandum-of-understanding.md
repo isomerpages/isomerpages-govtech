@@ -23,7 +23,7 @@ The MoU will cover not only sharing know-how and approaches to building digital 
 
 **Continuing the digital government partnership**
 
-Since the signing of the first MoU in 2019, there have been a number of ongoing activities between GDS and agencies across Singapore’s public sector for personalisation.
+Since the [signing of the first MoU](https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"} in 2019, there have been a number of ongoing activities between GDS and agencies across Singapore’s public sector for personalisation.
 
 1.	GDS and GovTech have held knowledge exchanges on life event design approaches, with a particular focus on priority events, personalisation and use of data to underpin this work. 
 
@@ -38,4 +38,9 @@ Since the signing of the first MoU in 2019, there have been a number of ongoing 
 Bolstered by our close and harmonious partnership, GDS participates in two multilateral working groups for the Digital Government Exchange (DGX). DGX is an annual high-level conference run by the Singapore government and is attended by international public sector leaders from jurisdictions that have made significant progress in digital government. 
 
 With a view to enabling each other to become better at what they do, GDS and GovTech will continue to collaborate and cooperate, sharing the knowledge and expertise from both sides to deliver better results for both countries.
+
+**References:**
+* (https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer){:target="_blank"}
+* (https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"}
+
 
