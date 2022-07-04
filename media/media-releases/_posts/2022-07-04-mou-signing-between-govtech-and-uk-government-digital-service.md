@@ -44,6 +44,7 @@ With a view to enabling each other to become better at what they do, GDS and Gov
 *“The Government Digital Service is proud to partner with GovTech Singapore. Over the last three years we have shared experience and expertise on a number of topics, from digital capability and the COVID-19 response, to digital ID, data security and our Government as a Platform strategy. GDS recognises the incredible value of peer-to-peer partnerships for sharing and progressing good practice in digital government.”* - Mr. Tom Read, Chief Executive Officer and Director General of Government Digital Service (GDS) UK
 
 *“With economies around the world digitalising, it is imperative for Singapore to work with like-minded partners to push the boundaries of digital services for our citizens and businesses, and unlock greater benefits for the respective countries. The partnership between GovTech Singapore and the Government Digital Service will lock in the digitalisation gains that we have made respectively in the last three years, as we look forward to further improving the delivery of government services.”* - Mr. Kok Ping Soon, Chief Executive of GovTech Singapore
+
 ---
 
 **References:**
