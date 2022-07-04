@@ -41,6 +41,6 @@ With a view to enabling each other to become better at what they do, GDS and Gov
 
 **References:**
 * [UK-Singapore Digital Economy Agreement (UKSDEA)](https://www.gov.uk/government/publications/uk-singapore-digital-economy-agreement-explainer/uk-singapore-digital-economy-agreement-final-agreement-explainer){:target="_blank"}
-* [First UK-Singapore MoU](https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"}
+* [First UK-Singapore MoU in Digital Government Services](https://www.gov.uk/government/news/sin-sg-facilitates-new-uk-sg-mou-in-digital-government-services){:target="_blank"}
 
 
