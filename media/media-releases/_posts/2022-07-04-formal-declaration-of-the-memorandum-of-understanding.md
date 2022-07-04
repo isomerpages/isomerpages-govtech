@@ -21,12 +21,21 @@ In recent years, Singapore has invested heavily in Digital, Data and Technology 
 
 The MoU will cover not only sharing know-how and approaches to building digital services, but also exploring new ways of working that help build more effective, efficient and economical government digital services in the long term.
 
-Continuing the digital government partnership
+**Continuing the digital government partnership**
 
+Since the signing of the first MoU in 2019, there have been a number of ongoing activities between GDS and agencies across Singapore’s public sector for personalisation.
 
+1.	GDS and GovTech have held knowledge exchanges on life event design approaches, with a particular focus on priority events, personalisation and use of data to underpin this work. 
 
+2.	GovTech and UK GDS have started exchanging knowledge and working toward mutual recognition of UK and Singapore digital identities through pilots.
 
+3.	GDS supported a review of the data security regime in Singapore’s public sector. GDS Information Assurance Unit shared their experience and best practices on data security, which were helpful to Singapore’s Public Sector Data Security Review Committee (PSDSRC) in developing recommendations on data security processes and initiatives.
 
+4.	In October 2020, GDS and GovTech met to discuss respective national cloud strategies, with a particular focus on standards, security and the types of data that can be held in different environments.
 
+**MoU and beyond**
 
+Bolstered by our close and harmonious partnership, GDS participates in two multilateral working groups for the Digital Government Exchange (DGX). DGX is an annual high-level conference run by the Singapore government and is attended by international public sector leaders from jurisdictions that have made significant progress in digital government. 
+
+With a view to enabling each other to become better at what they do, GDS and GovTech will continue to collaborate and cooperate, sharing the knowledge and expertise from both sides to deliver better results for both countries.
 
