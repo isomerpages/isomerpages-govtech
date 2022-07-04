@@ -7,7 +7,7 @@ date: 2022-07-04
 
 ### **MoU signing between GovTech and UK Government Digital Service to strengthen collaboration in the design and delivery of digital government public services**
 
-The United Kingdom and Singapore are pleased to announce the signing of a new Memorandum of Understanding (MoU) that continues to build on the existing relationship between the UK and Singapore on the areas of digital government. The MoU will remain in effect for 3 years and supports the long-standing partnership between the two agencies and helps to strengthen collaboration in the design and delivery of digital government public services.
+The United Kingdom and Singapore are pleased to announce the signing of a new Memorandum of Understanding (MoU) that continues to build on the existing relationship between the UK and Singapore on the areas of digital government. The MoU will remain in effect for three years and supports the long-standing partnership between the two agencies and helps to strengthen collaboration in the design and delivery of digital government public services.
 
 The signing of the MoU took place on 4 July 2022 at 10 Whitechapel High Street, London. Representing the agencies to sign the MoU were Mr. Kok Ping Soon, Chief Executive of GovTech Singapore and Mr. Tom Read, Chief Executive Officer and Director General of Government Digital Service (GDS) UK.
 
