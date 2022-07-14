@@ -15,7 +15,7 @@ Singpass, our trusted national digital identity, provides a convenient and secur
 
 **All Government agencies to accept Digital IC, except for instances when physical document is required under the legislation**
 
-With the wider acceptance of Digital IC by the Government, Singpass app users can confidently and conveniently prove their identity using the Digital IC when transacting at Government counters, polyclinics and public libraries. This means that users will no longer need to bring their physical IC, except in a few instances<sup>[2]</sup>, e.g., when the legislation requires a physical identity document such as for marriage registrations and hotel check-ins. We are working on amending the legislation to formalise the use of Digital IC for these exceptions. The list of exceptions is available on the [Singpass website](http://www.go.gov.sg/digitalic-exceptions){:target="_blank"}.
+With the wider acceptance of Digital IC by the Government, Singpass app users can confidently and conveniently prove their identity using the Digital IC when transacting at Government counters, polyclinics and public libraries. This means that users will no longer need to bring their physical IC, except in a few instances<sup>[2]</sup>, e.g., when the legislation requires a physical identity document such as for marriage registrations and hotel check-ins. We are working on amending the legislation to formalise the use of Digital IC for these exceptions. 
 
 **Enhancements to the Digital IC feature in Singpass app**
 
