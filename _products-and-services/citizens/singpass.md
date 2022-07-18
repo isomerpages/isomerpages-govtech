@@ -37,7 +37,7 @@ Users can log in to digital services easily and securely in a few ways:
 
 When transacting over government counters^, users can prove their identity using their **Digital IC** easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks such as those located in libraries and polyclinics.
 
-^* For the list of services that require physical identification cards to be presented, visit the [Singpass FAQ website](https://go.gov.sg/singpass-faq){:target="_blank"}.*
+^*For the list of services that require physical identification cards to be presented, visit the [Singpass FAQ website](https://go.gov.sg/singpass-faq){:target="_blank"}.*
 
 ### **Singpass app: Seamless access to more services**
 
