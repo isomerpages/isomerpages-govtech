@@ -74,9 +74,6 @@
     url: /media/advisory/
   - title: Awards
     url: /media/awards/
-- title: Terms of Use
-  url: /terms-of-use/
-- title: Privacy
-  url: /privacy/
-- title: Report Vulnerability
-  url: /report_vulnerability/
+- title: Contact Us
+  url: /contact-us/
+
