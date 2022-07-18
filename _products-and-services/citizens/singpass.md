@@ -11,9 +11,17 @@ thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new
 
 ![Singpass Logo](/images/programmes/products-and-services/singpass-logo-new.png)
 
-[Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 2,000 government and private sector services online and in person. Users can log in to digital services, prove their identity over counters, digitally sign documents and do more with the improved Singpass. 
+[Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 2,000 government and private sector services online and in person.
+
+Of the 4.5 million residents on Singpass, more than 3.5 million users are on the Singpass app. Users can log in to digital services, prove their identity over counters, digitally sign documents and do more with the Singpass app. 
 
 Singpass is managed by the Government Technology Agency (GovTech) and is one of eight strategic national projects that drive Singapore’s Smart Nation vision.
+
+<div class="bp-youtube">
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUZf1ZcB0NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
 
 ### **Fast and convenient ways to prove who you are**
 
