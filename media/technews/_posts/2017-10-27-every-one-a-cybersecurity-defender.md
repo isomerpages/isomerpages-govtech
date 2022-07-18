@@ -58,8 +58,6 @@ But how can one guard against phishing emails?
 
 Mr Loe, the panel moderator, recommended looking out for tell-tale signs like spelling errors and urgent messages, even providing the acronym SUNDAE for easy recall.
 
-(Editor: For more details on how to spot phishing e-mails using the acronym, do check out our [scoop on SUNDAE!](https://www.tech.gov.sg/TechNews/Innovation/2016/11/No-Phishing-on-Sundaes))
-
 Mr Koh of Microsoft also suggested the use of an intelligence security graph to monitor logins and emails, so that suspicious online activities can be detected — and safely contained.
 
 This point was raised earlier by Mr Chan in his keynote, stating that such data goes a long way towards identifying behaviours that could be a point of compromise.
