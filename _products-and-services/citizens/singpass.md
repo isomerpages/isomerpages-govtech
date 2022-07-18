@@ -69,7 +69,7 @@ The Singpass app is built with accessibility features like dark mode and screen 
 
 Features such as Singpass Face Verification and Multi-User SMS 2FA ensure that even users without mobile phones can use Singpass to access digital services.
 
-* Singpass Face Verification can be used by any Singpass user who has access to an internet-device with a web camera or front-facing camera, including at agency kiosks such as Our Tampines Hub Public Services Centre.
+* Singpass Face Verification can be used by any Singpass user who has access to an Internet-device with a web camera or front-facing camera, including at agency kiosks such as Our Tampines Hub's Public Service Centre.
 
 * The Multi-User SMS 2FA is an extension of the SMS-OTP 2FA method, allowing users who may require the assistance of others when transacting online to opt for their SMS-OTPs to be sent to a trusted Singpass user’s mobile number.
 
@@ -87,7 +87,7 @@ Singpass has stringent security measures to safeguard users’ personal data whi
 
 ### **An enabler of better services and future-ready businesses**
 
-Singpass offers a suite of Application Programming Interfaces (API) that organisations can integrate easily to enhance their services, user experience and business efficiency. The current list of APIs include [Login](https://api.singpass.gov.sg/library/login/business/introduction){:target="_blank"}, [Verify](https://api.singpass.gov.sg/library/verify/business/introduction){:target="_blank"}, [Myinfo](https://api.singpass.gov.sg/library/myinfo/business/introduction){:target="_blank"}, [Myinfo Business](https://api.singpass.gov.sg/library/myinfobiz/business/introduction){:target="_blank"}, [Identiface](https://api.singpass.gov.sg/library/identiface/business/introduction){:target="_blank"} and [Sign](https://api.singpass.gov.sg/library/sign/business/introduction){:target="_blank"}.
+Singpass offers a suite of Application Programming Interfaces (API) that organisations can integrate easily to enhance their services, user experience and business efficiency. The current list of APIs include [Login](https://api.singpass.gov.sg/library/login/business/introduction){:target="_blank"}, [Verify](https://api.singpass.gov.sg/library/verify/business/introduction){:target="_blank"}, [Myinfo](https://api.singpass.gov.sg/library/myinfo/business/introduction){:target="_blank"}, [Myinfo business](https://api.singpass.gov.sg/library/myinfobiz/business/introduction){:target="_blank"}, [Identiface](https://api.singpass.gov.sg/library/identiface/business/introduction){:target="_blank"} and [Sign](https://api.singpass.gov.sg/library/sign/business/introduction){:target="_blank"}.
 
 Organisations interested in using the Singpass’ suite of services can visit the Singpass API Developer and Partner Portal at [https://api.singpass.gov.sg](https://api.singpass.gov.sg){:target="_blank"} or contact us [here](https://api.singpass.gov.sg/#connect-with-us){:target="_blank"}.
 
