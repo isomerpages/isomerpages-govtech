@@ -5,7 +5,7 @@ permalink: /products-and-services/government-on-commercial-cloud/
 breadcrumb: Government on Commercial Cloud
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/GCC.png
 ---
 
 #### **Government on Commercial Cloud (GCC)**
