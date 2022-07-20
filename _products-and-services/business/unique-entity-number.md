@@ -5,7 +5,7 @@ permalink: /products-and-services/unique-entity-number/
 breadcrumb: Unique Entity Number
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/UEN.png
 ---
 
 Prior to the implementation of the [Unique Entity Number (UEN)](https://www.uen.gov.sg){:target="_blank"} in 2009, entities such as businesses, companies and societies used a variety of different identifiers. This included the ACRA number issued by the Accounting and Corporate Regulatory Authority (ACRA) to registered companies, businesses and limited liability partnerships, the ROS number issued by Registry of Societies (ROS) to registered societies, the Central Registration (CR) number issued by the Department of Statistics to various categories of entities as required for survey or statistical purposes, and the CPF employer number issued by the Central Provident Fund Board to all employers.
