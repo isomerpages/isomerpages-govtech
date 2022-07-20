@@ -5,7 +5,7 @@ permalink: /products-and-services/formsg/
 breadcrumb: FormSG
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/FormSG.png
 ---
 
 [FormSG](https://form.gov.sg/#!/) is a form builder tool developed by GovTech’s Data Science & Artificial Intelligence Capability Centre. FormSG enables public officers to create digital government forms in minutes, replacing the use of paper forms.
