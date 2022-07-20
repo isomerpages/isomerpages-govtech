@@ -5,7 +5,7 @@ permalink: /products-and-services/responding-to-covid-19-with-tech/
 breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg  
+thumbnail_image: /images/programmes/products-and-services/COVID_tech.png  
 ---
 
 ![hero](/images/Thumbnail.jpg)
