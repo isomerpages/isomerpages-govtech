@@ -16,9 +16,9 @@ When planning out digital government services, our GovTech teams go beyond the u
 
 ![accessibility SPM](/images/programmes/products-and-services/singpass-logo-new.png)
 
-**SingPass Mobile**
+**Singpass**
 
-SingPass Mobile is a mobile app that is designed to make transacting with government and businesses faster and easier for all SingPass users.
+Singpass is a mobile app that is designed to make transacting with government and businesses faster and easier for all Singpass users.
 
 **What has the team done to make the app inclusive?**
 
