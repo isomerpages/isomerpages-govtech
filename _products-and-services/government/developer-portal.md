@@ -5,7 +5,7 @@ permalink: /products-and-services/developer-portal/
 breadcrumb: Developer Portal
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/DeveloperPortal.png
 ---
 
 [Singapore Government Developer Portal](https://www.developer.tech.gov.sg) is a one-stop resource site for developers and other technology professionals to discover the latest government tech solutions and to integrate them into their applications and mash-ups.
