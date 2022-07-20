@@ -5,7 +5,7 @@ permalink: /products-and-services/opendoc/
 breadcrumb: Open Doc
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/OpenDoc.png
 ---
 
 OpenDoc is an online document viewer created by GovTech for Ministries and Statutory Boards of the Singapore Government. It provides templates for websites, hosting and sharing of publicly accessible documents.
