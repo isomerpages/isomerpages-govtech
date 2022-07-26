@@ -5,7 +5,7 @@ permalink: /products-and-services/cyber-security-group/
 breadcrumb: Cyber Security Group (CSG)
 collection_name: products-and-services
 tag: government
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/CSG.png
 ---
 
 **The Cyber Security Group (CSG)** is the cybersecurity lead for the Government sector with a mandate to protect the Singapore government’s ICT&SS (Smart Systems) and to build a trusted digital government for Singapore. To achieve these goals, CSG adopts a three-pronged approach: 1) develop cybersecurity capabilities; 2) collaborate with Whole-of-Government (WOG) agencies; and 3) forge industry partnerships.

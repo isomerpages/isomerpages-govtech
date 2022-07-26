@@ -5,7 +5,7 @@ permalink: /products-and-services/parents-gateway/
 breadcrumb: Parents Gateway
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/ParentsGateway.png
 ---
 
 Jointly developed by the Ministry of Education and GovTech, [Parents Gateway](https://pg.moe.edu.sg/) is a one-stop mobile app that strengthens the partnership between schools and families.

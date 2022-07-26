@@ -5,7 +5,7 @@ permalink: /products-and-services/student-learning-space/
 breadcrumb: Student Learning Space
 collection_name: products-and-services
 tag: citizens
-thumbnail_image: /images/programmes/products-and-services/test.jpg
+thumbnail_image: /images/programmes/products-and-services/Student_Learning_Space.png
 ---
 
 <div class="bp-youtube">
