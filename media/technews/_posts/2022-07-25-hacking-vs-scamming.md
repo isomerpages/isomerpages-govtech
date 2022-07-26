@@ -5,7 +5,7 @@ permalink: "/media/technews/hacking-vs-scamming"
 category: technews
 image: "/images/technews/jagasuper.png"
 ---
-Hacking vs scamming – take this quiz with our cyber and data security mascot to know the difference? 
+Hacking vs scamming – take this quiz with our cyber and data security mascot to know the difference!
 ---
 
 Digital technology has undoubtedly made our lives easier, bringing a whole new level of convenience to everyday activities like checking our bank account balance and grocery shopping. Yet this increasing dependence on tech also means that there are more opportunities for bad actors to prey on potential victims.
