@@ -17,7 +17,7 @@ So what’s the difference between a hacker and scammer? Essentially, hackers us
 It might not seem important to distinguish between a hack and a scam, but knowing the difference means you know how these crimes are committed and gives you a better chance of detecting and avoiding them. Think you can spot one from the other? Jaga, our cyber and data security mascot, will put your knowledge to the test with this handy quiz below!
 
 
-![Be super like Super Jaga](/images/technews/jagasuper.png)
+![Be super like Super Jaga](/images/technews/SuperJaga2.png)
 *Super Jaga to the rescue* 
 
 ## Scenario 1:
@@ -61,11 +61,16 @@ It’s a scam! Scammers take advantage of one’s feelings and then combine that
 
 ## How did you fare? 
 
+![Jaga-5](/images/technews/jaga-5.png)
+
 5/5 – Perfect! You’re up to date with the different forms of dangers online and can avoid such harm. 
-![Thumbs up](/images/technews/Jagathumbsup.png)
 
 
+![Jaga-3-4](/images/technews/jaga-3-4.png)
 3-4/5 – Good, you’re familiar with cyber threats but some things may slip past you.
-![Thumbs up](/images/technews/jagashocked.png)
 
-0-2/5  – There should be alarm bells ringing in your head! Your lack of awareness of scams and hacks make you vulnerable to them. Stay safe online by reading up more about [scams](https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf) and other information on preventing [hacks.](https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers)  
+
+![Jaga-0-2](/images/technews/jaga-0-2.png)
+0-2/5  – There should be alarm bells ringing in your head! Your lack of awareness of scams and hacks make you vulnerable to them. Stay safe online by reading up more about [scams](https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf) and other information on preventing [hacks.](https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers)
+
+
