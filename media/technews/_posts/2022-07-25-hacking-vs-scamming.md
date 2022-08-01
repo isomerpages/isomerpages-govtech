@@ -10,14 +10,14 @@ Hacking vs scamming – take this quiz with our cyber and data security mascot t
 
 Digital technology has undoubtedly made our lives easier, bringing a whole new level of convenience to everyday activities like checking our bank account balance and grocery shopping. Yet this increasing dependence on tech also means that there are more opportunities for bad actors to prey on potential victims.
 
-Indeed, hacks and scams are on the rise in Singapore. For instance, scam [victims here lost $633.3 million in 2021](https://www.straitstimes.com/singapore/courts-crime/victims-lost-6333-million-to-scams-in-2021), 2.5 times the amount the previous year. There has also been a [surge in the hacking of internet-linked household devices.](https://www.todayonline.com/singapore/surge-singapore-linked-botnet-drones-used-cyber-criminals-hack-household-devices-report)
+Indeed, hacks and scams are on the rise in Singapore. For instance, scam [victims here lost $633.3 million in 2021](https://www.straitstimes.com/singapore/courts-crime/victims-lost-6333-million-to-scams-in-2021){:target="_blank"}, 2.5 times the amount the previous year. There has also been a [surge in the hacking of internet-linked household devices.](https://www.todayonline.com/singapore/surge-singapore-linked-botnet-drones-used-cyber-criminals-hack-household-devices-report){:target="_blank"}
 
 So what’s the difference between a hacker and scammer? Essentially, hackers use their technical ability in information technology to gain access to computers, devices, and accounts of their victims. Scammers on the other hand, trick their victims into giving them the same access. 
 
 It might not seem important to distinguish between a hack and a scam, but knowing the difference means you know how these crimes are committed and gives you a better chance of detecting and avoiding them. Think you can spot one from the other? Jaga, our cyber and data security mascot, will put your knowledge to the test with this handy quiz below!
 
 
-![Be super like Super Jaga](/images/technews/jagasuper.png)
+![Be super like Super Jaga](/images/technews/SuperJaga2.png)
 *Super Jaga to the rescue* 
 
 ## Scenario 1:
@@ -61,11 +61,16 @@ It’s a scam! Scammers take advantage of one’s feelings and then combine that
 
 ## How did you fare? 
 
+![Jaga-5](/images/technews/jaga-5.png)
+
 5/5 – Perfect! You’re up to date with the different forms of dangers online and can avoid such harm. 
-![Thumbs up](/images/technews/Jagathumbsup.png)
 
 
+![Jaga-3-4](/images/technews/jaga-3-4.png)
 3-4/5 – Good, you’re familiar with cyber threats but some things may slip past you.
-![Thumbs up](/images/technews/jagashocked.png)
 
-0-2/5  – There should be alarm bells ringing in your head! Your lack of awareness of scams and hacks make you vulnerable to them. Stay safe online by reading up more about [scams](https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf) and other information on preventing [hacks.](https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers)  
+
+![Jaga-0-2](/images/technews/jaga-0-2.png)
+0-2/5  – There should be alarm bells ringing in your head! Your lack of awareness of scams and hacks make you vulnerable to them. Stay safe online by reading up more about [scams](https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf){:target="_blank"} and other information on preventing [hacks.](https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers){:target="_blank"}
+
+
