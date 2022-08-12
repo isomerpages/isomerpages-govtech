@@ -17,4 +17,6 @@ ODP is envisioned to be the reference open digital architecture for future smart
 
 <i><b>James Tan, Director, Smart District Division, JTC</b></i>
 
+The IDC received over 250 Smart City initiatives from the public sector and industry players. Award finalists were selected using IDC's Smart City Development Index Framework – a six-phase benchmarking process that places a 25% judging weightage on public voting in its second phase.
+
 We welcome international collaborators to work with us on similar projects by writing to us at <info@tech.gov.sg>.
