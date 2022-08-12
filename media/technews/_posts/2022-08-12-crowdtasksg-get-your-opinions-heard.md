@@ -5,9 +5,11 @@ permalink: "/media/technews/crowdtasksg-get-your-opinions-heard"
 category: technews
 image: "/images/technews/crowdtasksg.png"
 ---
+
 Are you someone who always has opinions on the latest trending news and topics? Or, are you the type of diner who leaves an online review after visiting a restaurant? Do you often leave tips and recommendations on travel sites after an overseas trip? 
 
 If you love benefitting and contributing to the wisdom of the crowd or sharing your views about government policies, then you’ll love CrowdTaskSG – a newly launched crowdsourcing web portal to tap the collective intelligence of Singaporeans. 
+
 ---
 
 ## What’s CrowdTaskSG?
