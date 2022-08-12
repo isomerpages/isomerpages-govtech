@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Digital Platform wins Urban Planning and Land Use category at the IDC Smart City Asia Pacific Awards 2021  "
 date:   2022-08-15
-permalink: "/media/awards/2022-04-01-sgfindex-wins-most-innovative-use-of-data-for-digital-transformation-at-the-inspire-tech-awards-2021"
+permalink: "/media/awards/2022-08-15-open-digital-platform-wins-urban-planning-land-use-category-idc-smart-city-asia-pacific-awards-2021"
 ---
 
 [Open Digital Platform (ODP)](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district){:target="_blank"} has won the Urban Planning and Land Use category at the International Data Corporation Smart City Asia Pacific (IDC SCAPA) Awards 2021.
