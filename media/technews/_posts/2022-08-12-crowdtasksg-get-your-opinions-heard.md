@@ -3,7 +3,7 @@ layout: post
 title: "CrowdTaskSG - Get your opinions heard!"
 permalink: "/media/technews/crowdtasksg-get-your-opinions-heard"
 category: technews
-image: "/images/technews/crowdtasksg.png"
+image: "/images/technews/crowdtasksg-logo.png"
 ---
 
 Are you someone who always has opinions on the latest trending news and topics? Or, are you the type of diner who leaves an online review after visiting a restaurant? Do you often leave tips and recommendations on travel sites after an overseas trip? 
