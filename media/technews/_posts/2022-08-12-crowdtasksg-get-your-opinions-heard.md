@@ -54,5 +54,5 @@ GovTech is all about improving the lives of everyone through technology. The fun
 
 So, join us as we leverage citizens’ expertise to solve problems. Who knows, your input and insight might just end up being the killer feature of the government’s next digital product. 
 
-Sign up for your account here: (https://www.crowdtask.gov.sg/){:target="_blank"}
+Sign up for your account here: [https://www.crowdtask.gov.sg](https://www.crowdtask.gov.sg){:target="_blank"}
 
