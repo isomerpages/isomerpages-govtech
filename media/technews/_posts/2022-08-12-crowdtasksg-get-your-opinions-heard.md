@@ -22,7 +22,7 @@ For instance:
 
 The platform is a one-stop shop, consolidating tasks from the whole of government and allowing interested people to easily access them. 
 
-All Singapore citizens and Permanent Residents above the age of 18 are able to access the portal with their Singpass account.
+All Singapore citizens and Permanent Residents aged 18 years and above are able to access the portal with their Singpass account.
 
 ## How can I benefit from this? 
 
