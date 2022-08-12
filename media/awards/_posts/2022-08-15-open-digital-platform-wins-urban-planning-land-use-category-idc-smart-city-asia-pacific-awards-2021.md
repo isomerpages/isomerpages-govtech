@@ -11,7 +11,7 @@ ODP is a cross-agency collaboration within the Singapore government involving JT
 
 Data collected by IoT sensors throughout the estate would be ingested by the ODP. As it centralises district processes, estate managers can leverage the platform to proactively optimise and control estate operations. With the completion of the base platform, district enhancements and system integration will continue until PDD is move-in ready in 2024. The next phase of development includes EV charging technologies, CCTVs, Smart Meeting Rooms, District Cooling, and Smart Grid. 
 
-ODP is envisioned to be the reference open digital architecture for future smart districts in Singapore.  
+ODP is envisioned to be the reference open digital architecture for future smart districts in Singapore. Find out more about ODP [here](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd){:target="_blank"}.
 
 *"ODP is akin to the android OS for buildings. PDD will allow developers to develop applications for PDD’s estate systems."*
 
