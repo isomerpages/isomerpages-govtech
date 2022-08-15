@@ -32,7 +32,6 @@ Much of these are derived from the SIOT Tech Stack that is made up of three core
 Our engineers and solution architects are given a lot of flexibility and autonomy for them to exercise their full expertise and to take charge of the end-to-end engineering process. They are also provided with resources required to build, architect, and deploy products and digital services.
 
 Follow our Medium blog to find out more about what we do:
-* [https://www.siot.gov.sg](https://www.siot.gov.sg){:target="_blank"}
 *	[https://medium.com/siot-govtech](https://medium.com/siot-govtech){:target="_blank"}
 
 Here are some of the roles we are hiring for:
