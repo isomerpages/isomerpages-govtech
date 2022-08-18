@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five ways to keep your Singpass safe"
-permalink: "/media/technews/crowdtasksg-get-your-opinions-heard"
+permalink: "/media/technews/five-ways-to-keep-your-singpass-safe"
 category: technews
 image: "/images/technews/singpasssecure2.png"
 ---
