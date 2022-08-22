@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Benefits of Solar Power"
-permalink: "/media/technews/benefits-of-solar-polar"
+permalink: "/media/technews/benefits-of-solar-power"
 category: technews
 image: "images/technews/solar2.jpg"
 ---
