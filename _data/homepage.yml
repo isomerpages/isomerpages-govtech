@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/homepage-banner-SNB-june22.png
+hero-banner: /images/CTSG_aug22.jpg
 
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://www.smartnation.gov.sg/community/showcases/builder
+    url: https://www.crowdtask.gov.sg/
     
 # Key Highlights
 key-highlights:
