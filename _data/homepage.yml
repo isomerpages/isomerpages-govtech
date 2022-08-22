@@ -24,7 +24,7 @@ hero-banner: /images/CTSG_aug22.jpg
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://www.crowdtask.gov.sg/
+    url: https://go.gov.sg/techcorp-ctsg
     
 # Key Highlights
 key-highlights:
