@@ -12,12 +12,12 @@ date: 2022-08-24
 ---
 
 **SINGAPORE, 23 Aug 2022** — 107 recipients were awarded scholarships by the Ministry of Communications and Information (MCI) and its statutory boards; as well as the Smart Nation Digital Government Group (SNDGG), today. This is the first joint scholarship award ceremony by the MCI and SNDGG families, which are both under the portfolio of Minister for Communications and Information and Minister-in-charge of the Cyber Security Agency and Smart Nation Initiative, Mrs Josephine Teo. This inaugural ceremony replaces separate events for each scholarship held by the six agencies<sup>[1]</sup> in the MCI and SNDGG families in previous years. The scholarships are part of a collective effort to groom technology, media, library and archives services, communications and translation talents. A total of 6 scholarships were awarded. They are: 
-a.	IMDA SG Digital Leaders 
-b.	IMDA SG Digital Scholarship 
-c.	Smart Nation Scholarship 
-d.	MCI Information Service and Translation Scholarship
-e.	MCI Postgraduate Scholarship
-f.	NLB Scholarship
+<br>a.	IMDA SG Digital Leaders 
+<br>b.	IMDA SG Digital Scholarship 
+<br>c.	Smart Nation Scholarship 
+<br>d.	MCI Information Service and Translation Scholarship
+<br>e.	MCI Postgraduate Scholarship
+<br>f.	NLB Scholarship
 
 #### **Inaugural Batch of SG Digital Leaders Awarded**
 
@@ -59,41 +59,41 @@ NLB seeks to build and nurture a multi-disciplinary talent pipeline in informati
 
 **For media clarifications, please contact:**
 
-MCI
-Jaclyn Wong (Ms)
-Assistant Director (Media Relations), Communications & Engagement Division, Ministry of Communications and Information 
-(65) 9452 2710
-<jaclyn_wong@mci.gov.sg>
+<br>**MCI**
+<br>Jaclyn Wong (Ms)
+<br>Assistant Director (Media Relations), Communications & Engagement Division, Ministry of Communications and Information 
+<br>(65) 9452 2710
+<br><jaclyn_wong@mci.gov.sg>
 
-IMDA
-Crystal Chan (Ms)
-Assistant Manager, Communications and Marketing, IMDA
-(65) 9327 3630
-<crystal_chan@imda.gov.sg>
+<br>**IMDA**
+<br>Crystal Chan (Ms)
+<br>Assistant Manager, Communications and Marketing, IMDA
+<br>(65) 9327 3630
+<br><crystal_chan@imda.gov.sg>
 
-CSA
-Cheryl Lee (Ms)
-Senior Manager, Communications & Engagement Office, CSA
-(65) 9620 5019
-<cheryl_lee@csa.gov.sg>
+<br>**CSA**
+<br>Cheryl Lee (Ms)
+<br>Senior Manager, Communications & Engagement Office, CSA
+<br>(65) 9620 5019
+<br><cheryl_lee@csa.gov.sg>
 
-GovTech
-Sharleen TEO (Ms)
-Assistant Manager, Communications and Marketing Group, GovTech
-(65) 9100 8335
-<sharleen_teo@tech.gov.sg>
+<br>**GovTech**
+<br>Sharleen TEO (Ms)
+<br>Assistant Manager, Communications and Marketing Group, GovTech
+<br>(65) 9100 8335
+<br><sharleen_teo@tech.gov.sg>
 
-NLB
-Winnie Wong (Ms)
-Assistant Manager, Corporate Communications Division, NLB
-(65) 9185 9973
-<winnie_wong@nlb.gov.sg>
+<br>**NLB**
+<br>Winnie Wong (Ms)
+<br>Assistant Manager, Corporate Communications Division, NLB
+<br>(65) 9185 9973
+<br><winnie_wong@nlb.gov.sg>
 
-PMO
-Chia Suat Ning (Ms)
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 8182 8052
-<chia_suat_ning@pmo.gov.sg>
+<br>**PMO**
+<br>Chia Suat Ning (Ms)
+<br>Manager, Adoption and Engagement Directorate
+<br>Smart Nation and Digital Government Office, Prime Minister’s Office
+<br>Tel: 8182 8052
+<br><chia_suat_ning@pmo.gov.sg>
 
 
