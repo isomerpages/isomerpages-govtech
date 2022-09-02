@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/CTSG_aug22_2.jpg
+hero-banner: /images/Tech_Hunt1.png
 
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://go.gov.sg/techcorp-ctsg
+    url: https://www.tech.gov.sg/media/events/techhunt2022
     
 # Key Highlights
 key-highlights:
