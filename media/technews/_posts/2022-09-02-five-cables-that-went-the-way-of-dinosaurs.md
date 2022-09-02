@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet Temi – your friendly museum guide who happens to be a robot"
+title: "Five cables that went the way of dinosaurs"
 permalink: "/media/technews/five-cables-that-went-the-way-of-dinosaurs"
 category: technews
 image: "/images/technews/5cables-30pin.jpg"
