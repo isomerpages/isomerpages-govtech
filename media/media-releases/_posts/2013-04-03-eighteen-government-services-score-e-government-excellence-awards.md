@@ -31,7 +31,7 @@ The winning services for each category are:
 
 **People Engagement:**
 1. Ministry of Defence (MINDEF) - cyberpioneerTV & cyberpioneer Facebook (Distinguished)
-2. Ministry of Manpower (MOM) - SNAP@MOM (Merit)
+2. Ministry of Manpower (MOM) - SNAP@MOM (Merit) (SNAP@MOM is now decommissioned)
 3. National Library Board (NLB) - Singapore Memory Project (Merit)
 
 **Shared Systems & Services:**
