@@ -31,8 +31,10 @@ The winning services for each category are:
 
 **People Engagement:**
 1. Ministry of Defence (MINDEF) - cyberpioneerTV & cyberpioneer Facebook (Distinguished)
-2. Ministry of Manpower (MOM) - SNAP@MOM (Merit)
+2. Ministry of Manpower (MOM) - SNAP@MOM (Merit)^
 3. National Library Board (NLB) - Singapore Memory Project (Merit)
+
+*^SNAP@MOM is now decommissioned and has been replaced by this [MOM e-feedback form](https://www.mom.gov.sg/report-wsh-issues){:target="_blank"}.*
 
 **Shared Systems & Services:**
 1. Building & Construction Authority (BCA) - One-Stop CORENET System (Distinguished)
@@ -69,7 +71,6 @@ More details on the eGov Excellence awards, distinguished and merit award recipi
 * [Factsheet - OneMap](/files/media/media-releases/2013/04/factsheetOneMappdf.pdf)
 * [Factsheet - PA'S IPhone Application, Ourcommunity](/files/media/media-releases/2013/04/factsheetPAiPhoneApppdf.pdf)
 * [Factsheet - Singapore Memory Project (SMP)](/files/media/media-releases/2013/04/factsheetsmppdf.pdf)
-* [Factsheet - SNAP@MOM](/files/media/media-releases/2013/04/factsheetSNAPpdf.pdf)
 * [Factsheet - Be Empowered for an All New Travelling Experience](/files/media/media-releases/2013/04/factsheettravelexppdf.pdf)
 
 ### **About the Ministry of Finance**
