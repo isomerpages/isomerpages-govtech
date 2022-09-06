@@ -69,7 +69,6 @@ More details on the eGov Excellence awards, distinguished and merit award recipi
 * [Factsheet - OneMap](/files/media/media-releases/2013/04/factsheetOneMappdf.pdf)
 * [Factsheet - PA'S IPhone Application, Ourcommunity](/files/media/media-releases/2013/04/factsheetPAiPhoneApppdf.pdf)
 * [Factsheet - Singapore Memory Project (SMP)](/files/media/media-releases/2013/04/factsheetsmppdf.pdf)
-* [Factsheet - SNAP@MOM](/files/media/media-releases/2013/04/factsheetSNAPpdf.pdf)
 * [Factsheet - Be Empowered for an All New Travelling Experience](/files/media/media-releases/2013/04/factsheettravelexppdf.pdf)
 
 ### **About the Ministry of Finance**
