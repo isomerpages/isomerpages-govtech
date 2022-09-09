@@ -7,9 +7,9 @@ image: "/images/technews/5cables-30pin.jpg"
 
 ---
 
-Concerned about sustainability and e-waste, the European Union recently suggested that all smartphones should use the USB-C standard. If that comes true, your iPhone’s lighting cable might go the way of the Dodo. 
+Concerned about sustainability and e-waste, the European Union recently suggested that all smartphones should use the USB-C standard. If that comes true, your iPhone’s lightning cable might go the way of the Dodo. 
 
-Don’t feel too sad though. The lighting cable won’t be the first to go obsolete. Neither will it be the last. 
+Don’t feel too sad though. The lightning cable won’t be the first to go obsolete. Neither will it be the last. 
 
 In the grand scheme of things, technology advances and cables come and go. Chances are, you’re holding on to some of these cable dinosaurs in some hidden corner of your house. 
 
@@ -25,7 +25,7 @@ Found on: Old Apple Devices
 Making its debut in 2003 on another extinct device – the iPod classic – the Apple 30 pin went on to appear on many iconic devices of the early 2000s. The first generation iPhone used this, so did the iPod touch. 
 
 It wasn’t just Apple that utilised the 30-pin though. The rise of Apple throughout the decade also meant that many third party manufacturers incorporated the 30-pin into their designs. If you look at and hotels last renovated pre-2010s, you can sometimes still find the 30-pin dock in their entertainment systems.
-Of course, all good things come to an end. The Lightning cable appeared in 2012, and Apple’s love affair with the 30-pin died with the iPhone 4S and iPad 3 in 2014. 
+Of course, all good things come to an end. The lightning cable appeared in 2012, and Apple’s love affair with the 30-pin died with the iPhone 4S and iPad 3 in 2014. 
 
 ## DVI
 Found on: TVs and Monitors
