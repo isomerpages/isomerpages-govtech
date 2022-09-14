@@ -8,7 +8,7 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/Data_gov_sg.png
 ---
 
-[Data.gov.sg](https://data.gov.sg/){:target="_blank"} was first launched in 2011 as the government's one-stop portal to its publicly available datasets from various public agencies. 
+[Data.gov.sg](https://data.gov.sg/){:target="_blank"} is the Government's one-stop portal for publicly available datasets from various public agencies. 
 
 Data.gov.sg goes beyond being a data repository. It aims to make government data relevant and understandable to the public, through the active use of data visualisations and data-driven articles. The key features of the portal are high quality data presented via dashboards for quick reference, shareable charts and tables of datasets, and data blogs of social trends and government policies explained using data analysis and visualisations.
 
