@@ -50,5 +50,5 @@ STACK the Codes Hackathon: 7 Oct to 15 Nov 2022
 
 STACK the Flags: 2 to 4 Dec 2022
  
-STACK the Codes is now open for registration! [Sign up now](https://go.gov.sg/jagathestack), we look forward to seeing you there!
+STACK the Codes is now open for registration! [Sign up now](https://jts.tech.gov.sg/?utm_source=technews&utm_medium=organic_post&utm_campaign=jaga_the_stack_2022){:target="_blank"}, we look forward to seeing you there!
 
