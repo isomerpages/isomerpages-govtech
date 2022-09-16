@@ -19,12 +19,12 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/Tech_Hunt1.png
+hero-banner: /images/STACK2022-Corp-Banner1.jpg
 
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://www.tech.gov.sg/media/events/techhunt2022
+    url: https://www.govtechstack.sg/page/stack-2022-home
     
 # Key Highlights
 key-highlights:
