@@ -43,7 +43,7 @@ Calvin is looking forward to this year’s edition. Beyond the prize money, he b
  
 Sean and his team also had a great time and strongly encourages his friends to take part this year. “The competition is a good chance for them to showcase skills they’ve learnt in and out of school. The challenges were rewarding, and this would be a good chance for students like us to gain more exposure in the field.”
  
-For more information on Jaga the STACK,  visit https://go.gov.sg/jagathestack
+Find out more about [Jaga the STACK](https://jts.tech.gov.sg/?utm_source=technews&utm_medium=organic_post&utm_campaign=jaga_the_stack_2022){:target="_blank"}.
  
 ## Competition dates:
 STACK the Codes Hackathon: 7 Oct to 15 Nov 2022
