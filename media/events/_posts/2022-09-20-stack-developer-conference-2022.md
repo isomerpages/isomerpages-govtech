@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "STACK DEVELOPER CONFERENCE 2022"
+title:  "STACK Developer Conference 2022"
 permalink: "/media/events/stack-developer-conference-2022"
 category: events
 ---
