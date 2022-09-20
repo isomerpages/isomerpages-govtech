@@ -73,7 +73,7 @@ Co-founder & Chief Technologist, Databricks
 **Mr Grant Orchard** 
 Field Chief Technology Officer, Hashicorp
 
-*And many more!
+*And many more!*
 
 For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
 
