@@ -35,22 +35,22 @@ Senior Minister of State at Ministry of Communications, and Minister-in-Charge o
 
 **Day 1:**
 
-* **Keynote: Why SaaS and PaaS are Perfect for Government -- Almost Every Time!**
+**Keynote: Why SaaS and PaaS are Perfect for Government -- Almost Every Time!**
 
 **Mr Paul Tatum** 
 Executive Vice President, Solution Engineering for Global Public Sector, Salesforce
 
-*	**Keynote: Extending the AWS Cloud Outside of Public Regions**
+**Keynote: Extending the AWS Cloud Outside of Public Regions**
 
 **Mr Anthony Liguori** 
 Vice President & Distinguished Engineer, Amazon Web Services
 
-*	**Keynote: Delivering Trust in a Data-Driven World**
+**Keynote: Delivering Trust in a Data-Driven World**
 
 **Ms Rebecca Parsons** 
 Chief Technology Officer, Thoughtworks
 
-*	**Keynote: How to Scale Your Business with a DevOps Platform**
+**Keynote: How to Scale Your Business with a DevOps Platform**
 
 **Mr Sytse “Sid” Sijbrandij** 
 Chief Executive Officer & Co-founder, GitLab
@@ -58,22 +58,22 @@ Chief Executive Officer & Co-founder, GitLab
 
 **Day 2:**
 
-*	**Keynote: Zero Trust at Scale**
+**Keynote: Zero Trust at Scale**
 
 **Mr Paul Lorimer** 
 Corporate Vice President, Microsoft Enterprise and Cloud
 
-*	**Keynote: Simplifying Data and AI with Lakehouse Platforms**
+**Keynote: Simplifying Data and AI with Lakehouse Platforms**
 
 **Mr Matei Zaharia** 
 Co-founder & Chief Technologist, Databricks
 
-*	**Keynote: The Rise of the Platforms Team: An Organisational Response to Developer Experience**
+**Keynote: The Rise of the Platforms Team: An Organisational Response to Developer Experience**
 
 **Mr Grant Orchard** 
 Field Chief Technology Officer, Hashicorp
 
-***And many more!**
+*And many more!
 
 For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
 
