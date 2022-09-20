@@ -25,7 +25,7 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 
 **Opening address (15 Nov)**
 <br>**Mrs Josephine Teo**
-<br>Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity
+<br>Minister for Communications and Information, and Minister-in-Charge of Smart Nation and Cybersecurity
 
 
 ### Guest Speaker
@@ -33,7 +33,7 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 
 **Opening address (16 Nov)**
 <br>**Dr Janil Puthucheary**
-<br>Senior Minister of State at Ministry of Communications and Minister-in-Charge of GovTech
+<br>Senior Minister of State at Ministry of Communications and Information, and Minister-in-Charge of GovTech
 
 
 ### Speakers
