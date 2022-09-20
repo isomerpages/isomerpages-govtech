@@ -38,7 +38,7 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 ### Speakers
 
 
-**Day 1:**
+### Day 1:
 
 
 **Keynote: Why SaaS and PaaS are Perfect for Government -- Almost Every Time!**
@@ -61,7 +61,7 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 <br>Chief Executive Officer & Co-founder, GitLab
 
 
-**Day 2:**
+### Day 2:
 
 
 **Keynote: Zero Trust at Scale**
