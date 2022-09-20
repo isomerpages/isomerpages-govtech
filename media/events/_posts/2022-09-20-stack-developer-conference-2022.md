@@ -10,7 +10,7 @@ category: events
 GovTech's flagship STACK Developer Conference is back for a hybrid edition this year, gathering the tech community with an exciting line-up of keynotes, plenary talks, lightning talks and workshop sessions. This edition seeks to inspire innovators and techies to rise up to the challenge of designing their imagined futures.
 
 Date: 15 and 16 November 2022
-Venue: Suntec Convention Centre
+<br>Venue: Suntec Convention Centre
 
 Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}.
 
