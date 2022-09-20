@@ -23,16 +23,16 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 
 
 **Opening address (15 Nov)**
-**Mrs Josephine Teo**
-Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity
+<br>**Mrs Josephine Teo**
+<br>Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity
 
 
 ### Guest Speaker
 
 
 **Opening address (16 Nov)**
-**Dr Janil Puthucheary**
-Senior Minister of State at Ministry of Communications, and Minister-in-Charge of GovTech
+<br>**Dr Janil Puthucheary**
+<br>Senior Minister of State at Ministry of Communications, and Minister-in-Charge of GovTech
 
 
 ### Speakers
@@ -42,41 +42,41 @@ Senior Minister of State at Ministry of Communications, and Minister-in-Charge o
 
 
 **Keynote: Why SaaS and PaaS are Perfect for Government -- Almost Every Time!**
-**Mr Paul Tatum** 
-Executive Vice President, Solution Engineering for Global Public Sector, Salesforce
+<br>**Mr Paul Tatum** 
+<br>Executive Vice President, Solution Engineering for Global Public Sector, Salesforce
 
 
 **Keynote: Extending the AWS Cloud Outside of Public Regions**
-**Mr Anthony Liguori** 
-Vice President & Distinguished Engineer, Amazon Web Services
+<br>**Mr Anthony Liguori** 
+<br>Vice President & Distinguished Engineer, Amazon Web Services
 
 
 **Keynote: Delivering Trust in a Data-Driven World**
-**Ms Rebecca Parsons** 
-Chief Technology Officer, Thoughtworks
+<br>**Ms Rebecca Parsons** 
+<br>Chief Technology Officer, Thoughtworks
 
 
 **Keynote: How to Scale Your Business with a DevOps Platform**
-**Mr Sytse “Sid” Sijbrandij** 
-Chief Executive Officer & Co-founder, GitLab
+<br>**Mr Sytse “Sid” Sijbrandij** 
+<br>Chief Executive Officer & Co-founder, GitLab
 
 
 **Day 2:**
 
 
 **Keynote: Zero Trust at Scale**
-**Mr Paul Lorimer** 
-Corporate Vice President, Microsoft Enterprise and Cloud
+<br>**Mr Paul Lorimer** 
+<br>Corporate Vice President, Microsoft Enterprise and Cloud
 
 
 **Keynote: Simplifying Data and AI with Lakehouse Platforms**
-**Mr Matei Zaharia** 
-Co-founder & Chief Technologist, Databricks
+<br>**Mr Matei Zaharia** 
+<br>Co-founder & Chief Technologist, Databricks
 
 
 **Keynote: The Rise of the Platforms Team: An Organisational Response to Developer Experience**
-**Mr Grant Orchard** 
-Field Chief Technology Officer, Hashicorp
+<br>**Mr Grant Orchard** 
+<br>Field Chief Technology Officer, Hashicorp
 
 
 *And many more!*
