@@ -24,7 +24,7 @@ hero-banner: /images/STACK2022-Corp-Banner1.jpg
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://www.govtechstack.sg/page/stack-2022-home
+    url: https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=homepage&utm_campaign=banner
     
 # Key Highlights
 key-highlights:
