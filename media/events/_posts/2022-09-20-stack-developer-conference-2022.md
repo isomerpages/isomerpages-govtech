@@ -5,7 +5,7 @@ permalink: "/media/events/stack-developer-conference-2022"
 category: events
 ---
 
-[![STACK 2022 Early Bird](/images/media/events/STACK2022-EarlyBird.jpg)](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
+[![STACK 2022 Early Bird](/images/media/events/STACK2022-EarlyBird.jpg)](https://www.govtechstack.sg/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
  
 **STACK Developer Conference 2022**, Singapore's largest Government-led developers conference connecting Government, industry and the tech community, returns with a hybrid edition this November! Held over two days, STACK 2022 seeks to inspire innovators and techies to rise up to the challenge of designing their imagined futures.
 
@@ -14,7 +14,7 @@ Get insights from key industry experts on topics such as cloud technology, data-
 Date: 15 and 16 November 2022
 <br>Venue: Suntec Convention Centre
 
-Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}.
+Find out more about [STACK 2022](https://www.govtechstack.sg/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}.
 
 
 ## Speakers Lineup
@@ -83,7 +83,7 @@ Find out more about [STACK 2022](https://www.govtechstack.sg/page/stack-2022-hom
 *And many more!*
 
 
-For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg/page/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
+For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
 
 
 
