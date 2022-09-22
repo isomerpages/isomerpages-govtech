@@ -88,7 +88,7 @@ For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg
 
 ---  
 
-### STACK 2022 Frequently Asked Questions (FAQs)
+### STACK 2022 Developer Conference - Frequently Asked Questions (FAQs)
 
 **REGISTRATION (PRE-EVENT)**
 
@@ -129,7 +129,7 @@ Pre-conference workshops are also available on 14 November 2022. Tickets can be 
 **CANCELLATION/REPLACEMENT**
 
 9)	**Will there be a refund if I wish to cancel my registration after payment?**
-<br>An attendee is deemed successfully registered for the Conference once a confirmation is generated. There is strictly no cancellation or refund of fees once the attendee successfully registers for the Conference.
+<br>An attendee is deemed successfully registered for STACK 2022 conference once a confirmation is generated. There is strictly no cancellation or refund of fees once the attendee successfully registers for the conference.
 
 10)	**I am unable to attend the Workshop. Can I request for replacement?**
 <br>Please contact us at <secretariat@govtech.sg> with details of the Workshop and replacement candidate.
