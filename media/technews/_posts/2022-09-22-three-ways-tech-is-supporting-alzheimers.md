@@ -16,11 +16,11 @@ Fortunately, technology has been making a difference in care for Alzheimer’s p
 
 
 ## AI-driven drawing test to detect dementia 
-There will be one million seniors in Singapore by 2030 and about 80,000 are projected to have dementia. 
+There will be almost one million seniors in Singapore by 2030 and about 80,000 are projected to have dementia. 
 
 Current dementia tests are reactive and given only after complaints about cognitive ability. They take 30 minutes to complete, depend on literacy skills, and take trained staff to administer. 
 
-GovTech is studying the viability of a test that gets participants to draw everyday items on tablets. The test takes five minutes to complete and results are available almost immediately because drawings are then scored by AI based on the drawings and the drawing stroke sequence.
+GovTech is studying the viability of a test that gets participants to draw on tablets. The test takes five minutes to complete and results are available immediately because drawings are then scored by AI based on the drawings and the drawing stroke sequence.
 
 What’s more, no special training is needed to administer the test so lay volunteers can be deployed. This enables dementia screening to be done much more efficiently and scaled to be proactive. 
 
