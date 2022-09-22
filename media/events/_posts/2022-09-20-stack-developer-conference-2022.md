@@ -98,7 +98,7 @@ For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg
 2) **What is the registration fee?**
 
 | Type of Ticket      | Entitlements | Price |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | Conference on 15th & 16th November 2022 (in-person)  | 2-day pass (main conference & lightning talks), Networking Lunch, Refreshments, Access to virtual networking platform and virtual event, Session Recordings on-demand (post-event), Exclusive STACK Tee-shirt | Early Bird (till 7 Oct): S$150, Normal: S$350.00 |
 | Conference on 15th & 16th November 2022 (virtual)  | 2-day pass (lightning talks), Access to virtual networking platform, Session Recordings on-demand (post-event) | S$50.00 |
 
