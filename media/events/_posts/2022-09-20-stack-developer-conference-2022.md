@@ -153,7 +153,7 @@ Pre-conference workshops are also available on 14 November 2022. Tickets can be 
 **OTHERS**
 
 
-11)	**How can I become a STACK 2022 sponsor?**
+**11)	How can I become a STACK 2022 sponsor?**
 <br>We are not accepting sponsorship for STACK 2022.
 
 
