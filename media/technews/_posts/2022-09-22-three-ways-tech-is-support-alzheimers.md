@@ -24,7 +24,7 @@ GovTech is studying the viability of a test that gets participants to draw every
 
 What’s more, no special training is needed to administer the test so lay volunteers can be deployed. This enables dementia screening to be done much more efficiently and scaled to be proactive. 
 
-About 100 people have tried the drawing test so far and GovTech is seeking volunteers to take part in a study on its effectiveness. If you are interested in taking part or getting a family member to try it out, you can sign up [here.](https://form.gov.sg/#!/627cc5dd2177ad00120a2bbb)
+If you are interested in taking part in the test or getting a family member to try it out, you can sign up [here.](https://form.gov.sg/#!/627cc5dd2177ad00120a2bbb)
 
 
 ![Project Pensieve!](/images/technews/ProjectPensieve.jpg)
