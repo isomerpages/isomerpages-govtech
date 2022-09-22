@@ -3,7 +3,7 @@ layout: post
 title: "Three ways tech is supporting Alzheimer's"
 permalink: "/media/technews/three-ways-tech-is-supporting-alzheimers"
 category: technews
-image: "/images/technews/ProjectPensieve.jpg
+image: "/images/technews/ProjectPensieve.jpg"
 ---
 
 Did you know that about one in 10 people aged 60 and above in Singapore suffers from Alzheimer’s? This disease, which is the most common form of dementia, affects memory function, thinking ability, and behaviour. 
