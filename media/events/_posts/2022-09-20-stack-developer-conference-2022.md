@@ -5,7 +5,7 @@ permalink: "/media/events/stack-developer-conference-2022"
 category: events
 ---
 
-[![GovTech STACK 2022 Early Bird](/images/media/events/STACK2022-EarlyBird.jpg)](https://www.govtechstack.sg/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
+[![GovTech STACK 2022 Early Bird](/images/media/events/STACK2022-EarlyBird2.png)](https://www.govtechstack.sg/stack-2022-home?utm_source=website&utm_medium=events&utm_campaign=eventpage){:target="_blank"}
  
 **STACK Developer Conference 2022**, Singapore's largest Government-led developers conference connecting Government, industry and the tech community, returns with a hybrid edition this November! Held over two days, STACK 2022 seeks to inspire innovators and techies to rise up to the challenge of designing their imagined futures.
 
