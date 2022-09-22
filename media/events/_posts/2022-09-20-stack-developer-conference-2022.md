@@ -90,51 +90,68 @@ For the full programme, visit: [www.govtechstack.sg](https://www.govtechstack.sg
 
 ### STACK 2022 Developer Conference - Frequently Asked Questions (FAQs)
 
+
 **REGISTRATION (PRE-EVENT)**
 
-1) **How do I register for STACK 2022?**
+
+**1) How do I register for STACK 2022?**
 <br>You can register directly on the [STACK 2022 website](https://www.govtechstack.sg/stack-2022-home){:target="_blank"} via the “Register Now” button or via the [STACK 2022 registration link](https://www.gevme.com/STACK-2022-Developers-Conference){:target="_blank"}.
 
-2) **What is the registration fee?**
+
+**2) What is the registration fee?**
 
 | Type of Ticket      | Entitlements | Price |
 | ----------- | ----------- | ----------- |
 | Conference on 15th & 16th November 2022 (in-person)  | 2-day pass (main conference & lightning talks), Networking Lunch, Refreshments, Access to virtual networking platform and virtual event, Session Recordings on-demand (post-event), Exclusive STACK Tee-shirt | Early Bird (till 7 Oct): S$150, Normal: S$350.00 |
 | Conference on 15th & 16th November 2022 (virtual)  | 2-day pass (lightning talks), Access to virtual networking platform, Session Recordings on-demand (post-event) | S$50.00 |
 
+
 Pre-conference workshops are also available on 14 November 2022. Tickets can be purchased at S$50/workshop. Workshop details will be shared soon.
 
-3) **Can I register for STACK 2022 conference passes in bulk?**
+
+**3) Can I register for STACK 2022 conference passes in bulk?**
 <br>For bulk registration of 5 or more passes, please contact us at <secretariat@govtechstack.sg>
 
-4) **How do I know if my registration is successful?**
+
+**4) How do I know if my registration is successful?**
 <br>An email confirmation will be sent to you upon successful registration.
 
-5) **I registered online and did not get a confirmation email. How can I check on the status of my registration?**
+
+**5) I registered online and did not get a confirmation email. How can I check on the status of my registration?**
 <br>Please contact <secretariat@govtechstack.sg> with the email subject title: ‘Status of my registration’, and we will assist you accordingly.
+
 
 **PRE-CONFERENCE WORKSHOPS**
 
-6) **What are the pre-conference workshops?**
+
+**6) What are the pre-conference workshops?**
 <br>Pre-conference workshops are a series of two-hour hands-on technical workshops held on 14 November 2022. More details on the workshops to follow.
 
-7) **Can I change/cancel my pre-conference workshop(s) after my registration has been confirmed?**
+
+**7) Can I change/cancel my pre-conference workshop(s) after my registration has been confirmed?**
 <br>There will be no refund of fees once the workshop registration is confirmed. Do let us know if you wish to switch to another workshop. However, do note that seats are limited and subjected to availability.
+
 
 **PAYMENT**
 
-8)	**How do I make payment?**
+
+**8)	How do I make payment?**
 <br>We will only accept credit card payments via Stripe. Cheques, bank transfers, and Paylah!/PayNow will not be entertained.
+
 
 **CANCELLATION/REPLACEMENT**
 
-9)	**Will there be a refund if I wish to cancel my registration after payment?**
+
+**9)	Will there be a refund if I wish to cancel my registration after payment?**
 <br>An attendee is deemed successfully registered for STACK 2022 conference once a confirmation is generated. There is strictly no cancellation or refund of fees once the attendee successfully registers for the conference.
 
-10)	**I am unable to attend the Workshop. Can I request for replacement?**
+
+**10)	I am unable to attend the Workshop. Can I request for replacement?**
 <br>Please contact us at <secretariat@govtech.sg> with details of the Workshop and replacement candidate.
 
+
 **OTHERS**
+
 
 11)	**How can I become a STACK 2022 sponsor?**
 <br>We are not accepting sponsorship for STACK 2022.
