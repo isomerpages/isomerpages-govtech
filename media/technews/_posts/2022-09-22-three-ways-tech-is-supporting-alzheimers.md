@@ -28,7 +28,7 @@ If you are interested in taking part in the test or getting a family member to t
 
 
 ![Project Pensieve!](/images/technews/ProjectPensieve.jpg)
-*Using a drawing test and AI to test for Alzheimers. Photo: GovTech*
+*Using a drawing test and AI to detect dementia. Photo: GovTech*
 
 ## VR experience of dementia in Singapore
 
