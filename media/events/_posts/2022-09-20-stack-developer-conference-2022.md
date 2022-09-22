@@ -111,7 +111,7 @@ Pre-conference workshops are also available on 14 November 2022. Tickets can be 
 <br>An email confirmation will be sent to you upon successful registration.
 
 5) **I registered online and did not get a confirmation email. How can I check on the status of my registration?**
-<br>Please contact the [STACK Secretariat email]<secretariat@govtechstack.sg> with the email subject title: ‘Status of my registration’, and we will assist you accordingly.
+<br>Please contact <secretariat@govtechstack.sg> with the email subject title: ‘Status of my registration’, and we will assist you accordingly.
 
 **PRE-CONFERENCE WORKSHOPS**
 
