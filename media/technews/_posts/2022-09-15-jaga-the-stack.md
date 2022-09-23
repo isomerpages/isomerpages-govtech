@@ -39,9 +39,9 @@ This presents the perfect opportunity for professionals and enthusiasts alike to
  
 By introducing these two competitions, Jaga the STACK will not just test “offensive” skills but also solution development.
  
-Calvin is looking forward to this year’s edition. Beyond the prize money, he believes the “gamified” framework adds fun to learning new concepts. With just six months of experience in other competitions under his belt before joining STACK the Flags 2020, he said the event was “life-changing” as it convinced him to continue pursuing cyber security.
+Sean is looking forward to this year’s edition. Beyond the prize money, he believes the “gamified” framework adds fun to learning new concepts. With just six months of experience in other competitions under his belt before joining STACK the Flags 2020, he said the event was “life-changing” as it convinced him to continue pursuing cyber security.
  
-Sean and his team also had a great time and strongly encourages his friends to take part this year. “The competition is a good chance for them to showcase skills they’ve learnt in and out of school. The challenges were rewarding, and this would be a good chance for students like us to gain more exposure in the field.”
+Calvin and his team also had a great time and strongly encourages his friends to take part this year. “The competition is a good chance for them to showcase skills they’ve learnt in and out of school. The challenges were rewarding, and this would be a good chance for students like us to gain more exposure in the field.”
  
 Find out more about [Jaga the STACK](https://jts.tech.gov.sg/?utm_source=technews&utm_medium=organic_post&utm_campaign=jaga_the_stack_2022){:target="_blank"}.
  
