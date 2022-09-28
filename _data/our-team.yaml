@@ -35,11 +35,31 @@ board-of-directors:
   - name: Mr David KOH
     title: Chief Executive
     organisation: Cyber Security Agency, Prime Minister’s Office
-    image-url: /images/our-team/david-koh.jpg       
+    image-url: /images/our-team/david-koh.jpg
+  - name: Ms Stacey N. LACY
+    title: Asia Pacific Chief Information Officer and Head of Operations & Technology
+    organisation: Citi
+    image-url: /images/our-team/Stacey_Sze_Wan_Lacy.jpg       
   - name: Mr LEW Chuen Hong
     title: Chief Executive
     organisation: Infocomm Media Development Authority
-    image-url: /images/our-team/lew-chuen-hong.jpg  
+    image-url: /images/our-team/lew-chuen-hong.jpg
+  - name: Mr LIEW Nam Soon
+    title: EY ASEAN Managing Partner, and Managing Partner for Singapore and Brunei
+    organisation: EY
+    image-url: /images/our-team/Liew_Nam_Soon.jpg
+  - name: Mr Shonn MILLS
+    title: Global Director
+    organisation: Ramboll
+    image-url: /images/our-team/Shonn_Mills.JPG    
+  - name: Mr Noah PEPPER
+    title: CEO and Co-founder of a new company (to be announced)
+    organisation: 
+    image-url: /images/our-team/Noah_Pepper.jpg   
+  - name: Ms Vaishali RASTOGI
+    title: Global Leader of Technology, Media and Telecommunications Business
+    organisation: BCG
+    image-url: /images/our-team/Vaishali_Rastogi.jpg     
   - name: Mr Mervyn TAN
     title: Chief Executive
     organisation: Defence Science and Technology Agency
