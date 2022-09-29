@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "New Board members appointed to the Government Technology Agency" 
-permalink: /media/media-releases/2022-09-30-new-board-members-appointed-to-the-government-technology-agency
+permalink: /media/media-releases/2022-09-30-five-new-board-members-for-the-government-technology-agency
 date: 2022-09-30
 ---
 
-### **New Board members appointed to the Government Technology Agency**
+### **Five new Board members for the Government Technology Agency**
 
 The Smart Nation and Digital Government Group (SNDGG) today announced changes to the Board of the Government Technology Agency (GovTech). These changes will come into effect from 1 October 2022.
 
