@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Board members appointed to the Government Technology Agency" 
+title: "Five new Board members for the Government Technology Agency" 
 permalink: /media/media-releases/2022-09-30-five-new-board-members-for-the-government-technology-agency
 date: 2022-09-30
 ---
