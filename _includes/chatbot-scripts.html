@@ -1,2 +1,24 @@
 <!-- Chatbot scripts go here -->
-<script src="https://va.ecitizen.gov.sg/cfp2/va/govtech/askjamie.js" integrity="sha384-SFmXROti8e5ygzB8nW+nECOOqYkzCN2d9vJC+OaUKCZtTBBRA84JBeSsScy5JD2f" crossorigin="anonymous"  type="text/javascript"></script>
+<script>
+    function lateLoadChatFile() {
+      setTimeout(() => {
+        const bodyTag = document.getElementsByTagName("body")[0];
+
+        // Create link element to import chat.css file and append it on the body element
+        let linkTag = document.createElement("link");
+        linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";
+        linkTag.type = "text/css";
+        linkTag.rel = "stylesheet";
+        linkTag.referrerPolicy = "origin";
+        bodyTag.appendChild(linkTag);
+
+        // Create script element to import chat.js file and append it on the body element
+        let scriptTag = document.createElement("script");
+        scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";
+        scriptTag.type = "text/javascript";
+        scriptTag.referrerPolicy = "origin";
+        scriptTag.defer = true;
+        bodyTag.appendChild(scriptTag);
+      }, 2000);
+    }
+  </script>
