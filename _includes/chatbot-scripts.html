@@ -3,33 +3,16 @@
   <head>
     <meta charset="utf-8" />
     <meta name="theme-color" content="#000000" />
+    <link
+      href="https://webchat.vica.gov.sg/static/css/chat.css" referrerpolicy="origin" rel="stylesheet"
+    />
   </head>
   
-  <script>
-  function lateLoadChatFile() {
-    setTimeout(() => {
-      const bodyTag = document.getElementsByTagName("body")[0];
-
-      // Create link element to import chat.css file and append it on the body element
-      let linkTag = document.createElement("link");
-      linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";
-      linkTag.type = "text/css";
-      linkTag.rel = "stylesheet";
-      linkTag.referrerPolicy = "origin";
-      bodyTag.appendChild(linkTag);
-
-      // Create script element to import chat.js file and append it on the body element
-      let scriptTag = document.createElement("script");
-      scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";
-      scriptTag.type = "text/javascript";
-      scriptTag.referrerPolicy = "origin";
-      scriptTag.defer = true;
-      bodyTag.appendChild(scriptTag);
-    }, 2000);
-  }
-  </script>
-  
-  <body onload="lateLoadChatFile();">
+  <script
+      type="text/javascript"
+      src="https://webchat.vica.gov.sg/static/js/chat.js"
+      referrerpolicy="origin">
+    </script>
   
   <div id="webchat" app-id="gt-ask-gayle" app-name="AskGayle" app-color="#B41E8E"
       app-icon="https://www.tech.gov.sg/images/AskGayle-gif.gif" app-subtitle="" app-welcome-message="Chat with Gayle!"
