@@ -101,4 +101,4 @@ When we were recognised in the 2021 GovTech Impact Awards. It’s encouraging to
 
 ## Make a difference, join us! 
 
-GovTech wouldn’t have gotten this far with our Smart Nation successes without the passion and good work from our GovTechies. We are proud to be part of the team the builds tech for public good! If you see yourself as a good fit to our work and culture, you’re welcome to [)apply here](http://go.gov.sg/govtechcareers) or visit our [LinkedIn](http://www.linkedin.com/company/govtech-singapore) or [Inside GovTech](http://www.facebook.com/insidegovtech) Facebook page to learn more about us.  
+GovTech wouldn’t have gotten this far with our Smart Nation successes without the passion and good work from our GovTechies. We are proud to be part of the team the builds tech for public good! If you see yourself as a good fit to our work and culture, you’re welcome to [apply here](http://go.gov.sg/govtechcareers) or visit our [LinkedIn](http://www.linkedin.com/company/govtech-singapore) or [Inside GovTech](http://www.facebook.com/insidegovtech) Facebook page to learn more about us.  
