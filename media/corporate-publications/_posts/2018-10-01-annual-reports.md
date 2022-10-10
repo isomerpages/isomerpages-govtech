@@ -7,6 +7,11 @@ permalink: "/media/corporate-publications/annual-reports"
 
 ### **GovTech Annual Reports**
 
+**FY 2021/2022**
+* [GovTech Annual Report FY 2021/2022]({{"/files/media/corporate-publications/2021_GovTech_AR_Main.pdf" | absolute_url }}){:target="_blank"}
+* [Financial Statements FY 2021/2022]({{"/files/media/corporate-publications/2021_GovTech_AR_FinancialReport.pdf" | absolute_url }}){:target="_blank"}
+
+
 **FY 2020/2021**
 * [GovTech Annual Report FY 2020/2021]({{"/files/media/corporate-publications/2020_GovTech AR_Main.pdf" | absolute_url }}){:target="_blank"}
 * [Financial Statements FY 2020/2021]({{"/files/media/corporate-publications/2020_GovTech AR_Financials.pdf" | absolute_url }}){:target="_blank"}
