@@ -31,5 +31,4 @@ Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/Pu
 
 ![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-layhian.png)
 
-![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-karthik.png)
 
