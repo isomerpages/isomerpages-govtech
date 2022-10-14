@@ -3,6 +3,7 @@ layout: simple-page
 title:  "Government ICT Infrastructure"
 permalink: "/capability-centre-gig"
 breadcrumb: Government ICT Infrastructure
+recommender: false
 ---
 
 ![Government ICT Infrastructure](/images/capcentre-gig-banner.jpg)
