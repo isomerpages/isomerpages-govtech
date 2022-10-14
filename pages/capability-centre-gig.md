@@ -33,3 +33,12 @@ Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/Pu
 ![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-layhian.png)
 
 ![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-karthik2.png)
+
+--- 
+
+#### **Related Content**
+
+* [Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"}
+*	[Surveys on Satisfaction with Government Digital Services for Citizens and Businesses](https://www.tech.gov.sg/digital-government-perception-survey/){:target="_blank"}
+
+
