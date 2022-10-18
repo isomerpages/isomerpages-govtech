@@ -91,6 +91,10 @@ senior-leadership:
     title: Senior Director
     organisation: Cyber Security Group
     image-url: /images/our-team/chai-chin-loon.jpg
+  - name: Mr Dominic CHAN
+    title: Senior Director
+    organisation: National Digital Identity
+    image-url: /images/our-team/dominic-chan.jpg    
   - name: Mr LIM Chinn Hwa
     title: Senior Director
     organisation: Smart Nation Platform Solutions
@@ -103,6 +107,10 @@ senior-leadership:
     title: Senior Director
     organisation: Data Science and Artificial Intelligence
     image-url: /images/our-team/jason-see.jpg
+  - name: Mr SING Khang Leng
+    title: Senior Director
+    organisation: Ministry of Manpower Cluster
+    image-url: /images/our-team/SINGKHIANGLENG.jpg    
   - name: Mr TAN Bee Teck
     title: Senior Director
     organisation: Education Cluster and Application Portfolio Remake
@@ -111,10 +119,6 @@ senior-leadership:
     title: Senior Director
     organisation: Government Infrastructure Group
     image-url: /images/our-team/RichardTay.png
-  - name: Mr Dominic CHAN
-    title: Director
-    organisation: National Digital Identity
-    image-url: /images/our-team/dominic-chan.jpg
   - name: Ms CHONG Wan Yieng
     title: Director
     organisation: Communications and Marketing Group
@@ -147,10 +151,6 @@ senior-leadership:
     title: Director
     organisation: Moments of Life
     image-url: /images/our-team/Gabriyel_Wong_1.jpg
-  - name: Mr SING Khang Leng
-    title: Cluster Director
-    organisation: Ministry of Manpower Cluster
-    image-url: /images/our-team/SINGKHIANGLENG.jpg
   - name: Mr Vincent KOR
     title: General Counsel
     organisation: Legal
