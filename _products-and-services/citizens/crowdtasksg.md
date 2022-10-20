@@ -25,7 +25,7 @@ The portal currently supports the creation of surveys, and the auto distribution
 
 From its inception, the portal has since developed many key features, which include the following:
 
-#### Gamification elements
+### Gamification elements
 
 Citizens can earn experience points (XPs) when they complete tasks and surveys. XPs can be used to level up their ranks from Stone, Bronze, Silver, Gold and finally, Platinum. These would eventually help prepare citizens for the upcoming leaderboard feature, whereby they will be able to see where they stand amongst other fellow Singaporeans.
 
@@ -33,7 +33,7 @@ Citizens can earn experience points (XPs) when they complete tasks and surveys. 
 
 ![CrowdTaskSG - Rise up the Ranks](/images/programmes/products-and-services/CTSG_rise_ranks.png)
 
-#### Incentivisation
+### Incentivisation
 
 From completing tasks, citizens can earn virtual coins too. These coins can then be accumulated to redeem rewards such as vouchers. The more surveys and tasks a citizen completes, the more they will be rewarded. In the future, the portal will be looking to expand its range of rewards to include cash straight into citizens’ GovWallet accounts.
 
@@ -55,7 +55,7 @@ Agencies can also make use of the targeted demographic screener function to reac
 
 The CrowdTaskSG team is also looking to include more variety of tasks, including polls and A/B testing, and is continually reaching out to the various agencies to determine how the platform can better support their crowdsourcing efforts. 
 
-#### Join us in shaping our future!
+### Join us in shaping our future!
 
 For citizens who wish to play a part in shaping our nation's future, join us now by creating an account at [https://www.crowdtask.gov.sg/](https://www.crowdtask.gov.sg/){:target="_blank"}!
 
