@@ -51,4 +51,4 @@ Spot on. Technology is ultimately neutral and exists as tools for humans to use.
 
 In a world without bots, we won’t have to worry about lots of cybersecurity threats. But the internet and the digital realm will also be a much poorer space in such a world. 
 
-So be a source of good online. Adopt safe cybersecurity practices and encourage others to do so. And if you’re up for it, programme a bot to do some of that photo uploading you’ve been meaning to do for the longest time. 
+So be a source of good online. Adopt safe cybersecurity practices and encourage others to do so. And if you’re up for it, programme a bot to do some of that photo uploading you’ve been meaning to do for the longest time! 
