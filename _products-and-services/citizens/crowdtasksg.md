@@ -17,6 +17,12 @@ As a project that took shape back in 2019, its initial objective was to better c
 
 The portal currently supports the creation of surveys, and the auto distribution of them to a verified and diverse pool of citizens. All Singapore Citizens and Permanent Residents aged 18 and above are able to access the portal with their Singpass account. 
 
+<div class="bp-youtube">
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_g8xICttKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
+
 From its inception, the portal has since developed many key features, which include the following:
 
 #### Gamification elements
