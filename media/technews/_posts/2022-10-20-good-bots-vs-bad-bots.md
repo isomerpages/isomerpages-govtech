@@ -6,10 +6,6 @@ category: technews
 image: "/images/technews/good_bots_bad_bots.jpg"
 ---
 
-
-
----
-
 ![Good bots vs bad bots](/images/technews/good_bots_bad_bots.jpg)
 *Bots, useful or nefarious? Photo: Unsplash.com*
 
@@ -35,9 +31,9 @@ It’s even possible to make your own programmes to help out with repetitive tas
 
 ## Sounds great, but I’m sensing a but…
 
-Right again! Software can also be made to run automated tasks with malicious intent. They can flood a website with visits at high speed, causing it to crash under a denial of service [(DDoS)](https://en.wikipedia.org/wiki/Denial-of-service_attack) attack. Financial crimes can also be committed by using bots to repeatedly login to a bank’s website in an attempt to take over customer accounts. 
+Right again! Software can also be made to run automated tasks with malicious intent. They can flood a website with visits at high speed, causing it to crash under a denial of service [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) attack. Financial crimes can also be committed by using bots to repeatedly login to a bank’s website in an attempt to take over customer accounts. 
 
-Bots can also be used to send out spam through email and social media. You may have heard of Elon Musk’s [ with](https://www.bbc.com/news/business-62144776) Twitter over the exact number of bot accounts on the platform. 
+Bots can also be used to send out spam through email and social media. You may have heard of Elon Musk’s [with](https://www.bbc.com/news/business-62144776) Twitter over the exact number of bot accounts on the platform. 
 
 ## Yikes! What can I do to protect myself? 
 
