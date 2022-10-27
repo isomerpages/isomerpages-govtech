@@ -11,12 +11,6 @@ thumbnail_image: /images/programmes/products-and-services/corppass_new.png
 
 ![Corppass Logo](/images/programmes/products-and-services/corppass_new.png)
 
-<figure style="text-align: center">
-  <img
-    src="/images/programmes/products-and-services/corppass_new.png" 
-  />
-</figure>
-
 [Corppass](http://www.corppass.gov.sg/){:target="_blank"} is a corporate digital identity for businesses and organisations to conduct online transactions (such as grant applications and filing of corporate taxes) with Government agencies in a safe and reliable manner. Both local businesses and organisations with a Unique Entity Number (UEN) and foreign entities are eligible for Corppass.
 
 The service is currently used by more than 550,000 entities to conduct online transactions for over 250 services with agencies and to manage digital access of employees.
