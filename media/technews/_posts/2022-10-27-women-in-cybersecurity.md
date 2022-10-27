@@ -7,7 +7,7 @@ image: "/images/technews/women-in-cyber"
 ---
 
 ![GovTechies](/images/technews/women_in_cyber.png)
-*Cyber-guardians at GovTech! Photo: Unsplash.com*
+*Cyber-guardians at GovTech! Photo: GovTech*
 
 Did you know that women make up just over [40 percent](https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector) of Singapore’s tech workforce, a significantly higher proportion than the global average of a little under 30 per cent? Still, the government has continually [encouraged](https://www.straitstimes.com/tech/tech-news/women-can-help-ease-talent-crunch-in-cyber-security-industry-josephine-teo) [more](https://www.straitstimes.com/singapore/new-stem-educational-programme-to-prepare-young-women-for-careers-in-fintech) [women](https://www.straitstimes.com/tech/generationtech-inspiring-teen-girls-STEM-tech-roles) to join the tech sector, both to ease the talent crunch in the industry and to foster diversity. 
 
