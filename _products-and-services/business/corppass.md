@@ -5,7 +5,7 @@ permalink: /products-and-services/corppass/
 breadcrumb: Corppass
 collection_name: products-and-services
 tag: business
-thumbnail_image: /images/programmes/products-and-services/corppass_new.png
+thumbnail_image: /images/programmes/products-and-services/corppass_thumbnail.jpg
       
 ---
 
