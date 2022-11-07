@@ -14,7 +14,7 @@ As Singapore lifts pandemic restrictions and many aspects of life return to norm
 
 While working from home certainly has its perks, it does mean more virtual meetings, online written communication through email and messaging tools, and more screen time overall. 
 
-Indeed, this increase in digital workload might well be a significant reason why four out of five Singaporeans are feeling [at risk of burnout](https://sbr.com.sg/hr-education/news/singaporeans-are-most-de-energised-employees-in-asia) in 2022.
+Indeed, this increase in digital workload might well be a significant reason why four out of five Singaporeans are feeling [at risk of burnout](https://sbr.com.sg/hr-education/news/singaporeans-are-most-de-energised-employees-in-asia){:target="_blank"} in 2022.
 
 If you’re feeling fatigue and listlessness from an overdose of technology, here are some tips to avoid digital burnout. 
 
