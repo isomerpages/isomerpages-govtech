@@ -32,7 +32,7 @@ There are [several](https://volunteer.foodrescue.sg/livc.php) [food](https://www
 
 Another group in Sengkang collects unsold excess food – including fruits, vegetables, and bread – islandwide to give to the community. 
 
-## Upcycling – food waste to antibacterial material 
+## Upcycling – food waste to anti-bacterial material 
 Technology now allows us to upcycle, or repurpose, food waste into other useful products. 
 
 One example of this is the work done by the Food Science and Technology Programme at Nanyang Technological University to transform [cashew waste](https://www.biospectrumasia.com/news/54/18443/singapore-based-medtech-startup-converts-cashew-waste-into-an-organic-anti-microbe-solution.html) into a long lasting antibacterial material that is effective against 99 per cent of viruses and bacteria, including the virus that causes COVID-19. 
