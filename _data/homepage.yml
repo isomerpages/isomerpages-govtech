@@ -17,9 +17,6 @@ google-analytics: UA-82296306-1
 hero-title: 
 hero-subtitle:
 hero-banner: /images/CTSG_aug22_2.jpg
-hero-dropdown:
-  - title: I am...
-
 
 #Call to Action Button
 button:
