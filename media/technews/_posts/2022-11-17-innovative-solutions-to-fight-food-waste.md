@@ -9,15 +9,15 @@ image: "/images/technews/food-waste.jpg"
 ![Bruised fruit](/images/technews/food-waste.jpg)
 *Would you buy bruised or fruits with blemish?* Photo by <a href="https://unsplash.com/@emma?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Emma Van Sant</a> on <a href="https://unsplash.com/s/photos/bruised-fruit?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-Singapore is known as a food paradise, a melting pot of the best that western and eastern cuisines have to offer. A less savoury fact about food in Singapore is that food waste is one of the biggest waste streams in the country, making up over 10 per cent of all waste produced here. 
+Singapore is known as a food paradise, a melting pot of the best that western and eastern cuisines have to offer. A less savoury fact about food in Singapore is that food waste is one of the biggest waste streams in the country, making up over 10 percent of all waste produced here. 
 
-Singaporeans have also grown more wasteful, with the amount of food waste generated increasing by about 20 per cent over the last 10 years. 
+Singaporeans have also grown more wasteful, with the amount of food waste generated increasing by about 20 percent over the last 10 years. 
 
-Such wasteful habits have a high impact on the food security of Singapore, which imports over 90 per cent of its food supply. In addition, resources such as incinerators and landfill are used to process food waste, resulting in a higher carbon footprint. 
+Such wasteful habits have a high impact on the food security of Singapore, which imports over 90 percent of its food supply. In addition, resources such as incinerators and landfill are used to process food waste, resulting in a higher carbon footprint. 
 
 To tackle this issue, the Ministry of Sustainability and the Environment introduced the [Year Towards Zero Waste](https://www.towardszerowaste.sg/) campaign in 2019 to encourage Singaporeans to adopt practices that minimise the amount of food they throw away. Since then, many initiatives have been launched to address the problem. 
 
-Here are some of the innovative solutions leveraging technology and the principles of redistrubution, upcycling and reduction, to reduce food waste. 
+Here are some of the innovative solutions leveraging technology and the principles of redistribution, upcycling, and reduction, to reduce food waste. 
 
 ## Redistribution – cleaning out the buffet with Treatsure
 
