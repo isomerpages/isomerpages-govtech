@@ -17,7 +17,7 @@ google-analytics: UA-82296306-1
 hero-title: 
 hero-subtitle:
 hero-banner: /images/CTSG_aug22_2.jpg
-hero-dropdown:
+dropdown:
   - title: I am...
         options:
           - title: seeking career opportunities
