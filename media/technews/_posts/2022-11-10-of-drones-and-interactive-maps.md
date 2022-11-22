@@ -9,7 +9,7 @@ image: "/images/technews/digital_burnout.jpg"
 ![GovTechies](/images/technews/drone1.png)
 *Did you know that drones play a critical role when it comes SLA's inspection work?*
   
-What do the National Parks Board(NParks), Elections Department of Singapore (ELD), and Singapore Land Authority(SLA) have in common, other than being government agencies? 
+What do the National Parks Board (NParks), Elections Department of Singapore (ELD), and Singapore Land Authority (SLA) have in common, other than being government agencies? 
 
 They all deal with managing large areas of space across the country and that’s where technology comes in – in the form of GovTech’s Modelling and Simulation (M&S) team. 
 
