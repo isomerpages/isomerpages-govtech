@@ -51,7 +51,7 @@ When Singapore implemented Covid-19 safe management measures such as the restric
 
 In response to this surge in footfall, NParks collaborated with GovTech to develop a map-based public portal. SafeDist@Parks Portal, to share park closure information. Visitors were empowered to take ownership of their personal and communal safety, making informed decisions to avoid crowded parks during peak periods. 
 
-Using geospatial tools, surveillance cameras and other technologies, NParks was able to effectively manage visitorship levels and improve parkgoers' experience. This also allowed the team to monitor real-time crowd levels and hotspots, and detect flouncing of safe distancing measures.
+Using geospatial tools, surveillance cameras and other technologies, NParks was able to effectively manage visitorship levels and improve parkgoers' experience. This also allowed the team to monitor real-time crowd levels and hotspots, and detect flouting of safe distancing measures.
 
 The portal was well received by both the public and NParks officers for helping them to manage the crowd at popular parks, reducing manpower demands at more than 500 green spaces across Singapore. "The portal enabled Singaporeans to seek respite at our parks and gardens, and experience the benefits of nature and greenery for their well-being during the pandemic." said Abhishek Tandon, Deputy Director of Geospatial Development at NParks. "It is an excellent example of our commitment to use technology in an agile manner to make people's lives better."
 
