@@ -35,7 +35,7 @@ The result? The time required for physical inspection has gone down from eight h
 
 ## Elections Department of Singapore
 
-The ELD, which plans and runs theelections in Singapore, deals with large amounts of data from different source agencies. For instance, the make-up and size of constituencies are determined by the population within them, so the department must have up-to-date residential information. 
+The ELD, which plans and runs the elections in Singapore, deals with large amounts of data from different source agencies. For instance, the make-up and size of constituencies are determined by the population within them, so the department must have up-to-date residential information. 
 
 Derrick Ong, Geospatial Information System Architect at ELD, shared that the recent move to a cloud-based system has enabled the team to access data more readily and work collaboratively with greater ease, reducing the amount of manual work involved in data preparation. 
 
@@ -49,15 +49,15 @@ When Singapore implemented Covid-19 safe management measures such as the restric
 ![GovTechies](/images/technews/nparks1.jpg)
 *Safe Distance @ Parks in action*
 
-In response to this surge in footfall, NParks collaborated with GovTech to develope a map-based public portal. SafeDist@Parks Portal, to share park closure information. Visitors were empowered to take ownership of their personal and communal safety, making informed decisions to avoid crowded parks during peak periods. 
+In response to this surge in footfall, NParks collaborated with GovTech to develop a map-based public portal. SafeDist@Parks Portal, to share park closure information. Visitors were empowered to take ownership of their personal and communal safety, making informed decisions to avoid crowded parks during peak periods. 
 
-Using geospatial tools, surveillance cameras and other technologies, NParks was able to effectively manage visitorship levels and improve parkgoer's experience. This also allowed the team to monitor real-time crowd levels and hotspots, and detect flouncing of safe distancing measures.
+Using geospatial tools, surveillance cameras and other technologies, NParks was able to effectively manage visitorship levels and improve parkgoers' experience. This also allowed the team to monitor real-time crowd levels and hotspots, and detect flouncing of safe distancing measures.
 
-The portal was well received by both the public and NParks officers for helping them to manage the crowd at popular parks, reuding manpower demands at more than 500 green spaces across singapore. "The protal enabled Singaporeans to seek respite at our parks and gardens, and experience the benefits of nature and greenery for their well-being during the pandemic." said Abhishek Tandon, Deputy Director of Geospatial Development at NParks. "It is an excellent example of our commitment to use technology in an agile manner to make people's lives better."
+The portal was well received by both the public and NParks officers for helping them to manage the crowd at popular parks, reducing manpower demands at more than 500 green spaces across Singapore. "The portal enabled Singaporeans to seek respite at our parks and gardens, and experience the benefits of nature and greenery for their well-being during the pandemic." said Abhishek Tandon, Deputy Director of Geospatial Development at NParks. "It is an excellent example of our commitment to use technology in an agile manner to make people's lives better."
 
 The portal also won the Special Achievement in Geospatial Information System award at the Esri User Conference held in July 2022.
 
-## Short term pain, long term gain
+## Short-term pain, long-term gain
 
 Ultimately, all the teams agree that the process of engineering a digital public sector can be a long and painful process. 
 
