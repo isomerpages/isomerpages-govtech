@@ -12,11 +12,11 @@ image: "/images/technews/stacktechnews.jpg"
 ## Welcome to STACK 2022!
 Members of the tech community across the public and private sectors gathered in November for the largest Government-led developer conference – STACK 2022.
 
-With the opening up of Singapore following the easing of pandemic restrictions, the event returned in a hybrid format with both in-person and online participants. Over 2,500 attendees took part in keynote sessions, plenaries, panel discussion, pre-conference technical workshops and lightning talks from 15-16 November.   
+With the opening up of Singapore following the easing of pandemic restrictions, the event returned in a hybrid format with both in-person and online participants. Over 2,500 attendees took part in keynote sessions, plenaries, panel discussion, pre-conference technical workshops and lightning talks from 14-16 November.   
 
 Centered on the theme “Design your Future”, key industry experts shared insights  and covered topics such as building digital trust, cloud technology, datafication, fail-safe app development, smart city, and tech culture and careers.
 
-Minister for Communications and Information Josephine Teo, delivered the opening address on the first day of the conference, noting that in Singapore today “99 per cent of all transactions between citizens and government can be completed digitally from end to end, any time and anywhere”.
+Minister for Communications and Information Josephine Teo, delivered the opening address on the first day of the conference, noting that in Singapore today “99 per cent of all transactions between citizens and government can be completed digitally from end-to-end, anytime and anywhere”.
 
 This milestone was reached ahead of the target set in 2018 to have digital services for up to 95 per cent of transactions by 2023, added Mrs Teo, who is also the Minister-in-charge of Smart Nation and Cybersecurity.
 
@@ -67,6 +67,6 @@ Many noted that such gatherings were critical for industry players to break out 
 
 Chance encounters and serendipitous conversations are also some of the more valuable experiences that online conferences can’t provide, they added. 
 
-“I think the energy is palpable. And you feel like other people are excited about the same things that you are excited about. These events create an oppotunity for people to get to know one another and eventually to work together.” said Micrososft's Paul Lorimer.  
+“I think the energy is palpable. And you feel like other people are excited about the same things that you are excited about. These events create an oppotunity for people to get to know one another and eventually to work together.” said Microsoft's Paul Lorimer.  
 
 To catch up on keynotes and panel discussions you may have missed, head [here](https://www.developer.tech.gov.sg/communities/events/conferences/stack-2022-developer-conference/recordings/all-recordings.html) to check out records of the conference proceedings. 
