@@ -14,7 +14,7 @@ Members of the tech community across the public and private sectors gathered in 
 
 With the opening up of Singapore following the easing of pandemic restrictions, the event returned in a hybrid format with both in-person and online participants. Over 2,500 attendees took part in keynote sessions, plenaries, panel discussion, pre-conference technical workshops and lightning talks from 14-16 November.   
 
-Centered on the theme “Design your Future”, key industry experts shared insights  and covered topics such as building digital trust, cloud technology, datafication, fail-safe app development, smart city, and tech culture and careers.
+Centred on the theme “Design your Future”, key industry experts shared insights  and covered topics such as building digital trust, cloud technology, datafication, fail-safe app development, smart city, and tech culture and careers.
 
 Minister for Communications and Information Josephine Teo, delivered the opening address on the first day of the conference, noting that in Singapore today “99 per cent of all transactions between citizens and government can be completed digitally from end-to-end, anytime and anywhere”.
 
@@ -35,7 +35,7 @@ He added that his trip to Singapore has been an “eye opener” in terms of see
 
 Another important talking point at the conference was the impact of big data. With data collection growing ever bigger, people have rightfully become concerned about its implication on safety and privacy. Big decisions also increasingly rely on online data. 
 
-In such a world, trust is crucial, said Dr Rebecca Parson, chief technology officer at Thoughtworks, at her keynote, and people must have the assurance that data driven insights are unbiased and their data is secure. Systems and policies must be mutually reinforcing to ensure that users can interact confidently in the digital world. 
+In such a world, trust is crucial, said Dr Rebecca Parsons, chief technology officer at Thoughtworks, at her keynote, and people must have the assurance that data driven insights are unbiased and their data is secure. Systems and policies must be mutually reinforcing to ensure that users can interact confidently in the digital world. 
 
 “Our systems are the realisation of our policies. And it doesn’t matter what the policy says if our system does something different. So we need to ensure the systems are doing what we say through our policies that we want them to do,” she said. 
 
