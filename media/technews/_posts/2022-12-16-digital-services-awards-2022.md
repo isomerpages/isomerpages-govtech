@@ -39,31 +39,31 @@ In all, a total of 18 awards were presented to government agencies that delivere
 <br>MOE Corporate Website Team
 
 **Best Usability – Accessibility**
-CPFB Informational Service Team
+<br>CPFB Informational Service Team
 
 **Most Popular Informational Service** 
-CPFB Informational Service Team
+<br>CPFB Informational Service Team
 
 **Best Agency Improvement** 
-Singapore Land Authority
+<br>Singapore Land Authority
 
 **Best Agency Functionality**
-S (1-5 websites): Tote Board
-M (6-10 websites): Public Service Division
-L (>10 websites): National Environmental Agency, Singapore Land Authority
+<br>S (1-5 websites): Tote Board
+<br>M (6-10 websites): Public Service Division
+<br>L (>10 websites): National Environmental Agency, Singapore Land Authority
 
 **Best Agency Accessibility**
-S (1-5 websites): National Security Coordination Secretariat, Tote Board
-M (6-10 websites): Central Provident Fund Board
-L (>10 websites): National Heritage Board
+<br>S (1-5 websites): National Security Coordination Secretariat, Tote Board
+<br>M (6-10 websites): Central Provident Fund Board
+<br>L (>10 websites): National Heritage Board
 
 **Best Agency Search Engine Optimisation**
-S (1-5 websites): Tote Board
-M (6-10 websites): Public Utilities Board
-L (>10 websites): National Heritage Board
+<br>S (1-5 websites): Tote Board
+<br>M (6-10 websites): Public Utilities Board
+<br>L (>10 websites): National Heritage Board
 
 **Best Agency Customer Satisfaction Score for Transactional Services**
-S (1-5 websites): Elections Department Singapore
-M (6-10 websites): Singapore Customs
-L (>10 websites): Ministry of Education
+<br>S (1-5 websites): Elections Department Singapore
+<br>M (6-10 websites): Singapore Customs
+<br>L (>10 websites): Ministry of Education
 
