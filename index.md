@@ -5,5 +5,4 @@ description: Empowering our nation through technology. From transforming the del
 image: /images/Banner_GovTech2.jpg
 permalink: /
 notification: This is a test message
-
 ---
