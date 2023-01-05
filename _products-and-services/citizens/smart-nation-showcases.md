@@ -40,11 +40,7 @@ Catch the Smart Nation Builder at these locations:
 
 **Venue partners**
 
-<div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col">
-<img src="/images/programmes/products-and-services/PA_logo.jpg" alt="People's Association">
-</div>
+![PA](/images/programmes/products-and-services/PA_logo.jpg)
 
 ### **Smart Nation CityScape**
 
