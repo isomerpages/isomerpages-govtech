@@ -36,7 +36,7 @@ Catch the Smart Nation Builder at these locations:
 
 **Venue partners**
 
-![PA](/images/programmes/products-and-services/PA_logo.jpg)
+* People's Association
 
 ### **Smart Nation CityScape**
 
