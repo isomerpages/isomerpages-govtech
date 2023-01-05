@@ -23,11 +23,7 @@ Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation
 
 The Smart Nation Builder is a roving exhibition with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide input and feedback on how to improve our products and services.
 
-That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services.
-
-**When & Where:** Various locations in Singapore. Check out where we’re heading to next at [go.gov.sg/snbuilder](https://go.gov.sg/snbuilder){:target="_blank"}!
-
-*Entry is free of charge.*
+That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. *Entry is free of charge.*
 
 #### Where can you find the Smart Nation Builder? 
 
