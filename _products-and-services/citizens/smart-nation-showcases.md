@@ -29,6 +29,26 @@ That’s not all. At the Smart Nation Builder, you can be the first to test prot
 
 *Entry is free of charge.*
 
+#### Where can you find the Smart Nation Builder? 
+
+Catch the Smart Nation Builder at these locations: 
+
+| Date | Time | Venue 
+| -------- | -------- | -------- |  
+|**3 Feb** <br> Fri | 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|**4 Feb** <br> Sat <br> **11 Dec** <br> Sun | 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|**5 Feb** <br> Sun <br> **17 Dec** <br> Sat | 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|**10 Feb** <br> Fri | 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|**11 Feb** <br> Sat <br> **11 Dec** <br> Sun | 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|**12 Feb** <br> Sun <br> **17 Dec** <br> Sat | 8:30am - 4:30pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+
+**Venue partners**
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col">
+<img src="/images/programmes/products-and-services/PA_logo.jpg" alt="People's Association">
+</div>
 
 ### **Smart Nation CityScape**
 
