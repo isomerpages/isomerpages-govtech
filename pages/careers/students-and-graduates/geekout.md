@@ -13,6 +13,14 @@ This is a great opportunity to gain insights into various tech domains through w
 
 ![GeekOut Chart](/images/careers/GeekOut_Infographic_small.png)
 
+### Hear from past GeekOut participants:
+
+* [Glenda Teo, GeekOut participant](https://www.instagram.com/p/CcxLgKKMfqu/?utm_source=ig_web_copy_link)
+* [Lee Jun Hui, GeekOut participant](https://www.instagram.com/p/CcfCMKABnF2/?utm_source=ig_web_copy_link)
+* [Vania Lim, GeekOut participant](https://www.instagram.com/p/COkMdi4Lam8/?utm_source=ig_web_copy_link)
+* [Ong Yi Chen, GeekOut participant](https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_web_copy_link)
+
+
 Find out what it is like to be a participant at [GeekOut through the eyes of our past participants](https://medium.com/ytpo-govtech/tagged/geekout){:target="_blank"}.
 
 GeekOut applications for 2023 have closed. If you are interested in being a part of GeekOut 2023, please keep in touch with us at [go.gov.sg/govtechtalentcommunity](go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified of the application period for the next GeekOut.
