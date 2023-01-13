@@ -12,7 +12,7 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 ![GovTech Internships Overview](/images/careers/Internship_Infographic.png)
 
 
-### Read about past Intern’s experiences
+### Read about past interns' experiences:
 
 * [Hari Shiman R, Data Science and Analytics at NUS, Data Science intern](https://medium.com/ytpo-govtech/internship-experience-at-dsaid-a16907042b28){:target="_blank"}
 * [Chua Xiu Ling, User Experience intern](https://medium.com/ytpo-govtech/theres-so-much-to-designing-498774d58037){:target="_blank"}
