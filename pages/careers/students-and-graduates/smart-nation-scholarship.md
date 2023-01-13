@@ -39,6 +39,6 @@ To assess candidates holistically, shortlisted candidates can expect to undergo 
 
 Applications are open from September until April for each cycle. If you have a passion for technology and a strong desire to play a part in our Smart Nation agenda, learn more about the scholarship at [https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship){:target="_blank"}.
 
-For enquiries, please write to [AreYouIT@tech.gov.sg]  
+For enquiries, please write to AreYouIT@tech.gov.sg
 
 
