@@ -30,9 +30,9 @@ To assess candidates holistically, shortlisted candidates can expect to undergo 
 
 ### Hear from our scholars:
 
-* [Winston Liu, B.A. in Computer Science, University of Oxford](https://www.instagram.com/p/CJ-uORZhYQ4/?utm_source=ig_web_copy_link)
-* [Goh Jia Yi, B.Sc in Business Analytics, National University of Singapore](https://www.instagram.com/p/CIknzmbl49_/?utm_source=ig_web_copy_link)
-* [Fang Ting Wei, B.Eng in Industrial & Systems Engineering and B.B.A in Accountancy, National University of Singapore](https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_web_copy_link)
+* [Winston Liu, B.A. in Computer Science, University of Oxford](https://www.instagram.com/p/CJ-uORZhYQ4/?utm_source=ig_web_copy_link){:target="_blank"}
+* [Goh Jia Yi, B.Sc in Business Analytics, National University of Singapore](https://www.instagram.com/p/CIknzmbl49_/?utm_source=ig_web_copy_link){:target="_blank"}
+* [Fang Ting Wei, B.Eng in Industrial & Systems Engineering and B.B.A in Accountancy, National University of Singapore](https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_web_copy_link){:target="_blank"}
 
 
 ### How can you apply?
