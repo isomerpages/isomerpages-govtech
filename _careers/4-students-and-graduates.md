@@ -46,5 +46,5 @@ Click to find out more about our signature programmes:
 
 
 
-*To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
+*To receive updates about our Young Talent programmes, join the [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
 
