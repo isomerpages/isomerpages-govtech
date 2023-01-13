@@ -38,5 +38,5 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 Browse our available [GovTech internship projects](http://go.gov.sg/govtechinternshipsprojects){:target="_blank"} and [apply now](https://go.gov.sg/govtechinternship){:target="_blank"}!
 
-For enquiries, please write to AreYouIT@tech.gov.sg
+For enquiries, please write to <AreYouIT@tech.gov.sg>
 
