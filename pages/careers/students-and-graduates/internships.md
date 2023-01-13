@@ -21,7 +21,7 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 **GovTech Internships Application Process**
 
-![GovTech Internships Application Process](/images/careers/GovTech-Internship-Application-Process.png)(http://go.gov.sg/govtechinternshipsprojects){:target="_blank"}
+[![GovTech Internships Application Process](/images/careers/GovTech-Internship-Application-Process.png)}(http://go.gov.sg/govtechinternshipsprojects){:target="_blank"}
 
 **GovTech Internships Selection Process**
 
