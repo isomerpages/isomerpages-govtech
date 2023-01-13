@@ -8,11 +8,15 @@ collection_name: careers
 
 ![GovTech is a top ten tech employer in 2022](/images/careers/govtech-universum-2022.png)
 
+
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
+
 
 ![GovTech Students and Graduates Programmes](/images/careers/govtech-students-and-graduates-programmes.png)
 
+
 Click to find out more about our signature programmes:
+
 
 <div class="row">
   <div class="col" style="text-align: center">
@@ -41,4 +45,6 @@ Click to find out more about our signature programmes:
 </div>
 
 
+
 *To receive updates about our Young Talent programmes, join our [community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
+
