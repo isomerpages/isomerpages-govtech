@@ -25,5 +25,5 @@ As an exclusive leadership-trainee programme, TAP is designed to sharpen and dev
 
 Applications will be open from 1 June to 31 August 2022. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Apply now at: [go.gov.sg/tap-apply2023](go.gov.sg/tap-apply2023){:target="_blank"}
 
-For enquiries, please write to [AreYouIT@tech.gov.sg]  
+For enquiries, please write to AreYouIT@tech.gov.sg
 
