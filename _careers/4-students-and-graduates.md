@@ -46,5 +46,5 @@ From technology boot camps, internships and scholarships to fresh grad opportuni
 
 
 
-*To receive updates about our Young Talent programmes, join the [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
+*To receive updates about our Young Talent programmes, join our [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
 
