@@ -7,7 +7,7 @@ breadcrumb: GeekOut
 
 ![GeekOut Collage](/images/careers/GeekOut-collage.png)
 
-This fun-filled boot camp organized for current JC and Polytechnic students takes place in June, annually. You will be working in teams with GovTech mentors to solve a hackathon challenge over the course of five days.
+This fun-filled boot camp organised for current JC and Polytechnic students takes place in June, annually. You will be working in teams with GovTech mentors to solve a hackathon challenge over the course of five days.
 
 This is a great opportunity to gain insights into various tech domains through workshops, forge connections with like-minded peers and GovTech’s leaders, and experience what it means to be Agile, Bold and Collaborative!
 
