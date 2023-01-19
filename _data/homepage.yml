@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/CTSG_aug22_2.jpg
+hero-banner: /images/govtech-social-media-survey-2023.png
 
 #Call to Action Button
 button:
-  - text: Find Out More
-    url: https://go.gov.sg/techcorp-ctsg
+  - text: Take the Survey
+    url: https://go.gov.sg/gtsurvey2023-site
     
 # Key Highlights
 key-highlights:
