@@ -22,7 +22,7 @@ SGFinDex enables convenient linkages from participating financial institutions �
 
 Data is only retrieved after users have been authenticated by Singpass and given consent to the participating entities that they want to share data with. The consent period is for one year. 
 
-Users’ personal financial data is **encrypted** when it is retrieved through SGFinDex. SGFinDex cannot read and does not store the financial data. Only the financial planning application/website that has been authorized by the user to receive the data will be able to decrypt it. Data is kept **confidential and protected** during the data transmission process.
+Users’ personal financial data is **encrypted** when it is retrieved through SGFinDex. SGFinDex cannot read and does not store the financial data. Only the financial planning application/website that has been authorised by the user to receive the data will be able to decrypt it. Data is kept **confidential and protected** during the data transmission process.
 
 Users retain full control of their data and can **withdraw consent anytime**. Upon withdrawal or expiration of consent, the financial data will no longer be retrievable through SGFinDex from the participating organisations’ financial planning applications/websites.  
 
@@ -41,7 +41,7 @@ To view their consolidated personal balance sheet, users may:
 
 ### **Participating organisations**
 
-* Citi, DBS, POSB, HSBC, Maybank, OCBC, Standard Chartered, UOB, SGX, AIA, Great Eastern, HSBC Life, Income, Manulife, Prudential, Singlife, MyMoneySense
+* AIA, Citibank, DBS, POSB, Great Eastern, HSBC, HSBC Life, NTUC Income, Manulife, Maybank, MyMoneySense, OCBC, Prudential, Singlife, Singapore Exchange, Standard Chartered, UOB
 
 We are working with partner organisations to expand the financial products which can be included in users’ personal balance sheet.
 
