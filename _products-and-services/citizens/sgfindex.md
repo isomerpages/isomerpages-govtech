@@ -41,7 +41,7 @@ To view their consolidated personal balance sheet, users may:
 
 ### **Participating organisations**
 
-* Citi, DBS, POSB, HSBC, Maybank, OCBC, Standard Chartered, UOB, SGX, AIA, Great Eastern, HSBC Life, Income, Manulife, Prodential, Singlife, MyMoneySense
+* Citi, DBS, POSB, HSBC, Maybank, OCBC, Standard Chartered, UOB, SGX, AIA, Great Eastern, HSBC Life, Income, Manulife, Prudential, Singlife, MyMoneySense
 
 We are working with partner organisations to expand the financial products which can be included in users’ personal balance sheet.
 
