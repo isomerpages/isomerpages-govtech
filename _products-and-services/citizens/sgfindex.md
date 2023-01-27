@@ -47,7 +47,7 @@ We are working with partner organisations to expand the financial products which
 
 Organisations interested to become a participant of SGFinDex may contact us at <support@sgdex.gov.sg>. 
 
-**For more information, please refer to the [FAQs](https://resource.fpdsapim.myinfo.gov.sg/SGFinDex_Frequently Asked Questions.pdf){:target="_blank"}**.
+**For more information, please refer to the [FAQs](https://resource.fpdsapim.myinfo.gov.sg/SGFinDex_Frequently%20Asked%20Questions.pdf){:target="_blank"}**.
 
 --- 
 
