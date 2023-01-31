@@ -159,114 +159,67 @@ senior-leadership:
 # Organisational Structure
 organisational-structure:
   - title: CE Office
+  - title: Corporate
     teams:
-      - name: Internal Audit
-  - title: Corporate Services
-    teams:
-      - name: Communications and Marketing Group (CMG)
-        link:
-      - name: People and Organisation Division (POD)
-        link:
-      - name: Development & Organisation Transformation (DOT)
-        link:
-      - name: Strategy and Plans Division (SPD)
-        link:       
-      - name: Digital Academy (DA)
-        link:  
-      - name: Finance, Investment and Procurement Group (FIPG)
-        link:  
-      - name: Group IT Division (GITD)
-        link:
+      - name: Strategy, People & Organisation
+      - name: Communications & Marketing
+      - name: Finance
+      - name: Procurement, Pricing & Billing
       - name: Legal
-        link:        
-  - title: Cybersecurity Group
+      - name: GovTech IT
+  - title: Product Management
     teams:
-      - name: Advanced Cybersecurity Capabilities
-        link:
+      - name: Technology Management Office
+      - name: Community of Distinguished Engineers
+      - name: National Digital Identity
+      - name: Moments of Life
+      - name: Digital Workplace
+  - title: Product Development
+    teams:
+      - name: Data Science and Artificial Intelligence Division
+      - name: Government Digital Services 
+      - name: Core Operations Development Environment and eXchange (CODEX)         
+      - name: Government Infrastructure Group
+      - name: Smart City Technology Division
+  - title: Governance 
+    teams:
+      - name: Governance Planning & Policy
+      - name: Performance & Portfolio
+      - name: Strategic Partnership Office   
+      - name: Audit & Compliance
+      - name: WOG ICT Procurement & Partnership     
+  - title: Cybersecurity 
+    teams:
       - name: Government Cyber Defence
-        link:
       - name: Government Cybersecurity Consulting Services
-        link:
+      - name: Advanced Cybersecurity Capabilities
       - name: Government Cybersecurity Policy & Planning
-        link:
-      - name: Ministry CISO
-        link:
+      - name: Ministry MCISO
   - title: Government Incident Reporting & Operation Centre (GIROC)
     teams:
       - name: Government Incident Reporting & Operation Centre 
-        link:
-  - title: Governance Group
+  - title: Services 
     teams:
-      - name: Audit and Compliance 
-        link:
-      - name: Performance and Portfolio
-        link:
-      - name: Policies and Standards
-        link:
-      - name: Procurement
-        link:
+      - name: Digitalisation Strategy & Partnership Office
+      - name: Education 
+      - name: Manpower
+      - name: National Development, Transport, Comms & Info
+      - name: Prime Minister's Office
+      - name: Justice, Law & Foreign Affairs
+      - name: Finance
+      - name: Healthcare
+      - name: Trade & Industry
+      - name: Culture, Community & Youth
+      - name: Sustainability & Environment
+      - name: Social & Family Development
+      - name: Home Affairs
+      - name: Standard Products
+      - name: Solution Architect Office
+      - name: Standard Workplace App & Infrastructure Services
+      - name: Central Technical Services
+      - name: Group Planning and Operations
+      - name: Clusters & Technology Management Office
   - title: Open Government Products
     teams:
       - name: Open Government Products
-        link:
-  - title: Product Development
-    teams:
-      - name: Government Infrastructure Group (GIG)
-        link:
-      - name: Government Digital Services (GDS)
-        link:
-      - name: Data Science and Artificial Intelligence Division (DSAID)
-        link:
-      - name: Sensors and Internet of Things (SIoT)
-        link:
-  - title: Product Management
-    teams:
-      - name: Business Management Division (BMD)
-      - name: Core Operations Development Environment and xChange (CODEX)
-      - name: Moments of Life (MOL)
-      - name: National Digital Identity (NDI)
-      - name: Smart Nation Sensor Programme Office (SNSPO)
-  - title: Services Pillar
-    teams:
-      - name: Central Technical Services (CTS)
-        link: 
-      - name: Cluster and Technology Management Office (CTMO)
-        link: 
-      - name: Culture, Community and Youth Cluster
-        link: 
-      - name: Education Cluster and Application Portfolio Remake
-        link: 
-      - name: Environment and Water Resources Cluster
-        link: 
-      - name: Finance Cluster
-        link: 
-      - name: Health Cluster
-        link: 
-      - name: Home Affair Cluster
-        link:    
-      - name: Justice, Law and Foreign Affairs Cluster
-        link: 
-      - name: Manpower Cluster and SVC Workforce Transformation
-        link: 
-      - name: Ministry of Communication and Information Cluster
-        link: 
-      - name: National Devt and Transport Cluster
-        link: 
-      - name: Planning and Quality Assurance (PQA)
-        link: 
-      - name: Premium Customer Care Services (PCCS)
-        link:        
-      - name: Prime Minister Office's Office
-        link:    
-      - name: Social and Family Development
-        link:  
-      - name: Solution Architecture Office (SAO)
-        link: 
-      - name: Standard Products (SP)
-        link: 
-      - name: Trade and Industry Cluster
-        link:
-  - title: Technology Management Office
-    teams:
-      - name: Technology Management Office 
-        link:
+      
