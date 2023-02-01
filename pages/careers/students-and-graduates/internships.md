@@ -36,7 +36,7 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 ![GovTech Internships Selection Process](/images/careers/GovTech-Internship-Selection-Process.png)
 
 
-Browse our available GovTech internship projects from 1 February 2023 onwards.
+Find out more about our internship application process and available roles on [Careers@Gov](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2023-Internships_JR-10000015262?Agency=27bc56da9e6a01dcff9491800407da09){:target="_blank"}.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
