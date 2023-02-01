@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timely government support – Made possible by a new citizen disbursement system bringing your government grants to you more efficiently"
-permalink: "/media/technews/bringing-your-government-grants-to-you-more-efficiently.md"
+permalink: "/media/technews/bringing-your-government-grants-to-you-more-efficiently"
 category: technews
 image: "/images/technews/citizen_disbursement.jpg"
 ---
