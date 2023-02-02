@@ -25,7 +25,7 @@ Looking ahead, the CDIT’s user-configurability will be extended to other micro
 
 With the new system, government schemes can be implemented faster, ensuring uniform and consistent service to Singaporeans in a timely fashion. The team estimates that the time taken for scheme deployment will be reduced by almost three months compared to the past. 
 
-One major reason for the accelerated scheme setup is the CDIT’s user-configurable means testing engine, the first of its kind within the Singapore government. This empowers non-IT users to self-configure schemes and their criteria and parameters on an intuitive user interface with minimal testing, as code isn’t involved. 
+One major reason for the accelerated scheme setup is the CDIT’s user-configurable means testing engine, the first of its kind within the Singapore government. This empowers non-IT users to self-configure schemes and their criteria and parameters on an intuitive user interface with minimal effort, as code isn’t involved. 
 
 This is supported by a comprehensive data repository with up-to-date data from Whole-of-Government Single Source of Truth (SSOTs) and Trusted Centres (TC) to facilitate faster turnaround. The CDIT also automates case handling for straightforward appeals and, more importantly, re-runs of scheme means-testing and pre-empting appeals even before they come in.
 
