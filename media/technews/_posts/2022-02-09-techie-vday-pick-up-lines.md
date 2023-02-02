@@ -10,9 +10,7 @@ What are your plans for this Valentine’s Day? If you’ve already got a date, 
 
 But if you’ve got your sights on someone that you’ll like to spend the day with but haven’t quite locked it down, read on. Especially if that someone happens to work in the tech industry!
 
-![vday2022!](/images/technews/vday2022.jpg)
-Valentines Day 2022 is just around the corner, get your pick-up lines ready!
----
+![vday2022!](/images/technews/vday2022.jpg)Valentine's Day is just around the corner, get your pick-up lines ready!
 
 We’ve got some pick-up lines specially geared towards techies that you might want to try out. Ok, hold on. Before you groan and walk away, hear us out. 
 
