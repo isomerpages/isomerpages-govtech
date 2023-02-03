@@ -206,6 +206,11 @@ input[type='radio'] {
 <option value="Not Applicable">Not Applicable</option>
 	</select>
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
+	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
+	<span id="mce-BIRTHYEAR-HELPERTEXT" class="helper_text"></span>
+</div>	    
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
