@@ -28,7 +28,6 @@ But there are some key differences between the two systems. For example, usage o
 
 Either way, Estonians and Singaporeans can both agree that digital identification that facilitates e-transactions goes a long way to making our lives much, much easier.
 
-
 ### **Mobile Parking Payments**
 ![Mobile Parking Payments](/images/technews/estonia2.jpg)*Estonians have been paying for parking via mobiles for 20 years!*
 
@@ -41,8 +40,6 @@ The aptly-named [Mobile Parking system](https://e-estonia.com/solutions/location
 Recent improvements to the Mobile Parking app include a fully automated solution; a parking session automatically begins when the vehicle is turned off, and ends once its started up again. This is achieved when the app is paired via bluetooth to a vehicle’s in-car entertainment system.
 
 Even payment is simple, as the cost of the parking will be simply added to the driver’s mobile phone bill at the end of the month. 
-
-
 
 ### **Smart Zebra Crossing**
 
@@ -57,11 +54,7 @@ But what is it? Well, named the Smart Pedestrian Crosswalk (of course) is a stre
 
 How is this done? According to Bercman: “...narrow artificial intelligence algorithms are used, which are capable of predicting the moving trajectories when a pedestrian might be run over by a vehicle". The sign would then emit audio warnings, and flash red LEDs to grab the attention of both pedestrian and driver to prevent an accident. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yYP-ndJhsCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Now that’s really smart.
-
 
 ### **A Smart Commitment**
 
@@ -70,7 +63,6 @@ In 2019, the Estonian government co-funded €17 million into a fund that focuse
 Additionally, the initiative will fund a challenge that seeks to award 10 proposals that solves urban challenges identified by the local governments of Estonia. Each successful proposal would receive up to €1.5 million each to fund a large-scale pilot test.
 
 The fund is the most valuable research and development fund in Estonia, and signifies the commitment Estonians have made towards the smart city dream. As such, we can be sure to expect further exciting smart city developments from Estonia.
-
 
 ### **Like what you read? Subscribe for the latest stories in your inbox.**
 
