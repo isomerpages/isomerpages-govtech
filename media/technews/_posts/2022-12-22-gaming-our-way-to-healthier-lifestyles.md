@@ -195,6 +195,24 @@ input[type='radio'] {
 <option value="Not Applicable">Not Applicable</option>
 	</select>
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHYEAR">Which year were you born in? </label>
+	<input type="number" name="BIRTHYEAR" class="" value="" id="mce-BIRTHYEAR">
+	<span id="mce-BIRTHYEAR-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>Are you interested in co-creation opportunities? </strong>
+    <ul><li>
+    <input type="radio" value="1" name="group[59]" id="mce-group[59]-59-0">
+    <label for="mce-group[59]-59-0">Yes</label>
+</li>
+<li>
+    <input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1">
+    <label for="mce-group[59]-59-1">No</label>
+</li>
+</ul>
+    <span id="mce-group[59]-HELPERTEXT" class="helper_text"></span>
+</div>	    
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -207,5 +225,4 @@ input[type='radio'] {
 <!--End mc_embed_signup-->
 
 *By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).*
-
 
