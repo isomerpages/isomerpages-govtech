@@ -32,7 +32,9 @@ Catch the Smart Nation Builder at these locations:
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
 |3 Feb (Fri) <br> 4 Feb (Sat) <br> 5 Feb (Sun) | 10:00am - 6:00pm <br> 10:00am - 6:00pm <br> 10:00am - 6:00pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
-|10 Feb (Fri) <br> 11 Feb (Sat) <br> 12 Feb (Sun) | 10:00am - 6:00pm <br> 10:00am - 6:00pm <br> 8:30am - 4:30pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|10 Feb (Fri) <br> 11 Feb (Sat) <br> 12 Feb (Sun) | 11:00am - 6:00pm <br> 10:00am - 6:00pm <br> 8:30am - 4:30pm| **Tampines West Community Club** <br> 5 Tampines Ave 3, Singapore 529705
+|18 Feb (Sat) <br> 19 Feb (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **Tzu Chi Humanistic Youth Centre** <br> 30A Yishun Central 1, Singapore 768796
+|25 Feb (Sat) <br> 26 Feb (Sun) | 11:00am - 7:00pm <br> 10:00am - 6:00pm | **Anchorvale Community Club** <br> 59 Anchorvale Rd, Singapore 544965
 
 **Venue Partner**
 
