@@ -15,13 +15,11 @@ permalink: "/media/corporate-publications/digital-government-exchange-reports"
 
 ---
 
-The Digital Government Exchange (DGX) is an annual global gathering of Government Chief Information Officers (CIOs) and public sector leaders from digital governments and smart cities. Organised by the Smart Nation and Digital Government Group since 2016, DGX is a unique international platform that has developed a community of like-minded leaders who can engage in information exchange, sharing of experiences, and mutual learning, while exploring future collaboration opportunities. 
+The Digital Government Exchange (DGX) is an annual global gathering of Government Chief Information Officers (CIOs) and public sector leaders from digital governments and smart cities. Organised by the Smart Nation and Digital Government Group (SNDGG) since 2016, DGX is a unique international platform that has developed a community of like-minded leaders who can engage in information exchange, sharing of experiences, and mutual learning, while exploring future collaboration opportunities. 
 
 DGX also features technical Working Groups (WGs) where countries and cities deep dive into specific subject matters pertinent to governments’ drive for digitalisation.
 
-### DGX Working Group Reports
-
-DGX working groups have produced in-depth reports studying various digital government topics across the years.
+DGX WGs have produced in-depth reports studying various digital government topics across the years.
 
 * [DGX Working Groups 2021](https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/working-groups-2021?utm_source=corporatesite&utm_medium=referral&utm_campaign=dgxwg2021){:target="_blank"}
 * [DGX Working Groups 2022](https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/working-groups-2022?utm_source=corporatesite&utm_medium=referral&utm_campaign=dgxwg2022){:target="_blank"}
