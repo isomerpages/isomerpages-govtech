@@ -54,7 +54,7 @@ The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www
 
 Keen to learn more about upskilling? Check out [GoBusiness’ SkillsFuture for Enterprise](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/?src=topnav&utm_source=govtech&utm_medium=technews&utm_campaign=), which collates and organises the various skills development resources into a step-by-step guide for easy reference.
 
-You can also turn to the GoBusiness e-Adviser for Skills Training, which offers recommendations for training courses and initiatives for career upskilling that are personalised to your business’ needs.
+You can also turn to the [GoBusiness e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices&utm_source=govtech&utm_medium=technews&utm_campaign=), which offers recommendations for training courses and initiatives for career upskilling that are personalised to your business’ needs.
 
 *This article first appeared on https://www.gobusiness.gov.sg/gobusiness-blog/*
 
