@@ -8,18 +8,36 @@ tag: government
 thumbnail_image: /images/programmes/products-and-services/DeveloperPortal.png
 ---
 
-[Singapore Government Developer Portal](https://www.developer.tech.gov.sg) is a one-stop resource site for developers and other technology professionals to discover the latest government tech solutions and to integrate them into their applications and mash-ups.
+The [Singapore Government Developer Portal](https://www.developer.tech.gov.sg){:target="_blank"} is a **one-stop resource hub for government digital products and services.**
 
-Key features of the portal include:
+We target government agencies, vendors and tech communities who are engaged in digital transformation projects.
 
-**1. Guidelines and principles for working on digital projects**
+Our portal hosts the following information:
 
- A comprehensive guide offering essential information on starting a digital project - from estimating and scoping, to assigning resources, defining requirements, briefing the team to measuring success.
+**1. Digital Government Content**
 
-**2. Products and services that help build Government digital services**
+Overview of Singapore's digital government journey, key lessons, the Digital Government Exchange (DGX), and international collaboration opportunities.
 
-Developers and other technology professionals can access and leverage the various technologies and tools that government agencies have open-sourced. The open-source tools that can be found on the portal include a wide range of products for areas such as digital identity, design and UI, and infrastructure-as-code. Some of the digital tools used by the Government in fighting against COVID-19 are also open-soured.
+**2. Guidelines**
 
-**3. GovTech’s developer community efforts**
+Our guidelines help project teams implement best practices, refine their success metrics, improve procurement workflows and more.
 
-Find out more details about GovTech’s developer community engagement efforts, from featuring product teams’ sharing of tech projects on Medium blogs, offering co-creation opportunities to build innovative products to hosting conferences and meetups for technology enthusiasts.
+**3. Products**
+
+We host products from across the government ranging from open-source to digital identity to data and API-based tech and more.
+
+**4. Singapore Government Tech Stack (SGTS)**
+
+The SGTS is a set of platform tools that streamlines and simplifies the development process and enables code reuse across the government to build secure, high-quality applications. SGTS has a 2-layer architecture consisting of the Base and Service Layer.
+
+We host an SGTS overview page, SGTS products, and success stories in our portal.
+
+**5. Communities**
+
+Community resources such as STACK Meetups, conferences, blogs, GovBuy and, open-source technologies can be found here.
+
+**6. Documentation Service**
+
+Our documentation service houses technical documentation including onboarding guides, API specs and publication guides.
+
+
