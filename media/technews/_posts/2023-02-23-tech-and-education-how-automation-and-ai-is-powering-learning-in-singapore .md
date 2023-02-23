@@ -6,8 +6,9 @@ category: technews
 image: "/images/technews/upskill-your-employees.jpg"
 ---
 
-![Time to upskill](/images/technews/upskill-your-employees.jpg)
-*Up skill to level up!* Photo by <a href="https://unsplash.com/@dougglaslopez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Douglas Lopez</a> on <a href="https://unsplash.com/photos/WFItslWB89M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![Tech and education](/images/technews/tech-and-education.jpg)
+*Up skill to level up!* Photo by Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/photos/4T-02pK0jUg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
 The education sector has gone through huge changes in recent years. With massive open online courses gaining popularity, attending classes with an instructor at the front of a physical room is no longer the only way to learn. 
