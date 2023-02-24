@@ -30,5 +30,3 @@ And find out more about their work via these links:
 
 **Related Resources**
 - [Factsheet about the Government Cyber Security Operations Centre](/files/Factsheet about the Government Cyber Security Operations Centre.pdf){:target="_blank"}
-
----
