@@ -7,7 +7,7 @@ image: "/images/technews/upskill-your-employees.jpg"
 ---
 
 ![Tech and Education](/images/technews/tech-and-education.jpg)
-*Tech and Education!* Photo by Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/photos/4T-02pK0jUg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*Tech and Education!* Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/photos/4T-02pK0jUg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
 
