@@ -26,7 +26,3 @@ And find out more about their work via these links:
 - [How the government chief information security officer keeps cyberspace secure](https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure)
 - [GovTech cybersecurity specialists zero in on zero-day vulnerabilities](https://www.tech.gov.sg/media/technews/cybersecurity-on-zero-day-vulnerabilities)
 
----
-
-**Related Resources**
-- [Factsheet about the Government Cyber Security Operations Centre](/files/Factsheet about the Government Cyber Security Operations Centre.pdf){:target="_blank"}
