@@ -25,3 +25,10 @@ And find out more about their work via these links:
 - [Behind-the-scenes look at GovTech’s Red Team cyberattack](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-govtech%E2%80%99s-red-team-cyberattack)
 - [How the government chief information security officer keeps cyberspace secure](https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure)
 - [GovTech cybersecurity specialists zero in on zero-day vulnerabilities](https://www.tech.gov.sg/media/technews/cybersecurity-on-zero-day-vulnerabilities)
+
+---
+
+**Related Resources**
+- [Factsheet about the Government Cyber Security Operations Centre](/files/Factsheet about the Government Cyber Security Operations Centre.pdf){:target="_blank"}
+
+---
