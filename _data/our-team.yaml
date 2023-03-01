@@ -85,7 +85,7 @@ senior-leadership:
     image-url: /images/our-team/dominic-chan.jpg        
   - name: Ms LIM Bee Kwan
     title: Assistant Chief Executive
-    organisation: Governance and Cybersecurity
+    organisation: Cybersecurity
     image-url: /images/our-team/lim-bee-kwan.jpg
   - name: Mr TAN Eng Pheng
     title: Assistant Chief Executive
@@ -95,6 +95,10 @@ senior-leadership:
     title: Senior Director
     organisation: Cyber Security Group
     image-url: /images/our-team/chai-chin-loon.jpg
+  - name: Mr LIM Thian Chin
+    title: Senior Director
+    organisation: Governance
+    image-url: /images/our-team/Lim-Thian-Chin.jpg    
   - name: Mr D. N. PRASAD
     title: Senior Director
     organisation: Strategy, People and Organisation
