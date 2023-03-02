@@ -35,10 +35,22 @@
         https://unpkg.com 
         https://wogadobeanalytics.sc.omtrdc.net 
         https://connect.facebook.net 
+        https://graph.facebook.com 
+        https://facebook.com 
+        https://www.facebook.com 
         https://www.googletagmanager.com 
         https://*.licdn.com 
         https://webchat.vica.gov.sg 
         https://vica.gov.sg
+        https://www.google.com/recaptcha/
+        https://www.gstatic.com/recaptcha/
+        https://static.zdassets.com
+        https://ekr.zdassets.com
+        https://*.zendesk.com
+        https://*.zopim.com
+        https://www.instagram.com
+        wss://*.zendesk.com
+        wss://*.zopim.com
         ; 
       object-src 
         'self'
@@ -54,6 +66,7 @@
         https://datagovsg.github.io 
         https://webchat.vica.gov.sg 
         https://vica.gov.sg
+        https://unpkg.com
         ; 
       img-src 
         *
@@ -72,6 +85,17 @@
         https://www.checkfirst.gov.sg 
         https://docs.google.com 
         https://nlb.ap.panopto.com
+        https://www.google.com/recaptcha/
+        https://accounts.google.com
+        https://www.gstatic.com/recaptcha/
+        https://data.gov.sg
+        https://calendar.google.com
+        https://datastudio.google.com
+        https://lookerstudio.google.com
+        https://*.fls.doubleclick.net
+        https://www.facebook.com
+        https://m.facebook.com/
+        https://www.instagram.com
         ; 
       frame-ancestors 
         'none'
@@ -94,5 +118,19 @@
         https://wogadobeanalytics.sc.omtrdc.net 
         https://data.gov.sg 
         https://api.isomer.gov.sg
+        https://webchat.vica.gov.sg
+        https://chat.vica.gov.sg
+        https://vica.gov.sg
+        https://s3-va-prd-vica.s3-ap-southeast-1.amazonaws.com
+        wss://chat.vica.gov.sg
+        https://api-vica-ana.vica.gov.sg/api/v1/response-ratings
+        https://bucket-vica.vica.gov.sg
+        https://autocomplete.vica.gov.sg
+        https://static.zdassets.com
+        https://ekr.zdassets.com
+        https://*.zendesk.com
+        https://*.zopim.com
+        wss://*.zendesk.com
+        wss://*.zopim.com
         ;
       """
