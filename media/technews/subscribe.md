@@ -11,8 +11,6 @@ recommender: false
 
 Join over 17,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
 
-*From 20 Feb to 3 March 2023, new subscribers to TechNews will stand a chance to win $20 Suntec Vouchers! 50 winners will be selected by end of March and notified via email. Terms and Conditions apply: [https://go.gov.sg/technewstc](https://go.gov.sg/technewstc){:target="_blank"}*
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
