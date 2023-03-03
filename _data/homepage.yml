@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/TechNewsLeadGenCampaign2023-WebsiteBanner.jpg
+hero-banner: /images/CTSG_aug22_2.jpg
 
 #Call to Action Button
 button:
-  - text: Subscribe to TechNews
-    url: https://www.tech.gov.sg/media/technews/subscribe?utm_source=website&utm_medium=homepage&utm_campaign=leadgencampaign2023
+  - text: Find Out More
+    url: https://go.gov.sg/techcorp-ctsg
     
 # Key Highlights
 key-highlights:
