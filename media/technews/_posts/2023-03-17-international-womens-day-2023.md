@@ -3,10 +3,10 @@ layout: post
 title: "International Women’s Day: GovTechies talk about switching to tech careers"
 permalink: "/media/technews/international-womens-day-2023"
 category: technews
-image: "/images/technews/IWD2023.png"
+image: "/images/technews/IWD2023(2).png"
 ---
 
-![Our female GovTechies who made a career switch](/images/technews/IWD2023.png)
+![Our female GovTechies who made a career switch](/images/technews/IWD2023(2).png)
 
 
 International Women’s Day falls on March 8 annually, and this year’s theme is #EmbraceEquity – a subject that is close to our hearts as not all GovTechies come from a tech background, but all of us are given equal opportunities to carve out a meaningful tech career. 
