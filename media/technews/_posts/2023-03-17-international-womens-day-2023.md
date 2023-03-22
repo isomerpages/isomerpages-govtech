@@ -21,7 +21,7 @@ Victoria: Hello, I’m also from DSAID like Lin Zi but I’m a User Experience (
 
 ### We heard you’re both career switchers. What were you doing before entering the tech industry? 
 
-Victoria: I began my career as a counsellor in the Singapore Prison Service, conducting pre-release assessments for inmates and planning with other agencies to help ex-offenders reintegrate into society. 
+Victoria: I began my career as a counsellor in the Singapore Prison Service, conducting pre-release assessments for inmates as well as psychological interventions to help ex-offenders reintegrate into society. 
 
 I was later attached to the Programme Design and Evaluation Branch, which develops and evaluates in-care and after-care psychology-based rehabilitation programmes for offenders. This sparked my interest in user-centric work and I enrolled in a User Experience design course, enabling me to start my UX career in the Digital Church Office of the Roman Catholic Archdiocese of Singapore. I was highly involved in building products to bring about digital transformation in the Catholic Archdiocese here. After a year, I got the opportunity to join GovTech.
 
