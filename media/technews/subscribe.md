@@ -7,6 +7,8 @@ breadcrumb: TechNews Newsletter
 recommender: false
 ---
 
+![Image of TechNews](/images/technews/technews-logo.png)
+
 #### **Welcome to the TechNews community!**
 
 Join over 19,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
