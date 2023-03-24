@@ -15,7 +15,7 @@ Join over 19,000 readers and subscribe to GovTech's newsletter for the latest Go
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #ffffff; 
+	background: #f2f2f2; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
