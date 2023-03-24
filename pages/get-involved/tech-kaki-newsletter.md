@@ -3,6 +3,7 @@ layout: post
 title: Tech Kaki Newsletter
 permalink: "/get-involved/tech-kaki-newsletter"
 breadcrumb: Tech Kaki Newsletter
+recommender: false
 ---
 
 ![Image of TechKaki](/images/programmes/products-and-services/TechKaki-Header.jpg)
