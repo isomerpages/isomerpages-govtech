@@ -10,7 +10,7 @@ recommender: false
 
 #### **Welcome to the Tech Kaki community!**
 
-Co-create with us! Join our Tech Kaki mailing list to get updates on surveys, user testing sessions, and other events where you can co-create and help GovTech teams build better products and services for all.
+Co-create with us! Join our Tech Kaki mailing list to get updates on surveys, focus group discussions, user testing sessions, and other events where you can help GovTech teams build better products and services for all.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
