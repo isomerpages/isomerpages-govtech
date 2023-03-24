@@ -7,15 +7,17 @@ breadcrumb: TechNews Newsletter
 recommender: false
 ---
 
+![Image of TechNews](/images/technews/technews-logo.png)
+
 #### **Welcome to the TechNews community!**
 
 Join over 19,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup {
-	background: #ffffff; 
+	background: #f2f2f2; 
 	clear: left; 
 	font: 20px Lato,sans-serif;
 	margin-bottom: 16px;
@@ -56,6 +58,13 @@ input[type='radio'] {
   margin-right: 14px;
   margin-left: 4px;
 }
+input[type='checkbox'] {
+  height: 14px;
+  width: 14px;
+  vertical-align: middle;
+  margin-right: 14px;
+  margin-left: 4px;
+}
 #mc_embed_signup .button {
         background-color: #B41E8E;
 	font:20px Lato,sans-serif;
@@ -66,52 +75,56 @@ input[type='radio'] {
 }	
 </style>
 <div id="mc_embed_signup">
-<form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="indicates-required">
-	<span class="asterisk">*</span> indicates required
+    <form action="https://tech.us16.list-manage.com/subscribe/post?u=9326ff42459737140a6baa881&amp;id=8b7e185878&amp;f_id=00b0c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL"
-	       >Email Address  <span class="asterisk">*</span>
+	<label for="mce-FNAME">Full Name  <span class="asterisk">*</span>
 </label>
-	<input 
-	       type="email" 
-	       value="" 
-	       name="EMAIL" 
-	       class="required email" 
-	       id="mce-EMAIL"
-	/>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
+	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>Gender  <span class="asterisk">*</span>
+</strong>
+    <ul><li>
+    <input type="radio" value="Female" name="GENDER" id="mce-GENDER-0">
+    <label for="mce-GENDER-0">Female</label>
+</li>
+<li>
+    <input type="radio" value="Male" name="GENDER" id="mce-GENDER-1">
+    <label for="mce-GENDER-1">Male</label>
+</li>
+</ul>
+    <span id="mce-GENDER-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHYEAR">Which year were you born in?  <span class="asterisk">*</span>
+</label>
+	<input type="number" name="BIRTHYEAR" class="required" value="" id="mce-BIRTHYEAR" required>
+	<span id="mce-BIRTHYEAR-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME"
-	       >Name  <span class="asterisk">*</span>
+	<label for="mce-TECH">Are you in a tech-based job / field of study?  <span class="asterisk">*</span>
 </label>
-	<input 
-	       type="text" 
-	       value="" 
-	       name="FNAME" 
-	       class="required" 
-	       id="mce-FNAME"
-	/>
-</div>
-<div class="mc-field-group">
-	<label for="mce-TECH"
-	       >Are you in a tech-based job / field of study?  
-	       <span class="asterisk">*</span>
-</label>
-	<select name="TECH" class="required" id="mce-TECH">
+	<select name="TECH" class="required" id="mce-TECH" required>
 	<option value=""></option>
 	<option value="Yes">Yes</option>
-	<option value="No">No</option>
-</select>
+<option value="No">No</option>
+
+	</select>
+	<span id="mce-TECH-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
-	<label for="mce-INDUSTRY"
-	       >Which industry do you primarily work in?  <span class="asterisk">*</span>
+	<label for="mce-INDUSTRY">Which industry do you primarily work in?  <span class="asterisk">*</span>
 </label>
-	<select name="INDUSTRY" class="required" id="mce-INDUSTRY">
+	<select name="INDUSTRY" class="required" id="mce-INDUSTRY" required>
 	<option value=""></option>
 	<option value="Manufacturing - Energy &amp; Chemicals">Manufacturing - Energy &amp; Chemicals</option>
 <option value="Manufacturing - Precision Engineering">Manufacturing - Precision Engineering</option>
@@ -137,24 +150,55 @@ input[type='radio'] {
 <option value="Government">Government</option>
 <option value="Other Industry">Other Industry</option>
 <option value="Not Applicable">Not Applicable</option>
+
 	</select>
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-BIRTHYEAR"
-	       >Which year were you born in? </label>
-	<input 
-	       type="number" 
-	       name="BIRTHYEAR" 
-	       class="" 
-	       value="" 
-	       id="mce-BIRTHYEAR"
-	/>
+	<span id="mce-INDUSTRY-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group input-group">
-    <strong>Are you interested in co-creation opportunities? </strong>
-    <ul><li><input type="radio" value="1" name="group[59]" id="mce-group[59]-59-0"><label for="mce-group[59]-59-0">Yes</label></li>
-<li><input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1"><label for="mce-group[59]-59-1">No</label></li>
+    <strong>Keen to co-create with GovTech? (eg. User Testing) </strong>
+    <ul><li>
+    <input type="radio" value="1" name="group[59]" id="mce-group[59]-59-0">
+    <label for="mce-group[59]-59-0">Yes</label>
+</li>
+<li>
+    <input type="radio" value="2" name="group[59]" id="mce-group[59]-59-1">
+    <label for="mce-group[59]-59-1">No</label>
+</li>
 </ul>
+    <span id="mce-group[59]-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>Tech topics I am keen to hear about: </strong>
+    <ul><li>
+    <input type="checkbox" value="4" name="group[71][4]" id="mce-group[71]-71-0">
+    <label for="mce-group[71]-71-0">Diversity and Inclusion in Tech</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[71][8]" id="mce-group[71]-71-1">
+    <label for="mce-group[71]-71-1">User Experience and Interface (UX/UI)</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[71][16]" id="mce-group[71]-71-2">
+    <label for="mce-group[71]-71-2">Smart Nation</label>
+</li>
+<li>
+    <input type="checkbox" value="32" name="group[71][32]" id="mce-group[71]-71-3">
+    <label for="mce-group[71]-71-3">Data Science and Analytics</label>
+</li>
+<li>
+    <input type="checkbox" value="64" name="group[71][64]" id="mce-group[71]-71-4">
+    <label for="mce-group[71]-71-4">Cybersecurity</label>
+</li>
+<li>
+    <input type="checkbox" value="128" name="group[71][128]" id="mce-group[71]-71-5">
+    <label for="mce-group[71]-71-5">Chatbots and Virtual Assistants</label>
+</li>
+<li>
+    <input type="checkbox" value="256" name="group[71][256]" id="mce-group[71]-71-6">
+    <label for="mce-group[71]-71-6">Tech for Business Owners</label>
+</li>
+</ul>
+    <span id="mce-group[71]-HELPERTEXT" class="helper_text"></span>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -168,3 +212,7 @@ input[type='radio'] {
 <!--End mc_embed_signup-->
 
 By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).
+
+
+
+
