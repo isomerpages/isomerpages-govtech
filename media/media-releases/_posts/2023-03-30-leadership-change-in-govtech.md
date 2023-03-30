@@ -43,7 +43,7 @@ date: 2023-03-30
 
 ### **About Smart Nation and Digital Government Office**
 The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.
-For more information, please visit <www.smartnation.gov.sg>.
+For more information, please visit www.smartnation.gov.sg.
 
 ### **About Government Technology Agency of Singapore**
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Info-communications Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group.
