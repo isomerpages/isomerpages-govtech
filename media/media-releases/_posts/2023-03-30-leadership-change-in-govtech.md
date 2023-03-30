@@ -13,7 +13,6 @@ Mr Kok was appointed CE, GovTech on 1 May 2018. He spearheaded the implementatio
 
 **ANNEX**
 
-| CE | Image
 | -------- | -------- | -------- |  
 |**Mr Kok Ping Soon** <br> Outgoing CE, GovTech | (/images/media-release/kok-ping-soon.jpg)
 |**Mr Goh Wei Boon** <br> Incoming CE, GovTech | (/images/images/media-release/goh-wei-boon.png)
