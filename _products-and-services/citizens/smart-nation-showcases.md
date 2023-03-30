@@ -33,6 +33,7 @@ Catch the Smart Nation Builder at these locations:
 | -------- | -------- | -------- |  
 |18 Mar (Sat) <br> 19 Mar (Sun) | 10:00am - 6:00pm <br> 9:30am - 5:30pm | **Kaki Bukit Community Club (Next to Blk 530)** <br> 670 Bedok North Street 3, Singapore 469627
 |29 Apr (Sat) to 30 Apr (Sun) | 10:00am - 6:00pm | **Our Tampines Hub** (Between Central Plaza and Hawker Centre) <br> 1 Tampines Walk, Singapore 528523
+|19 May (Fri) to 20 May (Sat) | 10:00am - 6:00pm | **Bukit Batok Community Club** <br> 21 Bukit Batok Central, Singapore 659959
 
 **Venue Partner**
 
