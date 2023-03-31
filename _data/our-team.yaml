@@ -73,7 +73,7 @@ senior-leadership:
     image-url: /images/our-team/kok-ping-soon.png
   - name: Mr CHANG Sau Sheong
     title: Deputy Chief Executive
-    organisation: Product and Engineering
+    organisation: Product and Engineering, TMO / CODE
     image-url: /images/our-team/Chang-Sau-Sheong1.jpg
   - name: Mr Henry CHANG
     title: Deputy Chief Executive
@@ -93,11 +93,11 @@ senior-leadership:
     image-url: /images/our-team/tan-eng-pheng.jpg
   - name: Mr CHAI Chin Loon
     title: Senior Director
-    organisation: Cyber Security Group
+    organisation: Cybersecurity Group
     image-url: /images/our-team/chai-chin-loon.jpg
   - name: Mr LIM Thian Chin
     title: Senior Director
-    organisation: Governance
+    organisation: Governance Group
     image-url: /images/our-team/Lim-Thian-Chin.jpg    
   - name: Mr D. N. PRASAD
     title: Senior Director
@@ -109,11 +109,11 @@ senior-leadership:
     image-url: /images/our-team/jason-see.jpg
   - name: Mr SING Khang Leng
     title: Senior Director
-    organisation: Ministry of Manpower Cluster
+    organisation: Manpower Cluster
     image-url: /images/our-team/SINGKHIANGLENG.jpg    
   - name: Mr TAN Bee Teck
     title: Senior Director
-    organisation: Education Cluster and Application Portfolio Remake
+    organisation: Education Cluster and Standard Products
     image-url: /images/our-team/Tan-Bee-Teck.jpg
   - name: Mr Richard TAY
     title: Senior Director
@@ -121,7 +121,7 @@ senior-leadership:
     image-url: /images/our-team/RichardTay.png
   - name: Ms CHONG Wan Yieng
     title: Director
-    organisation: Communications and Marketing Group
+    organisation: Communications and Marketing 
     image-url: /images/our-team/chong-wan-yieng-2.jpg  
   - name: Mr Steven KOH
     title: Director
@@ -131,9 +131,9 @@ senior-leadership:
     title: Director
     organisation: Government Digital Services, Digital Design & Development (DCube)
     image-url: /images/our-team/Eyung_Lim.png
-  - name: Mr LOH Xianghui
+  - name: Mr LOH Xiang Hui
     title: Director
-    organisation: Finance
+    organisation: Finance and Procurement
     image-url: /images/our-team/Loh_Xianghui.jpg
   - name: Mr Kevin NG
     title: Director
