@@ -23,7 +23,7 @@ As an exclusive leadership-trainee programme, TAP is designed to sharpen and dev
 
 ### How can you apply?
 
-If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Applications will be open from 1 June to 31 August 2023.
+If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Applications will be open from 1 July to 31 August 2023.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
