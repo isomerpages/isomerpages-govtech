@@ -38,7 +38,7 @@ The tests were meant to validate whether users can find services easily and quic
 These sessions yielded plenty of feedback that the design team used to further improve the app. For instance, many users who wanted to book barbeque pits failed because the app design required them to first know which public agency managed the pit they wanted. Integrating all barbeque bookings eliminated this stumbling block. 
 
 ![The team behind the makeover](/images/technews/lifesg-ux-refresh2.jpg)
-*The UX team behind Lifesg!* 
+*Behind the makeover, is a team of real people, solving real problems!* 
 
 ## Leveraging feedback for improvement
 
