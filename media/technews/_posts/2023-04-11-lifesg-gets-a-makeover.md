@@ -7,16 +7,16 @@ image: "/images/technews/lifesg-ux-refresh.png"
 ---
 
 ![New look, new services!](/images/technews/lifesg-ux-refresh.png)
-***New look, new services!*** 
+***New look, greater access to services!*** 
 
 If you live in Singapore, chances are that you’ve used the LifeSG app for government services from time to time. 
 
 Afterall, the app provides frictionless and simplified access to digital government services – whether it’s for something as momentous as registering your child’s birth or as ordinary as reporting a neighbourhood concern.  
 
-To ensure that LifeSG continues to journey with Singaporeans through key moments in life and daily living, the app recently went through both a refresh. We find out more about the revamp and also speak to the UX team behind LifeSG to gain insights into the work that went into the overhaul. 
+To ensure that LifeSG continues to journey with Singaporeans through key moments in life and daily living, the app recently went through a refresh. We find out more about the revamp and also speak to the UX team behind LifeSG to gain insights into the work that went into the overhaul. 
 
 ## So what’s new with LifeSG?
-LifeSG provides access to a comprehensive list of more than 400 government services. For a more intuitive user experience, these services are now categorised broadly into;
+LifeSG provides access to a comprehensive list of 400 government services. For a more intuitive user experience, these services are now categorised broadly into;
 
 - those for key moments (registering a child’s birth, conducting legacy planning) 
 - and those for daily life (booking virtual appointments with government agencies, reporting neighbourhood issues) 
