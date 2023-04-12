@@ -18,6 +18,6 @@ Sign up early for the in-person tickets [**HERE**](https://go.gov.sg/ib2023-gt){
 
 Upon confirmation of your registration, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
-For any questions, do get in touch with us at <IB2023@knoxx.sg>
+For IB 2023 queries, please contact our event management partner at <IB2023@knoxx.sg>
 
 More details on *#SmartNationIB* will be shared here and across our social media channels. We look forward to seeing you!
