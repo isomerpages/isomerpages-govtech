@@ -25,7 +25,7 @@ A section featuring recent/popular services has also been added to the home scre
 
 Apart from the LifeSG app, users can now also find their desired government service by using the web search tool to look for information and services across the top 100 government websites. This greatly enhances LifeSG’s goal of simplifying access to services and making them easier to find. 
 
-All of this is done to bundle multiple transactions into a single seamless experience. For instance, the birth registration feature enables more than just registering a child’s birth, but also applying for baby bonus grants and a National Library card. Relevant content from different agency sources are also carefully curated into guides to serve as support for key services.
+All of this is done to bundle multiple transactions into a single seamless experience. For instance, the birth registration feature enables more than just registering a child’s birth, but also applying for baby bonus grants and a library membership. Relevant content from different agency sources are also carefully curated into guides to serve as support for key services.
 
 “You can think of LifeSG as a toolbox with sets of multitools instead of single-function tools,” the UX team said. 
 
