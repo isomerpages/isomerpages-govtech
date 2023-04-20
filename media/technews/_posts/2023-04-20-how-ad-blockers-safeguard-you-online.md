@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Block ads, block threats – how ad blockers safeguard you online"
-permalink: "/media/technews/lifesg-gets-a-makeover"
+permalink: "/media/technews/how-ad-blockers-safeguard-you-online"
 category: technews
-image: "/images/technews/lifesg-ux-refresh.png"
+image: "/images/technews/ad-blocker.jpg"
 ---
 
 ![Tthink twice before you click](/images/technews/ad-blocker.jpg)
-***Think twice before you click on an ad.*** 
+*Think twice before you click on an ad.*
 
 Advertisements are an unavoidable part of using the internet. And that’s why some of us use ad blockers to minimise the number of annoying ads that get in the way of going online. 
 
@@ -58,9 +58,9 @@ And later in 2023, ScamShield Bot will be launched on WhatsApp. Users will be ab
 
 At the end of the day, the best defence against scams is an informed citizenry that is vigilant against fraudsters. To raise awareness of the importance of anti-scam measures, the National Crime Prevention Council (NCPC) launched the “I can ACT against scams” [campaign](https://www.ncpc.org.sg/events_20230118-SCAMinar-ACT-Against-Scams-2023.html) earlier in 2023, educating the public on three actions – making up the ACT acronym – they can take:
 
-1) Add security features such as ScamShield and two-factor authentication.
-2) Check suspicious messages against official sources and verifying if callers are indeed who they claim to be. 
-3) Tell the authorities about your scam encounters and inform your relatives and friends so they will be on guard. 
+<br>1) Add security features such as ScamShield and two-factor authentication.
+<br>2) Check suspicious messages against official sources and verifying if callers are indeed who they claim to be. 
+<br>3) Tell the authorities about your scam encounters and inform your relatives and friends so they will be on guard. 
 
 ## Prevention is better than cure
 
