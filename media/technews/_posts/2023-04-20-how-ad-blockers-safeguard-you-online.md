@@ -37,22 +37,7 @@ Other [benefits](https://www.nytimes.com/2015/08/20/technology/personaltech/ad-b
 Certain ad blockers can also [protect your privacy](https://roboticsandautomationnews.com/2023/02/02/ad-blockers-could-be-helpful-for-your-privacy/59826/) by hiding your IP and encrypting your data. 
 
 Of course, as with all things, the quality of ad blockers can vary. Some of these blockers collect your data for sale. There have also been [cases of bogus ad blockers](https://www.techradar.com/news/fake-ad-blocker-extensions-used-in-ad-fraud-scheme) masquerading as reputable ones. These fake blockers not only failed to carry out their purported purpose, but also embroiled users in ad fraud schemes. 
-
-## ScamShield – your trusted protector
-
-Recognising the severity of the problem, the government is also doing its part and launched [ScamShield](https://www.scamshield.org.sg/about-us/) in 2020, an app that helps individuals protect themselves against scam calls and text messages.
-
-It does so by checking calls from unknown numbers against a database maintained by the Singapore Police Force, blocking calls from numbers that have been used for scams. 
-
-Similarly, SMSes from unknown numbers are also screened. But the app uses an on-device algorithm to check messages, filtering scam SMSes to the Junk folder for iOS and sending a notification to notify users they may have received scam messages or Android. 
-
-Users can also use the app to report scam calls and messages they receive, enriching the police’s database and making it more effective. 
-
-As of August 2022, ScamShield has blocked some 200,000 scam calls and detected about 3.5 million scam messages. 
-
-Crucially, especially for those who are concerned about privacy, SpamShield does not collect any personal information from the user. 
-
-And later in 2023, ScamShield Bot will be launched on WhatsApp. Users will be able to copy the text or screenshots of messages to the bot to check if they are scams. 
+ck if they are scams. 
 
 ## ACT now to safeguard yourself
 
