@@ -8,7 +8,6 @@ image: "/images/technews/passwords-passphase.jpg"
 
 ![Lock it up. cybersecurity. phassphase](/images/technews/passwords-passphase.jpg)
 *Maybe its time for us to rethink our password habits!* 
-Photo by <a href="https://unsplash.com/@flyd2069?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">FLY:D</a> on <a href="https://unsplash.com/photos/zAhAUSdRLJ8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 Did you know that the first Thursday of May is "National Password Day"? Well, we didn't until we started writing this article! Passwords, alongside [death and taxes](https://en.wikipedia.org/wiki/Death_and_taxes_(idiom)#:~:text=%22Death%20and%20taxes%22%20is%20a,certain%2C%20except%20death%20and%20taxes.), are one of those things that everyone of us must contend with.
 
