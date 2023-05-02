@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Why passphrases are much more secure than passwords"
-permalink: "/media/technews/why-passphases-are-much-more-secure-than-passwords
+permalink: "/media/technews/why-passphases-are-much-more-secure-than-passwords"
 category: technews
 image: "/images/technews/passwords-passphase.jpg"
 ---
 
 ![Lock it up. cybersecurity. phassphase](/images/technews/passwords-passphase.jpg)
-*Maybe its time for us to rethink our password habits!* 
-Photo by <a href="https://unsplash.com/@flyd2069?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">FLY:D</a> on <a href="https://unsplash.com/photos/zAhAUSdRLJ8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*Maybe its time for us to rethink our password habits!* Photo Credit: Unsplash.com
   
 Did you know that the first Thursday of May is "National Password Day"? Well, we didn't until we started writing this article! Passwords, alongside [death and taxes](https://en.wikipedia.org/wiki/Death_and_taxes_(idiom)#:~:text=%22Death%20and%20taxes%22%20is%20a,certain%2C%20except%20death%20and%20taxes.), are one of those things that everyone of us must contend with.
 
@@ -58,7 +57,7 @@ If you remember just one part of this article, then make it this section.
 
 3) Use patterns to help you remember the different passphrases for different accounts, such as by adding certain letters from the website or service to parts of your passphrase. 
 
-4)If you must write down your passphrase somewhere, keep them in a locked safe or a password-protected document. 
+4) If you must write down your passphrase somewhere, keep them in a locked safe or a password-protected document. 
 
 ## Keeping defences strong
 One of the leading causes of cybersecurity breaches is a weak password. Yet this is also among the easiest weaknesses to rectify. 
