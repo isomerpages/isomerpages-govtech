@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why passphrases are much more secure than passwords"
-permalink: "/media/technews/why-passphases-are-much-more-secure-than-passwords
+permalink: "/media/technews/why-passphases-are-much-more-secure-than-passwords"
 category: technews
 image: "/images/technews/passwords-passphase.jpg"
 ---
