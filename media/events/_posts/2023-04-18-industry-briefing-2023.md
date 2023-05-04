@@ -13,10 +13,9 @@ Themed “Engineering Digital Government: Next Bound of Industry Partnerships”
 
 Don’t miss out this exclusive opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies, as well as learn more about the Government’s plans to co-create better digital services to improve the lives of citizens.
 
-Sign up early for the in-person tickets [HERE](https://go.gov.sg/ib2023-gt){:target="_blank"}
-<br>*Due to limited capacity, each company will be allocated a maximum of three seats.*
+Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
-Upon confirmation of your registration, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
+If you have not gotten a seat, please head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} to register as we will be livestreaming the event on the same day.
 
 For IB 2023 queries, please contact our event management partner at <IB2023@knoxx.sg>.
 
