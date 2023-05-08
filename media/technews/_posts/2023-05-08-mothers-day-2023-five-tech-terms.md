@@ -32,17 +32,17 @@ And that’s why an app that aspires to be everything to everyone is sometimes r
 
 The government also has a super app of sorts, the LifeSG app, which consolidates many government services into a one stop shop and curates them into services for major milestones or for everyday life. 
 
-Fun fact: the term “mother-of-all-apps” was even used in Parliament in 2017 by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative, when he was describing how the authorities should be open to collaboration with the private sector to provide digital government services. 
+Fun fact: the term “[mother-of-all-apps](https://www.smartnation.gov.sg/media-hub/parliament/20170302/)” was even used in Parliament in 2017 by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative, when he was describing how the authorities should be open to collaboration with the private sector to provide digital government services. 
 
 “For government apps, I take the point that we want platform unification. But I’m not sure we need everyone to use the mother of all apps. In fact I have told government departments that if someone else from the private sector comes up with a better and more effective app that makes available government services, we should encourage that. We should not allow the government to have a monopoly on app production to access government services,” he said.
 
 ## Mother lode – all you need to know 
 At the peak of excitement over the potential of big data, the phrase “data is the new oil” was bandied about a lot. It was an apt phrase in more ways than one as a large, rich source of data came to be known as the motherlode, a term that originates from the mining of physical resources such as mineral ore and, yes, oil. 
 
-As big data gets bigger and bigger, the term motherlode has also been increasingly used. 
+As big data gets bigger and bigger, the term motherlode has also been [increasingly used](https://finance.yahoo.com/news/mother-lode-leaks-massive-data-153658505.html). 
 This year, the UK Navy announced a joint initiative with Microsoft to greatly enhance the efficiency of aircraft maintenance by exploiting data. 
 
-The name of the programme? You guessed it – Motherlode.  
+The name of the programme? You guessed it – [Motherlode](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2023/march/17/20230317-royal-navys-1710-naval-air-squadron-launch-innovative-product-with-microsoft).  
 
 ## Mother folder 
 
@@ -59,7 +59,7 @@ And finally, a term that has to do with actual mothering of children.
 
 Technology has enabled all manners of surveillance. And given how an inescapable part of parenting is watching the kids, parents have been turning to things like CCTVs in bedrooms, geolocation of devices (be it a child’s smartphone or an Air Tag slipped into his backpack), as well as software enabling them to monitor a child’s online activity. 
 
-Welcome to the tech of Big Mother – a play on the term Big Brother from George Orwell’s dystopian classic 1984. 
+Welcome to the tech of [Big Mother](https://www.techopedia.com/definition/15390/big-mother) – a play on the term Big Brother from George Orwell’s dystopian classic 1984. 
 
 It’s a tough balance between keeping the kids safe and respecting their privacy. But with the technology out there, it will inevitably be a balance that all parents will struggle with one way or another. 
 
