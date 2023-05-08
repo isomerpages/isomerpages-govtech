@@ -3,7 +3,7 @@ layout: post
 title: "Mother’s Day 2023: five tech terms that show moms are at the heart of it all"
 permalink: "/media/technews/Mothers-Day-2023-five-tech-terms"
 category: technews
-image: "/images/technews/passwords-passphase.jpg"
+image: "/images/technews/mothersday.jpg"
 ---
 
 
