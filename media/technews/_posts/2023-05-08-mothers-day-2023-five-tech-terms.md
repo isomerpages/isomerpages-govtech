@@ -14,7 +14,7 @@ Misplaced your favourite pair of socks? Mom knows where to find them. Need help 
 
 Little wonder then that quite a few essential tech items and concepts are named after mothers. Don’t believe us? Then read on to learn more about how integral moms are in the world of tech. 
 
-Motherboard aka motherchip aka the mothership of chips
+## Motherboard aka motherchip aka the mothership of chips
 If you have ever looked inside a desktop computer, you know what a motherboard looks like. It’s that flat board with all manners of circuits, wires, and components plugged into it. 
 
 Yes, the motherboard of a computer literally holds everything together and ensures all the disparate parts work in tandem to provide a computing experience. The graphic card, RAM, hard drive, CD drive, processor chip, power supply – you name it. All of them run through the motherboard in one way or another. 
