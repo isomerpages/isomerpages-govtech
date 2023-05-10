@@ -22,11 +22,8 @@ This is a great opportunity to gain insights into various tech domains through w
 
 
 Find out what it is like to be a participant at [GeekOut through the eyes of our past participants](https://medium.com/ytpo-govtech/tagged/geekout){:target="_blank"}.
-
-Excited for GeekOut? Our signature five-day tech bootcamp is back from 12 to 16 June 2023. 
-[Registrations for GeekOut opens from now until 30 April 2023, 23:59](http://go.gov.sg/geekout2023){:target="_blank"} We’ll see you there!
-
-[GeekOut 2023 Application](http://go.gov.sg/geekout2023){:target="_blank"}
+	
+GeekOut applications for 2023 have closed. If you are interested in being a part of GeekOut 2023, please stay connected with us through the GovTech Talent Community to be notified of the application period for the next GeekOut.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
