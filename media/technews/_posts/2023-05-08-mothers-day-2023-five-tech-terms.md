@@ -25,7 +25,7 @@ And it’s not just the clunky desktops that have a motherboard. Laptops and yes
 
 When you think about how moms are usually at the centre of family life, while often holding down a job to boot, you see how the motherboard is probably the only name that can live up to the importance of this fundamental piece of hardware. 
 
-## Mother-of-all-apps – an app with a slash career
+## Mother of all apps – an app with a slash career
 Slash careers are all the rage in recent years. We’re referring to those “person of many positions” descriptions in Twitter and LinkedIn bios. And when we think about it, mothers shouldn’t bat an eyelid calling themselves expert multi taskers/entrepreneur/counsellor/career woman/chief financial officer/lead singer in a homegrown band. 
 
 And that’s why an app that aspires to be everything to everyone is sometimes referred to as the mother-of-all-apps. You know, kind of like how it’s not enough to provide just ride hailing; you’ve got to get into food delivery, personal finance, payment services, and even groceries. 
