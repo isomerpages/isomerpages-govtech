@@ -3,9 +3,11 @@ layout: post
 title: "Mother’s Day 2023: five tech terms that show moms are at the heart of it all"
 permalink: "/media/technews/Mothers-Day-2023-five-tech-terms"
 category: technews
-image: "/images/technews/mothersday.jpg"
+image: "/images/technews/mothersday2023.jpg"
 ---
 
+![Mother’s Day](/images/technews/mothersday2023.jpg)
+Photo Credit: 123RF.com
 
   
 Mothers – life is literally and figuratively impossible without them. 
