@@ -41,9 +41,9 @@ This centre develops a centralised Info-Communications Technology (ICT) infrastr
 
 Find out more about [Government ICT Infrastructure](/capability-centre-gig){:target="_blank"}.
 
-**Sensors and Internet of Things**
+**Smart City Technology**
 
-This centre works on the design and implementation of a Whole-of-Government Internet of Things (IoT) infrastructure that is built on the larger Smart Nation Platform. This infrastructure will enable connectivity by smart objects, including static and mobile ones such as wearables, sensors, mobile devices, and facilitate high speed transmission of data from the sensors. The centre will also build up the government’s capabilities in new, emerging technologies and collaborate with commercial organisations, research institutes and public agencies to experiment with and pilot new technologies to address their problems.
+This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support a range of Smart City applications. This infrastructure enables the connectivity of smart objects such as wearables, sensors, and mobile devices to facilitate data collection of data and management of large-scale sensor deployments. Formerly known as Sensors & IoT (SIOT), this centre was renamed and reorganised in January 2023 to better reflect GovTech’s focus in putting together the technologies, capabilities, and products to enable Singapore’s Smart City vision.
 
-Find out more about [Sensors and Internet of Things](/capability-centre-siot){:target="_blank"}.
+Find out more about [Smart City Technology](/capability-centre-sctd){:target="_blank"}.
 
