@@ -1,38 +1,31 @@
 ---
 layout: simple-page
-title:  "Sensors and Internet of Things"
-permalink: "/capability-centre-siot"
-breadcrumb: Sensors and Internet of Things
+title:  "Smart City Technology"
+permalink: "/capability-centre-sctd"
+breadcrumb: Smart City Technology
 ---
 
-![Sensors and Internet of Things](/images/capcentre-siot-banner.jpg)
+#### **Smart City Technology**
 
-#### **Sensors and Internet of Things**
+The Smart City Technology (SCTD) division, established as a capability centre, designs, builds, and implements a government-wide Internet of Things (IoT) infrastructure to support a range of Smart City applications. Formerly known as Sensors & IoT (SIOT), this centre was renamed and reorganised in January 2023 to better reflect GovTech’s focus in putting together the technologies, capabilities, and products to enable Singapore’s Smart City vision.
 
-The Sensors and Internet of Things (SIOT) division, established as a capability centre, designs, builds, and implements a whole-of-government (WOG) IoT infrastructure. This infrastructure, built on the larger SG Tech Stack, enables connectivity with static and mobile smart objects (e.g. wearables, sensors, mobile devices) to facilitate data collection and manage large-scale sensor deployments. 
-
-SIOT prides itself on building up the Government’s capabilities in new, emerging technologies and collaborates with commercial organisations, research institutes, and public agencies to test and pilot new solutions for existing problems.
-
-Our work ranges from hardware design on embedded platforms and robotics, to infrastructure development and deployment on cloud management platforms. With these technologies, we apply them in WOG environments like the [Smart Gym](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/smartgym/overview.html){:target="_blank"} and Smart Office to help improve service delivery and meet the Digital Government Blueprint goals. We also collaborate with the industry, research entities, and agencies to build capabilities in IoT, pilot new sensor technologies, and solve IoT challenges.
-
-Our engineers are involved in a wide variety of development work; all the way from low-level embedded design and programming, to managing and building IoT cloud infrastructure for the WOG.
+Our work ranges from hardware design on embedded platforms and robotics, to infrastructure development and deployment on cloud management platforms. With these technologies, we apply them in projects like the Personal Alert Button and the Open Digital Platform to help improve service delivery and better meet the needs of citizens and businesses. We also collaborate with the industry, research entities, and agencies to build capabilities in IoT, pilot new sensor technologies, and solve IoT challenges.
 
 We also work closely with government agencies and industry partners to understand their pain points and develop solutions to actual use-cases.
 
-SIOT has delivered meaningful projects that serves the nation, as well as prototyped solutions to meet the needs of diverse groups of users:
+SCTD has delivered meaningful projects that serves the nation, as well as prototyped solutions to meet the needs of diverse groups of users:
 * [Personal Alert Button](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html){:target="_blank"} for seniors living alone
 *	Assistive technologies such as the [eCanvas](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/ecanvas/overview.html){:target="_blank"} for persons with disabilities
-*	TraceTogether Token for public contact tracing
+*	The [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district){:target="_blank"} for smart district management, starting with the Punggol Digital District
 *	[DECADA IoT Platform](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-iot-tech-stack/overview.html){:target="_blank"} for public officers to manage IoT deployments with ease
 
-Much of these are derived from the SIOT Tech Stack that is made up of three core components:
+Much of these are derived from the SCTD Tech Stack that is made up of these core components:
 * [DECADA Edge](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway/overview.html){:target="_blank"}: a product and software solution to onboard new and existing sensor nodes to DECADA securely with ease. It is both a Gateway to DECADA and an Edge to process and aggregate sensor nodes data to reduce data traffic to DECADA.
 *	[DECADA Embedded](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-embedded/overview.html){:target="_blank"}: a family of microcontroller-class devices capable of communicating with DECADA Cloud directly.
 
 Our engineers and solution architects are given a lot of flexibility and autonomy for them to exercise their full expertise and to take charge of the end-to-end engineering process. They are also provided with resources required to build, architect, and deploy products and digital services.
 
-Follow our Medium blog to find out more about what we do:
-*	[https://medium.com/siot-govtech](https://medium.com/siot-govtech){:target="_blank"}
+Follow our [SCTD Medium blog](https://medium.com/siot-govtech){:target="_blank"} to find out more about what we do!
 
 Here are some of the roles we are hiring for:
 * Embedded Engineer
