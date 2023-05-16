@@ -34,10 +34,12 @@ Catch the Smart Nation Builder at these locations:
 |19 May (Fri) to 20 May (Sat) | 10:00am - 6:00pm | **Bukit Batok Community Club** <br> 21 Bukit Batok Central, Singapore 659959
 |24 May (Wed) to 25 May (Thu) | 10:00am - 6:00pm | **Republic Polytechnic** <br> 9 Woodlands Ave 9, Singapore 738964
 |10 June (Sat) <br> 11 June (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **Heartbeat@Bedok** (Along the walkway towards Blk 216 Food Centre and Market) <br> 11 Bedok North Street 1, Singapore 469662
+|12 Aug (Sat) <br> 13 Aug (Sun) | 11:00am - 6:00pm <br> 8:00am - 4:00pm | **Kampong Kembangan Community Club** <br> 5 Lengkong Tiga, #01-04, Singapore 417408
 
 **Venue Partner**
 
 * People's Association
+
 
 ### **Smart Nation CityScape**
 
@@ -50,6 +52,10 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
 <br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
 
 *Entry is free of charge.*
+
+**CityScape Visitor’s Guide**
+
+[![Smart Nation CityScape Visitor Guide](/images/programmes/products-and-services/cityscape-guide-image.jpg)](/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}
 
 
 ### **Smart Nation PlayScape**
