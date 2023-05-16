@@ -55,7 +55,7 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
 
 **CityScape Visitor’s Guide**
 
-![Smart Nation CityScape Visitor Guide](/images/programmes/products-and-services/cityscape-guide-image.jpg)(/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}
+[![Smart Nation CityScape Visitor Guide](/images/programmes/products-and-services/cityscape-guide-image.jpg)](/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}
 
 
 ### **Smart Nation PlayScape**
