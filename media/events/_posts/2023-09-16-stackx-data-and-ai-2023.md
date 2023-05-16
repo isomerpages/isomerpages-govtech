@@ -5,7 +5,7 @@ permalink: "/media/events/stackx-data-and-ai-2023"
 category: events
 ---
 
-[![GovTech STACKx Data & AI Conference 2023](/images/media/events/1200px-STACKxData-AI-banner.png)](https://go.gov.sg/stackxdataai-gtcorp){:target="_blank"}
+[![GovTech STACKx Data & AI Conference 2023](/images/media/events/1920px-STACKxData-AI-banner.png)](https://go.gov.sg/stackxdataai-gtcorp){:target="_blank"}
  
 
 
