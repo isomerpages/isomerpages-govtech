@@ -40,6 +40,7 @@ Catch the Smart Nation Builder at these locations:
 
 * People's Association
 
+
 ### **Smart Nation CityScape**
 
 ![Smart Nation CityScape](/images/programmes/products-and-services/Cityscape1.jpg)
@@ -51,6 +52,10 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
 <br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
 
 *Entry is free of charge.*
+
+**CityScape Visitor’s Guide**
+
+![Smart Nation CityScape Visitor Guide](/images/programmes/products-and-services/cityscape-guide-image.jpg)(/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}
 
 
 ### **Smart Nation PlayScape**
