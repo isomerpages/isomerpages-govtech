@@ -3,11 +3,9 @@ layout: post
 title: "[Not spam] Real answers to the question bugging you – How did tech terms get their names?"
 permalink: "/media/technews/how-tech-terms-got-their-names"
 category: technews
-image: "/images/technews/tech-terms.jpg"
+image: "/images/technews/term-names.jpg"
 ---
 
-![Spam. Tasty to eat, irritating tor recieve.](/images/technews/tech-terms.jpg)
-***Spam. Tasty to eat, irritating to recieve.*** Photo by <a href="https://unsplash.com/@hannes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannes Johnson</a> on <a href="https://unsplash.com/photos/mRgffV3Hc6c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 You know how thoroughly tech has become part of our lives when some industrial terms are now used in everyday conversation. 
 
