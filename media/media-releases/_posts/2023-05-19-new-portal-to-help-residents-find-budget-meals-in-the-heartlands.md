@@ -49,17 +49,15 @@ The Government will continue to partner and work closely with F&B businesses and
 **For media queries, please contact:**
 
 
-**Housing & Development Board**
-
+<br>**Housing & Development Board**
 <br>Lim Yi Han (Ms)
 <br>Senior Communications & Engagement Manager
 <br><Lim_Yi_Han@hdb.gov.sg>
 <br>9115 3982
 
 
-**Government Technology Agency**
+<br>**Government Technology Agency**
 <br>*(BudgetMealGoWhere website-related queries only)*
-
 <br>Ho Binjin (Ms)
 <br>Manager, Communications & Marketing Group
 <br><HO_Binjin@tech.gov.sg>
