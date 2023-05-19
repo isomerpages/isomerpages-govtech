@@ -41,7 +41,9 @@ The Government will continue to partner and work closely with F&B businesses and
 ---
 
 <br><sup>[1]</sup> Budget meal options include lunch or dinner meals that are priced affordably as compared to the average price of meals sold at nearby eating establishments. These budget meals must be full meals, and not side dishes, snacks, kids meal or half-portion meals.
+
 <br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the BudgetMealGoWhere platform on the LifeSG app: From the homescreen, scroll to the bottom and tap on the BudgetMealGoWhere banner. On the LifeSG webpage: scroll to “More from LifeSG” and click on the BudgetMealGoWhere banner.
+
 <br><sup>[3]</sup> Since 1998, HDB no longer sells coffeeshops, and only rents them out. There is a total of 776 coffeeshops in Singapore, of which 374 are rented out by HDB to private operators and 402 are privately-owned.
 
 ---
