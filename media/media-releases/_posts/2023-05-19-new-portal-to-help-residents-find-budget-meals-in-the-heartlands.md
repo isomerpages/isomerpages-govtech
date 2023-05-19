@@ -56,8 +56,7 @@ The Government will continue to partner and work closely with F&B businesses and
 <br>9115 3982
 
 
-<br>**Government Technology Agency**
-<br>*(BudgetMealGoWhere website-related queries only)*
+<br>**Government Technology Agency** *(BudgetMealGoWhere website-related queries only)*
 <br>Ho Binjin (Ms)
 <br>Manager, Communications & Marketing Group
 <br><HO_Binjin@tech.gov.sg>
