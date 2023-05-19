@@ -94,7 +94,9 @@ For more information, please visit [https://www.hdb.gov.sg/](https://www.hdb.gov
 **About the Government Technology Agency of Singapore (GovTech)**
 
 The Government Technology Agency of Singapore (GovTech) is a statutory board formed in October 2016 after the restructuring of the Info-communications Development Authority. Following the formation of the Smart Nation and Digital Government Group in May 2017, GovTech is placed under the Prime Minister’s Office as the implementing agency of the Group.
+
 GovTech works with public agencies to develop and deliver secure digital services and applied technology to individuals and businesses in Singapore. GovTech builds key platforms and solutions needed to support Singapore as a Smart Nation. As a leading centre for information communications technology and related engineering such as the Internet of Things, Data Science and Application Development, GovTech also enhances the capabilities of the Singapore Government in these domains.
+
 For more information, please visit or follow us on [Facebook.com/GovTechSG](https://www.facebook.com/GovTechSG){:target="_blank"} and [Twitter@GovTechSG](https://twitter.com/GovTechSG){:target="_blank"}.
 
 ---
