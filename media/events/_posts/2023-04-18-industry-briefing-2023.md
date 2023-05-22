@@ -14,10 +14,10 @@ Themed “Engineering Digital Government: Next Bound of Industry Partnerships”
 Don’t miss out this exclusive opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies, as well as learn more about the Government’s plans to co-create better digital services to improve the lives of citizens.
 
 ## Event Details
-Date: 24 May 2023 (Wed)
-Venue: Suntec City Convention Centre, Summit 1 & 2, Level 3 
-Time:  8.30am – 12.30pm
-Dress code: Smart casual
+<br> Date: 24 May 2023 (Wed)
+<br> Venue: Suntec City Convention Centre, Summit 1 & 2, Level 3 
+<br> Time:  8.30am – 12.30pm
+<br> Dress code: Smart casual
 
 ## Programme
 
