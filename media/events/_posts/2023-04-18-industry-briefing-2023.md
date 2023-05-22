@@ -23,8 +23,10 @@ Dress code: Smart casual
 
 | Time      | Item |
 | ----------- | ----------- |
-| 8.30am  | Registration and Light Refreshments, Product Showcase (Details in Annex A) |
-| 9.30am  | **Opening Address** <br> Kok Ping Soon <br> Chief Executive <br> GovTech |
+| 8.30am  | Registration and Light Refreshments <br> Product Showcase (Details in Annex A) |
+| 9.30am  | ***Opening Address** <br> **Kok Ping Soon*** <br> Chief Executive <br> GovTech |
+| 9.30am  | ***Accelerate WOG Digital Transformation through Singapore Government Tech Stack*** <br> **Kevin Ng** <br> Senior Director <br> GovTech |
+
 
 Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
