@@ -13,6 +13,23 @@ Themed “Engineering Digital Government: Next Bound of Industry Partnerships”
 
 Don’t miss out this exclusive opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies, as well as learn more about the Government’s plans to co-create better digital services to improve the lives of citizens.
 
+## Event Details
+Date: 24 May 2023 (Wed)
+Venue: Suntec City Convention Centre, Summit 1 & 2, Level 3 
+Time:  8.30am – 12.30pm
+Dress code: Smart casual
+
+## Programme
+
+| Time      | Item |
+| ----------- | ----------- |
+| 8.30am  | Registration and Light Refreshments
+Product Showcase (Details in Annex A) |
+| 9.30am  | ## Opening Address
+Kok Ping Soon
+Chief Executive
+GovTech |
+
 Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
 If you have not gotten a seat, please head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} to register as we will be livestreaming the event on the same day.
