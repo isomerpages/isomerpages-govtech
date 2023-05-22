@@ -18,7 +18,7 @@ Don’t miss out this exclusive opportunity to network with industry leaders, Ch
 <br> Venue: Suntec City Convention Centre, Summit 1 & 2, Level 3 
 <br> Time:  8.30am – 12.30pm
 <br> Dress code: Smart casual
-
+<br> 
 ## Programme
 
 | Time      | Item |
