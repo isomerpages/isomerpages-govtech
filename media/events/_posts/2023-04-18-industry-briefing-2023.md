@@ -27,6 +27,7 @@ Dress code: Smart casual
 | 9.30am  | **Opening Address** <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech |
 | 10.30am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks|| 8.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore |
 | 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President & Managing Director <br> Dell Technologies |
+| 11:45am  | End of event |
 
 Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
