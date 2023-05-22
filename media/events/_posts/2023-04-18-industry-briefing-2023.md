@@ -23,12 +23,8 @@ Dress code: Smart casual
 
 | Time      | Item |
 | ----------- | ----------- |
-| 8.30am  | Registration and Light Refreshments
-Product Showcase (Details in Annex A) |
-| 9.30am  | ## Opening Address
-Kok Ping Soon
-Chief Executive
-GovTech |
+| 8.30am  | Registration and Light Refreshments, Product Showcase (Details in Annex A) |
+| 9.30am  | *Opening Address, Kok Ping Soon, Chief Executive, GovTech |
 
 Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
 
