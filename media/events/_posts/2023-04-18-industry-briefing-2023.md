@@ -5,7 +5,7 @@ permalink: "/media/events/industry-briefing-2023"
 category: events
 ---
 
-[![Smart Nation & Digital Government Industry Briefing 2023](/images/media/events/Industry-Briefing-2023-banner2.jpg)](https://go.gov.sg/ib2023-gt)
+[![Smart Nation & Digital Government Industry Briefing 2023](/images/media/events/Industry-Briefing-2023-banner2.jpg)](https://go.gov.sg/ib2023-gt){:target="_blank"} 
 
 The Smart Nation and Digital Government Industry Briefing 2023 returns on 24 May at Suntec City Convention.
 
