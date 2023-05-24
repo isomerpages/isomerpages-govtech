@@ -41,7 +41,7 @@ Almost 76 per cent ($2.5 billion) of the Government’s projected FY23 ICT spend
 
 There are three key bulk tenders amounting to $1.85 billion to be called in FY23:
 
-<br> **1** Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
+<br> **(a)** Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
 use of the cloud in the public service, agencies can access a range of
 ready-made, subscription-based software over the Internet to meet
 operational needs. This tender provides agencies with customer
@@ -50,18 +50,13 @@ management software to meet their operational needs, as well as “low
 code” platforms that minimise the coding required to create software
 applications.
 
-Hosting Support Services (HSS) [$0.85 billion]: This tender provides
+<br> **(b)**Hosting Support Services (HSS) [$0.85 billion]: This tender provides
 agencies with a standardised set of core services to support cloud and
 on-premises hosting.
 
-Personal Computers &amp; Printer [$0.4 billion]: The devices used by public
-officers are replaced approximately every three years. Over 100,000 3
-devices are expected to be replaced under this bulk tender, which will
-incorporate sustainability criteria for the first time.
+<br> **(c)**Personal Computers &amp; Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000 [3] devices are expected to be replaced under this bulk tender, which wil incorporate sustainability criteria for the first time.
 
-Opportunities for Small &amp; Medium Enterprises (SMEs) remain plentiful. Nearly
-80 per cent of all procurement opportunities for FY23 will be available to SMEs, the
-same as last year.
+Opportunities for Small & Medium Enterprises (SMEs) remain plentiful. Nearly 80 per cent of all procurement opportunities for FY23 will be available to SMEs, the same as last year.
 
 
 **For media queries, please contact:**
