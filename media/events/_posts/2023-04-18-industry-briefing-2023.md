@@ -28,13 +28,12 @@ Want to catch up on the event? Head over to our [LinkedIn event page](https://go
 <br> 
 ## Programme
 
-| Time      | Item |
-| ----------- | ----------- |
-| 8.30am  | Registration and Light Refreshments <br> Product Showcase (Details in Annex A) |
-| 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech |
-| 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks|
-| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore |
-| 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President & Managing Director <br> Dell Technologies |
+| Time      | Item | Session Presentation Slides |
+| ----------- | ----------- | ----------- |
+| 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech | [Download]({{"/files/media/corporate-publications/2021_GovTech_Annual_Report_Main.pdf" | absolute_url }}){:target="_blank"} |
+| 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks| [Download]({{"/files/media/corporate-publications/2021_GovTech_Annual_Report_Main.pdf" | absolute_url }}){:target="_blank"} |
+| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore | [Download]({{"/files/media/corporate-publications/2021_GovTech_Annual_Report_Main.pdf" | absolute_url }}){:target="_blank"} |
+| 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President & Managing Director <br> Dell Technologies | [Download]({{"/files/media/corporate-publications/2021_GovTech_Annual_Report_Main.pdf" | absolute_url }}){:target="_blank"} |
 | 11:45am  | End of event |
 
 More details on #SmartNationIB are shared on our social media channels!
