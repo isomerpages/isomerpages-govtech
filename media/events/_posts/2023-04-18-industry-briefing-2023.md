@@ -15,10 +15,11 @@ The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 Ma
 * New bulk tenders to further aggregate demand for ICT services
 * Sustainability criteria to be incorporated into evaluation process starting in mid-2023
 
-More details on the announcements be found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
+<br> More details on the announcements be found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
 
+<br> Attendees also got to network with industry leaders, Chief Information Officers and senior public officers from Government agencies, as well as learn more about the Government’s plans to co-create better digital services to improve the lives of citizens.
 
-Want to catch up on the event? Head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} to catch up on the recording.
+<br> Want to catch up on the event? Head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} to catch up on the recording.
 
 ## Event Details
 <br> Date: 24 May 2023 (Wed)
