@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Government projected to spend $3.3 billion on ICT in FY23" 
-permalink: /media/media-releases/2023-05-24-Government-projected-to-spend-on ICT-in-FY23
+permalink: /media/media-releases/2023-05-24-Government-projected-to-spend-on-ICT-in-FY23
 date: 2023-05-24
 ---
 
