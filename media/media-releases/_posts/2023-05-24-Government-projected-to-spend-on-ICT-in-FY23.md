@@ -45,7 +45,7 @@ There are three key bulk tenders amounting to $1.85 billion to be called in FY23
 
 <br> **(b)** Hosting Support Services (HSS) [$0.85 billion]: This tender provides agencies with a standardised set of core services to support cloud and on-premises hosting.
 
-<br> **(c)** Personal Computers & Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000<sup>[3]</sup> devices are expected to be replaced under this bulk tender, which wil incorporate sustainability criteria for the first time.
+<br> **(c)** Personal Computers & Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000<sup>[3]</sup> devices are expected to be replaced under this bulk tender, which will incorporate sustainability criteria for the first time.
 
 Opportunities for Small & Medium Enterprises (SMEs) remain plentiful. Nearly 80 per cent of all procurement opportunities for FY23 will be available to SMEs, the same as last year.
 
