@@ -9,10 +9,10 @@ date: 2023-05-24
 
 SINGAPORE, 24 MAY 2023
 
- $1 billion for applications developed on the cloud
- Co-developed projects with industry will account for almost half (45 per cent) of projected spending, up from a third in FY22
- New bulk tenders to further aggregate demand for ICT services
- Sustainability criteria to be incorporated into evaluation process starting in 2H 2023
+<br><br>  $1 billion for applications developed on the cloud
+<br><br> Co-developed projects with industry will account for almost half (45 per cent) of projected spending, up from a third in FY22
+<br><br>  New bulk tenders to further aggregate demand for ICT services
+<br><br> Sustainability criteria to be incorporated into evaluation process starting in 2H 2023
 
 The Government will spend an estimated $3.3 billion on info-communications technology (ICT) this year 1 , building on past years’ investments to modernise its
 digital infrastructure and develop better services for citizens, businesses, and public officers. In total, the Government has invested about $16 billion in ICT over the last five years.
