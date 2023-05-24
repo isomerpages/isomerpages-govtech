@@ -62,7 +62,7 @@ and usage of microservices to further automate and streamline the application de
 
 Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the past five years have laid a firm foundation for the next bound of digital government. The Government will maintain a high level of ICT spending in 2023, as we continue to push ahead with our cloud strategy and find more ways to work closely with the industry through co-developed projects and bulk tenders. Providing opportunities for SMEs to take on government projects is also important, as SMEs form a key pillar of our Smart Nation efforts.”
 
-<br><sup>[4]</sup> For more information on this scheme, please visit https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme  (https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme){:target="_blank"}.
+<br><sup>[4]</sup> For more information on this scheme, please visit [https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme](https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme){:target="_blank"}.
 
 ---
 
