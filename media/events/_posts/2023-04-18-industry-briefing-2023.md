@@ -7,11 +7,18 @@ category: events
 
 [![Smart Nation & Digital Government Industry Briefing 2023](/images/media/events/Industry-Briefing-2023-banner2.jpg)](https://go.gov.sg/ib2023-gt){:target="_blank"} 
 
-The Smart Nation and Digital Government Industry Briefing 2023 returns on 24 May at Suntec City Convention.
+The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 May at Suntec Convention Centre.
 
-Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this annual ICT event seeks to connect the public sector with ICT partners and showcase partnership opportunities and key ICT projects.
+Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on the following:
+* $1 billion for applications developed on the cloud
+* Co-developed projects with industry will account for almost half (45%) of projected spending, up from a third in FY22
+* New bulk tenders to further aggregate demand for ICT services
+* Sustainability criteria to be incorporated into evaluation process starting in mid-2023
 
-Don’t miss out this exclusive opportunity to network with industry leaders, Chief Information Officers and senior public officers from Government agencies, as well as learn more about the Government’s plans to co-create better digital services to improve the lives of citizens.
+More details on the announcements be found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
+
+
+Want to catch up on the event? Head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} now.
 
 ## Event Details
 <br> Date: 24 May 2023 (Wed)
@@ -24,15 +31,10 @@ Don’t miss out this exclusive opportunity to network with industry leaders, Ch
 | Time      | Item |
 | ----------- | ----------- |
 | 8.30am  | Registration and Light Refreshments <br> Product Showcase (Details in Annex A) |
-| 9.30am  | **Opening Address** <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech |
-| 10.30am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks|| 8.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore |
+| 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech |
+| 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks|
+| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore |
 | 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President & Managing Director <br> Dell Technologies |
 | 11:45am  | End of event |
 
-Due to overwhelming interest, we have reached full capacity for the physical event. For confirmed registrations, you will receive an email with a QR code closer to the event date. Do keep a look out for it in your mailbox!
-
-If you have not gotten a seat, please head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"} to register as we will be livestreaming the event on the same day.
-
-For IB 2023 queries, please contact our event management partner at <IB2023@knoxx.sg>.
-
-More details on #SmartNationIB will be shared here and across our social media channels. We look forward to seeing you!
+More details on #SmartNationIB are shared on our social media channels!
