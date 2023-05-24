@@ -29,7 +29,7 @@ The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 Ma
 <br> 
 ## Programme
 
-| Time      | Item | Session Presentation Slides |
+| Time      | Item | Presentation Slides |
 | ----------- | ----------- | ----------- |
 | 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech | [Download]({{"/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" | absolute_url }}){:target="_blank"} |
 | 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks| [Download]({{"/files/media/corporate-publications/IB2023-Accelerate-WOG-digital-transformation-through-Singapore-Government-Tech-Stack.pdf" | absolute_url }}){:target="_blank"} |
