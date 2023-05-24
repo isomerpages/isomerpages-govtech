@@ -33,10 +33,8 @@ The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 Ma
 | ----------- | ----------- | ----------- |
 | 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech | [Download]({{"/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" | absolute_url }}){:target="_blank"} |
 | 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks| [Download]({{"/files/media/corporate-publications/IB2023-Accelerate-WOG-digital-transformation-through-Singapore-Government-Tech-Stack.pdf" | absolute_url }}){:target="_blank"} |
-| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Joe Lee** <br> Chief Executive Officer <br> Esri Singapore | [Download]({{"/files/media/corporate-publications/IB2023-Geospatial-data-powering-Smart-City-Operations.pdf" | absolute_url }}){:target="_blank"} |
+| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Brian Wong** <br> Cluster Lead <br> Esri Singapore | [Download]({{"/files/media/corporate-publications/IB2023-Geospatial-data-powering-Smart-City-Operations.pdf" | absolute_url }}){:target="_blank"} |
 | 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President & Managing Director <br> Dell Technologies | [Download]({{"/files/media/corporate-publications/IB2023-Sustainable-Digitalisation-Opportunities-and-Challenges.pdf" | absolute_url }}){:target="_blank"} |
-| 11:45am  | End of event |
+| 12:00pm  | End of event |
 
-<br> For IB 2023 queries, please contact our event management partner at <IB2023@knoxx.sg>.
-<br> 
 <br> More details on #SmartNationIB are shared on our social media channels!
