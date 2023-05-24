@@ -41,7 +41,7 @@ Almost 76 per cent ($2.5 billion) of the Government’s projected FY23 ICT spend
 
 There are three key bulk tenders amounting to $1.85 billion to be called in FY23:
 
-<br> Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
+<br> **1** Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
 use of the cloud in the public service, agencies can access a range of
 ready-made, subscription-based software over the Internet to meet
 operational needs. This tender provides agencies with customer
