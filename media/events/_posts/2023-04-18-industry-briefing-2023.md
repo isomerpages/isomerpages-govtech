@@ -9,7 +9,7 @@ category: events
 
 The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 May at Suntec Convention Centre.
 
-## **Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on the following:**
+**Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on the following:**
 * $1 billion for applications developed on the cloud
 * Co-developed projects with industry will account for almost half (45%) of projected spending, up from a third in FY22
 * New bulk tenders to further aggregate demand for ICT services
