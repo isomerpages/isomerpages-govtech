@@ -69,6 +69,7 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 **Issued by:** 
 <br>The Communications and Marketing Group
 <br>Government Technology Agency of Singapore
+<br>
 <br>**Date:**	
 <br>24 May 2023
 
@@ -81,7 +82,7 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 <br>Government Technology Agency
 <br>Tel: 9100 4477
 <br>Email: <Adrian_Chan@tech.gov.sg>
- 
+ <br>
 <br>**Lester WONG (Mr)** 
 <br>Communications & Marketing Group 
 <br>Government Technology Agency 
