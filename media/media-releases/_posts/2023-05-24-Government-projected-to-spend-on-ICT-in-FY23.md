@@ -26,7 +26,7 @@ More than 30 per cent ($1 billion) of the Government’s projected ICT spending 
 
 ---
 
-### **More systems to be developed on Government Commercial Cloud**
+### **More co-development of application projects**
 The value of projects co-developed with industry is expected to increase to about 45 per cent ($1.49 billion) of total spending in FY23, up from 27 per cent and 20 per cent in FY22 and FY21 respectively.
 
 <br>Co-developed projects<sup>[2]</sup> streamline development efforts by leveraging the SG Tech Stack and other government platforms for security compliance and interoperability, as well as reusing well-tested software components to build applications efficiently. There are currently 27 vendors qualified to co-develop projects with the Government using the SG Tech Stack. This list of vendors will be refreshed with the Agile Co-Development and ICT Professional Services bulk tender ($0.62 billion) to be called in FY23.
