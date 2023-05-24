@@ -29,6 +29,7 @@ The value of projects co-developed with industry is expected to increase to abou
 ---
 
 <br><sup>[1]</sup> Projected ICT spending was $3.8 billion in both FY22 and FY21. Past efforts to aggregate demand for ICT services through bulk tenders, and to modernise the Government’s backend ICT infrastructure through the cloud, have resulted in cost savings.
+<br> 
 <br><sup>[2]</sup> In co-developed projects, government engineers/developers may be responsible for building one component while their industry counterparts build another. This differs from the traditional outsourced model, where the project is built entirely by a vendor based on the requirements stipulated by the government agency.
 
 
@@ -40,7 +41,7 @@ Almost 76 per cent ($2.5 billion) of the Government’s projected FY23 ICT spend
 
 There are three key bulk tenders amounting to $1.85 billion to be called in FY23:
 
-<br><sup> Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
+<br> Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater
 use of the cloud in the public service, agencies can access a range of
 ready-made, subscription-based software over the Internet to meet
 operational needs. This tender provides agencies with customer
