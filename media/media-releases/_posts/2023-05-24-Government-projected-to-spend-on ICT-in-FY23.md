@@ -89,7 +89,9 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 <br>Tel: 9190 5932 
 <br>Email: <lester_wong@tech.gov.sg>
 
-**About Government Technology Agency**
+---
+
+## **About Government Technology Agency**
 
 The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the
 Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore government’s capabilities in Data Science & Artificial ntelligence, Application Development, Smart City Technology, Digital nfrastructure, and Cybersecurity. 
