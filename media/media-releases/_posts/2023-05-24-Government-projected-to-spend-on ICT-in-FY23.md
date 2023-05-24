@@ -14,16 +14,22 @@ SINGAPORE, 24 MAY 2023
 <br><br>  New bulk tenders to further aggregate demand for ICT services
 <br><br> Sustainability criteria to be incorporated into evaluation process starting in 2H 2023
 
-<br><br> The Government will spend an estimated $3.3 billion on info-communications technology (ICT) this year 1 , building on past years’ investments to modernise its digital infrastructure and develop better services for citizens, businesses, and public officers. In total, the Government has invested about $16 billion in ICT over the last five years.
+<br> The Government will spend an estimated $3.3 billion on info-communications technology (ICT) this year 1, building on past years’ investments to modernise its digital infrastructure and develop better services for citizens, businesses, and public officers. In total, the Government has invested about $16 billion in ICT over the last five years.
+
+---
 
 ### **More systems to be developed on Government Commercial Cloud**
 
 More than 30 per cent ($1 billion) of the Government’s projected ICT spending for FY23 are for applications developed on the Government Commercial Cloud (GCC). Since the announcement of the “Cloud First” Strategy in October 2018, about 66 per cent of eligible government systems have been migrated to the Government Commercial Cloud (GCC), putting the goal of 70 per cent by end 2023 within reach.
 
+---
+
 ### **More systems to be developed on Government Commercial Cloud**
 The value of projects co-developed with industry is expected to increase to about 45 per cent ($1.49 billion) of total spending in FY23, up from 27 per cent and 20 per cent in FY22 and FY21 respectively.
 
 <br>Co-developed projects 2 streamline development efforts by leveraging the SG Tech Stack and other government platforms for security compliance and interoperability, as well as reusing well-tested software components to build applications efficiently. There are currently 27 vendors qualified to co-develop projects with the Government using the SG Tech Stack. This list of vendors will be refreshed with the Agile Co-Development and ICT Professional Services bulk tender ($0.62 billion) to be called in FY23.
+
+---
 
 ### **More projects to be awarded through bulk tenders**
 
@@ -38,6 +44,8 @@ There are three key bulk tenders amounting to $1.85 billion to be called in FY23
 <br> **(c)** Personal Computers & Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000 devices are expected to be replaced under this bulk tender, which wil incorporate sustainability criteria for the first time.
 
 Opportunities for Small & Medium Enterprises (SMEs) remain plentiful. Nearly 80 per cent of all procurement opportunities for FY23 will be available to SMEs, the same as last year.
+
+---
 
 ### **Introduction of sustainability metrics**
 
