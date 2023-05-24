@@ -34,9 +34,9 @@ There are three key bulk tenders amounting to $1.85 billion to be called in FY23
 
 <br> **(a)** Enterprise Software-as-a-Service (SaaS) [$0.6 billion]: With greater use of the cloud in the public service, agencies can access a range of ready-made, subscription-based software over the Internet to meet operational needs. This tender provides agencies with customer relationship management (CRM), case management, and service management software to meet their operational needs, as well as “low code” platforms that minimise the coding required to create software applications.
 
-<br> **(b)**Hosting Support Services (HSS) [$0.85 billion]: This tender provides agencies with a standardised set of core services to support cloud and on-premises hosting.
+<br> **(b)** Hosting Support Services (HSS) [$0.85 billion]: This tender provides agencies with a standardised set of core services to support cloud and on-premises hosting.
 
-<br> **(c)**Personal Computers & Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000 devices are expected to be replaced under this bulk tender, which wil incorporate sustainability criteria for the first time.
+<br> **(c)** Personal Computers & Printer [$0.4 billion]: The devices used by public officers are replaced approximately every three years. Over 100,000 devices are expected to be replaced under this bulk tender, which wil incorporate sustainability criteria for the first time.
 
 Opportunities for Small & Medium Enterprises (SMEs) remain plentiful. Nearly 80 per cent of all procurement opportunities for FY23 will be available to SMEs, the same as last year.
 
@@ -71,13 +71,13 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 <br>Communications & Marketing Group
 <br>Government Technology Agency
 <br>Tel: 9100 4477
-<br>Email: Adrian_Chan@tech.gov.sg
+<br>Email: <Adrian_Chan@tech.gov.sg>
  
 <br>**Lester WONG (Mr)** 
 <br>Communications & Marketing Group 
 <br>Government Technology Agency 
 <br>Tel: 9190 5932 
-<br>Email: lester_wong@tech.gov.sg
+<br>Email: <lester_wong@tech.gov.sg>
 
 **About Government Technology Agency**
 
@@ -89,5 +89,5 @@ GovTech supports public agencies to manage enterprise IT operations and develop
 For more information, please visit [www.tech.gov.sg] (https://www.tech.gov.sg/){:target="_blank"}.
 <br>Follow GovTech on Facebook / Twitter / Instagram/ Linkedin @GovTechSG.
 
-
+<br><sup>[3]</sup> For more information on this scheme, please visit https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme  (https://www.imda.gov.sg/how-we-can-help/bca-imda-green-mark-for-data-centres-scheme){:target="_blank"}.
 
