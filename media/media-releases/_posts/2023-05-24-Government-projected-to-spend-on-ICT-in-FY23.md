@@ -94,7 +94,7 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 ## **About Government Technology Agency**
 
 The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the
-Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore government’s capabilities in Data Science & Artificial intelligence, Application Development, Smart City Technology, Digital nfrastructure, and Cybersecurity. 
+Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore government’s capabilities in Data Science & Artificial intelligence, Application Development, Smart City Technology, Digital infrastructure, and Cybersecurity. 
  <br>
 <br>GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity and oversees key government ICT infrastructure, and also regulates ICT procurement, data protection and security in the public sector. GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. 
  <br>
