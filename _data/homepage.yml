@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/Industry-Briefing-2023-Banner.png
+hero-banner: /images/1920px - STACKx Data & AI banner.png
 
 #Call to Action Button
 button:
-  - text: Find Out More
-    url: https://www.tech.gov.sg/media/events/industry-briefing-2023
+  - text: REGISTER NOW
+    url: https://go.gov.sg/stackxdataai-gtcorp
     
 # Key Highlights
 key-highlights:
