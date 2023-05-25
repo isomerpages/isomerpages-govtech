@@ -11,13 +11,13 @@ The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 Ma
 
 
 
-**Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on the following:**
+**Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on:**
 * $1 billion for applications developed on the cloud
 * Co-developed projects with industry will account for almost half (45%) of projected spending, up from a third in FY22
 * New bulk tenders to further aggregate demand for ICT services
 * Sustainability criteria to be incorporated into evaluation process starting mid-2023
 
-More details on the announcements can be found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
+More details on the announcements are found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
 
 Want to catch up on the discussions and insights from the event? Head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"}.
 
