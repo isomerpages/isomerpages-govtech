@@ -4,10 +4,10 @@ board-of-directors:
     title: Chairman
     organisation: Permanent Secretary (Smart Nation and Digital Government)
     image-url: /images/our-team/ps-joseph-leong.jpg
-  - name: Mr KOK Ping Soon
+  - name: Mr GOH Wei Boon
     title: Chief Executive
     organisation: Government Technology Agency of Singapore
-    image-url: /images/our-team/kok-ping-soon.png
+    image-url: /images/our-team/Goh_Wei_Boon.png
   - name: Mr CHNG Kai Fong
     title: PS (Development)/SNDGG
     organisation: Smart Nation and Digital Government Group
@@ -67,12 +67,8 @@ board-of-directors:
       
 # Senior Leadership
 senior-leadership:
-  - name: Mr KOK Ping Soon
-    title: Chief Executive
-    organisation: Government Technology Agency of Singapore
-    image-url: /images/our-team/kok-ping-soon.png
   - name: Mr GOH Wei Boon
-    title: Chief Executive (Designate)
+    title: Chief Executive
     organisation: Government Technology Agency of Singapore
     image-url: /images/our-team/Goh_Wei_Boon.png 
   - name: Mr CHANG Sau Sheong
