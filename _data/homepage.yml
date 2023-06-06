@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/1920px - STACKx Data & AI banner.png
+hero-banner: /images/homepage-banner-SNB-june22.png
 
 #Call to Action Button
 button:
-  - text: REGISTER NOW
-    url: https://go.gov.sg/stackxdataai-gtcorp
+  - text: Find Out More
+    url: https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder
     
 # Key Highlights
 key-highlights:
