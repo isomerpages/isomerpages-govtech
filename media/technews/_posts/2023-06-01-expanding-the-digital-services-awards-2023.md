@@ -34,14 +34,14 @@ To submit your nominations, visit the [Digital Services Awards website](https://
 
 As for government agencies, the government nomination form will be sent via GovTech DigitalGov by the first half of June. 
 
-To ensure fairness and appropriate representation, government agencies will be grouped based on their digital maturity and resources owned, resulting in three size classifications: Large, Medium, and Small, determined by the number of Informational Services sites owned.
+To ensure fairness and appropriate representation, government agencies will be grouped based on their digital maturity and resources owned, resulting in three size classifications: Large, Medium, and Small, determined by the number of Informational Websies  sites owned.
 
 
 ## Evaluation timeline and criteria
 The evaluation process consists of three tiers, with evaluation conducted by both experts and citizen judges:
 ### Tier 1: Establishing the Top 10 - Pre-screening Evaluation (Aug-Sep 2023)
 
-After the nomination period ends, the nominated Informational Websites will undergo pre-screening based on GovTech's [Digital Services Standards.](https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf) The top 10 nominees fulfilling the baseline standards of intuitivity, usability, accessibility, and inclusivity will proceed to the next round and automatically become nominees for the Most Popular Informational Service award. 
+After the nomination period ends, the nominated Informational Websites will undergo pre-screening based on GovTech's [Digital Services Standards.](https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf) The top 10 nominees fulfilling the baseline standards of intuitivity, usability, accessibility, and inclusivity will proceed to the next round and automatically become nominees for the Most Popular Informational Website award. 
 
 The top 10 nominees will be revealed in September 2023 on the Digital Services Awards website.
 
@@ -72,8 +72,8 @@ Government Awards:
 - Three Agency Nominated Winners: Government agencies can nominate citizens based on their contribution's scale, impact, and level of participation in various initiatives. The nominees will undergo screening and assessment by a panel of judges to determine the top three winners.
 - Three Tech Kaki Winners: This award recognises the top three Tech Kaki community members with the highest participation rate in Tech Kaki engagements.
 - Three CrowdTaskSG Winners: This award acknowledges the three most active users of CrowdTaskSG, a platform for crowdsourcing tasks and contributions.
-2. [Renamed!] Best Usability: This award recognises the Informational Service that has the best usability, considering ease of use, usefulness, and satisfaction. Nominations open in June.
-3. Most Popular Informational Service: This award acknowledges the most popular Informational Service, based on the highest number of live attendee votes during the award ceremony.
+2. [Renamed!] Best Usability: This award recognises the Informational Service Website that has the best usability, considering ease of use, usefulness, and satisfaction. Nominations open in June.
+3. Most Popular Informational Website: This award acknowledges the most popular Informational Website, based on the highest number of live attendee votes during the award ceremony.
 4. Best Functionality: This category honours agencies that have achieved the best combination of WOGAA Inspect scores for Page load time, SEO, and Accessibility across all their Informational Websites.
 5. Best Improvement: This award acknowledges the agency that has shown the most significant improvements during the qualifying period.
 6. Best Customer Satisfaction Score (CSAT) for Transactional Services: This category recognises agencies that exceed user expectations with the best customer satisfaction scores based on WOGAA Sentiments.
