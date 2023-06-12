@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Apps to download this Fathers' Day"
-permalink: "/media/technews/five-apps-to-download-this-fathers-day.md"
+permalink: "/media/technews/five-apps-to-download-this-fathers-day"
 category: technews
 image: "/images/technews/fathers-day-2023.jpeg"
 ---
