@@ -15,7 +15,7 @@ The programme includes:
 
 * Keynote presentations by distinguished AI leaders, e.g. Dr Andrew Ng, Founder of DeepLearning.AI
 * Panel discussion
-* Presentations by government agency users
+* Presentations by government agencies
 * Presentations by DSAID product teams
 * Sharing by industry experts
 * Hands-on technical pre-event workshops
