@@ -34,7 +34,7 @@ Catch the Smart Nation Builder at these locations:
 |10 June (Sat) <br> 11 June (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **Heartbeat@Bedok** (Along the walkway towards Blk 216 Food Centre and Market) <br> 11 Bedok North Street 1, Singapore 469662
 |17 June (Sat) <br> 18 June (Sun) | 11:00am - 7:00pm <br> 10:00am - 6:00pm | **Daddy’s Day Out Carnival, MPC@Khatib** (in front of Blk 838 Yishun St 81) <br> Singapore 760838
 |15 July (Sat) <br> 16 July (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **MacPherson Community Club** <br> (400 Paya Lebar Way Singapore 379131)
-|26 – 30 July | 11:00am - 7:00pm | **Plaza Singapura** <br> (68 Orchard Road, Plaza Singapura, Singapore 238839, Front Plaza, Level 1)
+|26 – 28 July | 12:00am - 8:00pm <br> 29 – 30 July | 11:00am - 7:00pm| **Plaza Singapura** <br> (68 Orchard Road, Plaza Singapura, Singapore 238839, Front Plaza, Level 1)
 |12 Aug (Sat) <br> 13 Aug (Sun) | 11:00am - 6:00pm <br> 8:00am - 4:00pm | **Kampong Kembangan Community Club** <br> 5 Lengkong Tiga, #01-04, Singapore 417408
 
 
