@@ -7,7 +7,7 @@ breadcrumb: Internships
 
 ![GovTech Internships](/images/careers/GovTech-Internships.png)
 
-Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for pre-tertiary, polytechnic and university students. If you have a passion for technology and are team-oriented, experience a tech internship with us today!
+Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for pre-tertiary, polytechnic and university students. If you have a passion for technology and are team-oriented, experience an internship with us today!
 
 ![GovTech Internships Overview](/images/careers/Internship_Infographic.png)
 
@@ -25,7 +25,7 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 **GovTech Internships Application Periods**
 
-![GovTech Internships Application Periods](/images/careers/GovTech-Internship-Application-Periods.png)
+![GovTech Internships Application Periods](/images/careers/GovTech-internship-application-period.png)
 
 **GovTech Internships Application Process**
 
@@ -33,10 +33,10 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 **GovTech Internships Selection Process**
 
-![GovTech Internships Selection Process](/images/careers/GovTech-Internship-Selection-Process.png)
+![GovTech Internships Selection Process](/images/careers/GovTech-internship-selection-process-updated.png)
 
 
-Find out more about our internship application process and available roles on [Careers@Gov](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2023-Internships_JR-10000015262?Agency=27bc56da9e6a01dcff9491800407da09){:target="_blank"}.
+Join our [Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified when our next application period opens.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
