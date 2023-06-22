@@ -6,7 +6,7 @@ breadcrumb: Students and Graduates
 collection_name: careers
 ---
 
-![GovTech is a top ten tech employer in 2022](/images/careers/govtech-universum-2022-9.png)
+![GovTech is a top ten tech employer](/images/careers/YTPO-Awards.pngg)
 
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
 
@@ -45,7 +45,7 @@ From technology boot camps, internships and scholarships to fresh grad opportuni
   </div>
 </div>
 
-
+Read more about our Young Talents’ experience on our [Medium blog](https://medium.com/ytpo-govtech){:target="_blank"}.
 
 *To receive updates about our Young Talent programmes, join our [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.*
 
