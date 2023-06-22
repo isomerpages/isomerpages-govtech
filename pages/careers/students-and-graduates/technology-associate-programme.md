@@ -7,11 +7,15 @@ breadcrumb: Technology Associate Programme
 
 ![Technology Associate Programme](/images/careers/TAP-collage.png)
 
-For aspiring tech leaders, chart your career with our Technology Associate Programme or affectionately known to our people as TAP, an exclusive leadership-trainee programme to fast-track your career in GovTech.
+Our Technology Associate Programme (TAP) is an exclusive two-year personalised talent programme designed for you to build a strong foundation towards becoming a technology leader.
 
-As an exclusive leadership-trainee programme, TAP is designed to sharpen and develop your technical knowledge and professional skills. You will gain two years of specialist training, and be groomed to take on specialist and/or technology leadership roles within GovTech – accelerating your career development.
+TAP aims to bring out the best in you, both technically and professionally. You will be groomed and nurtured to build in-depth expertise in the technology domain of your choice, solve nationwide problems with our technology leaders, and ultimately make an impact on the lives of people in Singapore.
 
-![Technology Associate Programme Overview](/images/careers/TAP_Infographic.png)
+Be empowered with the autonomy to define your own career growth in a supportive, friendly and inclusive environment. You will embark on an exciting journey where you will receive both career and technical mentorship from our senior leaders and experienced GovTechies, connect with like-minded technology enthusiasts in your cohort, and get access to exclusive developmental opportunities from our People and Organisation Division throughout the two years.
+
+The power to decide your future is in your hands. Chart your career with our Technology Associate Programme!
+
+![Technology Associate Programme Overview](/images/careers/TAP-infographic-v2.png)
 
 
 ### Read about past Tech Associate’s experiences:
@@ -23,7 +27,9 @@ As an exclusive leadership-trainee programme, TAP is designed to sharpen and dev
 
 ### How can you apply?
 
-If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact! Applications will be open from 1 July to 31 August 2023.
+Applications will be open from 1 July to 31 August 2023. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join us to make an impact!
+
+Stay in touch with us and get notified when applications open by joining our [Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
