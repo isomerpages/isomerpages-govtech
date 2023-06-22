@@ -40,7 +40,7 @@ From technology boot camps, internships and scholarships to fresh grad opportuni
 	
   <div class="col" style="text-align: center">
      <a href="/careers/students-and-graduates/technology-associate-programme" target="_blank">
-      <img src="/images/careers/TAP-card.png" alt="Technology Associate Programme" /></a>
+      <img src="/images/careers/TAP-thumbnail.png" alt="Technology Associate Programme" /></a>
     <figcaption><b>Technology Associate Programme</b></figcaption>
   </div>
 </div>
