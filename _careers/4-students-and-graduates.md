@@ -6,7 +6,7 @@ breadcrumb: Students and Graduates
 collection_name: careers
 ---
 
-![GovTech is a top ten tech employer](/images/careers/YTPO-Awards.pngg)
+![GovTech is a top ten tech employer](/images/careers/YTPO-Awards.png)
 
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
 
