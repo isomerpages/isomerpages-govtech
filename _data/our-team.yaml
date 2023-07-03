@@ -102,7 +102,11 @@ senior-leadership:
   - name: Mr LIM Thian Chin
     title: Senior Director
     organisation: Governance Group
-    image-url: /images/our-team/Lim-Thian-Chin.jpg    
+    image-url: /images/our-team/Lim-Thian-Chin.jpg
+  - name: Mr Kevin NG
+    title: Senior Director
+    organisation: Government Digital Services - Central
+    image-url: /images/our-team/Kevin-Ng-Smart-Nation-GovTech.jpg    
   - name: Mr D. N. PRASAD
     title: Senior Director
     organisation: People and Organisation Division
@@ -129,20 +133,16 @@ senior-leadership:
     image-url: /images/our-team/chong-wan-yieng-2.jpg  
   - name: Mr Steven KOH
     title: Director
-    organisation: Government Digital Services, Agile Consulting & Engineering (ACE)
+    organisation: Government Digital Services - Agile Consulting & Engineering (ACE)
     image-url: /images/our-team/Steven_Koh.png
   - name: Mr Eyung LIM
     title: Director
-    organisation: Government Digital Services, Digital Design & Development (DCube)
+    organisation: Government Digital Services - Digital Design & Development (DCube)
     image-url: /images/our-team/Eyung_Lim.png
   - name: Mr LOH Xiang Hui
     title: Director
     organisation: Finance and Procurement
     image-url: /images/our-team/Loh_Xianghui.jpg
-  - name: Mr Kevin NG
-    title: Director
-    organisation: Core Operations Development Environment and eXchange
-    image-url: /images/our-team/Kevin-Ng-Smart-Nation-GovTech.jpg
   - name: Mr James TAN
     title: Director
     organisation: Smart City Technology Division (SCTD)
