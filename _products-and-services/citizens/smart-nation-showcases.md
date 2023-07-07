@@ -73,6 +73,10 @@ Through gamified interactives, complex technological concepts are broken down an
 
 *Entry is free of charge for Singaporeans/Singapore PRs.* 
 
+**PlayScape Visitor’s Guide**
+
+[![Smart Nation PlayScape Visitor Guide](/images/programmes/products-and-services/playscape_pamphlet.jpg)](/files/products-and-services/playscape_visitor_guide.pdf){:target="_blank"}
+
 
 #### Visit our showcases!
 
