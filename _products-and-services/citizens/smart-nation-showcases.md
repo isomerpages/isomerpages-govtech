@@ -33,7 +33,7 @@ Catch the Smart Nation Builder at these locations:
 | -------- | -------- | -------- |  
 |17 June (Sat) <br> 18 June (Sun) | 11:00am - 7:00pm <br> 10:00am - 6:00pm | **MPC@Khatib** (in front of Blk 838 Yishun St 81) <br> Yishun Avenue 2, Singapore 760838
 |15 July (Sat) <br> 16 July (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **MacPherson Community Club** <br> 400 Paya Lebar Way, Singapore 379131
-|26 – 28 July <br> 29 – 30 July  | 12:00pm - 8:00pm | **Plaza Singapura** (Outdoor Atrium, Level 1) <br> 68 Orchard Road, Plaza Singapura, Singapore 238839
+|26 – 30 July | 12:00pm - 8:00pm | **Plaza Singapura** (Outdoor Atrium, Level 1) <br> 68 Orchard Road, Plaza Singapura, Singapore 238839
 |12 Aug (Sat) <br> 13 Aug (Sun) | 11:00am - 6:00pm <br> 8:00am - 4:00pm | **Kampong Kembangan Community Club** <br> 5 Lengkong Tiga, #01-04, Singapore 417408
 
 
@@ -72,6 +72,10 @@ Through gamified interactives, complex technological concepts are broken down an
 <br>More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
 
 *Entry is free of charge for Singaporeans/Singapore PRs.* 
+
+**PlayScape Visitor’s Guide**
+
+[![Smart Nation PlayScape Visitor Guide](/images/programmes/products-and-services/playscape_pamphlet.jpg)](/files/products-and-services/playscape_visitor_guide.pdf){:target="_blank"}
 
 
 #### Visit our showcases!
