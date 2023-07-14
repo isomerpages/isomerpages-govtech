@@ -13,7 +13,7 @@ This event will be graced by Senior Minister of State, Dr Janil Puthucheary wher
 
 The programme includes:
 
-* Keynote presentations by distinguished AI leaders, e.g. Dr Andrew Ng, Founder of DeepLearning.AI
+* Keynote presentations by distinguished AI leaders
 * Panel discussion
 * Presentations by government agencies
 * Presentations by DSAID product teams
