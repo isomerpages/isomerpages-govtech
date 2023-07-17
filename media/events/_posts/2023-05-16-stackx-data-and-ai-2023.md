@@ -5,7 +5,7 @@ permalink: "/media/events/stackx-data-and-ai-2023"
 category: events
 ---
 
-[![GovTech STACKx Data & AI Conference 2023](/images/media/events/1920px-STACKxData-AI-banner-v2.png)](https://go.gov.sg/stackxdataai-gtcorp){:target="_blank"}
+[![GovTech STACKx Data & AI Conference 2023](/images/media/events/1920px-STACKxData-AI-banner-v2.jpg)](https://go.gov.sg/stackxdataai-gtcorp){:target="_blank"}
  
 Join us at STACKx Data & AI on 18 July 2023 at Suntec Singapore Convention and Exhibition Centre. At STACKx Data & AI, you'll hear from experts on the latest technology trends surrounding Artificial Intelligence (AI) and the crucial role that Data plays in enabling its capabilities. We're excited to announce that the event will also feature discussions on Large Language Models (LLMs) and their potential to deliver powerful AI capabilities to various use cases, as well as the potential risks and concerns.
 
