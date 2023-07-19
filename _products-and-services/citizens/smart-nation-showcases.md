@@ -1,4 +1,4 @@
----
+![SNB_Logo_Coloured](https://github.com/isomerpages/isomerpages-govtech/assets/72374248/8ea89ab4-2792-4969-9d95-ff11e36fdd4d)---
 layout: simple-page
 title: Smart Nation Showcases
 permalink: /products-and-services/smart-nation-showcases/
@@ -19,7 +19,7 @@ Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation
 
 ### **Smart Nation Builder**
 
-![Smart Nation Builder](/images/programmes/products-and-services/SNB_Logo_Coloured.png)
+![Smart Nation Builder](/images/programmes/products-and-services/SNB_Logo_Colouredv2.png)
 
 The Smart Nation Builder is a roving exhibition with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide input and feedback on how to improve our products and services.
 
