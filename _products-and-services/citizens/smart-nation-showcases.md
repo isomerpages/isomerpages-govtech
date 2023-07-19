@@ -1,4 +1,4 @@
-![SNB_Logo_Coloured](https://github.com/isomerpages/isomerpages-govtech/assets/72374248/8ea89ab4-2792-4969-9d95-ff11e36fdd4d)---
+---
 layout: simple-page
 title: Smart Nation Showcases
 permalink: /products-and-services/smart-nation-showcases/
