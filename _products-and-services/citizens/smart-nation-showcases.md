@@ -58,6 +58,7 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
   <img
     src="/images/programmes/products-and-services/cityscape-guide-image.jpg" width="50%" height="50%"
     alt="CityScape Visitor Guide"
+    href="/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf" target="_blank"
   />
   <figcaption>CityScape Visitor Guide</figcaption>
 </figure>
@@ -78,8 +79,14 @@ Through gamified interactives, complex technological concepts are broken down an
 
 **PlayScape Visitor’s Guide**
 
-[![Smart Nation PlayScape Visitor Guide](/images/programmes/products-and-services/playscape_pamphlet-400.jpg)](/files/products-and-services/playscape_visitor_guide.pdf){:target="_blank"}
-
+<figure style="text-align: center">
+  <img
+    src="/images/programmes/products-and-services/playscape_pamphlet.jpg" width="50%" height="50%"
+    alt="PlayScape Visitor Guide"
+    href="/files/products-and-services/playscape_visitor_guide.pdf" target="_blank"
+  />
+  <figcaption>PlayScape Visitor Guide</figcaption>
+</figure>
 
 #### Visit our showcases!
 
