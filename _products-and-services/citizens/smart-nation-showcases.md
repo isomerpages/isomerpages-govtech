@@ -19,21 +19,19 @@ Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation
 
 ### **Smart Nation Builder**
 
-![Smart Nation Builder](/images/programmes/products-and-services/SmartNationBuilder.JPG)
+![Smart Nation Builder](/images/programmes/products-and-services/SNB_Logo_Coloured.png)
 
 The Smart Nation Builder is a roving exhibition with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide input and feedback on how to improve our products and services.
 
+![Smart Nation Builder](/images/programmes/products-and-services/SNB-Infographic.jpg)
+
 That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. *Entry is free of charge.*
 
-#### Where can you find the Smart Nation Builder? 
-
-Catch the Smart Nation Builder at these locations: 
+Catch the Smart Nation Builder at these locations!
 
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
-|17 June (Sat) <br> 18 June (Sun) | 11:00am - 7:00pm <br> 10:00am - 6:00pm | **MPC@Khatib** (in front of Blk 838 Yishun St 81) <br> Yishun Avenue 2, Singapore 760838
-|15 July (Sat) <br> 16 July (Sun) | 10:00am - 6:00pm <br> 9:00am - 5:00pm | **MacPherson Community Club** <br> 400 Paya Lebar Way, Singapore 379131
-|26 – 30 July | 12:00pm - 8:00pm | **Plaza Singapura** (Outdoor Atrium, Level 1) <br> 68 Orchard Road, Plaza Singapura, Singapore 238839
+|26 – 30 July | 12:00pm - 8:00pm <br> *(Closed to public on 27 July from 6:00-7:30pm)* | **Plaza Singapura** (Outdoor Atrium, Level 1) <br> 68 Orchard Road, Plaza Singapura, Singapore 238839
 |12 Aug (Sat) <br> 13 Aug (Sun) | 11:00am - 6:00pm <br> 8:00am - 4:00pm | **Kampong Kembangan Community Club** <br> 5 Lengkong Tiga, #01-04, Singapore 417408
 
 
