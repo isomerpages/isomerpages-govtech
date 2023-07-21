@@ -50,9 +50,7 @@ Learn all about what makes Singapore a Smart Nation, with this exhibition that h
 <br>**When:** Mondays to Saturdays - 9am to 5pm
 <br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
 
-*Entry is free of charge.*
-
-**CityScape Visitor’s Guide**
+Entry is free of charge.
 
 View the [CityScape Visitor's Guide](/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}.
 
@@ -68,9 +66,7 @@ Through gamified interactives, complex technological concepts are broken down an
 <br>**When:** Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours){:target="_blank"} to view opening hours.
 <br>More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
 
-*Entry is free of charge for Singaporeans/Singapore PRs.* 
-
-**PlayScape Visitor’s Guide**
+Entry is free of charge for Singaporeans/Singapore PRs.
 
 View the [PlayScape Visitor's Guide](/files/products-and-services/playscape_visitor_guide.pdf){:target="_blank"}.
 
