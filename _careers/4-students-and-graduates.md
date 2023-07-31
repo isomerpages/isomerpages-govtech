@@ -6,7 +6,7 @@ breadcrumb: Students and Graduates
 collection_name: careers
 ---
 
-![GovTech is a top ten tech employer](/images/careers/YTPO-Awards.png)
+![GovTech is a top ten tech employer](/images/careers/YT-Awards-2023.png)
 
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
 
@@ -34,7 +34,7 @@ From technology boot camps, internships and scholarships to fresh grad opportuni
 	
   <div class="col" style="text-align: center">
     <a href="/careers/students-and-graduates/smart-nation-scholarship" target="_blank">
-      <img src="/images/careers/SNS-card.png" alt="Smart Nation Scholarship" /></a>
+      <img src="/images/careers/SNS-card-2.png" alt="Smart Nation Scholarship" /></a>
     <figcaption><b>Smart Nation Scholarship</b></figcaption>
   </div>
 	
