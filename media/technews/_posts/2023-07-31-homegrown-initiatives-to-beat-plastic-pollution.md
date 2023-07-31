@@ -90,6 +90,6 @@ These diverse initiatives are an encouraging reminder that every one of us, indi
 Why not start by trying out some of the initiatives listed here?
 
 
-PS: If you enjoyed this article, subscribe to TechNews to get more like this! 
+PS: If you enjoyed this article, subscribe to [TechNews](https://www.tech.gov.sg/media/technews/subscribe) to get more like this! 
 
 
