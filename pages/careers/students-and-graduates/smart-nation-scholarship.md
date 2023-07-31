@@ -5,7 +5,7 @@ permalink: /careers/students-and-graduates/smart-nation-scholarship
 breadcrumb: Smart Nation Scholarship 
 ---
 
-![Smart Nation Scholarship](/images/careers/SNS-Banner.png)
+![Smart Nation Scholarship](/images/careers/SNS_1.png)
 
 The Smart Nation Scholarship develops and nurtures talent who have a passion for technology, and the ambition to propel our nation towards its goal of digital transformation.
 
