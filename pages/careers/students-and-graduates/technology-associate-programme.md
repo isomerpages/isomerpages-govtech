@@ -15,7 +15,7 @@ Be empowered with the autonomy to define your own career growth in a supportive,
 
 The power to decide your future is in your hands. Chart your career with our Technology Associate Programme!
 
-![Technology Associate Programme Overview](/images/careers/TAP-infographic-v2.png)
+![Technology Associate Programme Overview](/images/careers/TAP-infographic-v3.png)
 
 
 ### Read about past Tech Associate’s experiences:
