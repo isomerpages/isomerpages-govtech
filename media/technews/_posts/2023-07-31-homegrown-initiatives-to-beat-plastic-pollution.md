@@ -65,7 +65,7 @@ Reverse Vending Machines (RVMs) are machines that allow people to recycle their 
 - STAR$, which can be used to redeem eCapitaVouchers and deals on the CapitaStar App, or directly offset shopping and dining transactions across CapitaLand malls
 - ActiveSG credits which can be used at all ActiveSG facilities
 - Free rides on Anywheel bicycles
-- 
+  
 Under the spirit of environmental stewardship, users can also opt not to be rewarded.
 
 While the RVMs first made their appearance in 2018 as part of a collab between NEA and beverage company F&N in two locations in Singapore, they soon grew in popularity. For reference, NEA collected over 200,000 beverage containers in the first year of the program. But by 2020, the NEA had expanded the RVM program to 50 locations. The result? Over 1 million beverage containers were collected. 
