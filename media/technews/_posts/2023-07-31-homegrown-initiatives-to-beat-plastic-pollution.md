@@ -44,7 +44,7 @@ They’re smart bins that utilise AI, IoT, and smart sensors to encourage correc
 
 Traditionally, roads are made of bitumen – a viscous liquid produced from the distillation of crude oil. But maybe that will change in the future. 
 
-[Magorium,]](https://www.straitstimes.com/business/deep-tech-start-up-magorium-targets-6m-seed-funding-to-build-greener-roads-with-plastic-waste) a Singapore-based start-up, has developed technology to recycle plastic waste into a material that can be used to lay roads. It can currently recycle six types of plastic into what it calls NEWBitumen (maybe a homage to NEWater?). 
+[Magorium](https://www.straitstimes.com/business/deep-tech-start-up-magorium-targets-6m-seed-funding-to-build-greener-roads-with-plastic-waste), a Singapore-based start-up, has developed technology to recycle plastic waste into a material that can be used to lay roads. It can currently recycle six types of plastic into what it calls NEWBitumen (maybe a homage to NEWater?). 
 
 The recycled plastic actually replaces part of the bitumen mix, meaning less bitumen is needed, saving costs and reducing the environmental impact of road construction. In addition, it also makes roads more durable and water-resistant. 
 
@@ -53,7 +53,7 @@ The start-up has already paved a few green roads in Singapore, including drivewa
 ## Recycling made free and ezi 
 Why do people not recycle? Two reasons immediately stand out. Time, and money. 
 
-Well, an app called [[Ezi by Sembcorp](https://ezi-recycling.com/) tackles both head-on.  Ezi is an app that makes recycling free and convenient, allowing residents to have their recyclables collected from their doorstep for free – as long as they have at least 5 kg worth of recyclables. In addition, Ezi rewards users based on the prevailing price of recyclables.
+Well, an app called [Ezi by Sembcorp](https://ezi-recycling.com/) tackles both head-on.  Ezi is an app that makes recycling free and convenient, allowing residents to have their recyclables collected from their doorstep for free – as long as they have at least 5 kg worth of recyclables. In addition, Ezi rewards users based on the prevailing price of recyclables.
 
 How does it work? You’d be surprised. Turns out, Ezi works with good ol’ Karang Guni when it comes to the collection – about 100 of them.  And just like the good ol’ days, people will also receive some payment for their stuff. Save money, while reducing plastic pollution; pretty hard to argue against that! 
 
@@ -75,7 +75,7 @@ While the RVMs first made their appearance in 2018 as part of a collab between N
 It's easy to recycle PET plastic bottles, but other plastic garbage like food containers, styrofoam, and bags are harder to recycle. (Have you tried washing them? They always seem to stay oily).
 
 Right now, we burn them or bury them in landfills, which pollutes both the water and soil.
-However, scientists from [Nanyang Technological University](https://www.ntu.edu.sg/research/research-hub/turning-plastic-trash-into-clean-hydrogen-fuel) (NTU) have figured out a way to turn plastic trash – collected from the ocean, no less – into hydrogen, using a process that involves high heat known as [pyrolysis.](https://en.wikipedia.org/wiki/Pyrolysis)
+However, scientists from [Nanyang Technological University](https://www.ntu.edu.sg/research/research-hub/turning-plastic-trash-into-clean-hydrogen-fuel) (NTU) have figured out a way to turn plastic trash – collected from the ocean, no less – into hydrogen, using a process that involves high heat known as [pyrolysis](https://en.wikipedia.org/wiki/Pyrolysis).
 
 With this new method, scientists can transform this plastic garbage into two things: hydrogen and carbon nanotubes. Both are useful byproducts. Carbon nanotubes are a solid form of carbon with many industrial applications, including their use in electronics, materials science, energy, medicine, and other areas. 
 
