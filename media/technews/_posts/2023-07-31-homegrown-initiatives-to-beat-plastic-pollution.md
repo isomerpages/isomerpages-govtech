@@ -35,7 +35,7 @@ Other examples of poor recycling habits include:
 
 - Putting non-recyclable items in recycling bins. This includes items such as plastic bags, Styrofoam, and nappies.
 
-Enter BINgo bins –a collaboration between [FairPrice Group and ASTAR.](https://www.a-star.edu.sg/News/astarNews/news/press-releases/fairprice-group-and-astar-launch-BINgo)
+Enter BINgo bins – a collaboration between [FairPrice Group and A*STAR.](https://www.a-star.edu.sg/News/astarNews/news/press-releases/fairprice-group-and-astar-launch-BINgo)
 
 
 They’re smart bins that utilise AI, IoT, and smart sensors to encourage correct recycling and improve recycling rates. How? By employing automated sorting technology and sensors to ensure that only suitable materials are accepted. Currently, a prototype BINgo machine has been set up at AMK Hub, and additional prototypes will gradually be installed at NEX and FairPrice Hub. These machines will remain at the locations for a duration of up to one year, until October 2023.
