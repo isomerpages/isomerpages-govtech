@@ -40,15 +40,30 @@ To ensure that everyone, regardless of their position or level, would benefit fr
 
 One workshop, Empathy Lab, was designed to familiarise attendees with the principles of the Web Content Accessibility Guidelines (WCAG).
 
+![Fig-C-A11y-Week-Empathy-Lab](/images/technews/Fig-C-A11y-Week-Empathy-Lab.png)
+*A11y Week Empathy Lab participants sharing their reflections on the POUR principles and how they can apply the principles in their day-to-day work.*
+
+*Image Description: Photo of a group of participants discussing intently about their workshop learnings with colourful post-its on foam boards at the background.*
+
 One of the workshop’s most popular activities was, "How universal are our icons?", where attendees were asked to label icons used in popular Government apps from memory, without their usual text labels. This highlighted how easily icons can be misunderstood if they are not intuitive, lack proper text labels, or contain too many small details.
 
 The Inclusion Playscape, a carnival-style, in-person session, sought to educate attendees about accessibility through experiencing inaccessibility.
 
 One particular station, *“A11y Tic Tac Toe”*, highlighted how a simple game like Tic-Tac-Toe could be much more challenging when accessibility considerations are not incorporated into its design and development. A pair of players had to play the game without being able to see the Tic-Tac-Toe board, using only a screen reader and a keyboard to navigate the grid.
 
+![Fig-A-A11y-Week-participant](/images/technews/Fig-A-A11y-Week-participant.JPG)
+*An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.*
+
+*Image Description: Photo of two individuals seated at a table and interacting happily as they learn more about keyboard accessibility while playing an accessible Tic Tac Toe game. In the background, there is a large digital display of the A11y Tic Tac Toe showing their progress.*
+
 ## Put on your Purple HATS
 
 Purple is the [colour of inclusivity](https://www.purpleparade.sg/) in Singapore, and the Purple HATS testing tool was developed by the A11y Team to scan agency websites for accessibility.
+
+![Fig-B-A11y-Week-Tech-Workshop](/images/technews/Fig-B-A11y-Week-Tech-Workshop.JPG)
+*A11y Week Tech Workshop participants learning to scan websites for accessibility issues using the new and improved Purple HATS Desktop App.*
+
+*Image Description: Photo of a laptop displaying the Purple HATS Desktop App in the foreground and a room full of participants in the background listening in to the workshop presentation.*
 
 This open-sourced, customisable accessibility testing tool enables software development teams to identify and correct accessibility issues, to improve digital services for PWDs and the elderly. 
 
@@ -62,14 +77,9 @@ The reception was overwhelmingly positive with A11y Week attendees, even those w
 
 A11y Week might be over, but the work for digital inclusivity continues. 
 
-The team is now working on Playground, an upcoming initiative to help people who are just getting started with accessibility.
-
-It is an application that demonstrates common accessibility issues, particularly for keyboard navigation, found in transactional and informational websites. 
+The team is now working on Playground, an upcoming initiative to help people who are just getting started with accessibility. It is an application that demonstrates common accessibility issues, particularly for keyboard navigation, found in transactional and informational websites. 
 
 It’s important to remember that digital inclusion is not a one-time fix, but an ongoing journey of learning and empathy.
 
-As we celebrate Singapore’s 58th National Day, let’s strive to create a more digitally inclusive society where no one is left behind. 
-
-From all of us here at GovTech, here’s to a more accessible and inclusive future, and a very happy National Day!
-
+As we celebrate Singapore’s 58th National Day, let’s strive to create a more digitally inclusive society where no one is left behind. From all of us here at GovTech, here’s to a more accessible and inclusive future, and a very happy National Day!
 
