@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medi
   
 Every year, the United Nations celebrates World Environment Day, aiming to raise awareness for specific environmental issues and encourage people to take action. 
 
-This year’s theme? #BeatPlasticPollution. 
+This year’s theme? *#BeatPlasticPollution*. 
 
 By now you’d have seen the videos of [straws up sea turtle’s noses](https://www.youtube.com/watch?v=vJmi_gwziy4), and gawked at the size of the Great Pacific Garbage Patch – which is approx 2,225.31 times the size of Singapore. Maybe you read about how [microplastics are already in our bodies.](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us) Or how marine mammals choke on [one-time-use disposable plastic bags.](https://wwf.org.au/blogs/plastic-in-our-oceans-is-killing-marine-mammals/) 
  
@@ -35,7 +35,7 @@ Other examples of poor recycling habits include:
 
 - Putting non-recyclable items in recycling bins. This includes items such as plastic bags, Styrofoam, and nappies.
 
-Enter BINgo bins –a collaboration between [FairPrice Group and ASTAR.](https://www.a-star.edu.sg/News/astarNews/news/press-releases/fairprice-group-and-astar-launch-BINgo)
+Enter BINgo bins – a collaboration between [FairPrice Group and A*STAR.](https://www.a-star.edu.sg/News/astarNews/news/press-releases/fairprice-group-and-astar-launch-BINgo)
 
 
 They’re smart bins that utilise AI, IoT, and smart sensors to encourage correct recycling and improve recycling rates. How? By employing automated sorting technology and sensors to ensure that only suitable materials are accepted. Currently, a prototype BINgo machine has been set up at AMK Hub, and additional prototypes will gradually be installed at NEX and FairPrice Hub. These machines will remain at the locations for a duration of up to one year, until October 2023.
@@ -44,7 +44,7 @@ They’re smart bins that utilise AI, IoT, and smart sensors to encourage correc
 
 Traditionally, roads are made of bitumen – a viscous liquid produced from the distillation of crude oil. But maybe that will change in the future. 
 
-[Magorium,]](https://www.straitstimes.com/business/deep-tech-start-up-magorium-targets-6m-seed-funding-to-build-greener-roads-with-plastic-waste) a Singapore-based start-up, has developed technology to recycle plastic waste into a material that can be used to lay roads. It can currently recycle six types of plastic into what it calls NEWBitumen (maybe a homage to NEWater?). 
+[Magorium](https://www.straitstimes.com/business/deep-tech-start-up-magorium-targets-6m-seed-funding-to-build-greener-roads-with-plastic-waste), a Singapore-based start-up, has developed technology to recycle plastic waste into a material that can be used to lay roads. It can currently recycle six types of plastic into what it calls NEWBitumen (maybe a homage to NEWater?). 
 
 The recycled plastic actually replaces part of the bitumen mix, meaning less bitumen is needed, saving costs and reducing the environmental impact of road construction. In addition, it also makes roads more durable and water-resistant. 
 
@@ -53,7 +53,7 @@ The start-up has already paved a few green roads in Singapore, including drivewa
 ## Recycling made free and ezi 
 Why do people not recycle? Two reasons immediately stand out. Time, and money. 
 
-Well, an app called [[Ezi by Sembcorp](https://ezi-recycling.com/) tackles both head-on.  Ezi is an app that makes recycling free and convenient, allowing residents to have their recyclables collected from their doorstep for free – as long as they have at least 5 kg worth of recyclables. In addition, Ezi rewards users based on the prevailing price of recyclables.
+Well, an app called [Ezi by Sembcorp](https://ezi-recycling.com/) tackles both head-on.  Ezi is an app that makes recycling free and convenient, allowing residents to have their recyclables collected from their doorstep for free – as long as they have at least 5 kg worth of recyclables. In addition, Ezi rewards users based on the prevailing price of recyclables.
 
 How does it work? You’d be surprised. Turns out, Ezi works with good ol’ Karang Guni when it comes to the collection – about 100 of them.  And just like the good ol’ days, people will also receive some payment for their stuff. Save money, while reducing plastic pollution; pretty hard to argue against that! 
 
@@ -65,7 +65,7 @@ Reverse Vending Machines (RVMs) are machines that allow people to recycle their 
 - STAR$, which can be used to redeem eCapitaVouchers and deals on the CapitaStar App, or directly offset shopping and dining transactions across CapitaLand malls
 - ActiveSG credits which can be used at all ActiveSG facilities
 - Free rides on Anywheel bicycles
-- 
+  
 Under the spirit of environmental stewardship, users can also opt not to be rewarded.
 
 While the RVMs first made their appearance in 2018 as part of a collab between NEA and beverage company F&N in two locations in Singapore, they soon grew in popularity. For reference, NEA collected over 200,000 beverage containers in the first year of the program. But by 2020, the NEA had expanded the RVM program to 50 locations. The result? Over 1 million beverage containers were collected. 
@@ -75,7 +75,7 @@ While the RVMs first made their appearance in 2018 as part of a collab between N
 It's easy to recycle PET plastic bottles, but other plastic garbage like food containers, styrofoam, and bags are harder to recycle. (Have you tried washing them? They always seem to stay oily).
 
 Right now, we burn them or bury them in landfills, which pollutes both the water and soil.
-However, scientists from [Nanyang Technological University](https://www.ntu.edu.sg/research/research-hub/turning-plastic-trash-into-clean-hydrogen-fuel) (NTU) have figured out a way to turn plastic trash – collected from the ocean, no less – into hydrogen, using a process that involves high heat known as [pyrolysis.](https://en.wikipedia.org/wiki/Pyrolysis)
+However, scientists from [Nanyang Technological University](https://www.ntu.edu.sg/research/research-hub/turning-plastic-trash-into-clean-hydrogen-fuel) (NTU) have figured out a way to turn plastic trash – collected from the ocean, no less – into hydrogen, using a process that involves high heat known as [pyrolysis](https://en.wikipedia.org/wiki/Pyrolysis).
 
 With this new method, scientists can transform this plastic garbage into two things: hydrogen and carbon nanotubes. Both are useful byproducts. Carbon nanotubes are a solid form of carbon with many industrial applications, including their use in electronics, materials science, energy, medicine, and other areas. 
 
