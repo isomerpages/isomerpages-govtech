@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medi
   
 Every year, the United Nations celebrates World Environment Day, aiming to raise awareness for specific environmental issues and encourage people to take action. 
 
-This year’s theme? #BeatPlasticPollution. 
+This year’s theme? *#BeatPlasticPollution*. 
 
 By now you’d have seen the videos of [straws up sea turtle’s noses](https://www.youtube.com/watch?v=vJmi_gwziy4), and gawked at the size of the Great Pacific Garbage Patch – which is approx 2,225.31 times the size of Singapore. Maybe you read about how [microplastics are already in our bodies.](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us) Or how marine mammals choke on [one-time-use disposable plastic bags.](https://wwf.org.au/blogs/plastic-in-our-oceans-is-killing-marine-mammals/) 
  
