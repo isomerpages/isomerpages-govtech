@@ -49,12 +49,12 @@ One of the workshop’s most popular activities was, "How universal are our icon
 
 The Inclusion Playscape, a carnival-style, in-person session, sought to educate attendees about accessibility through experiencing inaccessibility.
 
+One particular station, *“A11y Tic Tac Toe”*, highlighted how a simple game like Tic-Tac-Toe could be much more challenging when accessibility considerations are not incorporated into its design and development. A pair of players had to play the game without being able to see the Tic-Tac-Toe board, using only a screen reader and a keyboard to navigate the grid.
+
 ![Fig-A-A11y-Week-participant](/images/technews/Fig-A-A11y-Week-participant.JPG)
 *An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.*
 
 *Image Description: Photo of two individuals seated at a table and interacting happily as they learn more about keyboard accessibility while playing an accessible Tic Tac Toe game. In the background, there is a large digital display of the A11y Tic Tac Toe showing their progress.*
-
-One particular station, *“A11y Tic Tac Toe”*, highlighted how a simple game like Tic-Tac-Toe could be much more challenging when accessibility considerations are not incorporated into its design and development. A pair of players had to play the game without being able to see the Tic-Tac-Toe board, using only a screen reader and a keyboard to navigate the grid.
 
 ## Put on your Purple HATS
 
