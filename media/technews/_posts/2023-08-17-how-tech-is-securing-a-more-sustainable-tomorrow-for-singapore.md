@@ -5,12 +5,6 @@ permalink: "/media/technews/how-tech-is-securing-a-more-sustainable-tomorrow-for
 category: technews
 image: "/images/technews/rotiferthumbnail.png"
 ---
---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0iWTtzzhaU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
---
 
 As an island nation, we are especially susceptible to the ill effects of climate change – we are, after all, surrounded by seawater and have no hinterland to retreat to when sea levels rise. 
 
@@ -19,6 +13,9 @@ To tackle this grave existential challenge, [Singapore’s Green Plan 2030](http
 And as expected, tech has been enabling different organisations to make a big impact in promoting sustainability. Let’s look at some of these inspiring examples!
 
 ## Boosting food security with AI 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iWTtzzhaU8?si=kJpZFQ0ZSoVFWLpk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 One of the Green Plan 2030’s goals is to locally produce 30 per cent of Singapore’s food needs within this decade, and AI is taking on a significant role in making this a reality by [boosting our fish farms’ productivity.](https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables) 
 
 These fish farms need a huge quantity of larvae feed – made up of a large type of plankton known as rotifers – and this supply needs to be reliable as fish larvae need to be fed every few hours. 
