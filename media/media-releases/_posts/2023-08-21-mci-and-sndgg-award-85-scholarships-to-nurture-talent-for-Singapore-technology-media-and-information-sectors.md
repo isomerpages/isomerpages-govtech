@@ -12,11 +12,11 @@ SINGAPORE, 21 AUGUST 2023
 The Ministry of Communications and Information (MCI) and its statutory boards; as well as the Smart Nation Digital Government Group (SNDGG), awarded 85 recipients with scholarships today. A total of six agencies are involved – MCI, SNDGG, Cyber Security Agency of Singapore (CSA), Government Technology Agency (GovTech), Infocomm Media Development Authority (IMDA) and National Library Board (NLB) This is the second joint scholarship award ceremony by MCI and SNDGG, which are both under the Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, Mrs Josephine Teo. Senior Ministers of State for Ministry of Communications and Information, Dr Janil Puthucheary and Mr Tan Kiat How, also attended the ceremony to personally congratulate the recipients and their families.
 
 The scholarships are part of a collective effort to groom technology, media, library and archives services, and communications talents. A total of five scholarship categories were awarded. They are:
-a.	IMDA SG Digital Scholarship
-b.	Smart Nation Scholarship
-c.	MCI Information Service Scholarship
-d.	MCI Postgraduate Scholarship
-e.	NLB Scholarship
+<br>a.	IMDA SG Digital Scholarship
+<br>b.	Smart Nation Scholarship
+<br>c.	MCI Information Service Scholarship
+<br>d.	MCI Postgraduate Scholarship
+<br>e.	NLB Scholarship
 
 ### Developing Future Leaders for the Technology, Media, and Information Sectors
 
