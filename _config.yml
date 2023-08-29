@@ -70,16 +70,6 @@ custom_print_css_path: "/assets/css/print.css"
 google-tag-manager: GTM-KJNR9MC
 facebook-pixel: 688926055194344
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D35QXYFRB1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-D35QXYFRB1');
-</script>
-
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
 
