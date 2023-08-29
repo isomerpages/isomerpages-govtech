@@ -69,7 +69,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 google-tag-manager: GTM-KJNR9MC
 facebook-pixel: 688926055194344
-google_analytics_ga4: G-D35QXYFRB1
+google_analytics_ga4: G-F30VLFFRVM
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
