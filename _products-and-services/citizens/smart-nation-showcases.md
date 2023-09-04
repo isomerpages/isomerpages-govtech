@@ -31,8 +31,7 @@ Catch the Smart Nation Builder at these locations!
 
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
-|26 – 30 July | 12:00pm - 8:00pm <br> *(Closed to public on 27 July from 6:00-7:30pm)* | **Plaza Singapura** (Outdoor Atrium, Level 1) <br> 68 Orchard Road, Plaza Singapura, Singapore 238839
-|12 Aug (Sat) <br> 13 Aug (Sun) | 11:00am - 6:00pm <br> 8:00am - 4:00pm | **Kampong Kembangan Community Club** <br> 5 Lengkong Tiga, #01-04, Singapore 417408
+|22 – 24 Sep | 11:00am - 7:00pm | **Bugis+** <br> 201 Victoria St, Singapore 188067
 
 
 **Venue Partner**
