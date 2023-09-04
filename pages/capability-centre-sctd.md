@@ -17,11 +17,6 @@ SCTD has delivered meaningful projects that serves the nation, as well as protot
 * [Personal Alert Button](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html){:target="_blank"} for seniors living alone
 *	Assistive technologies such as the [eCanvas](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/ecanvas/overview.html){:target="_blank"} for persons with disabilities
 *	The [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district){:target="_blank"} for smart district management, starting with the Punggol Digital District
-*	[DECADA IoT Platform](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-iot-tech-stack/overview.html){:target="_blank"} for public officers to manage IoT deployments with ease
-
-Much of these are derived from the SCTD Tech Stack that is made up of these core components:
-* [DECADA Edge](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-edge-gateway/overview.html){:target="_blank"}: a product and software solution to onboard new and existing sensor nodes to DECADA securely with ease. It is both a Gateway to DECADA and an Edge to process and aggregate sensor nodes data to reduce data traffic to DECADA.
-*	[DECADA Embedded](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/decada-embedded/overview.html){:target="_blank"}: a family of microcontroller-class devices capable of communicating with DECADA Cloud directly.
 
 Our engineers and solution architects are given a lot of flexibility and autonomy for them to exercise their full expertise and to take charge of the end-to-end engineering process. They are also provided with resources required to build, architect, and deploy products and digital services.
 
