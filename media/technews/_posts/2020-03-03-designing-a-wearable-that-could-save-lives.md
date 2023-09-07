@@ -15,7 +15,7 @@ An increasing number of senior citizens in Singapore are living alone, many of w
 
 Recognising that this growing subpopulation may be unable to get help when they need it most—for instance, when they have a fall or are feeling faint—the Government Technology Agency of Singapore (GovTech) envisioned a future where each elderly individual has an ‘SOS’ system on them at all times. 
 
-While GovTech has installed personal alert buttons (PABs) in the homes of senior citizens, the existing solution is not portable, which means that an elderly person may be unable to send out a distress call if an emergency occurs outside his or her home. Watch the video below to find out how this system can even help eldery living on Pulau Ubin!
+While GovTech has installed personal alert buttons (PABs) in the homes of senior citizens, the existing solution is not portable, which means that an elderly person may be unable to send out a distress call if an emergency occurs outside his or her home. Watch the video below to find out how this system is helping the eldery who are living on Pulau Ubin!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mhI3eCfekcs?si=t5yj4gl4kA_4WOCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
