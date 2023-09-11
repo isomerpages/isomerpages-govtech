@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing a wearable that could save lives"
+title: "Designing Tech for the Elder Community"
 permalink: "/media/technews/designing-a-wearable-that-could-save-lives"
 category: technews
 image: "/images/technews/personal-alert-button-govtech-technews.jpg"
