@@ -11,9 +11,7 @@ thumbnail_image: /images/programmes/products-and-services/SmartNationBuilder.JPG
 Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation journey and various digital government initiatives.
 
 * Learn about various Smart Nation initiatives, and how they improve the way we live, work and play.
-
 * Experience technological innovations through visually engaging and interactive exhibits,
-
 * Find out how you can co-create digital solutions and play a part in our Smart Nation journey!
 
 
@@ -31,8 +29,8 @@ Catch the Smart Nation Builder at these locations!
 
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
-|22 – 24 Sep | 11:00am - 7:00pm | **Bugis+** <br> 201 Victoria St, Singapore 188067
-
+|22 – 24 Sep | 11:00am - 7:00pm | **Bugis+** <br> 201 Victoria St, Singapore 188067 |
+|29 Sep – 1 Oct | 11:00am - 7:00pm | **Marina Bay Bayfront Promenade** <br> 12A Bayfront Ave |
 
 **Venue Partner**
 
