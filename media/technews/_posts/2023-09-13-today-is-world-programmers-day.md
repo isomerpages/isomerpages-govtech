@@ -3,7 +3,7 @@ layout: post
 title: "Today is world programmer day. Meet one of our own!"
 permalink: "/images/technews/today-is-world-programmers-day"
 category: technews
-image: "/images/technews/programmers-day.jpeg"
+image: "/images/technews/programmers-day2.jpeg"
 ---
 
 Today is September 13. It also just happens to be World Programmer Day. 
@@ -15,7 +15,7 @@ It’s a way to thank programmers for their hard work and dedication, as well as
 And as turns out, that it actually has a neat story behind it. Russian programmers Michael Cherviakov and Valentin Balt chose the day in 2002 because September 13th is the 256th day of the year.
 In computing, ‘‘256’ is a unique number because it is the number of distinct values that can be represented with an eight-bit byte. 
 
-![Dave the Daveloper](/images/technews/programmers-day.jpeg)
+![Dave the Daveloper](/images/technews/programmers-day2.jpeg)
 
 *Meet Dave the software Dave-loper!* (Editor's note: His joke, not mine.)
 
