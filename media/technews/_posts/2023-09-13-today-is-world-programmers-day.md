@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today is world programmer day. Meet one of our own!"
-permalink: "/images/technews/programmers-day.jpeg"
+permalink: "/images/technews/today-is-world-programmers-day"
 category: technews
 image: "/images/technews/programmers-day.jpeg"
 ---
