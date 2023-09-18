@@ -7,7 +7,9 @@ image: "/images/technews/5cables-30pin.jpg"
 
 ---
 
-Concerned about sustainability and e-waste, the European Union recently suggested that all smartphones should use the USB-C standard. If that comes true, your iPhone’s lightning cable might go the way of the Dodo. 
+If you haven't heard, Apple is finally ditching the lighting cable and moving to USB-c for all iphones. 
+
+Concerned about sustainability and e-waste, the European Union recently suggested that all smartphones should use the USB-C standard. So it has come to pass, that your iPhone’s lightning cable might go the way of the Dodo. 
 
 Don’t feel too sad though. The lightning cable won’t be the first to go obsolete. Neither will it be the last. 
 
