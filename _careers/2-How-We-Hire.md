@@ -76,9 +76,4 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
 3) Thereafter, you can expect to start your adventure as a GovTechie.
 
-
-If you’re ready to start the process, apply now. Good luck!
-  
-[![Apply Now Button](/images/careers/apply-now-01.png)](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be){:target="_blank"}
-  
-
+<a href="https://careers.tech.gov.sg/careers/SearchJobs" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
