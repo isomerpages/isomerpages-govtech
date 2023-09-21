@@ -30,7 +30,7 @@ Catch the Smart Nation Builder at these locations!
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
 |22 – 24 Sep | 11:00am - 7:00pm | **Bugis+** <br> 201 Victoria St, Singapore 188067 |
-|29 Sep – 1 Oct | 11:00am - 7:00pm | **Marina Bay Bayfront Promenade** <br> 12A Bayfront Ave |
+|29 Sep – 1 Oct | 11:00am - 7:00pm | **Marina Bay Waterfront Promenade (near Bayfront Link)** <br> 12A Bayfront Ave |
 
 
 <div

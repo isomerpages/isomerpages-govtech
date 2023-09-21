@@ -30,3 +30,5 @@ We celebrate success together. We respect one another. We seek to build a positi
 **Flexible work arrangements and benefits**<br>
 We provide generous leave benefits to meet your needs for a balanced work and family life. Work from home or exercise if you need to. Productivity is higher than forcing you to sit at your desks and crank out work. We trust that you will get the job done wherever you are, and whatever works best for you.
 
+<a href="https://careers.tech.gov.sg/careers/SearchJobs" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+
