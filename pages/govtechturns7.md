@@ -5,7 +5,7 @@ permalink: /govtechturns7/
 breadcrumb: GovTech Turns 7
 ---
 
-![GovTechTurns7](/images/govtechturns7-header.png)
+![GovTechTurns7](/images/govtechturns7-header.jpg)
 
 ---
 
@@ -55,40 +55,34 @@ GovTech is on all major platforms! Connect with us on social media to sneak a pe
 
 <div class="row">
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/tech-for-public-good" target="_blank">
-      <img src="/images/digital-transformation/01-Tech for Public Good.png" alt="Tech for Public Good" /></a>
-    <figcaption><b>Tech for Public Good</b></figcaption>
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-01.jpg" alt="Celebrating seven incredible years of communities and connections" /></a>
+    <figcaption><b>Celebrating seven incredible years of communities and connections</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/citizen-engagement-and-cocreation" target="_blank">
-      <img src="/images/digital-transformation/02-Citizen Engagement.png" alt="Citizen Engagement and Co-creation" /></a>
-    <figcaption><b>Citizen Engagement and Co-creation</b></figcaption>
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-02.jpg" alt="Smart Nation Builder - Co-create with citizens in a roving truck" /></a>
+    <figcaption><b>Smart Nation Builder: Co-create with citizens in a roving truck</b></figcaption>
   </div>
 	
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/user-and-business-journeys" target="_blank">
-      <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
-    <figcaption><b>User and Business Journeys</b></figcaption>
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-03.jpg" alt="Tech Kaki - Meet some of our valued citizen co-creators" /></a>
+    <figcaption><b>Tech Kaki: Meet some of our valued citizen co-creators</b></figcaption>
   </div>
 	
 <div class="row">
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/digital-identity" target="_blank">
-      <img src="/images/digital-transformation/05-Digital Identity.png" alt="Digital Identity" /></a>
-    <figcaption><b>Digital Identity</b></figcaption>
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-04.jpg" alt="TechNews - How citizens get to pitch in our journey to build better digital government products and services" /></a>
+    <figcaption><b>TechNews: How citizens get to pitch in our journey to build better digital government products and services</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/wog-platforms-and-tools" target="_blank">
-      <img src="/images/digital-transformation/06-WOG Platforms Tools.png" alt="WOG Platforms and Tools" /></a>
-    <figcaption><b>WOG Platforms and Tools</b></figcaption>
-  </div>
-
-  <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/cybersecurity" target="_blank">
-      <img src="/images/digital-transformation/07-Cybersecurity.png" alt="Cybersecurity" /></a>
-    <figcaption><b>Cybersecurity</b></figcaption>
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-05.jpg" alt="Harnessing the power of our Tech Communities" /></a>
+    <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
   </div>
 
 </div>
