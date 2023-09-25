@@ -5,7 +5,7 @@ permalink: /govtechturns7/
 breadcrumb: GovTech Turns 7
 ---
 
-![GovTechTurns7](/images/govtechturns7-header.jpg)
+
 
 ---
 
