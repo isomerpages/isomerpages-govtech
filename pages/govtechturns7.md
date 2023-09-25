@@ -17,7 +17,7 @@ We look forward to deepening our meaningful connections with you in the many yea
 
 ---
 
-### A short quiz to find your recommended community
+### Take the quiz below to find your recommended community
 
 <iframe src="https://www.checkfirst.gov.sg/c/d549c393-9015-45b4-acdb-ea0ae6a5fd61" style="width:100%;height:500px"></iframe>
 
@@ -25,31 +25,45 @@ We look forward to deepening our meaningful connections with you in the many yea
 
 **1. DevPortal Digest Community**
 
-The Singapore Government Developer Portal is a one-stop resource hub on government digital products and services. Sign up for the Digest to receive eNewsletters on the latest engineering standards, best practices, product launches and updates on our digital journey to build a Smart Nation: go.gov.sg/gt7-devportal
+The Singapore Government Developer Portal is a one-stop resource hub on government digital products and services. Sign up for the Digest to receive eNewsletters on the latest engineering standards, best practices, product launches and updates on our digital journey to build a Smart Nation. 
+
+<a href="https://go.gov.sg/gt7-devportal" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Sign up for DevPortal Digest</a>
 
 **2. STACK Community**
 
-The STACK community is a close-knitted tech community with the Tech Industry that gathers like-minded people in Meet Ups and Conferences to passionately discuss about all things tech. Get in touch with them by joining thier community at go.gov.sg/gt7-stack
+The STACK community is a close-knitted tech community with the Tech Industry that gathers like-minded people in Meet Ups and Conferences to passionately discuss about all things tech.  
+
+<a href="https://go.gov.sg/gt7-stack" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the STACK Community</a>
 
 **3. Talent Community**
 
-GovTech is a great place to work and we are hiring! Join the team that builds tech for publc good, sign up with their talent community to receive updates on the latest job opportunities, news and recruitment events: go.gov.sg/gt7-careers
+GovTech is a great place to work and we are hiring! Join the team that builds tech for publc good, sign up with their talent community to receive updates on the latest job opportunities, news and recruitment events.
+
+<a href="https://go.gov.sg/gt7-careers" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the GovTech Talent Community</a>
 
 **4. Tech Kaki Communtiy**
 
-The Teck Kaki community provides citizens with an opportunity to co-create with the Singapore Government and get first dibs on new tech products before they go live! Sign up to be our Kaki today to work closely with our development teams to build citizen-centric products and services: go.gov.sg/gt7-techkaki 
+The Teck Kaki community provides citizens with an opportunity to co-create with the Singapore Government and get first dibs on new tech products before they go live! Sign up to be our Kaki today to work closely with our development teams to build citizen-centric products and services.
+
+<a href="https://go.gov.sg/gt7-techkaki" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the Tech Kaki Community</a>
 
 **5. TechNews Community**
 
-The TechNews community gets the latest updates on GovTech products and services, get the inside scoop on behind the scenes stories and get useful tech tips to aid in your daily life in our Smart Nation! Subscribe to receive your first love letter from us in your inbox: go.gov.sg/gt7-technews 
+TechNews readers get the latest updates on GovTech products and services, the inside scoop on behind-the-scenes product and employee stories, and useful tech tips to improve your digital literacy. 
+
+<a href="https://go.gov.sg/gt7-technews" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Subscribe to TechNews</a>
 
 **6. Build for Good Community**
 
-The Build for Good community comprises of citizens who are passionate to build tech solutions to tackle everyday solutions in Singapore. Participating teams got to identify a problem statement, build prototypes and conduct user testing in a month-long hackathon, while receiving support and mentorship from our Open Government Products division. Winning teams got to receive sponsorship for further product development. Check the website to find out more about this initiative and to stay updated for their 2024 opening: go.gov.sg/gt7-buildforgood 
+The Build for Good community comprises of citizens who are passionate to build tech solutions to tackle everyday solutions in Singapore. Participating teams got to identify a problem statement, build prototypes and conduct user testing in a month-long hackathon, while receiving support and mentorship from our Open Government Products division. Winning teams get to receive sponsorship for further product development. Check the website to find out more about this initiative and to stay updated for their 2024 opening.  
+
+<a href="https://go.gov.sg/gt7-buildforgood" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the Build for Good Community</a>
 
 **7. Just our social media friends**
 
-GovTech is on all major platforms! Connect with us on social media to sneak a peak on life inside GovTech and get updated on the latest Digital Government happenings in bite-sized content. Follow us now: go.gov.sg/gt7-socials 
+GovTech is on all major platforms! Connect with us on social media to sneak a peak on life inside GovTech and get updated on the latest Digital Government happenings in bite-sized content. 
+
+<a href="https://go.gov.sg/gt7-socials" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Follow GovTech on Social Media</a>
 
 ### Keep up with us on social media to see how we're celebrating our 7th birthday
 
