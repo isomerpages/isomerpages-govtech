@@ -55,7 +55,7 @@ TechNews readers get the latest updates on GovTech products and services, the in
 
 **6. Build for Good Community**
 
-The Build for Good community comprises of citizens who are passionate to build tech solutions to tackle everyday solutions in Singapore. Participating teams got to identify a problem statement, build prototypes and conduct user testing in a month-long hackathon, while receiving support and mentorship from our Open Government Products division. Winning teams get to receive sponsorship for further product development. Check the website to find out more about this initiative and to stay updated for their 2024 opening.  
+The Build for Good community comprises of citizens who are passionate to build tech solutions to tackle everyday solutions in Singapore. Participating teams got to identify a problem statement, build prototypes and conduct user testing in a month-long hackathon, while receiving support and mentorship from our Open Government Products division. Winning teams get to receive sponsorship for further product development. 
 
 <a href="https://go.gov.sg/gt7-buildforgood" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the Build for Good Community</a>
 
