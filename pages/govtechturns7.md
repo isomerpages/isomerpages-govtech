@@ -99,6 +99,12 @@ GovTech is on all major platforms! Connect with us on social media to sneak a pe
       <img src="/images/gt7-05.jpg" alt="Harnessing the power of our Tech Communities" /></a>
     <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
   </div>
+
+  <div class="col" style="text-align: center">
+    <a href="/govtechturns7" target="_blank">
+      <img src="/images/gt7-06.jpg" alt="gt7-06" /></a>
+    <figcaption><b> </b></figcaption>
+  </div>
 </div>
 
 
