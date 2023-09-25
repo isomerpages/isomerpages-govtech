@@ -92,7 +92,7 @@ The next morning, he discovered that his CPF savings had been transferred to his
 - If you suspect there’s malware on your device, turn on [flight mode immediately](https://www.csa.gov.sg/alerts-advisories/Advisories/2021/ad-2021-008#:~:text=If%20you%20suspect%20that%20your,the%20device%2C%20uninstall%20them%20immediately.) to disable any malicious connections. Perform an anti-virus/anti-malware scan. Do a factory reset to be sure. 
 - Unfortunately, Android phones are more susceptible to malware attacks due to the open nature of the Android platform. Android phones can also download apps from sources other than the official Google Play Store. Still, it does not mean that iPhone users are immune from malware. All smart device users should still be vigilant about strange, unfamiliar apps appearing on their devices. 
 
-## E-commerce scams
+## Investment Scams
 
 **How it works**
 
