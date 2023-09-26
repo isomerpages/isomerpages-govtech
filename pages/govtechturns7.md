@@ -23,15 +23,15 @@ We look forward to deepening our meaningful connections with you in the many yea
 
 ### Our communities
 
-**1. DevPortal Digest Community**
+**1. SG Gov DevPortal Digest Newsletter**
 
-The Singapore Government Developer Portal is a one-stop resource hub on government digital products and services. Sign up for the Digest to receive eNewsletters on the latest engineering standards, best practices, product launches and updates on our digital journey to build a Smart Nation. 
+The Singapore Government Developer Portal is a one-stop resource hub on government digital products and services. Sign up for our Digest to receive eNewsletters on the latest engineering standards, best practices, product launches and updates on our digital journey to build a Smart Nation. 
 
 <a href="https://go.gov.sg/gt7-devportal" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Sign up now</a>
 
 **2. STACK Community**
 
-The STACK community is a close-knitted tech community with the Tech Industry that gathers like-minded people in Meet Ups and Conferences to passionately discuss about all things tech.  
+The STACK community is a platform for like-minded techies to gather and discuss topics of interest. The community consists of various activities including Meetups, Mini Conferences, and Conferences.  
 
 <a href="https://go.gov.sg/gt7-stack" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join now</a>
 
