@@ -100,7 +100,7 @@ We look forward to deepening our meaningful connections with you in the many yea
 ### Keep up with us on social media to see how we're celebrating our 7th birthday
 
 
-*We're posting something new everyday this week so that you can learn more about GovTech's initiatives and communities that are paving the way for digital government transformation. Follow our socials so you don't miss out!*
+We're posting something new everyday this week so that you can learn more about GovTech's initiatives and communities that are paving the way for digital government transformation. Follow our socials so you don't miss out and leave us a like or comment!
 
 
 <div class="row">
