@@ -70,34 +70,34 @@ GovTech is on all major platforms! Connect with us on social media to sneak a pe
 <div class="row">
   <div class="col" style="text-align: center">
     <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-01.jpg" alt="Celebrating seven incredible years of communities and connections" /></a>
-    <figcaption><b>Celebrating seven incredible years of communities and connections</b></figcaption>
+      <img src="/images/gt7-01g.jpg" alt="Co-creating with citizens in their neighbourhood in our roving truck" /></a>
+    <figcaption><b>Co-creating with citizens in their neighbourhood in our roving truck</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
     <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-02.jpg" alt="Smart Nation Builder - Co-create with citizens in a roving truck" /></a>
-    <figcaption><b>Smart Nation Builder: Co-create with citizens in a roving truck</b></figcaption>
+      <img src="/images/gt7-02g.jpg" alt="Meet some of our valued citizen co-creators" /></a>
+    <figcaption><b>Meet some of our valued citizen co-creators</b></figcaption>
   </div>
 	
   <div class="col" style="text-align: center">
     <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-03.jpg" alt="Tech Kaki - Meet some of our valued citizen co-creators" /></a>
-    <figcaption><b>Tech Kaki: Meet some of our valued citizen co-creators</b></figcaption>
+      <img src="/images/gt7-03g.jpg" alt="Community collaboration for better Government Digital Products and Services" /></a>
+    <figcaption><b>Community collaboration for better Government Digital Products and Services</b></figcaption>
   </div>
 </div>	
 
 <div class="row">
   <div class="col" style="text-align: center">
     <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-04.jpg" alt="TechNews - How citizens get to pitch in our journey to build better digital government products and services" /></a>
-    <figcaption><b>TechNews: How citizens get to pitch in our journey to build better digital government products and services</b></figcaption>
+      <img src="/images/gt7-04g.jpg" alt="Harnessing the power of our Tech Communities" /></a>
+    <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
     <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-05.jpg" alt="Harnessing the power of our Tech Communities" /></a>
-    <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
+      <img src="/images/gt7-05g.jpg" alt="Vibrant communities inside GovTech" /></a>
+    <figcaption><b>Vibrant communities inside GovTech</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
