@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle:
-hero-banner: /images/CRMS-banner2.png
+hero-banner: /images/gt7-homepage-banner.jpg
 
 #Call to Action Button
 button:
-  - text: Visit Now
-    url: https://careers.tech.gov.sg/
+  - text: Find Out More
+    url: /govtechturns7
     
 # Key Highlights
 key-highlights:
