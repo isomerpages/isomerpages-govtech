@@ -105,34 +105,29 @@ We're posting something new everyday this week so that you can learn more about 
 
 <div class="row">
   <div class="col" style="text-align: center">
-    <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-01g.jpg" alt="Co-creating with citizens in their neighbourhood in our roving truck" /></a>
+      <img src="/images/gt7-01g.jpg" alt="Co-creating with citizens in their neighbourhood in our roving truck" />
     <figcaption><b>Co-creating with citizens in their neighbourhood in our roving truck</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-02g.jpg" alt="Meet some of our valued citizen co-creators" /></a>
+      <img src="/images/gt7-02g.jpg" alt="Meet some of our valued citizen co-creators" />
     <figcaption><b>Meet some of our valued citizen co-creators</b></figcaption>
   </div>
 	
   <div class="col" style="text-align: center">
-    <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-03g.jpg" alt="Community collaboration for better Government Digital Products and Services" /></a>
+      <img src="/images/gt7-03g.jpg" alt="Community collaboration for better Government Digital Products and Services" />
     <figcaption><b>Community collaboration for better Government Digital Products and Services</b></figcaption>
   </div>
 </div>	
 
 <div class="row">
   <div class="col" style="text-align: center">
-    <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-04g.jpg" alt="Harnessing the power of our Tech Communities" /></a>
+      <img src="/images/gt7-04g.jpg" alt="Harnessing the power of our Tech Communities" />
     <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/govtechturns7" target="_blank">
-      <img src="/images/gt7-05g.jpg" alt="Vibrant communities inside GovTech" /></a>
+      <img src="/images/gt7-05g.jpg" alt="Vibrant communities inside GovTech" />
     <figcaption><b>Vibrant communities inside GovTech</b></figcaption>
   </div>
 
