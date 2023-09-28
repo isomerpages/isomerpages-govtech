@@ -27,7 +27,7 @@ The power to decide your future is in your hands. Chart your career with our Tec
 
 ### How can you apply?
 
-Applications are open from 1 July to 31 August 2023. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, [apply now as a Tech Associate](https://go.gov.sg/tap2024){:target="_blank"} to make an impact!
+Our applications typically open from July to August of every year. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, join our [Talent Community](https://careers.tech.gov.sg/careers/talentcommunity){:target="_blank"} to stay in touch with us and get notified when applications open in 2024.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
