@@ -122,12 +122,12 @@ We're posting something new everyday this week so that you can learn more about 
 
 <div class="row">
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-04g.jpg" alt="Harnessing the power of our Tech Communities" />
+      <img src="/images/gt7-04g1.jpg" alt="Harnessing the power of our Tech Communities" />
     <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-05g.jpg" alt="Vibrant communities inside GovTech" />
+      <img src="/images/gt7-05g1.jpg" alt="Vibrant communities inside GovTech" />
     <figcaption><b>Vibrant communities inside GovTech</b></figcaption>
   </div>
 
