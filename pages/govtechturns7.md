@@ -17,7 +17,7 @@ We look forward to deepening our meaningful connections with you in the many yea
 
 ---
 
-![GovTech Communities](/images/gt7-communities.jpg)
+![GovTech Communities](/images/gt7-communities1.jpg)
 
 <iframe src="https://www.checkfirst.gov.sg/c/d549c393-9015-45b4-acdb-ea0ae6a5fd61" style="width:100%;height:500px"></iframe>
 
