@@ -30,7 +30,7 @@ We look forward to deepening our meaningful connections with you in the many yea
             <br><img src="/images/gt7-devportal.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>SG Gov DevPortal Digest</b>
+            <br><b>Singapore Government Developer Portal Digest</b>
             <br>The Singapore Government Developer Portal is a one-stop resource hub for government digital products and services. Sign up for our Digest to receive updates on new features, content, community resources, and updates on our digital journey to build a Smart Nation.
 	    <br><br><a href="https://go.gov.sg/gt7-devportal" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Sign up now</a><br><br>
         </td>
