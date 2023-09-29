@@ -106,7 +106,7 @@ We're posting something new everyday this week so that you can learn more about 
 <div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/gt7-01g.jpg" alt="Co-creating with citizens in their neighbourhood in our roving truck" />
-    <figcaption><b>Co-creating with citizens in their neighbourhood in our roving truck</b></figcaption>
+    <figcaption><b>Co-creating with citizens around Singapore</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
