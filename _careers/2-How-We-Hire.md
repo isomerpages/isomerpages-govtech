@@ -76,4 +76,4 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
 3) Thereafter, you can expect to start your adventure as a GovTechie.
 
-<a href="https://careers.tech.gov.sg/careers/SearchJobs" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<a href="https://go.gov.sg/govtech-jobs" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
