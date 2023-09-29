@@ -5,7 +5,7 @@ permalink: /govtechturns7/
 breadcrumb: GovTech Turns 7
 ---
 
-![GovTech Turns 7](/images/gt7-landingpage-banner1.gif)
+![GovTech Turns 7](/images/gt7-landingpage-banner2.gif)
 
 ---
 
