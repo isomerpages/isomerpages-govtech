@@ -27,7 +27,7 @@ The power to decide your future is in your hands. Chart your career with our Tec
 
 ### How can you apply?
 
-Our applications typically open from July to August of every year. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} to find out our next application period in 2024.
+Our applications typically open from July to August of every year. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans, follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} to find out about our next application period in 2024.
 
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
