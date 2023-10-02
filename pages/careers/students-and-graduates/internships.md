@@ -29,7 +29,7 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 **GovTech Internships Application Process**
 
-[![GovTech Internships Application Process](/images/careers/internship-available-roles2.png)]
+![GovTech Internships Application Process](/images/careers/internship-available-roles2.png)
 
 **GovTech Internships Selection Process**
 
