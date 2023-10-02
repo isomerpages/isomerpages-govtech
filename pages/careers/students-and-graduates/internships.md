@@ -14,9 +14,9 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 
 ### Read about past interns' experiences:
 
-* [Hari Shiman R, Data Science intern](https://medium.com/ytpo-govtech/internship-experience-at-dsaid-a16907042b28){:target="_blank"}
-* [Chua Xiu Ling, User Experience intern](https://medium.com/ytpo-govtech/theres-so-much-to-designing-498774d58037){:target="_blank"}
-* [Han Xingjian, Sensors & Internet of Things intern](https://medium.com/ytpo-govtech/internship-blog-7b021006e020){:target="_blank"}
+* [Varshini Parameswaran, AI Engineer intern](https://medium.com/ytpo-govtech/my-meaningful-internship-with-dsaid-va-team-9d8cb079a2d8){:target="_blank"}
+* [Sherman Ng, Software Engineer intern](https://medium.com/ytpo-govtech/empowering-govtech-interns-7af65b29fef4){:target="_blank"}
+* [Melissa Lim, Young Talent Recruitment intern](https://medium.com/ytpo-govtech/my-experience-as-a-govtech-corporate-intern-bcaf1c0385c2){:target="_blank"}
 
 
 ### How can you apply?
@@ -29,13 +29,14 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 
 **GovTech Internships Application Process**
 
-[![GovTech Internships Application Process](/images/careers/internship-available-roles.png)](https://go.gov.sg/govtechinternshipprojects2024){:target="_blank"}
+![GovTech Internships Application Process](/images/careers/internship-available-roles2.png)
 
 **GovTech Internships Selection Process**
 
 ![GovTech Internships Selection Process](/images/careers/GovTech-internship-selection-process-updated.png)
 
-Applications are open from 1 August to 30 September 2023. If you are looking for growth, purpose, and fun, [apply as a GovTech intern](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Government-Technology-Agency/GovTech-2024-Internships_JR-10000019866){:target="_blank"} now.
+
+Follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} to stay updated on our next application period.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
