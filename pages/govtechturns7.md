@@ -105,8 +105,9 @@ We're posting something new everyday this week so that you can learn more about 
 
 <div class="row">
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-01g.jpg" alt="Co-creating with citizens in their neighbourhood in our roving truck" />
-    <figcaption><b>Co-creating with citizens around Singapore</b></figcaption>
+    <a href="https://vt.tiktok.com/ZSN8VE2VD/" target="_blank">	 	    
+      <img src="/images/gt7-01c.jpg" alt="Co-creating with citizens around Singapore" /></a>
+    <figcaption><b>Check out our TikTok post</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
@@ -141,8 +142,8 @@ We're posting something new everyday this week so that you can learn more about 
 
 #### **Related Content**
 
-* [Overview of Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"}
 * [Smart Nation Builder](https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder){:target="_blank"}
+* [Overview of Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"}
 * [Vulnerability Disclosure Programme](https://www.tech.gov.sg/report_vulnerability){:target="_blank"}
 * [Crowdsourced Vulnerability Discovery Programmes](https://www.tech.gov.sg/files/media/media-releases/Factsheet%20on%20Government%20Crowdsourced%20Vulnerability%20Discovery%20Programmes%20(Updated%20Feb%202023).pdf){:target="_blank"}
 
