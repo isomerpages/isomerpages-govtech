@@ -107,8 +107,7 @@ We're posting something new everyday this week so that you can learn more about 
   <div class="col" style="text-align: center">
     <a href="https://vt.tiktok.com/ZSN8VE2VD/" target="_blank">	 	    
       <img src="/images/gt7-01c.jpg" alt="Co-creating with citizens around Singapore" /></a>
-	  <a href="https://vt.tiktok.com/ZSN8VE2VD/">Check out our TikTok post</a>
-	  <a href="https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder" target="_blank">Find out more about the Smart Nation Builder</a>
+    <figcaption><b>Check out our TikTok post</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
