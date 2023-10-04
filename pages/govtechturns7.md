@@ -111,8 +111,9 @@ We're posting something new everyday this week so that you can learn more about 
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-02g.jpg" alt="Meet some of our valued citizen co-creators" />
-    <figcaption><b>Meet some of our valued citizen co-creators</b></figcaption>
+    <a href="https://www.facebook.com/TechKaki/posts/pfbid05CLFCjYrVJipZ9C23HhXHMZgwcfsXK7TCsUviqch44PtdJK4yu9DYHLhr396yWzHl" target="_blank">		  
+      <img src="/images/gt7-02c.jpg" alt="Meet some of our valued citizen co-creators" /></a>
+    <figcaption><b>Check out our Tech Kaki post</b></figcaption>
   </div>
 	
   <div class="col" style="text-align: center">
