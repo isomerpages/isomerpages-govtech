@@ -117,8 +117,9 @@ We're posting something new everyday this week so that you can learn more about 
   </div>
 	
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-03g.jpg" alt="Community collaboration for better Government Digital Products and Services" />
-    <figcaption><b>Community collaboration for better Government Digital Products and Services</b></figcaption>
+    <a href="https://www.instagram.com/p/Cx-Kx6TurYx/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="_blank">	 	  
+      <img src="/images/gt7-03c.jpg" alt="Community collaboration for better Government Digital Products and Services" /></a>
+    <figcaption><b>Check out our Instagram post</b></figcaption>
   </div>
 </div>	
 
