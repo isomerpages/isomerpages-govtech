@@ -47,5 +47,5 @@ From technology boot camps, internships and scholarships to fresh grad opportuni
 
 Read more about our Young Talents’ experience on our [Medium blog](https://medium.com/ytpo-govtech){:target="_blank"}.
 
-*Follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} to get the latest updates on our Young Talent programmes.*
+To receive updates about our Young Talent programmes, join our [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"}.
 
