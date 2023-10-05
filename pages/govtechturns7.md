@@ -145,6 +145,7 @@ We're posting something new everyday this week so that you can learn more about 
 #### **Related Content**
 
 * [Smart Nation Builder](https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder){:target="_blank"}
+* [GovTech turns seven - Staying connected with you to continuously improve our services](https://www.tech.gov.sg/images/technews/govtech-turns-7?utm_source=website&utm_medium=landingpage&utm_campaign=gt7){:target="_blank"}
 * [Overview of Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"}
 * [Vulnerability Disclosure Programme](https://www.tech.gov.sg/report_vulnerability){:target="_blank"}
 * [Crowdsourced Vulnerability Discovery Programmes](https://www.tech.gov.sg/files/media/media-releases/Factsheet%20on%20Government%20Crowdsourced%20Vulnerability%20Discovery%20Programmes%20(Updated%20Feb%202023).pdf){:target="_blank"}
