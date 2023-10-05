@@ -29,7 +29,6 @@ Catch the Smart Nation Builder at these locations!
 
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
-|29 Sep – 1 Oct | 11:00am - 7:00pm | **Marina Bay Waterfront Promenade (near Bayfront Link)** <br> 12A Bayfront Ave |
 |27 – 29 Oct | 10:00am - 6:00pm | **National Library, The Plaza, Level 1** <br> 100 Victoria St, Singapore 188064 |
 |4 – 5 Nov | 10:00am - 6:00pm | **Heartbeat@Bedok (along the walkway towards Blk 216 Food Centre and Market)** <br> 11 Bedok North Street 1, Singapore 469662 |
 |11 – 12 Nov | 10:00am - 6:00pm | **Buangkok Square Mall, Level 1 (opposite McDonald's)** <br> Block 991 Buangkok Link, Singapore 530991 |
