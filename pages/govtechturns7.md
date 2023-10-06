@@ -131,8 +131,9 @@ We're posting something new everyday this week so that you can learn more about 
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-05g1.jpg" alt="Vibrant communities inside GovTech" />
-    <figcaption><b>Vibrant communities inside GovTech</b></figcaption>
+    <a href="https://www.facebook.com/GovTechSG/posts/pfbid0sUpxEDcGG1fwATcor5k5RA3UYBPzJoCBaybiPqGqBikTn8YhbQf1ZyXavCRAFFtel" target="_blank">		  
+      <img src="/images/gt7-05c.jpg" alt="Vibrant communities inside GovTech" /></a>
+    <figcaption><b>Check out our Facebook post</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
