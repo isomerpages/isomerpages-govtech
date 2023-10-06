@@ -125,8 +125,9 @@ We're posting something new everyday this week so that you can learn more about 
 
 <div class="row">
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-04g1.jpg" alt="Harnessing the power of our Tech Communities" />
-    <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115631859144822784" target="_blank">	 		  
+      <img src="/images/gt7-04c.jpg" alt="Harnessing the power of our Tech Communities" /></a>
+    <figcaption><b>Check out our LinkedIn Post</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
@@ -145,6 +146,7 @@ We're posting something new everyday this week so that you can learn more about 
 #### **Related Content**
 
 * [Smart Nation Builder](https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder){:target="_blank"}
+* [GovTech turns seven - Staying connected with you to continuously improve our services](https://www.tech.gov.sg/images/technews/govtech-turns-7?utm_source=website&utm_medium=landingpage&utm_campaign=gt7){:target="_blank"}
 * [Overview of Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"}
 * [Vulnerability Disclosure Programme](https://www.tech.gov.sg/report_vulnerability){:target="_blank"}
 * [Crowdsourced Vulnerability Discovery Programmes](https://www.tech.gov.sg/files/media/media-releases/Factsheet%20on%20Government%20Crowdsourced%20Vulnerability%20Discovery%20Programmes%20(Updated%20Feb%202023).pdf){:target="_blank"}
