@@ -33,7 +33,7 @@ The login screen was redesigned in August 2023 to display only pertinent informa
 ## CrowdTaskSG: It doesn’t get more user-centric than this
 Get rewarded for your feedback, what could be better? Sharing your thoughts through CrowdTaskSG allows users to earn virtual coins that be used to redeem real life rewards!
 
-[CrowdTaskSG](www.crowdtasksg.gov.sg), if you haven’t guessed from the name, is a crowdsourcing web portal which taps the collective intelligence of Singaporeans through crowdsourcing tasks, such as surveys and polls. 
+[CrowdTaskSG](https://www.crowdtask.gov.sg/), if you haven’t guessed from the name, is a crowdsourcing web portal which taps the collective intelligence of Singaporeans through crowdsourcing tasks, such as surveys and polls. 
 
 Upon completing tasks, citizens are rewarded with virtual coins that can be used to offset purchases at any retail, food and beverage establishments, and major supermarkets accepting NETS QR payment mode.
 
@@ -49,7 +49,7 @@ As this was not the typical survey task type, the CrowdTaskSG team had to create
 
 But it was well worth it – the quiz received around 200 responses a day, and more than 2,600 responses in total which came in invaluable to the Singpass team  
 
-To be part of the crowd, register at CrowdTaskSG [here!](www.crowdtasksg.gov.sg)
+To be part of the crowd, register at CrowdTaskSG [here!](https://www.crowdtask.gov.sg/)
 
 
 ## Public feedback: Front and centre of the ScamShield Bot
