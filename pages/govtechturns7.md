@@ -125,8 +125,9 @@ We're posting something new everyday this week so that you can learn more about 
 
 <div class="row">
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-04g1.jpg" alt="Harnessing the power of our Tech Communities" />
-    <figcaption><b>Harnessing the power of our Tech Communities</b></figcaption>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115631859144822784" target="_blank">	 		  
+      <img src="/images/gt7-04c.jpg" alt="Harnessing the power of our Tech Communities" /></a>
+    <figcaption><b>Check out our LinkedIn Post</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
