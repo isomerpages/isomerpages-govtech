@@ -131,7 +131,8 @@ We're posting something new everyday this week so that you can learn more about 
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/gt7-05c.jpg" alt="Vibrant communities inside GovTech" />
+    <a href="https://vt.tiktok.com/ZSN8VE2VD/" target="_blank">		  
+      <img src="/images/gt7-05c.jpg" alt="Vibrant communities inside GovTech" /></a>
     <figcaption><b>Check out our Facebook post</b></figcaption>
   </div>
 
