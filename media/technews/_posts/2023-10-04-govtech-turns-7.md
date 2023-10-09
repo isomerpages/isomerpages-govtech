@@ -16,7 +16,7 @@ Behind every one of these apps is a team that works tirelessly behind the scenes
 But nope! Users also play a crucial role in our product design where they provide valuable feedback to improve the services for users.
 On our 7th birthday, we took the opportunity to ask some of our product teams how the everyday user impacts their final products. 
 
-*Editor’s note: Make sure to check out our birthday page [here](https://www.tech.gov.sg/govtechturns7/). We promise you, it’s well worth your while.*
+*Editor’s note: Make sure to check out our birthday page [here](https://go.gov.sg/gt7-article). We promise you, it’s well worth your while.*
 
 ## Singpass: Redesigning for enhanced vigilance 
 The design team at Singpass collects feedback and conducts surveys, interviews, and usability testing regularly to better understand users’ behaviour during transactions and continually improve the Singpass service for 5 million users.
@@ -91,5 +91,5 @@ As we celebrate our 7th year, we are more committed than ever to keeping you —
 Your feedback is not just welcomed; it's essential. So, here's to another year of creating better, more inclusive experiences for all Singaporeans. 
 Thank you for being an integral part of our journey towards a Smart Nation. 
 
-Celebrate our 7th birthday with us, and learn more about our communities on our [Birthday Campaign page!](https://www.tech.gov.sg/govtechturns7/)
+Celebrate our 7th birthday with us, and learn more about our communities on our [Birthday Campaign page!](https://go.gov.sg/gt7-article)
 
