@@ -10,98 +10,12 @@ collection_name: who-we-are
 
 #### **United Nations e-Government Survey**
 
-This study assesses the UN’s 193 member states on the relative ability of their governments in harnessing infocomm technologies (ICT) to deliver online services and engage its citizens in public policies.
+Published biennially, the [United Nations e-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022){:target="_blank"} assesses the e-government development status of all 193 United Nations member states. The assessment measures the e-government performance of countries relative to each other, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities.
 
-* In 2018, Singapore ranked 7th overall on the E-Government Development Index and was 2nd for the Online Services Index.
+In the 2022 Survey, Singapore ranked 12th in the world. The top 2 leading countries in e-government development as per the 2022 Survey results are Denmark and Finland. 
 
-<table>
-  <tr>
-    <th><span style="font-weight:bold">Publication Year</span></th>
-    <th>2012</th>
-    <th>2013</th>
-    <th>2014</th>
-    <th>2015</th>
-    <th>2016</th>
-    <th>2017</th>
-    <th>2018</th>
-    
-  </tr>
-  <tr>
-    <td colspan="7">UN eGov Survey (released bienially)</td>
-  </tr>
-  <tr>
-    <td>(i) Development Index</td>
-    <td>10th</td>
-    <td>No Report</td>
-    <td>3rd</td>
-    <td>No Report</td>
-    <td>4th</td>
-    <td>No Report</td>
-    <td>7th</td>
+#### **IMD Smart Cities Index**
 
-  </tr>
-  
-  <tr>
-    <td>(ii) Online Services Index</td>
-    <td>1st</td>
-    <td>No Report</td>
-    <td>2nd</td>
-    <td>No Report</td>
-    <td>3rd</td>
-    <td>No Report</td>
-    <td>2nd</td>
-  </tr>
-  
-  <tr>
-    <td>(iii) e-Participation Index</td>
-    <td>3rd</td>
-    <td>No Report</td>
-    <td>10th</td>
-    <td>No Report</td>
-    <td>8th</td>
-    <td>No Report</td>
-    <td>14th</td>
+The [IMD Smart Cities Index](https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf){:target="_blank"} is published by Switzerland’s Institute for Management Development (IMD). The 2023 edition combined hard data and survey responses to rank 141 cities by how technology is used to address the challenges each city faces to achieve a higher quality of life for residents.
 
-  </tr>
-  
-  
-</table>
-
-
-#### **World Economic Forum Global Information Technology Report**
-
-The yearly study ranks 148 economies and examines their preparedness to leverage information and communication technologies (ICT) for increased competitiveness and development.
-
-* In 2016, Singapore was ranked 1st in the world.
-<table>
-  <tr>
-    <th><span style="font-weight:bold">Publication Year</span></th>
-    <th>2012</th>
-    <th>2013</th>
-    <th>2014</th>
-    <th>2015</th>
-    <th>2016</th>
-    <th>2017</th>
-  </tr>
-  <tr>
-    <td colspan="7">World Economic Forum Global Information Technology Report(released Annually)</td>
-  </tr>
-  <tr>
-    <td>(i) Government Usage Sub-Index</td>
-    <td>2nd</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>Not Available</td>
-  </tr>
-  <tr>
-    <td>(ii) Social Impact Sub-Index</td>
-    <td>3rd</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>1st</td>
-    <td>Not Available</td>
-  </tr>
-</table>
+In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra were the top three cities respectively. 
