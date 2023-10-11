@@ -12,7 +12,7 @@ collection_name: who-we-are
 
 Published biennially, the [United Nations e-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022){:target="_blank"} assesses the e-government development status of all 193 United Nations member states. The assessment measures the e-government performance of countries relative to each other, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities.
 
-In the 2022 Survey, Singapore ranked 12th in the world. The top 2 leading countries in e-government development as per the 2022 Survey results are Denmark and Finland. 
+In 2022, Singapore ranked 12th in the world. Denmark and Finland were the top two leading countries in e-government development.
 
 #### **IMD Smart Cities Index**
 
