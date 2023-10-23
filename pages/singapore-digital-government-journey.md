@@ -94,10 +94,10 @@ Our digital government efforts can be classified into these few areas:
   </div>
 </div>
 
-## Contact information for international collaboration opportunities
+## Stay Connected with GovTech
 
-Visit our [International Partnerships](/international-partnerships){:target="_blank"} page for more information on our international collaborations.
+Subscribe to our [TechNews newsletter](https://www.tech.gov.sg/media/technews/subscribe){:target="_blank"} to stay up-to-date on the latest GovTech updates, tech insights, and stories. 
 
-Contact us at <info@tech.gov.sg> if you would like to collaborate on various digital government projects.
+Contact us at <info@tech.gov.sg> if you would like to collaborate on digital government projects.
 
 
