@@ -28,25 +28,15 @@ View the full timeline of our digital milestones [here](https://www.tech.gov.sg/
 
 ## Our Digital Government Story
 
-Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey. 
+Watch our Government Chief Digital Technology Officer, Chan Cheow Hoe, share key lessons from Singapore’s Digital Government journey. This video series was produced through a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
 
-Discover the behind-the-scenes highlights of Singapore’s Digital Government Story through this video series, which was produced through a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
+<div class="bp-youtube">
 
-[Singapore’s Digital Government Story EP 1: In the Beginning](https://youtu.be/1qJ8aQdDQvw){:target="\_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1qJ8aQdDQvw?si=dbMWMvdjakK11JUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-This first episode dives into the origins of GovTech, the start of the Digital Government journey, the impetus for internal capability building in GovTech and the 'outside in' approach of solving problems for the customer.
+</div>
 
-[Singapore’s Digital Government Story EP 2: Building Capabilities With Engineering Talent](https://youtu.be/TEmIuECWBHM){:target="\_blank"}
-
-This episode highlights how GovTech has evolved over the years, with the establishment of five Capability Centres to strengthen Public Sector engineering expertise and build the government’s capabilities in emerging technologies. Cheow Hoe also spoke about the experience of recruiting engineering talent and building capabilities within GovTech – including developing the pipeline of talent.
-
-[Singapore’s Digital Government Story EP 3: The Singapore Government Technology Stack (SGTS)](https://youtu.be/Wfc-Vg5KC8w){:target="\_blank"}
-
-Episode 3 shares the origins and evolution of the [Singapore Government Technology Stack (SGTS)](https://www.developer.gov.sg/singapore-government-tech-stack/overview/index.html){:target="\_blank"}, a Strategic National Project that offers government agencies a better, smarter and faster way for building applications.
-
-[Singapore’s Digital Government Story EP 4: Engaging the World](https://youtu.be/wzko3Bef8Fk){:target="\_blank"}
-
-Episode 4 spotlights how GovTech engages with the global community through forums like the [Digital Government Exchange (DGX)](/international-partnerships#digital-government-exchange){:target="_blank"}, sharing with countries like the UK, and working with international agencies like the UN and the World Bank. Cheow Hoe also shares more about how GovTech reaches out to tech communities through the [Singapore Government Developer Portal](https://www.developer.gov.sg){:target="_blank"} and the and the STACK Developers Conference.
+Watch the other videos from this series [here](https://youtube.com/playlist?list=PLEpmxnWUCorkMQ8dfGVTJiO_brTfQ7ID9&si=KFADw7Kj4FpIJ4SQ){:target="_blank"}.
 
 ## Digital Government Efforts
 
@@ -103,17 +93,6 @@ Our digital government efforts can be classified into these few areas:
     <figcaption><b>Diversity and Inclusion</b></figcaption>
   </div>
 </div>
-
-### National Achievements 2020
-The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
-
-<figure style="text-align: center">
-  <img
-    src="/images/digital-transformation/Fig-3-Citizen-and-business-satisfaction.png" 
-    alt="Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020"
-  />
-  <figcaption>Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020</figcaption>
-</figure>
 
 ## Contact information for international collaboration opportunities
 
