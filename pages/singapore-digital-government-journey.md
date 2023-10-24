@@ -14,7 +14,7 @@ breadcrumb: Singapore Digital Government Journey
 
 ---
 
-Singapore’s Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop, and deliver [digital services](https://www.tech.gov.sg/products-and-services/){:target="_blank"} that are built for our citizens’ and businesses’ immediate needs. GovTech drives digital government transformation through these key [capability centres](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"} - Application Design, Development and Deployment, Cybersecurity, Data Science & Artificial Intelligence, Government ICT Infrastructure, and Smart City Technology.
+Singapore’s Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop, and deliver [digital services](https://www.tech.gov.sg/products-and-services/){:target="_blank"} that are built for our citizens’ and businesses’ immediate needs. GovTech drives digital government transformation through these key [capability centres](https://www.tech.gov.sg/digital-government-transformation/#capability-centres){:target="_blank"} - Application Design, Development and Deployment, Cybersecurity, Data Science & Artificial Intelligence, Government ICT Infrastructure, and Smart City Technology.
 
 Learn more about Singapore’s Digital Government journey in the video series below.
 
@@ -29,6 +29,8 @@ This series of 4 videos is a collaboration between GovTech and the United Nation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1qJ8aQdDQvw?si=dbMWMvdjakK11JUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
+
+<br>
 
 * [EP 1: In the Beginning](https://youtu.be/1qJ8aQdDQvw?si=pDtRQEPFnlRs-ERD){:target="_blank"}
 * [EP 2: Building Capabilities With Engineering Talent](https://youtu.be/TEmIuECWBHM?si=8Ed4AtQJlXHiKbHv){:target="_blank"}
@@ -91,7 +93,7 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
   </div>
 </div>
 
-In order to drive co-creation and learning among the public and private sectors, GovTech has set up the [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg){:target="_blank"} - a Practitioner for Practitioner academy that offers a suite of programmes for the public service workforce, as well as [STACK conferences](https://www.developer.tech.gov.sg/communities/events/overview){:target="_blank"} and [STACK meetups](https://www.developer.tech.gov.sg/communities/stack-x-meetups/overview.html){:target="_blank"} for the tech community.
+In order to drive co-creation and learning among the public and private sectors, GovTech has set up the [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg){:target="_blank"} - a Practitioner for Practitioner academy that offers a suite of programmes for the public service workforce, as well as [STACK conferences](https://www.developer.tech.gov.sg/communities/events/conferences/){:target="_blank"} and [STACK meetups](https://www.developer.tech.gov.sg/communities/events/stack-meetups/){:target="_blank"} for the tech community.
 
 ## Stay Connected with GovTech
 
