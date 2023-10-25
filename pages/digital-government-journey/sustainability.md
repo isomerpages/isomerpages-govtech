@@ -18,6 +18,7 @@ As the public sector’s centre of excellence for info-comm technology and smart
 > “It is fortuitous that I was given this role to be the sustainability lead for GovTech, where together with my team, we drive the sustainability agenda as a convenor and orchestrator of all internal and external stakeholders and touchpoints of GovTech, as we build the foundation to move towards our 2045 Net Zero goal." - Liew Hui Ming, Director, Digitalisation Strategy & Partnership Office
 <br>
 
+
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
