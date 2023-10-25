@@ -50,16 +50,70 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 ![GovTech Sustainability Framework](/images/GovTech-Sustainability-Framework.jpg)
 
+
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #a7a9ac;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #0061AF;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #a7a9ac; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
+
 ### Three Key Pillars
 
-**Sustainable Organisation**
-* We prioritise ethical practices and sustainable operations in every aspect of our operations, where we actively reduce, reuse, recycle and remove any unnecessary wastage.  
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">Sustainable Organisation</label>
+	<div class="accordion-content">
+		<p>We prioritise ethical practices and sustainable operations in every aspect of our operations, where we actively reduce, reuse, recycle and remove any unnecessary wastage.</p>
+	</div>
+	<input type="checkbox" id="title2"  /><label for="title2">Sustainable ICT&SS</label>
+	<div class="accordion-content">
+		<p>We incorporate green practices and technologies into our hardware selection and software development approaches to provide more eco-conscious solutions.</p>
+	</div>
+	<input type="checkbox" id="title3"  /><label for="title3">Digital Innovation for Sustainability</label>
+	<div class="accordion-content">
+		<p>We empower the Singapore Government’s net zero journey with innovative digital solutions that make a positive impact on the environment.</p>
+	</div>
+</div>
 
-**Sustainable ICT&SS**
-* We incorporate green practices and technologies into our hardware selection and software development approaches to provide more eco-conscious solutions.
-
-**Digital Innovation for Sustainability**
-* We empower the Singapore Government’s net zero journey with innovative digital solutions that make a positive impact on the environment.
 
 ### Our Enablers 
 
