@@ -20,7 +20,7 @@ As the public sector’s centre of excellence for info-comm technology and smart
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/GovTech-Sustainability-Committee.jpg" alt="GovTech Sustainability Committee"/>	
+			<img src="/images/GovTech-Sustainability-Committee1.jpg" alt="GovTech Sustainability Committee"/>	
 			<figcaption>A Sustainability Committee spanning cross-functional workstreams led by Henry Chang (Deputy Chief Executive, GovTech) was established in FY22 to operationalise GovTech’s sustainability framework and strategy.</figcaption>
 		</figure>
 	</div>
