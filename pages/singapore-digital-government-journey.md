@@ -59,15 +59,16 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
       <img src="/images/digital-transformation/03-User Business Journey.png" alt="Citizen Engagement and Co-creation" /></a>
     <figcaption><b>User and Business Journeys</b></figcaption>
   </div>
-	
+</div>
+
+<div class="row">
   <div class="col" style="text-align: center">
      <a href="/singapore-digital-government-journey/ai-and-data-driven-government" target="_blank">
       <img src="/images/digital-transformation/04-Data Driven Gov AI.png" alt="AI and Data Driven Government" /></a>
     <figcaption><b>AI and Data Driven Government</b></figcaption>
   </div>
-</div>
 
-<div class="row">
+
   <div class="col" style="text-align: center">
     <a href="/singapore-digital-government-journey/digital-identity" target="_blank">
       <img src="/images/digital-transformation/05-Digital Identity.png" alt="Digital Identity" /></a>
@@ -79,7 +80,9 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
       <img src="/images/digital-transformation/06-WOG Platforms Tools.png" alt="WOG Platforms and Tools" /></a>
     <figcaption><b>WOG Platforms and Tools</b></figcaption>
   </div>
+</div>
 
+<div class="row">
   <div class="col" style="text-align: center">
     <a href="/singapore-digital-government-journey/cybersecurity" target="_blank">
       <img src="/images/digital-transformation/07-Cybersecurity.png" alt="Cybersecurity" /></a>
@@ -91,7 +94,14 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
       <img src="/images/digital-transformation/08-Diversity Inclusion.png" alt="Diversity and Inclusion" /></a>
     <figcaption><b>Diversity and Inclusion</b></figcaption>
   </div>
+
+  <div class="col" style="text-align: center">
+    <a href="/" target="_blank">
+      <img src="/images/digital-transformation/09-Sustainability.png" alt="Sustainability" /></a>
+    <figcaption><b>Sustainability</b></figcaption>
+  </div>
 </div>
+
 
 In order to drive co-creation and learning among the public and private sectors, GovTech has set up the [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg){:target="_blank"} - a Practitioner for Practitioner academy that offers a suite of programmes for the public service workforce, as well as [STACK conferences](https://www.developer.tech.gov.sg/communities/events/conferences/){:target="_blank"} and [STACK meetups](https://www.developer.tech.gov.sg/communities/events/stack-meetups/){:target="_blank"} for the tech community.
 
