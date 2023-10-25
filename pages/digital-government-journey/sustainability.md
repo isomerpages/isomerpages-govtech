@@ -69,7 +69,7 @@ label {
 }
 
 label:hover {
-	background: #0061AF;
+	background: #B41E8E;
 	color: #FFF;
 }
 
@@ -117,14 +117,20 @@ input:checked + label + .accordion-content {
 
 ### Our Enablers 
 
-**People**
-* Empowering all GovTech Leaders and GovTechies to drive eco-conscious practices across business lines, consuming fewer resources, and fostering a sustainable culture.  
-
-**Process**
-* Embedding sustainable standards, processes, and tools within the software development lifecycle to achieve sustainability by design while ensuring high service reliability and performance. 
-
-**Partners**
-* Engaging and collaborating with suppliers, industry peers, public officers, and citizens to drive the innovation and adoption of sustainable technology solutions and approaches.
+<div>
+	<input type="checkbox" id="title4"  /><label for="title4">People</label>
+	<div class="accordion-content">
+		<p>Empowering all GovTech Leaders and GovTechies to drive eco-conscious practices across business lines, consuming fewer resources, and fostering a sustainable culture.</p>
+	</div>
+	<input type="checkbox" id="title5"  /><label for="title5">Process</label>
+	<div class="accordion-content">
+		<p>Embedding sustainable standards, processes, and tools within the software development lifecycle to achieve sustainability by design while ensuring high service reliability and performance.</p>
+	</div>
+	<input type="checkbox" id="title6"  /><label for="title6">Partners</label>
+	<div class="accordion-content">
+		<p>Engaging and collaborating with suppliers, industry peers, public officers, and citizens to drive the innovation and adoption of sustainable technology solutions and approaches.</p>
+	</div>
+</div>
 
 
 <div class="row">
