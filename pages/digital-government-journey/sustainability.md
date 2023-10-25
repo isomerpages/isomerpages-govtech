@@ -38,12 +38,13 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 ### Our Commitments
 
-| Commitment                                    | Description                                                                                                                                                                |
-|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Net Zero Emissions around 2045             |     We aim to peak emissions around 2025   and achieve net zero emissions around 2045, as aligned with the public   sector’s commitment to lead the way.                   |
-|     Optimising our workplace operations        |     GovTech has been Eco-Office Elite   certified since 2022. We commit to protecting the environment by reducing our   consumption of energy, water, and waste.           |
-|     Green data centres                         |     All our data centres are Green Mark   Platinum certified.                                                                                                              |
-|     Reducing digital carbon emissions          |     We centrally provide greener data   centre and cloud hosting options that serve the whole-of-government’s   consolidated needs more efficiently.                       |
+**Net Zero Emissions around 2045** - We aim to peak emissions around 2025 and achieve net zero emissions around 2045, as aligned with the public sector’s commitment to lead the way.
+
+**Optimising our workplace operations** - GovTech has been Eco-Office Elite certified since 2022. We commit to protecting the environment by reducing our consumption of energy, water, and waste. 
+
+**Green data centres** - All our data centres are Green Mark Platinum certified. 
+
+**Reducing digital carbon emissions** - We centrally provide greener data centre and cloud hosting options that serve the whole-of-government’s consolidated needs more efficiently.
 
 
 ### Sustainability Framework and Strategy at a Glance
@@ -136,17 +137,13 @@ input:checked + label + .accordion-content {
 
 ### Key Initiatives 
 
-**Digital Workplace**
-* The [Digital Workplace](https://www.tech.gov.sg/products-and-services/digital-workplace/) provides digital alternatives to physical transactions such as tele-conferencing and digital business cards.
+**Digital Workplace** - The [Digital Workplace](https://www.tech.gov.sg/products-and-services/digital-workplace/) provides digital alternatives to physical transactions such as tele-conferencing and digital business cards.
 
-**Government Hosting Consolidation and Cloud Migration**
-* GovTech provides centralised energy-efficient data centres to support the consolidation of standalone server rooms and data centres.  We also develop secure [government cloud solutions](https://www.tech.gov.sg/capability-centre-gig) to accelerate adoption of modern cloud capabilities. 
+**Government Hosting Consolidation and Cloud Migration** - GovTech provides centralised energy-efficient data centres to support the consolidation of standalone server rooms and data centres.  We also develop secure [government cloud solutions](https://www.tech.gov.sg/capability-centre-gig) to accelerate adoption of modern cloud capabilities. 
 
-**Green Software**
-* We actively explore Green IT tools to augment our existing software development processes, and enable our product teams and engineers to manage and optimise their software to reduce carbon emissions. We are also a member of the Green Software Foundation. 
+**Green Software** - We actively explore Green IT tools to augment our existing software development processes, and enable our product teams and engineers to manage and optimise their software to reduce carbon emissions. We are also a member of the Green Software Foundation. 
 
-**Open Digital Platform**
-* We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
+**Open Digital Platform** - We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
 
 <br>
 
