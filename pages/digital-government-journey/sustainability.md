@@ -96,21 +96,21 @@ instrumental in getting everyone onboard this journey.” - Liew Hui Ming, Direc
 ### Key Initiatives 
 
 **Digital Workplace**
-* The [Digital Workplace](https://www.tech.gov.sg/products-and-services/digital-workplace/){:target="_blank"} provides digital alternatives to physical transactions such as tele-conferencing and digital business cards.
+* The [Digital Workplace](https://www.tech.gov.sg/products-and-services/digital-workplace/) provides digital alternatives to physical transactions such as tele-conferencing and digital business cards.
 
 **Government Hosting Consolidation and Cloud Migration**
-* GovTech provides centralised energy-efficient data centres to support the consolidation of standalone server rooms and data centres.  We also develop secure [government cloud solutions](https://www.tech.gov.sg/capability-centre-gig){:target="_blank"} to accelerate adoption of modern cloud capabilities. 
+* GovTech provides centralised energy-efficient data centres to support the consolidation of standalone server rooms and data centres.  We also develop secure [government cloud solutions](https://www.tech.gov.sg/capability-centre-gig) to accelerate adoption of modern cloud capabilities. 
 
 **Green Software**
 * We actively explore Green IT tools to augment our existing software development processes, and enable our product teams and engineers to manage and optimise their software to reduce carbon emissions. We are also a member of the Green Software Foundation. 
 
 **Open Digital Platform**
-* We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district){:target="_blank"} to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
+* We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
 
 --- 
 
 #### **Related Content**
 
-* [Explore our Sustainability Highlights in the FY22 Annual Report](https://www.tech.gov.sg/files/media/corporate-publications/2022_GovTech_AR_Main.pdf){:target="_blank"}
-* [Discover how tech is securing a more sustainable tomorrow for Singapore](https://www.tech.gov.sg/media/technews/how-tech-is-securing-a-more-sustainable-tomorrow-for-singapore){:target="_blank"}
+* [Explore our Sustainability Highlights in the FY22 Annual Report](https://www.tech.gov.sg/files/media/corporate-publications/2022_GovTech_AR_Main.pdf)
+* [Discover how tech is securing a more sustainable tomorrow for Singapore](https://www.tech.gov.sg/media/technews/how-tech-is-securing-a-more-sustainable-tomorrow-for-singapore)
 
