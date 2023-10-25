@@ -14,8 +14,11 @@ In 2021, the Singapore Government unveiled the [Singapore Green Plan 2030](https
 
 As the public sector’s centre of excellence for info-comm technology and smart systems (ICT&SS), we are taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.
 
+<br>
+
 > “It is fortuitous that I was given this role to be the sustainability lead for GovTech, where together with my team, we drive the sustainability agenda as a convenor and orchestrator of all internal and external stakeholders and touchpoints of GovTech, as we build the foundation to move towards our 2045 Net Zero goal." - Liew Hui Ming, Director, Digitalisation Strategy & Partnership Office
 
+<br>
 
 <div class="row">
 	<div class="col is-6">
