@@ -96,9 +96,9 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/singapore-digital-government-journey/wog-platforms-and-tools" target="_blank">
-      <img src="/images/digital-transformation/06-WOG Platforms Tools.png" alt="WOG Platforms and Tools" /></a>
-    <figcaption><b>WOG Platforms and Tools</b></figcaption>
+    <a href="/singapore-digital-government-journey/sustainability" target="_blank">
+      <img src="/images/digital-transformation/09-Sustainability.png" alt="Sustainability" /></a>
+    <figcaption><b>Sustainability</b></figcaption>
   </div>
 </div>
 
