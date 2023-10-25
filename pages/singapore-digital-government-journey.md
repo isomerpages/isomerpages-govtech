@@ -10,25 +10,19 @@ breadcrumb: Singapore Digital Government Journey
 
 ---
 
-*Singapore’s digital government journey began in the 1980s with the National Computerisation Programme. Today, we envision a Smart Nation that leverages technology to improve the lives of citizens and business owners. This is achieved through GovTech’s role in spearheading the Government’s internal engineering and digital capabilities through synergy across the whole of government, as well as public-private and international collaborations. Currently, 95% of all transactions with the government are digital from end-to-end.*
+*Singapore’s digital government journey began in the 1980s with the National Computerisation Programme. Today, we envision a Smart Nation that leverages technology to improve the lives of citizens and business owners. GovTech spearheads the Government’s internal engineering and digital capabilities through synergy across the whole of government, as well as public-private and international collaborations.*
 
 ---
 
-Singapore's Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop and deliver digital services that are built for our citizens’ and businesses’ immediate needs. 
+Singapore’s Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop, and deliver [digital services](https://www.tech.gov.sg/products-and-services/){:target="_blank"} that are built for our citizens’ and businesses’ immediate needs. GovTech drives digital government transformation through these key [capability centres](https://www.tech.gov.sg/digital-government-transformation/#capability-centres){:target="_blank"} - Application Design, Development and Deployment, Cybersecurity, Data Science & Artificial Intelligence, Government ICT Infrastructure, and Smart City Technology.
 
-Our work can be broadly classified into three main areas – (i) Products, (ii) Services, and (iii) Cyber and Governance. This is aligned with the Digital Government Blueprint (DGB) which was launched in 2015 - a statement of the Government’s ambition to better leverage data, harness new technologies and drive broader efforts to build a digital economy and society, in support of the Smart Nation vision which was launched by Prime Minister Lee Hsien Loong. 
-
-In 2019, five Capability Centres (CapCens) were established in the following fields to support the development of Infocomm technology and Smart Systems (ICT & SS) – (i) Application Design, Development and Deployment, (ii) Cybersecurity, (iii) Data Science & Artificial Intelligence, (iv) Government ICT Infrastructure, and (v) Sensors & Internet of Things. These five areas are integral to our Digital Government Blueprint and Smart Nation agenda. Through our CapCens, specialist teams of technical experts within the Government who are both familiar with the government’s digitalisation plans and accessible across the WOG are developed. GovTech also oversees the development of a shared government technology stack, key government ICT infrastructure, ICT procurement, data protection, and cybersecurity in the public sector to spearhead digital transformation.
-
-In order to drive co-creation and learning among the public and private sectors, GovTech has set up the [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg){:target="_blank"} - a Practitioner for Practitioner academy that offers a suite of ICT&SS programmes for the public service workforce. GovTech has also organised [STACK conferences](https://www.developer.tech.gov.sg/communities/events/overview){:target="_blank"} and [meet ups](https://www.developer.tech.gov.sg/communities/stack-x-meetups/overview.html){:target="_blank"} for the tech community.
-
-Finally, to drive the vision of a Smart Nation, five Strategic National Projects were launched in 2017, these covered GoBusiness, CODEX, e-Payments, LifeSG, National Digital Identity, the Punggol Smart Town, Smart Nation Sensor Platform and Smart Urban Mobility. These projects lay the foundation for a Smart Nation by serving as a foundation for the adoption of digital and smart technologies throughout the economy and society. More details on each project can be found [here](https://www.smartnation.gov.sg/initiatives/strategic-national-projects){:target="_blank"}.
-
-View the full timeline of our digital milestones [here](https://www.tech.gov.sg/who-we-are/our-journey/){:target="_blank"}.
+Learn more about Singapore’s Digital Government journey in the video series below.
 
 ## Our Digital Government Story
 
-Watch our Government Chief Digital Technology Officer, Chan Cheow Hoe, share key lessons from Singapore’s Digital Government journey. This video series was produced through a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
+Watch our Government Chief Digital Technology Officer, Chan Cheow Hoe, share key lessons from Singapore’s Digital Government journey. 
+
+This series of 4 videos is a collaboration between GovTech and the United Nations Department of Economic and Social Affairs (UN DESA).
 
 <div class="bp-youtube">
 
@@ -36,11 +30,16 @@ Watch our Government Chief Digital Technology Officer, Chan Cheow Hoe, share key
 
 </div>
 
-Watch the other videos from this series [here](https://youtube.com/playlist?list=PLEpmxnWUCorkMQ8dfGVTJiO_brTfQ7ID9&si=KFADw7Kj4FpIJ4SQ){:target="_blank"}.
+<br>
+
+* [EP 1: In the Beginning](https://youtu.be/1qJ8aQdDQvw?si=pDtRQEPFnlRs-ERD){:target="_blank"}
+* [EP 2: Building Capabilities With Engineering Talent](https://youtu.be/TEmIuECWBHM?si=8Ed4AtQJlXHiKbHv){:target="_blank"}
+* [EP 3: The Singapore Government Technology Stack (SGTS)](https://youtu.be/Wfc-Vg5KC8w?si=4KGA0jnDGvUkU-E7){:target="_blank"}
+* [EP 4: Engaging the World](https://youtu.be/wzko3Bef8Fk?si=tY9YQeT9gDJRhHkY){:target="_blank"}
 
 ## Digital Government Efforts
 
-Our digital government efforts can be classified into these few areas:
+Our digital government efforts are aligned with the [Digital Government Blueprint (DGB)](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"} - a statement of the Government’s ambition to better leverage data, harness new technologies, and drive broader efforts to build a digital economy and society. These efforts help support the larger Smart Nation vision, and can be classified into these few areas:
 
 <div class="row">
   <div class="col" style="text-align: center">
@@ -93,6 +92,8 @@ Our digital government efforts can be classified into these few areas:
     <figcaption><b>Diversity and Inclusion</b></figcaption>
   </div>
 </div>
+
+In order to drive co-creation and learning among the public and private sectors, GovTech has set up the [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg){:target="_blank"} - a Practitioner for Practitioner academy that offers a suite of programmes for the public service workforce, as well as [STACK conferences](https://www.developer.tech.gov.sg/communities/events/conferences/){:target="_blank"} and [STACK meetups](https://www.developer.tech.gov.sg/communities/events/stack-meetups/){:target="_blank"} for the tech community.
 
 ## Stay Connected with GovTech
 
