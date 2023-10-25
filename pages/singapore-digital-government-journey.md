@@ -14,7 +14,7 @@ breadcrumb: Singapore Digital Government Journey
 
 ---
 
-Singapore’s Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop, and deliver [digital services](https://www.tech.gov.sg/products-and-services/){:target="_blank"} that are built for our citizens’ and businesses’ immediate needs. GovTech drives digital government transformation through these key [capability centres](https://www.tech.gov.sg/digital-government-transformation/#capability-centres){:target="_blank"} - Application Design, Development and Deployment, Cybersecurity, Data Science & Artificial Intelligence, Government ICT Infrastructure, and Smart City Technology.
+Singapore’s Digital Government initiative and public sector digital transformation are led by the Government Technology Agency of Singapore (GovTech). Formed in 2016 with the focus of building and strengthening the Singapore government’s internal engineering and digital capabilities, GovTech has empowered the whole of government (WOG) to centrally design, develop, and deliver [digital services](https://www.tech.gov.sg/products-and-services/) that are built for our citizens’ and businesses’ immediate needs. GovTech drives digital government transformation through these key [capability centres](https://www.tech.gov.sg/digital-government-transformation/#capability-centres) - Application Design, Development and Deployment, Cybersecurity, Data Science & Artificial Intelligence, Government ICT Infrastructure, and Smart City Technology.
 
 Learn more about Singapore’s Digital Government journey in the video series below.
 
@@ -39,7 +39,7 @@ This series of 4 videos is a collaboration between GovTech and the United Nation
 
 ## Digital Government Efforts
 
-Our digital government efforts are aligned with the [Digital Government Blueprint (DGB)](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"} - a statement of the Government’s ambition to better leverage data, harness new technologies, and drive broader efforts to build a digital economy and society. These efforts help support the larger Smart Nation vision, and can be classified into these few areas:
+Our digital government efforts are aligned with the [Digital Government Blueprint (DGB)](https://www.tech.gov.sg/digital-government-blueprint/) - a statement of the Government’s ambition to better leverage data, harness new technologies, and drive broader efforts to build a digital economy and society. These efforts help support the larger Smart Nation vision, and can be classified into these few areas:
 
 <div class="row">
   <div class="col" style="text-align: center">
@@ -107,7 +107,7 @@ In order to drive co-creation and learning among the public and private sectors,
 
 ## Stay Connected with GovTech
 
-Subscribe to our [TechNews newsletter](https://www.tech.gov.sg/media/technews/subscribe){:target="_blank"} to stay up-to-date on the latest GovTech updates, tech insights, and stories. 
+Subscribe to our [TechNews newsletter](https://www.tech.gov.sg/media/technews/subscribe) to stay up-to-date on the latest GovTech updates, tech insights, and stories. 
 
 Contact us at <info@tech.gov.sg> if you would like to collaborate on digital government projects.
 
