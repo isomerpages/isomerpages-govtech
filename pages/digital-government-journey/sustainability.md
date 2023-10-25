@@ -148,6 +148,8 @@ input:checked + label + .accordion-content {
 **Open Digital Platform**
 * We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
 
+<br>
+
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
