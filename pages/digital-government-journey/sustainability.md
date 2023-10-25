@@ -49,7 +49,6 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 ![GovTech Sustainability Framework](/images/GovTech-Sustainability-Framework.jpg)
 
-
 <style>
 
 input {
@@ -95,7 +94,6 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
-
 ### Three Key Pillars
 
 <div>
@@ -130,7 +128,7 @@ input:checked + label + .accordion-content {
 		<p>Engaging and collaborating with suppliers, industry peers, public officers, and citizens to drive the innovation and adoption of sustainable technology solutions and approaches.</p>
 	</div>
 </div>
-<br>
+
 
 ### Key Initiatives 
 
@@ -141,7 +139,7 @@ input:checked + label + .accordion-content {
 **Green Software** - We actively explore Green IT tools to augment our existing software development processes, and enable our product teams and engineers to manage and optimise their software to reduce carbon emissions. We are also a member of the Green Software Foundation. 
 
 **Open Digital Platform** - We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
-<br>
+
 
 <div class="row">
 	<div class="col is-6">
