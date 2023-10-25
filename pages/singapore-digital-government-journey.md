@@ -96,7 +96,7 @@ Our digital government efforts are aligned with the [Digital Government Blueprin
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="/" target="_blank">
+    <a href="/singapore-digital-government-journey/sustainability" target="_blank">
       <img src="/images/digital-transformation/09-Sustainability.png" alt="Sustainability" /></a>
     <figcaption><b>Sustainability</b></figcaption>
   </div>
