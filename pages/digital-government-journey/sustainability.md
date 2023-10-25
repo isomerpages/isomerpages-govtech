@@ -35,17 +35,13 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 ### Our Commitments
 
-**Net Zero Emissions around 2045**
-* We aim to peak emissions around 2025 and achieve net zero emissions around 2045, as aligned with the public sector’s commitment to lead the way.
+| Commitment                                    | Description                                                                                                                                                                |
+|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Net Zero Emissions around 2045             |     We aim to peak emissions around 2025   and achieve net zero emissions around 2045, as aligned with the public   sector’s commitment to lead the way.                   |
+|     Optimising our workplace operations        |     GovTech has been Eco-Office Elite   certified since 2022. We commit to protecting the environment by reducing our   consumption of energy, water, and waste.           |
+|     Green data centres                         |     All our data centres are Green Mark   Platinum certified.                                                                                                              |
+|     Reducing digital carbon emissions          |     We centrally provide greener data   centre and cloud hosting options that serve the whole-of-government’s   consolidated needs more efficiently.                       |
 
-**Optimising our workplace operations**
-* GovTech has been Eco-Office Elite certified since 2022. We commit to protecting the environment by reducing our consumption of energy, water, and waste. 
-
-**Green data centres**
-* All our data centres are Green Mark Platinum certified. 
-
-**Reducing digital carbon emissions**
-* We centrally provide greener data centre and cloud hosting options that serve the whole-of-government’s consolidated needs more efficiently.
 
 ### Sustainability Framework and Strategy at a Glance
 
