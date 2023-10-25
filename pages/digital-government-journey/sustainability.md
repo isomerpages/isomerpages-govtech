@@ -15,9 +15,7 @@ In 2021, the Singapore Government unveiled the [Singapore Green Plan 2030](https
 As the public sector’s centre of excellence for info-comm technology and smart systems (ICT&SS), we are taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.
 
 <br>
-
 > “It is fortuitous that I was given this role to be the sustainability lead for GovTech, where together with my team, we drive the sustainability agenda as a convenor and orchestrator of all internal and external stakeholders and touchpoints of GovTech, as we build the foundation to move towards our 2045 Net Zero goal." - Liew Hui Ming, Director, Digitalisation Strategy & Partnership Office
-
 <br>
 
 <div class="row">
@@ -132,7 +130,6 @@ input:checked + label + .accordion-content {
 		<p>Engaging and collaborating with suppliers, industry peers, public officers, and citizens to drive the innovation and adoption of sustainable technology solutions and approaches.</p>
 	</div>
 </div>
-
 <br>
 
 ### Key Initiatives 
@@ -144,7 +141,6 @@ input:checked + label + .accordion-content {
 **Green Software** - We actively explore Green IT tools to augment our existing software development processes, and enable our product teams and engineers to manage and optimise their software to reduce carbon emissions. We are also a member of the Green Software Foundation. 
 
 **Open Digital Platform** - We are developing the [Open Digital Platform](https://www.tech.gov.sg/media/technews/building-an-operating-system-for-punggol-digital-district) to power smarter district planning at the Punggol Digital District. By leveraging ODP, district planners expect to progressively reduce energy and water consumption by as much as 30% compared to the national average.
-
 <br>
 
 <div class="row">
