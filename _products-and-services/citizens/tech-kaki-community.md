@@ -3,6 +3,7 @@ layout: simple-page
 title: Tech Kaki Community
 permalink: /products-and-services/tech-kaki-community/
 breadcrumb: Tech Kaki Community
+recommender: false
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/TechKaki-Thumbnail.jpg
