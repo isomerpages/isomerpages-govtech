@@ -6,7 +6,7 @@ permalink: /singapore-digital-government-journey/
 breadcrumb: Singapore Digital Government Journey
 ---
 
-![Singapore Digital Government Journey](/images/digital-transformation/Journey-Banner0.gifg)
+![Singapore Digital Government Journey](/images/digital-transformation/Journey-Banner0.gif)
 
 ---
 
