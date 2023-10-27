@@ -40,7 +40,7 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 **Sustainable Digital Value Chain** - We consider the environmental impact of our products and services, from the point of creation to its end-of-life. 
 
-**Green Government hosting** - We centrally provide greener data centre and cloud hosting options that serve the whole-of-government’s  consolidated needs more efficiently. All our data centres are Green Mark Platinum certified.
+**Green Government Hosting** - We centrally provide greener data centre and cloud hosting options that serve the whole-of-government’s  consolidated needs more efficiently. All our data centres are Green Mark Platinum certified.
 
 
 ### Sustainability Framework and Strategy at a Glance
