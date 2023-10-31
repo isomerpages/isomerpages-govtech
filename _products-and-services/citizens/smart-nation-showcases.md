@@ -29,9 +29,9 @@ Catch the Smart Nation Builder at these locations!
 
 | Date | Time | Venue 
 | -------- | -------- | -------- |  
-|27 – 29 Oct | 10:00am - 6:00pm | **National Library, The Plaza, Level 1** <br> 100 Victoria St, Singapore 188064 |
 |4 – 5 Nov | 10:00am - 6:00pm | **Heartbeat@Bedok (along the walkway towards Blk 216 Food Centre and Market)** <br> 11 Bedok North Street 1, Singapore 469662 |
 |11 – 12 Nov | 10:00am - 6:00pm | **Buangkok Square Mall, Level 1 (opposite McDonald's)** <br> Block 991 Buangkok Link, Singapore 530991 |
+|2 – 3 Dec | 2nd Dec (Sat): 10:00am - 6:00pm <br> 3rd Dec (Sun): 8:00am - 4:00pm | **Bukit Batok East U Square (near Block 280)** <br> Bukit Batok East Ave 3, Singapore 650280 |
 
 
 <div
