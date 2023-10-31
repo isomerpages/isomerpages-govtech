@@ -8,7 +8,7 @@ image: "/images/technews/cybersecurity-expert.jpeg"
 
 ![Lim Rui Sian, Cybersecurity Engineer](/images/technews/cybersecurity-expert.jpeg)
 
-Ask people what happens in October, and they won’t think twice before saying Halloween. But as turns out, October isn't just about Jack ‘O’ Lanterns and pumpkin spice lattes. 
+Ask people what happens in October, and they won’t think twice before saying Halloween. But as it turns out, October isn't just about Jack ‘O’ Lanterns and pumpkin spice lattes. 
 
 Since [2004](https://www.cisa.gov/cybersecurity-awareness-month), it has also been Cybersecurity Awareness Month. 
 
