@@ -14,9 +14,9 @@ agency-logo: /images/logo_govtech_hort.gif
 google-analytics: UA-82296306-1
 
 # Hero Banner
-hero-title: 
-hero-subtitle:
-hero-banner: /images/DSA2023_Banner1.png
+hero-title: Digital Services Awards 2023 Livestream
+hero-subtitle: Catch the livestream to celebrate Award-winning Digital Services, Vote & Win Prizes on 24 Nov!
+hero-banner: /images/DSA-bg.png
 
 #Call to Action Button
 button:
