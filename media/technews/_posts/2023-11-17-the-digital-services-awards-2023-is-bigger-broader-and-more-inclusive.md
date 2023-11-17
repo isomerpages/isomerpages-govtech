@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Digital Service Awards 2023 is bigger, broader and more inclusive"
+title: "The Digital Services Awards 2023 is bigger, broader and more inclusive"
 permalink: "/the-digital-services-awards-2023-is-bigger-broader-and-more-inclusive"
 category: technews
 image: "/images/technews/dsa.jpeg"
