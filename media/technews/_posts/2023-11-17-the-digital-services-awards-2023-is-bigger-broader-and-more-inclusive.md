@@ -86,3 +86,5 @@ See you there!
 
 Join us at this year’s Digital Services Awards via virtual stream happening on 24 November 2023 to celebrate the winners by signing up [here.](https://go.gov.sg/dsa23-regtna) 
 
+
+***Thanks for getting to the end of this article! To stay up to date on the latest tech happenings, subscribe to our TechNews [here!](https://www.tech.gov.sg/media/technews/subscribe) If you would like to co-create with us, make sure to join our Tech Kaki Community [here!](https://www.tech.gov.sg/products-and-services/tech-kaki-community/)***
