@@ -58,4 +58,18 @@ At GovTech, we’re always looking for people who are passionate about using tec
 Typically, our applications typically open from July to August of every year – so you’re a little early. That said, you can join our [Talent Community](https://go.gov.sg/govtechtalentcommunity) to stay in touch with us and get notified when applications open in 2024.
 For other enquiries, you can also write to AreYouIT@tech.gov.sg
 
+---
+
+<div class="row">
+  <div class="col" style="text-align: center">
+    <a href="https://www.tech.gov.sg/media/technews/subscribe?utm_source=govtech&utm_medium=website&utm_campaign=technews" target="_blank">	 	    
+      <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
+    <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+    <a href="https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_source=govtech&utm_medium=website&utm_campaign=technews" target="_blank">		  
+      <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
+    <figcaption><b>Join the Tech Kaki community</b></figcaption>
+  </div>
 
