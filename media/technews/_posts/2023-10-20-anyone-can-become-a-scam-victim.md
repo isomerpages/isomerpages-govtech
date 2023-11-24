@@ -110,3 +110,18 @@ Knowing that love scammers are willing to play the long game should make you ext
 
 - No matter what reasons they give, never send money to someone you've only met online. Once you start, they'll likely invent new emergencies to get more from you.
 
+---
+<br>
+
+<div class="row">
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tnsub" target="_blank">	 	    
+      <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
+    <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tkcommunity" target="_blank">		  
+      <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
+    <figcaption><b>Join the Tech Kaki community</b></figcaption>
+  </div>
