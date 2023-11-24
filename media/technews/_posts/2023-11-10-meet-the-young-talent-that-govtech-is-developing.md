@@ -59,16 +59,17 @@ Typically, our applications typically open from July to August of every year –
 For other enquiries, you can also write to AreYouIT@tech.gov.sg
 
 ---
+<br>
 
 <div class="row">
   <div class="col" style="text-align: center">
-    <a href="https://www.tech.gov.sg/media/technews/subscribe?utm_source=govtech&utm_medium=website&utm_campaign=technews" target="_blank">	 	    
+    <a href="https://go.gov.sg/tnblog-to-tnsub" target="_blank">	 	    
       <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
     <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
-    <a href="https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_source=govtech&utm_medium=website&utm_campaign=technews" target="_blank">		  
+    <a href="https://go.gov.sg/tnblog-to-tkcommunity" target="_blank">		  
       <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
     <figcaption><b>Join the Tech Kaki community</b></figcaption>
   </div>
