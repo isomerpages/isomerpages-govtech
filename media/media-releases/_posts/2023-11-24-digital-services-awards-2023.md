@@ -89,7 +89,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **Award**: Best Search Engine Optimisation (SEO)
 <br>**No. of Categories**: 3*
-<br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect , with sites that are the most searchable on search engines.
+<br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most searchable on search engines.
 <br>**Award Winners:**
 * Cat A: Central Provident Fund Board, Immigration & Checkpoints Authority, Ministry of Transport, Tote Board, Yellow Ribbon Singapore
 * Cat B: Institute of Technical Education
@@ -105,7 +105,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **Award**: Best Customer Satisfaction Score for Transactional Services
 <br>**No. of Categories**: 3*
-<br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments.
+<br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments<sup>[5]</sup>.
 <br>**Award Winners:**
 * Cat A: Majlis Ugama Islam Singapura
 * Cat B: Public Utilities Board
@@ -147,9 +147,14 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 *	Tech Kaki: Loh Wai Poon, Low Jun Keat, Kendra Ong
 * CrowdTaskSG: Ashby Tai, Sean Goh, Wang Weizhong
 
-* *Category A = 1-5 Informational Websites, Category B = 6-10 Informational Websites, Category C = <10 Informational Websites*
+*Category A = 1-5 Informational Websites, Category B = 6-10 Informational Websites, Category C = <10 Informational Websites*
 
+---
 
+<br><sup>[4]</sup> WOGAA Inspect provides scores and suggestions on how to improve the website's performance, accessibility, best practices, and search engine optimisation (SEO).
+<br><sup>[5]</sup> WOGAA Sentiments is a tool that allows government websites to collect user satisfaction feedback and ratings.
+
+---
 
 
 
