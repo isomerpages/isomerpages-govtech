@@ -129,7 +129,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 #### **Award**: Best Usability
 
-**No. of Categories**: 4*
+**No. of Categories**: 4
 <br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Gov), Best Usability (Industry), Most Popular Informational Website (Gov), and Most Popular Informational Website (Industry). The process comprises qualitative and quantitative aspects and will go through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens.
 <br>**Award Winners:**
 * Best Usability (Gov): MOE (Ministry of Education) Corporate Website 
