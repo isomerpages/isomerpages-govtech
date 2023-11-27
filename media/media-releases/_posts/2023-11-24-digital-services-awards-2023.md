@@ -130,17 +130,17 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 #### Award: Best Usability
 
 **No. of Categories**: 4
-<br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Gov), Best Usability (Industry), Most Popular Informational Website (Gov), and Most Popular Informational Website (Industry). The process comprises qualitative and quantitative aspects and will go through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens.
+<br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Government), Best Usability (Industry), Most Popular Informational Website (Government), and Most Popular Informational Website (Industry). The Best Usability evaluation process comprises qualitative and quantitative aspects, where sites went through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens. All top 10 finalists from the pre-screening phase were automatically nominated for the Most Popular Informational Website category for live voting during the event day. 
 <br>**Award Winners:**
-* Best Usability (Gov): MOE (Ministry of Education) Corporate Website 
+* Best Usability (Government): MOE Corporate Website 
 * Best Usability (Industry): Gardens by the Bay Website 
-* Most Popular Informational Website (Gov): CPF Website
+* Most Popular Informational Website (Government): CPF Website
 * Most Popular Informational Website (Industry): DBS Website
 
 #### Award: Outstanding Citizen Contributor
 
 **No. of Categories**: 9
-<br>**Description of Award**: Comprises 3 sub-award categories that recognises citizens from WOG, TechKaki and CrowdTaskSG community:
+<br>**Description of Award**: Comprises 3 sub-award categories that recognises citizens from WOG, Tech Kaki and CrowdTaskSG community:
 * 3 agency nominated winners via an open call for nominations; winners are selected based on a scoring matrix and evaluated by a panel
 * 3 Tech Kaki community members who have contributed the most to Tech Kaki initiatives (e.g. focus groups, events, activeness)
 * 3 CrowdTaskSG community members who have contributed the most to CrowdTaskSG’s initiatives (e.g. tasks completed, events)
