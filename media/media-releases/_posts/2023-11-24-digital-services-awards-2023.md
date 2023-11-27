@@ -89,7 +89,8 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most searchable on search engines.
-<br>**Award Winners:**
+
+**Award Winners:**
 * Cat A: Central Provident Fund Board, Immigration & Checkpoints Authority, Ministry of Transport, Tote Board, Yellow Ribbon Singapore
 * Cat B: Institute of Technical Education
 * Cat C: National Heritage Board
@@ -98,7 +99,8 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest WOGAA Inspect accessibility scores across all their informational services, ensuring that people of all abilities can easily access public information and have the best user experience.
-<br>**Award Winners:**
+
+**Award Winners:**
 * Cat A: Central Provident Fund Board, Ministry of Transport, Tote Board 
 * Cat B: Singapore Police Force
 * Cat C: National Heritage Board
@@ -107,7 +109,8 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments<sup>[5]</sup>.
-<br>**Award Winners:**
+
+**Award Winners:**
 * Cat A: Majlis Ugama Islam Singapura
 * Cat B: Public Utilities Board
 * Cat C: National Environmental Agency
@@ -116,7 +119,8 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises the agencies that achieved the best combination score of page load time, SEO and accessibility across all their informational websites.
-<br>**Award Winners:**
+
+**Award Winners:**
 * Cat A: Tote Board
 * Cat B: Public Service Division
 * Cat C: National Heritage Board
@@ -131,7 +135,8 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 **No. of Categories**: 4
 <br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Government), Best Usability (Industry), Most Popular Informational Website (Government), and Most Popular Informational Website (Industry). The Best Usability evaluation process comprises qualitative and quantitative aspects, where sites went through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens. All top 10 finalists from the pre-screening phase were automatically nominated for the Most Popular Informational Website category for live voting during the event day. 
-<br>**Award Winners:**
+
+**Award Winners:**
 * Best Usability (Government): MOE Corporate Website 
 * Best Usability (Industry): Gardens by the Bay Website 
 * Most Popular Informational Website (Government): CPF Website
