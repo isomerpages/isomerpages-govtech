@@ -50,4 +50,18 @@ We’ve put measures across multiple levels to protect citizen data. However, gi
 
 In addition, it pays to possess a healthy dose of scepticism in the digital world. 
 
+---
+<br>
 
+<div class="row">
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tnsub" target="_blank">	 	    
+      <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
+    <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tkcommunity" target="_blank">		  
+      <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
+    <figcaption><b>Join the Tech Kaki community</b></figcaption>
+  </div>

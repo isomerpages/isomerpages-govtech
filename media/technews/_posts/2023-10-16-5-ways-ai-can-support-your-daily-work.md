@@ -74,3 +74,19 @@ As you can see, there is great potential in speeding up and improving the qualit
 So don’t completely rely and trust these tools. Instead, use them as you would a diligent assistant who’s not an expert in your field – it tirelessly produces what you ask it to do, but you’re still the professional with the discerning eye to sort the wheat from the chaff. 
 
 That way, you automate the boring stuff, saving you time and energy to work on the finer details and exercise judgement on quality. But before you go forth multiply youe productivtiy in AI wonderland, make sure you check out [this article](https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong), where we identified the potential pitfalls of using AI at work. 
+
+---
+<br>
+
+<div class="row">
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tnsub" target="_blank">	 	    
+      <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
+    <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tkcommunity" target="_blank">		  
+      <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
+    <figcaption><b>Join the Tech Kaki community</b></figcaption>
+  </div>

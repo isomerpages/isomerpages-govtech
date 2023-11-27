@@ -11,7 +11,7 @@ recommender: false
 
 #### **Welcome to the TechNews community!**
 
-Join over 19,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
+Join over 20,000 readers and subscribe to GovTech's newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

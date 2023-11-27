@@ -80,11 +80,22 @@ Said about one of the Outstanding Citizen Contributor (WOG) winners: *“Althoug
 
 That’s all we can say for now. Without revealing any spoilers, we invite all public officers and members of the public to register for the virtual event to discover the final winners. In the meantime, find out about your finalists on our [website!](https://go.gov.sg/dsa23-webtna)
 
-
 See you there! 
-
 
 Join us at this year’s Digital Services Awards via virtual stream happening on 24 November 2023 to celebrate the winners by signing up [here.](https://go.gov.sg/dsa23-regtna) 
 
+---
+<br>
 
-***Thanks for getting to the end of this article! To stay up to date on the latest tech happenings, subscribe to our TechNews [here!](https://www.tech.gov.sg/media/technews/subscribe) If you would like to co-create with us, make sure to join our Tech Kaki Community [here!](https://www.tech.gov.sg/products-and-services/tech-kaki-community/)***
+<div class="row">
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tnsub" target="_blank">	 	    
+      <img src="/images/technews/TN_footer.png" alt="Subscribe to the TechNews newsletter" /></a>
+    <figcaption><b>Subscribe to the TechNews newsletter</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+    <a href="https://go.gov.sg/tnblog-to-tkcommunity" target="_blank">		  
+      <img src="/images/technews/TK_footer.png" alt="Join the Tech Kaki community" /></a>
+    <figcaption><b>Join the Tech Kaki community</b></figcaption>
+  </div>
