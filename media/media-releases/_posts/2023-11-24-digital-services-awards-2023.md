@@ -88,9 +88,9 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 *Note: This year’s “Best Search Engine Optimisation” and “Best Accessibility (Cat A)” categories see more than one winner, and one of the “Outstanding Citizen Contributor” winning entries comprises a duo; this resulted in a total of 33 awards.*
 
 **Award**: Best Search Engine Optimisation (SEO)
-**No. of Categories**: 3*
-**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect , with sites that are the most searchable on search engines.
-**Award Winners**
+<br>**No. of Categories**: 3*
+<br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect , with sites that are the most searchable on search engines.
+<br>**Award Winners**
 * Cat A: Central Provident Fund Board, Immigration & Checkpoints Authority, Ministry of Transport, Tote Board, Yellow Ribbon Singapore
 * Cat B: Institute of Technical Education
 * Cat C: National Heritage Board
