@@ -139,6 +139,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * 3 agency nominated winners via an open call for nominations; winners are selected based on a scoring matrix and evaluated by a panel
 * 3 Tech Kaki community members who have contributed the most to Tech Kaki initiatives (e.g. focus groups, events, activeness)
 * 3 CrowdTaskSG community members who have contributed the most to CrowdTaskSG’s initiatives (e.g. tasks completed, events)
+<br>
 <br>**Award Winners:**
 *	Whole-of-Government: Dr. Chiew Tuan Kiang, Nominated by IMDA
 *	Whole-of-Government: Khoo Meng Kuan, Nominated by GovTech
@@ -146,6 +147,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 *	Tech Kaki: Loh Wai Poon, Low Jun Keat, Kendra Ong
 * CrowdTaskSG: Ashby Tai, Sean Goh, Wang Weizhong
 
+* *Category A = 1-5 Informational Websites, Category B = 6-10 Informational Websites, Category C = <10 Informational Websites*
 
 
 
