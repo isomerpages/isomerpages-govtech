@@ -67,7 +67,7 @@ For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg/). 
 
 ---
 
-#### Annex A: Event Photos
+#### **Annex A: Event Photos**
 
 ![DSA 2023](/images/media-release/DSA2023_PR1.jpg)
 Senior Minister of State for Ministry of Communications and Information and Minister-in-Charge of GovTech, Dr Janil Puthucheary, graced the event as the Guest-of-Honour and presented awards to 33 winners across eight award categories.
@@ -81,11 +81,11 @@ In line with this year's theme, “Empathy at the Heart of Tech”, the third ed
 ![DSA 2023](/images/media-release/DSA2023_PR4.jpg)
 Senior Minister of State for Ministry of Communications and Information and Minister-in-Charge of GovTech, Dr Janil Puthucheary visited the exhibition booths showcasing various GovTech products that help agencies improve their digital services.
 
-#### Annex B: Award categories and list of winners
+#### **Annex B: Award categories and list of winners**
 
 *Note: This year’s “Best Search Engine Optimisation” and “Best Accessibility (Cat A)” categories see more than one winner, and one of the “Outstanding Citizen Contributor” winning entries comprises a duo; this resulted in a total of 33 awards.*
 
-#### **Award**: Best Search Engine Optimisation (SEO)
+#### Award: Best Search Engine Optimisation (SEO)
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most searchable on search engines.
@@ -94,7 +94,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Institute of Technical Education
 * Cat C: National Heritage Board
 
-#### **Award**: Best Accessibility
+#### Award: Best Accessibility
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest WOGAA Inspect accessibility scores across all their informational services, ensuring that people of all abilities can easily access public information and have the best user experience.
@@ -103,7 +103,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Singapore Police Force
 * Cat C: National Heritage Board
 
-#### **Award**: Best Customer Satisfaction Score for Transactional Services
+#### Award: Best Customer Satisfaction Score for Transactional Services
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments<sup>[5]</sup>.
@@ -112,7 +112,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Public Utilities Board
 * Cat C: National Environmental Agency
 
-#### **Award**: Best Functionality
+#### Award: Best Functionality
 
 **No. of Categories**: 3*
 <br>**Description of Award**: Recognises the agencies that achieved the best combination score of page load time, SEO and accessibility across all their informational websites.
@@ -121,13 +121,13 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Public Service Division
 * Cat C: National Heritage Board
 
-#### **Award**: Best Improvement
+#### Award: Best Improvement
 
 **No. of Categories**: 1
 <br>**Description of Award**: Acknowledges the largest improvements made by the agency with the highest overall increase of scores from the start to the end of the qualifying period.
 <br>**Award Winner:** Singapore Police Force
 
-#### **Award**: Best Usability
+#### Award: Best Usability
 
 **No. of Categories**: 4
 <br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Gov), Best Usability (Industry), Most Popular Informational Website (Gov), and Most Popular Informational Website (Industry). The process comprises qualitative and quantitative aspects and will go through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens.
@@ -137,7 +137,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Most Popular Informational Website (Gov): CPF Website
 * Most Popular Informational Website (Industry): DBS Website
 
-#### **Award**: Outstanding Citizen Contributor
+#### Award: Outstanding Citizen Contributor
 
 **No. of Categories**: 9
 <br>**Description of Award**: Comprises 3 sub-award categories that recognises citizens from WOG, TechKaki and CrowdTaskSG community:
