@@ -90,12 +90,64 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 **Award**: Best Search Engine Optimisation (SEO)
 <br>**No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect , with sites that are the most searchable on search engines.
-<br>**Award Winners**
+<br>**Award Winners:**
 * Cat A: Central Provident Fund Board, Immigration & Checkpoints Authority, Ministry of Transport, Tote Board, Yellow Ribbon Singapore
 * Cat B: Institute of Technical Education
 * Cat C: National Heritage Board
 
-  
+**Award**: Best Accessibility
+<br>**No. of Categories**: 3*
+<br>**Description of Award**: Recognises agencies with the highest WOGAA Inspect accessibility scores across all their informational services, ensuring that people of all abilities can easily access public information and have the best user experience.
+<br>**Award Winners:**
+* Cat A: Central Provident Fund Board, Ministry of Transport, Tote Board 
+* Cat B: Singapore Police Force
+* Cat C: National Heritage Board
+
+**Award**: Best Customer Satisfaction Score for Transactional Services
+<br>**No. of Categories**: 3*
+<br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments.
+<br>**Award Winners:**
+* Cat A: Majlis Ugama Islam Singapura
+* Cat B: Public Utilities Board
+* Cat C: National Environmental Agency
+
+**Award**: Best Functionality
+<br>**No. of Categories**: 3*
+<br>**Description of Award**: Recognises the agencies that achieved the best combination score of page load time, SEO and accessibility across all their informational websites.
+<br>**Award Winners:**
+* Cat A: Tote Board
+* Cat B: Public Service Division
+* Cat C: National Heritage Board
+
+**Award**: Best Improvement
+<br>**No. of Categories**: 1
+<br>**Description of Award**: Acknowledges the largest improvements made by the agency with the highest overall increase of scores from the start to the end of the qualifying period.
+<br>**Award Winner:** Singapore Police Force
+
+**Award**: Best Usability
+<br>**No. of Categories**: 4*
+<br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Gov), Best Usability (Industry), Most Popular Informational Website (Gov), and Most Popular Informational Website (Industry). The process comprises qualitative and quantitative aspects and will go through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens.
+<br>**Award Winners:**
+* Best Usability (Gov): MOE (Ministry of Education) Corporate Website 
+* Best Usability (Industry): Gardens by the Bay Website 
+* Most Popular Informational Website (Gov): CPF Website
+* Most Popular Informational Website (Industry): DBS Website
+
+**Award**: Outstanding Citizen Contributor
+<br>**No. of Categories**: 9
+<br>**Description of Award**: Comprises 3 sub-award categories that recognises citizens from WOG, TechKaki and CrowdTaskSG community:
+* 3 agency nominated winners via an open call for nominations; winners are selected based on a scoring matrix and evaluated by a panel
+* 3 Tech Kaki community members who have contributed the most to Tech Kaki initiatives (e.g. focus groups, events, activeness)
+* 3 CrowdTaskSG community members who have contributed the most to CrowdTaskSG’s initiatives (e.g. tasks completed, events)
+<br>**Award Winners:**
+*	Whole-of-Government: Dr. Chiew Tuan Kiang, Nominated by IMDA
+*	Whole-of-Government: Khoo Meng Kuan, Nominated by GovTech
+*	Whole-of-Government: Wong Yue Heng & Siddhaarth Dharani, Nominated by Nexus, MINDEF
+*	Tech Kaki: Loh Wai Poon, Low Jun Keat, Kendra Ong
+* CrowdTaskSG: Ashby Tai, Sean Goh, Wang Weizhong
+
+
+
 
 
 
