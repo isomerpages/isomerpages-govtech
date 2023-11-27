@@ -87,7 +87,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 
 *Note: This year’s “Best Search Engine Optimisation” and “Best Accessibility (Cat A)” categories see more than one winner, and one of the “Outstanding Citizen Contributor” winning entries comprises a duo; this resulted in a total of 33 awards.*
 
-**Award**: Best Search Engine Optimisation (SEO)
+#### **Award**: Best Search Engine Optimisation (SEO)
 <br>**No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most searchable on search engines.
 <br>**Award Winners:**
@@ -95,7 +95,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Institute of Technical Education
 * Cat C: National Heritage Board
 
-**Award**: Best Accessibility
+#### **Award**: Best Accessibility
 <br>**No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies with the highest WOGAA Inspect accessibility scores across all their informational services, ensuring that people of all abilities can easily access public information and have the best user experience.
 <br>**Award Winners:**
@@ -103,7 +103,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Singapore Police Force
 * Cat C: National Heritage Board
 
-**Award**: Best Customer Satisfaction Score for Transactional Services
+#### **Award**: Best Customer Satisfaction Score for Transactional Services
 <br>**No. of Categories**: 3*
 <br>**Description of Award**: Recognises agencies that exceed user expectations with the best customer satisfaction scores from WOGAA Sentiments<sup>[5]</sup>.
 <br>**Award Winners:**
@@ -111,7 +111,7 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Public Utilities Board
 * Cat C: National Environmental Agency
 
-**Award**: Best Functionality
+#### **Award**: Best Functionality
 <br>**No. of Categories**: 3*
 <br>**Description of Award**: Recognises the agencies that achieved the best combination score of page load time, SEO and accessibility across all their informational websites.
 <br>**Award Winners:**
@@ -119,12 +119,12 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Cat B: Public Service Division
 * Cat C: National Heritage Board
 
-**Award**: Best Improvement
+#### **Award**: Best Improvement
 <br>**No. of Categories**: 1
 <br>**Description of Award**: Acknowledges the largest improvements made by the agency with the highest overall increase of scores from the start to the end of the qualifying period.
 <br>**Award Winner:** Singapore Police Force
 
-**Award**: Best Usability
+#### **Award**: Best Usability
 <br>**No. of Categories**: 4*
 <br>**Description of Award**: Comprises 2 sub-award categories: Best Usability (Gov), Best Usability (Industry), Most Popular Informational Website (Gov), and Most Popular Informational Website (Industry). The process comprises qualitative and quantitative aspects and will go through pre-screening using an internal usability checklist, a panel of judges to evaluate, followed by assessment by citizens.
 <br>**Award Winners:**
@@ -133,14 +133,14 @@ Senior Minister of State for Ministry of Communications and Information and Mini
 * Most Popular Informational Website (Gov): CPF Website
 * Most Popular Informational Website (Industry): DBS Website
 
-**Award**: Outstanding Citizen Contributor
+#### **Award**: Outstanding Citizen Contributor
 <br>**No. of Categories**: 9
 <br>**Description of Award**: Comprises 3 sub-award categories that recognises citizens from WOG, TechKaki and CrowdTaskSG community:
 * 3 agency nominated winners via an open call for nominations; winners are selected based on a scoring matrix and evaluated by a panel
 * 3 Tech Kaki community members who have contributed the most to Tech Kaki initiatives (e.g. focus groups, events, activeness)
 * 3 CrowdTaskSG community members who have contributed the most to CrowdTaskSG’s initiatives (e.g. tasks completed, events)
-<br>
-<br>**Award Winners:**
+
+**Award Winners:**
 *	Whole-of-Government: Dr. Chiew Tuan Kiang, Nominated by IMDA
 *	Whole-of-Government: Khoo Meng Kuan, Nominated by GovTech
 *	Whole-of-Government: Wong Yue Heng & Siddhaarth Dharani, Nominated by Nexus, MINDEF
