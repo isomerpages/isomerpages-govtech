@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "LPA application time down from 3 weeks to 15 minutes"
-permalink: "/media/technews/lasting-power-of-attoney-application-time-down-from-3-weeks-to-15-minutes"
+title: "LPA application time shortened from 3 weeks to 15 minutes"
+permalink: "/media/technews/lasting-power-of-attoney-application-time-shortened-from-3-weeks-to-15-minutes"
 category: technews
 image: "/images/technews/dsa.jpeg"
 ---
