@@ -25,46 +25,6 @@ The Smart Nation Builder is a roving exhibition with interactive game stations f
 
 That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. *Entry is free of charge.*
 
-Catch the Smart Nation Builder at these locations!
-
-| Date | Time | Venue 
-| -------- | -------- | -------- |  
-|2 – 3 Dec | 2nd Dec (Sat): 10:00am - 6:00pm <br> 3rd Dec (Sun): 8:00am - 4:00pm | **Bukit Batok East U Square (near Block 280)** <br> Bukit Batok East Ave 3, Singapore 650280 |
-
-
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 15px;
-    color: #000;
-    opacity: 0.9;
-    padding-top: 5px;
-    padding-bottom: 8px;
-  "
->
-  If the form below is not loaded, you can also fill it in at
-  <a href="https://form.gov.sg/64eff051a7cdc800126733f7">here</a>.
-</div>
-
-<!-- Change the width and height values to suit you best -->
-<iframe
-  id="iframe"
-  src="https://form.gov.sg/64eff051a7cdc800126733f7"
-  style="width: 100%; height: 500px"
-></iframe>
-
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 12px;
-    color: #999;
-    opacity: 0.5;
-    padding-top: 5px;
-  "
->
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
-</div>
-
 ### **Smart Nation CityScape**
 
 ![Smart Nation CityScape](/images/programmes/products-and-services/Cityscape1.jpg)
