@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle: 
-hero-banner: /images/SNB-banner2-nov23.png
+hero-banner: /images/tech-for-good.jpg
 
 #Call to Action Button
 button:
   - text: Find Out More
-    url: https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder
+    url: /products-and-services/
     
 # Key Highlights
 key-highlights:
