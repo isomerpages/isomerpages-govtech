@@ -20,7 +20,7 @@ hero-banner: /images/TN_TK_Homepage.jpg
 
 #Call to Action Button
 button:
-  - text: Tech Kaki Community
+  - text: Join Tech Kaki
     url: /products-and-services/tech-kaki-community/
     
 # Key Highlights
