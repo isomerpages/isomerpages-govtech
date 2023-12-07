@@ -14,14 +14,14 @@ agency-logo: /images/logo_govtech_hort.gif
 google-analytics: UA-82296306-1
 
 # Hero Banner
-hero-title: 
+hero-title: Co-Create With Us
 hero-subtitle: 
-hero-banner: /images/tech-for-good.jpg
+hero-banner: /images/TN_TK_Homepage.jpg
 
 #Call to Action Button
 button:
-  - text: Find Out More
-    url: /products-and-services/
+  - text: Tech Kaki Community
+    url: /products-and-services/tech-kaki-community/
     
 # Key Highlights
 key-highlights:
