@@ -53,7 +53,7 @@ This gives banks precious time to investigate possible fraudulent transactions a
 ### Keep calm and carry on
 Ultimately, scams prey on a basic emotion – fear. Whether it’s the fear of missing out on a good deal or the fear that you won’t receive your shopping, scammers want to keep you in a heightened state of anxiety. 
 
-So if you feel a welling up of emotion while online shopping, take a step back and ask yourself: Is there anything strange about the situation? Am I being made to feel a false sense of urgency so that I throw caution to the wind? Am I letting my guard down because I just have to grab that awesome deal? Remember, anyone can be a [scam victim](https://www.tech.gov.sg/media/technews/anyone-can-become-a-scam-victim), even the internet savvy.
+So if you feel a welling up of emotion while online shopping, take a step back and ask yourself: Is there anything strange about the situation? Am I being made to feel a false sense of urgency so that I throw caution to the wind? Am I letting my guard down because I just have to grab that awesome deal? Remember, [anyone can be a scam victim](https://www.tech.gov.sg/media/technews/anyone-can-become-a-scam-victim), even the internet savvy.
 
 If you sense any of these feelings, keep calm and remind yourself – there are so many online sales nowadays that even if you miss out on this one, the next one’s just around the corner. Happy shopping!
 
