@@ -47,21 +47,6 @@ Location: 45 Maxwell Road, The URA Centre, Singapore 069118.
 Opening Hours: Monday to Saturday, 9 am to 5 pm. 
 
 
-### Explore the new and improved Smart Nation Builder 
-Housed within a 12-metre-long truck, the Smart Nation Builder is a roving exhibition by GovTech that provides an immersive and engaging learning experience for visitors of all ages. 
-
-At the "Explore and Learn" station, children can discover Smart Nation initiatives in three key areas: Community Services, Healthcare, and Education. They'll get to explore how technology is improving these sectors, fostering a deeper understanding of how digital advancements positively impact their everyday lives.
-
-The "Kids Wall" station, as you probably guessed, is a must-visit for young children. It features an interactive collaborative game where kids can engage in various tasks, such as building and maintaining a truck. Kids can also experiment with prototypes of upcoming digital government initiatives and products at the “Trying It Out” station. 
-
-Want to capture some memories as a keepsake? 
-
-Check on the on-site photo booth to get a family photo printed for free! Additionally, points earned from completing different stations can be used to play the claw machine, offering a chance to win Smart Nation collectables. 
-
-PS: Did we say there are also candy floss and popcorn machines? 
-
-Location: Find out where and when the Smart Nation Builder will be [here.](https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder)
-
 
 ### Learn how to code – for free! 
 

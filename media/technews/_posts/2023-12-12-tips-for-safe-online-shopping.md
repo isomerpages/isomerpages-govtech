@@ -3,10 +3,10 @@ layout: post
 title: "Tips for safe online shopping"
 permalink: "/media/technews/tips-for-safe-online-shopping"
 category: technews
-image: "/images/technews/shopping-frenzy.jpeg"
+image: "/images/technews/shopping-frenzy2.jpeg"
 ---
 
-![tips-for-safe-online-shopping](/images/technews/shopping-frenzy.jpeg)
+![tips-for-safe-online-shopping](/images/technews/shopping-frenzy2.jpeg)
 
 There are just so many reasons to shop till you drop in the final months of the year. Massive sales are held by retailers. You have to stock up on presents for holiday gift exchanges. And surely you deserve a little reward – handily paid for by the year-end bonus – for making it through another 12 months.
 
