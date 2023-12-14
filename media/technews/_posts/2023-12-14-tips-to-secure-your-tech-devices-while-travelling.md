@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Techy tips for secure travelling"
+title: "Tips to secure your tech devices while travelling "
 permalink: "/media/technews/tips-to-secure-your-tech-devices-while-travelling"
 category: technews
 image: "/images/technews/travel-tips.jpeg"
