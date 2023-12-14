@@ -9,6 +9,7 @@ image: "/images/technews/travel-tips.jpeg"
 ![techy travel tips](/images/technews/travel-tips.jpeg)
 
 It’s the year end travel season again! Besides packing winter clothes, foreign currency, and toiletries, our tech devices like smartphones and tablets are increasingly must-haves while on the road. 
+
 Yes, there are any number of situations where they come in handy, be it as entertainment during long commutes, finding our way in unfamiliar cities, or simply keeping in touch with loved ones back home. 
 But using our devices overseas also means they are more exposed to certain dangers. Read on to find out more about how to safeguard your digital security while traveling.
 
