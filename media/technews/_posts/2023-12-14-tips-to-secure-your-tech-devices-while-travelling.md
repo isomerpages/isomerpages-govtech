@@ -10,13 +10,12 @@ image: "/images/technews/travel-tips.jpeg"
 
 It’s the year end travel season again! Besides packing winter clothes, foreign currency, and toiletries, our tech devices like smartphones and tablets are increasingly must-haves while on the road. 
 
-Yes, there are any number of situations where they come in handy, be it as entertainment during long commutes, finding our way in unfamiliar cities, or simply keeping in touch with loved ones back home. 
-But using our devices overseas also means they are more exposed to certain dangers. Read on to find out more about how to safeguard your digital security while traveling.
+Yes, our devices bring us the convenience of navigation in unfamiliar cities, connection with loved ones back home and even as entertainment during long commutes. But using our devices overseas also means they are more exposed to certain dangers. Read on to find out more about how to safeguard your digital security while travelling.
 
 ### Steer clear of public wifi
 It’s really common for public spaces to offer free wifi nowadays, be it as cafes, airports, or even on public transport. 
 
-We don’t think much of it when in Singapore (indeed, we might even turn off wifi when we inadvertently connect to these networks because they are usually slower than our speedy data connections). But they can feel like an oasis of connectivity overseas, especially when we’re traveling without a data roaming plan. 
+We don’t think much of it when in Singapore (indeed, we might even turn off wifi when we inadvertently connect to these networks because they are usually slower than our speedy data connections). But they can feel like an oasis of connectivity overseas, especially when we’re travelling without a data roaming plan. 
 
 Still, these oases can turn out to be dangerous mirages as wifi networks can be [exploited to access our devices.](https://www.tech.gov.sg/images/technews/can-an-app-exploit-my-wifi) A bad actor connected to the same network that our device is on can even gain control of that device and steal our personal data. 
 
@@ -27,7 +26,7 @@ You should also use VPN for an added layer of protection from unauthorised acces
 ### Update your devices and passwords 
 Before leaving home, it’s best to update all our devices so they have the latest security patches. This is especially important because we’re more likely to want to save on data charges and therefore less likely to update our devices while overseas. 
 
-It’s also a good idea to update our passwords (or better yet, [passphrases](https://www.tech.gov.sg/media/technews/why-passphases-are-much-more-secure-than-passwords) for all our credentials. This ensures that even if our login information has been exposed due to a data leak, that information is now useless because we’ve changed the credentials. The last thing we want is to waste precious overseas time dealing with an account hack. 
+It’s also a good idea to update our passwords (or better yet, [passphrases](https://www.tech.gov.sg/media/technews/why-passphases-are-much-more-secure-than-passwords)) for all our credentials. This ensures that even if our login information has been exposed due to a data leak, that information is now useless because we’ve changed the credentials. The last thing we want is to waste precious overseas time dealing with an account hack. 
 
 *(Editor's Note: I have actually had to deal with this once while on holiday. One of my email accounts got compromised and it was no fun trying to secure the account on a spotty overseas internet connection.)*
 
