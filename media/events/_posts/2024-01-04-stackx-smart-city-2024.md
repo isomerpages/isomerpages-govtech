@@ -5,6 +5,8 @@ permalink: "/media/events/stackx-smart-city-2024"
 category: events
 ---
 
+[![GovTech STACKx Smart City Conference 2024](/images/media/events/stackx-smart-city-2024.jpg)](https://go.gov.sg/stackx-smart-city-gtwebsite){:target="_blank"}
+
 STACKx Smart City will be a one-day, in-person event, held at Suntec Convention Centre on **Wednesday, 27 March 2024**. At STACKx Smart City, you'll hear from experts on the latest technology trends that will shape today’s Smart City. 
 
 This is an excellent opportunity for government leaders, tech professionals, and industry practitioners to come together and learn more about the possibilities that Smart City technologies can bring. You will also get to network with like-minded Smart City professionals. 
