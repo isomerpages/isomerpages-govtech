@@ -60,8 +60,6 @@ It can be quite a hassle to practise these tips while travelling and it no doubt
 
 So it’s better to be safe than sorry so that we can enjoy a trip free from anxiety about our digital security. Safe travels!
 
----
-
 ### More Stories
 
 <table>
@@ -97,8 +95,6 @@ So it’s better to be safe than sorry so that we can enjoy a trip free from anx
     </tr>	
 	</tbody></table>
 
-
----
 <br>
 
 <div class="row">
