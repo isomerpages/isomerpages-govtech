@@ -85,12 +85,16 @@ senior-leadership:
     organisation: Services, Governance and Cybersecurity
     image-url: /images/our-team/Henry_Chang2.jpg
   - name: Mr Dominic CHAN
-    title: Assistant Chief Executive / Senior Director (NDI)
-    organisation: Product Management, National Digital Identity (NDI)
-    image-url: /images/our-team/dominic-chan.jpg        
+    title: Chief Information Officer / Assistant Chief Executive
+    organisation: Product Management
+    image-url: /images/our-team/dominic-chan.jpg
+  - name: Mr TAN Bee Teck
+    title: Assistant Chief Executive
+    organisation: Central Administration and Social Clusters, Education Cluster (Senior Director)
+    image-url: /images/our-team/Tan-Bee-Teck.jpg    
   - name: Mr TAN Eng Pheng
     title: Assistant Chief Executive
-    organisation: Services
+    organisation: Economic and National Development Clusters, Services HQ
     image-url: /images/our-team/tan-eng-pheng.jpg
   - name: Mr Bernard TOH
     title: Assistant Chief Executive
@@ -114,16 +118,12 @@ senior-leadership:
     image-url: /images/our-team/D-N-Prasad5.jpg
   - name: Mr Jason SEE
     title: Senior Director
-    organisation: Data Science and Artificial Intelligence
+    organisation: Data Science and Artificial Intelligence, Education Cluster (Senior Director-Designate)
     image-url: /images/our-team/jason-see.jpg
   - name: Mr SING Khang Leng
     title: Senior Director
     organisation: Manpower Cluster
     image-url: /images/our-team/SINGKHIANGLENG.jpg    
-  - name: Mr TAN Bee Teck
-    title: Senior Director
-    organisation: Education Cluster and Standard Products
-    image-url: /images/our-team/Tan-Bee-Teck.jpg
   - name: Mr Richard TAY
     title: Senior Director
     organisation: Government Infrastructure Group
