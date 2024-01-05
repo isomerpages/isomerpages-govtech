@@ -60,41 +60,6 @@ It can be quite a hassle to practise these tips while travelling and it no doubt
 
 So it’s better to be safe than sorry so that we can enjoy a trip free from anxiety about our digital security. Safe travels!
 
-### More Stories
-
-<table>
-<tbody><tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/technews/shopping-frenzy2.jpeg">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Tips for safe online shopping</b>
-            <br>
-	    <br><br><a href="https://www.tech.gov.sg/media/technews/tips-for-safe-online-shopping" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/technews/holiday-activities.jpeg">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Nation activities to keep your child busy this school holidays</b>
-            <br>
-	    <br><br><a href="https://www.tech.gov.sg/media/technews/smart-nation-activities-this-school-holidays" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-     <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/technews/team-lpa.jpeg">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>LPA application time shortened from 3 weeks to 15 minutes</b>
-            <br>
-	    <br><br><a href="https://www.tech.gov.sg/media/technews/lasting-power-of-attoney-application-time-shortened-from-3-weeks-to-15-minutes" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>	
-	</tbody></table>
-
 <br>
 
 <div class="row">
