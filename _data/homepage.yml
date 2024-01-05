@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: Co-Create With Us
 hero-subtitle: 
-hero-banner: /images/TN_TK_Homepage2.jpg
+hero-banner: /images/stackx-smart-city-homepage.jpg
 
 #Call to Action Button
 button:
-  - text: Join Tech Kaki
-    url: /products-and-services/tech-kaki-community/
+  - text: Register Now
+    url: https://go.gov.sg/stackx-smart-city-gtwebsite
     
 # Key Highlights
 key-highlights:
