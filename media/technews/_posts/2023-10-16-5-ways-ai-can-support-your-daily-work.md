@@ -38,7 +38,7 @@ You can then input this transcript into an AI chatbot like ChatGPT and prompt it
 
 Be sure to read the summary thoroughly to ensure that the key points are captured accurately as chatbots have a tendency to [“hallucinate”](https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html) and make up false information. 
 
-GovTech also has its own transcribtion product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
+GovTech also has its own transcription product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
  
 ## Quick sketch tool to convey a scenario
 Many of us use images in presentations, pitches, and general communication to convey what we want to say. 
