@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting Primary 1: Tech tools for a smooth first day "
+title: "Digital Tools for Parents "
 permalink: "/media/technews/starting-primary-one-tools-for-a-smooth-first-day"
 category: technews
 recommender: true
