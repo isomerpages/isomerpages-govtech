@@ -38,7 +38,7 @@ You can then input this transcript into an AI chatbot like ChatGPT and prompt it
 
 Be sure to read the summary thoroughly to ensure that the key points are captured accurately as chatbots have a tendency to [“hallucinate”](https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html) and make up false information. 
 
-GovTech also has its own transcribtion product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
+GovTech also has its own transcription product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
  
 ## Quick sketch tool to convey a scenario
 Many of us use images in presentations, pitches, and general communication to convey what we want to say. 
@@ -73,7 +73,7 @@ As you can see, there is great potential in speeding up and improving the qualit
 
 So don’t completely rely and trust these tools. Instead, use them as you would a diligent assistant who’s not an expert in your field – it tirelessly produces what you ask it to do, but you’re still the professional with the discerning eye to sort the wheat from the chaff. 
 
-That way, you automate the boring stuff, saving you time and energy to work on the finer details and exercise judgement on quality. But before you go forth multiply youe productivtiy in AI wonderland, make sure you check out [this article](https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong), where we identified the potential pitfalls of using AI at work. 
+That way, you automate the boring stuff, saving you time and energy to work on the finer details and exercise judgement on quality. But before you go forth multiply your productivtiy in AI wonderland, make sure you check out [this article](https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong), where we identified the potential pitfalls of using AI at work. 
 
 ---
 <br>
