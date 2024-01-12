@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How GovTech uses AI to enhance digital public services"
-permalink: "/media/technews/how-govtech-uses-ai-to-enhance-digital-public-service.md"
+permalink: "/media/technews/how-govtech-uses-ai-to-enhance-digital-public-service"
 category: technews
 recommender: true
 image: "images/technews/enhance-public-service-ai.jpeg"
