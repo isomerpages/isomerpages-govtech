@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5 ways AI can support your day to day work"
-permalink: "/media/technews/5-ways-ai-can-support-your-daily-work"
+title: "5 ways AI tools can support your day to day work"
+permalink: "/media/technews/5-ways-ai-tools-can-support-your-daily-work"
 category: technews
 image: "/images/technews/ai-support-at-work.jpeg"
 ---
@@ -9,17 +9,17 @@ image: "/images/technews/ai-support-at-work.jpeg"
 ![Virtual Doctor](/images/technews/ai-support-at-work.jpeg)
 
 
-Generative AI has taken the world by storm in the past year: Nowadays, getting a 1,000 word essay on the history of different types of pasta or a picture of a cat dressed as a samurai is as easy as typing a prompt into ChatGPT or DALL-E. 
+Generative AI tools have taken the world by storm in the past year: Nowadays, getting a 1,000-word essay on the history of different types of pasta or a picture of a cat dressed as a samurai is as easy as typing a prompt into ChatGPT or DALL-E. 
 
-While the debate rages on about whether AI will lead to mass unemployment, another phenomenon may take root much earlier: a person who can effectively use AI in his or her daily work will easily outperform someone who can’t. 
+While the debate rages on about whether AI will lead to mass unemployment, another phenomenon may take root much earlier: a person who can effectively use AI tools in his or her daily work will easily outperform someone who can’t. 
 
-So while it may be fun to use AI to generate pictures of cats dressed as samurais or an essay on the history of different types of pasta, why not learn how to use tools like ChatGPT or DALL-E to automate some tasks that – without generative AI – would have taken hours or at least some special skills to do? 
+So while it may be fun to use AI tools to generate pictures of cats dressed as samurais or an essay on the history of different types of pasta, why not learn how to use tools like ChatGPT or DALL-E to automate some tasks that – without generative AI – would have taken hours or at least some special skills to do? 
 
 
-## Create slides for your meeting 
+## Create slides with AI tools like Gamma
 Few companies have gone the way of Amazon to [ban PowerPoint](https://www.forbes.com/sites/quora/2018/08/22/jeff-bezos-banned-powerpoint-presentations-at-amazon-meetings-heres-what-replaced-them/?sh=75a3fe063b5f), so slides are still very much a reality of work meetings. 
 
-If you dread creating slide decks for town halls, weekly syncs, client pitches, and all other forms of presentations, tools like [Gamma](https://gamma.app) can come to your rescue. 
+If you dread creating slide decks for town halls, weekly syncs, client pitches, and all other forms of presentations, AI tools like [Gamma](https://gamma.app) can come to your rescue. 
 
 With a free account, you can generate a presentation that includes a coherent colour scheme, images, and charts. All you need to do is enter a prompt such as:
 
@@ -28,7 +28,7 @@ With a free account, you can generate a presentation that includes a coherent co
 Once the deck is generated, you will need to edit the text and add photos that are relevant to your company. Still, you now have a framework to work on instead of starting from scratch. 
 
 ## Taking meeting minutes
-Still on the theme of meetings (because they’re such a big part of work life) – another unavoidable aspect that can be automated is the meeting summary or meeting minutes. 
+Still on the theme of meetings (because they’re such a big part of work-life) – another unavoidable aspect that can be automated is the meeting summary or meeting minutes. 
 
 Since we’re in 2023, the meeting likely had a video conference aspect, with at least some participants dialling in. And the video conference tool you used was likely an enterprise version of the tool, meaning AI-recorded meeting transcripts are probably available. 
 
@@ -40,16 +40,16 @@ Be sure to read the summary thoroughly to ensure that the key points are capture
 
 GovTech also has its own transcription product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
  
-## Quick sketch tool to convey a scenario
+## Quick scenario sketching with AI tools like DALL-E
 Many of us use images in presentations, pitches, and general communication to convey what we want to say. 
 
 However, finding the right image is not easy and few of us have the talent to draw, paint or otherwise create the picture with our own hands. 
 
-Well, tools like [DALL-E](https://www.bing.com/create) are making a passable artist out of everyone. Simply describe the picture as you see it in your mind, and AI will generate something along the lines of what you typed. You can even specify the art style (pixel art, manga, thin pencil, water colours) to get a result that’s closer to what you imagined. 
+Well, AI tools like [DALL-E](https://www.bing.com/create) are making a passable artist out of everyone. Simply describe the picture as you see it in your mind, and AI will generate something along the lines of what you typed. You can even specify the art style (pixel art, manga, thin pencil, watercolours) to get a result that’s closer to what you imagined. 
 
-If you’re in advertising and suddenly had a brilliant idea for a video ad. You could describe it to your boss, or you could get DALL-E to sketch a series of storyboards that convey the overall plot of your video, after all, a picture paints a thousand words!
+If you’re in advertising and suddenly have a brilliant idea for a video ad. You could describe it to your boss, or you could get DALL-E to sketch a series of storyboards that convey the overall plot of your video, after all, a picture paints a thousand words!
 
-## Write and debug code
+## Write and debug code with chatbots
 Chatbots are also good at writing and debugging computer code, so anyone – from programming veterans to novices – can benefit from using chatbots to speed up their work. 
 
 If you’re an intern tasked with extracting all the names and email addresses from a PDF that’s not handily formatted for easy copy and pasting, ChatGPT can probably write a Python script that can carry out the task for you. 
@@ -59,7 +59,7 @@ Or maybe you’re a data analyst who’s seeing stars because the data you need 
 Even if the solutions don’t work perfectly, they often point you in the right direction and give you a good sense of how to tackle the problem. 
 
 
-## A devil’s advocate
+## Chatbots as Devil’s advocates
 It’s always useful to have a colleague to bounce your ideas off. But if you’re not ready to discuss your work with others just yet, a chatbot could play that role too. 
 
 Say you’ve written a report on the state of AI today and the possible uses at your company. Now you’re asking yourself if you’ve covered all the major developments in the field, if you’ve missed any perspectives, or if there are any flaws in your arguments. 
@@ -69,11 +69,11 @@ Well, why not ask the chatbot instead? Plonk your report in (after redacting con
 Public and civil servants should also try out [Pair](https://www.straitstimes.com/singapore/4000-civil-servants-using-government-pair-chatbot-for-writing-coding) for their work!
 
 ## Harness the potential, but with care
-As you can see, there is great potential in speeding up and improving the quality of your work with AI tools. But a running theme throughout the different possible uses is that careful attention must be paid to double check the work of AI, as the technology is still prone to making stuff up and you don’t want to end up known as the [ChatGPT lawyer.](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html) 
+As you can see, there is great potential in speeding up and improving the quality of your work with AI tools. But a running theme throughout the different possible uses is that careful attention must be paid to double-check the work of AI tools, as the technology is still prone to making stuff up and you don’t want to end up known as the [ChatGPT lawyer.](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html) 
 
-So don’t completely rely and trust these tools. Instead, use them as you would a diligent assistant who’s not an expert in your field – it tirelessly produces what you ask it to do, but you’re still the professional with the discerning eye to sort the wheat from the chaff. 
+So don’t completely rely on and trust these AI tools. Instead, use them as you would a diligent assistant who’s not an expert in your field – they tirelessly produce what you ask them to do, but you’re still the professional with the discerning eye to sort the wheat from the chaff. 
 
-That way, you automate the boring stuff, saving you time and energy to work on the finer details and exercise judgement on quality. But before you go forth multiply your productivtiy in AI wonderland, make sure you check out [this article](https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong), where we identified the potential pitfalls of using AI at work. 
+That way, you automate the boring stuff, saving you time and energy to work on the finer details and exercise judgement on quality. But before you go forth to multiply your productivtiy in AI wonderland, make sure you check out [our other article on AI](https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong), where we identified the potential pitfalls of using AI tools at work. 
 
 ---
 <br>
