@@ -16,7 +16,7 @@ While the debate rages on about whether AI will lead to mass unemployment, anoth
 So while it may be fun to use AI tools to generate pictures of cats dressed as samurais or an essay on the history of different types of pasta, why not learn how to use tools like ChatGPT or DALL-E to automate some tasks that – without generative AI – would have taken hours or at least some special skills to do? 
 
 
-## Create slides with AI tools like Gamma
+## 1) Create slides with AI tools like Gamma
 Few companies have gone the way of Amazon to [ban PowerPoint](https://www.forbes.com/sites/quora/2018/08/22/jeff-bezos-banned-powerpoint-presentations-at-amazon-meetings-heres-what-replaced-them/?sh=75a3fe063b5f), so slides are still very much a reality of work meetings. 
 
 If you dread creating slide decks for town halls, weekly syncs, client pitches, and all other forms of presentations, AI tools like [Gamma](https://gamma.app) can come to your rescue. 
@@ -27,7 +27,7 @@ With a free account, you can generate a presentation that includes a coherent co
 
 Once the deck is generated, you will need to edit the text and add photos that are relevant to your company. Still, you now have a framework to work on instead of starting from scratch. 
 
-## Taking meeting minutes
+## 2) Taking meeting minutes
 Still on the theme of meetings (because they’re such a big part of work-life) – another unavoidable aspect that can be automated is the meeting summary or meeting minutes. 
 
 Since we’re in 2023, the meeting likely had a video conference aspect, with at least some participants dialling in. And the video conference tool you used was likely an enterprise version of the tool, meaning AI-recorded meeting transcripts are probably available. 
@@ -40,7 +40,7 @@ Be sure to read the summary thoroughly to ensure that the key points are capture
 
 GovTech also has its own transcription product, check it out [here.](https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html) 
  
-## Quick scenario sketching with AI tools like DALL-E
+## 3) Quick scenario sketching with AI tools like DALL-E
 Many of us use images in presentations, pitches, and general communication to convey what we want to say. 
 
 However, finding the right image is not easy and few of us have the talent to draw, paint or otherwise create the picture with our own hands. 
@@ -49,7 +49,7 @@ Well, AI tools like [DALL-E](https://www.bing.com/create) are making a passable 
 
 If you’re in advertising and suddenly have a brilliant idea for a video ad. You could describe it to your boss, or you could get DALL-E to sketch a series of storyboards that convey the overall plot of your video, after all, a picture paints a thousand words!
 
-## Write and debug code with chatbots
+## 4) Write and debug code with chatbots
 Chatbots are also good at writing and debugging computer code, so anyone – from programming veterans to novices – can benefit from using chatbots to speed up their work. 
 
 If you’re an intern tasked with extracting all the names and email addresses from a PDF that’s not handily formatted for easy copy and pasting, ChatGPT can probably write a Python script that can carry out the task for you. 
@@ -59,7 +59,7 @@ Or maybe you’re a data analyst who’s seeing stars because the data you need 
 Even if the solutions don’t work perfectly, they often point you in the right direction and give you a good sense of how to tackle the problem. 
 
 
-## Chatbots as Devil’s advocates
+## 5) Chatbots as Devil’s advocates
 It’s always useful to have a colleague to bounce your ideas off. But if you’re not ready to discuss your work with others just yet, a chatbot could play that role too. 
 
 Say you’ve written a report on the state of AI today and the possible uses at your company. Now you’re asking yourself if you’ve covered all the major developments in the field, if you’ve missed any perspectives, or if there are any flaws in your arguments. 
