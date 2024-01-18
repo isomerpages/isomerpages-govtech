@@ -64,14 +64,14 @@ The Government remains committed to ensuring that residents have access to affor
 
 **Janelle Li (Ms)**
 <br>Executive Communications & Engagement Manager
-<br>Janelle_CS_Li@hdb.gov.sg
+<br><Janelle_CS_Li@hdb.gov.sg>
 <br>9724 4577
 
 **Government Technology Agency**
 
 **Lee Zhengyi (Ms)**
 <br>Manager, Communications & Marketing Group
-<br>LEE_Zhengyi@tech.gov.sg 
+<br><LEE_Zhengyi@tech.gov.sg>
 <br>8282 9393 
 
 ---
