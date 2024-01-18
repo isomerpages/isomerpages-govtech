@@ -16,13 +16,13 @@ But if you think that being digital natives means being too savvy to fall victim
 So it’s time to shake off your complacency, young adults, and learn about the common scams out there. Arm yourself with knowledge so that you don’t end up losing your hard earned money!
 
 **Types of Scams:**
-1. [Phishing scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#phishing-scams)
-2. [Job scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#job-scams)
-3. [E-commerce scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#e-commerce-scams)
-4. [Investment scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#investment-scams)
-5. [Fake friend call scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#fake-friend-call-scams)
+1. [Phishing scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#1-phishing-scams)
+2. [Job scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#2-job-scams)
+3. [E-commerce scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#3-e-commerce-scams)
+4. [Investment scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#4-investment-scams)
+5. [Fake friend call scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#5-fake-friend-call-scams)
 
-## Phishing scams
+## 1. Phishing scams
 **How it works**
 Phishing scams try to trick you into revealing your personal information like your login credentials or credit card details.
 
@@ -46,7 +46,7 @@ A total of 790 OCBC customers fell victim to the scam, losing $13.7 million alto
 - As mentioned above, phishing scams exploit fear – whether it’s fear of missing out on a great opportunity or fear of losing something precious. Take a moment to breathe and check if the entity contacting you is really who they say they are. For example, legitimate bank customer service agents will gladly oblige your efforts to verify their identity, and won’t dissuade you from hanging up to call the bank back so you know you’re really talking to bank representatives. 
 - Refer to the government’s [list of trusted sites](https://www.gov.sg/trusted-sites) when logging in to access government services. 
 
-## Job scams
+## 2. Job scams
 **How it works** 
 Scammers reach out to would-be victims on popular messaging apps such as Telegram and WhatsApp, offering simple work that can be done from home for easy money. 
 
@@ -72,7 +72,7 @@ In the end, the victims end up shelling out money but not receiving the promised
 - If potential employers require payment before you can start work, run for the hills! 
 - Some scammers will even add victims to group chats, claiming that the other members are working on the same tasks. The group members encourage each other to carry out the tasks and post screenshots showing the commission they receive. These group members may very well be in on the scam and are trying to lull victims into a false sense of security. 
 
-## E-commerce scams
+## 3. E-commerce scams
 
 **How it works** 
 
@@ -99,7 +99,7 @@ The next morning, he discovered that his CPF savings had been transferred to his
 - If you suspect there’s malware on your device, turn on [flight mode immediately](https://www.csa.gov.sg/alerts-advisories/Advisories/2021/ad-2021-008#:~:text=If%20you%20suspect%20that%20your,the%20device%2C%20uninstall%20them%20immediately.) to disable any malicious connections. Perform an anti-virus/anti-malware scan. Do a factory reset to be sure. 
 - Unfortunately, Android phones are more susceptible to malware attacks due to the open nature of the Android platform. Android phones can also download apps from sources other than the official Google Play Store. Still, it does not mean that iPhone users are immune from malware. All smart device users should still be vigilant about strange, unfamiliar apps appearing on their devices. 
 
-## Investment Scams
+## 4. Investment scams
 
 **How it works**
 
@@ -125,7 +125,7 @@ After she transferred the money, the scammers became uncontactable.
 - Don’t be taken in by initial positive gains, especially if these are paper gains. 
 - As with all investments, do your due diligence. Legitimate investment opportunities are usually well publicised in reputable media outlets or official sources. 
 
-## Fake friend call scams 
+## 5. Fake friend call scams 
 **How it works** 
 Getting a call from a friend you haven’t heard from in a while is always nice, provided that friend is indeed your friend. Scammers are calling unsuspecting victims, claiming to be their friend and asking questions like “can you guess who I am?” and “you can’t remember me?”. 
 
