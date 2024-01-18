@@ -33,7 +33,7 @@ All Singapore Citizens and Permanent Residents aged 18 and above with a Singpass
 
 [BudgetMealGoWhere](https://www.go.gov.sg/budgetmeal) contains a listing of coffee shops and the available budget meal options, starting with locations nearest to the postal code or address entered by the user. Launched on 19 May 2023, the BudgetMealGoWhere website has had more than 300,000 unique visitors since its launch. The public can identify budget meals at the participating stalls by looking out for the budget meal decal sticker on the food display signage. 
 
-<img src="images/media-release/budget-meal-decal.png" width="250" height="250" alt="Budget meal decal provided at HDB coffee shops">
+<img src="images/media-release/budget-meal-decal.png" width="150" height="150" alt="Budget meal decal provided at HDB coffee shops">
 *Customers can look out for this budget meal decal provided at HDB coffee shops.*
 
 BudgetMealGoWhere started with a list of about 40 HDB rental coffee shops let out via Price-Quality Method (PQM) tenders<sup>[3]</sup>, where tenderers were required to include budget meals as part of their tender bids. Since May 2023, all HDB rental coffee shops will have to offer budget meal options upon their tenancy renewal. As of 15 Jan 2024, there are over 250 coffee shops (including those owned by HDB and private owners) listed on BudgetMealGoWhere. By 2026, budget meals will be offered at all 374 HDB rental coffee shops<sup>[4]</sup>.
@@ -50,7 +50,7 @@ The Government remains committed to ensuring that residents have access to affor
 <br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the homescreen.
 <br><sup>[3]</sup> Since 2018, new HDB coffee shops have been let out via Price-Quality Method (PQM) tenders. This approach allows HDB to better meet the needs of residents while ensuring rents remain sustainable for operators, as PQM tenders are reviewed holistically based on a range of criteria, and not just based on price alone.
 <br><sup>[4]</sup> Since 1998, HDB no longer sells coffee shops, and only rents them out. There is a total of 776 coffeeshops in Singapore, of which 374 are rented out by HDB to private operators and 402 are privately-owned.
-<sup>[5]</sup> 2 new coffee shops in Clementi and 1 each in Punggol, Bukit Batok and Woodlands.
+<br><sup>[5]</sup> 2 new coffee shops in Clementi and 1 each in Punggol, Bukit Batok and Woodlands.
 
 ---
 
@@ -85,8 +85,7 @@ The Housing & Development Board (HDB) is Singapore’s public housing authority.
 
 Today, more than 1 million flats have been completed in 24 towns and 3 estates across Singapore. HDB flats are home to about 80% of Singapore’s resident population, of which about 90% own their home. 
 
-For more information, please visit ![](https://www.hdb.gov.sg).
-
+For more information, please visit https://www.hdb.gov.sg.
 
 **About Government Technology Agency**
 
