@@ -46,7 +46,7 @@ The Government remains committed to ensuring that residents have access to affor
 
 ---
 
-<br><sup>[1]</sup> [CrowdTaskSG](www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
+<br><sup>[1]</sup> [CrowdTaskSG](https://www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
 <br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the homescreen.
 <br><sup>[3]</sup> Since 2018, new HDB coffee shops have been let out via Price-Quality Method (PQM) tenders. This approach allows HDB to better meet the needs of residents while ensuring rents remain sustainable for operators, as PQM tenders are reviewed holistically based on a range of criteria, and not just based on price alone.
 <br><sup>[4]</sup> Since 1998, HDB no longer sells coffee shops, and only rents them out. There is a total of 776 coffeeshops in Singapore, of which 374 are rented out by HDB to private operators and 402 are privately-owned.
