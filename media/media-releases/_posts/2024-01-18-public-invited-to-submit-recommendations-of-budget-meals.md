@@ -33,7 +33,7 @@ All Singapore Citizens and Permanent Residents aged 18 and above with a Singpass
 
 [BudgetMealGoWhere](https://www.go.gov.sg/budgetmeal) contains a listing of coffee shops and the available budget meal options, starting with locations nearest to the postal code or address entered by the user. Launched on 19 May 2023, the BudgetMealGoWhere website has had more than 300,000 unique visitors since its launch. The public can identify budget meals at the participating stalls by looking out for the budget meal decal sticker on the food display signage. 
 
-<img src="images/media-release/budget-meal-decal.png" width="150" height="150" alt="Budget meal decal provided at HDB coffee shops">
+![Budget meal decal provided at HDB coffee shops](images/media-release/budget-meal-decal-smaller.png)
 *Customers can look out for this budget meal decal provided at HDB coffee shops.*
 
 BudgetMealGoWhere started with a list of about 40 HDB rental coffee shops let out via Price-Quality Method (PQM) tenders<sup>[3]</sup>, where tenderers were required to include budget meals as part of their tender bids. Since May 2023, all HDB rental coffee shops will have to offer budget meal options upon their tenancy renewal. As of 15 Jan 2024, there are over 250 coffee shops (including those owned by HDB and private owners) listed on BudgetMealGoWhere. By 2026, budget meals will be offered at all 374 HDB rental coffee shops<sup>[4]</sup>.
