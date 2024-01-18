@@ -47,13 +47,9 @@ The Government remains committed to ensuring that residents have access to affor
 ---
 
 <br><sup>[1]</sup> [CrowdTaskSG](www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
-
 <br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the homescreen.
-
 <br><sup>[3]</sup> Since 2018, new HDB coffee shops have been let out via Price-Quality Method (PQM) tenders. This approach allows HDB to better meet the needs of residents while ensuring rents remain sustainable for operators, as PQM tenders are reviewed holistically based on a range of criteria, and not just based on price alone.
-
 <br><sup>[4]</sup> Since 1998, HDB no longer sells coffee shops, and only rents them out. There is a total of 776 coffeeshops in Singapore, of which 374 are rented out by HDB to private operators and 402 are privately-owned.
-
 <sup>[5]</sup> 2 new coffee shops in Clementi and 1 each in Punggol, Bukit Batok and Woodlands.
 
 ---
@@ -67,16 +63,16 @@ The Government remains committed to ensuring that residents have access to affor
 **Housing & Development Board**
 
 **Janelle Li (Ms)**
-Executive Communications & Engagement Manager
-Janelle_CS_Li@hdb.gov.sg
-9724 4577
+<br>Executive Communications & Engagement Manager
+<br>Janelle_CS_Li@hdb.gov.sg
+<br>9724 4577
 
 **Government Technology Agency**
 
 **Lee Zhengyi (Ms)**
-Manager, Communications & Marketing Group
-LEE_Zhengyi@tech.gov.sg 
-8282 9393 
+<br>Manager, Communications & Marketing Group
+<br>LEE_Zhengyi@tech.gov.sg 
+<br>8282 9393 
 
 ---
 
@@ -89,7 +85,7 @@ The Housing & Development Board (HDB) is Singapore’s public housing authority.
 
 Today, more than 1 million flats have been completed in 24 towns and 3 estates across Singapore. HDB flats are home to about 80% of Singapore’s resident population, of which about 90% own their home. 
 
-For more information, please visit https://www.hdb.gov.sg.
+For more information, please visit ![](https://www.hdb.gov.sg).
 
 
 **About Government Technology Agency**
