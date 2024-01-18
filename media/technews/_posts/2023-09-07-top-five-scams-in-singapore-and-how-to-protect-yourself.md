@@ -16,11 +16,11 @@ But if you think that being digital natives means being too savvy to fall victim
 So it’s time to shake off your complacency, young adults, and learn about the common scams out there. Arm yourself with knowledge so that you don’t end up losing your hard earned money!
 
 **Types of Scams:**
-1. [Phishing scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#1-phishing-scams)
-2. [Job scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#2-job-scams)
-3. [E-commerce scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#3-e-commerce-scams)
-4. [Investment scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#4-investment-scams)
-5. [Fake friend call scams](https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#5-fake-friend-call-scams)
+1. [Phishing scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#1-phishing-scams)
+2. [Job scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#2-job-scams)
+3. [E-commerce scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#3-e-commerce-scams)
+4. [Investment scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#4-investment-scams)
+5. [Fake friend call scams](/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself#5-fake-friend-call-scams)
 
 ## 1. Phishing scams
 **How it works**
