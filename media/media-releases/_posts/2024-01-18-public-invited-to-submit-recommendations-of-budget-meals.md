@@ -85,7 +85,7 @@ The Housing & Development Board (HDB) is Singapore’s public housing authority.
 
 Today, more than 1 million flats have been completed in 24 towns and 3 estates across Singapore. HDB flats are home to about 80% of Singapore’s resident population, of which about 90% own their home. 
 
-For more information, please visit https://www.hdb.gov.sg.
+For more information, please visit [https://www.hdb.gov.sg](https://www.hdb.gov.sg).
 
 **About Government Technology Agency**
 
