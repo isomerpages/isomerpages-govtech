@@ -46,7 +46,7 @@ The Government remains committed to ensuring that residents have access to affor
 
 ---
 
-<br><sup>[1]</sup> [CrowdTaskSG] (www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
+<br><sup>[1]</sup> [CrowdTaskSG](www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
 
 <br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the homescreen.
 
