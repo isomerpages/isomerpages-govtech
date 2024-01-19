@@ -9,6 +9,13 @@ Did you know that Singpass is almost 20 years old? Launched in 2003 (the same ye
 
 With more transactions conducted online and scams continuously evolving, user vigilance is as crucial as the technical and operational safeguards put in place. Read on to learn more about these five security tips and how you can play an active role in keeping your Singpass secure.
 
+**5 ways to keep your Singpass safe:**
+1. [Don’t share your Singpass details with others](/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others)
+2. [Don’t click on hyperlinks or scan QR codes sent over SMS or WhatsApp by “Singpass”](/media/technews/five-ways-to-keep-your-singpass-safe#2-dont-click-on-hyperlinks-or-scan-qr-codes-sent-over-sms-or-whatsapp-by-singpass)
+3. [Check the Singpass URL domain carefully](/media/technews/five-ways-to-keep-your-singpass-safe#3-check-the-singpass-url-domain-carefully)
+4. [Don’t ignore the alert about an unusual login](/media/technews/five-ways-to-keep-your-singpass-safe#4-dont-ignore-the-alert-about-an-unusual-login)
+5. [Only one active Singpass app at a time](/media/technews/five-ways-to-keep-your-singpass-safe#5-only-one-active-singpass-app-at-a-time)
+
 ---
 
 ## 1. Don’t share your Singpass details with others
@@ -47,7 +54,6 @@ Don’t ignore the notification! If you did not perform the login, report the in
 Also remember to update your contact details registered with Singpass, so that you can receive these transactional and security alerts promptly.
 
 ## 5. Only one active Singpass app at a time
-
  
 ![One mobile device at a time](/images/technews/singpasssecure3.png)
 
