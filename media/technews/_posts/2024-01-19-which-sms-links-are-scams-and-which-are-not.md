@@ -9,9 +9,7 @@ image: "images/technews/cdc-scam-2.png"
 
 ![how to identify sms scams](/images/technews/cdc-scam-2.png)
 
-Earlier this year, the People’s Association distributed $500 worth of CDC (Community Development Council) vouchers to over 1.27 million households to quite a bit of buzz. 
-
-Since then, over [1.1 million](https://www.straitstimes.com/singapore/over-11-million-or-88-of-s-porean-households-have-claimed-cdc-vouchers-low-yen-ling) or 88% of households have claimed their CDC vouchers. 
+Earlier this year, the People’s Association distributed $500 worth of CDC (Community Development Council) vouchers to over 1.27 million households. Since then, over [1.1 million](https://www.straitstimes.com/singapore/over-11-million-or-88-of-s-porean-households-have-claimed-cdc-vouchers-low-yen-ling) or 88% of households have claimed their CDC vouchers. 
 
 That’s all good, but there were a few things that caught our attention that we thought you should take note of, especially for those who have yet to claim their CDC vouchers. 
 
@@ -60,7 +58,7 @@ While the initial launch of the CDC collections saw many people queuing, it’s 
 Once again, we want to stress that your personal or banking details are not needed to claim CDC vouchers.
 Finally, if you encounter suspicious messages related to RedeemSG or CDC vouchers, please contact the People's Association at 6225-5322, the police hotline at 1800-255-0000, or report online at www.police.gov.sg/iWitness. 
 
-Last, but not least, make sure to have ScamShield installed on your phone to protect yourself from scams!
+Last, but not least, make sure to have [ScamShield](https://www.scamshield.org.sg/) installed on your phone to protect yourself from scams!
 Happy redeeming!
 
 PS:  If you’ve received an SMS from RedeemSG to get your CDC vouchers, the redemption link should start with the following prefix: https://voucher.redeem.gov.sg
