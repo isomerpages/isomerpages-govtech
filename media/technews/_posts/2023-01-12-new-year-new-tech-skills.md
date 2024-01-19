@@ -15,9 +15,16 @@ As a tech hub, Singapore is host to the regional headquarters of several global 
 
 Little wonder then that tech skills continue to be in demand. If you’ve ever considered picking up these skills and becoming a tech professional, there are a myriad of resources to turn to both online and in the classroom. 
 
-But as the saying goes, the best things in life are free. So here, we highlight a few options that will not only give you an introduction to the world of tech, but also won’t cost you money. 
+But as the saying goes, the best things in life are free. So here, we highlight a few options that will not only give you an introduction to the world of tech, but also won’t cost you money.
 
-## AI Singapore Student Outreach Programme
+**5 free tech learning courses:**
+1. [AI Singapore Student Outreach Programme](/media/technews/new-year-new-tech-skills#1-ai-singapore-student-outreach-programme)
+2. [SkillsFuture@NS Learning eXperience Platform](/media/technews/new-year-new-tech-skills#2-skillsfuture@ns-learning-experience-platform)
+3. [Coursera](/media/technews/new-year-new-tech-skills#3-coursera)
+4. [General Assembly](/media/technews/new-year-new-tech-skills#4-general-assembly)
+5. [Explore and expand your knowledge](/media/technews/new-year-new-tech-skills#5-explore-and-expand-your-knowledge)
+
+## 1. AI Singapore Student Outreach Programme
 
 This [scheme](https://learn.aisingapore.org/student-outreach-programme/) by AI Singapore was launched in July 2022 to promote AI literacy and proficiency among students. 
 
@@ -27,7 +34,7 @@ Polytechnic and university students who attain level three will also get an inte
 
 Applications are open all year round for the first two levels, while level three accepts applications in January and August every year. 
 
-## SkillsFuture@NS Learning eXperience Platform
+## 2. SkillsFuture@NS Learning eXperience Platform
 
 While many full time national servicemen (NSFs) today are proud to be contributing to the military and civil defence of our country, there is still the concern of lagging behind in their studies and careers due to the two years in uniform. 
 To address this, the [SkillsFuture@NS Learning eXperience Platform](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/September/21sep22_fs) was launched in November 2022, giving NSFs free unlimited access to over 75,000 online courses in about 135 categories. 
@@ -36,7 +43,7 @@ Skills that they can pick up include python programming, machine learning, manag
 
 Some of the courses can also be used for credit exemptions at institutes of higher learning like polytechnics and universities.
 
-## Coursera 
+## 3. Coursera 
 
 Coursera, a pioneer in massive open online courses, offers many of its courses for free. Best of all, some are from world renowned universities.
 
@@ -44,7 +51,7 @@ You can learn about [machine learning](https://www.coursera.org/learn/machine-le
 
 Yes, you take classes from these prestigious educational institutions from the comfort of your home and it won’t cost you a cent! 
 
-## General Assembly
+## 4. General Assembly
 
 General Assembly is known for running bootcamps for mid-career switchers who aspire to a new path in tech as software engineers, data scientists, and product managers. 
 
@@ -54,7 +61,7 @@ These include introduction courses to [python coding](https://generalassemb.ly/e
 
 You can even access resources on general skills such as a class on [public speaking.](https://generalassemb.ly/education/intro-to-public-speaking-free-online-livestream/online)
 
-## Explore and expand your knowledge
+## 5. Explore and expand your knowledge
 
 It can be daunting to consider a career in tech, whether you’re thinking of choosing a tech major when entering a tertiary institute or thinking of switching to a tech career. 
 
