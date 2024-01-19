@@ -14,7 +14,14 @@ A few years ago, self-driving cars showed great promise and there were predictio
 
 Predictions about that particular branch of AI proved too optimistic (or pessimistic depending on your point of view). But that hasn’t dampened the enthusiasm about AI as AI-generated text and pictures are the new kids on the block, astounding everyone with their ability to produce art and write essays that could pass of as the work of a real life person. 
 
-While this article won’t make you an expert in the technology, it’ll introduce some relevant terms so that you can follow along during conversations. Perhaps you’ll even get good enough to drop in a few phrases at the right moments. We’ll even throw in some examples of AI right here in Singapore! 
+While this article won’t make you an expert in the technology, it’ll introduce some relevant terms so that you can follow along during conversations. Perhaps you’ll even get good enough to drop in a few phrases at the right moments. We’ll even throw in some examples of AI right here in Singapore!
+
+**5 terms to boost intelligence:**
+1. [Maching learning](/media/technews/5-ai-terms-to-boost-your-intelligence#1-machine-learning)
+2. [Neural networks and deep learning](/media/technews/5-ai-terms-to-boost-your-intelligence#2-neural-networks-and-deep-learning)
+3. [Generative AI](/media/technews/5-ai-terms-to-boost-your-intelligence#3-generative-ai)
+4. [Natural language processing](/media/technews/5-ai-terms-to-boost-your-intelligence#4-natural-language-processing)
+5. [VICA – Virtual Intelligent Chat Assistant](/media/technews/5-ai-terms-to-boost-your-intelligence#5-vica-virtual-intelligent-chat-assistant)
 
 ## 1. Machine learning 
 As its name suggests, [machine learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) is all about enabling a machine to learn and is what is driving the gigantic improvements in AI in recent times. 
@@ -51,18 +58,15 @@ Think how much better it is to pick up Thai by immersing oneself in Bangkok for 
 NLP is what’s behind tools like Google translate, Siri and Alexa, and chatbots. 
 
 ## 5. VICA – Virtual Intelligent Chat Assistant
-
 If you have visited government websites, you would probably remember Ask Jamie – GovTech’s virtual assistant which was rolled out in 2014. That said, her days are numbered. 
 
-Jamie’s replacement, [VICA](https://www.tech.gov.sg/products-and-services/vica/)             , is already out answering citizens’ queries in the wild. Armed with next-generation NLP, it’s already powering the chatbots on multiple government websites.
+Jamie’s replacement, [VICA](https://www.tech.gov.sg/products-and-services/vica/), is already out answering citizens’ queries in the wild. Armed with next-generation NLP, it’s already powering the chatbots on multiple government websites.
  
 At the time of publication, VICA was in operation for IRAS (Ask IRAS), EMA (Ask EMMA), and ICA (Ask ICA). 
 
 There are also plans for Singpass integration, live chat escalation, and support for multiple chat platforms like Whatsapp and Telegram. 
-
  
 ## Time for some human learning 
-
 AI's encroachment on creative, white-collar jobs has left many professionals feeling uneasy about their future.
 
 However, in the face of uncertainty, we can equip ourselves with knowledge and face this challenge head-on. Let's embrace the ever-evolving tech landscape, seizing the opportunities it presents. 
@@ -72,4 +76,3 @@ By understanding AI's intricacies and seeking ways to collaborate, we can harnes
 As Alan Turing wisely said, "We can only see a short distance ahead, but we can see plenty there that needs to be done." 
 
 Let's embark on this transformative journey with resilience and optimism.
-
