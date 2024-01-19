@@ -9,7 +9,7 @@ image: "images/technews/enhance-public-service-ai.jpeg"
 
 ![techy travel tips](/images/technews/enhance-public-service-ai.jpeg)
 
-Aritificial Intelligence is already changing the way we work and play, and the impact will only get larger as the technology is evolving rapidly. 
+Artificial Intelligence is already changing the way we work and play, and the impact will only get larger as the technology is evolving rapidly. 
 
 Here at GovTech, we too are integrating AI into our services to leverage its promise, and also introducing the technology to various branches of the government as well. 
 
@@ -23,7 +23,7 @@ It handles some 30,000 cases a month, automating the extraction of case details,
 
 Another area where AI is already having an impact is in identifying cases of dementia, where the longstanding practice of diagnosing the condition involves getting a specialist referral to a trained psychologist who administers a 30 minute test.
 
-This process is being replaced by a [drawing app](https://www.smartnation.gov.sg/initiatives/health/project-pensieve/) that is being trialed with 1,000 seniors. The app challenges users to draw certain shapes or objects. The drawings are then evaluated by AI to determine the likelihood of dementia. Best of all, the test does not need to be administered by medical professionals. 
+This process is being replaced by a [drawing app](https://www.smartnation.gov.sg/initiatives/health/project-pensieve/) that is being trialled with 1,000 seniors. The app challenges users to draw certain shapes or objects. The drawings are then evaluated by AI to determine the likelihood of dementia. Best of all, the test does not need to be administered by medical professionals. 
 
 As for the [My Careers Future](https://www.mycareersfuture.gov.sg) job portal, it incorporates a recommendation system (very much the same way Netflix suggests your next binge fix based on what you’ve watched) that uses 10 different AI models to improve job matching and help plan your next career move.  
 
@@ -57,7 +57,7 @@ To that end, [Launchpad](https://youtu.be/V4mF6UeZUGA?feature=shared&t=764) – 
 
 GovTech is also planning for a future where the ability to use [AI is a fundamental skill](https://youtu.be/V4mF6UeZUGA?feature=shared&t=1127). It is coming up with a [prompt engineering playbook,](https://www.developer.tech.gov.sg/products/collections/data-science-and-artificial-intelligence/playbooks/prompt-engineering-playbook-beta-v3.pdf) in anticipation of AI prompting becoming a core competency. It is also working with the Civil Service College to come up with a prompt engineering course.
 
-At the same time, it is also developing a holistics AI framework so that the development and use of AI within the public service will be guided by a coherent, long-term strategy. 
+At the same time, it is also developing a holistic AI framework so that the development and use of AI within the public service will be guided by a coherent, long-term strategy. 
 
 With that, we can ensure that the public service keeps up with the times, leveraging technology to remain world class into the future!
 
