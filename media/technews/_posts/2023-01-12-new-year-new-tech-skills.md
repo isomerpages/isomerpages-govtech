@@ -19,7 +19,7 @@ But as the saying goes, the best things in life are free. So here, we highlight 
 
 **5 free tech learning courses:**
 1. [AI Singapore Student Outreach Programme](/media/technews/new-year-new-tech-skills#1-ai-singapore-student-outreach-programme)
-2. [SkillsFuture@NS Learning eXperience Platform](/media/technews/new-year-new-tech-skills#2-skillsfuture-ns-learning-experience-platform)
+2. [SkillsFuture@NS Learning eXperience Platform](/media/technews/new-year-new-tech-skills#2-skillsfuture@ns-learning-experience-platform)
 3. [Coursera](/media/technews/new-year-new-tech-skills#3-coursera)
 4. [General Assembly](/media/technews/new-year-new-tech-skills#4-general-assembly)
 5. [Explore and expand your knowledge](/media/technews/new-year-new-tech-skills#5-explore-and-expand-your-knowledge)
