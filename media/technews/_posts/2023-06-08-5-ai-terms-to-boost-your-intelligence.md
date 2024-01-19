@@ -21,7 +21,7 @@ While this article won’t make you an expert in the technology, it’ll introdu
 2. [Neural networks and deep learning](/media/technews/5-ai-terms-to-boost-your-intelligence#2-neural-networks-and-deep-learning)
 3. [Generative AI](/media/technews/5-ai-terms-to-boost-your-intelligence#3-generative-ai)
 4. [Natural language processing](/media/technews/5-ai-terms-to-boost-your-intelligence#4-natural-language-processing)
-5. [VICA – Virtual Intelligent Chat Assistant](/media/technews/5-ai-terms-to-boost-your-intelligence#5-vica-virtual-intelligent-chat-assistant)
+5. [VICA – Virtual Intelligent Chat Assistant](/media/technews/5-ai-terms-to-boost-your-intelligence#5-vica---virtual-intelligent-chat-assistant)
 
 ## 1. Machine learning 
 As its name suggests, [machine learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) is all about enabling a machine to learn and is what is driving the gigantic improvements in AI in recent times. 
