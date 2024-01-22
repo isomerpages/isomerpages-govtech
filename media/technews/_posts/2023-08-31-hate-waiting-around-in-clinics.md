@@ -24,6 +24,7 @@ But that’s where virtual healthcare can help.
 2. [A second opinion at your fingertips](/media/technews/hate-waiting-around-in-clinics#2-a-second-opinion-at-your-fingertips)
 3. [Keeps infections at bay](/media/technews/hate-waiting-around-in-clinics#3-keep-infections-at-bay)
 4. [Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#4-healthcare-professionals-benefit-too)
+
 <br>[A local look at virtual healthcare in Singapore](/media/technews/hate-waiting-around-in-clinics#a-local-look-at-virtual-healthcare-in-singapore)
 <br>[What’s next for virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#whats-next-for-virtual-healthcare)
 
