@@ -23,7 +23,9 @@ But that’s where virtual healthcare can help.
 1. [Fewer trips to the hospital](/media/technews/hate-waiting-around-in-clinics#1-fewer-trips-to-the-hospital)
 2. [A second opinion at your fingertips](/media/technews/hate-waiting-around-in-clinics#2-a-second-opinion-at-your-fingertips)
 3. [Keeps infections at bay](/media/technews/hate-waiting-around-in-clinics#3-keep-infections-at-bay)
-<br>[Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#healthcare-professionals-benefit-too)
+4. [Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#4-healthcare-professionals-benefit-too)
+<br>[A local look at virtual healthcare in Singapore](/media/technews/hate-waiting-around-in-clinics#a-local-look-at-virtual-healthcare-in-singapore)
+<br>[What’s next for virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#whats-next-for-virtual-healthcare)
 
 ## What is virtual healthcare?
 Virtual healthcare, simply put, refers to the delivery of healthcare services through telecommunication technologies, such as video conferencing, mobile apps, and remote monitoring devices. Its core goal is to harness digital technologies to improve healthcare delivery, reduce inefficiencies, and curb costs. 
@@ -60,7 +62,7 @@ Virtual healthcare also comes in handy when dealing with rare or unusual medical
 ## 3. Keeps infections at bay
 During disease outbreaks, such as the SARS episode in 2003, and more recently, the COVID pandemic, telemedicine proved its utility as a medium for avoiding the spread of infections. Patients were able to send in photos and receive diagnoses over the phone, minimising risk while still receiving care.
 
-## Healthcare professionals benefit too!
+## 4. Healthcare professionals benefit too!
 It isn’t just patients that virtual healthcare can help. 
 A study by [McKinsey](https://www.mckinsey.com/industries/healthcare/our-insights/virtual-hospitals-could-offer-respite-to-overwhelmed-health-systems) has suggested that virtual health care might be the key to offering respite to overwhelmed 
 healthcare systems (and by extension, professionals).
