@@ -15,9 +15,15 @@ In recent years, more programmes that incorporate elements of gaming have been l
 
 Can you believe there have already been seven seasons of the [National Steps Challenge](https://www.tech.gov.sg/media/technews/stepping-up-to-the-healthy-challenge){:target="_blank"}? The world’s first population-level fitness tracker-based physical activity initiative started in 2015 as a way to get Singaporeans moving. The premise is simple: the more steps you take – which is where the fitness tracker comes in – the more rewards you earn. 
 
-Its popularity shouldn’t come as a surprise. [Studies](https://pubmed.ncbi.nlm.nih.gov/30135818/){:target="_blank"} have shown that gamification can motivate people to start and continue actions that benefit their health and well-being. 
+Its popularity shouldn’t come as a surprise. [Studies](https://pubmed.ncbi.nlm.nih.gov/30135818/){:target="_blank"} have shown that gamification can motivate people to start and continue actions that benefit their health and well-being.
 
-## Healthy 365 app
+**Tech programs and apps:**
+1. [Healthy 365 app](/media/technews/gaming-our-way-to-healthier-lifestyles#1-healthy-365-app)
+2. [Lumi Health](/media/technews/gaming-our-way-to-healthier-lifestyles#2-lumi-health)
+3. [hiSG](/media/technews/gaming-our-way-to-healthier-lifestyles#3-hiSG)
+4. [MindWorks](/media/technews/gaming-our-way-to-healthier-lifestyles#4-mindworks)
+
+## 1. Healthy 365 app
 
 We would be remiss if we didn’t start by mentioning this app that powers the National Steps Challenge. It is where users log their steps, earn points, and exchange them for rewards such as grocery vouchers.
 
@@ -29,7 +35,7 @@ Plans are also afoot to increase the usefulness of the health points. In April 2
 
 Over 2,500 food and beverages merchants are expected to join the programme and start accepting the credits by end-March 2023.
 
-## Lumi Health
+## 2. Lumi Health
 
 Lumi Health is a health [programme](https://www.lumihealth.sg){:target="_blank"} developed by HPB together with Apple. Because it rides on many features of the Apple Watch, it is open to only users of that particular wearable device. 
 
@@ -39,7 +45,7 @@ Wearers of Apple Watches also log more data with the device, enabling it to push
 
 As Lu progresses across the digital landscape, it unlocks coins that can be exchanged for e-vouchers. 
 
-## hiSG
+## 3. hiSG
 
 If you’ve always wanted to get in-depth insights into your health and lifestyle, then the Health Insights Singapore (hiSG) [study](https://hpb.gov.sg/healthy-living/hisg){:target="_blank"} may be just the thing for you. 
 
@@ -53,7 +59,7 @@ You can register your interest at this [link](https://form.gov.sg/#!/5e52b087862
 
 Do note that participants need to make a $50 deposit that will be refunded upon successfully participating in the study for two years. During the 24-month period, there are minimum requirements that participants need to hit (such as the number of days wearing the device per month). You’ll forfeit your $50 deposit should you fail to hit the target. 
 
-## MindWorks
+## 4. MindWorks
 
 Being healthy is not just about physical well-being but mental fitness as well. The [MindWorks](https://www.straitstimes.com/singapore/brain-training-game-launched-to-boost-seniors-cognitive-health){:target="_blank"} app is designed to keep minds nimble through a set of memory-based games. Targeted at people above 50, the games test basic matching, counting, and sequencing skills, which the app calls brain training activities. 
 
