@@ -20,7 +20,7 @@ Its popularity shouldn’t come as a surprise. [Studies](https://pubmed.ncbi.nlm
 **Tech programs and apps:**
 1. [Healthy 365 app](/media/technews/gaming-our-way-to-healthier-lifestyles#1-healthy-365-app)
 2. [Lumi Health](/media/technews/gaming-our-way-to-healthier-lifestyles#2-lumi-health)
-3. [hiSG](/media/technews/gaming-our-way-to-healthier-lifestyles#3-hiSG)
+3. [hiSG](/media/technews/gaming-our-way-to-healthier-lifestyles#3-hisg)
 4. [MindWorks](/media/technews/gaming-our-way-to-healthier-lifestyles#4-mindworks)
 
 ## 1. Healthy 365 app
