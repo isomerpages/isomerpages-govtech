@@ -18,12 +18,12 @@ Well...a whole bunch of reasons. Doctors must manage a multitude of patients, ha
 But that’s where virtual healthcare can help.
 
 **Table of contents:**
-[What is virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-is-virtual-healthcare)
-[What are the benefits of virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-are-the-benefits-of-virtual-healthcare)
+<br>[What is virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-is-virtual-healthcare)
+<br>[What are the benefits of virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-are-the-benefits-of-virtual-healthcare)
 1. [Fewer trips to the hospital](/media/technews/hate-waiting-around-in-clinics#1-fewer-trips-to-the-hospital)
 2. [A second opinion at your fingertips](/media/technews/hate-waiting-around-in-clinics#2-a-second-opinion-at-your-fingertips)
 3. [Keeps infections at bay](/media/technews/hate-waiting-around-in-clinics#3-keep-infections-at-bay)
-[Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#healthcare-professionals-benefit-too)
+<br>[Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#healthcare-professionals-benefit-too)
 
 ## What is virtual healthcare?
 Virtual healthcare, simply put, refers to the delivery of healthcare services through telecommunication technologies, such as video conferencing, mobile apps, and remote monitoring devices. Its core goal is to harness digital technologies to improve healthcare delivery, reduce inefficiencies, and curb costs. 
