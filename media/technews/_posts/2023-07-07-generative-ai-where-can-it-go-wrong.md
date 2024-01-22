@@ -19,7 +19,7 @@ AI models like ChatGPT are known as ‘Generative AI’, and yes, they’ve gain
 - [What is AI and generative AI?](/media/technews/generative-ai-where-can-it-go-wrong#what-is-ai-and-generative-ai)
 - [The risks](/media/technews/generative-ai-where-can-it-go-wrong#the-risks)
 1. [Risks of Unverified Content or ‘hallucinations’](/media/technews/generative-ai-where-can-it-go-wrong#1-risks-of-unverified-content-or-hallucinations)
-2. [Risk of plagiarism or infringement](/media/technews/generative-ai-where-can-it-go-wrong#2-risk-of-plagiarism-or-infridgement)
+2. [Risk of plagiarism or infringement](/media/technews/generative-ai-where-can-it-go-wrong#2-risk-of-plagiarism-or-infringement)
 3. [Unintended Biases](/media/technews/generative-ai-where-can-it-go-wrong#3-unintended-biases)
 - [How can you protect yourself?](/media/technews/generative-ai-where-can-it-go-wrong#how-can-you-protect-yourself)
 
