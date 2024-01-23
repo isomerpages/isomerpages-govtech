@@ -15,7 +15,17 @@ Everyone has been there: sitting in a clinic, your smartphone battery warning yo
 ## Why does this occur?
 Well...a whole bunch of reasons. Doctors must manage a multitude of patients, handle unexpected emergencies, or unravel complex cases that invariably prolong appointments. Additionally, administrative tasks and non-standard cases amplify these challenges. 
 
-But that’s where virtual healthcare can help. 
+But that’s where virtual healthcare can help.
+
+**Table of contents:**
+- [What is virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-is-virtual-healthcare)
+- [What are the benefits of virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#what-are-the-benefits-of-virtual-healthcare)
+1. [Fewer trips to the hospital](/media/technews/hate-waiting-around-in-clinics#1-fewer-trips-to-the-hospital)
+2. [A second opinion at your fingertips](/media/technews/hate-waiting-around-in-clinics#2-a-second-opinion-at-your-fingertips)
+3. [Keeps infections at bay](/media/technews/hate-waiting-around-in-clinics#3-keeps-infections-at-bay)
+4. [Healthcare professionals benefit too!](/media/technews/hate-waiting-around-in-clinics#4-healthcare-professionals-benefit-too)
+- [A local look at virtual healthcare in Singapore](/media/technews/hate-waiting-around-in-clinics#a-local-look-at-virtual-healthcare-in-singapore)
+- [What’s next for virtual healthcare?](/media/technews/hate-waiting-around-in-clinics#whats-next-for-virtual-healthcare)
 
 ## What is virtual healthcare?
 Virtual healthcare, simply put, refers to the delivery of healthcare services through telecommunication technologies, such as video conferencing, mobile apps, and remote monitoring devices. Its core goal is to harness digital technologies to improve healthcare delivery, reduce inefficiencies, and curb costs. 
@@ -39,20 +49,20 @@ Virtual pharmacy: This is a service that allows patients to order prescription m
 ## What are the benefits of virtual healthcare? 
 Yes, virtual healthcare does cut down waiting time in clinics and hospitals, but that’s only the beginning. Here’re some to consider.
 
-## Fewer trips to the hospital 
+## 1. Fewer trips to the hospital 
 Virtual healthcare offers an avenue for patients who are undergoing or have recently undergone treatment, like those managing chronic diseases such as diabetes or hypertension. 
 
 Routine monitoring of vitals can also be done at home, and medical consultations can be facilitated via secure video conferencing. 
 
 In emergencies, when rescue services might be delayed, telemedicine can be instrumental. Guidance on how to provide first aid can be relayed via video call, potentially making the difference between life and death.
 
-## A second opinion at your fingertips
+## 2. A second opinion at your fingertips
 Virtual healthcare also comes in handy when dealing with rare or unusual medical conditions. It allows patients to get a quick second opinion from relevant specialists, regardless of their geographical location. However, it should be noted that virtual consultations may not be as comprehensive as in-person visits and might be prone to errors.
 
-## Keeps infections at bay
+## 3. Keeps infections at bay
 During disease outbreaks, such as the SARS episode in 2003, and more recently, the COVID pandemic, telemedicine proved its utility as a medium for avoiding the spread of infections. Patients were able to send in photos and receive diagnoses over the phone, minimising risk while still receiving care.
 
-## Healthcare professionals benefit too!
+## 4. Healthcare professionals benefit too!
 It isn’t just patients that virtual healthcare can help. 
 A study by [McKinsey](https://www.mckinsey.com/industries/healthcare/our-insights/virtual-hospitals-could-offer-respite-to-overwhelmed-health-systems) has suggested that virtual health care might be the key to offering respite to overwhelmed 
 healthcare systems (and by extension, professionals).

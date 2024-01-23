@@ -10,12 +10,19 @@ The June holidays have come to an end and if you’re a parent, those words are 
 
 But now that the coding boot camps are over and the holiday activties have all but run their course, how do you keep your kids entertained and engaged apart from school work?
 
-Well, we’re here to help with a list of fun tech activities that will keep the young ones entertained – and give you a much needed breather. Who knows, the children may even develop some useful lifelong tech skills along the way. You can thank us later. 
+Well, we’re here to help with a list of fun tech activities that will keep the young ones entertained – and give you a much needed breather. Who knows, the children may even develop some useful lifelong tech skills along the way. You can thank us later.
 
+**Tech activities to keep your kids entertained:**
+1. [Learn coding](/media/technews/tech-activities-to-keep-your-kids-entertained#1-learn-coding)
+2. [Be a drone pilot](/media/technews/tech-activities-to-keep-your-kids-entertained#2-be-a-drone-pilot)
+3. [Learn about 3D printing](/media/technews/tech-activities-to-keep-your-kids-entertained#3-learn-about-3d-printing)
+4. [Watch robots in action](/media/technews/tech-activities-to-keep-your-kids-entertained#4-watch-robots-in-action)
+5. [Check out how the Smart Nation is built](/media/technews/tech-activities-to-keep-your-kids-entertained#5-check-out-how-the-smart-nation-is-built)
+6. [Follow Smart Nation Builder – a moving roadshow](/media/technews/tech-activities-to-keep-your-kids-entertained#6-follow-smart-nation-builder--a-moving-roadshow)
 
 ---
 
-## Learn coding 
+## 1. Learn coding 
 
 Coding skills are all the rage now in the job market, but it’s not just all work and no play. There are quite a few learning centres offering coding lessons for children of different age groups. But better still, there are also tons of free learning material online. 
 
@@ -23,10 +30,9 @@ Case in point, check out our very own [GovTech YouTube channel](https://www.yout
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MfkeAoVo4Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 And if you think Python or Java are too intimidating for your child, fret not as lessons primarily use programming languages aimed at children such as Scratch. 
 
-## Be a drone pilot
+## 2. Be a drone pilot
 
 Sorry Maverick, drones are truly the future. And you and your little ones can experience that future together at the Singapore Science Centre where you can steer not just drones but rovers too. 
 
@@ -34,7 +40,7 @@ At the Drone-Rover area, a specially designed arena mixing indoor and outdoor el
  
 This could be the moment to spark their interest in joining a competition such as the [Drone Odyssey Challenge](https://www.stemacademy.sg/drone-odyssey-challenge){:target="_blank"} in August, where participants work together in teams to programme their Unmanned Aerial Vehicles (UAVs) to perform various tasks under given scenarios.
 
-## Learn about 3D printing
+## 3. Learn about 3D printing
 
 If you’re already at the Science Centre, you can also check out its section on 3D printing and how this technology has several medical applications. 
 
@@ -42,7 +48,7 @@ For a more hands-on session, there are many 3D printing workshops to choose from
 
 The National Library, for instance, organises periodic 3D printing workshops but participants must be at least 15 years old. 
 
-## Watch robots in action
+## 4. Watch robots in action
 
 Robots are cool. It’s why Transformers toys have fascinated children across generations. 
 
@@ -50,13 +56,13 @@ The [Smart Nation Playscape](https://www.smartnation.gov.sg/community/showcases/
 
 The playscape also goes beyond just robots. Get a complete tech immersion with exhibits on sensors, geospatial tech, biometrics, blockchain, AI, user experience, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). 
 
-## Check out how the Smart Nation is built
+## 5. Check out how the Smart Nation is built
 
 Speaking of Smart Nation, head on down to the URA Centre to explore the [Smart Nation Cityscape](https://www.smartnation.gov.sg/community/showcases/cityscape){:target="_blank"}. 
 
 After being wowed by the model buildings forming a miniature rendering of Singapore’s landscape, they’ll learn about how technology is increasingly powering our daily city lives, including supporting the planning of towns and amenities and being embedded in our infrastructure. 
 
-## Follow Smart Nation Builder – a moving roadshow
+## 6. Follow Smart Nation Builder – a moving roadshow
 
 Talk about fun on wheels. Head down to the Sports Hub on the final weekend of this year’s June holidays to catch the Smart Nation Builder, a 12m-long truck fitted with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. 
 
