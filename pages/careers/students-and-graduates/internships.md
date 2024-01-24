@@ -33,10 +33,11 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 **GovTech Internships Selection Process**
 
-![GovTech Internships Selection Process](/images/careers/GovTech-internship-selection-process-updated.png)
+![GovTech Internships Selection Process](/images/careers/post-application-process.png)
 
 
-Follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} to stay updated on our next application period.
-
+Applications for our internship programme open from 1 February to 31 March 2024. Follow us on  [social media](https://linktr.ee/GovTechSG){:target="_blank"} or join our Talent Community to stay updated on our upcoming job opportunities, news and recruiting events at GovTech.
 For enquiries, please write to <AreYouIT@tech.gov.sg>
+
+
 
