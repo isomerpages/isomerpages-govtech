@@ -5,7 +5,7 @@ permalink: /careers/students-and-graduates/internships
 breadcrumb: Internships 
 ---
 
-![GovTech Internships](/images/careers/application-opening-soon-feb-mar-2024.png) 
+![GovTech Internships](/images/careers/application-opening-soon-febandmar-2024.jpg) 
 
 Gain the opportunity to work on projects beyond IT, and be part of a team of committed people that drive transformation through technology. GovTech provides a range of tech and non-tech internship roles for pre-tertiary, polytechnic and university students. If you have a passion for technology and are team-oriented, experience an internship with us today!
 
