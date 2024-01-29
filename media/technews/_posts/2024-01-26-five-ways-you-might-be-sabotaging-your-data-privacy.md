@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How you might be sabotaging your data privacy"
-permalink: "/media/technews/how-you-might-be-sabotaging-your-data-privacy"
+title: "Five ways you might be sabotaging your data privacy"
+permalink: "/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy"
 category: technews
 recommender: true
 image: "images/technews/data-privacy-day.png"
