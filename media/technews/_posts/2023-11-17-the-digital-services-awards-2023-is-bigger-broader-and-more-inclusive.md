@@ -20,16 +20,16 @@ In many ways, it reflects how GovTech thinks technology should be created: with 
 We spoke to the DSA team to learn more about what’s new, exciting and interesting about this year’s awards. 
 
 
-### Q: The awards have expanded to the private sector this year! What gives? 
+## Q: The awards have expanded to the private sector this year! What gives? 
 Well, we think that exceptional user experiences should not be confined to just government services but should be universal across all digital services in Singapore. By including industry categories, we aim to promote and celebrate outstanding digital services and user experiences in both the public and private sectors. This expansion also aligns with our goal of establishing GovTech as an ICT leader. 
 We want to foster collaboration, innovation, and excellence in digital service delivery, and we see this expansion as a significant step in that direction.
 
-### Q: We also noticed that there’s a new ‘Outstanding Citizen Contributor’ category…
+## Q: We also noticed that there’s a new ‘Outstanding Citizen Contributor’ category…
 Yup! That’s correct. Over the years, we’ve seen many citizens who have generously devoted their time and resources to enhance government digital services. That’s why we’ve created this new category to acknowledge and celebrate their co-creation efforts. The category has three distinct areas of recognition: Tech Kaki contributors, CrowdTaskSG contributors, and agency-nominated winners, selected through an open call for nominations across the Whole-of-Government (WOG).
 
 But beyond recognition, we have a broader vision. We intend to use this category to encourage and promote further co-creation and collaboration between government agencies and citizens. Citizens are the ultimate end-users of government services, and their involvement is crucial to delivering services that meet their needs.
 
-### Q: We understand that citizens also play a role in deciding the winners. Tell us more about them. 
+## Q: We understand that citizens also play a role in deciding the winners. Tell us more about them. 
 We refer to our citizen judges as ‘Citizen Assessors’, and they play a pivotal role in the judging process. They’re recruited voluntarily through the GovTech Tech Kaki community and the CrowdTaskSG platform. Our current assessors are a diverse and representative group, spanning ages 18 and up and including Persons with Disabilities (PWDs), to whom accessibility is crucial.
 
 They were tasked to actively engage with the websites, performing various tasks to assess the usability and user-friendliness of the digital services. They then shared ratings and valuable user feedback.Of course, apart from citizen assessors, we also involved [industry experts](https://go.gov.sg/dsa23-judtna) as a panel of Judges to ensure a comprehensive evaluation. Their expertise, combined with the user feedback from citizen assessors, contributes to a well-rounded assessment of the finalists in the 'Best Usability' categories.
@@ -37,14 +37,14 @@ They were tasked to actively engage with the websites, performing various tasks 
 
 PS: If you want to join our Tech Kaki community, you can do so [here](https://www.tech.gov.sg/products-and-services/tech-kaki-community/). You can also register for a [CrowdTaskSG account](https://go.gov.sg/dsa23-ctsgtna) and help shape the future of Singapore.
 
-### Q: There are two interesting categories this year: 'Best Usability' and 'Most Popular Informational Website'. What’s the thinking behind them? 
+## Q: There are two interesting categories this year: 'Best Usability' and 'Most Popular Informational Website'. What’s the thinking behind them? 
 The decision to set the eligibility criteria for the **'Best Usability'** and **'Most Popular Informational Website'** categories was driven by our aspiration to make the Digital Services Awards a holistic and comprehensive recognition platform.'Best Usability' focuses on overall user experience and design, ensuring that the winning websites not only meet technical standards but are also user-friendly and provide an excellent user experience. By involving real users in the evaluation, we aim to acknowledge the importance of user-centric design in government digital services.
 
 
 **'Most Popular Informational Website'** is always a crowd favourite! The category allows attendees to be actively involved in the awards process by participate in live voting during the event. This category is designed to be an interactive and engaging aspect of the awards, where both government and industry websites can be recognised based on public sentiment and feedback.
 
 
-### Q: We’re curious what are the key metrics and criteria used to assess the winners, especially if they are in different categories.
+## Q: We’re curious what are the key metrics and criteria used to assess the winners, especially if they are in different categories.
 In the evaluation process, specific tools and measurements are employed to ensure a comprehensive and fair assessment. These include SEO and accessibility scores, load speed timings, and customer satisfaction ratings for Transactional Service categories.
 For the **“Best Usability”** evaluation criteria, we checked for adherence to [GovTech’s Digital Service Standards](https://www.tech.gov.sg/digital-service-standards/), application of Nielsen Norman Group's [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/), compliance with [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) (Web Content Accessibility Guidelines) for accessibility, and the assessment of System Usability Scale. 
 
@@ -53,7 +53,7 @@ These metrics ensure that the winning digital services not only meet technical s
 
 PS: Detailed calculations and key metrics for government awards can be found on [WOGAA](https://wogaa.sg/faq/digital-services-awards) (Whole of Government Application Analytics), while Industry and Citizen awards can be found on the [public website.](https://go.gov.sg/dsa23-webtna)
 
-### Q: It’s the third year of the Digital Services Awards. Do you think the previous years' awards impacted the quality of digital services in Singapore?
+## Q: It’s the third year of the Digital Services Awards. Do you think the previous years' awards impacted the quality of digital services in Singapore?
 One of the noticeable outcomes is the growing interest and commitment from government agencies to excel and uphold digital standards.The awards serve as a driving force for agencies to continuously improve and enhance the quality of their digital services. As a result, we've witnessed a steady increase in scores across the years. This consistent improvement reflects the dedication of agencies to embracing user-centric design principles and delivering exceptional digital experiences to citizens.
 
 From April 2023 to October 2023: 
