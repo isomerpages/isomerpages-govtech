@@ -15,6 +15,13 @@ As such, it’s important to safeguard our personal data. After all, failing to 
 
 As we observe Data Privacy Day on January 28, there’s no better time to learn about how to protect your personal information by avoiding the actions – which many of us carry out unthinkingly – listed below.
 
+**Five ways you might be sabotaging your data privacy:**
+1. [Clicking "accept all cookies"](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#1-clicking-accept-all-cookies)
+2. [Not checking if the website is secured](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#2-not-checking-if-the-website-is-secured)
+3. [Ignoring “password compromised” prompts](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#3-ignoring-password-compromised-prompts)
+4. [Sharing anything and everything online](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#4-sharing-anything-and-everything-online)
+5. [Allowing all app permissions](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#5-allowing-all-app-permissions)
+
 ### 1. Clicking “accept all cookies”
 It seems like every website you visit has this nowadays – a popup asking for permission to track cookies. It happens so often that it becomes second nature to just click “ok”, “yes”, or some variation of consent. If everyone’s doing it, surely it can’t be that bad, right? 
 
@@ -26,7 +33,7 @@ Some of these pop-ups also have “reject all optional cookies” or “accept o
 
 It might seem like a chore to review your permissions every time you click on an inane listicle, but it’ll be a shame to have your data compromised because you wanted to read an inane listicle and accepted cookies on an unsecured site.  
 
-### 2. Not checking if website is secured
+### 2. Not checking if the website is secured
 Speaking of unsecured sites, always keep a lookout for the [lock icon](https://it.wisc.edu/news/two-things-to-look-for-in-a-secure-website/#:~:text=A%20secure%20URL%20should%20begin,browser%20to%20the%20website's%20server) next to the URL address in the box where you type the webpage address in, which indicates that the site is secured by a digital certificate.
 
 Another good indication of a secure and legitimate website is the URL starting with “https” instead of merely “http”.  
@@ -63,7 +70,7 @@ Better yet, set a regular routine, say once a month, to go through all your app 
 ### It’s not paranoia if they’re really after you
 Protecting your personal data can feel a bit like paranoia these days, having to be on guard against any and everything on your device. But there really are various entities out there vying to gain access to your information. So some healthy paranoia is definitely called for as we continue to live an increasing part of our lives online. 
 
-The bottomline: you’re doing yourself a favour by staying vigilant and protecting yourself from being compromised.   
+The bottom line: you’re doing yourself a favour by staying vigilant and protecting yourself from being compromised.   
 
 <br>
 
