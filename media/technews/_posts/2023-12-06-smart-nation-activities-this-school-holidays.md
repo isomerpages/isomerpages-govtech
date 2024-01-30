@@ -14,7 +14,7 @@ While everyone loves some good old family time, no one can deny that things can 
 
 That said, not to worry – we’ve got some suggestions on places to go, and things to do with your kids during the school holidays.
 
-### Explore the New PlayScape at the Science Centre 
+## Explore the New PlayScape at the Science Centre 
 [Newly opened](https://www.straitstimes.com/singapore/new-science-centre-exhibition-explains-emerging-technologies-through-play) in late May, [PlayScape](https://www.smartnation.gov.sg/community/showcases/playscape/) is an ideal destination for parents seeking to enrich their children's knowledge through interactive experiences. With exhibits on AI, cybersecurity, and other key digital technologies, it provides hands-on learning that is both [engaging](https://www.straitstimes.com/singapore/new-science-centre-exhibition-explains-emerging-technologies-through-play) and educational.
 
 Each zone at PlayScape offers a unique glimpse into the technologies that support Singapore's Smart Nation initiative. 
@@ -27,7 +27,7 @@ Location: 15 Science Centre Rd, Singapore 609081
 Opening hours: Monday to Sunday, 10 am to 5 pm.
 
 
-### Head down to the Smart Nation CityScape
+## Head down to the Smart Nation CityScape
 If you’re not up for the journey to the Science Centre in Jurong, how about something more central? 
 
 Step into the [Smart Nation CityScape](https://www.smartnation.gov.sg/community/showcases/cityscape/), a part of the URA Centre's Singapore City Gallery. We think it’s a great opportunity for the younglings to witness – in very real terms – what tech can do to shape their environment. 
@@ -48,7 +48,7 @@ Opening Hours: Monday to Saturday, 9 am to 5 pm.
 
 
 
-### Learn how to code – for free! 
+## Learn how to code – for free! 
 
 There are plenty of coding lessons out there, but here’s one that doesn’t break the bank – GovTech’s very own. 
 
