@@ -22,7 +22,7 @@ As we observe Data Privacy Day on January 28, there’s no better time to learn 
 4. [Sharing anything and everything online](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#4-sharing-anything-and-everything-online)
 5. [Allowing all app permissions](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#5-allowing-all-app-permissions)
 
-### 1. Clicking “accept all cookies”
+## 1. Clicking “accept all cookies”
 It seems like every website you visit has this nowadays – a popup asking for permission to track cookies. It happens so often that it becomes second nature to just click “ok”, “yes”, or some variation of consent. If everyone’s doing it, surely it can’t be that bad, right? 
 
 [Wrong.](https://allaboutcookies.org/information-in-cookies#:~:text=Yes%2C%20most%20cookies%20are%20safe,not%20be%20safe%20to%20accept) Cookies contain your information, including what sites you browse, where you’re located and even your login information. In the wrong hands, this information can be used for nefarious purposes. 
@@ -33,7 +33,7 @@ Some of these pop-ups also have “reject all optional cookies” or “accept o
 
 It might seem like a chore to review your permissions every time you click on an inane listicle, but it’ll be a shame to have your data compromised because you wanted to read an inane listicle and accepted cookies on an unsecured site.  
 
-### 2. Not checking if the website is secured
+## 2. Not checking if the website is secured
 Speaking of unsecured sites, always keep a lookout for the [lock icon](https://it.wisc.edu/news/two-things-to-look-for-in-a-secure-website/#:~:text=A%20secure%20URL%20should%20begin,browser%20to%20the%20website's%20server) next to the URL address in the box where you type the webpage address in, which indicates that the site is secured by a digital certificate.
 
 Another good indication of a secure and legitimate website is the URL starting with “https” instead of merely “http”.  
@@ -42,7 +42,7 @@ Still, scammers are always upping their game and have started to [purchase digit
 
 So do take care to scrutinise the name of the site in the address bar, especially when you are about to perform sensitive actions like make a payment online. Be especially wary of misspelling like ocdc.com or shoppee.com that might look legitimate at first glance. 
 
-### 3. Ignoring “password compromised” prompts
+## 3. Ignoring “password compromised” prompts
 There are plenty of tools today to help save your passwords so that you don’t have to remember all of them. Browsers can also save your passwords and auto-enter them the next time you revisit the website. 
 
 Another added benefit is that such password managers often notify you when your saved credentials have been part of a data leak from the website in question, or if your credentials have been spotted being put up for sale to malicious actors. 
@@ -51,7 +51,7 @@ It’s easy to ignore these notifications, especially when you think to yourself
 
 What’s more, password managers can automatically generate new, complex passwords so that you don’t have to crack your brains coming up with yet another password. (Also, you won’t fall into the trap of adding “1” behind your password thinking that makes your password “new”. 
 
-### 4. Sharing anything and everything online 
+## 4. Sharing anything and everything online 
 We’re in the age of “living for the gram” and documenting every aspect of our lives online, however mundane and routine. 
 
 This leaves a [rich trail of information](https://securityintelligence.com/articles/practice-social-media-safety-to-protect-both-personal-and-enterprise-data/) for bad actors to learn about you and glean your personally identifiable information. Say you record and post a video of you leaving your home and getting to the airport, boarding your flight to Tokyo, and enjoying your first day at Disneyland. If you’re not careful, you’ve just given away your home address, the fact that you’re in Japan, and details of your itinerary.
@@ -61,13 +61,13 @@ Scammers may use this information to impersonate you, approaching your friends t
 Yes, social media can be fun, but review your posts before publishing them and scrub them of any clues to your personal data. And those lovely vacation snaps can wait till after you’re home to be posted. 
 
 
-### 5. Allowing all app permissions 
+## 5. Allowing all app permissions 
 We often get prompts when downloading new apps to allow the app access to different parts of our device, such as its camera, its location, and the saved contacts.  While some of these are necessary – the Singpass app needs access to your camera so it can scan QR codes and enable QR code logins – apps could also request for access that’s not needed. 
 
 Take a moment to think if the [access request makes sense.](https://nordvpn.com/blog/app-permissions/) You may end up having photos and videos taken of your surroundings and your conversations recorded if you allow dubious apps to access your microphone and camera.  
 Better yet, set a regular routine, say once a month, to go through all your app permissions and disable those you deem unnecessary. Another good practice is to uninstall apps that you haven’t been using. They’re just sitting there, vacuuming up your data. There’s no need to hoard apps, you can always reinstall them if you really miss them. 
 
-### It’s not paranoia if they’re really after you
+## It’s not paranoia if they’re really after you
 Protecting your personal data can feel a bit like paranoia these days, having to be on guard against any and everything on your device. But there really are various entities out there vying to gain access to your information. So some healthy paranoia is definitely called for as we continue to live an increasing part of our lives online. 
 
 The bottom line: you’re doing yourself a favour by staying vigilant and protecting yourself from being compromised.   
