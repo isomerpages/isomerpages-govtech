@@ -16,11 +16,11 @@ As such, it’s important to safeguard our personal data. After all, failing to 
 As we observe Data Privacy Day on January 28, there’s no better time to learn about how to protect your personal information by avoiding the actions – which many of us carry out unthinkingly – listed below.
 
 **Five ways you might be sabotaging your data privacy:**
-1. [Clicking "accept all cookies"](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#1-clicking-accept-all-cookies)
-2. [Not checking if the website is secured](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#2-not-checking-if-the-website-is-secured)
-3. [Ignoring “password compromised” prompts](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#3-ignoring-password-compromised-prompts)
-4. [Sharing anything and everything online](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#4-sharing-anything-and-everything-online)
-5. [Allowing all app permissions](media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#5-allowing-all-app-permissions)
+1. [Clicking "accept all cookies"](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#1-clicking-accept-all-cookies)
+2. [Not checking if the website is secured](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#2-not-checking-if-the-website-is-secured)
+3. [Ignoring “password compromised” prompts](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#3-ignoring-password-compromised-prompts)
+4. [Sharing anything and everything online](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#4-sharing-anything-and-everything-online)
+5. [Allowing all app permissions](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#5-allowing-all-app-permissions)
 
 ### 1. Clicking “accept all cookies”
 It seems like every website you visit has this nowadays – a popup asking for permission to track cookies. It happens so often that it becomes second nature to just click “ok”, “yes”, or some variation of consent. If everyone’s doing it, surely it can’t be that bad, right? 
