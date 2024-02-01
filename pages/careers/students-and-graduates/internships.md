@@ -29,13 +29,13 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 **GovTech Internships Application Process**
 
-[![GovTech Internships Application Process Step 1](images/careers/feb2024-internship-application-timeline-applications-open-1.png)](https://go.gov.sg/GovTechInternshipProjects2024){:target="_blank"}
+[![GovTech Internships Application Process Step 1](/images/careers/feb2024-internship-application-timeline-applications-open-1.png)](https://go.gov.sg/GovTechInternshipProjects2024){:target="_blank"}
 
-![GovTech Internships Application Process Step 2](images/careers/Feb-2024-internship-application-step2.png)
+![GovTech Internships Application Process Step 2](/images/careers/Feb-2024-internship-application-step2.png)
 
-[![GovTech Internships Application Process Step 3](images/careers/internship-application-timeline-applications-open-3.png)](https://go.gov.sg/GovTech2024internships){:target="_blank"}
+[![GovTech Internships Application Process Step 3](/images/careers/internship-application-timeline-applications-open-3.png)](https://go.gov.sg/GovTech2024internships){:target="_blank"}
 
-![GovTech Internships Application Process Step 4](images/careers/Feb-2024-internship-application-step4.png)
+![GovTech Internships Application Process Step 4](/images/careers/Feb-2024-internship-application-step4.png)
 
 **GovTech Internships Selection Process**
 
@@ -43,8 +43,6 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 
 Applications for our internship programme open from 1 February to 31 March 2024. If you are looking for growth, purpose, and fun, [apply as a GovTech intern](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/GovTech-2024-Internships_JR-10000026123){:target="_blank"} now.
-
-Follow us on  [social media](https://linktr.ee/GovTechSG){:target="_blank"} or join our Talent Community to stay updated on our upcoming job opportunities, news and recruiting events at GovTech.
 
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
