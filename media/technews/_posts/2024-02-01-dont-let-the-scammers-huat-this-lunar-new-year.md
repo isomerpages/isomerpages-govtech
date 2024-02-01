@@ -14,11 +14,11 @@ Lunar New Year – it’s a season of overindulging in good food, buying new thr
 So don’t be an unsuspecting victim – read on to find out more about past scams during the Lunar New Year period so that you can stay vigilant! 
 
 **Don't fall for these LNY scams!:**
-1. [Bak kwa cam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-Bak-kwa-scam)
-2. [Parcel delivery scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#2-Parcel-delivery-scam)
-3. [Angbao scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#3-Angbao-scam)
-4. [Fake promotion scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#4-Fake-promotion-scam)
-5. [Online travel scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#5-Online-travel-scam)
+1. [Bak kwa scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-bak-kwa-scam)
+2. [Parcel delivery scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#2-parcel-delivery-scam)
+3. [Angbao scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#3-angbao-scam)
+4. [Fake promotion scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#4-fake-promotion-scam)
+5. [Online travel scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#5-online-travel-scam)
 
 
 ### 1. Bak kwa scam
