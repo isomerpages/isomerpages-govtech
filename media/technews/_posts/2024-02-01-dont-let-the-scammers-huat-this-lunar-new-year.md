@@ -14,17 +14,11 @@ Lunar New Year – it’s a season of overindulging in good food, buying new thr
 So don’t be an unsuspecting victim – read on to find out more about past scams during the Lunar New Year period so that you can stay vigilant! 
 
 **Don't fall for these LNY scams!:**
-1. [Bak Kwa Scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-bak-kwa-scam)
-2. [Not checking if the website is secured](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#2-not-checking-if-the-website-is-secured)
-3. [Ignoring “password compromised” prompts](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#3-ignoring-password-compromised-prompts)
-4. [Sharing anything and everything online](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#4-sharing-anything-and-everything-online)
-5. [Allowing all app permissions](/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy#5-allowing-all-app-permissions)
-
-Bak kwa scam
-Parcel delivery scam
-Angbao scam
-Fake promo/discount scam
-Online travel scams 
+1. [Bak kwa cam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-Bak-kwa-scam)
+2. [Parcel delivery scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#2-Parcel-delivery-scam)
+3. [Angbao scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#3-Angbao-scam)
+4. [Fake promotion scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#4-Fake-promotion-scam)
+5. [Online travel scam](/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#5-Online-travel-scam)
 
 
 ### 1. Bak kwa scam
@@ -38,7 +32,7 @@ Indeed, many goods such as abalone are highly popular during the build-up to Lun
 
 Do your shopping early so you don’t have to resort to dubious sources that may very well turn out to be scams. Remember, if something is priced ridiculously low when everything else is soaring, it is most likely a scam. 
 
-### Parcel delivery scam
+### 2. Parcel delivery scam
 It’s super convenient to buy all your Lunar New Year essentials online, be it food items, new clothes, or home decorations. With so much stuff bought through the internet, it’s hard to keep track of all the deliveries you’re expecting. Plus, you’re probably anxious about your purchases arriving in time for the new year.  
 
 These conditions just might make you fall for the parcel delivery phishing scam, which scammers have used to [steal](https://www.police.gov.sg/media-room/news/20231215_police_advisory_on_parcel_delivery_phishing_scams) $560,000 from more than 360 victims in the first 11 months of 2023. 
@@ -48,7 +42,7 @@ This information is then used by the scammers to make unauthorised transactions 
 
 Be wary of links sent to you. It’s better not to click on them and go to the official app or website yourself to verify the delivery status of your purchases. Legitimate e-commerce portals will provide up-to-date information on your deliveries. 
 
-### Angbao scam
+### 3. Angbao scam
 Angbaos will always be a part of the Lunar New Year, though with e-angbaos rising in popularity, the physical angbao may one day become a thing of the past. 
 
 But the technology has also made it possible for you to be tricked into giving away angbaos to total strangers. 
@@ -57,7 +51,7 @@ This is especially so as Lunar New Year greetings are likely to flood your phone
 
 So watch out for messages from unknown numbers and when in doubt, verify the identity with a video call. While such a scam is not yet prevalent, sending an e-angbao is instant and irreversible, so it pays to be careful. 
 
-### Fake promotion/discount scam
+### 4. Fake promotion scam
 With many merchants riding on the Lunar New Year to offer discounts and promotions, scammers will also crawl out of the woodwork to ride on the expectation of such discounts and promotions. 
 
 In 2022, a [flyer purportedly from NTUC FairPrice](https://www.todayonline.com/singapore/chinese-new-year-flyer-offering-fairprice-vouchers-not-created-or-endorsed-supermarket-1798886) was distributed, offering vouchers for scanning a QR code that led to an online financial survey. FairPrice later clarified on social media it was not behind the flyer and made a police report. 
@@ -66,7 +60,7 @@ Two years ago, [another scam](https://www.marketing-interactive.com/geneco-embro
 
 Both these cases show how easy it is for scammers to impersonate real organisations and discount campaigns to phish for information from victims. Always get information from the official websites and apps of retailers. When referring to social media accounts, look for the verified check marks for assurance that you are accessing the official accounts of merchants. 
 
-### Online travel scams
+### 5. Online travel scam
 While Lunar New Year usually means extended family gatherings, some people use the break to travel overseas.
 
 If a nice holiday is your idea of an ideal Lunar New Year, then be careful of online travel booking scams. 
