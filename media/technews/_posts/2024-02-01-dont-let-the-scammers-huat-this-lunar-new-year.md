@@ -4,7 +4,7 @@ title: "Don't let the scammers huat! 5 common Lunar New Year scams!"
 permalink: "/media/technews/dont-let-the-scammers-huat-this-lunar-new-year"
 category: technews
 recommender: true
-image: "images/technews/data-privacy-day.png"
+image: "images/technews/dont_let_the_scammers_huat.jpg"
 ---
 
 ![Dont get scammed while doing your lunar new year online shopping](/images/technews/dont_let_the_scammers_huat.jpg)
