@@ -31,7 +31,7 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 [![GovTech Internships Application Process Step 1](/images/careers/feb2024-internship-application-timeline-applications-open-1.png)](https://go.gov.sg/GovTechInternshipProjects2024){:target="_blank"}
 
-![GovTech Internships Application Process Step 2](/images/careers/Feb-2024-internship-application-step2.png)
+[![GovTech Internships Application Process Step 2](/images/careers/Feb-2024-internship-application-step2.png)](https://go.gov.sg/govtechinternship-2024){:target="_blank"}
 
 [![GovTech Internships Application Process Step 3](/images/careers/internship-application-timeline-applications-open-3b.png)](https://go.gov.sg/GovTech2024internships){:target="_blank"}
 
