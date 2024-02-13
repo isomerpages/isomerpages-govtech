@@ -87,7 +87,7 @@ Getting married has never been easier! (Well, kinda, you still need to find a wi
 ### 7. Go through life together with LifeSG
 Got married? Trust us – you’re only halfway through on your romantic journey together. Things often get hectic during marriage, with plenty of chores and errands. This is especially true if you have children. 
 
-Well, enter LifeSG: your digital assistant for navigating life's milestones as a couple. This can be anything from getting your baby bonus, paying taxes, booking public facilities, as well as online video consults from HDB (including getting a CPF top up grant). 
+Well, enter [LifeSG:](https://www.life.gov.sg/?utm_source=google&utm_medium=search&utm_campaign=ACCSSAlwaysOn&gclid=Cj0KCQiAoKeuBhCoARIsAB4WxtcDQWzqOlUZkCWvmQ9MUs_CVq1JCOiUGtMGB0HCW-ELc8OR_Bc_qE8aAvVpEALw_wcB) your digital assistant for navigating life's milestones as a couple. This can be anything from getting your baby bonus, paying taxes, booking public facilities, as well as online video consults from HDB (including getting a CPF top up grant). 
 
 There are also educational resources if you want to read up about some of married life's biggest (and most stressful) parts. These include getting financial support for pregnancy, employing a domestic helper, or registering your child for primary one.
 
