@@ -17,14 +17,14 @@ There’s an array of useful free apps that parents can use to make their lives 
 
 
 **4 apps and 1 platform for parents to try out!:**
-1. [LifeSG](/media/technews/four-must-have-apps-for-parents#1-tackle-multiple-task-with-lifesg)
+1. [LifeSG](/media/technews/four-must-have-apps-for-parents#1-tackle-multiple-tasks-with-lifesg)
 2. [MyMoneySense](/media/technews/four-must-have-apps-for-parents#2-managing-your-finances-with-mymoneysense)
 3. [MyENV](/media/technews/four-must-have-apps-for-parents#3-keep-your-family-safe-with-myenv)
 4. [NLBMobile](/media/technews/four-must-have-apps-for-parents#4-learn-as-a-family-with-nlbmobile)
-5. [Parents Gateway](/media/technews/four-must-have-apps-for-parents#5-keep-track-of-your-child's-progress-with-parents-gateway)
+5. [Parents Gateway](/media/technews/four-must-have-apps-for-parents#5-keep-track-of-your-childs-progress-with-parents-gateway)
 
 
-### 1.Tackle multiple tasks with LifeSG 
+### 1. Tackle multiple tasks with LifeSG 
 
 Parents often wear multiple hats. They might be property managers for the family home and teachers to their children. At the same time, they might be caregivers to their elderly parents. That’s why the LifeSG app is perfect for them – it’s the closest thing to a super-app in the GovTech arsenal. You can use it for multiple tasks such as registering your child’s birth, or even end-of-life planning. 
 
@@ -58,7 +58,7 @@ Try [MyMoneySense out here.](https://www.mymoneysense.gov.sg/)
 
 
 
-### 3.Keep your family safe with MyENV  
+### 3. Keep your family safe with MyENV  
 
 With the haze making its rounds in Singapore again these days, it might be a good idea to be updated on air quality often. Particularly if the family is heading out for a hike, or a picnic. 
 
@@ -70,7 +70,7 @@ If you want something more customised, you can even bookmark locations such as y
 
 Download MyEnv [here.](https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/)  
 
-### 4.Learn as a family with NLBMobile
+### 4. Learn as a family with NLBMobile
 
 If you’re looking for a way to bond with your child, reading with them should be at the top of the list.
 
