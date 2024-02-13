@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kick start your love story with these 7 digital serivces"
+title: "Kick start your love story with these 7 digital services"
 permalink: "/media/technews/kickstart-your-love-story-with-these-seven-digital-services"
 category: technews
 recommender: true
