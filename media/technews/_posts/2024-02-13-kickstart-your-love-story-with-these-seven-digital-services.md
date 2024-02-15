@@ -21,9 +21,9 @@ With that in mind, our GovTech team has selected our top apps for couples this V
 **7 Digital services that couples can try out:**
 1. [Get intellectually stimulated with the NLB mobile app](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#1-get-intellectually-stimulated-with-the-nlb-mobile-app)
 2. [Never lose your way again with NParks NEAR](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#2-never-lose-your-way-again-with-nparks-near)
-3. [Get your relationship moving with MyTransport](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#3-get-your-relationshio-moving-with-mytransport)
+3. [Get your relationship moving with MyTransport](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#3-get-your-relationship-moving-with-mytransport)
 4. [Keep fit together with ActiveSG](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#4-keep-fit-together-with-activesg)
-5. [Prepare to settle down together with MyNiceHome](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#5-prepare-to-settle-down-with-mynicehome)
+5. [Prepare to settle down together with MyNiceHome](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#5-prepare-to-settle-down-together-with-mynicehome)
 6. [Seal the deal with Our Marriage Journey](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#6-seal-the-deal-with-our-marriage-journey)
 7. [Go through life together with LifeSG](/media/technews/kickstart-your-love-story-with-these-seven-digital-services#7-go-through-life-together-with-lifesg)
 
