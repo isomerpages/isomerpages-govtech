@@ -30,9 +30,7 @@ Airtable accommodates many types of data and allows you to switch between differ
 ### **3. Let’s TraceTogether**
 
 Contact tracing normally requires significant time and resources. But the recently launched TraceTogether app that hopes to mitigate the spread of COVID-19 through community-driven contact tracing, will make the task much simpler. Using Bluetooth signals, the app records the presence of other TraceTogether users nearby. If someone tests positive for COVID-19 and provides their data to the Ministry of Health (MOH), MOH can inform potential contacts over the phone.
-
-The app, which was jointly developed by GovTech and MOH, can be downloaded on [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en) or the [App Store](https://apps.apple.com/us/app/tracetogether/id1498276074). In case you have any privacy concerns about TraceTogether app, check out this myth-busting article [here](https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether).
-
+ 
 ### **4. Embrace the outdoors**
 
 Physical activity is important for our health, mood and productivity. If you’re thinking of taking a walk outdoors or going for a trail run, make sure it’s not too crowded by visiting an online portal named [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg/). Co-developed by GovTech and NParks, the website allows you to check how crowded a park is in advance so that you can plan your outing accordingly. 
