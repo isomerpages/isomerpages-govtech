@@ -45,7 +45,7 @@ The portal monitors the real-time visitors of major parks and green spaces with 
 
 Parks too crowded? Fret not. Plenty of YouTube and Instagram videos, as well as apps catering to varying fitness goals, are providing home workouts you can bank on. For example, [FitOn app](https://apps.apple.com/us/app/fiton-fitness-workout-plans/id1442473191) offers free exercises designed by celebrity trainers, ranging from pilates to high-intensity interval training sessions. 
 
-If you’d like to support local fitness experts while working on your health goals at the same time, why not try [ActiveSG Circle](https://circle.myactivesg.com/), a new platform connecting freelance fitness instructors to users across Singapore. With 88 verified instructors in piloxing, Zumba, yoga and more, you can choose from free content or classes that cost as little as $10 to $20 per session. ActiveSG Circle content is also available on GetActive TV, dedicated [YouTube](https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A) and [Facebook](https://www.facebook.com/getactivetv/) channels that also provide talk shows and cooking tips for a well-rounded healthy life.
+If you’d like to support local fitness experts while working on your health goals at the same time, why not try [ActiveSG Circle](https://circle.myactivesg.com/), a new platform connecting freelance fitness instructors to users across Singapore. With 88 verified instructors in piloxing, Zumba, yoga and more, you can choose from free content or classes that cost as little as $10 to $20 per session. 
 
 ![active SG](/images/technews/tech-covid-part2.JPG)
 
