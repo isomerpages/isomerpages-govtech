@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: GovTech Turns 7
-permalink: /govtechturns7/
-breadcrumb: GovTech Turns 7
+title: Tech Kaki
+permalink: /techkaki-cos2024/
+breadcrumb: Tech Kaki
 ---
 
 <div class="bp-youtube">
