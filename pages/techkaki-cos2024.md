@@ -40,7 +40,7 @@ Tech Kaki is a diverse community that offers a wide range of perspectives that c
 </div>
 
 ## How can citizens join Tech Kaki?
-They can join our Tech Kaki community by subscribing to our [newsletter](https://go.gov.sg/techkaki-cos) and following our [Tech Kaki Facebook page](https://www.facebook.com/TechKaki){:target="_blank"}.
+They can join our Tech Kaki community by subscribing to our [newsletter](https://go.gov.sg/techkaki-cos){:target="_blank"} and following our [Tech Kaki Facebook page](https://www.facebook.com/TechKaki){:target="_blank"}.
 
 <a href="https://go.gov.sg/techkaki-cos" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the Tech Kaki community</a>
 
