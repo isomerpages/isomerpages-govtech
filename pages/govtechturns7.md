@@ -27,7 +27,7 @@ We look forward to deepening our meaningful connections with you in the many yea
 <table>
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/gt7-devportal.png">
+            <br><img src="/images/SGDP-Digest.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Singapore Government Developer Portal Digest</b>
