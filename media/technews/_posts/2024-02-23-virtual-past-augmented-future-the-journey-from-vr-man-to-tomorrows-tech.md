@@ -23,7 +23,7 @@ Well, if all you know about VR are vague notions of the clunky, goofy-looking go
 Here, we explain and demystify both terms and discuss what the future holds.
 
 
-**7 Digital services that couples can try out:**
+**VR and AR, what is the difference?**
 1. [What is the origin story of VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#1-what-is-the-origin-story-of-vr)
 2. [What about the origin story of AR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#2-what-about-the-origin-story-of-ar)
 3. [But what is the difference between AR and VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#3-but-what-is-the-difference-between-ar-and-vr)
@@ -82,7 +82,7 @@ For example, Apple offers suggested lesson [plans](https://www.apple.com/sg/educ
 
 The technology has also been used to convey the dramatic effects of climate change through a project titled [Unmoored.](https://www.youtube.com/watch?v=0hPP0cHHubM&t=158s) Using the HoloLens headset and a custom mobile phone AR app, visitors to New York City’s Times Square can experience what it’s like for that iconic space to be completely submerged in water. 
 
-Finally, one thing that needs to be said is that as technology improves, our idea of what counts as virtual reality evolves as well. For example, some 1990s arcade classics, Virtua Cop and Virtua Fighter, might have been considered as shining examples of VR in the past. 
+Finally, one thing that needs to be said is that as technology improves, our idea of what counts as virtual reality evolves as well. For example, some 1990s arcade classics, [Virtua Cop](https://www.youtube.com/watch?v=t9Bw-pgZcVo) and Virtua Fighter, might have been considered as shining examples of VR in the past. 
 
 (Of course, no marketer would slap the word “virtua” (L or no L) on these titles today.)
 
