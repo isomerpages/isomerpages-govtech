@@ -27,7 +27,7 @@ Here, we explain and demystify both terms and discuss what the future holds.
 1. [What is the origin story of VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#1-what-is-the-origin-story-of-vr)
 2. [What about the origin story of AR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#2-what-about-the-origin-story-of-ar)
 3. [But what is the difference between AR and VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#3-but-what-is-the-difference-between-ar-and-vr)
-4. [How about some real-life examples of both pieces of technology being used?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-how-about-some-real-life-examples-of-both-pieces-of-technology)
+4. [How about some real-life examples of both pieces of technology being used?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-how-about-some-real--life-examples-of-both-pieces-of-technology)
 5. [What does the future hold for these tools](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-what-does-the-future-hold-for-these-tools)
 
 ### 1. What is the origin story of VR?
@@ -59,7 +59,7 @@ A prominent example of AR is the [Pokemon Go](https://niantic.helpshift.com/hc/e
 
 In addition, VR is well-suited for transplanting a user into a completely fictional, digital world, and so has uses in gaming and simulation. On the other hand, AR shines when interacting with the real world, so education and navigation are instances where it can prove useful. 
 
-### 4. How about some real life examples of both pieces of technology being used? 
+### 4. How about some real-life examples of both pieces of technology being used? 
 For starters, there is a long line of VR products in the realm of gaming, such as the [PlayStation](https://www.playstation.com/en-sg/ps-vr/) VR headset, and also the [Oculus](https://www.meta.com/quest/products/quest-2/) series of headsets for PC gaming. 
 
 VR is also being used for better healthcare outcomes in the medical industry. Surgeons at the George Washington University Hospital in the US use an [advanced virtual reality tool](https://www.gwhospital.com/conditions-services/surgery/precision-virtual-reality) to explore a patient’s brain and body before operating. 
