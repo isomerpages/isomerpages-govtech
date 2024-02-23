@@ -27,7 +27,7 @@ Here, we explain and demystify both terms and discuss what the future holds.
 1. [What is the origin story of VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#1-what-is-the-origin-story-of-vr)
 2. [What about the origin story of AR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#2-what-about-the-origin-story-of-ar)
 3. [But what is the difference between AR and VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#3-but-what-is-the-difference-between-ar-and-vr)
-4. [How about some real-life examples of both pieces of technology being used?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#4-how-about-some-real--life-examples-of-both-pieces-of-technology-being-used)
+4. [How about some real-life examples of both pieces of technology being used?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#4-how-about-some-real-life-examples-of-both-pieces-of-technology-being-used)
 5. [What does the future hold for these tools](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-what-does-the-future-hold-for-these-tools)
 
 ### 1. What is the origin story of VR?
