@@ -9,7 +9,7 @@ image: "images/technews/ar-vr-what-is-the-difference.jpg"
 
 ![Augmented reality and Virtual reality goggles](/images/technews/ar-vr-what-is-the-difference.jpg)
 
-A long, long time ago in 1998, a series called [VR Man](https://en.wikipedia.org/wiki/VR_Man) graced the silver screen in Singapore. 
+A long, long time ago in 1998, a series called "VR Man" graced the silver screen in Singapore. 
 
 VR Man, Singapore’s first superhero – played by 90s heartthrob James Lye – got his name from his primary power: The ability to project ‘Virtual Reality’ objects into the real world – aka ‘Virping.’ 
 
