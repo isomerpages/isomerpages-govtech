@@ -93,7 +93,7 @@ Floating screens that can be manipulated with gestures, a la the hit movie Minor
 
 Well, that future may just be around the corner judging from this [AR laptop](https://www.wired.com/story/sightful-spacetop-augmented-reality-laptop-hands-on-news/) that packs a virtual 100-inch screen that can display multiple windows and apps. What’s more, it doesn’t require massive hardware, consisting of a pair of AR glasses connected to a keyboard with a touchpad. 
 
-More recently, Meta CEO Mark Zuckerberg also posted a video on his [Instagram,](https://www.instagram.com/p/Cwfql7thwVl/) teasing VR tech that can turn any flat surface into a virtual keyboard.  
+More recently, Meta CEO Mark Zuckerberg also posted a video on Instagram, teasing VR tech that can turn any flat surface into a virtual keyboard.  
 
 With so many players vying to make VR and AR more a part of everyday life, we can be sure that these technologies will continue advancing, whether or not newly launched Apple’s Vision Pro proves to be a hit.
 
