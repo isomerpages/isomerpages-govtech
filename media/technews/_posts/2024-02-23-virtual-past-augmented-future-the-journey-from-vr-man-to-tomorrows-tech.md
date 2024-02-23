@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virtual Past. Augmented Future: The Journey from VR Man to Tomorrow's Tech"
+title: "Virtual Past, Augmented Future: The Journey from VR Man to Tomorrow's Tech"
 permalink: "/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech"
 category: technews
 recommender: true
