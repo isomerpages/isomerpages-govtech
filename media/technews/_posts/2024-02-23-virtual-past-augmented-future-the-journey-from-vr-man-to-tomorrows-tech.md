@@ -34,7 +34,7 @@ Here, we explain and demystify both terms and discuss what the future holds.
 
 In 1965, computer scientist Ivan Sutherland articulated the concept of an “ultimate display” where a head-mounted display could simulate reality to the point where one could not differentiate it from actual reality. 
 
-Three years later, he created the first such head-mounted display that was connected to a computer. Called the [Sword of Damocles](https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)), it was suspended from the ceiling (hence earning its moniker) and was strapped to the user, who could then view rudimentary computer-generated graphics of wireframe rooms and objects.
+Three years later, he created the first such head-mounted display that was connected to a computer. Called the [Sword of Damocles](https://www.computerhistory.org/revolution/input-output/14/356/1888), it was suspended from the ceiling (hence earning its moniker) and was strapped to the user, who could then view rudimentary computer-generated graphics of wireframe rooms and objects.
 
 This was technically the first attempt at VR.
 
