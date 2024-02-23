@@ -23,7 +23,7 @@ Well, if all you know about VR are vague notions of the clunky, goofy-looking go
 Here, we explain and demystify both terms and discuss what the future holds.
 
 
-**VR and AR, what is the difference?**
+**What is the difference between VR and AR?**
 1. [What is the origin story of VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#1-what-is-the-origin-story-of-vr)
 2. [What about the origin story of AR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#2-what-about-the-origin-story-of-ar)
 3. [But what is the difference between AR and VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#3-but-what-is-the-difference-between-ar-and-vr)
