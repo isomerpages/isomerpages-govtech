@@ -11,7 +11,7 @@ image: "images/technews/ar-vr-what-is-the-difference.jpg"
 
 A long, long time ago in 1998, a series called [VR Man](https://en.wikipedia.org/wiki/VR_Man) graced the silver screen in Singapore. 
 
-VR Man, Singapore’s first superhero – played by 90s heartthrob [James Lye](https://en.wikipedia.org/wiki/James_Lye) – got his name from his primary power: The ability to project ‘Virtual Reality’ objects into the real world – aka ‘Virping.’ 
+VR Man, Singapore’s first superhero – played by 90s heartthrob James Lye – got his name from his primary power: The ability to project ‘Virtual Reality’ objects into the real world – aka ‘Virping.’ 
 
 But here’s the thing: by today’s standards, the name ‘VR Man’ would probably have left many confused. Why? Because strictly speaking, his powers would be considered AR, or Augmented Reality. 
 
@@ -28,7 +28,7 @@ Here, we explain and demystify both terms and discuss what the future holds.
 2. [What about the origin story of AR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#2-what-about-the-origin-story-of-ar)
 3. [But what is the difference between AR and VR?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#3-but-what-is-the-difference-between-ar-and-vr)
 4. [How about some real-life examples of both pieces of technology being used?](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-how-about-some-real-life-examples-of-both-pieces-of-technology)
-5. [What the future hold for these tools](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-what-the-future-hold-for-these-tools)
+5. [What does the future hold for these tools](/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech#5-what-does-the-future-hold-for-these-tools)
 
 ### 1. What is the origin story of VR?
 
@@ -86,7 +86,7 @@ Finally, one thing that needs to be said is that as technology improves, our ide
 
 (Of course, no marketer would slap the word “virtua” (L or no L) on these titles today.)
 
-### 5. What the future hold for these tools?
+### 5. What does the future hold for these tools?
 What do sci-fi films depict when they want to deliver a sense that future societies have reached a super advanced state of technology? 
 
 Floating screens that can be manipulated with gestures, a la the hit movie Minority Report! 
