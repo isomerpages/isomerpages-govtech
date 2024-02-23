@@ -59,7 +59,7 @@ A prominent example of AR is the [Pokemon Go](https://niantic.helpshift.com/hc/e
 
 In addition, VR is well-suited for transplanting a user into a completely fictional, digital world, and so has uses in gaming and simulation. On the other hand, AR shines when interacting with the real world, so education and navigation are instances where it can prove useful. 
 
-### 4. How about some real-life examples of both pieces of technology being used? 
+### 4. How about some real life examples of both pieces of technology being used? 
 For starters, there is a long line of VR products in the realm of gaming, such as the [PlayStation](https://www.playstation.com/en-sg/ps-vr/) VR headset, and also the [Oculus](https://www.meta.com/quest/products/quest-2/) series of headsets for PC gaming. 
 
 VR is also being used for better healthcare outcomes in the medical industry. Surgeons at the George Washington University Hospital in the US use an [advanced virtual reality tool](https://www.gwhospital.com/conditions-services/surgery/precision-virtual-reality) to explore a patient’s brain and body before operating. 
