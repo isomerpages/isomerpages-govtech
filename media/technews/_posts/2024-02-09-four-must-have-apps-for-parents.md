@@ -4,10 +4,10 @@ title: "4 must have apps for parents"
 permalink: "/media/technews/four-must-have-apps-for-parents"
 category: technews
 recommender: true
-image: "images/technews/4-must-have-apps-for-parents.jpg"
+image: "images/technews/four-apps-for-family.jpg"
 ---
 
-![4 mobile apps that every parent should have](/images/technews/4-must-have-apps-for-parents.jpg)
+![4 mobile apps that every parent should have](/images/technews/four-apps-for-family.jpg)
 
 If there were a list of the busiest people in Singapore, we’d be willing to bet that ‘parents’ would be near the top of that list. In between juggling work, errands, relatives – and of course, school, life can get pretty hectic. 
 
