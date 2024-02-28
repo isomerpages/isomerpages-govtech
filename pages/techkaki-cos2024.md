@@ -6,6 +6,13 @@ breadcrumb: Tech Kaki
 ---
 
 ## What is Tech Kaki? 
+
+<div class="bp-youtube">
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9A0A5Yyv7Y?si=o-o87q5UdGrckvhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
+
 Tech Kaki is a 6,000 strong citizen community established by GovTech in late 2016 to encourage citizen participation in the development of our government digital products and services, ensuring they are designed to meet the needs of citizens and businesses.
 
 ![Tech Kaki GovTech](/images/techkaki-large-group.png)
@@ -36,12 +43,12 @@ They can join our Tech Kaki community by subscribing to our [newsletter](https:/
 
 <a href="https://go.gov.sg/techkaki-cos" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the Tech Kaki community</a>
 
-## How product owners work with Tech Kaki?
+## How can government agencies or product owners work with Tech Kaki?
 We keep our users informed of the various Smart Nation initiatives, co-creation and product testing opportunities via EDMs and Tech Kaki’s Facebook page. Government agencies or product owners who wish to recruit co-creators or product testers can leverage these communication platforms to expand their outreach.
 
 Tech Kaki members are familiar with the following engagement format such as opinion polls, surveys, user testing sessions and focus group discussions. The wide range of engagement format provides product teams with greater flexibility in terms of involvement, effort and frequency.
 
-## Contact us today to embark on the innovation journey
+**Contact us today to embark on the innovation journey!**
 
 <a href="https://go.gov.sg/techkaki-gov-cos" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Contact the Tech Kaki team</a>
 
