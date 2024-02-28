@@ -6,6 +6,13 @@ breadcrumb: Tech Kaki
 ---
 
 ## What is Tech Kaki? 
+
+<div class="bp-youtube">
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9A0A5Yyv7Y?si=o-o87q5UdGrckvhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</div>
+
 Tech Kaki is a 6,000 strong citizen community established by GovTech in late 2016 to encourage citizen participation in the development of our government digital products and services, ensuring they are designed to meet the needs of citizens and businesses.
 
 ![Tech Kaki GovTech](/images/techkaki-large-group.png)
