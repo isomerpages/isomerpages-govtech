@@ -8,22 +8,23 @@ image: "images/technews/cos2024.jpg"
 ---
 
 ![Making technology inclusive for all in Singapore](/images/technews/cos2024.jpg)
-The world has experienced an explosion in technology over the past few years, and Singapore is no exception.
+
+The world has experienced an explosion in technology over the past few years and Singapore is no exception.
 
 Cashless payments have become a way of life, even at hawker centres. Today, many government services can be accessed easily and quickly by people who are digital natives.
 
 This is mostly good, but new technological developments often serve the mass market first. This means that people with different needs and lower socioeconomic status can get left behind due to the sheer speed at which change is happening. 
+
 In response, GovTech has been striving to make life in Singapore inclusive. Our team relentlessly experiments and tests solutions to close gaps, if any. Sometimes they work out, sometimes they don’t.
 
 ### MoneySound: An attempt to help hawkers deal with the digital divide 
 You might not have heard this, but a product called MoneySound was previously in the works. Let us explain.
 
-When accepting digital payments, hawkers in Singapore – especially the elderly ones – might have trouble keeping track of their digital payments when they’re also 
-taking orders, preparing the food, and serving customers. 
+When accepting digital payments, hawkers in Singapore – especially the elderly ones – might have trouble keeping track of their digital payments when they’re also taking orders, preparing the food, and serving customers. 
 
 In fact, [The Straits Times reported](https://www.straitstimes.com/tech/tech-news/hawkers-scammed-by-fake-screenshots-of-e-payments) that in 2020, some dishonest folks created fake payment screenshots to mislead hawkers into thinking they received payment. 
 
-In response, MoneySound was developed by GovTech's three-man team. The product aimed to introduce audio alerts for digital payments, inspired by devices in other countries that assist vendors in tracking transactions without constant monitoring.
+In response, MoneySound was developed by a three-man GovTech team. The product aimed to introduce audio alerts for digital payments, inspired by devices in other countries that assist vendors in tracking transactions without constant monitoring.
 
 The team developed a 'proof-of-concept' prototype within two months, but upon further exploration, hawkers' feedback was tepid. Many were concerned about the inconvenience of installing and maintaining an additional device in their stalls. 
 
