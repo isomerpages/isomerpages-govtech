@@ -19,3 +19,5 @@ GITSIR proactively publishes alerts, advisories and directives on security vulne
 However, incidents may still occur from time to time. Agency users or IT teams that detect unusual activities or suspected malware must report their observations to GITSIR. Each Agency has appointed its own team of Security Incident Response Managers and Officers (SIRMs/SIROs). Together with the Chief Information Security Officers (CISO) and GITSIR, they work together to take the necessary steps when faced with possible cybersecurity threats.
 
 GITSIR uses the Incident Management process to identify the incident’s root cause and provide recommendations to agencies, who will then contain, recover and strengthen themselves against future attacks. GITSIR helps to triage each report to ascertain the severity of each case as well as coordinate with the parties involved, and advise affected agencies on appropriate actions. It also carries out forensic and malware analysis and helps the Government prevent future attacks.
+
+You may view and download the [GITSIR RFC 2350 Profile](/files/products-and-services/GITSIR-RFC-2350-Profile.pdf) here. 
