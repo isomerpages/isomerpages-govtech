@@ -20,6 +20,8 @@ Friday, 8 March 2024
 
 This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee Resource Group (ERG) for 2024. The event is dedicated to empowering women in technology within the government by providing networking opportunities, career workshops, and human library experiences. Participants will have the chance to discover how they can pursue their career goals with the support of allies and female role models from both the public and private sectors.
 
+**Speakers**
+
 <div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/02-Imane.png" alt="Speaker Imane Jamal Eddine for Women in (Gov)Tech International Women’s Day Mini Conference" />
