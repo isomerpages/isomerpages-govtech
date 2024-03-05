@@ -15,4 +15,6 @@ We're looking for speakers to share your proposals if you would like to:
 * speak about a topic at our plenary or lightning talks; or
 * conduct technical workshop(s) for conference attendees
 
-For more details, visit the [Developer Portal](https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html)!
+For more details, visit the [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html) today!
+
+*Closing date for proposals submission: 17 May 2024*
