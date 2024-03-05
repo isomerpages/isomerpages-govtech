@@ -11,7 +11,7 @@ category: events
 
 Interested to speak at the conference? 
 
-We're looking for speakers to share your proposals and topics if you would like to:
+We're looking for speakers to share your proposals if you would like to:
 * speak about a topic at our plenary or lightning talks; or
 * conduct technical workshop(s) for conference attendees
 
