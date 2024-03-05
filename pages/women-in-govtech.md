@@ -6,8 +6,6 @@ permalink: /women-in-govtech
 breadcrumb: Women in (Gov)Tech
 ---
 
-![Logo for Women in (Gov)Tech Employee Resource Group (ERG)](/images/01-wig-logo.png)
-
 ## Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.
 
 Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource Group (ERG) was inaugurated as the first employee resource group dedicated to cultivating and retaining female talent within the Singapore Government. Today, WiG has initiated diversity workshops, a Girls-in-Tech mentoring program with over 130 sign-ups and 30 mentors recruited across GovTech, and career events featuring industry leaders such as Apple, Airbnb, and SheLovesTech. WiG continues to lead the charge in creating an inclusive environment where every individual has the opportunity to thrive and succeed.
