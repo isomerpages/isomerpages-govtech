@@ -27,8 +27,7 @@ This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/03-DrViveka.png
-" alt="Speaker Dr Viveka Kalidasan for Women in (Gov)Tech International Women’s Day Mini Conference" />
+      <img src="/images/03-DrViveka.png" alt="Speaker Dr Viveka Kalidasan for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Dr Viveka Kalidasan, Founder-CEO, River Venture Studio</b></figcaption>
   </div>
 	
