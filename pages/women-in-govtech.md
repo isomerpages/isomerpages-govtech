@@ -91,7 +91,7 @@ Spaces are filling up fast! Applications close **22 March 2024**. Further detail
 Reach out to us if you would like to learn more about Women in (Gov)Tech and our initiatives.
 
 Liyana MUHAMMAD FAUZI: <Liyana_MUHAMMAD_FAUZI@tech.gov.sg>
-Alicia LEE: <Alicia_LEE@mci.gov.sg>
+<br>Alicia LEE: <Alicia_LEE@mci.gov.sg>
 
 ### Our Initiatives
 
