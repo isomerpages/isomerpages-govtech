@@ -13,8 +13,10 @@ Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource Group 
 ## Upcoming Events
 
 ### International Women’s Day Mini Conference
-InterContinental Hotel
+
 Friday, 8 March 2024
+
+InterContinental Hotel
 
 This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee Resource Group (ERG) for 2024. The event is dedicated to empowering women in technology within the government by providing networking opportunities, career workshops, and human library experiences. Participants will have the chance to discover how they can pursue their career goals with the support of allies and female role models from both the public and private sectors.
 
@@ -86,14 +88,14 @@ Eligibility:
 
 Spaces are filling up fast! Applications close **22 March 2024**. Further details regarding mentor opportunities will be made available soon.
 
-### Contact Us
+## Contact Us
 
 Reach out to us if you would like to learn more about Women in (Gov)Tech and our initiatives.
 
 Liyana MUHAMMAD FAUZI: <Liyana_MUHAMMAD_FAUZI@tech.gov.sg>
 <br>Alicia LEE: <Alicia_LEE@mci.gov.sg>
 
-### Our Initiatives
+## Our Initiatives
 
 <div class="row">
 	<div class="col is-6">
