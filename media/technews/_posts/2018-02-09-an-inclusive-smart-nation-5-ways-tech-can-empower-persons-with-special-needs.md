@@ -23,20 +23,20 @@ For an inclusive Smart Nation that seeks to better the lives of all its citizens
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/YIt9FRBlBtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### **Finding a voice**
-Communication lies at the heart of learning, and helps young people integrate into their social environment. Thus, children with speech impairments resulting from conditions such as cerebral palsy often feel lonely and frustrated when they are unable to express themselves. This only perpetuates the cycle of isolation and prevents their normal interaction with others.
+Communication lies at the heart of learning and helps young people integrate into their social environment. Thus, children with speech impairments resulting from conditions such as cerebral palsy often feel lonely and frustrated when they are unable to express themselves. This only perpetuates the cycle of isolation and prevents their normal interaction with others.
 
 Where the human voice fails, writing and text-to-speech converters can help bridge the silence and facilitate the exchange of thoughts and ideas. These are known as augmentative and alternative communication (AAC) methods, and they can be embedded into devices that everyone uses daily, such as mobile phones or tablets.
 
 The TouchChat application on iPhones and iPads is an example of an AAC. It helps persons with speech impairments spell out and construct sentences by combining different symbols. A voice then reads out the message once it has been composed. Think of this as a translator or a spokesperson, helping to relay messages and broker conversations in an intuitive manner.
 
-![8 insights from singapore’s government chief information officer](/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-2.png)
+![An inclusive Smart Nation: Learning devices and tools to help the mentally challenged or physically disabled for optimal learning](/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-2.png)
 
 ### **An eye for detail**
 Sometimes, diseases can strip a person of mobility as well as speech. For example, stroke survivors or patients who have motor neuron disease could be mentally aware but unable to communicate in any manner, apart from blinking and gazing with their eyes. With technology, these tiny movements are sufficient to open a window into an individual’s mind.
 
 Advanced eye tracking technology, where a camera monitors eye movement and uses those minute motions to control a computer cursor, can allow a person to ‘speak’ their mind with their eyes. Training their gaze on a virtual keyboard, users select letters, words or phrases by blinking or staring at their intended target for milliseconds longer. The sentences are then read aloud by an inbuilt voice assistant.
 
-Tan Tock Seng Hospital’s Help Me Speak initiative employs this technology to allow its patients to express discomfort, call for help in an emergency, hold conversations and even surf the internet. TheSpecialised ATC also loans eye tracking devices to patients who need them.
+Tan Tock Seng Hospital’s Help Me Speak initiative employs this technology to allow its patients to express discomfort, call for help in an emergency, hold conversations and even surf the internet. The Specialised ATC also loans eye-tracking devices to patients who need them.
 
 ### **A sound solution**
 Reading a newspaper is a simple task for people with normal vision. But for those with eye conditions such as cataracts or macular degeneration that result in low vision, making out words and sentences on a page or screen can be troublesome and frustrating. Devices and software that magnify and raise the contrast of text can help individuals with sight impediments read.
@@ -48,7 +48,7 @@ The Assistive Devices Centre run by the Singapore Association for the Visually H
 
 ### **Getting around**
 
-![8 insights from singapore’s government chief information officer](/images/technews/8-insights-from-singapore’s-government-chief-information-officer-part-3.png)
+![Personal mobility devices can help the disabled to move around and carry on with their daily activities](/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-3.png)
 
 Personal mobility devices such as bicycles and electronic scooters may generate buzz in terms of urban mobility in a Smart Nation, but for those who are unable to walk, the wheelchair is the most important personal mobility device of all. However, those with upper and lower limb limitations may struggle to use manual or even powered wheelchairs.
 
@@ -57,10 +57,10 @@ Motorised wheelchairs with alternative interfaces are now available, allowing th
 Changi Airport is also conducting a trial for smart wheelchairs, which incorporate obstacle detection sensors and electric motor control to help people with disabilities navigate the airport terminals. Airport staff need only press a button on the smart wheelchair to have it ‘recognise’ him or her. The semi-autonomous wheelchair will then follow behind the staff, who will bring the passenger on the wheelchair to the flight gate.
 
 ### **A smarter home sweet home**
- Living independently is something many able-bodied people take for granted. Tasks as simple as switching off all the lights in the house before going to sleep can be difficult for a person with physical disability. This is where smart home technology, leveraging the Internet of Things, can help persons with disabilities live independently.
+ Living independently is something many able-bodied people take for granted. Tasks as simple as switching off all the lights in the house before going to sleep can be difficult for a person with a physical disability. This is where smart home technology, leveraging the Internet of Things, can help persons with disabilities live independently.
 
 With a tap of the finger on a mobile application, users can control home appliances and even create automated actions based on triggers such as time and sensor inputs. Some smart home systems also offer the option to customise, for example, an ‘away from home’ setting that remotely switches off all the lights and electrical appliances.
 
-Besides providing convenience, these IoT devices can also function as alarm systems for emergencies. Fall sensors, emergency call systems and motion detectors can ensure that family members and caregivers are informed of any urgent situations in real-time. Some of the ageing-in-place systems implemented in households with elderly may therefore be useful for those with disabilities as well.
+Besides providing convenience, these IoT devices can also function as alarm systems for emergencies. Fall sensors, emergency call systems and motion detectors can ensure that family members and caregivers are informed of any urgent situations in real time. Some of the ageing-in-place systems implemented in households with elderly may therefore be useful for those with disabilities as well.
 
 Image Source: [http://www.spd.org.sg](http://www.spd.org.sg/)

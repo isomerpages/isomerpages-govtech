@@ -32,27 +32,41 @@ This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee
       <img src="/images/03-DrViveka.png" alt="Speaker Dr Viveka Kalidasan for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Dr Viveka Kalidasan, Founder-CEO, River Venture Studio</b></figcaption>
   </div>
-	
+</div>
+
+<div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/04-Halynne.png" alt="Speaker Halynne Shi for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Halynne Shi, Product Manager, Spotify</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+      <img src="/images/05-Rasyida.png" alt="Speaker Rasyida S Paddy for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Rasyida S Paddy, SaaS marketing lead, Oracle</b></figcaption>
   </div>
 </div>	
 
 <div class="row">
   <div class="col" style="text-align: center">
-      <img src="/images/05-Rasyida.png" alt="Speaker Rasyida S Paddy for Women in (Gov)Tech International Women’s Day Mini Conference" />
-    <figcaption><b>Rasyida S Paddy, SaaS marketing lead, Oracle</b></figcaption>
-  </div>
-
-  <div class="col" style="text-align: center">
-      <img src="/images/06-Wendy.png" alt="Speaker Wendy Wong for Women in (Gov)Tech International Women’s Day Mini Conference" />
-    <figcaption><b>Wendy Wong, Managing and Creative Director, 55 Minutes</b></figcaption>
+      <img src="/images/Tan-Jiale.png" alt="Speaker Tan Jiale for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Tan Jiale, Co-founder and CEO, ESGnie and ByteGenie</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
       <img src="/images/07-Deniece.png" alt="Speaker Deniece Tan for Women in (Gov)Tech International Women’s Day Mini Conference" />
-    <figcaption><b>Deniece Tan, Digital Business Analyst</b></figcaption>
+    <figcaption><b>Deniece Tan, Digital Business Analyst, GovTech</b></figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col" style="text-align: center">
+      <img src="/images/Wendy-Wong.jpg" alt="Speaker Wendy Wong for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Wendy Wong, Managing and Creative Director, 55 Minutes</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+      <img src="/images/Gek-Khiang.jpg" alt="Speaker Tan Gek Khiang for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Tan Gek Khiang, Cluster Director, GovTech</b></figcaption>
   </div>
 </div>
 

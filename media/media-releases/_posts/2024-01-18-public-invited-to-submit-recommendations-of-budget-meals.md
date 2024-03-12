@@ -19,12 +19,12 @@ Since the soft launch in end October 2023, the public has submitted over 1,600 r
 
 From today, the recommendations submitted by the public will be gradually listed on the BudgetMealGoWhere website, starting with over 240 budget meal and drink options available across 130 coffee shops. To make it easier for the public to identify user-submitted budget meal listings, a “Public Contributions” label will be added above the name of each coffee shop offering the submitted budget meals.
 
-![“Public Contributions” label will be added to help visitors identify user-submitted budget meals](images/media-release/GBMH-1.png)
+![“Public Contributions” label will be added to help visitors identify user-submitted budget meals](/images/media-release/GBMH-1.png)
 *A “Public Contributions” label will be added to help visitors identify user-submitted budget meals.*
 
 Besides contributing information on budget meals, the public can also access the latest statistics on the Great Budget Meal Hunt Info-bites webpage that is available on the CrowdTaskSG portal. These include hourly updates on the number of submissions in each region islandwide as well as the most recent submission by the public. 
 
-![Screenshot of the Great Budget Meal Hunt info-bites webpage](images/media-release/GBMH-2.png)
+![Screenshot of the Great Budget Meal Hunt info-bites webpage](/images/media-release/GBMH-2.png)
 *Screenshot of the Great Budget Meal Hunt info-bites webpage.*
 
 All Singapore Citizens and Permanent Residents aged 18 and above with a Singpass account can register as CrowdTaskSG users and participate in the Great Budget Meal Hunt. By completing challenges, users can gain stars and level up to unlock different elements of the Great Budget Meal Hunt, such as Badges and more complex challenges.
@@ -33,7 +33,7 @@ All Singapore Citizens and Permanent Residents aged 18 and above with a Singpass
 
 [BudgetMealGoWhere](https://www.go.gov.sg/budgetmeal) contains a listing of coffee shops and the available budget meal options, starting with locations nearest to the postal code or address entered by the user. Launched on 19 May 2023, the BudgetMealGoWhere website has had more than 300,000 unique visitors since its launch. The public can identify budget meals at the participating stalls by looking out for the budget meal decal sticker on the food display signage. 
 
-![Budget meal decal provided at HDB coffee shops](images/media-release/budget-meal-decal-smaller.png)
+![Budget meal decal provided at HDB coffee shops](/images/media-release/budget-meal-decal-smaller.png)
 *Customers can look out for this budget meal decal provided at HDB coffee shops.*
 
 BudgetMealGoWhere started with a list of about 40 HDB rental coffee shops let out via Price-Quality Method (PQM) tenders<sup>[3]</sup>, where tenderers were required to include budget meals as part of their tender bids. Since May 2023, all HDB rental coffee shops will have to offer budget meal options upon their tenancy renewal. As of 15 Jan 2024, there are over 250 coffee shops (including those owned by HDB and private owners) listed on BudgetMealGoWhere. By 2026, budget meals will be offered at all 374 HDB rental coffee shops<sup>[4]</sup>.
@@ -47,7 +47,7 @@ The Government remains committed to ensuring that residents have access to affor
 ---
 
 <br><sup>[1]</sup> [CrowdTaskSG](https://www.crowdtask.gov.sg) is an initiative by GovTech. It is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks. These tasks include surveys and multiple-choice questions.
-<br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the homescreen.
+<br><sup>[2]</sup> LifeSG consolidates digital government services and information across multiple government agencies, providing simpler access to services for life's key moments and daily living. To access the Great Budget Meal Hunt on the LifeSG app, users can tap on the banner titled “Crowdsourcing affordable eats” on the home screen.
 <br><sup>[3]</sup> Since 2018, new HDB coffee shops have been let out via Price-Quality Method (PQM) tenders. This approach allows HDB to better meet the needs of residents while ensuring rents remain sustainable for operators, as PQM tenders are reviewed holistically based on a range of criteria, and not just based on price alone.
 <br><sup>[4]</sup> Since 1998, HDB no longer sells coffee shops, and only rents them out. There is a total of 776 coffeeshops in Singapore, of which 374 are rented out by HDB to private operators and 402 are privately-owned.
 <br><sup>[5]</sup> 2 new coffee shops in Clementi and 1 each in Punggol, Bukit Batok and Woodlands.
