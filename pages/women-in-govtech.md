@@ -46,13 +46,25 @@ This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee
   </div>
 
   <div class="col" style="text-align: center">
-      <img src="/images/06-Wendy.png" alt="Speaker Wendy Wong for Women in (Gov)Tech International Women’s Day Mini Conference" />
-    <figcaption><b>Wendy Wong, Managing and Creative Director, 55 Minutes</b></figcaption>
+      <img src="/images/Tan-Jiale.png" alt="Speaker Tan Jiale for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Tan Jiale, Co-founder and CEO, ESGnie and ByteGenie</b></figcaption>
   </div>
 
   <div class="col" style="text-align: center">
       <img src="/images/07-Deniece.png" alt="Speaker Deniece Tan for Women in (Gov)Tech International Women’s Day Mini Conference" />
-    <figcaption><b>Deniece Tan, Digital Business Analyst</b></figcaption>
+    <figcaption><b>Deniece Tan, Digital Business Analyst, GovTech</b></figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col" style="text-align: center">
+      <img src="/images/Wendy-Wong.jpg" alt="Speaker Wendy Wong for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Wendy Wong, Managing and Creative Director, 55 Minutes</b></figcaption>
+  </div>
+
+  <div class="col" style="text-align: center">
+      <img src="/images/Gek-Khiang.jpg" alt="Speaker Tan Gek Khiang for Women in (Gov)Tech International Women’s Day Mini Conference" />
+    <figcaption><b>Tan Gek Khiang, Cluster Director, GovTech</b></figcaption>
   </div>
 </div>
 
