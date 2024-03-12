@@ -32,19 +32,21 @@ This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee
       <img src="/images/03-DrViveka.png" alt="Speaker Dr Viveka Kalidasan for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Dr Viveka Kalidasan, Founder-CEO, River Venture Studio</b></figcaption>
   </div>
-	
+</div>
+
+<div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/04-Halynne.png" alt="Speaker Halynne Shi for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Halynne Shi, Product Manager, Spotify</b></figcaption>
   </div>
-</div>	
 
-<div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/05-Rasyida.png" alt="Speaker Rasyida S Paddy for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Rasyida S Paddy, SaaS marketing lead, Oracle</b></figcaption>
   </div>
+</div>	
 
+<div class="row">
   <div class="col" style="text-align: center">
       <img src="/images/Tan-Jiale.png" alt="Speaker Tan Jiale for Women in (Gov)Tech International Women’s Day Mini Conference" />
     <figcaption><b>Tan Jiale, Co-founder and CEO, ESGnie and ByteGenie</b></figcaption>
