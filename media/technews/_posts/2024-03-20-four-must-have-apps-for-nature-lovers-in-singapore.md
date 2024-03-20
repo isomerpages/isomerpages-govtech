@@ -4,10 +4,10 @@ title: "4 must have apps for nature lovers in Singapore"
 permalink: "/media/technews/four-must-have-apps-for-nature-lovers-in-singapore"
 category: technews
 recommender: true
-image: "images/technews/vday-apps.png"
+image: "images/technews/four-apps-for-nature-lovers.png"
 ---
 
-![6 apps for couples](/images/technews/vday-apps.png)
+![4 apps for nature lovers](/images/technews/four-apps-for-nature-lovers.png)
 
 
 Since 2007, people around the world have been marking [Earth Hour](https://www.earthhour.org/) by turning off non-essential lights in the hope that darkened homes, billboards, and buildings will raise awareness about the environment. 
