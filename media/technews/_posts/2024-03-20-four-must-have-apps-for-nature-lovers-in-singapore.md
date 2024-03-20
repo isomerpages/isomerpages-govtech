@@ -18,11 +18,11 @@ We have four apps that will enhance your outdoor experience and boost your knowl
 
 
 
-**4 Apps for the great outdoors!:**
+**4 Apps for the Great Outdoors!:**
 1. [Learn about the green giants around you with TreesSG](/media/technews/four-must-have-apps-for-nature-lovers-in-singapore#1-learn-about-the-green-giants-around-you-with-treessg)
-2. [See what lives near you with SGBioAtlas](/media/technews//media/technews/four-must-have-apps-for-nature-lovers-in-singapore#2-see-what-lives-near-you-with-SGBioAtlas)
-3. [Bring nature nearer with NParks Explore A Route](/media/technews//media/technews/four-must-have-apps-for-nature-lovers-in-singapore#3-bring-nature-nearer-with-nparks-explore-a-route)
-4. [Be prepared for the weather with MyENV](/media/technews//media/technews/four-must-have-apps-for-nature-lovers-in-singapore#4-be-prepared-for-the-weather-with-myenv)
+2. [See what lives near you with SGBioAtlas](/media/technews/four-must-have-apps-for-nature-lovers-in-singapore#2-see-what-lives-near-you-with-sgbioatlas)
+3. [Bring nature nearer with NParks Explore A Route](/media/technews/four-must-have-apps-for-nature-lovers-in-singapore#3-bring-nature-nearer-with-nparks-explore-a-route)
+4. [Be prepared for the weather with MyENV](/media/technews/four-must-have-apps-for-nature-lovers-in-singapore#4-be-prepared-for-the-weather-with-myenv)
 
 
 ### 1. Learn about the green giants around you with TreesSG
