@@ -6,7 +6,7 @@ category: technews
 image: "/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png"
 ---
 
-![cyberattacks in healthcare put human lives at risk]({{site.baseurl}}/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png)
+![cyberattacks in healthcare put human lives at risk]({{site.baseurl}}(/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png)
 
 * *Healthcare ranks among the top five industries most targeted by cyberattacks; this puts not only patient data but also human lives at risk*
 * *Cybersecurity needs to become part of the organisational culture in both healthcare providers and medtech companies*
