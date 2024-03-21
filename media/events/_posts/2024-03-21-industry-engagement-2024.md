@@ -5,27 +5,22 @@ permalink: "/media/events/industry-engagement-2024"
 category: events
 ---
 
-[![GovTech Industry Engagement 2024](images/media/events/GovTech_IE2024_EventsPageBanner_V3.png)](https://go.gov.sg/stackx-smart-city-gtwebsite){:target="_blank"}
+![GovTech Industry Engagement 2024](/images/media/events/GovTech_IE2024_EventsPageBanner_V3.png)
 
-STACKx Smart City will be a one-day, in-person event, held at Suntec Convention Centre on **Wednesday, 27 March 2024**. At STACKx Smart City, you'll hear from experts on the latest technology trends that will shape today’s Smart City. 
+Industry Briefing has been rebranded as Industry Engagement (IE) to better reflect its new ambition to foster deeper ties and valuable collaborations with the industry. 
 
-This is an excellent opportunity for government leaders, tech professionals, and industry practitioners to come together and learn more about the possibilities that Smart City technologies can bring. You will also get to network with like-minded Smart City professionals. 
+IE is where GovTech gathers with our industry partners for a meaningful two-way dialogue-sharing from industry partners about their expertise, and how this might address changing citizens’ and businesses' needs.
 
-This event will feature insightful tech sharing sessions and meaningful conversations around Smart City Planning, Smart City Operations and Smart Living. Discover a lineup of innovative product showcases that covers Open Digital Platform, Robotics, Digital Twins and more!
+## Event Details:
+<br>**Date:** 14 May 2024, Tuesday
+<br>**Time:** 9.30 am to 12 noon
+<br>(Registration starts at 9 am)
+<br>**Venue:** Summit 1, Level 3, Suntec City Convention Centre
 
-The programme includes: 
+Save your spot and **register today at** <form link>
 
-* Keynote presentations 
-* Panel discussions 
-* Presentations by government agencies 
-* Presentations by GovTech's Smart City Technology product teams 
-* Sharing by industry experts 
-* Innovative product showcases
+Due to limited capacity, each organisation will be allocated a maximum of 3 seats.
 
-Date: 27 March 2024 
-<br>Time: 8:30 AM to 5:00 PM 
-<br>Venue: Suntec Singapore Convention Centre 
+If you have enquiries, please contact our event management partner at <IE2024@twistmedia.sg>
 
-Find out more about [STACKx Smart City 2024](https://go.gov.sg/stackx-smart-city-gtwebsite){:target="_blank"}.
-
-
+We look forward to see you at the event!
