@@ -10,7 +10,27 @@ breadcrumb: Women in (Gov)Tech
 
 Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource Group (ERG) was inaugurated as the first employee resource group dedicated to cultivating and retaining female talent within the Singapore Government. Today, WiG has initiated diversity workshops, a Girls-in-Tech mentoring program with over 130 sign-ups and 30 mentors recruited across GovTech, and career events featuring industry leaders such as Apple, Airbnb, and SheLovesTech. WiG continues to lead the charge in creating an inclusive environment where every individual has the opportunity to thrive and succeed.
 
+On 8 March 2024, WiG held our inaugural International Women's Day Mini Conference! Check out some of our learnings here and feel free to add on your own: [https://padlet.com/womeningovtech2021/iwd24learnings](https://padlet.com/womeningovtech2021/iwd24learnings){:target="_blank"}
+
 ## Upcoming Events
+
+### Girls in Tech Summer Mentorship Programme
+
+17 May 2024 to 2 August 2024
+
+The Girls in Tech Summer Mentorship Programme is organised by the Women in (Gov)Tech Employee Resource Group to empower young females who are interested in joining the tech industry / public sector.
+
+Eligibility:
+* Female Singapore Citizen / PR studying in university, polytechnic, or junior college
+* Desire to meet new people and make new friends
+* Learn new skills and gain valuable experience
+* Make a positive impact in your community and beyond
+
+<a href="https://go.gov.sg/git-mentee-signup-24" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+
+Spaces are filling up fast! Applications close **22 March 2024**. Further details regarding mentor opportunities will be made available soon.
+
+## Past Events
 
 ### International Women’s Day Mini Conference
 
@@ -85,22 +105,6 @@ This is the first event organized by GovTech's Women in (Gov)Tech (WiG) Employee
 <br>Network and learn from female leaders in the tech industry in areas such as product, marketing, strategy, operations, and more.
 
 5:00 PM: Farewell
-
-### Girls in Tech Summer Mentorship Programme
-
-17 May 2024 to 2 August 2024
-
-The Girls in Tech Summer Mentorship Programme is organised by the Women in (Gov)Tech Employee Resource Group to empower young females who are interested in joining the tech industry / public sector.
-
-Eligibility:
-* Female Singapore Citizen / PR studying in university, polytechnic, or junior college
-* Desire to meet new people and make new friends
-* Learn new skills and gain valuable experience
-* Make a positive impact in your community and beyond
-
-<a href="https://go.gov.sg/git-mentee-signup-24" target="_blank" style="background-color: #B41E8E; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
-
-Spaces are filling up fast! Applications close **22 March 2024**. Further details regarding mentor opportunities will be made available soon.
 
 ## Contact Us
 
