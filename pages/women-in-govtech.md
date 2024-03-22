@@ -10,6 +10,8 @@ breadcrumb: Women in (Gov)Tech
 
 Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource Group (ERG) was inaugurated as the first employee resource group dedicated to cultivating and retaining female talent within the Singapore Government. Today, WiG has initiated diversity workshops, a Girls-in-Tech mentoring program with over 130 sign-ups and 30 mentors recruited across GovTech, and career events featuring industry leaders such as Apple, Airbnb, and SheLovesTech. WiG continues to lead the charge in creating an inclusive environment where every individual has the opportunity to thrive and succeed.
 
+On 8 March 2024, WiG held our inaugural International Women's Day Mini Conference! Check out some of our learnings here and feel free to add on your own: [https://padlet.com/womeningovtech2021/iwd24learnings](https://padlet.com/womeningovtech2021/iwd24learnings){:target="_blank"}
+
 ## Upcoming Events
 
 ### International Women’s Day Mini Conference
