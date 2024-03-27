@@ -14,14 +14,14 @@ agency-logo: /images/logo_govtech_hort.gif
 google-analytics: UA-82296306-1
 
 # Hero Banner
-hero-title: Get the latest insights with TechNews
+hero-title: 
 hero-subtitle: 
-hero-banner: /images/TN-banner.png
+hero-banner: /images/homepage-generic.jpg
 
 #Call to Action Button
 button:
-  - text: Subscribe to TechNews
-    url: /media/technews/subscribe
+  - text: 
+    url: 
     
 # Key Highlights
 key-highlights:
