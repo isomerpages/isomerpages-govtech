@@ -15,13 +15,13 @@ google-analytics: UA-82296306-1
 
 # Hero Banner
 hero-title: 
-hero-subtitle: 
-hero-banner: /images/GovTech_IE2024_HomePageBanner_V6.png
+hero-subtitle: Get the latest insights with TechNews
+hero-banner: /images/TN-banner.png
 
 #Call to Action Button
 button:
-  - text: Register Now
-    url: https://go.gov.sg/stackx-smart-city-gtwebsite
+  - text: Subscribe to TechNews
+    url: /media/technews/subscribe
     
 # Key Highlights
 key-highlights:
