@@ -11,7 +11,7 @@ image: "images/technews/empowering-girls-in-tech-summer-internship.png"
 
 Since 2021, GovTech has organised a [Girls in Tech Summer Mentorship programme](https://www.tech.gov.sg/women-in-govtech#:~:text=The%20Girls%20in%20Tech%20Summer,university%2C%20polytechnic%2C%20or%20junior%20college){:target="_blank"} to inspire and encourage young female talents to explore and pursue careers in technology. 
 
-Organised by our Women in (Gov)Tech (WiG) Employee Resource Group (ERG), this is part of our efforts to cultivate and nurture/empower female talent within the tech industry and in the Singapore Government. 
+Organised by our Women in (Gov)Tech (WiG) Employee Resource Group (ERG), this is part of our efforts to cultivate and nurture/empower female talent within the tech industry and in the Singapore Government.
 
 The three-month mentorship programme offers young women studying in university, polytechnic, or junior colleges a unique opportunity to work on personal projects that enhance their technical skills under the guidance of experienced GovTechies. 
 
