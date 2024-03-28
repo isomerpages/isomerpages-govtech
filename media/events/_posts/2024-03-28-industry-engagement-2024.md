@@ -14,7 +14,7 @@ IE is where GovTech gathers with our industry partners for a meaningful two-way 
 ## Event Details:
 **Date:** 14 May 2024, Tuesday
 <br>**Time:** 9.00 am to 12 noon
-<br>**Venue:** Summit 1, Level 3, Suntec City Convention Centre
+<br>**Venue:** Suntec Convention Centre
 
 | Time | Programme |
 | ----------- | ----------- |
