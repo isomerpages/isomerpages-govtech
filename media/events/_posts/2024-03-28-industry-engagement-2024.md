@@ -12,8 +12,8 @@ Industry Briefing has been rebranded as Industry Engagement (IE) to better refle
 IE is where GovTech gathers with our industry partners for a meaningful two-way dialogue-sharing from industry partners about their expertise, and how this might address changing citizens’ and businesses' needs.
 
 ## Event Details:
-<br>**Date:** 14 May 2024, Tuesday
-<br>**Time:** 9.30 am to 12 noon
+**Date:** 14 May 2024, Tuesday
+<br>**Time:** 9.00 am to 12 noon
 <br>**Venue:** Summit 1, Level 3, Suntec City Convention Centre
 
 | Time | Programme |
