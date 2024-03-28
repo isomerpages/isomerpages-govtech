@@ -13,7 +13,7 @@ Since 2021, GovTech has organised a [Girls in Tech Summer Mentorship programme](
 
 Organised by our Women in (Gov)Tech (WiG) Employee Resource Group (ERG), this is part of our efforts to cultivate and nurture/empower female talent within the tech industry and in the Singapore Government.
 
-The three-month mentorship programme offers young women studying in university, polytechnic, or junior colleges a unique opportunity to work on personal projects that enhance their technical skills under the guidance of experienced GovTechies. 
+The three-month mentorship programme offers young women studying at universities, polytechnics, or junior colleges a unique opportunity to work on personal projects that enhance their technical skills under the guidance of experienced GovTechies. 
 
 Last year, one of our participants, [Ong Yong En](https://www.linkedin.com/in/yong-en-ong){:target="_blank"}, had the opportunity to be mentored by [Michael Cheng](https://www.linkedin.com/in/miccheng){:target="_blank"}, a Principal Software Engineer at GDS-ACE (Meteor), and second-time mentor at the programme. 
 
@@ -39,7 +39,7 @@ Through the mentorship sessions, Michael has always encouraged me to explore mul
 
 ## What was your most memorable experience during the internship?
 
-(image)
+![Yong En spending time with her mentors at GovTech](/images/technews/Empowering-girls-2.jpg)
 
 Michael noticed that I was into GeoCaching, so he introduced me to a friend who was *also* into GeoCaching. 
 
@@ -49,7 +49,7 @@ Interestingly, it also was Michael’s first time, so I really appreciate him fo
 
 ## What else did you appreciate about your mentor, Michael?
 
-(image)
+![Yong En and her mentor, Michael at a GovTech event at the office.](/images/technews/Empowering-girls-3.jpg)
 
 I appreciate his sincerity and kindness in helping me along the way, providing guidance and words of wisdom every week during our mentoring sessions, and on an ad-hoc basis as well. 
 
@@ -59,7 +59,7 @@ After these mentoring sessions, I had a clearer idea of how my career could pan 
 
 ## Any words of encouragement for girls to pursue their interest in tech?
 
-(image)
+![Yong En receiving a certificate of participation in the Girls in Tech summer mentorship programme.](/images/technews/Empowering-girls-4.jpg)
 
 For me, imposter syndrome is something I struggled a lot with. 
 
