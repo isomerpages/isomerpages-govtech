@@ -28,6 +28,6 @@ Save your spot and **register today at** <https://go.gov.sg/ie2024-reg>{:target=
 
 Due to limited capacity, each organisation will be allocated a maximum of 3 seats.
 
-If you have enquiries, please contact our event management partner at <IE2024@twistmedia.sg>{:target="_blank"}
+If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}
 
-We look forward to see you at the event!
+We look forward to seeing you at the event!
