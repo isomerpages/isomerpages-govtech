@@ -36,6 +36,7 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 
 Applications for our internship programme open from 1 August to 30 September 2024. Join our [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"} to stay updated on our upcoming job opportunities, news and recruiting events at GovTech. 
+
 For enquiries, please write to <AreYouIT@tech.gov.sg>
 
 
