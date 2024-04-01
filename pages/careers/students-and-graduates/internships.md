@@ -23,9 +23,11 @@ Gain the opportunity to work on projects beyond IT, and be part of a team of com
 
 We welcome pre-tertiary, polytechnic students and university students to apply for our internships during the internship application periods indicated below. Check out a wide range of internship opportunities across many exciting domains.
 
+
 **GovTech Internships Application Periods**
 
 ![GovTech Internships Application Periods](/images/careers/2024_2025_internship_application_periods.png)
+
 
 **GovTech Internships Selection Process**
 
