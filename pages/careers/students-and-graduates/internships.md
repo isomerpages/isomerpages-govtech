@@ -26,7 +26,7 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 **GovTech Internships Application Periods**
 
-![GovTech Internships Application Periods](/images/careers/2024_2025_internship_application_periods.png)
+![GovTech Internships Application Periods](/images/careers/2024_2025_internship_application_periods.jpg)
 
 
 **GovTech Internships Selection Process**
