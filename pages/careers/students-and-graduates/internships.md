@@ -25,21 +25,21 @@ We welcome pre-tertiary, polytechnic students and university students to apply f
 
 **GovTech Internships Application Periods**
 
-![GovTech Internships Application Periods](/images/careers/2024-internship-application-periods.png)
+![GovTech Internships Application Periods](/images/careers/2024_2025_internship_application_periods.png)
 
 **GovTech Internships Application Process**
 
-[![GovTech Internships Application Process Step 1](/images/careers/feb2024-internship-application-timeline-applications-open-1.png)]
+[![GovTech Internships Application Process Step 1](/images/careers/aug_2024_internship_application_timeline_closed.png)]
 
 [![GovTech Internships Application Process Step 2](/images/careers/Feb-2024-internship-application-step2.png)]
 
-[![GovTech Internships Application Process Step 3](/images/careers/internship-application-timeline-applications-open-3b.png)]
+[![GovTech Internships Application Process Step 3](/images/careers/internship_application_timeline_3_closed.png)]
 
 ![GovTech Internships Application Process Step 4](/images/careers/Feb-2024-internship-application-step4.png)
 
 **GovTech Internships Selection Process**
 
-![GovTech Internships Selection Process](/images/careers/post-application-process.png)
+![GovTech Internships Selection Process](/images/careers/post_internship_application_process.png)
 
 
 Applications for our internship programme open from 1 August to 30 September 2024. If you are looking for growth, purpose, and fun, apply as a GovTech intern now.
