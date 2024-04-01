@@ -25,4 +25,4 @@ This is a great opportunity to gain insights into various tech domains through w
 We welcome Junior College (or their equivalent) and Polytechnic students to join us at GeekOut.
 Applications for GeekOut 2024 open soon. If you are interested in being a part of GeekOut 2024, follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} or join our [GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified of the next application period.
 
-For enquiries, please write to AreYouIT@tech.gov.sg.
+For enquiries, please email <AreYouIT@tech.gov.sg>.
