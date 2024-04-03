@@ -38,7 +38,7 @@ To help Singaporeans support heartland merchants, the GoWhere team created [CDCV
 
 ## Fostering resilience and preparedness 
 
-Last but not least, this year, the GoWhere team also supported the conduct of the inaugural Exercise SG Ready via [SGReadyGoWhere](https://www.gowhere.gov.sg/sgready/){:target="_blank"}. Held in commemoration of the 40th anniversary of Total Defence, Exercise SG Ready aimed to increase Singapore’s readiness for crises and disruptions. Participating organisations across Singapore simulated disruptions to power, water, food supply, and digital connectivity as well as conducted fire evacuation drills during the two-week exercise period from 15 Feb to 29 Feb. 
+Last but not least, this year, the GoWhere team also supported the conduct of the inaugural Exercise SG Ready via [SGReadyGoWhere](https://www.gowhere.gov.sg/sgready/){:target="_blank"}. Held in commemoration of the 40th anniversary of Total Defence, Exercise SG Ready aimed to increase Singapore’s readiness for crises and disruptions. Participating organisations across Singapore simulated disruptions to power, water, food supply, and digital connectivity and they also conducted fire evacuation drills during the two-week exercise period from 15 Feb to 29 Feb. 
 
 With SGReadyGoWhere, Singaporeans could easily find out the dates, duration and locations of these disruptions during the exercise period. At the same time, Singaporeans can also use the SGReadyGoWhere to locate their nearest Civil Defence shelters in the event of a wartime emergency.
 
