@@ -22,7 +22,7 @@ But since then, the GoWhere team has been busy expanding the GoWhere suite of ca
 
 ## Giving easy access to financial support
 
-There are a lot of support schemes you can tap into, but you might not always be privy to them. And that’s what precisely [SupportGoWhere](https://supportgowhere.life.gov.sg/){:target="_blank"} aims to solve.
+There are a lot of support schemes you can tap into, but you might not always be privy to them. And that’s precisely what [SupportGoWhere](https://supportgowhere.life.gov.sg/){:target="_blank"} aims to solve.
 
 Whether you're a caregiver looking to get [subsidies for mobility and assistive devices](https://supportgowhere.life.gov.sg/schemes/SMF/seniors-mobility-enabling-fund){:target="_blank"} for your loved ones with limited mobility, or parents [looking for temporary housing](https://supportgowhere.life.gov.sg/schemes/PPHS/parenthood-provisional-housing-scheme){:target="_blank"} whilst your BTO is being completed, there’s something for you.
 
