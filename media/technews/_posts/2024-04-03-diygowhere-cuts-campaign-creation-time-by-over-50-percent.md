@@ -48,7 +48,7 @@ While users might appreciate the helpfulness of GoWhere campaigns, they might no
 
 In the past, here’s what creating a GoWhere website would look like:
 
-image
+![Process of creating a GoWhere website in the past](/images/technews/DIYGoWhere-article-infographic.jpg)
 
 The GoWhere team has to liaise with both business users from the public service, and the DCube team (Digital, Design, Development), effectively functioning as the bridge between both parties.
 
