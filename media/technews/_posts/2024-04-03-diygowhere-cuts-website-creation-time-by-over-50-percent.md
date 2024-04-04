@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "DIYGoWhere cuts campaign creation time by over 50%"
-permalink: "/media/technews/diygowhere-cuts-campaign-creation-time-by-over-50-percent"
+title: "DIYGoWhere cuts website creation time by over 50%"
+permalink: "/media/technews/diygowhere-cuts-website-creation-time-by-over-50-percent"
 category: technews
 recommender: true
-image: "images/technews/DIYGoWhere-article-banner.png"
+image: "images/technews/DIYGoWhere-updated-banner.png"
 ---
 
-![DIYGoWhere: Empowering users to build their own campaign](/images/technews/DIYGoWhere-article-banner.png)
+![DIYGoWhere: Empowering users to build their own websites](/images/technews/DIYGoWhere-updated-banner.png)
 
 By now, you’re probably familiar with GoWhere and its multiple campaigns, instantly recognisable by the URL [gowhere.gov.sg/](https://www.gowhere.gov.sg/){:target="_blank"}.
 
@@ -16,7 +16,7 @@ Since the COVID-19 pandemic, GoWhere has offered easy access to services and inf
 But since then, the GoWhere team has been busy expanding the GoWhere suite of campaigns to help Singaporeans in aspects such as:
 
 - Giving easy access to financial support
-- Helping Singaporeans cope with the cost of living pressures
+- Helping Singaporeans support heartland merchants (with CDCVouchersGoWhere)
 - Helping Singaporeans stay active and connected to their community
 - Fostering resilience and preparedness
 
@@ -26,7 +26,7 @@ There are a lot of support schemes you can tap into, but you might not always be
 
 Whether you're a caregiver looking to get [subsidies for mobility and assistive devices](https://supportgowhere.life.gov.sg/schemes/SMF/seniors-mobility-enabling-fund){:target="_blank"} for your loved ones with limited mobility, or parents [looking for temporary housing](https://supportgowhere.life.gov.sg/schemes/PPHS/parenthood-provisional-housing-scheme){:target="_blank"} whilst your BTO is being completed, there’s something for you.
 
-## Helping Singaporeans support heartland merchants
+## Helping Singaporeans support heartland merchants (with CDCVouchersGoWhere)
 
 For a couple of years now, Singapore introduced the CDC (Community Development Council) vouchers to help heartland merchants survive trying business environments. At the same time, the CDC vouchers are also a way to give Singaporeans a way to cope with cost of living pressures. 
 
@@ -42,7 +42,7 @@ Last but not least, this year, the GoWhere team also supported the conduct of th
 
 With SGReadyGoWhere, Singaporeans could easily find out the dates, duration and locations of these disruptions during the exercise period. At the same time, Singaporeans can also use the SGReadyGoWhere to locate their nearest Civil Defence shelters in the event of a wartime emergency.
 
-## But here’s the thing: GoWhere is resource-intensive  
+### But here’s the thing: GoWhere is resource-intensive  
 
 While users might appreciate the helpfulness of GoWhere campaigns, they might not fully appreciate the amount of effort that goes into creating them. Behind the scenes, the GoWhere team deals with multiple parties to collate, coordinate, verify and publish all the information. 
 
@@ -68,7 +68,7 @@ To put it simply, DIYGoWhere promises:
 - Increased speed to market of GoWhere campaigns.
 - Reduced resource involvement & coordination work from all parties.
 
-It is expected that DIYGoWhere will reduce update and launch times to less than a day, with no manpower requirements from the GoWhere team. 
+It is expected that DIYGoWhere will reduce update and launch times to less than a day, with minimal manpower requirements from the GoWhere team. 
 
 ## Unlocking the possibilities
 
