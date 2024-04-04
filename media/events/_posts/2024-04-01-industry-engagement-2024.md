@@ -21,7 +21,6 @@ IE is where GovTech gathers with our industry partners for a meaningful two-way 
 | 9.00 am  | Registration |
 | 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon |
 | 10.15 am | Engagement Sessions with Light Refreshments |
-| 10.30 am | Closed-door Dialogue (By invite only) <br>Closed-door Roundtable (By invite only) |
 | 12 noon  | End of Event |
 
 Save your spot and **register today at** <https://go.gov.sg/ie2024-reg>{:target="_blank"}
@@ -31,4 +30,3 @@ Due to limited capacity, each organisation will be allocated a maximum of 3 seat
 If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}
 
 We look forward to seeing you at the event!
-
