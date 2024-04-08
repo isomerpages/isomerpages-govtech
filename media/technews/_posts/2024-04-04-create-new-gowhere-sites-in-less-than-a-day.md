@@ -11,7 +11,7 @@ image: "images/technews/DIYGoWhere-updated-banner.png"
 
 By now, you’re probably familiar with GoWhere and its multiple campaigns, instantly recognisable by the URL [gowhere.gov.sg/](https://www.gowhere.gov.sg/){:target="_blank"}.
 
-Since the COVID-19 pandemic, GoWhere has offered intuitive location-based search for Government campaigns, services and information. Two classic pandemic examples are VaccineGoWhere, which was instrumental in informing Singaporeans where to get vaccinated and ARTGoWhere which informed the public on where to pick up ART test kits.
+Since the COVID-19 pandemic, GoWhere has offered intuitive location-based search for Government campaigns, services and information. Two classic pandemic examples are VaccineGoWhere, which was instrumental in informing Singaporeans where to get vaccinated and ARTGoWhere, which informed the public on where to pick up ART test kits.
 
 Post-pandemic, the GoWhere team has been supporting multiple campaigns to help Singaporeans in aspects such as:
 
@@ -53,7 +53,7 @@ Given the demand for GoWhere websites, this process quickly became overwhelming 
 
 ## DIYGoWhere – empowering users to build their own GoWhere campaign 
 
-To resolve this, the GoWhere team launched DIYGoWhere, a ground-up initiative that enables business users/agencies to self-update existing GoWhere sites and eventually, they can spin up new GoWhere sites by themselves.
+To resolve this, the GoWhere team launched DIYGoWhere, a ground-up initiative that enables business users/agencies to self-update existing GoWhere sites and eventually, spin up new GoWhere sites by themselves.
 
 Today, DIYGoWhere features a content management system with an approval workflow, translation request and fulfilment tracker, and user management.
 
