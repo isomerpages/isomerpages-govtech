@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create new GoWhere sites in less than a day"
-permalink: "/media/technews/diygowhere-cuts-website-creation-time-by-over-50-percent"
+permalink: "/media/technews/create-new-gowhere-sites-in-less-than-a-day"
 category: technews
 recommender: true
 image: "images/technews/DIYGoWhere-updated-banner.png"
