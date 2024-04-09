@@ -8,22 +8,11 @@ tag: citizens
 thumbnail_image: /images/programmes/products-and-services/SmartNationBuilder.JPG
 ---
 
-Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation journey and various digital government initiatives.
+Visit the Smart Nation Showcases to learn about Singapore’s Smart Nation journey and various digital government initiatives.
 
 * Learn about various Smart Nation initiatives, and how they improve the way we live, work and play.
 * Experience technological innovations through visually engaging and interactive exhibits,
 * Find out how you can co-create digital solutions and play a part in our Smart Nation journey!
-
-
-### **Smart Nation Builder**
-
-![Smart Nation Builder](/images/programmes/products-and-services/SNB_Logo_Colouredv2.png)
-
-The Smart Nation Builder is a roving exhibition with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide input and feedback on how to improve our products and services.
-
-![Smart Nation Builder](/images/programmes/products-and-services/SNB-Infographic.jpg)
-
-That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. *Entry is free of charge.*
 
 ### **Smart Nation CityScape**
 
