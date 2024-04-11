@@ -11,8 +11,8 @@ image: "images/technews/money-budgeting-banner-compressed.jpg"
 
 **Table of contents:**
 - [SGFinDex](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#know-how-much-you-have-with-sgfindex)
-- [BudgetMealGoWhere](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#cheap-coffee-shop-meals–-budgetmealgowhere)
-- [Price Kaki](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#smarter-grocery-shopping–-price-kaki)
+- [BudgetMealGoWhere](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#cheap-coffee-shop-meals--budgetmealgowhere)
+- [Price Kaki](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#smarter-grocery-shopping--price-kaki)
 - [LumiHealth, ActiveSG, Healthy365](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#rewarding-fitness-pursuits--healthy365-lumihealth-and-activesg)
 
 According to a [survey](https://www.scmp.com/news/asia/southeast-asia/article/3238332/singapores-soaring-cost-living-salaries-top-residents-concerns-survey){:target="_blank"} conducted in October 2023, the cost of living is Singaporeans’ top concern. Indeed, the government has been watching the issue closely and introducing [support measures](https://www.channelnewsasia.com/singapore/cash-payouts-cdc-vouchers-singaporeans-cost-living-water-prices-3804691){:target="_blank"} to ease the impact of rising prices for a wide variety of necessities, from [water](https://www.channelnewsasia.com/singapore/water-prices-singapore-increase-two-phases-vouchers-3796726){:target="_blank"} to [groceries at the neighbourhood minimart](https://www.channelnewsasia.com/singapore/minimart-cost-living-supermarket-shoplifters-challenges-3926956){:target="_blank"}.
