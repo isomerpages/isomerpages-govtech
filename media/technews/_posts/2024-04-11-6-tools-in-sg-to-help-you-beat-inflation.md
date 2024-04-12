@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "6 tools in Singapore to help you beat inflation"
+title: "6 tools in Singapore to help you navigate inflation"
 permalink: "/media/technews/6-tools-in-sg-to-help-you-beat-inflation"
 category: technews
 recommender: true
 image: "images/technews/money-budgeting-banner-compressed.jpg"
 ---
 
-![Start saving money and fight inflation with these government-developed apps.](/images/technews/money-budgeting-banner-compressed.jpg)
+![Start saving money and fight inflation with these government-developed apps.](/images/technews/money-budgeting-(2)-compressed.jpg)
 
 **Table of contents:**
 - [SGFinDex](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#know-how-much-you-have-with-sgfindex)
@@ -19,7 +19,7 @@ According to a [survey](https://www.scmp.com/news/asia/southeast-asia/article/32
 
 On our part, it’s prudent to find ways to stretch our budgets and save while we can.   
 
-Fortunately, there are some apps and services out there geared towards making our every dollar count. Read on if you need a hand in beating inflation!
+Fortunately, there are some apps and services out there geared towards making our every dollar count. Read on if you need a hand in navigating inflation!
 
 ## Know how much you have with SGFinDex
 
@@ -69,7 +69,7 @@ Singapore’s overall [core inflation for December 2023](https://www.businesstim
 
 The global economy is still recovering from the effects of the COVID-19 pandemic, while war and geopolitical instability have also contributed to rising prices. 
 
-While these factors are out of our control, we have tools at our disposal to help us weather the tough times. So start saving with these apps and take the fight to inflation!
+While these factors are out of our control, we have tools at our disposal to help us weather the tough times. So start saving with these apps and navigate inflation!
 
 
 
