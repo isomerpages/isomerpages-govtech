@@ -7,7 +7,7 @@ recommender: true
 image: "images/technews/money-budgeting-banner-compressed.jpg"
 ---
 
-![Start saving money and fight inflation with these government-developed apps.](/images/technews/money-budgeting-banner-compressed.jpg)
+![Start saving money and fight inflation with these government-developed apps.](/images/technews/money-budgeting-(2)-compressed.jpg)
 
 **Table of contents:**
 - [SGFinDex](/media/technews/6-tools-in-sg-to-help-you-beat-inflation#know-how-much-you-have-with-sgfindex)
