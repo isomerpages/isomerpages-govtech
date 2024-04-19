@@ -18,7 +18,7 @@ Over the years, Tech Kaki has grown into a dedicated community of over 6,000 mem
 - What motivated him to join
 - What he enjoys about being in the community
 - What keeps him going
- 
+
 ## What initially inspired you to join Tech Kaki?
 
 The first time I knew about Tech Kaki was when I participated in [CrowdTaskSG surveys](https://www.tech.gov.sg/products-and-services/crowdtasksg/){:target="_blank"}; it got me thinking about how I could play a larger role as a citizen contributor.
