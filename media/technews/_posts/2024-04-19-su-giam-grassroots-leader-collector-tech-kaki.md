@@ -25,7 +25,7 @@ The first time I knew about Tech Kaki was when I participated in [CrowdTaskSG su
  
 Later in December 2022, I was asked by a team from GovTech to help with usability ​​testing for [SupportGoWhere](https://supportgowhere.life.gov.sg/){:target="_blank"}.
 
-The test aimed to understand my first-hand experience with an upcoming feature to be launched, which was designed to assist citizens in understanding their eligible financial benefits. We had an hour's discussion about their website prototype, and I gave feedback on the website's usability and the feature's usefulness.
+The purpose of the usability test was to gauge my first-hand experience with an upcoming feature intended to help citizens understand their eligible financial benefits. During the one-hour session, we delved into a discussion about their website prototype and I provided feedback on both the website's usability and the usefulness of the feature.
 
 The experience, along with seeing GovTech's approach to developing technology from an 'outside-in' perspective, spurred me to finally become a part of Tech Kaki in March 2023.
 
@@ -59,7 +59,7 @@ Outside of the expected challenges of vision and hearing, I also noticed a signi
 
 To overcome this, I took the initiative to translate these materials into Mandarin so that the seniors could better understand them.
 
-During the usability test for SupportGoWhere, my prior knowledge of Government Technology (GT) was quite limited. However, this experience ignited a keen interest in understanding how I could actively contribute to shaping Singapore's digital landscape; thus, I joined Tech Kaki.
+Before the usability test for SupportGoWhere, my prior knowledge of Government Technology (GT) was quite limited. However, this experience ignited a keen interest in understanding how I could actively contribute to shaping Singapore's digital landscape; thus, I joined Tech Kaki.
 
 As a grassroots leader, my primary concern has always been the welfare of the residents I serve. I believe in the importance of ensuring their representation in the development of digital products so that no one within the community is left behind. This sense of responsibility and purpose is what drives me to continue contributing. Whether it's making a significant impact or simply playing a small part, the knowledge that I am making a positive difference is my most fulfilling reward.
  
