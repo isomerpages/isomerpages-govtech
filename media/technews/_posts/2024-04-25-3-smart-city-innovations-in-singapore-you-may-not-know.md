@@ -9,7 +9,7 @@ image: "images/technews/3-smart-city-innovations.jpg"
 
 ![3 smart city innovations in Singapore you may not know](/images/technews/3-smart-city-innovations.jpg)
 
-# 3 smart city innovations in Singapore:
+**3 smart city innovations in Singapore:**
 1. [Punggol Digital District](/media/technews/3-smart-city-innovations-in-singapore-you-may-not-know#1-punggol-digital-district)
 2. [Sensei Care Kit](/media/technews/3-smart-city-innovations-in-singapore-you-may-not-know#2-sensei-care-kit)
 3. [Personal Alert Button](/media/technews/3-smart-city-innovations-in-singapore-you-may-not-know#3-personal-alert-button)
