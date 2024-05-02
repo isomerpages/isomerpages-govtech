@@ -43,13 +43,9 @@ While users appreciate the helpfulness of GoWhere campaigns, there is a lot of c
 
 In the past, this is what the GoWhere team had to do:
 
-![Process of creating a GoWhere website in the past](/images/technews/DIYGoWhere-article-infographic.jpg)
-
-The GoWhere team had to liaise with business users, translators and internally within the team to gather requirements and content for the campaign, build the GoWhere site and translate the content. The GoWhere team would function as a bridge between all these parties.
-
-This old process was time-consuming and also required a lot of unnecessary coordination. Getting a GoWhere site up takes an average of about 4 days, and updating it can take an average of 3 days.
-
-Given the demand for GoWhere websites, this process quickly became overwhelming and was no longer effective. Business users should have the right to make these changes on their own.
+- The GoWhere team had to liaise with business users, translators and internally within the team to gather requirements and content for the campaign, build the GoWhere site and translate the content. The GoWhere team would function as a bridge between all these parties.
+- This old process was time-consuming and also required a lot of unnecessary coordination. Getting a GoWhere site up takes an average of about 4 days, and updating it can take an average of 3 days.
+- Given the demand for GoWhere websites, this process quickly became overwhelming and was no longer effective. Business users should have the right to make these changes on their own.
 
 ## DIYGoWhere – empowering users to build their own GoWhere campaign 
 
