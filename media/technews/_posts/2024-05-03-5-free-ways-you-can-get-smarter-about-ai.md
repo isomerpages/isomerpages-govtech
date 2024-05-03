@@ -13,10 +13,10 @@ In this year’s budget, DPM Lawrence Wong described Artificial Intelligence (AI
 
 That said, it’s understandable that one might nurse fears that AI might replace you at the workplace someday. A survey by Microsoft last year showed that two-thirds of Singaporeans are afraid that they’ll lose their jobs due to AI.
 
-So if you’re feeling anxious about AI, harness that energy and learn about how the tech works and what it can do for you. After all, you don’t fear what you understand. 
+So if you’re feeling anxious about AI, harness that energy and learn about how the tech works and what it can do for you. After all, you don’t fear what you understand.
 
 **Here are some tips to empower yourself with AI knowledge:**
-1. [Don’t knock it till you’ve tried it](/media/technews/5-free-ways-you-can-get-smarter-about-ai#1-don-t-knock-it-until-you-ve-tried-it)
+1. [Don’t knock it till you’ve tried it](/media/technews/5-free-ways-you-can-get-smarter-about-ai#1-dont-knock-it-till-youve-tried-it)
 2. [Read up on how AI actually works](/media/technews/5-free-ways-you-can-get-smarter-about-ai#2-read-up-on-how-ai-actually-works)
 3. [Discover how AI projects are pulled off](/media/technews/5-free-ways-you-can-get-smarter-about-ai#3-discover-how-ai-projects-are-pulled-off)
 4. [Join communities with an interest in AI and tech](/media/technews/5-free-ways-you-can-get-smarter-about-ai#4-join-communities-with-an-interest-in-ai-and-tech)
