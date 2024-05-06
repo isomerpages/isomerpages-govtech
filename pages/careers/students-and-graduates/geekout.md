@@ -25,6 +25,6 @@ This is a great opportunity to gain insights into various tech domains through w
 
 We welcome Junior College (or their equivalent) and Polytechnic students to join us at GeekOut.
 
-Applications for GeekOut 2024 open from 9 April to 30 April 2024. If you are interested in being a part of our annual tech bootcamp, [apply for GeekOut](https://go.gov.sg/apply-geekout2024){:target="_blank"} now.
+Applications for GeekOut 2024 have closed. If you are interested in being a part of GeekOut 2025, follow us on [social media](https://linktr.ee/GovTechSG){:target="_blank"} or join our [Talent Community](http://go.gov.sg/govtechtalentcommunity){:target="_blank"} to be notified of the next application period.
 
 For enquiries, please email <AreYouIT@tech.gov.sg>.
