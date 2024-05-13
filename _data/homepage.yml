@@ -25,13 +25,13 @@ button:
     
 # Key Highlights
 key-highlights:
+  - title: ICT & SS POLICY REFORM
+    description: Transforming policy controls to be lean, relevant, and effective
+    url: https://go.gov.sg/tech-standards
+    external: true 
   - title: PRODUCTS AND SERVICES
     description: Programmes for citizens, businesses and government agencies
     url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
-    external: true 
-  - title: DIGITAL GOVERNMENT BLUEPRINT
-    description: A Government that is "Digital to the Core, and Serves with Heart"
-    url: https://www.tech.gov.sg/digital-government-blueprint/?utm_source=hero_banner
     external: true 
   - title: SUBSCRIBE TO TECHNEWS
     description: Get the latest tech stories and updates from GovTech
