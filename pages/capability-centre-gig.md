@@ -26,7 +26,7 @@ The 'Cloud Infrastructure Engineer' and 'Cloud Infra Architect' are key job role
 
 ![Government ICT Infrastructure Quotes](/images/Daryl-Chee-GIG-resized.jpg)
 
-![Government ICT Infrastructure Quotes](/images/Koh-Lay-Hian-GIG-2.png)
+![Government ICT Infrastructure Quotes](/images/Koh-Lay-Hian-GIG-3.png)
 
 ![Government ICT Infrastructure Quotes](/images/Karthik-GIG-resized.jpg)
 
