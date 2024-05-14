@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle: 
-hero-banner: /images/GovTech_IE2024_HomePageBanner_V7.png
+hero-banner: /images/homepage-generic.jpg
 
 #Call to Action Button
 button:
-  - text: Register here
-    url: https://www.gevme.com/industry-engagement-2024
+  - text: WHO WE ARE
+    url: https://www.tech.gov.sg/who-we-are/our-role/
     
 # Key Highlights
 key-highlights:

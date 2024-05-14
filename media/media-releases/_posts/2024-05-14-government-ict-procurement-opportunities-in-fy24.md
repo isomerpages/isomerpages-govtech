@@ -5,8 +5,6 @@ permalink: /media/media-releases/2024-05-14-government-ict-procurement-opportuni
 date: 2024-05-14
 ---
 
-## $3.3 billion of government ICT procurement opportunities in FY24 to modernise ICT infrastructure and develop digital services
-
 SINGAPORE, 14 MAY 2024
 <br>
 * $2.1 billion to be invested in the modernisation of infrastructure to meet evolving cybersecurity challenges and maintain public trust
