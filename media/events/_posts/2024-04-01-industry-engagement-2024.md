@@ -25,7 +25,7 @@ More details on the announcements are found in the [media release](https://www.t
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=cdYU2N3flHdSHdI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;"> <iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=R4W_Uwk86dp69wMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}.
 
