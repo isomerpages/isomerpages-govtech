@@ -16,7 +16,7 @@ More details on the announcements are found in the [media release](https://www.t
 ## Event Details:
 **Date:** 14 May 2024, Tuesday
 <br>**Time:** 9.00 am to 12 noon
-<br>**Venue:** Suntec Convention Centre
+<br>**Venue:** Summit 1, Level 3, Suntec Convention Centre
 
 ### Programme:
 
