@@ -20,11 +20,6 @@ More details on the announcements are found in the [media release](https://www.t
 
 ### Programme:
 
-**Opening Address:**
-
-[Industry Engagement 2024 Opening Address deck](/files/industry-engagement-2024-opening-address.pdf){:target="_blank"}
-<iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=R4W_Uwk86dp69wMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <table class="tg">
 <thead>
   <tr>
@@ -51,6 +46,11 @@ More details on the announcements are found in the [media release](https://www.t
   </tr>
 </tbody>
 </table>
+
+**Opening Address:**
+
+[Industry Engagement 2024 Opening Address deck](/files/industry-engagement-2024-opening-address.pdf){:target="_blank"}
+<iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=R4W_Uwk86dp69wMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}.
 
