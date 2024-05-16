@@ -11,6 +11,8 @@ Industry Briefing has been rebranded as Industry Engagement (IE) to better refle
 
 IE is where GovTech gathers with our industry partners for a meaningful two-way dialogue-sharing from industry partners about their expertise, and how this might address changing citizens’ and businesses' needs.
 
+More details on the announcements are found in the [media release](https://www.tech.gov.sg/media/media-releases/2024-05-14-government-ict-procurement-opportunities-in-fy24){:target="_blank"}.
+
 ## Event Details:
 **Date:** 14 May 2024, Tuesday
 <br>**Time:** 9.00 am to 12 noon
@@ -19,7 +21,7 @@ IE is where GovTech gathers with our industry partners for a meaningful two-way 
 | Time | Programme |
 | ----------- | ----------- |
 | 9.00 am  | Registration |
-| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon |
+| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br>[Industry Engagement 2024 Opening Address](/files/Industry Engagement 2024 Opening Address.pdf)<br>[Industry Engagement 2024 - Opening Address slide deck](https://www.youtube.com/watch?v=aEgsYHFy1CQ){:target="_blank"} |
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
