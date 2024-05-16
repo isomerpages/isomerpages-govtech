@@ -25,8 +25,13 @@ More details on the announcements are found in the [media release](https://www.t
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
-<br>
-<div style="display: flex; justify-content: center;"> <iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=R4W_Uwk86dp69wMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+### Programme:
+
+**9.00 am:** Registration
+**9.30 am:** Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br><br>[Industry Engagement 2024 Opening Address slide deck](/files/Industry Engagement 2024 Opening Address.pdf){:target="_blank"}
+<br><div style="display: flex; justify-content: center;"> <iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=R4W_Uwk86dp69wMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+**10.15 am:** Engagement Sessions with Light Refreshments
+**12 noon:** End of Event
 
 If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}.
 
