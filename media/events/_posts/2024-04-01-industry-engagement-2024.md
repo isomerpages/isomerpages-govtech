@@ -25,10 +25,10 @@ More details on the announcements are found in the [media release](https://www.t
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
-Save your spot and **register today at** <https://go.gov.sg/ie2024-reg>{:target="_blank"}
+Save your spot and **register today at** <https://go.gov.sg/ie2024-reg>{:target="_blank"}.
 
 Due to limited capacity, each organisation will be allocated a maximum of 3 seats.
 
-If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}
+If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}.
 
 We look forward to seeing you at the event!
