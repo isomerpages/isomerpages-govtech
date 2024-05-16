@@ -21,7 +21,7 @@ More details on the announcements are found in the [media release](https://www.t
 | Time | Programme |
 | ----------- | ----------- |
 | 9.00 am  | Registration |
-| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br><br>[Industry Engagement 2024 Opening Address slide deck](/files/Industry Engagement 2024 Opening Address.pdf){:target="_blank"}<br><br>[Industry Engagement 2024 - Opening Address](https://www.youtube.com/watch?v=aEgsYHFy1CQ){:target="_blank"} |
+| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br><br>[Industry Engagement 2024 Opening Address slide deck](/files/Industry Engagement 2024 Opening Address.pdf){:target="_blank"}<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=cdYU2N3flHdSHdI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
