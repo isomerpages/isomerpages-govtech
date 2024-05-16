@@ -21,13 +21,11 @@ More details on the announcements are found in the [media release](https://www.t
 | Time | Programme |
 | ----------- | ----------- |
 | 9.00 am  | Registration |
-| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br><br>[Industry Engagement 2024 Opening Address slide deck](/files/Industry Engagement 2024 Opening Address.pdf){:target="_blank"}<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=cdYU2N3flHdSHdI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
+| 9.30 am  | Opening Remarks from GovTech’s Chief Executive, Goh Wei Boon<br><br>[Industry Engagement 2024 Opening Address slide deck](/files/Industry Engagement 2024 Opening Address.pdf){:target="_blank"} |
 | 10.15 am | Engagement Sessions with Light Refreshments |
 | 12 noon  | End of Event |
 
-Save your spot and **register today at** <https://go.gov.sg/ie2024-reg>{:target="_blank"}.
-
-Due to limited capacity, each organisation will be allocated a maximum of 3 seats.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=cdYU2N3flHdSHdI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If you have enquiries, please contact our event management partner at <tm_events@adventurers.com.sg>{:target="_blank"}.
 
