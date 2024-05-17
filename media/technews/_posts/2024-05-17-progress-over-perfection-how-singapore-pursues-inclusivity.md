@@ -22,7 +22,7 @@ But beyond the stats, there’s a certain method to how we approach things. Sing
 
 Due to the dynamic nature of digital development, we adopt an accretive and agile approach when it comes to the development of our digital products. This means prioritising continuous improvement to meet the changing needs of all users in hopes of preventing a digital divide.
 
-One such example is the Singpass app – since its launch in 2018, the app has undergone numerous enhancements to make it more user-friendly for everyone.
+One such example is the Singpass app — since its launch in 2018, the app has undergone numerous enhancements to make it more user-friendly for everyone.
 
 For instance, in 2020, we introduced the [Multi-User SMS 2FA](https://www.tech.gov.sg/media/media-releases/2020-12-16-singpass-2fa){:target="_blank"}, allowing users who require assistance to transact online securely. Then, we further expanded the app's [language support in 2022](https://www.tech.gov.sg/media/technews/how-singpass-learnt-three-languages){:target="_blank"} to include more Mother Tongues, making it accessible to a wider audience. In addition, accessibility features like dark mode and screen-reader support were added to make app navigation seamless for visually impaired users.
 
@@ -44,7 +44,7 @@ One particular project we’re extremely proud of is [Purple A11y](https://www.d
 
 Since its launch in July 2023, it has fixed 6.4 million accessibility issues and scanned over 500,000 websites worldwide, with 57% being Singapore-based pages and 43% from everywhere else in the world. 
 
-Purple A11y currently plays a key role in identifying and suggesting mitigating ways to resolve potential accessibility issues on government websites – think agencies like MOE, IRAS, and NEA! In addition, government agencies are also guided by the [Digital Service Standards (DSS)](https://www.tech.gov.sg/digital-service-standards/){:target="_blank"} when designing digital services. The idea is to make products that are accessible, inclusive, usable, and relevant. 
+Purple A11y currently plays a key role in identifying and suggesting mitigating ways to resolve potential accessibility issues on government websites — think agencies like MOE, IRAS, and NEA! In addition, government agencies are also guided by the [Digital Service Standards (DSS)](https://www.tech.gov.sg/digital-service-standards/){:target="_blank"} when designing digital services. The idea is to make products that are accessible, inclusive, usable, and relevant. 
 
 Last but not least, our [Tech Kaki community](https://www.tech.gov.sg/products-and-services/tech-kaki-community/){:target="_blank"} allows citizens to actively participate in evaluating the accessibility of digital services, providing valuable feedback to us.
 
