@@ -11,7 +11,7 @@ image: "images/technews/progress-over-perfection-how-singapore-pursues-inclusivi
 
 In a world that is increasingly digital, leaving anyone behind is not an option. This is particularly true in Singapore, where we have a rapidly ageing population. In 2023, nearly one-fifth of Singapore's population was elderly. 
 
-But it's not just about age—vulnerable communities of all kinds need to be considered as technology becomes more deeply ingrained in daily life.
+But it's not just about age — vulnerable communities of all kinds need to be considered as technology becomes more deeply ingrained in daily life.
 That’s why at GovTech, we believe that digital services are for everyone. This is why by 2030, we’re aiming to ensure that all high-traffic government websites are accessible to persons with disabilities.
 
 As of 2023, we’re at 73% — up 10% from the previous year.
@@ -44,7 +44,7 @@ One particular project we’re extremely proud of is [Purple A11y](https://www.d
 
 Since its launch in July 2023, it has fixed 6.4 million accessibility issues and scanned over 500,000 websites worldwide, with 57% being Singapore-based pages and 43% from everywhere else in the world. 
 
-Purple A11y currently plays a key role in identifying and suggesting mitigating ways to resolve potential accessibility issues on government websites  – think agencies like MOE, IRAS, and NEA! In addition, government agencies are also guided by the [Digital Service Standards (DSS)](https://www.tech.gov.sg/digital-service-standards/){:target="_blank"} when designing digital services. The idea is to make products that are accessible, inclusive, usable, and relevant. 
+Purple A11y currently plays a key role in identifying and suggesting mitigating ways to resolve potential accessibility issues on government websites – think agencies like MOE, IRAS, and NEA! In addition, government agencies are also guided by the [Digital Service Standards (DSS)](https://www.tech.gov.sg/digital-service-standards/){:target="_blank"} when designing digital services. The idea is to make products that are accessible, inclusive, usable, and relevant. 
 
 Last but not least, our [Tech Kaki community](https://www.tech.gov.sg/products-and-services/tech-kaki-community/){:target="_blank"} allows citizens to actively participate in evaluating the accessibility of digital services, providing valuable feedback to us.
 
