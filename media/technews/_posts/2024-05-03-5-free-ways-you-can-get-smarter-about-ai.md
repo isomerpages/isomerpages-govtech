@@ -9,7 +9,7 @@ image: "images/technews/5-free-ways-you-can-get-smarter-about-AI-compressed.jpg"
 
 ![5 free ways you can get smarter about AI.](/images/technews/5-free-ways-you-can-get-smarter-about-AI-compressed.jpg)
 
-In this year’s budget, DPM Lawrence Wong described Artificial Intelligence (AI) not just as ChatGPT or Large Language Models, but rather as a key technology of the future – comparing it to technological breakthroughs such as the electricity, or the internal combustion engine.
+In this year’s budget, PM Lawrence Wong described Artificial Intelligence (AI) not just as ChatGPT or Large Language Models, but rather as a key technology of the future – comparing it to technological breakthroughs such as the electricity, or the internal combustion engine.
 
 That said, it’s understandable that one might nurse fears that AI might replace you at the workplace someday. A survey by Microsoft last year showed that two-thirds of Singaporeans are afraid that they’ll lose their jobs due to AI.
 
