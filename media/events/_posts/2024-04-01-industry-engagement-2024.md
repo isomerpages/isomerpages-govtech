@@ -5,7 +5,7 @@ permalink: "/media/events/industry-engagement-2024"
 category: events
 ---
 
-[![GovTech Industry Engagement 2024](/images/media/events/GovTech_IE2024_EventsPageBanner_V5.png)](https://go.gov.sg/ie2024-reg){:target="_blank"}
+![GovTech Industry Engagement 2024](/images/media/events/IE2024-post-event-banner.png)
 
 Industry Briefing has been rebranded as Industry Engagement (IE) to better reflect its new ambition to foster deeper ties and valuable collaborations with the industry. 
 
