@@ -65,7 +65,7 @@ As countries around the world grapple with the digital divide, let’s do our be
 
 Well, in the digital era, we’ll go one step further and add ability to that list. 
 
-Read more about how we’re approaching [Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"} in the public sector, or learn more about our [Digital Government Blueprint](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"} – our ambition to better leverage data and harness new technologies, as well as build a digital economy and digital society.
+Click the links to read more about how we’re approaching [Digital Government Transformation](https://www.tech.gov.sg/digital-government-transformation/){:target="_blank"} in the public sector, or learn more about our [Digital Government Blueprint](https://www.tech.gov.sg/digital-government-blueprint/){:target="_blank"} – our ambition to better leverage data and harness new technologies, as well as build a digital economy and digital society.
 
 
 
