@@ -42,7 +42,7 @@ All organisations have blindspots, but we try to minimise ours by constantly lea
 
 One particular project we’re extremely proud of is [Purple A11y](https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html){:target="_blank"}, an open-source automated testing tool developed by our [A11y Team](https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/meet-the-team){:target="_blank"}. The tool is even listed internationally on the Digital Public Good Registry by the [Digital Public Goods Alliance](https://digitalpublicgoods.net/registry/digit.html){:target="_blank"}!
 
-Since its launch in July 2023, it has fixed 6.4 million accessibility issues and scanned over 500,000 websites worldwide, with 57% being Singapore-based pages and 43% from everywhere else in the world. 
+Since its launch in July 2023, it has identified 6.4 million accessibility issues and scanned over 500,000 websites worldwide, with 57% being Singapore-based pages and 43% from everywhere else in the world. 
 
 Purple A11y currently plays a key role in identifying and suggesting mitigating ways to resolve potential accessibility issues on government websites — think agencies like MOE, IRAS, and NEA! In addition, government agencies are also guided by the [Digital Service Standards (DSS)](https://www.tech.gov.sg/digital-service-standards/){:target="_blank"} when designing digital services. The idea is to make products that are accessible, inclusive, usable, and relevant. 
 
