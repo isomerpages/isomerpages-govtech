@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ATxSummit Showcase 2024"
+permalink: "/media/events/atxsummit-showcase-2024"
+category: events
+---
+
+Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event organised by the Infocomm Media Development Authority (IMDA). GovTech and Open Government Products will be participating to showcase our efforts in anti-scam measures, digital inclusivity, supporting an ageing population, and the digital backbone of a Smart City district. These products exemplify GovTech's commitment to engineering a digital government and delivering tech for the public good. 
+
+**Event Details**  
+Date: 30 – 31 May 2024 
+Venue: Capella Singapore
+
+**Products Showcase**
+
+| Product | Details |
+|----------|---------------------------------------------------------------|
+| <image>  | **recursive Machine Learning Site Evaluation (rMSE):** <br>With increasing digitalisation, citizens are also increasingly vulnerable to malicious actors online. With the rise in scam cases in recent times, GovTech seeks to keep citizens safe from possible scams through the development of the Scam Website Classifier (rMSE). This powerful tool enables the government to identify scam websites at scale. |
+| <image>  | **Purple A11y:** <br>While we adopt a digital-first approach, we are always mindful of building products that are inclusive and meet different needs. We want to ensure that no one is left behind in our digital push. With this in mind, we have developed Purple A11y, an automated testing tool which scans webpages for potential accessibility issues and suggests potential fixes. |
+| <image> | **Health Appointment System:** <br>Singapore faces the challenges of an ageing population like many other mature economies, with healthcare and inclusivity important concerns. OGP developed the Health Appointment System, which allows citizens to easily make appointments for recommended vaccinations and health screenings. This easy-to-use tool boosts vaccination rates among citizens and empowers them to take control of their health. |
+| <image>  | **Open Digital Platform:** <br>The Open Digital Platform (ODP) integrates various district management operations into a single smart city operating system. It facilitates Singapore’s Smart Nation ambitions by enabling the seamless integration of sensors and systems to gather real-time data on building functions and environmental conditions, ultimately driving the potential to enhance citizens' quality of life through technology and data-driven decision-making. |
+
+
+
