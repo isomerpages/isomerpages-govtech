@@ -9,7 +9,7 @@ Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event organised by the I
 
 **Event Details**  
 Date: 30 – 31 May 2024 
-Venue: Capella Singapore
+<br>Venue: Capella Singapore
 
 **Products Showcase**
 
