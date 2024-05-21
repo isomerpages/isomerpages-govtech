@@ -5,6 +5,8 @@ permalink: "/media/events/atxsummit-showcase-2024"
 category: events
 ---
 
+![ATxSummit showcase 2024: Redefining tech for a better future.](/images/media/events/atx-summit-banner.jpg)
+
 Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event organised by the Infocomm Media Development Authority (IMDA). GovTech and Open Government Products will be participating to showcase our efforts in anti-scam measures, digital inclusivity, supporting an ageing population, and the digital backbone of a Smart City district. These products exemplify GovTech's commitment to engineering a digital government and delivering tech for the public good. 
 
 **Event Details**  
