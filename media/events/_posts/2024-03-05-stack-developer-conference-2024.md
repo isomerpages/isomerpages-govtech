@@ -17,4 +17,4 @@ We're looking for speakers to share your proposals if you would like to:
 
 For more details, visit the [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html) today!
 
-*Closing date for proposals submission: 17 May 2024*
+*Closing date for proposals submission: 12 July 2024*
