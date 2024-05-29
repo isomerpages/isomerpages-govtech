@@ -16,12 +16,12 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-title: 
 hero-subtitle: 
-hero-banner: /images/homepage-generic.jpg
+hero-banner: /images/DSA2024_GTBanner.jpg
 
 #Call to Action Button
 button:
-  - text: WHO WE ARE
-    url: https://www.tech.gov.sg/who-we-are/our-role/
+  - text: SUBMIT NOMINATIONS
+    url: https://go.gov.sg/digitalservicesawards-2024
     
 # Key Highlights
 key-highlights:
