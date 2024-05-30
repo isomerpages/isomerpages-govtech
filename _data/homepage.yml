@@ -20,7 +20,7 @@ hero-banner: /images/DSA2024_GTBanner.jpg
 
 #Call to Action Button
 button:
-  - text: SUBMIT NOMINATIONS
+  - text: SUBMIT NOW
     url: https://go.gov.sg/digitalservicesawards-2024
     
 # Key Highlights
