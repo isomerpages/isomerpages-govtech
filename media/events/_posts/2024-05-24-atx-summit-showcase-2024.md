@@ -23,6 +23,8 @@ Date: 30 – 31 May 2024
 | ![Top-down view of the smart city district with ODP.](/images/media/events/ODP-new-3000x2000.jpg) | [**Open Digital Platform:**](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html){:target="_blank"} <br>The Open Digital Platform (ODP) integrates various district management operations into a single smart city operating system. It facilitates Singapore’s Smart Nation ambitions by enabling the seamless integration of sensors and systems to gather real-time data on building functions and environmental conditions, ultimately driving the potential to enhance citizens' quality of life through technology and data-driven decision-making. |
 
 <br>
+**ATxSummit 2024 Highlights:**
+<br>
 <iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/tGJnX5pqHHY?si=NUL3fa3MAyMdTbDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch to find out what foreign delegates shared about how these innovative solutions are not just inspiring, but also serve as potential solutions to pressing issues in their countries, such as combating scams and building Smart Cities.
