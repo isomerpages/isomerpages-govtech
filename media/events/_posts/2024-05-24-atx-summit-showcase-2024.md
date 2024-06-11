@@ -10,7 +10,7 @@ category: events
 [Asia Tech x Singapore (ATxSG)](https://asiatechxsg.com/){:target="_blank"} is Asia’s flagship tech event organised by the Infocomm Media Development Authority (IMDA). GovTech and Open Government Products will be participating to showcase our efforts in anti-scam measures, digital inclusivity, supporting an ageing population, and the digital backbone of a Smart City district. These products exemplify GovTech's commitment to engineering a digital government and delivering tech for the public good. 
 
 **Event Details**
-Date: 30 – 31 May 2024 
+<br>Date: 30 – 31 May 2024 
 <br>Venue: Capella Singapore
 
 **Digital Government Products Showcase**
