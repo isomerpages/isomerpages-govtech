@@ -24,4 +24,4 @@ Date: 30 – 31 May 2024
 <br>
 <iframe style="max-width: 100%;" width="100%" height="400" src="https://www.youtube.com/embed/tGJnX5pqHHY?si=NUL3fa3MAyMdTbDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Watch to find out what foreign delegates shared about how these innovative solutions are inspiring and potential solutions to pressing issues in their countries, such as combating scams and building Smart Cities.
+Watch to find out what foreign delegates shared about how these innovative solutions are not just inspiring, but also potential solutions to pressing issues in their countries, such as combating scams and building Smart Cities.
